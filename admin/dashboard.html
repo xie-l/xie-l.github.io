@@ -335,6 +335,7 @@
                 <div class="nav-links">
                     <a href="#" class="nav-link active" data-section="blog">撰写博客</a>
                     <a href="#" class="nav-link" data-section="files">上传文件</a>
+                    <a href="#" class="nav-link" data-section="profile">修改信息</a>
                     <a href="#" class="nav-link" data-section="settings">设置</a>
                 </div>
                 <button class="logout-btn" onclick="logout()">
@@ -429,6 +430,84 @@
             <div id="file-list" class="file-list"></div>
         </section>
 
+        <!-- 修改个人信息 -->
+        <section id="profile-section" class="admin-section">
+            <div class="section-header">
+                <h3>修改个人信息</h3>
+                <p>编辑主页的个人信息、教育背景、科研成果等内容</p>
+            </div>
+            
+            <div id="profile-alert" class="alert"></div>
+            
+            <div class="blog-editor">
+                <form id="profileForm">
+                    <div class="form-group">
+                        <label class="form-label" for="profile-name">姓名</label>
+                        <input type="text" id="profile-name" class="form-input" placeholder="请输入姓名" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-title">职称/学位</label>
+                        <input type="text" id="profile-title" class="form-input" placeholder="例如：工学博士" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-bio">个人简介</label>
+                        <textarea id="profile-bio" class="form-textarea" rows="6" placeholder="请输入个人简介" required></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-tags">标签（用逗号分隔）</label>
+                        <input type="text" id="profile-tags" class="form-input" placeholder="例如：电催化制氢, 机器学习">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-email">邮箱</label>
+                        <input type="email" id="profile-email" class="form-input" placeholder="请输入邮箱">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-phone">电话</label>
+                        <input type="tel" id="profile-phone" class="form-input" placeholder="请输入电话">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-address">地址</label>
+                        <input type="text" id="profile-address" class="form-input" placeholder="请输入地址">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-education">教育背景（Markdown格式）</label>
+                        <textarea id="profile-education" class="form-textarea" rows="8" placeholder="请输入教育背景，支持Markdown格式"></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-projects">科研项目（Markdown格式）</label>
+                        <textarea id="profile-projects" class="form-textarea" rows="8" placeholder="请输入科研项目，支持Markdown格式"></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-publications">发表论文（Markdown格式）</label>
+                        <textarea id="profile-publications" class="form-textarea" rows="8" placeholder="请输入发表论文，支持Markdown格式"></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label class="form-label" for="profile-skills">个人技能（Markdown格式）</label>
+                        <textarea id="profile-skills" class="form-textarea" rows="6" placeholder="请输入个人技能，支持Markdown格式"></textarea>
+                    </div>
+                    
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-secondary" onclick="previewProfile()">
+                            <i class="fas fa-eye"></i> 预览
+                        </button>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-save"></i> 保存并更新主页
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </section>
+
         <!-- 设置 -->
         <section id="settings-section" class="admin-section">
             <div class="section-header">
@@ -460,6 +539,7 @@
         </section>
     </div>
 
+    <script src="profile-template.js"></script>
     <script src="main.js"></script>
 </body>
 </html>
