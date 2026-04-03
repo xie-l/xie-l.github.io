@@ -83,6 +83,8 @@ cd personal-homepage
 
 将你的头像图片（推荐150x150像素）放入 `img/` 目录，命名为 `avatar.jpg`，或者修改HTML中的图片引用路径。
 
+**头像显示优化**：头像已自动居中显示，如果你的头像显示不完整，可以在 `css/style.css` 中调整 `.avatar-container` 的 `margin` 值。
+
 详见 `img/README.md` 文件。
 
 ## 部署到 GitHub Pages
@@ -181,9 +183,57 @@ git push -u origin main
 
 ## 更新你的个人主页
 
+## 新功能使用指南
+
+### 📔 个人日记系统
+
+现在你可以在 `blog/` 目录下撰写个人日记和思考：
+
+1. **访问日记主页**：点击导航栏的"日记"链接
+2. **选择分类**：
+   - **技术思考**：记录编程心得、技术探索、项目总结
+   - **生活日记**：记录日常生活、读书感悟、成长记录
+3. **添加新文章**：
+   - 复制现有的 `blog/tech/index.html` 或 `blog/life/index.html` 文件
+   - 重命名为新的文件名（如 `my-first-post.html`）
+   - 修改标题和内容
+   - 在列表页面添加链接指向新文章
+
+### 📁 文件管理中心
+
+在 `files/` 目录可以方便地管理文件和照片：
+
+1. **上传文件**：
+   - 照片：放入 `files/photos/` 目录
+   - 文档：放入 `files/documents/` 目录
+   - 支持格式：JPG, PNG, GIF, PDF, Word, Excel, PPT等
+
+2. **管理文件**：
+   ```bash
+   # 添加新文件到Git
+   git add files/photos/my-photo.jpg
+   git add files/documents/my-document.pdf
+   
+   # 提交更改
+   git commit -m "添加新照片和文档"
+   
+   # 推送到GitHub
+   git push origin main
+   ```
+
+3. **访问文件**：上传后，通过导航栏的"文件"链接访问文件管理中心
+
+### 🎨 界面优化
+
+- **浏览器图标**：已添加个性化的favicon，浏览器标签页会显示👤图标
+- **头像居中**：头像现在完美居中显示，不会被遮挡
+- **丝滑滚动**：左侧个人资料卡片滚动更加流畅自然
+
+## 更新你的个人主页
+
 要更新内容，只需：
 
-1. 修改本地文件
+1. 修改本地文件（主页、日记、添加新文件等）
 2. 提交更改：
    ```bash
    git add .
@@ -191,6 +241,25 @@ git push -u origin main
    git push origin main
    ```
 3. 等待几分钟，GitHub Pages 会自动更新
+
+### 快速更新常用内容
+
+```bash
+# 更新日记
+git add blog/
+git commit -m "添加新日记"
+git push origin main
+
+# 上传新照片
+git add files/photos/
+git commit -m "上传新照片"
+git push origin main
+
+# 更新文档
+git add files/documents/
+git commit -m "更新文档"
+git push origin main
+```
 
 ## 自定义域名（可选）
 
@@ -231,6 +300,18 @@ personal-homepage/
 ├── img/
 │   ├── avatar.jpg      # 头像图片（需要添加）
 │   └── README.md       # 图片使用说明
+├── blog/               # 个人日记和博客
+│   ├── index.html      # 日记主页
+│   ├── tech/           # 技术思考
+│   │   └── index.html
+│   └── life/           # 生活日记
+│       └── index.html
+├── files/              # 文件管理中心
+│   ├── index.html      # 文件管理主页
+│   ├── photos/         # 照片相册
+│   │   └── index.html
+│   └── documents/      # 文档资料
+│       └── index.html
 └── README.md           # 此文件
 ```
 

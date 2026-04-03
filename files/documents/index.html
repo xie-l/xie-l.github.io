@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文档资料 - 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📄</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .docs-container {
+            max-width: 1200px;
+            margin: 100px auto 50px;
+            padding: 0 20px;
+        }
+        .docs-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .docs-header h1 {
+            font-size: 32px;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        .docs-header p {
+            color: var(--text-light);
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+        .back-link:hover {
+            color: var(--primary-color);
+        }
+        .upload-tip {
+            background: #e3f2fd;
+            border-left: 4px solid var(--secondary-color);
+            padding: 15px;
+            margin-bottom: 30px;
+            border-radius: 5px;
+        }
+        .upload-tip p {
+            margin: 0;
+            color: var(--text-color);
+        }
+        .upload-tip code {
+            background: rgba(0,0,0,0.05);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        .doc-list {
+            display: grid;
+            gap: 15px;
+            margin-top: 30px;
+        }
+        .doc-item {
+            background: var(--card-bg);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .doc-item:hover {
+            transform: translateX(5px);
+            box-shadow: var(--shadow-hover);
+        }
+        .doc-icon {
+            font-size: 36px;
+            color: var(--secondary-color);
+            flex-shrink: 0;
+        }
+        .doc-info {
+            flex: 1;
+        }
+        .doc-name {
+            font-size: 16px;
+            color: var(--primary-color);
+            margin-bottom: 5px;
+            word-break: break-all;
+        }
+        .doc-meta {
+            font-size: 14px;
+            color: var(--text-light);
+        }
+        .doc-size {
+            font-size: 14px;
+            color: var(--text-light);
+            margin-left: auto;
+        }
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-light);
+        }
+        .empty-state i {
+            font-size: 64px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+        .empty-state h3 {
+            margin-bottom: 10px;
+            color: var(--primary-color);
+        }
+        .supported-formats {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: var(--shadow);
+            margin-top: 40px;
+        }
+        .supported-formats h2 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+        }
+        .format-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+        .format-item {
+            text-align: center;
+            padding: 15px;
+            background: var(--bg-color);
+            border-radius: 10px;
+        }
+        .format-item i {
+            font-size: 32px;
+            color: var(--secondary-color);
+            margin-bottom: 10px;
+        }
+        .format-name {
+            font-size: 14px;
+            color: var(--text-color);
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="docs-container">
+        <a href="../" class="back-link">
+            <i class="fas fa-arrow-left"></i> 返回文件管理
+        </a>
+
+        <div class="docs-header">
+            <h1>文档资料</h1>
+            <p>管理和浏览各类文档文件</p>
+        </div>
+
+        <div class="upload-tip">
+            <p><i class="fas fa-info-circle"></i> <strong>提示：</strong>要上传文档，请将文件放入 <code>files/documents/</code> 目录，然后使用Git提交并推送。</p>
+        </div>
+
+        <div class="doc-list">
+            <div class="empty-state">
+                <i class="fas fa-file-alt"></i>
+                <h3>暂无文档</h3>
+                <p>上传您的第一个文档吧！</p>
+            </div>
+        </div>
+
+        <div class="supported-formats">
+            <h2>支持的文档格式</h2>
+            <div class="format-grid">
+                <div class="format-item">
+                    <i class="fas fa-file-pdf"></i>
+                    <div class="format-name">PDF</div>
+                </div>
+                <div class="format-item">
+                    <i class="fas fa-file-word"></i>
+                    <div class="format-name">Word</div>
+                </div>
+                <div class="format-item">
+                    <i class="fas fa-file-excel"></i>
+                    <div class="format-name">Excel</div>
+                </div>
+                <div class="format-item">
+                    <i class="fas fa-file-powerpoint"></i>
+                    <div class="format-name">PowerPoint</div>
+                </div>
+                <div class="format-item">
+                    <i class="fas fa-file-text"></i>
+                    <div class="format-name">文本文件</div>
+                </div>
+                <div class="format-item">
+                    <i class="fas fa-file-archive"></i>
+                    <div class="format-name">压缩文件</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 谢亮. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
