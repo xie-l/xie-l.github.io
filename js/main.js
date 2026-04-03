@@ -180,54 +180,20 @@ document.addEventListener('DOMContentLoaded', function() {
         type();
     }
     
-    // 页面加载完成后执行一些初始化动画
+    // 页面加载完成后执行顶部个人信息区域动画
     setTimeout(() => {
-        const profileCard = document.querySelector('.profile-card');
-        if (profileCard) {
-            profileCard.style.opacity = '0';
-            profileCard.style.transform = 'translateY(-20px)';
-            profileCard.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        const profileHeader = document.querySelector('.profile-header');
+        if (profileHeader) {
+            profileHeader.style.opacity = '0';
+            profileHeader.style.transform = 'translateY(-30px)';
+            profileHeader.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
             
             setTimeout(() => {
-                profileCard.style.opacity = '1';
-                profileCard.style.transform = 'translateY(0)';
+                profileHeader.style.opacity = '1';
+                profileHeader.style.transform = 'translateY(0)';
             }, 300);
         }
     }, 100);
-    
-    // 增强左侧卡片滚动效果
-    const profileCard = document.querySelector('.profile-card');
-    if (profileCard) {
-        let ticking = false;
-        
-        function updateProfileCard() {
-            const scrollTop = window.pageYOffset;
-            const windowHeight = window.innerHeight;
-            const cardHeight = profileCard.offsetHeight;
-            
-            // 计算卡片的top位置
-            const cardTop = profileCard.offsetTop;
-            const maxOffset = Math.max(0, scrollTop - cardTop + 100);
-            
-            // 平滑滚动效果
-            if (scrollTop > 100) {
-                profileCard.style.transform = `translateY(${Math.min(maxOffset, 20)}px)`;
-            } else {
-                profileCard.style.transform = 'translateY(0)';
-            }
-            
-            ticking = false;
-        }
-        
-        function requestTick() {
-            if (!ticking) {
-                requestAnimationFrame(updateProfileCard);
-                ticking = true;
-            }
-        }
-        
-        window.addEventListener('scroll', requestTick);
-    }
     
     // 添加页面可见性变化时的处理
     document.addEventListener('visibilitychange', function() {

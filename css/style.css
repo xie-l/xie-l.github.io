@@ -64,7 +64,8 @@ body {
 .nav-menu {
     display: flex;
     list-style: none;
-    gap: 30px;
+    gap: 25px;
+    align-items: center;
 }
 
 .nav-link {
@@ -73,6 +74,9 @@ body {
     font-weight: 500;
     transition: var(--transition);
     position: relative;
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 .nav-link:hover {
@@ -94,6 +98,30 @@ body {
     width: 100%;
 }
 
+/* 导航菜单分隔线 */
+.nav-divider {
+    width: 1px;
+    height: 20px;
+    background: var(--border-color);
+    margin: 0 5px;
+}
+
+/* 外部链接标识 */
+.nav-external {
+    font-size: 14px;
+}
+
+.nav-external i {
+    font-size: 12px;
+    opacity: 0.7;
+    transition: var(--transition);
+}
+
+.nav-external:hover i {
+    opacity: 1;
+    transform: translateX(2px);
+}
+
 .hamburger {
     display: none;
     flex-direction: column;
@@ -108,40 +136,44 @@ body {
     transition: var(--transition);
 }
 
+/* 顶部个人信息区域 */
+.profile-header {
+    background: var(--card-bg);
+    border-radius: 0 0 20px 20px;
+    padding: 40px 20px;
+    box-shadow: var(--shadow);
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.profile-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.profile-info {
+    text-align: center;
+}
+
 /* 主要内容区域 */
 .main-container {
     max-width: 1200px;
-    margin: 100px auto 50px;
+    margin: 0 auto 50px;
     padding: 0 20px;
-    display: grid;
-    grid-template-columns: 350px 1fr;
-    gap: 40px;
 }
 
-/* 个人信息卡片 */
+/* 个人信息卡片样式（兼容旧类名） */
 .profile-card {
-    position: sticky;
-    top: 100px;
-    height: fit-content;
-    transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-    will-change: transform;
-}
-
-.profile-card.smooth-scroll {
-    transform: translateY(0);
+    display: none;
 }
 
 .profile-content {
-    background: var(--card-bg);
-    border-radius: 15px;
-    padding: 30px;
-    box-shadow: var(--shadow);
-    text-align: center;
-    transition: var(--transition);
-}
-
-.profile-content:hover {
-    box-shadow: var(--shadow-hover);
+    display: none;
 }
 
 .avatar-container {
@@ -173,25 +205,31 @@ body {
     transform: scale(1.1);
 }
 
-.profile-name {
-    font-size: 24px;
+/* 顶部个人信息样式 */
+.profile-info .profile-name {
+    font-size: 32px;
     font-weight: 700;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
     color: var(--primary-color);
 }
 
-.profile-title {
-    font-size: 16px;
+.profile-info .profile-title {
+    font-size: 18px;
     color: var(--secondary-color);
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     font-weight: 500;
 }
 
-.profile-bio {
-    font-size: 14px;
+.profile-info .profile-bio {
+    font-size: 16px;
     color: var(--text-light);
-    margin-bottom: 20px;
-    line-height: 1.5;
+    margin-bottom: 25px;
+    line-height: 1.6;
+}
+
+/* 兼容旧样式（隐藏） */
+.profile-name, .profile-title, .profile-bio {
+    display: none;
 }
 
 .social-links {
@@ -243,7 +281,9 @@ body {
 
 /* 内容区域 */
 .content-area {
-    padding-top: 10px;
+    padding-top: 0;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .section {
@@ -604,15 +644,23 @@ body {
         margin: 15px 0;
     }
     
-    .main-container {
-        grid-template-columns: 1fr;
-        margin-top: 90px;
-        gap: 20px;
+    .nav-divider {
+        display: none;
     }
     
-    .profile-card {
-        position: static;
-        margin-bottom: 20px;
+    .main-container {
+        margin-top: 20px;
+    }
+    
+    .profile-header {
+        margin-top: 70px;
+        padding: 30px 20px;
+    }
+    
+    .profile-container {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
     }
     
     .section {
