@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据分析 - 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container {
+            max-width: 1000px;
+            margin: 100px auto 50px;
+            padding: 0 20px;
+        }
+        .blog-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .blog-header h1 {
+            font-size: 32px;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        .blog-header p {
+            color: var(--text-light);
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+        .back-link:hover {
+            color: var(--primary-color);
+        }
+        .post-list {
+            display: grid;
+            gap: 20px;
+        }
+        .post-item {
+            background: var(--card-bg);
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            text-decoration: none;
+            color: var(--text-color);
+            display: block;
+        }
+        .post-item:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+        }
+        .post-date {
+            color: var(--text-light);
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+        .post-title {
+            font-size: 20px;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        .post-excerpt {
+            color: var(--text-color);
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+        .post-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .tag {
+            font-size: 12px;
+            background: var(--secondary-color);
+            color: white;
+            padding: 3px 10px;
+            border-radius: 15px;
+        }
+        .add-post-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 60px;
+            height: 60px;
+            background: var(--secondary-color);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            text-decoration: none;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+            z-index: 999;
+        }
+        .add-post-btn:hover {
+            transform: scale(1.1);
+            background: var(--primary-color);
+        }
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="../" class="back-link">
+            <i class="fas fa-arrow-left"></i> 返回日记首页
+        </a>
+
+        <div class="blog-header">
+            <h1>数据分析</h1>
+            <p>编程心得、技术探索、项目总结</p>
+        </div>
+
+        <div class="post-list">
+            <a href="#" class="post-item">
+                <div class="post-date">2026-04-03</div>
+                <h3 class="post-title">如何开始使用这个日记系统</h3>
+                <p class="post-excerpt">
+                    这是一个简单的技术日记系统。要添加新的文章，只需创建一个新的HTML文件，或者复制现有文件并修改内容...
+                </p>
+                <div class="post-tags">
+                    <span class="tag">教程</span>
+                    <span class="tag">GitHub Pages</span>
+                </div>
+            </a>
+
+            <div class="post-item">
+                <div class="post-date">示例日期</div>
+                <h3 class="post-title">示例文章标题</h3>
+                <p class="post-excerpt">
+                    在这里写下你的数据分析、项目经验或学习心得...
+                </p>
+                <div class="post-tags">
+                    <span class="tag">示例标签</span>
+                </div>
+            </div>
+        </div>
+
+        <p style="text-align: center; margin-top: 40px; color: var(--text-light);">
+            <i class="fas fa-info-circle"></i> 提示：要添加新文章，只需复制本文件并重命名，然后修改内容即可。
+        </p>
+    </div>
+
+    <a href="#" class="add-post-btn" title="添加新文章" onclick="alert('要添加新文章，请复制本文件并重命名，然后修改内容。'); return false;">
+        <i class="fas fa-plus"></i>
+    </a>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2026 谢亮. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
