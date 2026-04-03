@@ -475,9 +475,7 @@ function switchSection(sectionName) {
 }
 
 // 初始化
-let blogManager, fileManager;
-
-document.addEventListener('DOMContentLoaded', function() {
+let blogManager, fileManager, profileEditor;
 
 // 页面初始化
 document.addEventListener('DOMContentLoaded', function() {
