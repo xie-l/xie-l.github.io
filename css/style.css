@@ -216,8 +216,8 @@ button {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary-color) 100%);
-    opacity: 0.9;
+    background: linear-gradient(135deg, #3b82f6 0%, #60a5fa 50%, #93c5fd 100%);
+    opacity: 0.95;
 }
 
 .banner-bg::before {
@@ -888,6 +888,68 @@ button {
     color: var(--text-white);
     transform: translateY(-2px);
     border-color: var(--primary-color);
+}
+
+/* 联系方式 */
+.contact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    transition: var(--transition);
+}
+
+.contact-item:hover {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    transform: translateX(4px);
+}
+
+.contact-item:hover .contact-icon {
+    background: var(--text-white);
+    color: var(--primary-color);
+}
+
+.contact-item:hover .contact-info h4,
+.contact-item:hover .contact-info p {
+    color: var(--text-white);
+}
+
+.contact-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--primary-color);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-white);
+    font-size: 14px;
+    flex-shrink: 0;
+    transition: var(--transition);
+}
+
+.contact-info h4 {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 2px;
+    transition: var(--transition);
+}
+
+.contact-info p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    transition: var(--transition);
 }
 
 /* ========================================
