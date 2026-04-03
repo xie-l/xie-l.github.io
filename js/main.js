@@ -1,24 +1,33 @@
 // 等待DOM加载完成
 document.addEventListener('DOMContentLoaded', function() {
+    
+    // ====================
     // 移动端菜单切换
-    const hamburger = document.querySelector('.hamburger');
+    // ====================
+    
+    const mobileToggle = document.querySelector('.mobile-toggle');
     const navMenu = document.querySelector('.nav-menu');
     
-    hamburger.addEventListener('click', function() {
-        hamburger.classList.toggle('active');
-        navMenu.classList.toggle('active');
-    });
-    
-    // 点击菜单项后关闭移动端菜单
-    const navLinks = document.querySelectorAll('.nav-link');
-    navLinks.forEach(link => {
-        link.addEventListener('click', function() {
-            hamburger.classList.remove('active');
-            navMenu.classList.remove('active');
+    if (mobileToggle && navMenu) {
+        mobileToggle.addEventListener('click', function() {
+            navMenu.classList.toggle('active');
+            mobileToggle.classList.toggle('active');
         });
-    });
+        
+        // 点击菜单项后关闭菜单
+        const navLinks = navMenu.querySelectorAll('.nav-link');
+        navLinks.forEach(link => {
+            link.addEventListener('click', function() {
+                navMenu.classList.remove('active');
+                mobileToggle.classList.remove('active');
+            });
+        });
+    }
     
+    // ====================
     // 平滑滚动
+    // ====================
+    
     const links = document.querySelectorAll('a[href^="#"]');
     links.forEach(link => {
         link.addEventListener('click', function(e) {
@@ -27,58 +36,88 @@ document.addEventListener('DOMContentLoaded', function() {
             const targetSection = document.querySelector(targetId);
             
             if (targetSection) {
-                const offsetTop = targetSection.offsetTop - 80; // 减去导航栏高度
+                const offsetTop = targetSection.offsetTop - 80;
                 window.scrollTo({
                     top: offsetTop,
                     behavior: 'smooth'
                 });
+                
+                // 更新活动导航链接
+                updateActiveNavLink(targetId);
             }
         });
     });
     
+    // ====================
+    // 导航栏高亮
+    // ====================
+    
+    function updateActiveNavLink(activeId) {
+        const navLinks = document.querySelectorAll('.nav-link');
+        navLinks.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === activeId) {
+                link.classList.add('active');
+            }
+        });
+    }
+    
+    // ====================
+    // 滚动时更新活动导航链接
+    // ====================
+    
+    const sections = document.querySelectorAll('section[id]');
+    
+    function updateNavOnScroll() {
+        const scrollPosition = window.scrollY + 100;
+        
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop;
+            const sectionHeight = section.offsetHeight;
+            const sectionId = section.getAttribute('id');
+            
+            if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+                updateActiveNavLink('#' + sectionId);
+            }
+        });
+    }
+    
+    window.addEventListener('scroll', updateNavOnScroll);
+    updateNavOnScroll(); // 初始化
+    
+    // ====================
     // 返回顶部按钮
+    // ====================
+    
     const backToTopButton = document.getElementById('backToTop');
     
-    window.addEventListener('scroll', function() {
-        if (window.pageYOffset > 300) {
-            backToTopButton.classList.add('visible');
-        } else {
-            backToTopButton.classList.remove('visible');
-        }
-    });
-    
-    backToTopButton.addEventListener('click', function() {
-        window.scrollTo({
-            top: 0,
-            behavior: 'smooth'
+    if (backToTopButton) {
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 300) {
+                backToTopButton.classList.add('visible');
+            } else {
+                backToTopButton.classList.remove('visible');
+            }
         });
-    });
-    
-    // 导航栏滚动效果
-    const navbar = document.querySelector('.navbar');
-    let lastScrollTop = 0;
-    
-    window.addEventListener('scroll', function() {
-        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
         
-        if (scrollTop > lastScrollTop && scrollTop > 100) {
-            // 向下滚动
-            navbar.style.transform = 'translateY(-100%)';
-        } else {
-            // 向上滚动
-            navbar.style.transform = 'translateY(0)';
-        }
-        
-        lastScrollTop = scrollTop;
-    });
+        backToTopButton.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
     
+    // ====================
     // 技能条动画
+    // ====================
+    
     const observerOptions = {
-        threshold: 0.5,
+        threshold: 0.3,
         rootMargin: '0px 0px -100px 0px'
     };
     
-    const observer = new IntersectionObserver(function(entries) {
+    const skillObserver = new IntersectionObserver(function(entries) {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const skillBars = entry.target.querySelectorAll('.skill-progress');
@@ -88,18 +127,21 @@ document.addEventListener('DOMContentLoaded', function() {
                         bar.style.width = skillLevel + '%';
                     }, 100);
                 });
-                observer.unobserve(entry.target);
+                skillObserver.unobserve(entry.target);
             }
         });
     }, observerOptions);
     
     const skillsSection = document.querySelector('#skills');
     if (skillsSection) {
-        observer.observe(skillsSection);
+        skillObserver.observe(skillsSection);
     }
     
-    // 添加滚动时的动画效果
-    const animateOnScroll = new IntersectionObserver(function(entries) {
+    // ====================
+    // 滚动时显示元素动画
+    // ====================
+    
+    const animateObserver = new IntersectionObserver(function(entries) {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
                 entry.target.style.opacity = '1';
@@ -112,33 +154,141 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // 为所有section添加观察
-    const sections = document.querySelectorAll('.section');
-    sections.forEach(section => {
+    const allSections = document.querySelectorAll('.section');
+    allSections.forEach((section, index) => {
         section.style.opacity = '0';
         section.style.transform = 'translateY(30px)';
         section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-        animateOnScroll.observe(section);
+        section.style.transitionDelay = (index * 0.1) + 's';
+        animateObserver.observe(section);
     });
     
-    // 项目卡片悬停效果增强
-    const projectCards = document.querySelectorAll('.project-card');
-    projectCards.forEach(card => {
-        card.addEventListener('mouseenter', function() {
-            this.style.transform = 'translateY(-5px) scale(1.02)';
-        });
+    // ====================
+    // 个人资料卡片动画
+    // ====================
+    
+    const profileCard = document.querySelector('.profile-card');
+    if (profileCard) {
+        profileCard.style.opacity = '0';
+        profileCard.style.transform = 'translateY(40px)';
+        profileCard.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
         
-        card.addEventListener('mouseleave', function() {
-            this.style.transform = 'translateY(0) scale(1)';
-        });
+        setTimeout(() => {
+            profileCard.style.opacity = '1';
+            profileCard.style.transform = 'translateY(0)';
+        }, 300);
+    }
+    
+    // ====================
+    // 横幅文字动画
+    // ====================
+    
+    const bannerTitle = document.querySelector('.banner-title');
+    const bannerSubtitle = document.querySelector('.banner-subtitle');
+    const bannerMeta = document.querySelector('.banner-meta');
+    
+    if (bannerTitle) {
+        bannerTitle.style.opacity = '0';
+        bannerTitle.style.transform = 'translateY(20px)';
+        bannerTitle.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        
+        setTimeout(() => {
+            bannerTitle.style.opacity = '1';
+            bannerTitle.style.transform = 'translateY(0)';
+        }, 500);
+    }
+    
+    if (bannerSubtitle) {
+        bannerSubtitle.style.opacity = '0';
+        bannerSubtitle.style.transform = 'translateY(20px)';
+        bannerSubtitle.style.transition = 'opacity 0.8s ease 0.2s, transform 0.8s ease 0.2s';
+        
+        setTimeout(() => {
+            bannerSubtitle.style.opacity = '1';
+            bannerSubtitle.style.transform = 'translateY(0)';
+        }, 700);
+    }
+    
+    if (bannerMeta) {
+        bannerMeta.style.opacity = '0';
+        bannerMeta.style.transform = 'translateY(20px)';
+        bannerMeta.style.transition = 'opacity 0.8s ease 0.4s, transform 0.8s ease 0.4s';
+        
+        setTimeout(() => {
+            bannerMeta.style.opacity = '1';
+            bannerMeta.style.transform = 'translateY(0)';
+        }, 900);
+    }
+    
+    // ====================
+    // 导航栏滚动效果
+    // ====================
+    
+    let lastScrollTop = 0;
+    const header = document.querySelector('.header');
+    
+    window.addEventListener('scroll', function() {
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        
+        if (scrollTop > lastScrollTop && scrollTop > 100) {
+            // 向下滚动
+            if (header) {
+                header.style.transform = 'translateY(-100%)';
+            }
+        } else {
+            // 向上滚动
+            if (header) {
+                header.style.transform = 'translateY(0)';
+            }
+        }
+        
+        lastScrollTop = scrollTop;
     });
     
-    // 表单提交处理（如果有表单的话）
+    // ====================
+    // 复制邮箱功能
+    // ====================
+    
+    const copyEmailBtn = document.querySelector('.btnCopy');
+    if (copyEmailBtn) {
+        copyEmailBtn.addEventListener('click', function() {
+            const email = 'your.email@example.com';
+            navigator.clipboard.writeText(email).then(function() {
+                // 创建提示
+                const toast = document.createElement('div');
+                toast.textContent = '邮箱已复制到剪贴板！';
+                toast.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background: #10b981;
+                    color: white;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    z-index: 9999;
+                    font-size: 14px;
+                    animation: fadeInUp 0.3s ease;
+                `;
+                document.body.appendChild(toast);
+                
+                setTimeout(() => {
+                    toast.remove();
+                }, 3000);
+            }).catch(function(err) {
+                alert('复制失败，请手动复制');
+            });
+        });
+    }
+    
+    // ====================
+    // 表单提交（如果有）
+    // ====================
+    
     const contactForm = document.querySelector('.contact-form');
     if (contactForm) {
         contactForm.addEventListener('submit', function(e) {
             e.preventDefault();
             
-            // 显示提交成功消息
             const submitBtn = this.querySelector('button[type="submit"]');
             const originalText = submitBtn.textContent;
             
@@ -147,86 +297,39 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // 模拟异步提交
             setTimeout(() => {
-                alert('感谢您的留言！我会尽快回复您。');
+                // 创建成功提示
+                const successToast = document.createElement('div');
+                successToast.textContent = '消息发送成功！我会尽快回复您。';
+                successToast.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background: #10b981;
+                    color: white;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    z-index: 9999;
+                    font-size: 14px;
+                    animation: fadeInUp 0.3s ease;
+                `;
+                document.body.appendChild(successToast);
+                
+                // 重置表单
                 this.reset();
                 submitBtn.textContent = originalText;
                 submitBtn.disabled = false;
+                
+                setTimeout(() => {
+                    successToast.remove();
+                }, 3000);
             }, 2000);
         });
     }
     
-    // 动态加载更多项目（示例）
-    const loadMoreBtn = document.querySelector('.load-more-btn');
-    if (loadMoreBtn) {
-        loadMoreBtn.addEventListener('click', function() {
-            // 这里可以添加加载更多项目的逻辑
-            console.log('加载更多项目...');
-        });
-    }
-    
-    // 添加打字机效果到标题（可选）
-    function typeWriter(element, text, speed = 100) {
-        let i = 0;
-        element.textContent = '';
-        
-        function type() {
-            if (i < text.length) {
-                element.textContent += text.charAt(i);
-                i++;
-                setTimeout(type, speed);
-            }
-        }
-        
-        type();
-    }
-    
-    // 页面加载完成后执行顶部个人信息区域动画
-    setTimeout(() => {
-        const profileHeader = document.querySelector('.profile-header');
-        if (profileHeader) {
-            profileHeader.style.opacity = '0';
-            profileHeader.style.transform = 'translateY(-30px)';
-            profileHeader.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
-            
-            setTimeout(() => {
-                profileHeader.style.opacity = '1';
-                profileHeader.style.transform = 'translateY(0)';
-            }, 300);
-        }
-    }, 100);
-    
-    // 添加页面可见性变化时的处理
-    document.addEventListener('visibilitychange', function() {
-        if (document.visibilityState === 'visible') {
-            // 页面重新可见时的处理
-            console.log('页面重新可见');
-        }
-    });
-    
-    // 防止右键菜单（可选，根据需要启用）
-    // document.addEventListener('contextmenu', function(e) {
-    //     e.preventDefault();
-    // });
-    
-    // 键盘快捷键
-    document.addEventListener('keydown', function(e) {
-        // Ctrl/Cmd + K 聚焦搜索（如果有搜索功能）
-        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-            e.preventDefault();
-            const searchInput = document.querySelector('.search-input');
-            if (searchInput) {
-                searchInput.focus();
-            }
-        }
-        
-        // ESC 关闭菜单
-        if (e.key === 'Escape') {
-            hamburger.classList.remove('active');
-            navMenu.classList.remove('active');
-        }
-    });
-    
+    // ====================
     // 性能优化：防抖函数
+    // ====================
+    
     function debounce(func, wait) {
         let timeout;
         return function executedFunction(...args) {
@@ -241,19 +344,25 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // 使用防抖优化滚动事件
     const optimizedScrollHandler = debounce(function() {
-        // 滚动相关的逻辑
+        updateNavOnScroll();
     }, 10);
     
     window.addEventListener('scroll', optimizedScrollHandler);
     
+    // ====================
+    // 初始化完成
+    // ====================
+    
     console.log('个人主页已加载完成！');
+    console.log('Designed by 谢亮');
+    console.log('GitHub: https://github.com/xie-l');
+    
 });
 
 // 页面卸载时的清理
-deforeunload = function() {
-    // 清理事件监听器等
+window.addEventListener('beforeunload', function() {
     console.log('页面即将卸载...');
-};
+});
 
 // 错误处理
 window.addEventListener('error', function(e) {

@@ -3,94 +3,83 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人主页 - 谢亮</title>
-    <meta name="description" content="个人主页 - 展示个人信息、教育背景、项目经验和技能">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👤</text></svg>">
+    <title>谢亮 - 个人主页</title>
+    <meta name="description" content="谢亮 - 软件工程师，专注于前端开发和用户体验设计">
+    <meta name="keywords" content="谢亮,软件工程师,前端开发,用户体验">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👨‍💻</text></svg>">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- 导航栏 -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <a href="#home">谢亮</a>
-            </div>
-            <ul class="nav-menu">
-                <li class="nav-item">
-                    <a href="#home" class="nav-link">首页</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#about" class="nav-link">关于</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#education" class="nav-link">教育</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#projects" class="nav-link">项目</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#skills" class="nav-link">技能</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#contact" class="nav-link">联系</a>
-                </li>
-                <li class="nav-divider"></li>
-                <li class="nav-item">
-                    <a href="blog/" class="nav-link nav-external">
-                        日记
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="files/" class="nav-link nav-external">
-                        文件
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                </li>
-            </ul>
-            <div class="hamburger">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
+    <!-- 顶部导航栏 -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="#home">谢亮</a>
+                </div>
+                <nav class="nav">
+                    <ul class="nav-menu">
+                        <li><a href="#home" class="nav-link">首页</a></li>
+                        <li><a href="#about" class="nav-link">关于</a></li>
+                        <li><a href="#education" class="nav-link">教育</a></li>
+                        <li><a href="#research" class="nav-link">研究</a></li>
+                        <li><a href="#publications" class="nav-link">成果</a></li>
+                        <li><a href="#projects" class="nav-link">项目</a></li>
+                        <li><a href="blog/" class="nav-link nav-external">博客</a></li>
+                        <li><a href="files/" class="nav-link nav-external">资源</a></li>
+                        <li><a href="#contact" class="nav-link">联系</a></li>
+                    </ul>
+                </nav>
+                <div class="mobile-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
             </div>
         </div>
-    </nav>
+    </header>
 
-    <!-- 顶部个人信息区域 -->
-    <section id="home" class="profile-header">
-        <div class="profile-container">
-            <div class="avatar-container">
-                <img src="img/avatar.jpg" alt="个人头像" class="avatar" onerror="this.src='https://via.placeholder.com/150'">
-            </div>
-            <div class="profile-info">
-                <h1 class="profile-name">谢亮</h1>
-                <p class="profile-title">软件工程师</p>
-                <p class="profile-bio">专注于前端开发和用户体验设计</p>
-                
-                <div class="social-links">
-                    <a href="mailto:your.email@example.com" target="_blank" title="邮箱">
-                        <i class="fas fa-envelope"></i>
-                    </a>
-                    <a href="https://github.com/yourusername" target="_blank" title="GitHub">
-                        <i class="fab fa-github"></i>
-                    </a>
-                    <a href="https://linkedin.com/in/yourusername" target="_blank" title="LinkedIn">
-                        <i class="fab fa-linkedin"></i>
-                    </a>
-                    <a href="https://twitter.com/yourusername" target="_blank" title="Twitter">
-                        <i class="fab fa-twitter"></i>
-                    </a>
+    <!-- 横幅区域 -->
+    <section class="banner">
+        <div class="banner-bg"></div>
+        <div class="banner-content">
+            <div class="container">
+                <h1 class="banner-title">谢亮</h1>
+                <p class="banner-subtitle">软件工程师 · 前端开发专家</p>
+                <div class="banner-meta">
+                    <span><i class="fas fa-building"></i> 国家能源集团</span>
+                    <span><i class="fas fa-map-marker-alt"></i> 北京</span>
                 </div>
-                
-                <div class="quick-info">
-                    <div class="info-item">
-                        <i class="fas fa-map-marker-alt"></i>
-                        <span>北京，中国</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 个人信息区域 -->
+    <section class="profile-section">
+        <div class="container">
+            <div class="profile-card">
+                <div class="profile-avatar">
+                    <img src="img/avatar.jpg" alt="谢亮" class="avatar" onerror="this.src='https://via.placeholder.com/200'">
+                </div>
+                <div class="profile-info">
+                    <h2 class="profile-name">谢亮</h2>
+                    <h3 class="profile-title">软件工程师</h3>
+                    <p class="profile-bio">专注于前端开发和用户体验设计，拥有5年开发经验。致力于创建优雅、高效的解决方案，通过技术改善人们的生活。</p>
+                    <div class="profile-tags">
+                        <span class="tag">前端开发</span>
+                        <span class="tag">用户体验</span>
+                        <span class="tag">React</span>
+                        <span class="tag">Vue</span>
+                        <span class="tag">TypeScript</span>
                     </div>
-                    <div class="info-item">
-                        <i class="fas fa-building"></i>
-                        <span>国家能源集团国华能源投资有限公司</span>
+                    <div class="profile-contact">
+                        <a href="mailto:your.email@example.com" class="contact-btn">
+                            <i class="fas fa-envelope"></i> 联系我
+                        </a>
+                        <a href="https://github.com/xie-l" target="_blank" class="contact-btn secondary">
+                            <i class="fab fa-github"></i> GitHub
+                        </a>
                     </div>
                 </div>
             </div>
@@ -98,217 +87,354 @@
     </section>
 
     <!-- 主要内容区域 -->
-    <main class="content-area">
-            <!-- 关于我 -->
-            <section id="about" class="section">
-                <h2 class="section-title">关于我</h2>
-                <div class="section-content">
-                    <p>我是一名充满激情的软件工程师，拥有5年的开发经验。专注于创建优雅、高效的解决方案，致力于通过技术改善人们的生活。</p>
-                    <p>我热爱学习新技术，并将其应用到实际项目中。在空闲时间，我喜欢阅读技术博客、参与开源项目，以及分享我的知识和经验。</p>
-                </div>
-            </section>
+    <div class="main-content">
+        <div class="container">
+            <div class="content-wrapper">
+                <!-- 左侧主内容 -->
+                <main class="main-column">
+                    <!-- 关于我 -->
+                    <section id="about" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">个人简介</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="about-content">
+                                <p>我是一名充满激情的软件工程师，拥有5年的前端开发经验。专注于创建优雅、高效的解决方案，致力于通过技术改善人们的生活。</p>
+                                <p>我热爱学习新技术，并将其应用到实际项目中。在空闲时间，我喜欢阅读技术博客、参与开源项目，以及分享我的知识和经验。</p>
+                                <p>目前就职于国家能源集团国华能源投资有限公司，负责前端架构设计和核心功能开发。</p>
+                            </div>
+                        </div>
+                    </section>
 
-            <!-- 教育背景 -->
-            <section id="education" class="section">
-                <h2 class="section-title">教育背景</h2>
-                <div class="timeline">
-                    <div class="timeline-item">
-                        <div class="timeline-marker"></div>
-                        <div class="timeline-content">
-                            <h3>博士学位 - 动力工程及工程热物理</h3>
-                            <p class="timeline-institution">哈尔滨工业大学</p>
-                            <p class="timeline-period">2020 - 2026</p>
-                            <p>研究方向：人工智能与机器学习</p>
+                    <!-- 教育背景 -->
+                    <section id="education" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">教育背景</h2>
                         </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-marker"></div>
-                        <div class="timeline-content">
-                            <h3>学士学位 - 能源与动力工程</h3>
-                            <p class="timeline-institution">哈尔滨工业大学</p>
-                            <p class="timeline-period">2016 - 2020</p>
-                            <p>主修课程：数据结构、算法设计、软件工程</p>
+                        <div class="section-content">
+                            <div class="timeline">
+                                <div class="timeline-item">
+                                    <div class="timeline-marker"></div>
+                                    <div class="timeline-content">
+                                        <h3>博士学位 - 动力工程及工程热物理</h3>
+                                        <p class="timeline-institution">哈尔滨工业大学</p>
+                                        <p class="timeline-period">2020 - 2026</p>
+                                        <p class="timeline-description">研究方向：人工智能与机器学习在能源系统中的应用</p>
+                                    </div>
+                                </div>
+                                <div class="timeline-item">
+                                    <div class="timeline-marker"></div>
+                                    <div class="timeline-content">
+                                        <h3>学士学位 - 能源与动力工程</h3>
+                                        <p class="timeline-institution">哈尔滨工业大学</p>
+                                        <p class="timeline-period">2016 - 2020</p>
+                                        <p class="timeline-description">主修课程：数据结构、算法设计、软件工程、热力学</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>
-                </div>
-            </section>
+                    </section>
 
-            <!-- 项目经验 -->
-            <section id="projects" class="section">
-                <h2 class="section-title">项目经验</h2>
-                <div class="projects-grid">
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>电商平台重构</h3>
-                            <span class="project-date">2023</span>
+                    <!-- 研究方向 -->
+                    <section id="research" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">研究方向</h2>
                         </div>
-                        <p class="project-description">
-                            负责前端架构设计和核心功能开发，使用React和TypeScript重构整个平台，提升了50%的页面加载速度和用户体验。
-                        </p>
-                        <div class="project-tech">
-                            <span class="tech-tag">React</span>
+                        <div class="section-content">
+                            <div class="research-grid">
+                                <div class="research-item">
+                                    <div class="research-icon">
+                                        <i class="fas fa-code"></i>
+                                    </div>
+                                    <h3>前端架构设计</h3>
+                                    <p>React、Vue、TypeScript等现代前端技术栈的架构设计与优化</p>
+                                </div>
+                                <div class="research-item">
+                                    <div class="research-icon">
+                                        <i class="fas fa-user-friends"></i>
+                                    </div>
+                                    <h3>用户体验设计</h3>
+                                    <p>交互设计、视觉设计、可用性研究与用户行为分析</p>
+                                </div>
+                                <div class="research-item">
+                                    <div class="research-icon">
+                                        <i class="fas fa-rocket"></i>
+                                    </div>
+                                    <h3>性能优化</h3>
+                                    <p>前端性能监控、优化策略、代码分割与懒加载技术</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 项目经验 -->
+                    <section id="projects" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">项目经验</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="project-list">
+                                <div class="project-item">
+                                    <div class="project-header">
+                                        <h3>电商平台前端重构</h3>
+                                        <span class="project-date">2023</span>
+                                    </div>
+                                    <div class="project-body">
+                                        <p>负责前端架构设计和核心功能开发，使用React和TypeScript重构整个平台，提升了50%的页面加载速度和用户体验。</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">React</span>
+                                            <span class="tech-tag">TypeScript</span>
+                                            <span class="tech-tag">Node.js</span>
+                                            <span class="tech-tag">Webpack</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="project-item">
+                                    <div class="project-header">
+                                        <h3>数据可视化平台</h3>
+                                        <span class="project-date">2022</span>
+                                    </div>
+                                    <div class="project-body">
+                                        <p>开发了一个交互式数据可视化平台，支持多种图表类型和实时数据更新，帮助团队更好地理解和分析业务数据。</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">Vue.js</span>
+                                            <span class="tech-tag">D3.js</span>
+                                            <span class="tech-tag">WebSocket</span>
+                                            <span class="tech-tag">ECharts</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="project-item">
+                                    <div class="project-header">
+                                        <h3>移动端APP开发</h3>
+                                        <span class="project-date">2021</span>
+                                    </div>
+                                    <div class="project-body">
+                                        <p>使用React Native开发跨平台移动应用，实现了核心业务功能，并在App Store和Google Play上线。</p>
+                                        <div class="project-tech">
+                                            <span class="tech-tag">React Native</span>
+                                            <span class="tech-tag">Redux</span>
+                                            <span class="tech-tag">Firebase</span>
+                                            <span class="tech-tag">Expo</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 专业技能 -->
+                    <section id="skills" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">专业技能</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="skills-grid">
+                                <div class="skill-category">
+                                    <h3>前端技术</h3>
+                                    <div class="skill-items">
+                                        <div class="skill-item">
+                                            <span>JavaScript/TypeScript</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="95"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>React/Vue.js</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="90"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>HTML/CSS</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="95"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="skill-category">
+                                    <h3>后端技术</h3>
+                                    <div class="skill-items">
+                                        <div class="skill-item">
+                                            <span>Node.js</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="85"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>Python</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="80"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>MySQL/MongoDB</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="75"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="skill-category">
+                                    <h3>其他技能</h3>
+                                    <div class="skill-items">
+                                        <div class="skill-item">
+                                            <span>Git版本控制</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="90"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>UI/UX设计</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="80"></div>
+                                            </div>
+                                        </div>
+                                        <div class="skill-item">
+                                            <span>敏捷开发</span>
+                                            <div class="skill-bar">
+                                                <div class="skill-progress" data-skill="85"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 联系方式 -->
+                    <section id="contact" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">联系方式</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="contact-grid">
+                                <div class="contact-item">
+                                    <div class="contact-icon">
+                                        <i class="fas fa-envelope"></i>
+                                    </div>
+                                    <div class="contact-info">
+                                        <h4>邮箱</h4>
+                                        <p>your.email@example.com</p>
+                                    </div>
+                                </div>
+                                <div class="contact-item">
+                                    <div class="contact-icon">
+                                        <i class="fas fa-phone"></i>
+                                    </div>
+                                    <div class="contact-info">
+                                        <h4>电话</h4>
+                                        <p>+86 138 0000 0000</p>
+                                    </div>
+                                </div>
+                                <div class="contact-item">
+                                    <div class="contact-icon">
+                                        <i class="fas fa-map-marker-alt"></i>
+                                    </div>
+                                    <div class="contact-info">
+                                        <h4>地址</h4>
+                                        <p>北京市东城区</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </main>
+
+                <!-- 右侧边栏 -->
+                <aside class="sidebar">
+                    <!-- 快速链接 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">快速链接</h3>
+                        <ul class="widget-links">
+                            <li><a href="blog/" class="link-item">
+                                <i class="fas fa-blog"></i>
+                                个人博客
+                            </a></li>
+                            <li><a href="files/" class="link-item">
+                                <i class="fas fa-folder-open"></i>
+                                文件资源
+                            </a></li>
+                            <li><a href="#" class="link-item">
+                                <i class="fas fa-download"></i>
+                                简历下载
+                            </a></li>
+                            <li><a href="#" class="link-item">
+                                <i class="fas fa-link"></i>
+                                相关链接
+                            </a></li>
+                        </ul>
+                    </div>
+
+                    <!-- 技术栈 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">技术栈</h3>
+                        <div class="tech-cloud">
+                            <span class="tech-tag">JavaScript</span>
                             <span class="tech-tag">TypeScript</span>
+                            <span class="tech-tag">React</span>
+                            <span class="tech-tag">Vue</span>
                             <span class="tech-tag">Node.js</span>
+                            <span class="tech-tag">HTML/CSS</span>
+                            <span class="tech-tag">Webpack</span>
+                            <span class="tech-tag">Git</span>
                         </div>
                     </div>
-                    
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>数据可视化平台</h3>
-                            <span class="project-date">2022</span>
-                        </div>
-                        <p class="project-description">
-                            开发了一个交互式数据可视化平台，支持多种图表类型和实时数据更新，帮助团队更好地理解和分析业务数据。
-                        </p>
-                        <div class="project-tech">
-                            <span class="tech-tag">Vue.js</span>
-                            <span class="tech-tag">D3.js</span>
-                            <span class="tech-tag">WebSocket</span>
-                        </div>
-                    </div>
-                    
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>移动端APP开发</h3>
-                            <span class="project-date">2021</span>
-                        </div>
-                        <p class="project-description">
-                            使用React Native开发跨平台移动应用，实现了核心业务功能，并在App Store和Google Play上线。
-                        </p>
-                        <div class="project-tech">
-                            <span class="tech-tag">React Native</span>
-                            <span class="tech-tag">Redux</span>
-                            <span class="tech-tag">Firebase</span>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
-            <!-- 技能 -->
-            <section id="skills" class="section">
-                <h2 class="section-title">专业技能</h2>
-                <div class="skills-container">
-                    <div class="skill-category">
-                        <h3>前端技术</h3>
-                        <div class="skill-items">
-                            <div class="skill-item">
-                                <span>JavaScript/TypeScript</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="90"></div>
-                                </div>
+                    <!-- 统计数据 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">统计数据</h3>
+                        <div class="stats-grid">
+                            <div class="stat-item">
+                                <div class="stat-number">5+</div>
+                                <div class="stat-label">年经验</div>
                             </div>
-                            <div class="skill-item">
-                                <span>React/Vue.js</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="85"></div>
-                                </div>
+                            <div class="stat-item">
+                                <div class="stat-number">20+</div>
+                                <div class="stat-label">项目</div>
                             </div>
-                            <div class="skill-item">
-                                <span>HTML/CSS</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="95"></div>
-                                </div>
+                            <div class="stat-item">
+                                <div class="stat-number">50+</div>
+                                <div class="stat-label">技术文章</div>
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="skill-category">
-                        <h3>后端技术</h3>
-                        <div class="skill-items">
-                            <div class="skill-item">
-                                <span>Node.js</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="80"></div>
-                                </div>
-                            </div>
-                            <div class="skill-item">
-                                <span>Python</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="75"></div>
-                                </div>
-                            </div>
-                            <div class="skill-item">
-                                <span>MySQL/MongoDB</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="70"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="skill-category">
-                        <h3>其他技能</h3>
-                        <div class="skill-items">
-                            <div class="skill-item">
-                                <span>Git版本控制</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="90"></div>
-                                </div>
-                            </div>
-                            <div class="skill-item">
-                                <span>UI/UX设计</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="65"></div>
-                                </div>
-                            </div>
-                            <div class="skill-item">
-                                <span>敏捷开发</span>
-                                <div class="skill-bar">
-                                    <div class="skill-progress" data-skill="80"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
-            <!-- 联系方式 -->
-            <section id="contact" class="section">
-                <h2 class="section-title">联系我</h2>
-                <div class="contact-content">
-                    <p>如果你对合作感兴趣，或者有任何问题，欢迎通过以下方式联系我：</p>
-                    <div class="contact-methods">
-                        <div class="contact-item">
-                            <i class="fas fa-envelope"></i>
-                            <span>your.email@example.com</span>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-phone"></i>
-                            <span>+86 138 0000 0000</span>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-map-marker-alt"></i>
-                            <span>北京市东城区</span>
+                    <!-- 社交链接 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">社交链接</h3>
+                        <div class="social-grid">
+                            <a href="https://github.com/xie-l" target="_blank" class="social-item">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="https://linkedin.com/in/xie-liang" target="_blank" class="social-item">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
+                            <a href="https://twitter.com/xie_liang" target="_blank" class="social-item">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="mailto:your.email@example.com" class="social-item">
+                                <i class="fas fa-envelope"></i>
+                            </a>
                         </div>
                     </div>
-                    <div class="social-links-large">
-                        <a href="https://github.com/yourusername" target="_blank" class="social-btn">
-                            <i class="fab fa-github"></i>
-                            <span>GitHub</span>
-                        </a>
-                        <a href="https://linkedin.com/in/yourusername" target="_blank" class="social-btn">
-                            <i class="fab fa-linkedin"></i>
-                            <span>LinkedIn</span>
-                        </a>
-                        <a href="https://twitter.com/yourusername" target="_blank" class="social-btn">
-                            <i class="fab fa-twitter"></i>
-                            <span>Twitter</span>
-                        </a>
-                    </div>
-                </div>
-            </section>
-        </main>
+                </aside>
+            </div>
+        </div>
     </div>
 
     <!-- 页脚 -->
     <footer class="footer">
-        <div class="footer-content">
-            <p>&copy; 2026 谢亮. All rights reserved.</p>
-            <p>Made with <i class="fas fa-heart" style="color: #e74c3c;"></i> and JavaScript</p>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2026 谢亮. All rights reserved. | 备案号：京ICP备12345678号</p>
+                <p>Powered by <a href="https://pages.github.com" target="_blank">GitHub Pages</a></p>
+            </div>
         </div>
     </footer>
 
-    <!-- 返回顶部按钮 -->
+    <!-- 返回顶部 -->
     <div class="back-to-top" id="backToTop">
         <i class="fas fa-arrow-up"></i>
     </div>
