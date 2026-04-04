@@ -462,7 +462,7 @@
                         <label class="form-label" for="profile-tags">标签（用逗号分隔）</label>
                         <input type="text" id="profile-tags" class="form-input" placeholder="例如：电催化制氢, 机器学习">
                     </div>
-                    
+
                     <div class="form-group">
                         <label class="form-label" for="profile-email">邮箱</label>
                         <input type="email" id="profile-email" class="form-input" placeholder="请输入邮箱">
@@ -477,25 +477,22 @@
                         <label class="form-label" for="profile-address">地址</label>
                         <input type="text" id="profile-address" class="form-input" placeholder="请输入地址">
                     </div>
-                    
+
                     <div class="form-group">
-                        <label class="form-label" for="profile-education">教育背景（Markdown格式）</label>
-                        <textarea id="profile-education" class="form-textarea" rows="8" placeholder="请输入教育背景，支持Markdown格式"></textarea>
+                        <label class="form-label" for="profile-github">GitHub 链接</label>
+                        <input type="url" id="profile-github" class="form-input" placeholder="例如：https://github.com/xie-l">
                     </div>
-                    
+
+                    <hr style="margin: 30px 0; border: none; border-top: 1px solid var(--border-color);">
+                    <h4 style="color: var(--text-primary); margin-bottom: 20px;">个人简介（主页正文）</h4>
                     <div class="form-group">
-                        <label class="form-label" for="profile-projects">科研项目（Markdown格式）</label>
-                        <textarea id="profile-projects" class="form-textarea" rows="8" placeholder="请输入科研项目，支持Markdown格式"></textarea>
+                        <label class="form-label" for="profile-about">简介段落（每行一段，自动生成为独立段落）</label>
+                        <textarea id="profile-about" class="form-textarea" rows="12" placeholder="每一行为一个段落，保存后自动更新主页简介区域。"></textarea>
                     </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-publications">发表论文（Markdown格式）</label>
-                        <textarea id="profile-publications" class="form-textarea" rows="8" placeholder="请输入发表论文，支持Markdown格式"></textarea>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-skills">个人技能（Markdown格式）</label>
-                        <textarea id="profile-skills" class="form-textarea" rows="6" placeholder="请输入个人技能，支持Markdown格式"></textarea>
+
+                    <div class="alert alert-info" style="display:block; margin-bottom:0;">
+                        <i class="fas fa-info-circle"></i>
+                        <strong>教育背景、科研项目、论文成果、获奖荣誉</strong>等详细模块内容较复杂，请直接编辑 <code>index.html</code> 源文件进行修改，保存后自动部署。
                     </div>
                     
                     <div class="btn-group">
@@ -541,6 +538,7 @@
         </section>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="profile-editor.js"></script>
     <script src="main.js"></script>
 </body>
