@@ -211,8 +211,8 @@ class ProfileEditor {
                 `/repos/${creds.owner}/${creds.repo}/contents/index.html`
             );
 
-            // GitHub base64 内容有换行，需要去掉再 atob
-            const currentHtml = atob(fileData.content.replace(/\n/g, ''));
+            // GitHub base64 → binary string → 正确的 Unicode 字符串（防止 double UTF-8 编码）
+            const currentHtml = decodeURIComponent(escape(atob(fileData.content.replace(/\n/g, ''))));
             const sha = fileData.sha;
 
             // 定向替换
