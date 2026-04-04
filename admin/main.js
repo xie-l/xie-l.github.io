@@ -74,9 +74,9 @@ async function getFileContent(path) {
             // 如果是目录，返回文件列表
             return data;
         } else {
-            // 如果是文件，返回解码后的内容
+            // GitHub base64 内容有换行符，需要先去掉再 atob
             return {
-                content: atob(data.content),
+                content: atob(data.content.replace(/\n/g, '')),
                 sha: data.sha
             };
         }
@@ -153,82 +153,267 @@ class BlogManager {
     }
     
     async publishBlog() {
-        const title = document.getElementById('blog-title').value;
+        const title = document.getElementById('blog-title').value.trim();
         const category = document.getElementById('blog-category').value;
         const tags = document.getElementById('blog-tags').value;
-        const content = document.getElementById('blog-content').value;
-        
+        const content = document.getElementById('blog-content').value.trim();
+
         if (!title || !category || !content) {
             showAlert('blog', '请填写所有必填项', 'error');
             return;
         }
-        
+
+        const submitBtn = this.form.querySelector('button[type="submit"]');
+        const originalHTML = submitBtn.innerHTML;
+        submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 发布中...';
+        submitBtn.disabled = true;
+
         try {
-            // 生成文件名
-            const date = new Date().toISOString().split('T')[0];
-            const filename = `${date}-${this.slugify(title)}.html`;
+            const now = new Date();
+            const date = now.toISOString().split('T')[0];
+            // 生成文件名：标题-年月.html（中文友好）
+            const monthStr = `${now.getFullYear()}.${String(now.getMonth() + 1).padStart(2, '0')}`;
+            const shortTitle = this.slugify(title) || 'post';
+            const filename = `${shortTitle}（${monthStr}）.html`;
             const path = `blog/${category}/${filename}`;
-            
-            // 生成HTML内容
-            const htmlContent = this.generateBlogHTML(title, category, tags, content, date);
-            
-            // 创建文件
-            await createOrUpdateFile(
-                path,
-                htmlContent,
-                `添加新博客: ${title}`
-            );
-            
-            showAlert('blog', '博客发布成功！', 'success');
-            
-            // 清空表单
+
+            // 生成 HTML（用 marked 转换 Markdown）
+            const tagList = tags ? tags.split(',').map(t => t.trim()).filter(t => t) : [];
+            const htmlContent = this.generateBlogHTML(title, category, tagList, content, date);
+
+            // 创建博文文件
+            await createOrUpdateFile(path, htmlContent, `发布博客: ${title}`);
+
+            // 更新分类索引页
+            await this.updateCategoryIndex(category, title, filename, tagList, content);
+
+            showAlert('blog', '✓ 博客发布成功！GitHub Pages 通常在 1-2 分钟内生效。', 'success');
             this.form.reset();
-            
+
         } catch (error) {
             showAlert('blog', `发布失败: ${error.message}`, 'error');
+        } finally {
+            submitBtn.innerHTML = originalHTML;
+            submitBtn.disabled = false;
         }
     }
-    
-    generateBlogHTML(title, category, tags, content, date) {
-        const categoryNames = {
-            'tech': '技术思考',
-            'life': '生活日记'
+
+    // 更新分类索引页（在 post-list 最前面插入新条目）
+    async updateCategoryIndex(category, title, filename, tagList, content) {
+        const indexPath = `blog/${category}/index.html`;
+        try {
+            const file = await getFileContent(indexPath);
+            if (!file) return; // 索引不存在，跳过
+
+            // 生成摘要（取正文前80字）
+            const plainText = content.replace(/[#*`>_\[\]!]/g, '').replace(/\n+/g, ' ').trim();
+            const excerpt = plainText.length > 80 ? plainText.substring(0, 80) + '…' : plainText;
+
+            const tagsHtml = tagList
+                .map(t => `<span class="tag">${t}</span>`)
+                .join('\n                    ');
+
+            const today = new Date();
+            const dateStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+
+            const newEntry = `            <a href="${filename}" class="post-item">
+                <div class="post-date">${dateStr}</div>
+                <h3 class="post-title">${title}</h3>
+                <p class="post-excerpt">${excerpt}</p>
+                <div class="post-tags">
+                    ${tagsHtml}
+                </div>
+            </a>`;
+
+            // 插入到 post-list 开头
+            const updatedHtml = file.content.replace(
+                /(<div class="post-list">)/,
+                `$1\n${newEntry}`
+            );
+
+            await createOrUpdateFile(
+                indexPath,
+                updatedHtml,
+                `更新${this.getCategoryName(category)}索引: ${title}`,
+                file.sha
+            );
+        } catch (e) {
+            console.warn('更新索引页失败（不影响博文发布）:', e.message);
+        }
+    }
+
+    getCategoryName(category) {
+        const names = {
+            tech: '技术思考',
+            life: '生活日记',
+            books: '书籍阅读',
+            analysis: '数据分析'
         };
-        
-        const tagList = tags ? tags.split(',').map(tag => tag.trim()) : [];
-        
+        return names[category] || category;
+    }
+    
+    generateBlogHTML(title, category, tagList, content, date) {
+        const categoryName = this.getCategoryName(category);
+
+        // 用 marked.js 转换 Markdown（如果已加载）
+        const bodyHtml = (typeof marked !== 'undefined')
+            ? marked.parse(content)
+            : content.replace(/\n/g, '<br>');
+
+        // 估算阅读时长（按每分钟500字）
+        const charCount = content.replace(/\s/g, '').length;
+        const readMin = Math.max(3, Math.round(charCount / 500));
+
+        const tagsHtml = tagList
+            .map(t => `<span class="tag">${t}</span>`)
+            .join('\n            ');
+
+        const year = date.split('-')[0];
+        const dateZh = date.replace(/-/g, '年').replace(/年(\d{2})年/, '年$1月') + '日';
+
         return `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title} - 谢亮</title>
+    <title>${title} - 谢亮的${categoryName}</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container {
+            max-width: 900px;
+            margin: 100px auto 50px;
+            padding: 0 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+        .back-link:hover { color: var(--primary-color); }
+        .post-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .post-title {
+            font-size: 28px;
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        .post-meta {
+            color: var(--text-light);
+            font-size: 14px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .post-content {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: var(--shadow-md);
+            line-height: 1.8;
+            font-size: 16px;
+        }
+        .post-content h2 {
+            color: var(--primary-color);
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-size: 22px;
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 8px;
+        }
+        .post-content h3 {
+            color: var(--primary-color);
+            margin-top: 28px;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        .post-content p { margin-bottom: 18px; text-align: justify; }
+        .post-content ul, .post-content ol { margin-left: 25px; margin-bottom: 18px; }
+        .post-content li { margin-bottom: 10px; line-height: 1.7; }
+        .post-content strong { color: var(--primary-color); font-weight: 600; }
+        .post-content blockquote {
+            border-left: 4px solid var(--secondary-color);
+            background: rgba(6, 182, 212, 0.06);
+            padding: 16px 20px;
+            margin: 24px 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            color: var(--text-light);
+        }
+        .post-content code {
+            background: rgba(6, 182, 212, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9em;
+        }
+        .post-content pre {
+            background: #1e293b;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 10px;
+            overflow-x: auto;
+            margin-bottom: 20px;
+        }
+        .post-content pre code { background: none; padding: 0; color: inherit; }
+        .post-tags {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .tag {
+            font-size: 13px;
+            background: var(--secondary-color);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+        }
+        @media (max-width: 768px) {
+            .blog-container { margin-top: 80px; }
+            .post-content { padding: 20px; }
+            .post-title { font-size: 22px; }
+        }
+    </style>
 </head>
 <body>
-    <div style="max-width: 800px; margin: 100px auto 50px; padding: 0 20px;">
-        <a href="../" style="color: var(--secondary-color); text-decoration: none;">
-            <i class="fas fa-arrow-left"></i> 返回${categoryNames[category]}
+    <div class="blog-container">
+        <a href="./" class="back-link">
+            <i class="fas fa-arrow-left"></i> 返回${categoryName}
         </a>
-        
-        <article style="background: var(--card-bg); border-radius: 15px; padding: 40px; margin-top: 20px; box-shadow: var(--shadow);">
-            <h1 style="color: var(--primary-color); margin-bottom: 10px;">${title}</h1>
-            <div style="color: var(--text-light); font-size: 14px; margin-bottom: 30px;">
-                <i class="fas fa-calendar"></i> 发布日期: ${date}
-                ${tagList.length > 0 ? `<span style="margin-left: 20px;"><i class="fas fa-tags"></i> ${tagList.join(', ')}</span>` : ''}
-            </div>
-            
-            <div style="line-height: 1.8; color: var(--text-color);">
-                ${content.replace(/\n/g, '<br>')}
+
+        <article class="post-header">
+            <h1 class="post-title">${title}</h1>
+            <div class="post-meta">
+                <span><i class="fas fa-calendar"></i> ${dateZh}</span>
+                <span><i class="fas fa-clock"></i> 阅读时长：约${readMin}分钟</span>
+                ${tagList.length > 0 ? `<span><i class="fas fa-tag"></i> ${tagList[0]}</span>` : ''}
             </div>
         </article>
+
+        <div class="post-content">
+            ${bodyHtml}
+        </div>
+
+        <div class="post-tags">
+            ${tagsHtml}
+        </div>
     </div>
-    
+
     <footer class="footer">
         <div class="footer-content">
-            <p>&copy; 2026 谢亮. All rights reserved.</p>
+            <p>&copy; ${year} 谢亮. All rights reserved.</p>
         </div>
     </footer>
 </body>
@@ -504,9 +689,10 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 
-// 添加全局函数
-window.previewProfile = function() {
-    if (profileEditor) {
-        profileEditor.preview();
-    }
+// 全局函数（博客相关）
+window.previewBlog = function() {
+    if (typeof blogManager !== 'undefined') blogManager.previewBlog();
+};
+window.saveDraft = function() {
+    if (typeof blogManager !== 'undefined') blogManager.saveDraft();
 };
