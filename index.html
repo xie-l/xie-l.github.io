@@ -178,6 +178,40 @@
             <div class="content-wrapper">
                 <!-- 左侧主内容 -->
                 <main class="main-column">
+                    <!-- 资讯动态 -->
+                    <section id="news-feed" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">资讯动态</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="news-tabs">
+                                <button class="news-tab active" data-feed="tech">
+                                    <i class="fas fa-flask"></i> 科技前沿
+                                </button>
+                                <button class="news-tab" data-feed="energy">
+                                    <i class="fas fa-bolt"></i> 能源动态
+                                </button>
+                                <button class="news-tab" data-feed="hydrogen">
+                                    <i class="fas fa-atom"></i> 氢能新能源
+                                </button>
+                                <button class="news-tab" data-feed="papers">
+                                    <i class="fas fa-file-alt"></i> 前沿论文
+                                </button>
+                            </div>
+                            <div class="news-topbar">
+                                <span id="news-update-time" style="font-size:12px;color:var(--text-light)">正在加载...</span>
+                                <button class="news-refresh-btn" id="news-refresh-btn">
+                                    <i class="fas fa-sync-alt"></i> 刷新
+                                </button>
+                            </div>
+                            <div id="news-content">
+                                <div class="news-status">
+                                    <i class="fas fa-spinner fa-spin"></i> 加载中...
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
                     <!-- 关于我 -->
                     <section id="about" class="section">
                         <div class="section-header">
@@ -712,39 +746,6 @@
                             </div>
                         </div>
                     </section>
-                    <!-- 资讯动态 -->
-                    <section id="news-feed" class="section">
-                        <div class="section-header">
-                            <h2 class="section-title">资讯动态</h2>
-                        </div>
-                        <div class="section-content">
-                            <div class="news-tabs">
-                                <button class="news-tab active" data-feed="tech">
-                                    <i class="fas fa-flask"></i> 科技前沿
-                                </button>
-                                <button class="news-tab" data-feed="energy">
-                                    <i class="fas fa-bolt"></i> 能源动态
-                                </button>
-                                <button class="news-tab" data-feed="hydrogen">
-                                    <i class="fas fa-atom"></i> 氢能新能源
-                                </button>
-                                <button class="news-tab" data-feed="papers">
-                                    <i class="fas fa-file-alt"></i> 前沿论文
-                                </button>
-                            </div>
-                            <div class="news-topbar">
-                                <span id="news-update-time" style="font-size:12px;color:var(--text-light)">正在加载...</span>
-                                <button class="news-refresh-btn" id="news-refresh-btn">
-                                    <i class="fas fa-sync-alt"></i> 刷新
-                                </button>
-                            </div>
-                            <div id="news-content">
-                                <div class="news-status">
-                                    <i class="fas fa-spinner fa-spin"></i> 加载中...
-                                </div>
-                            </div>
-                        </div>
-                    </section>
                 </main>
 
                 <!-- 右侧边栏 -->
@@ -1103,108 +1104,110 @@
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
 
-    // ========== 资讯动态（RSS → rss2json.com → JSON）==========
+    // ========== 资讯动态 ==========
+    // 双代理策略：① rss2json.com → ② allorigins.win + 手动解析XML
     const NEWS_FEEDS = {
-        tech: {
-            label: '科技前沿',
-            // Nature：全球顶级科学期刊，每日更新
-            url: 'https://feeds.nature.com/nature/rss/current',
-            source: 'Nature', count: 8
-        },
-        energy: {
-            label: '能源动态',
-            // Nature Energy：能源领域权威期刊 + CleanTechnica：清洁能源新闻
-            url: 'https://feeds.nature.com/nenergy/rss/current',
-            source: 'Nature Energy', count: 8
-        },
-        hydrogen: {
-            label: '氢能新能源',
-            // H2 View：国际氢能专业媒体
-            url: 'https://www.h2-view.com/feed/',
-            source: 'H2 View', count: 8
-        },
-        papers: {
-            label: '前沿论文',
-            // arXiv 材料科学 + 化学物理（含电催化、储能方向）
-            url: 'https://export.arxiv.org/rss/cond-mat.mtrl-sci',
-            source: 'arXiv', count: 10
-        }
+        tech:     { label:'科技前沿',  url:'https://feeds.nature.com/nature/rss/current',    source:'Nature',       count:8  },
+        energy:   { label:'能源动态',  url:'https://feeds.nature.com/nenergy/rss/current',   source:'Nature Energy',count:8  },
+        hydrogen: { label:'氢能新能源',url:'https://fuelcellsworks.com/feed/',               source:'Fuel Cells Works',count:8},
+        papers:   { label:'前沿论文',  url:'https://export.arxiv.org/rss/cond-mat.mtrl-sci', source:'arXiv',        count:10 }
     };
 
     const _newsCache = {};
     let _currentFeed = 'tech';
 
-    function _newsTime() {
-        const n = new Date();
-        return n.getHours().toString().padStart(2,'0') + ':' + n.getMinutes().toString().padStart(2,'0');
+    function _pad(n){ return String(n).padStart(2,'0'); }
+    function _nowHM(){ const n=new Date(); return _pad(n.getHours())+':'+_pad(n.getMinutes()); }
+
+    // 解析 RSS XML 字符串
+    function _parseXML(xml, count) {
+        const doc = new DOMParser().parseFromString(xml, 'text/xml');
+        const itemEls = Array.from(doc.querySelectorAll('item')).slice(0, count);
+        const feedTitle = doc.querySelector('channel > title')?.textContent?.trim() || '';
+        const items = itemEls.map(function(el) {
+            const get = function(tag){ return el.querySelector(tag)?.textContent?.trim() || ''; };
+            let link = get('link');
+            if (!link) { const l = el.querySelector('link[href]'); link = l ? l.getAttribute('href') : ''; }
+            return { title: get('title'), link: link,
+                     pubDate: get('pubDate') || get('updated'), description: get('description') || get('summary') };
+        }).filter(function(i){ return i.title && i.link; });
+        return { items: items, feedTitle: feedTitle };
+    }
+
+    // 代理1：rss2json.com（JSON格式，快速）
+    async function _proxy1(url, count) {
+        const api = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(url) + '&count=' + count;
+        const res = await fetch(api, { signal: AbortSignal.timeout(8000) });
+        const data = await res.json();
+        if (data.status !== 'ok' || !data.items || data.items.length === 0) throw new Error('rss2json no data');
+        return { items: data.items, feedTitle: (data.feed && data.feed.title) || '' };
+    }
+
+    // 代理2：allorigins.win（返回原始XML，手动解析）
+    async function _proxy2(url, count) {
+        const api = 'https://api.allorigins.win/get?url=' + encodeURIComponent(url);
+        const res = await fetch(api, { signal: AbortSignal.timeout(12000) });
+        const data = await res.json();
+        if (!data.contents) throw new Error('allorigins no contents');
+        const parsed = _parseXML(data.contents, count);
+        if (parsed.items.length === 0) throw new Error('allorigins parsed 0 items');
+        return parsed;
     }
 
     function _renderNews(items, feedKey, feedTitle) {
         const cfg = NEWS_FEEDS[feedKey];
         const el = document.getElementById('news-content');
         const timeEl = document.getElementById('news-update-time');
-        if (timeEl) timeEl.textContent = '更新于 ' + _newsTime();
-
+        if (timeEl) timeEl.textContent = '更新于 ' + _nowHM();
         if (!items || items.length === 0) {
-            el.innerHTML = '<div class="news-status">暂无数据，请稍后重试</div>';
-            return;
+            el.innerHTML = '<div class="news-status">暂无数据，请稍后重试</div>'; return;
         }
-
+        const src = feedTitle || cfg.source;
         const html = items.map(function(item) {
             const d = new Date(item.pubDate);
-            const dateStr = isNaN(d) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
-            const src = feedTitle || cfg.source;
-            let desc = (item.description || item.summary || '').replace(/<[^>]*>/g,'').trim();
-            if (desc.length > 120) desc = desc.slice(0, 120) + '…';
+            const dateStr = isNaN(d.getTime()) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
+            let desc = (item.description || '').replace(/<[^>]*>/g,'').trim();
+            if (desc.length > 120) desc = desc.slice(0,120) + '…';
             return '<div class="news-item">' +
                 '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
                 '<div class="news-item-meta">' +
-                    (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
-                    '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + src + '</span>' +
+                (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>'+dateStr+'</span>' : '') +
+                '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>'+src+'</span>' +
                 '</div>' +
-                (desc ? '<div class="news-item-desc">' + desc + '</div>' : '') +
+                (desc ? '<div class="news-item-desc">'+desc+'</div>' : '') +
                 '</div>';
         }).join('');
-
-        el.innerHTML = '<div class="news-items">' + html + '</div>';
+        el.innerHTML = '<div class="news-items">'+html+'</div>';
     }
 
     async function _fetchNews(feedKey, force) {
         const cfg = NEWS_FEEDS[feedKey];
         if (!cfg) return;
         const el = document.getElementById('news-content');
-
-        // 命中缓存（30分钟内）
-        const cache = _newsCache[feedKey];
-        if (!force && cache && Date.now() - cache.ts < 30 * 60 * 1000) {
-            _renderNews(cache.items, feedKey, cache.feedTitle);
-            return;
-        }
-
-        el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
         const timeEl = document.getElementById('news-update-time');
+        // 缓存命中（60分钟）
+        const cache = _newsCache[feedKey];
+        if (!force && cache && Date.now() - cache.ts < 60 * 60 * 1000) {
+            _renderNews(cache.items, feedKey, cache.feedTitle); return;
+        }
+        el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
         if (timeEl) timeEl.textContent = '加载中...';
-
-        try {
-            const api = 'https://api.rss2json.com/v1/api.json?rss_url=' +
-                encodeURIComponent(cfg.url) + '&count=' + cfg.count;
-            const res = await fetch(api, { signal: AbortSignal.timeout(10000) });
-            const data = await res.json();
-
-            if (data.status === 'ok' && data.items && data.items.length > 0) {
-                _newsCache[feedKey] = { items: data.items, ts: Date.now(), feedTitle: (data.feed && data.feed.title) || cfg.source };
-                _renderNews(data.items, feedKey, _newsCache[feedKey].feedTitle);
-            } else {
-                el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据获取失败，请刷新重试</div>';
-                if (timeEl) timeEl.textContent = '加载失败';
-            }
-        } catch (err) {
-            el.innerHTML = '<div class="news-status"><i class="fas fa-wifi" style="text-decoration:line-through"></i> 网络异常，请检查连接后刷新</div>';
+        let result = null;
+        // 依次尝试两个代理
+        try { result = await _proxy1(cfg.url, cfg.count); }
+        catch(e1) {
+            try { result = await _proxy2(cfg.url, cfg.count); }
+            catch(e2) { /* 两个都失败 */ }
+        }
+        if (result && result.items && result.items.length > 0) {
+            _newsCache[feedKey] = { items: result.items, ts: Date.now(), feedTitle: result.feedTitle || cfg.source };
+            _renderNews(result.items, feedKey, _newsCache[feedKey].feedTitle);
+        } else {
+            el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 加载失败，请稍后点刷新重试</div>';
             if (timeEl) timeEl.textContent = '加载失败';
         }
     }
 
-    // Tab 切换
     document.querySelectorAll('.news-tab').forEach(function(tab) {
         tab.addEventListener('click', function() {
             document.querySelectorAll('.news-tab').forEach(function(t){ t.classList.remove('active'); });
@@ -1213,14 +1216,8 @@
             _fetchNews(_currentFeed, false);
         });
     });
-
-    // 刷新按钮
-    (function() {
-        const btn = document.getElementById('news-refresh-btn');
-        if (btn) btn.addEventListener('click', function() { _fetchNews(_currentFeed, true); });
-    })();
-
-    // 首次加载
+    (function(){ const btn = document.getElementById('news-refresh-btn');
+        if (btn) btn.addEventListener('click', function(){ _fetchNews(_currentFeed, true); }); })();
     _fetchNews('tech', false);
 
     // ========== 邮件链接增强 ==========
