@@ -1437,7 +1437,10 @@
                 '            </div>\n        </article>\n' +
                 '        <div class="post-content">\n' + paras + '\n' +
                 '            <div class="post-tags"><span class="tag">' + typeName + '</span></div>\n' +
-                '        </div>\n    </div>\n</body>\n</html>';
+                '        </div>\n    </div>\n' +
+                '<script>\n' +
+                'document.querySelectorAll(\'.tag\').forEach(function(el){el.style.cursor=\'pointer\';el.addEventListener(\'click\',function(e){e.preventDefault();e.stopPropagation();location.href=\'../tags.html?tag=\'+encodeURIComponent(el.textContent.trim());});});\n' +
+                '<\/script>\n</body>\n</html>';
         }
 
         // 更新分类目录页（在 .post-list 开头插入新文章卡片）

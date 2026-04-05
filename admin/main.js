@@ -268,6 +268,9 @@ class BlogManager {
         const tagsHtml = tagList
             .map(t => `<span class="tag">${t}</span>`)
             .join('\n            ');
+        const tagClickScript = `<script>
+document.querySelectorAll('.tag').forEach(function(el){el.style.cursor='pointer';el.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());});});
+<\/script>`;
 
         const year = date.split('-')[0];
         const dateZh = date.replace(/-/g, '年').replace(/年(\d{2})年/, '年$1月') + '日';
@@ -417,6 +420,7 @@ class BlogManager {
             <p>&copy; ${year} 谢亮. All rights reserved.</p>
         </div>
     </footer>
+    ${tagClickScript}
 </body>
 </html>`;
     }

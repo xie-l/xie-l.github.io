@@ -145,5 +145,16 @@
             <p>&copy; 2026 谢亮. All rights reserved.</p>
         </div>
     </footer>
+
+<script>
+/* 标签点击跳转到标签聚合页 */
+document.querySelectorAll('.tag').forEach(function(el){
+    el.style.cursor='pointer';
+    el.addEventListener('click',function(e){
+        e.preventDefault(); e.stopPropagation();
+        location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
+    });
+});
+</script>
 </body>
 </html>
