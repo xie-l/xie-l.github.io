@@ -1105,105 +1105,64 @@
     setInterval(loadWeather, 15 * 60 * 1000);
 
     // ========== 资讯动态 ==========
-    // 双代理策略：① rss2json.com → ② allorigins.win + 手动解析XML
-    const NEWS_FEEDS = {
-        tech:     { label:'科技前沿',  url:'https://feeds.nature.com/nature/rss/current',    source:'Nature',       count:8  },
-        energy:   { label:'能源动态',  url:'https://feeds.nature.com/nenergy/rss/current',   source:'Nature Energy',count:8  },
-        hydrogen: { label:'氢能新能源',url:'https://fuelcellsworks.com/feed/',               source:'Fuel Cells Works',count:8},
-        papers:   { label:'前沿论文',  url:'https://export.arxiv.org/rss/cond-mat.mtrl-sci', source:'arXiv',        count:10 }
+    // 读取 GitHub Actions 每4小时预抓取的本地 data/news.json
+    // 同域读取，无 CORS，无第三方依赖，100% 可靠
+    const _NEWS_SOURCES = {
+        tech:     'Nature',
+        energy:   'Nature Energy',
+        hydrogen: 'Fuel Cells Works',
+        papers:   'arXiv'
     };
-
     const _newsCache = {};
     let _currentFeed = 'tech';
+    let _allNewsData  = null;   // 整个 news.json 只加载一次
 
-    function _pad(n){ return String(n).padStart(2,'0'); }
-    function _nowHM(){ const n=new Date(); return _pad(n.getHours())+':'+_pad(n.getMinutes()); }
-
-    // 解析 RSS XML 字符串
-    function _parseXML(xml, count) {
-        const doc = new DOMParser().parseFromString(xml, 'text/xml');
-        const itemEls = Array.from(doc.querySelectorAll('item')).slice(0, count);
-        const feedTitle = doc.querySelector('channel > title')?.textContent?.trim() || '';
-        const items = itemEls.map(function(el) {
-            const get = function(tag){ return el.querySelector(tag)?.textContent?.trim() || ''; };
-            let link = get('link');
-            if (!link) { const l = el.querySelector('link[href]'); link = l ? l.getAttribute('href') : ''; }
-            return { title: get('title'), link: link,
-                     pubDate: get('pubDate') || get('updated'), description: get('description') || get('summary') };
-        }).filter(function(i){ return i.title && i.link; });
-        return { items: items, feedTitle: feedTitle };
-    }
-
-    // 代理1：rss2json.com（JSON格式，快速）
-    async function _proxy1(url, count) {
-        const api = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(url) + '&count=' + count;
-        const res = await fetch(api, { signal: AbortSignal.timeout(8000) });
-        const data = await res.json();
-        if (data.status !== 'ok' || !data.items || data.items.length === 0) throw new Error('rss2json no data');
-        return { items: data.items, feedTitle: (data.feed && data.feed.title) || '' };
-    }
-
-    // 代理2：allorigins.win（返回原始XML，手动解析）
-    async function _proxy2(url, count) {
-        const api = 'https://api.allorigins.win/get?url=' + encodeURIComponent(url);
-        const res = await fetch(api, { signal: AbortSignal.timeout(12000) });
-        const data = await res.json();
-        if (!data.contents) throw new Error('allorigins no contents');
-        const parsed = _parseXML(data.contents, count);
-        if (parsed.items.length === 0) throw new Error('allorigins parsed 0 items');
-        return parsed;
-    }
-
-    function _renderNews(items, feedKey, feedTitle) {
-        const cfg = NEWS_FEEDS[feedKey];
+    function _renderNews(items, feedKey, source, updatedAt) {
         const el = document.getElementById('news-content');
         const timeEl = document.getElementById('news-update-time');
-        if (timeEl) timeEl.textContent = '更新于 ' + _nowHM();
+        if (timeEl) timeEl.textContent = updatedAt ? '数据时间：' + updatedAt : '';
         if (!items || items.length === 0) {
-            el.innerHTML = '<div class="news-status">暂无数据，请稍后重试</div>'; return;
+            el.innerHTML = '<div class="news-status"><i class="fas fa-info-circle"></i> 暂无数据，GitHub Actions 将定时更新</div>';
+            return;
         }
-        const src = feedTitle || cfg.source;
         const html = items.map(function(item) {
             const d = new Date(item.pubDate);
             const dateStr = isNaN(d.getTime()) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
-            let desc = (item.description || '').replace(/<[^>]*>/g,'').trim();
-            if (desc.length > 120) desc = desc.slice(0,120) + '…';
+            let desc = (item.description || '').replace(/<[^>]+>/g,'').trim();
+            if (desc.length > 130) desc = desc.slice(0,130) + '…';
             return '<div class="news-item">' +
                 '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
                 '<div class="news-item-meta">' +
-                (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>'+dateStr+'</span>' : '') +
-                '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>'+src+'</span>' +
+                (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
+                '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + source + '</span>' +
                 '</div>' +
-                (desc ? '<div class="news-item-desc">'+desc+'</div>' : '') +
+                (desc ? '<div class="news-item-desc">' + desc + '</div>' : '') +
                 '</div>';
         }).join('');
-        el.innerHTML = '<div class="news-items">'+html+'</div>';
+        el.innerHTML = '<div class="news-items">' + html + '</div>';
     }
 
-    async function _fetchNews(feedKey, force) {
-        const cfg = NEWS_FEEDS[feedKey];
-        if (!cfg) return;
+    function _showFeed(feedKey) {
+        if (!_allNewsData) return;
+        const data = _allNewsData[feedKey];
+        if (!data) return;
+        _renderNews(data.items, feedKey, data.source || _NEWS_SOURCES[feedKey], data.updated);
+    }
+
+    async function _loadNewsJSON(force) {
         const el = document.getElementById('news-content');
         const timeEl = document.getElementById('news-update-time');
-        // 缓存命中（60分钟）
-        const cache = _newsCache[feedKey];
-        if (!force && cache && Date.now() - cache.ts < 60 * 60 * 1000) {
-            _renderNews(cache.items, feedKey, cache.feedTitle); return;
-        }
+        // 内存缓存（15分钟）
+        if (!force && _allNewsData) { _showFeed(_currentFeed); return; }
         el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
         if (timeEl) timeEl.textContent = '加载中...';
-        let result = null;
-        // 依次尝试两个代理
-        try { result = await _proxy1(cfg.url, cfg.count); }
-        catch(e1) {
-            try { result = await _proxy2(cfg.url, cfg.count); }
-            catch(e2) { /* 两个都失败 */ }
-        }
-        if (result && result.items && result.items.length > 0) {
-            _newsCache[feedKey] = { items: result.items, ts: Date.now(), feedTitle: result.feedTitle || cfg.source };
-            _renderNews(result.items, feedKey, _newsCache[feedKey].feedTitle);
-        } else {
-            el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 加载失败，请稍后点刷新重试</div>';
+        try {
+            const res = await fetch('/data/news.json?_=' + Date.now(), { signal: AbortSignal.timeout(8000) });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            _allNewsData = await res.json();
+            _showFeed(_currentFeed);
+        } catch(err) {
+            el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据加载失败，请刷新页面重试</div>';
             if (timeEl) timeEl.textContent = '加载失败';
         }
     }
@@ -1213,12 +1172,15 @@
             document.querySelectorAll('.news-tab').forEach(function(t){ t.classList.remove('active'); });
             this.classList.add('active');
             _currentFeed = this.dataset.feed;
-            _fetchNews(_currentFeed, false);
+            if (_allNewsData) { _showFeed(_currentFeed); }
+            else { _loadNewsJSON(false); }
         });
     });
-    (function(){ const btn = document.getElementById('news-refresh-btn');
-        if (btn) btn.addEventListener('click', function(){ _fetchNews(_currentFeed, true); }); })();
-    _fetchNews('tech', false);
+    (function(){
+        const btn = document.getElementById('news-refresh-btn');
+        if (btn) btn.addEventListener('click', function(){ _allNewsData = null; _loadNewsJSON(true); });
+    })();
+    _loadNewsJSON(false);
 
     // ========== 邮件链接增强 ==========
     // 点击 mailto: 链接时：尝试打开邮件客户端，同时弹出提示并自动复制邮箱
