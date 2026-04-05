@@ -75,8 +75,9 @@ async function getFileContent(path) {
             return data;
         } else {
             // GitHub base64 内容有换行符，需要先去掉再 atob
+            // 注意：atob 返回二进制字符串，中文必须用 decodeURIComponent(escape(...)) 还原
             return {
-                content: atob(data.content.replace(/\n/g, '')),
+                content: decodeURIComponent(escape(atob(data.content.replace(/\n/g, '')))),
                 sha: data.sha
             };
         }
