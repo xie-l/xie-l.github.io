@@ -185,6 +185,7 @@
                         <li><a href="#news-feed" class="nav-link">资讯</a></li>
                         <li><a href="#goals" class="nav-link">目标</a></li>
                         <li><a href="blog/" class="nav-link nav-external">博客</a></li>
+                        <li><a href="files/" class="nav-link nav-external">资源</a></li>
                         <li><a href="admin/login.html" class="nav-link nav-external">管理</a></li>
                     </ul>
                 </nav>
@@ -880,6 +881,7 @@
                             <div class="clock-time" id="w-clock">--:--:--</div>
                             <div class="clock-gregorian" id="w-date">加载中...</div>
                             <span class="clock-lunar" id="w-lunar">农历加载中</span>
+                            <div id="w-site-update" style="font-size:11px;color:var(--text-light);margin-top:8px;opacity:.75;">主页更新时间加载中...</div>
                         </div>
                     </div>
 
@@ -1256,6 +1258,28 @@
     loadWeather();
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
+
+    // ========== 主页最后更新时间 ==========
+    (function () {
+        const el = document.getElementById('w-site-update');
+        if (!el) return;
+        fetch('https://api.github.com/repos/xie-l/xie-l.github.io/commits/main', {
+            signal: AbortSignal.timeout(6000)
+        })
+        .then(function(r){ return r.json(); })
+        .then(function(data) {
+            const dateStr = (data.commit && data.commit.committer && data.commit.committer.date) || '';
+            if (!dateStr) { el.textContent = ''; return; }
+            const d = new Date(dateStr);
+            // 转为北京时间（UTC+8）
+            const bj = new Date(d.getTime() + 8 * 3600 * 1000);
+            const fmt = function(n){ return String(n).padStart(2,'0'); };
+            const msg = bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 '
+                      + fmt(bj.getUTCHours()) + ':' + fmt(bj.getUTCMinutes());
+            el.innerHTML = '<i class="fas fa-code-branch" style="margin-right:4px;opacity:.6"></i>主页更新于 ' + msg;
+        })
+        .catch(function(){ el.textContent = ''; });
+    })();
 
     // ========== 资讯动态 ==========
     // 读取 GitHub Actions 每4小时预抓取的本地 data/news.json
