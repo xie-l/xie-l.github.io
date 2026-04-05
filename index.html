@@ -51,6 +51,32 @@
         .sidebar::-webkit-scrollbar { width: 3px; }
         .sidebar::-webkit-scrollbar-track { background: transparent; }
         .sidebar::-webkit-scrollbar-thumb { background: rgba(52,152,219,0.3); border-radius: 2px; }
+        /* ===== 每日五词 ===== */
+        .kw-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:18px; }
+        .kw-header h2 { margin:0; }
+        .kw-date-tag { font-size:12px; color:var(--text-light); background:var(--bg-secondary); padding:3px 12px; border-radius:12px; }
+        .kw-list { display:flex; flex-direction:column; gap:0; }
+        .kw-item {
+            display:flex; gap:20px; padding:16px 0;
+            border-bottom:1px solid var(--border-color);
+            align-items:flex-start;
+        }
+        .kw-item:last-child { border-bottom:none; }
+        .kw-left { flex-shrink:0; width:72px; display:flex; flex-direction:column; align-items:center; gap:5px; padding-top:2px; }
+        .kw-num { font-size:20px; font-weight:800; color:var(--secondary-color); opacity:.3; line-height:1; }
+        .kw-badge {
+            font-size:11px; font-weight:600; padding:2px 9px; border-radius:10px;
+            background:rgba(52,152,219,.12); color:var(--secondary-color);
+            border:1px solid rgba(52,152,219,.2); white-space:nowrap;
+        }
+        .kw-right { flex:1; min-width:0; }
+        .kw-term { font-size:18px; font-weight:700; color:var(--primary-color); margin-bottom:7px; }
+        .kw-def { font-size:13.5px; color:var(--text-color); line-height:1.7; margin-bottom:7px; }
+        .kw-def strong { color:var(--secondary-color); }
+        .kw-eg { font-size:13px; color:var(--text-light); line-height:1.65; }
+        .kw-eg strong { color:var(--text-color); }
+        @media(max-width:600px){ .kw-left{ width:52px; } .kw-term{ font-size:16px; } }
+
         /* ===== 年度目标 ===== */
         .goals-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
         .goal-card {
@@ -321,6 +347,17 @@
                                     <i class="fas fa-spinner fa-spin"></i> 加载中...
                                 </div>
                             </div>
+                        </div>
+                    </section>
+
+                    <!-- 每日五词 -->
+                    <section id="daily-keywords" class="section">
+                        <div class="kw-header">
+                            <h2 class="section-title" style="margin:0">📖 每日五词</h2>
+                            <span class="kw-date-tag" id="kw-date">每日8:00自动更新</span>
+                        </div>
+                        <div class="kw-list" id="kw-list">
+                            <div class="kw-item"><div class="kw-left"><div class="kw-num">01</div></div><div class="kw-right"><div class="kw-term">加载中...</div></div></div>
                         </div>
                     </section>
 
@@ -1286,6 +1323,121 @@
     loadWeather();
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
+
+    // ========== 每日五词 ==========
+    const _KW_POOL = [
+        // ── 能源行业 ──────────────────────────────────────────────
+        {term:'绿氢',domain:'能源',def:'<strong>含义：</strong>利用风、光、水等可再生能源电解水制取的氢气，全过程碳排放接近为零，是氢能产业的"终极形态"。',eg:'<strong>举例：</strong>青海省丰富的光伏资源配合电解槽，每度电可制约0.08kg绿氢；国家能源集团的绿氢项目正在压低其成本至与灰氢接近。'},
+        {term:'灰氢',domain:'能源',def:'<strong>含义：</strong>以化石能源（煤、天然气）为原料制取的氢气，过程中产生大量CO₂，是目前全球产量最大、成本最低的氢气来源。',eg:'<strong>举例：</strong>煤制氢成本约0.7-1.2元/Nm³，绿氢目前仍是灰氢的3-5倍，成本差距是制约绿氢规模化的核心障碍。'},
+        {term:'PEM电解',domain:'能源',def:'<strong>含义：</strong>质子交换膜电解水制氢技术，电流密度高、响应快、可深度调节，适合配合波动性可再生能源运行。',eg:'<strong>举例：</strong>风电大发时，PEM电解槽在秒级内即可启停跟踪风电出力，将"弃风"直接转化为氢气储存起来。'},
+        {term:'调峰',domain:'能源',def:'<strong>含义：</strong>电力系统在用电高峰期增加出力、低谷期减少出力的灵活性手段，是电网稳定运行的关键调节机制。',eg:'<strong>举例：</strong>夏天中午空调用电高峰，抽水蓄能电站放水发电调峰；氢储能是未来跨季节大规模调峰的重要选项。'},
+        {term:'弃风弃光',domain:'能源',def:'<strong>含义：</strong>因电网消纳能力不足，不得不限制风电或光伏发出的电量，是可再生能源利用率低下的直接体现。',eg:'<strong>举例：</strong>新疆某风场因输电线路不够，夜间大风时被迫弃掉40%的发电量；绿电制氢是消纳弃风弃光的重要出路。'},
+        {term:'碳中和',domain:'能源',def:'<strong>含义：</strong>通过节能减排和碳汇固碳，使温室气体净排放量降为零，中国目标是2060年前实现碳中和。',eg:'<strong>举例：</strong>一棵树每年吸收约18kg CO₂；一辆燃油车年排放约2吨，需要超过100棵树才能抵消，可见系统性减排的重要性。'},
+        {term:'虚拟电厂',domain:'能源',def:'<strong>含义：</strong>通过数字化手段将分散的负荷、储能和分布式电源聚合管理，像一座"无形发电厂"参与电力市场。',eg:'<strong>举例：</strong>上海把几千台工厂空调、数百个停车场充电桩汇聚，在用电高峰时集中削减负荷，相当于调出一座中型发电机组。'},
+        {term:'燃料电池',domain:'能源',def:'<strong>含义：</strong>将氢气和氧气的化学能直接转化为电能的装置，产物只有水，效率比内燃机高出一倍以上。',eg:'<strong>举例：</strong>氢燃料电池重卡加氢15分钟可续航800公里，城市公交已有规模化运营，是"长途+重载"场景的主流方案。'},
+        {term:'碳交易',domain:'能源',def:'<strong>含义：</strong>给企业分配碳排放配额，超标者需向市场购买配额，富余者可出售，用价格机制倒逼减排。',eg:'<strong>举例：</strong>2024年全国碳市场价格约90元/吨，某电厂超排10万吨CO₂，需花900万元买配额，减排反而更划算。'},
+        {term:'储能时长',domain:'能源',def:'<strong>含义：</strong>储能系统以额定功率持续放电的小时数，4小时以上称为长时储能，是衡量储能调节能力的核心指标。',eg:'<strong>举例：</strong>2小时储能能扛过日落后的用电高峰，而跨天调节需要8小时甚至更长，氢储能因容量大常用于季节性调峰。'},
+        // ── 管理/企业 ─────────────────────────────────────────────
+        {term:'OKR',domain:'管理',def:'<strong>含义：</strong>目标与关键结果（Objectives & Key Results），一种目标管理工具，强调"定性目标+量化结果"，聚焦最重要的优先级。',eg:'<strong>举例：</strong>目标"成为团队技术骨干"，关键结果"完成3项核心课题/获2次内部优秀评价/输出1份技术白皮书"，可追踪可评估。'},
+        {term:'复盘',domain:'管理',def:'<strong>含义：</strong>对一段工作进行系统回顾，梳理目标→执行→结果→偏差→归因→优化的完整链条，使经验可复制。',eg:'<strong>举例：</strong>会议后用SMART标准对照每项决策，找出"原计划两周交付，实际拖了三周"的根本原因，防止下次重蹈。'},
+        {term:'向上管理',domain:'管理',def:'<strong>含义：</strong>主动了解上级的工作目标和风格，有效沟通并影响决策，让上级更好地理解和支持你的工作。',eg:'<strong>举例：</strong>汇报前梳理"结论先行→数据支撑→下步计划"，比直接描述过程更能赢得领导信任和资源支持。'},
+        {term:'矩阵管理',domain:'管理',def:'<strong>含义：</strong>员工同时向职能部门和项目负责人双线汇报的组织结构，兼顾专业能力与项目效率，是大型集团常见模式。',eg:'<strong>举例：</strong>国家能源集团的技术人员，既向总部技术部汇报能力发展，又向所在地区项目汇报工作进展，两套体系并行运作。'},
+        {term:'颗粒度',domain:'管理',def:'<strong>含义：</strong>工作分解和管理控制的精细程度。颗粒度越细，执行越可控，但沟通成本也越高，需要与任务性质匹配。',eg:'<strong>举例：</strong>新人执行任务应要求"每日颗粒度"汇报，熟手可放到"每周颗粒度"，高管则看"月度颗粒度"的战略指标。'},
+        {term:'赋能',domain:'管理',def:'<strong>含义：</strong>通过授权、培训和资源配置，提升团队成员的能力和自主决策权，让组织更敏捷、人才更充分发挥。',eg:'<strong>举例：</strong>管培生轮岗不只是"看"，而是真实承担任务、参与决策，这才是真正的赋能式培养而非走过场。'},
+        {term:'利益相关方',domain:'管理',def:'<strong>含义：</strong>任何受到项目或决策影响的个人、团体或组织，识别并平衡各方诉求是项目成功的关键。',eg:'<strong>举例：</strong>青海绿氢项目的利益相关方包括：政府（审批）、国能集团（资金）、当地社区（就业）、环保NGO（生态）等。'},
+        {term:'帕累托原则',domain:'管理',def:'<strong>含义：</strong>又称"二八定律"，80%的结果来自20%的原因或投入，启示我们要聚焦最关键的少数任务。',eg:'<strong>举例：</strong>一个人80%的工作价值往往来自20%的核心输出；刚入职时搞清楚"哪20%的工作决定了80%的评价"至关重要。'},
+        {term:'MVP',domain:'管理',def:'<strong>含义：</strong>最小可行产品（Minimum Viable Product），用最少功能验证核心假设，快速获取市场反馈再迭代，避免大量沉没投入。',eg:'<strong>举例：</strong>不要做完整方案再汇报，先出一个"能说清核心逻辑"的草案让领导反馈，根据反馈再深化，这就是职场中的MVP思维。'},
+        {term:'MECE原则',domain:'管理',def:'<strong>含义：</strong>相互独立、完全穷尽（Mutually Exclusive, Collectively Exhaustive），是咨询和分析工作的核心结构化思维工具。',eg:'<strong>举例：</strong>分析氢能成本时，MECE分解：制氢成本＋储氢成本＋运氢成本＋用氢成本，四类不重叠不遗漏。'},
+        // ── 金融/经济 ──────────────────────────────────────────────
+        {term:'护城河',domain:'经济',def:'<strong>含义：</strong>企业长期维持竞争优势、抵御竞争对手的核心壁垒，来源于技术专利、品牌、网络效应、规模效应或转换成本。',eg:'<strong>举例：</strong>比亚迪的护城河是电池技术专利＋垂直整合产业链；国家能源集团的护城河是能源基础设施的稀缺性与政策壁垒。'},
+        {term:'边际成本',domain:'经济',def:'<strong>含义：</strong>每多生产一单位产品所增加的成本。规模经济的核心就是通过扩大产量，使边际成本持续下降。',eg:'<strong>举例：</strong>软件的边际成本接近为零（多一个用户几乎不增加成本），而绿氢的边际成本主要是电费，因此大规模廉价电是关键。'},
+        {term:'现金流',domain:'经济',def:'<strong>含义：</strong>企业实际收到和支出的现金流量，比利润更真实地反映经营健康度；"利润≠钱"，没有现金流就无法生存。',eg:'<strong>举例：</strong>一家工程公司账面盈利500万，但应收款压了3000万未收回，资金链断裂而倒闭；健康的现金流才是企业真正的血液。'},
+        {term:'沉没成本',domain:'经济',def:'<strong>含义：</strong>已经发生且无法收回的成本，理性决策时应忽略沉没成本，只看未来的机会与风险。',eg:'<strong>举例：</strong>做了两周的方案发现方向错了，应果断放弃重来，而不是"因为已经花了这么多时间"而硬撑——这是沉没成本谬误。'},
+        {term:'ROI',domain:'经济',def:'<strong>含义：</strong>投资回报率（Return on Investment），衡量投入与收益的比率，是企业项目决策和个人学习投入的核心评估指标。',eg:'<strong>举例：</strong>参加一场1000元的培训，学到能让你加薪5000元/年的技能，ROI=400%；而泛泛地刷短视频时间成本高但ROI接近零。'},
+        {term:'供给侧改革',domain:'经济',def:'<strong>含义：</strong>通过调整生产端的结构、效率和质量来推动经济增长，核心是"去产能、去库存、去杠杆、降成本、补短板"。',eg:'<strong>举例：</strong>2016年中国大规模淘汰煤炭落后产能，关闭无效矿井，推动煤价从低谷回升，是典型的供给侧结构性改革案例。'},
+        {term:'产能利用率',domain:'经济',def:'<strong>含义：</strong>实际产量占最大生产能力的比例，是衡量行业供需状况和企业效率的重要指标，低于75%通常意味着产能过剩。',eg:'<strong>举例：</strong>中国光伏组件产能利用率在2023年跌至60%以下，导致价格暴跌；氢能行业处于产能建设早期，利用率提升空间大。'},
+        // ── 科技/数字化 ────────────────────────────────────────────
+        {term:'机器学习',domain:'科技',def:'<strong>含义：</strong>让计算机通过数据自动"学习"规律而不是被显式编程的方法，是人工智能的核心实现方式。',eg:'<strong>举例：</strong>用历史电催化实验数据训练模型，让机器预测新材料的催化活性，相当于让AI帮你做"第一轮筛选"，大幅减少实验次数。'},
+        {term:'迁移学习',domain:'科技',def:'<strong>含义：</strong>将在一个任务上训练好的模型"迁移"到相关任务，利用已有知识加速新任务的学习，降低数据需求。',eg:'<strong>举例：</strong>用大量文本训练的GPT迁移到化学文献理解；人类学习也是迁移——博士期间的逻辑思维和数据分析能力，完全可以迁移到管培生工作中。'},
+        {term:'大数据',domain:'科技',def:'<strong>含义：</strong>体量巨大、来源多样、产生速度极快的数据集合，通过分析挖掘可发现传统方法无法察觉的规律和价值。',eg:'<strong>举例：</strong>国家能源集团监控几千台风机的传感器数据，通过大数据分析提前预判设备故障，将计划外停机减少60%。'},
+        {term:'数字孪生',domain:'科技',def:'<strong>含义：</strong>在虚拟空间中构建物理实体的精确数字镜像，用于仿真、监控和优化，让"先试错"的成本趋近于零。',eg:'<strong>举例：</strong>在电脑里建造一座完整的制氢工厂数字模型，可以先模拟500种不同运行工况，找到最优参数，再动真实设备。'},
+        {term:'API',domain:'科技',def:'<strong>含义：</strong>应用程序编程接口，让不同软件系统通过标准协议相互"对话"和共享数据，是数字化集成的基础。',eg:'<strong>举例：</strong>你在微信小程序查天气，其实是微信调用了气象局的API；企业ERP和MES系统通过API打通，实现生产数据实时同步。'},
+        {term:'边缘计算',domain:'科技',def:'<strong>含义：</strong>在数据产生的"边缘"（设备、基站、工厂）就近进行计算处理，减少传输延迟，适合实时控制场景。',eg:'<strong>举例：</strong>海上风机的故障诊断如果要传到云端计算再反馈，延迟无法接受；边缘计算让风机本地就能毫秒级完成判断和响应。'},
+        {term:'低代码',domain:'科技',def:'<strong>含义：</strong>通过图形化界面和组件拖拽，让非专业程序员也能快速搭建应用系统，大幅降低数字化建设门槛。',eg:'<strong>举例：</strong>青海市监局用低代码平台在两周内上线了质量数据报送系统，无需专业开发团队，节省了80%的时间和成本。'},
+        {term:'工业互联网',domain:'科技',def:'<strong>含义：</strong>将工业设备、系统与互联网连接，实现生产数据采集、分析和优化，是"互联网+"在制造领域的深度应用。',eg:'<strong>举例：</strong>国家能源集团的煤矿通过工业互联网，将几千个传感器数据统一汇聚到云端平台，总部可实时看到每座矿的安全状态。'},
+        // ── 生产/工程 ──────────────────────────────────────────────
+        {term:'六西格玛',domain:'工程',def:'<strong>含义：</strong>以数据为驱动、将产品缺陷率控制在百万分之3.4以内的质量管理体系，强调用统计工具找根因、消除变异。',eg:'<strong>举例：</strong>波音工厂用六西格玛分析发动机装配中的尺寸偏差，将不合格率从1%降至0.0003%，相当于每30万架才出一个问题。'},
+        {term:'精益生产',domain:'工程',def:'<strong>含义：</strong>以"消除一切浪费"为核心的生产方式，聚焦价值流、库存、等待、过度生产等七类浪费，来自丰田生产方式。',eg:'<strong>举例：</strong>制氢工厂若原材料库存过多会占用资金，工序等待会浪费时间；精益化后按需采购、按节拍生产，成本可降15%-30%。'},
+        {term:'设备综合效率',domain:'工程',def:'<strong>含义：</strong>OEE（Overall Equipment Effectiveness），反映设备可用率×性能效率×合格品率，制造业提升盈利的核心指标。',eg:'<strong>举例：</strong>某电解槽OEE仅60%（可用率80%×性能90%×良率83%），提升到85%意味着同样设备多产出40%的氢气。'},
+        {term:'冗余设计',domain:'工程',def:'<strong>含义：</strong>在关键系统中配置备用部件或路径，某一组件故障时系统仍能正常运行，是工程安全性的基本保障原则。',eg:'<strong>举例：</strong>飞机设计四个发动机，两个失效仍能飞行；关键制氢管道配备双路阀门，一路故障另一路自动切换，确保不停产。'},
+        {term:'全生命周期',domain:'工程',def:'<strong>含义：</strong>对产品或项目从原材料→生产→使用→废弃的全过程进行成本、碳排放或影响的综合评估，避免片面只看某一阶段。',eg:'<strong>举例：</strong>电动车单次行驶碳排放低，但制造电池时碳排放高；全生命周期分析才能真正评估其减排价值，不能只看使用阶段。'},
+        {term:'FMEA',domain:'工程',def:'<strong>含义：</strong>失效模式与影响分析，系统梳理产品或流程可能出现的每种故障，评估其影响和发生概率，提前制定预防措施。',eg:'<strong>举例：</strong>氢气站投产前做FMEA分析，列出"阀门泄漏→点火爆炸"的风险路径，提前设计防爆墙和自动切断装置。'},
+        {term:'标准化',domain:'工程',def:'<strong>含义：</strong>为工作流程、产品规格或行为建立统一规范，是规模化复制和质量稳定的前提，也是"好经验可推广"的基础。',eg:'<strong>举例：</strong>麦当劳能在全球保持一致口感，核心是把炸薯条的温度、时间、用油量都写成标准操作手册；氢能行业亟需建立标准体系。'},
+        // ── 个人成长 ────────────────────────────────────────────────
+        {term:'刻意练习',domain:'成长',def:'<strong>含义：</strong>有目的、有反馈地在舒适区边缘练习，而非简单重复，是专家级能力的唯一来源，由心理学家埃里克森提出。',eg:'<strong>举例：</strong>每天写"今日小结"不是刻意练习；但每次写完后逼自己找出"这段话哪里不清晰"并修改，才是在刻意练习写作。'},
+        {term:'第一性原理',domain:'成长',def:'<strong>含义：</strong>不类比、不套路，回到最基本的物理/逻辑事实重新推演，是破除固有思维、找到颠覆式解法的思维方式。',eg:'<strong>举例：</strong>马斯克问"电池贵是因为材料贵吗？"——从原材料成本推算，答案是否；于是他绕开传统供应链自建，这就是第一性原理。'},
+        {term:'心智模型',domain:'成长',def:'<strong>含义：</strong>用于理解和预测世界运行方式的认知框架，掌握跨领域的核心模型，可以极大提升思考质量。',eg:'<strong>举例：</strong>"供需决定价格"是经济学心智模型；"信噪比"是通信领域模型；这些模型可以迁移到分析氢能产业竞争或人际沟通中。'},
+        {term:'系统思维',domain:'成长',def:'<strong>含义：</strong>把事物看作由相互联系、相互影响的要素构成的系统，关注整体、反馈回路和时间延迟，而非孤立线性地分析问题。',eg:'<strong>举例：</strong>头疼只吃止痛药（线性思维）；系统思维则问"是睡眠、饮食、压力的哪个环节出问题导致的整体失衡？"'},
+        {term:'输出倒逼输入',domain:'成长',def:'<strong>含义：</strong>通过承诺"写出来/讲出来"来倒逼自己深度学习，因为只有真正理解才能输出；是费曼学习法的核心逻辑。',eg:'<strong>举例：</strong>读氢能产业链报告后写一篇500字的梳理发在博客，逼出你真正理解的和还没理解的部分，比单纯读三遍有效得多。'},
+        {term:'比较优势',domain:'成长',def:'<strong>含义：</strong>即使某人在所有方面都弱于对手，专注于相对优势最大的领域仍能创造最大价值，核心是"相对"而非"绝对"。',eg:'<strong>举例：</strong>你的技术背景在同届管培生中是显著比较优势，应当主动在技术与管理的交叉地带发力，而非与纯管理型选手硬拼人际技巧。'},
+        {term:'反脆弱',domain:'成长',def:'<strong>含义：</strong>不仅能承受冲击，还能从冲击和混乱中获益并变得更强的属性，是脆弱和坚韧的更高阶形式，由塔勒布提出。',eg:'<strong>举例：</strong>每次论文被拒并认真修改的博士，比顺利发表的人更抗压；把管培生的每次批评当作"提升信号"而非"攻击"，是反脆弱思维。'},
+        {term:'飞轮效应',domain:'成长',def:'<strong>含义：</strong>成功的各个要素互相驱动形成正向循环，像巨大飞轮刚开始推动需要巨大力量，一旦转起来就越来越快。',eg:'<strong>举例：</strong>每天写博客→获得读者→被督促写更好→知识内化更深→工作表现更好→更有动力写→读者增加，这就是个人飞轮。'},
+        {term:'延迟满足',domain:'成长',def:'<strong>含义：</strong>抵抗即时奖励的诱惑，坚持为更大的未来目标付出当下的努力，是自控力和长期成功的核心能力。',eg:'<strong>举例：</strong>管培生初期抢着做"看得见"的任务争短期表现，还是专注打磨核心技能等待厚积薄发？后者就是延迟满足。'},
+        // ── 心理认知 ────────────────────────────────────────────────
+        {term:'确认偏误',domain:'心理',def:'<strong>含义：</strong>人们倾向于寻找和记住支持自己既有观点的信息，而忽视反驳证据，是认知判断中最普遍的偏误之一。',eg:'<strong>举例：</strong>你认为氢能必然是未来，就只关注利好消息，自动过滤掉储氢运氢难题的报道——这就是确认偏误在工作中的陷阱。'},
+        {term:'认知失调',domain:'心理',def:'<strong>含义：</strong>当一个人的行为与信念不一致时产生的心理不适感，大脑会自动"修改"信念来消除这种张力，而非改变行为。',eg:'<strong>举例：</strong>明知道应该早起学习，却熬夜刷手机；为缓解失调，人会说"今天特殊情况"——而非真正反思行为模式。'},
+        {term:'损失厌恶',domain:'心理',def:'<strong>含义：</strong>人们对"失去"的痛苦感受约是同等"获得"快乐的两倍，导致人倾向于回避损失而非寻求收益。',eg:'<strong>举例：</strong>投资者宁愿长期持有亏损的股票等回本，也不愿"实现亏损"后重仓更好的标的——这是损失厌恶让人做出的非理性决策。'},
+        {term:'锚定效应',domain:'心理',def:'<strong>含义：</strong>人在做判断时，过度依赖第一个获得的信息（"锚"）作为参照基准，导致后续判断系统性偏向该锚点。',eg:'<strong>举例：</strong>谈薪资时，你先出价还是对方先出价？先出高价者会把谈判"锚"固定在高位，最终结果往往更好，这就是锚定的力量。'},
+        {term:'峰终定律',domain:'心理',def:'<strong>含义：</strong>人们对一段体验的整体记忆主要由"最高峰时刻"和"结束时刻"决定，中间过程的平均体验几乎不影响记忆。',eg:'<strong>举例：</strong>汇报时最后一页做成超出预期的精彩总结，比前面几十页都平庸，更容易让领导记住"这个人思路清晰"。'},
+        {term:'心流',domain:'心理',def:'<strong>含义：</strong>全神贯注于某项任务、忘记时间流逝的极度专注状态，此时能力与挑战完美匹配，是人类最高效的工作状态。',eg:'<strong>举例：</strong>写论文时突然"进入状态"，三小时一晃而过、思路极清晰；反之，任务太难则焦虑，太简单则无聊，都无法进入心流。'},
+        {term:'成长型思维',domain:'心理',def:'<strong>含义：</strong>相信能力是可以通过努力和学习不断发展的信念，与"固定型思维"相对，由心理学家卡罗尔·德韦克提出。',eg:'<strong>举例：</strong>被批评方案时，固定型思维："我不擅长管理"；成长型思维："我刚开始学管理，这次反馈让我知道哪里需要改进。"'},
+        {term:'框架效应',domain:'心理',def:'<strong>含义：</strong>相同的事实用不同方式表述，会导致截然不同的判断和选择；语言和视角的框架深刻影响决策。',eg:'<strong>举例：</strong>"手术成功率90%"与"手术死亡率10%"是同一事实，但前者让人更愿意手术——框架效应在汇报中可合理利用。'},
+        {term:'社会认同',domain:'心理',def:'<strong>含义：</strong>在不确定时，人倾向于参照他人行为来决定自己的行动；"大家都这么做"会产生强大的行为引导力。',eg:'<strong>举例：</strong>餐厅菜单上标注"本店最受欢迎"就是利用社会认同；职场中看到优秀同事的工作方式，会本能地仿效和校准。'},
+        // ── 政策/战略 ────────────────────────────────────────────────
+        {term:'战略性新兴产业',domain:'政策',def:'<strong>含义：</strong>国家重点培育的具有重大引领带动作用的产业，包括新一代信息技术、新能源、新材料、生物技术等，享受财政与政策优先支持。',eg:'<strong>举例：</strong>氢能被列入战略性新兴产业，意味着国家能源集团的氢能项目可获得专项补贴、用地优先和融资便利，是做这个方向的政策红利。'},
+        {term:'双碳目标',domain:'政策',def:'<strong>含义：</strong>中国"2030年前碳达峰、2060年前碳中和"的国家战略目标，是能源结构、产业结构全面转型的总纲领。',eg:'<strong>举例：</strong>双碳目标相当于给煤电设了"倒计时"，给风、光、氢能设了"增速器"；你所在的氢能部门是双碳战略最直接的执行者之一。'},
+        {term:'央企考核',domain:'政策',def:'<strong>含义：</strong>国资委对央企负责人业绩考核的体系，近年加入ESG、科技创新、产业链带动等指标，直接影响企业战略选择。',eg:'<strong>举例：</strong>国家能源集团被纳入氢能发展考核指标后，氢能部门的项目在集团内部获得了更高优先级和更多资源，这是政策考核传导的典型路径。'},
+        {term:'PPP模式',domain:'政策',def:'<strong>含义：</strong>政府和社会资本合作（Public-Private Partnership），政府提供政策支持和部分资金，社会资本负责运营，共担风险共享收益。',eg:'<strong>举例：</strong>青海绿氢项目采用PPP模式：地方政府提供土地和电价优惠，国家能源集团出资建厂，税收和就业留地方，收益按比例分成。'},
+        {term:'标准制定权',domain:'政策',def:'<strong>含义：</strong>率先制定行业技术标准的能力，可以"把赛道规则写成有利于自己"，是科技和产业竞争中最高级别的护城河。',eg:'<strong>举例：</strong>谁主导氢能加氢口、氢气纯度、安全规范等国标，谁就能让全产业链按自己的技术路线配套，获得持久竞争优势。'},
+    ];
+
+    (function () {
+        const now = new Date();
+        const utcDay = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+        function lcg(seed) {
+            let s = seed ^ 0xABCDEF01; // 与三问使用不同种子偏移，避免选出相同主题
+            return function () { s = (Math.imul(1664525, s) + 1013904223) >>> 0; return s / 0x100000000; };
+        }
+        const rng = lcg(utcDay);
+        const pool = _KW_POOL.slice();
+        const chosen = [];
+        for (let i = 0; i < 5; i++) {
+            const idx = Math.floor(rng() * pool.length);
+            chosen.push(pool.splice(idx, 1)[0]);
+        }
+        const DOMAIN_COLOR = {
+            '能源':'#e67e22','管理':'#2980b9','经济':'#27ae60',
+            '科技':'#8e44ad','工程':'#c0392b','成长':'#16a085',
+            '心理':'#d35400','政策':'#2c3e50'
+        };
+        const nums = ['01','02','03','04','05'];
+        document.getElementById('kw-list').innerHTML = chosen.map(function(kw, i) {
+            const clr = DOMAIN_COLOR[kw.domain] || 'var(--secondary-color)';
+            return '<div class="kw-item">' +
+                '<div class="kw-left">' +
+                    '<div class="kw-num">' + nums[i] + '</div>' +
+                    '<span class="kw-badge" style="background:' + clr + '18;color:' + clr + ';border-color:' + clr + '33">' + kw.domain + '</span>' +
+                '</div>' +
+                '<div class="kw-right">' +
+                    '<div class="kw-term">' + kw.term + '</div>' +
+                    '<div class="kw-def">' + kw.def + '</div>' +
+                    '<div class="kw-eg">' + kw.eg + '</div>' +
+                '</div></div>';
+        }).join('');
+        const bj = new Date(now.getTime() + 8 * 3600 * 1000);
+        document.getElementById('kw-date').textContent =
+            bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日';
+    })();
 
     // ========== 今日三问 ==========
     // 题库：职业成长 / 学习思考 / 当下与内心 / 关系与表达 / 目标方向
