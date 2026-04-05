@@ -188,9 +188,14 @@ class BlogManager {
             // 更新分类索引页
             await this.updateCategoryIndex(category, title, filename, tagList, content);
 
-            showAlert('blog', '✓ 博客发布成功！GitHub Pages 通常在 1-2 分钟内生效。', 'success');
             this.form.reset();
-            localStorage.removeItem('blog_draft'); // 清除草稿，防止下次打开复现
+            localStorage.removeItem('blog_draft');
+            // 切换到成功状态面板（新版 dashboard 提供，旧版降级为 alert）
+            if (typeof showBlogSuccess === 'function') {
+                showBlogSuccess(title, category);
+            } else {
+                showAlert('blog', '✓ 博客发布成功！约1-2分钟后在博客可见。', 'success');
+            }
 
         } catch (error) {
             showAlert('blog', `发布失败: ${error.message}`, 'error');

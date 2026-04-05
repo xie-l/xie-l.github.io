@@ -3,506 +3,451 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>管理后台 - 个人主页</title>
-    <link rel="stylesheet" href="../css/style.css">
+    <title>管理后台 · 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚙️</text></svg>">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        .admin-header {
-            background: var(--bg-primary);
-            box-shadow: var(--shadow-md);
-            padding: 16px 0;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
+        :root {
+            --primary:   #1e3a5f;
+            --accent:    #2e86de;
+            --accent-lt: rgba(46,134,222,.1);
+            --success:   #10b981;
+            --danger:    #ef4444;
+            --warn:      #f59e0b;
+            --bg:        #f4f6f9;
+            --card:      #ffffff;
+            --border:    #e2e8f0;
+            --text:      #1e293b;
+            --text2:     #64748b;
+            --text3:     #94a3b8;
+            --radius:    10px;
+            --shadow:    0 1px 3px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.06);
+            --shadow2:   0 4px 16px rgba(0,0,0,.12);
         }
-        
-        .admin-nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif; background: var(--bg); color: var(--text); font-size: 15px; line-height: 1.6; min-height: 100vh; }
+
+        /* ───── 顶栏 ───── */
+        .topbar {
+            background: var(--primary);
+            padding: 0 28px;
+            display: flex; align-items: center; justify-content: space-between;
+            height: 58px; position: sticky; top: 0; z-index: 100;
+            box-shadow: 0 2px 10px rgba(0,0,0,.18);
         }
-        
-        .admin-nav h2 {
-            color: var(--text-primary);
-            font-size: 24px;
+        .topbar-brand { color: #fff; font-size: 17px; font-weight: 700; display: flex; align-items: center; gap: 10px; }
+        .topbar-brand i { opacity: .7; }
+        .topbar-nav { display: flex; gap: 4px; }
+        .nav-btn {
+            background: none; border: none; color: rgba(255,255,255,.65);
+            padding: 6px 16px; border-radius: 6px; cursor: pointer;
+            font-size: 14px; font-weight: 500; transition: all .2s; display: flex; align-items: center; gap: 7px;
         }
-        
-        .nav-links {
-            display: flex;
-            gap: 16px;
+        .nav-btn:hover { background: rgba(255,255,255,.12); color: #fff; }
+        .nav-btn.active { background: var(--accent); color: #fff; }
+        .topbar-right { display: flex; align-items: center; gap: 12px; }
+        .home-link { color: rgba(255,255,255,.7); font-size: 13px; text-decoration: none; padding: 5px 10px; border-radius: 5px; transition: .2s; }
+        .home-link:hover { background: rgba(255,255,255,.12); color: #fff; }
+        .logout-btn { background: rgba(239,68,68,.2); color: #fca5a5; border: 1px solid rgba(239,68,68,.3); padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: .2s; display: flex; align-items: center; gap: 6px; }
+        .logout-btn:hover { background: var(--danger); color: #fff; border-color: var(--danger); }
+
+        /* ───── 主体 ───── */
+        .main { max-width: 900px; margin: 0 auto; padding: 32px 20px 60px; }
+        .section { display: none; }
+        .section.active { display: block; }
+
+        /* ───── 卡片 ───── */
+        .card { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); border: 1px solid var(--border); overflow: hidden; margin-bottom: 20px; }
+        .card-header { padding: 18px 24px 0; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; padding-bottom: 16px; }
+        .card-title { font-size: 15px; font-weight: 700; color: var(--text); display: flex; align-items: center; gap: 8px; }
+        .card-title i { color: var(--accent); }
+        .card-body { padding: 24px; }
+
+        /* ───── 表单 ───── */
+        .form-group { margin-bottom: 18px; }
+        .form-label { display: block; font-size: 13px; font-weight: 600; color: var(--text2); margin-bottom: 6px; text-transform: uppercase; letter-spacing: .5px; }
+        .form-input, .form-select, .form-textarea {
+            width: 100%; padding: 10px 14px; border: 1.5px solid var(--border); border-radius: 8px;
+            font-size: 15px; font-family: inherit; color: var(--text); background: #fff;
+            transition: border-color .2s, box-shadow .2s; outline: none;
         }
-        
-        .nav-link {
-            padding: 8px 16px;
-            background: var(--bg-secondary);
-            border-radius: 8px;
-            color: var(--text-primary);
-            text-decoration: none;
-            transition: var(--transition);
+        .form-input:focus, .form-select:focus, .form-textarea:focus {
+            border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-lt);
         }
-        
-        .nav-link:hover,
-        .nav-link.active {
-            background: var(--primary-color);
-            color: white;
+        .form-textarea { resize: vertical; min-height: 340px; line-height: 1.75; }
+        .form-hint { font-size: 12px; color: var(--text3); margin-top: 5px; }
+        .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+        @media(max-width:600px){ .form-row{ grid-template-columns:1fr; } }
+
+        /* ───── 分类按钮 ───── */
+        .cat-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+        .cat-btn {
+            padding: 7px 16px; border: 1.5px solid var(--border); border-radius: 20px;
+            background: #fff; cursor: pointer; font-size: 13px; font-weight: 500; color: var(--text2);
+            transition: all .2s; display: flex; align-items: center; gap: 6px;
         }
-        
-        .logout-btn {
-            padding: 8px 16px;
-            background: #ef4444;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: var(--transition);
+        .cat-btn:hover { border-color: var(--accent); color: var(--accent); }
+        .cat-btn.selected { background: var(--accent); border-color: var(--accent); color: #fff; }
+        input[name="blog-category"] { display: none; }
+
+        /* ───── 编辑器底栏 ───── */
+        .editor-footer {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 14px 24px; background: #fafbfc; border-top: 1px solid var(--border);
+            gap: 12px; flex-wrap: wrap;
         }
-        
-        .logout-btn:hover {
-            background: #dc2626;
+        .editor-meta { font-size: 12px; color: var(--text3); display: flex; align-items: center; gap: 12px; }
+        .editor-actions { display: flex; gap: 8px; }
+
+        /* ───── 按钮 ───── */
+        .btn { padding: 9px 20px; border: none; border-radius: 8px; cursor: pointer; font-size: 14px; font-weight: 600; transition: all .2s; display: inline-flex; align-items: center; gap: 7px; }
+        .btn:disabled { opacity: .5; cursor: not-allowed; }
+        .btn-primary { background: var(--accent); color: #fff; }
+        .btn-primary:hover:not(:disabled) { background: #1a6bbf; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(46,134,222,.35); }
+        .btn-ghost { background: none; border: 1.5px solid var(--border); color: var(--text2); }
+        .btn-ghost:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-lt); }
+        .btn-danger { background: var(--danger); color: #fff; }
+        .btn-danger:hover { background: #dc2626; }
+        .btn-success { background: var(--success); color: #fff; }
+
+        /* ───── 成功状态（博客发布后）───── */
+        .publish-success {
+            display: none; text-align: center; padding: 48px 24px;
         }
-        
-        .admin-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
+        .publish-success .success-icon { font-size: 56px; margin-bottom: 16px; }
+        .publish-success h3 { font-size: 20px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+        .publish-success p { color: var(--text2); margin-bottom: 24px; font-size: 14px; }
+        .publish-success .btn-row { display: flex; gap: 10px; justify-content: center; }
+
+        /* ───── 上传区域 ───── */
+        .dir-cards { display: grid; grid-template-columns: repeat(3,1fr); gap: 10px; margin-bottom: 20px; }
+        @media(max-width:480px){ .dir-cards{ grid-template-columns:1fr 1fr; } }
+        .dir-card {
+            border: 2px solid var(--border); border-radius: 10px; padding: 14px 12px;
+            text-align: center; cursor: pointer; transition: all .2s; background: #fff;
         }
-        
-        .admin-section {
-            display: none;
+        .dir-card:hover { border-color: var(--accent); background: var(--accent-lt); }
+        .dir-card.selected { border-color: var(--accent); background: var(--accent-lt); }
+        .dir-card i { font-size: 22px; color: var(--text3); display: block; margin-bottom: 6px; }
+        .dir-card.selected i { color: var(--accent); }
+        .dir-card span { font-size: 13px; font-weight: 600; color: var(--text2); }
+        .dir-card.selected span { color: var(--accent); }
+        input[name="upload-dir"] { display: none; }
+
+        .drop-zone {
+            border: 2px dashed var(--border); border-radius: 12px; padding: 48px 24px;
+            text-align: center; cursor: pointer; transition: all .2s; background: #fafbfc;
         }
-        
-        .admin-section.active {
-            display: block;
-        }
-        
-        .section-header {
-            margin-bottom: 32px;
-        }
-        
-        .section-header h3 {
-            font-size: 28px;
-            color: var(--text-primary);
-            margin-bottom: 8px;
-        }
-        
-        .section-header p {
-            color: var(--text-secondary);
-        }
-        
-        /* 博客撰写 */
-        .blog-editor {
-            background: var(--bg-primary);
-            border-radius: 12px;
-            padding: 24px;
-            box-shadow: var(--shadow-md);
-        }
-        
-        .form-group {
-            margin-bottom: 20px;
-        }
-        
-        .form-label {
-            display: block;
-            margin-bottom: 8px;
-            font-weight: 500;
-            color: var(--text-primary);
-        }
-        
-        .form-input,
-        .form-select,
-        .form-textarea {
-            width: 100%;
-            padding: 12px 16px;
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            font-size: 16px;
-            transition: var(--transition);
-            font-family: inherit;
-        }
-        
-        .form-input:focus,
-        .form-select:focus,
-        .form-textarea:focus {
-            outline: none;
-            border-color: var(--primary-color);
-            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
-        }
-        
-        .form-textarea {
-            min-height: 400px;
-            resize: vertical;
-        }
-        
-        .btn-group {
-            display: flex;
-            gap: 12px;
-            margin-top: 24px;
-        }
-        
-        .btn {
-            padding: 12px 24px;
-            border: none;
-            border-radius: 8px;
-            font-size: 16px;
-            font-weight: 500;
-            cursor: pointer;
-            transition: var(--transition);
-        }
-        
-        .btn-primary {
-            background: var(--primary-color);
-            color: white;
-        }
-        
-        .btn-primary:hover {
-            background: var(--primary-dark);
-            transform: translateY(-2px);
-        }
-        
-        .btn-secondary {
-            background: var(--bg-secondary);
-            color: var(--text-primary);
-        }
-        
-        .btn-secondary:hover {
-            background: var(--border-color);
-        }
-        
-        /* 文件上传 */
-        .upload-area {
-            border: 2px dashed var(--border-color);
-            border-radius: 12px;
-            padding: 60px 40px;
-            text-align: center;
-            transition: var(--transition);
-            cursor: pointer;
-        }
-        
-        .upload-area:hover {
-            border-color: var(--primary-color);
-            background: var(--bg-secondary);
-        }
-        
-        .upload-area.dragover {
-            border-color: var(--primary-color);
-            background: rgba(59, 130, 246, 0.1);
-        }
-        
-        .upload-icon {
-            font-size: 48px;
-            color: var(--text-light);
-            margin-bottom: 16px;
-        }
-        
-        .upload-text {
-            font-size: 18px;
-            color: var(--text-primary);
-            margin-bottom: 8px;
-        }
-        
-        .upload-hint {
-            font-size: 14px;
-            color: var(--text-light);
-        }
-        
-        .file-input {
-            display: none;
-        }
-        
-        .file-list {
-            margin-top: 32px;
-        }
-        
-        .file-item {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 16px;
-            background: var(--bg-secondary);
-            border-radius: 8px;
-            margin-bottom: 12px;
-            border: 1px solid var(--border-color);
-        }
-        
-        .file-info {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-        
-        .file-icon {
-            font-size: 24px;
-            color: var(--primary-color);
-        }
-        
-        .file-name {
-            font-weight: 500;
-            color: var(--text-primary);
-        }
-        
-        .file-size {
-            font-size: 14px;
-            color: var(--text-light);
-        }
-        
-        .file-actions {
-            display: flex;
-            gap: 8px;
-        }
-        
-        .btn-small {
-            padding: 6px 12px;
-            font-size: 14px;
-        }
-        
-        .btn-danger {
-            background: #ef4444;
-            color: white;
-        }
-        
-        .btn-danger:hover {
-            background: #dc2626;
-        }
-        
-        /* 进度条 */
-        .progress {
-            width: 100%;
-            height: 6px;
-            background: var(--bg-tertiary);
-            border-radius: 3px;
-            overflow: hidden;
-            margin-top: 8px;
-        }
-        
-        .progress-bar {
-            height: 100%;
-            background: var(--primary-color);
-            width: 0%;
-            transition: width 0.3s ease;
-        }
-        
-        /* 提示信息 */
-        .alert {
-            padding: 12px 16px;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            display: none;
-        }
-        
-        .alert-success {
-            background: #dcfce7;
-            color: #166534;
-            border: 1px solid #bbf7d0;
-        }
-        
-        .alert-error {
-            background: #fee2e2;
-            color: #991b1b;
-            border: 1px solid #fecaca;
-        }
-        
-        .alert-info {
-            background: #dbeafe;
-            color: #1e40af;
-            border: 1px solid #bfdbfe;
-        }
-        
-        /* 加载动画 */
-        .loading {
-            display: inline-block;
-            width: 20px;
-            height: 20px;
-            border: 2px solid var(--border-color);
-            border-radius: 50%;
-            border-top-color: var(--primary-color);
-            animation: spin 1s ease-in-out infinite;
-        }
-        
-        @keyframes spin {
-            to { transform: rotate(360deg); }
-        }
-        
-        .hidden {
-            display: none !important;
-        }
+        .drop-zone:hover, .drop-zone.dragover { border-color: var(--accent); background: var(--accent-lt); }
+        .drop-zone i { font-size: 40px; color: var(--text3); margin-bottom: 14px; display: block; }
+        .drop-zone .dz-text { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+        .drop-zone .dz-hint { font-size: 13px; color: var(--text3); }
+        .file-input { display: none; }
+
+        /* ───── 文件列表 ───── */
+        .file-list { margin-top: 20px; display: flex; flex-direction: column; gap: 10px; }
+        .file-item { background: #fff; border: 1.5px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+        .file-item-head { display: flex; align-items: center; gap: 12px; }
+        .file-item-icon { font-size: 22px; color: var(--accent); width: 28px; text-align: center; flex-shrink: 0; }
+        .file-item-info { flex: 1; min-width: 0; }
+        .file-item-name { font-size: 14px; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .file-item-size { font-size: 12px; color: var(--text3); margin-top: 2px; }
+        .file-item-remove { background: none; border: none; color: var(--text3); cursor: pointer; padding: 4px; border-radius: 4px; transition: .2s; }
+        .file-item-remove:hover { color: var(--danger); background: rgba(239,68,68,.08); }
+        .file-item-bar { margin-top: 10px; }
+        .progress { height: 5px; background: #e2e8f0; border-radius: 3px; overflow: hidden; }
+        .progress-bar { height: 100%; background: var(--accent); width: 0; transition: width .3s; border-radius: 3px; }
+        .progress-bar.done { background: var(--success); }
+        .file-status { font-size: 12px; font-weight: 600; margin-top: 5px; }
+        .file-status.success { color: var(--success); }
+        .file-status.error { color: var(--danger); }
+
+        /* ───── 提示信息 ───── */
+        .alert { display: none; padding: 12px 16px; border-radius: 8px; margin-bottom: 18px; font-size: 14px; align-items: center; gap: 8px; }
+        .alert.show { display: flex; }
+        .alert-success { background: #d1fae5; color: #065f46; border: 1px solid #6ee7b7; }
+        .alert-error   { background: #fee2e2; color: #991b1b; border: 1px solid #fca5a5; }
+        .alert-info    { background: #dbeafe; color: #1e40af; border: 1px solid #93c5fd; }
+        .alert-warn    { background: #fef3c7; color: #92400e; border: 1px solid #fcd34d; }
+
+        /* ───── 修改信息 ───── */
+        .info-section-title { font-size: 13px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: .6px; margin: 24px 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--accent-lt); }
+
+        /* ───── 设置 ───── */
+        .setting-row { display: flex; align-items: center; justify-content: space-between; padding: 14px 0; border-bottom: 1px solid var(--border); }
+        .setting-row:last-child { border-bottom: none; }
+        .setting-key { font-size: 13px; font-weight: 600; color: var(--text2); }
+        .setting-val { font-size: 14px; color: var(--text); font-family: 'SF Mono', 'Monaco', monospace; background: var(--bg); padding: 3px 10px; border-radius: 5px; border: 1px solid var(--border); }
+
+        /* ───── 字数计数 ───── */
+        .char-count { font-size: 12px; color: var(--text3); }
+
+        /* ───── 自动保存提示 ───── */
+        .autosave-tip { font-size: 12px; color: var(--text3); display: flex; align-items: center; gap: 5px; }
+        .autosave-tip.saved { color: var(--success); }
     </style>
 </head>
 <body>
-    <header class="admin-header">
-        <div class="container">
-            <div class="admin-nav">
-                <h2>管理后台</h2>
-                <div class="nav-links">
-                    <a href="#" class="nav-link active" data-section="blog">撰写博客</a>
-                    <a href="#" class="nav-link" data-section="files">上传文件</a>
-                    <a href="#" class="nav-link" data-section="profile">修改信息</a>
-                    <a href="#" class="nav-link" data-section="settings">设置</a>
+
+<!-- 顶部导航 -->
+<header class="topbar">
+    <div class="topbar-brand">
+        <i class="fas fa-cog"></i>
+        管理后台
+    </div>
+    <nav class="topbar-nav">
+        <button class="nav-btn active" data-section="blog-section">
+            <i class="fas fa-pen-nib"></i> 撰写博客
+        </button>
+        <button class="nav-btn" data-section="files-section">
+            <i class="fas fa-cloud-upload-alt"></i> 上传文件
+        </button>
+        <button class="nav-btn" data-section="profile-section">
+            <i class="fas fa-user-edit"></i> 修改信息
+        </button>
+        <button class="nav-btn" data-section="settings-section">
+            <i class="fas fa-sliders-h"></i> 设置
+        </button>
+    </nav>
+    <div class="topbar-right">
+        <a href="/" class="home-link"><i class="fas fa-home"></i> 返回主页</a>
+        <button class="logout-btn" onclick="logout()">
+            <i class="fas fa-sign-out-alt"></i> 退出
+        </button>
+    </div>
+</header>
+
+<div class="main">
+
+    <!-- ═══════════════ 撰写博客 ═══════════════ -->
+    <section id="blog-section" class="section active">
+
+        <div id="blog-alert" class="alert"></div>
+
+        <!-- 发布成功状态 -->
+        <div class="card" id="blog-success-panel" style="display:none">
+            <div class="publish-success" style="display:block">
+                <div class="success-icon">🎉</div>
+                <h3 id="success-title">文章发布成功！</h3>
+                <p id="success-desc">约1分钟后在博客页面生效</p>
+                <div class="btn-row">
+                    <button class="btn btn-primary" onclick="showBlogEditor()">
+                        <i class="fas fa-plus"></i> 继续写作
+                    </button>
+                    <a href="/blog/" target="_blank" class="btn btn-ghost">
+                        <i class="fas fa-external-link-alt"></i> 查看博客
+                    </a>
                 </div>
-                <button class="logout-btn" onclick="logout()">
-                    <i class="fas fa-sign-out-alt"></i> 退出
-                </button>
             </div>
         </div>
-    </header>
 
-    <div class="admin-container">
-        <!-- 博客撰写 -->
-        <section id="blog-section" class="admin-section active">
-            <div class="section-header">
-                <h3>撰写博客</h3>
-                <p>创建新的博客文章，支持Markdown格式</p>
+        <!-- 编辑器 -->
+        <div class="card" id="blog-editor-panel">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-pen-nib"></i> 写一篇博客</span>
+                <span class="autosave-tip" id="autosave-tip">
+                    <i class="fas fa-circle" style="font-size:7px"></i> 草稿自动保存
+                </span>
             </div>
-            
-            <div id="blog-alert" class="alert"></div>
-            
-            <div class="blog-editor">
-                <form id="blogForm">
+
+            <form id="blogForm">
+                <div class="card-body">
+                    <!-- 标题 -->
                     <div class="form-group">
-                        <label class="form-label" for="blog-title">文章标题</label>
-                        <input type="text" id="blog-title" class="form-input" placeholder="请输入文章标题" required>
+                        <label class="form-label">文章标题 <span style="color:var(--danger)">*</span></label>
+                        <input type="text" id="blog-title" class="form-input" placeholder="写下你的标题…" required autocomplete="off">
                     </div>
-                    
+
+                    <!-- 分类 -->
                     <div class="form-group">
-                        <label class="form-label" for="blog-category">文章分类</label>
-                        <select id="blog-category" class="form-select" required>
-                            <option value="">请选择分类</option>
-                            <option value="tech">技术思考</option>
+                        <label class="form-label">发布分类 <span style="color:var(--danger)">*</span></label>
+                        <div class="cat-btns" id="cat-btns">
+                            <button type="button" class="cat-btn" data-val="life">
+                                <i class="fas fa-calendar-day"></i> 生活日记
+                            </button>
+                            <button type="button" class="cat-btn" data-val="books">
+                                <i class="fas fa-book-open"></i> 书籍阅读
+                            </button>
+                            <button type="button" class="cat-btn" data-val="tech">
+                                <i class="fas fa-laptop-code"></i> 技术思考
+                            </button>
+                            <button type="button" class="cat-btn" data-val="analysis">
+                                <i class="fas fa-chart-bar"></i> 数据分析
+                            </button>
+                        </div>
+                        <!-- 隐藏 select 保持 JS 兼容 -->
+                        <select id="blog-category" style="display:none" required>
+                            <option value=""></option>
                             <option value="life">生活日记</option>
                             <option value="books">书籍阅读</option>
+                            <option value="tech">技术思考</option>
                             <option value="analysis">数据分析</option>
                         </select>
                     </div>
-                    
+
+                    <!-- 标签 -->
                     <div class="form-group">
-                        <label class="form-label" for="blog-tags">标签（用逗号分隔）</label>
-                        <input type="text" id="blog-tags" class="form-input" placeholder="例如: 机器学习, Python, 科研">
+                        <label class="form-label">标签</label>
+                        <input type="text" id="blog-tags" class="form-input" placeholder="读书笔记，成长，氢能…（中英文逗号/顿号均可）" autocomplete="off">
+                        <div class="form-hint">多个标签用逗号或顿号分隔，标签可在博客页点击搜索</div>
                     </div>
-                    
+
+                    <!-- 内容 -->
                     <div class="form-group">
-                        <label class="form-label" for="blog-content">文章内容（支持Markdown）</label>
-                        <textarea id="blog-content" class="form-textarea" placeholder="请输入文章内容..." required></textarea>
+                        <label class="form-label" style="display:flex;justify-content:space-between">
+                            <span>文章内容 <span style="color:var(--danger)">*</span></span>
+                            <span class="char-count" id="char-count">0 字</span>
+                        </label>
+                        <textarea id="blog-content" class="form-textarea" placeholder="开始写作……&#10;&#10;支持分段（每个空行产生新段落）。&#10;写完后点「发布文章」即可上线。" required></textarea>
                     </div>
-                    
-                    <div class="btn-group">
-                        <button type="button" class="btn btn-secondary" onclick="previewBlog()">
+                </div>
+
+                <!-- 底栏 -->
+                <div class="editor-footer">
+                    <div class="editor-meta">
+                        <button type="button" class="btn btn-ghost" onclick="previewBlog()" style="padding:6px 14px;font-size:13px">
                             <i class="fas fa-eye"></i> 预览
                         </button>
-                        <button type="button" class="btn btn-secondary" onclick="saveDraft()">
+                        <button type="button" class="btn btn-ghost" onclick="saveDraft()" style="padding:6px 14px;font-size:13px">
                             <i class="fas fa-save"></i> 保存草稿
                         </button>
-                        <button type="submit" class="btn btn-primary">
-                            <i class="fas fa-paper-plane"></i> 发布文章
-                        </button>
                     </div>
-                </form>
-            </div>
-        </section>
+                    <button type="submit" class="btn btn-primary" id="blog-submit-btn">
+                        <i class="fas fa-paper-plane"></i> 发布文章
+                    </button>
+                </div>
+            </form>
+        </div>
+    </section>
 
-        <!-- 文件上传 -->
-        <section id="files-section" class="admin-section">
-            <div class="section-header">
-                <h3>上传文件</h3>
-                <p>上传图片、文档等文件到GitHub仓库</p>
+    <!-- ═══════════════ 上传文件 ═══════════════ -->
+    <section id="files-section" class="section">
+
+        <div id="file-alert" class="alert"></div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-folder-open"></i> 选择目录</span>
             </div>
-            
-            <div id="file-alert" class="alert"></div>
-            
-            <div class="upload-area" onclick="document.getElementById('file-input').click()">
-                <div class="upload-icon">
+            <div class="card-body">
+                <div class="dir-cards" id="dir-cards">
+                    <label class="dir-card selected" data-val="files/photos/">
+                        <i class="fas fa-images"></i>
+                        <span>照片相册</span>
+                        <input type="radio" name="upload-dir" value="files/photos/" checked>
+                    </label>
+                    <label class="dir-card" data-val="files/documents/">
+                        <i class="fas fa-file-alt"></i>
+                        <span>文档资料</span>
+                        <input type="radio" name="upload-dir" value="files/documents/">
+                    </label>
+                    <label class="dir-card" data-val="blog/images/">
+                        <i class="fas fa-image"></i>
+                        <span>博客配图</span>
+                        <input type="radio" name="upload-dir" value="blog/images/">
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">文件标签 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                    <input type="text" id="upload-tags" class="form-input" placeholder="例：青海，旅行，氢能会议（点击上传后标签会附在文件上）" autocomplete="off">
+                    <div class="form-hint">中英文逗号/顿号均可分隔。上传完成后标签可在照片页点击搜索</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-cloud-upload-alt"></i> 上传文件</span>
+                <span style="font-size:13px;color:var(--text3)">单文件最大 10 MB</span>
+            </div>
+            <div class="card-body">
+                <div class="drop-zone" id="upload-area" onclick="document.getElementById('file-input').click()">
                     <i class="fas fa-cloud-upload-alt"></i>
+                    <div class="dz-text">点击选择文件，或直接拖拽到此处</div>
+                    <div class="dz-hint">支持 JPG / PNG / GIF / PDF / DOCX / XLSX 等常见格式</div>
+                    <input type="file" id="file-input" class="file-input" multiple>
                 </div>
-                <div class="upload-text">
-                    点击或拖拽文件到此处上传
-                </div>
-                <div class="upload-hint">
-                    支持图片、文档等文件，单个文件最大10MB
-                </div>
-                <input type="file" id="file-input" class="file-input" multiple>
+                <div id="file-list" class="file-list"></div>
             </div>
-            
-            <div class="form-group">
-                <label class="form-label">上传目录</label>
-                <select id="upload-directory" class="form-select">
-                    <option value="files/photos/">照片相册</option>
-                    <option value="files/documents/">文档资料</option>
-                    <option value="blog/images/">博客图片</option>
-                </select>
-            </div>
+        </div>
 
-            <div class="form-group">
-                <label class="form-label">文件标签 <span style="font-weight:400;color:#888">（可选，逗号分隔，如：青海,旅行,工作）</span></label>
-                <input type="text" id="upload-tags" class="form-input" placeholder="例：青海，旅行，氢能会议">
-            </div>
+        <!-- 隐藏 select 保持 JS 兼容 -->
+        <select id="upload-directory" style="display:none">
+            <option value="files/photos/">照片相册</option>
+            <option value="files/documents/">文档资料</option>
+            <option value="blog/images/">博客图片</option>
+        </select>
+    </section>
 
-            <div id="file-list" class="file-list"></div>
-        </section>
+    <!-- ═══════════════ 修改信息 ═══════════════ -->
+    <section id="profile-section" class="section">
 
-        <!-- 修改个人信息 -->
-        <section id="profile-section" class="admin-section">
-            <div class="section-header">
-                <h3>修改个人信息</h3>
-                <p>编辑主页的个人信息、教育背景、科研成果等内容</p>
+        <div id="profile-alert" class="alert"></div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-id-card"></i> 个人信息卡片</span>
+                <span style="font-size:12px;color:var(--text3)">首屏展示区域</span>
             </div>
-            
-            <div id="profile-alert" class="alert"></div>
-            
-            <div class="blog-editor">
+            <div class="card-body">
                 <form id="profileForm">
-                    <div class="form-group">
-                        <label class="form-label" for="profile-name">姓名</label>
-                        <input type="text" id="profile-name" class="form-input" placeholder="请输入姓名" required>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-title">职称/学位</label>
-                        <input type="text" id="profile-title" class="form-input" placeholder="例如：工学博士" required>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-bio">个人简介</label>
-                        <textarea id="profile-bio" class="form-textarea" rows="6" placeholder="请输入个人简介" required></textarea>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-tags">标签（用逗号分隔）</label>
-                        <input type="text" id="profile-tags" class="form-input" placeholder="例如：电催化制氢, 机器学习">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label">姓名</label>
+                            <input type="text" id="profile-name" class="form-input" placeholder="姓名" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">邮箱</label>
+                            <input type="email" id="profile-email" class="form-input" placeholder="邮箱地址">
+                        </div>
                     </div>
 
                     <div class="form-group">
-                        <label class="form-label" for="profile-email">邮箱</label>
-                        <input type="email" id="profile-email" class="form-input" placeholder="请输入邮箱">
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-phone">电话</label>
-                        <input type="tel" id="profile-phone" class="form-input" placeholder="请输入电话">
-                    </div>
-                    
-                    <div class="form-group">
-                        <label class="form-label" for="profile-address">地址</label>
-                        <input type="text" id="profile-address" class="form-input" placeholder="请输入地址">
+                        <label class="form-label">职称 / 身份</label>
+                        <input type="text" id="profile-title" class="form-input" placeholder="例：工学博士 · 国家能源集团氢能管培生" required>
                     </div>
 
                     <div class="form-group">
-                        <label class="form-label" for="profile-github">GitHub 链接</label>
-                        <input type="url" id="profile-github" class="form-input" placeholder="例如：https://github.com/xie-l">
+                        <label class="form-label">一句话简介（卡片摘要）</label>
+                        <textarea id="profile-bio" class="form-textarea" rows="4" placeholder="主页卡片上显示的简短介绍…" required style="min-height:100px"></textarea>
                     </div>
 
-                    <hr style="margin: 30px 0; border: none; border-top: 1px solid var(--border-color);">
-                    <h4 style="color: var(--text-primary); margin-bottom: 20px;">个人简介（主页正文）</h4>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label class="form-label">技能标签（逗号分隔）</label>
+                            <input type="text" id="profile-tags" class="form-input" placeholder="电催化制氢, 机器学习">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label">GitHub 链接</label>
+                            <input type="url" id="profile-github" class="form-input" placeholder="https://github.com/xie-l">
+                        </div>
+                    </div>
+
+                    <!-- 隐藏电话字段保持 JS 兼容 -->
+                    <input type="hidden" id="profile-phone" value="">
+
                     <div class="form-group">
-                        <label class="form-label" for="profile-about">简介段落（每行一段，自动生成为独立段落）</label>
-                        <textarea id="profile-about" class="form-textarea" rows="12" placeholder="每一行为一个段落，保存后自动更新主页简介区域。"></textarea>
+                        <label class="form-label">通讯地址</label>
+                        <input type="text" id="profile-address" class="form-input" placeholder="详细地址">
                     </div>
 
-                    <div class="alert alert-info" style="display:block; margin-bottom:0;">
+                    <div class="info-section-title">个人简介正文</div>
+
+                    <div class="form-group">
+                        <label class="form-label">简介段落</label>
+                        <textarea id="profile-about" class="form-textarea" rows="10" placeholder="每行为一个段落，保存后自动更新主页正文简介区域。"></textarea>
+                        <div class="form-hint">每行对应主页一段，换行即新段落</div>
+                    </div>
+
+                    <div class="alert alert-info show" style="margin-bottom:20px">
                         <i class="fas fa-info-circle"></i>
-                        <strong>教育背景、科研项目、论文成果、获奖荣誉</strong>等详细模块内容较复杂，请直接编辑 <code>index.html</code> 源文件进行修改，保存后自动部署。
+                        <span><strong>教育背景、科研论文、获奖荣誉</strong>等复杂模块请直接编辑 <code>index.html</code> 源文件</span>
                     </div>
-                    
-                    <div class="btn-group">
-                        <button type="button" class="btn btn-secondary" onclick="previewProfile()">
-                            <i class="fas fa-eye"></i> 预览
+
+                    <div style="display:flex;gap:10px;margin-top:8px">
+                        <button type="button" class="btn btn-ghost" onclick="previewProfile()">
+                            <i class="fas fa-eye"></i> 预览效果
                         </button>
                         <button type="submit" class="btn btn-primary">
                             <i class="fas fa-save"></i> 保存并更新主页
@@ -510,41 +455,134 @@
                     </div>
                 </form>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- 设置 -->
-        <section id="settings-section" class="admin-section">
-            <div class="section-header">
-                <h3>设置</h3>
-                <p>管理您的GitHub配置</p>
+    <!-- ═══════════════ 设置 ═══════════════ -->
+    <section id="settings-section" class="section">
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-key"></i> 当前连接信息</span>
             </div>
-            
-            <div class="blog-editor">
-                <div class="form-group">
-                    <label class="form-label">GitHub Token</label>
-                    <input type="password" id="settings-token" class="form-input" readonly>
-                    <small style="color: var(--text-light);">Token已安全存储在浏览器中</small>
+            <div class="card-body">
+                <div class="setting-row">
+                    <span class="setting-key">GitHub Token</span>
+                    <span class="setting-val" id="settings-token">●●●●●●●●</span>
                 </div>
-                
-                <div class="form-group">
-                    <label class="form-label">仓库名称</label>
-                    <input type="text" id="settings-repo" class="form-input" readonly>
+                <div class="setting-row">
+                    <span class="setting-key">仓库所有者</span>
+                    <span class="setting-val" id="settings-owner">—</span>
                 </div>
-                
-                <div class="form-group">
-                    <label class="form-label">仓库所有者</label>
-                    <input type="text" id="settings-owner" class="form-input" readonly>
+                <div class="setting-row">
+                    <span class="setting-key">仓库名称</span>
+                    <span class="setting-val" id="settings-repo">—</span>
                 </div>
-                
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-exclamation-triangle" style="color:var(--warn)"></i> 危险操作</span>
+            </div>
+            <div class="card-body">
+                <p style="font-size:14px;color:var(--text2);margin-bottom:16px">清除本地存储的 Token 和仓库信息，清除后需重新登录。</p>
                 <button class="btn btn-danger" onclick="clearSettings()">
-                    <i class="fas fa-trash"></i> 清除本地设置
+                    <i class="fas fa-trash-alt"></i> 清除本地设置并退出
                 </button>
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="profile-editor.js"></script>
-    <script src="main.js"></script>
+</div><!-- /.main -->
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="profile-editor.js"></script>
+<script src="main.js"></script>
+
+<script>
+/* ── 导航切换 ── */
+document.querySelectorAll('.nav-btn[data-section]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('.nav-btn').forEach(function(b){ b.classList.remove('active'); });
+        document.querySelectorAll('.section').forEach(function(s){ s.classList.remove('active'); });
+        btn.classList.add('active');
+        document.getElementById(btn.dataset.section).classList.add('active');
+        // 激活设置时填充数据
+        if (btn.dataset.section === 'settings-section') fillSettings();
+    });
+});
+
+function fillSettings() {
+    const t = localStorage.getItem('github_token') || '';
+    const o = localStorage.getItem('github_owner') || '—';
+    const r = localStorage.getItem('github_repo')  || '—';
+    document.getElementById('settings-token').textContent = t ? t.slice(0,4)+'●●●●'+t.slice(-4) : '未配置';
+    document.getElementById('settings-owner').textContent = o;
+    document.getElementById('settings-repo').textContent  = r;
+}
+
+/* ── 分类按钮联动隐藏 select ── */
+document.querySelectorAll('#cat-btns .cat-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        document.querySelectorAll('#cat-btns .cat-btn').forEach(function(b){ b.classList.remove('selected'); });
+        btn.classList.add('selected');
+        document.getElementById('blog-category').value = btn.dataset.val;
+    });
+});
+// 恢复草稿时同步分类高亮
+function syncCatBtn(val) {
+    document.querySelectorAll('#cat-btns .cat-btn').forEach(function(b){
+        b.classList.toggle('selected', b.dataset.val === val);
+    });
+}
+
+/* ── 目录卡片联动隐藏 select ── */
+document.querySelectorAll('#dir-cards .dir-card').forEach(function(card) {
+    card.addEventListener('click', function() {
+        document.querySelectorAll('#dir-cards .dir-card').forEach(function(c){ c.classList.remove('selected'); });
+        card.classList.add('selected');
+        document.getElementById('upload-directory').value = card.dataset.val;
+    });
+});
+
+/* ── 字数统计 ── */
+document.getElementById('blog-content').addEventListener('input', function() {
+    var n = this.value.replace(/\s/g,'').length;
+    document.getElementById('char-count').textContent = n + ' 字';
+});
+
+/* ── 自动保存提示回调（供 main.js 调用）── */
+function updateAutosaveTip(text, ok) {
+    var el = document.getElementById('autosave-tip');
+    el.textContent = text;
+    el.className = 'autosave-tip' + (ok ? ' saved' : '');
+}
+
+/* ── 发布成功后切换状态 ── */
+function showBlogSuccess(title, category) {
+    var catNames = {life:'生活日记', books:'书籍阅读', tech:'技术思考', analysis:'数据分析'};
+    document.getElementById('success-title').textContent = '🎉 "' + title + '" 已发布！';
+    document.getElementById('success-desc').textContent = '已发布到「' + (catNames[category]||category) + '」，约1分钟后在博客可见';
+    document.getElementById('blog-editor-panel').style.display = 'none';
+    document.getElementById('blog-success-panel').style.display = '';
+}
+function showBlogEditor() {
+    document.getElementById('blog-editor-panel').style.display = '';
+    document.getElementById('blog-success-panel').style.display = 'none';
+    document.getElementById('char-count').textContent = '0 字';
+    document.getElementById('blog-category').value = '';
+    document.querySelectorAll('#cat-btns .cat-btn').forEach(function(b){ b.classList.remove('selected'); });
+}
+
+/* ── 草稿加载时同步分类高亮 ── */
+var _origLoadDraft;
+document.addEventListener('DOMContentLoaded', function() {
+    // 在 main.js loadDraft 执行后同步分类按钮
+    setTimeout(function() {
+        var val = document.getElementById('blog-category').value;
+        if (val) syncCatBtn(val);
+    }, 100);
+});
+</script>
 </body>
 </html>
