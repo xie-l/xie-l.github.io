@@ -51,6 +51,75 @@
         .sidebar::-webkit-scrollbar { width: 3px; }
         .sidebar::-webkit-scrollbar-track { background: transparent; }
         .sidebar::-webkit-scrollbar-thumb { background: rgba(52,152,219,0.3); border-radius: 2px; }
+        /* ===== 年度目标 ===== */
+        .goals-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
+        .goal-card {
+            background: var(--bg-secondary); border-radius: 10px; padding: 20px;
+            border-top: 3px solid var(--secondary-color); transition: var(--transition);
+        }
+        .goal-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+        .goal-icon { font-size: 22px; color: var(--secondary-color); margin-bottom: 10px; }
+        .goal-card h3 { font-size: 15px; font-weight: 700; color: var(--primary-color); margin-bottom: 12px; }
+        .goal-card ul { list-style: none; margin: 0; padding: 0; }
+        .goal-card li {
+            font-size: 13px; color: var(--text-color); padding: 6px 0;
+            border-bottom: 1px solid rgba(0,0,0,0.06);
+            display: flex; align-items: flex-start; gap: 7px; line-height: 1.5;
+        }
+        .goal-card li:last-child { border-bottom: none; }
+        .goal-card li::before { content: "→"; color: var(--secondary-color); flex-shrink: 0; font-size: 12px; margin-top: 2px; }
+        @media(max-width:768px){ .goals-grid{ grid-template-columns:1fr; } }
+
+        /* ===== 快速记录 ===== */
+        .quick-record-fab {
+            position: fixed; bottom: 88px; right: 28px;
+            width: 50px; height: 50px; background: var(--secondary-color);
+            color: #fff; border-radius: 50%; display: flex; align-items: center;
+            justify-content: center; font-size: 19px; cursor: pointer;
+            box-shadow: 0 4px 16px rgba(52,152,219,0.45); z-index: 900;
+            transition: transform .2s, box-shadow .2s; border: none;
+        }
+        .quick-record-fab:hover { transform: scale(1.12); box-shadow: 0 6px 22px rgba(52,152,219,0.55); }
+        .qr-overlay {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.48);
+            z-index: 1000; display: none; align-items: center; justify-content: center;
+        }
+        .qr-overlay.open { display: flex; }
+        .qr-modal {
+            background: var(--card-bg,#fff); border-radius: 16px; padding: 28px;
+            width: min(600px, 92vw); max-height: 88vh;
+            display: flex; flex-direction: column; gap: 14px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.22);
+        }
+        .qr-head { display: flex; justify-content: space-between; align-items: center; }
+        .qr-head h3 { margin: 0; font-size: 17px; color: var(--primary-color); }
+        .qr-close-btn { background: none; border: none; font-size: 18px; cursor: pointer; color: var(--text-light); padding: 4px; }
+        .qr-types { display: flex; gap: 8px; flex-wrap: wrap; }
+        .qr-type-btn {
+            padding: 5px 14px; border: 1px solid var(--border-color);
+            background: none; border-radius: 20px; cursor: pointer;
+            font-size: 13px; color: var(--text-light); transition: .2s;
+        }
+        .qr-type-btn.on { background: var(--secondary-color); color: #fff; border-color: var(--secondary-color); }
+        .qr-title-input, .qr-body-input {
+            width: 100%; padding: 10px 14px; box-sizing: border-box;
+            border: 1px solid var(--border-color); border-radius: 8px;
+            font-size: 14px; background: var(--bg-secondary); color: var(--text-color);
+            transition: border .2s; font-family: inherit;
+        }
+        .qr-title-input:focus, .qr-body-input:focus { outline: none; border-color: var(--secondary-color); }
+        .qr-body-input { min-height: 190px; resize: vertical; line-height: 1.75; }
+        .qr-foot { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+        .qr-foot-status { font-size: 13px; color: var(--text-light); flex: 1; }
+        .qr-publish-btn {
+            padding: 9px 22px; background: var(--secondary-color); color: #fff;
+            border: none; border-radius: 8px; cursor: pointer; font-size: 14px;
+            font-weight: 600; transition: background .2s;
+        }
+        .qr-publish-btn:hover { background: var(--primary-color); }
+        .qr-publish-btn:disabled { opacity: .5; cursor: not-allowed; }
+        .qr-shortcut { font-size: 11px; color: var(--text-light); opacity: .7; }
+
         /* ===== 资讯动态 ===== */
         .news-tabs { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
         .news-tab {
@@ -109,8 +178,9 @@
                 </div>
                 <nav class="nav">
                     <ul class="nav-menu">
+                        <li><a href="#news-feed" class="nav-link">资讯</a></li>
+                        <li><a href="#goals" class="nav-link">目标</a></li>
                         <li><a href="blog/" class="nav-link nav-external">博客</a></li>
-                        <li><a href="files/" class="nav-link nav-external">资源</a></li>
                         <li><a href="admin/login.html" class="nav-link nav-external">管理</a></li>
                     </ul>
                 </nav>
@@ -207,6 +277,44 @@
                             <div id="news-content">
                                 <div class="news-status">
                                     <i class="fas fa-spinner fa-spin"></i> 加载中...
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 年度目标 -->
+                    <section id="goals" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">2026 年度方向</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="goals-grid">
+                                <div class="goal-card">
+                                    <div class="goal-icon"><i class="fas fa-briefcase"></i></div>
+                                    <h3>职业发展</h3>
+                                    <ul>
+                                        <li>顺利入职国家能源集团氢能部门</li>
+                                        <li>完成管培生轮岗，建立产业认知体系</li>
+                                        <li>将博士积累的电催化能力转化为产业价值</li>
+                                    </ul>
+                                </div>
+                                <div class="goal-card">
+                                    <div class="goal-icon"><i class="fas fa-flask"></i></div>
+                                    <h3>科研收尾</h3>
+                                    <ul>
+                                        <li>顺利通过博士学位论文答辩</li>
+                                        <li>推动在投论文顺利发表</li>
+                                        <li>参与青海盐湖制氢400万项目落地</li>
+                                    </ul>
+                                </div>
+                                <div class="goal-card">
+                                    <div class="goal-icon"><i class="fas fa-seedling"></i></div>
+                                    <h3>个人成长</h3>
+                                    <ul>
+                                        <li>坚持每日阅读与写作，年输出10万字+</li>
+                                        <li>系统建立能源行业知识框架</li>
+                                        <li>保持运动习惯，维持体能状态</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -934,6 +1042,33 @@
         <i class="fas fa-arrow-up"></i>
     </div>
 
+    <!-- 快速记录悬浮按钮 -->
+    <button class="quick-record-fab" id="qrFab" title="快速记录 (Ctrl+Shift+N)">
+        <i class="fas fa-pen"></i>
+    </button>
+
+    <!-- 快速记录模态框 -->
+    <div class="qr-overlay" id="qrOverlay">
+        <div class="qr-modal">
+            <div class="qr-head">
+                <h3>✏️ 快速记录</h3>
+                <button class="qr-close-btn" id="qrClose"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="qr-types">
+                <button class="qr-type-btn on" data-type="diary">📅 日记</button>
+                <button class="qr-type-btn" data-type="idea">💡 灵感</button>
+                <button class="qr-type-btn" data-type="notes">📖 读书笔记</button>
+            </div>
+            <input class="qr-title-input" id="qrTitle" type="text" placeholder="标题（留空则自动生成）">
+            <textarea class="qr-body-input" id="qrBody" placeholder="写点什么……支持换行，每段将自动排版为段落。"></textarea>
+            <div class="qr-foot">
+                <span class="qr-foot-status" id="qrStatus"></span>
+                <span class="qr-shortcut">快捷键：Ctrl+Shift+N</span>
+                <button class="qr-publish-btn" id="qrPublish">发布到博客</button>
+            </div>
+        </div>
+    </div>
+
     <script src="js/main.js"></script>
     <style>
         #email-toast {
@@ -1169,6 +1304,135 @@
         if (btn) btn.addEventListener('click', function(){ _allNewsData = null; _loadNewsJSON(true); });
     })();
     _loadNewsJSON(false);
+
+    // ========== 快速记录 ==========
+    (function () {
+        const fab     = document.getElementById('qrFab');
+        const overlay = document.getElementById('qrOverlay');
+        const closeBtn= document.getElementById('qrClose');
+        const titleEl = document.getElementById('qrTitle');
+        const bodyEl  = document.getElementById('qrBody');
+        const pubBtn  = document.getElementById('qrPublish');
+        const statusEl= document.getElementById('qrStatus');
+        let qrType = 'diary';
+
+        function openModal()  { overlay.classList.add('open');    bodyEl.focus(); }
+        function closeModal() { overlay.classList.remove('open'); statusEl.textContent = ''; }
+
+        fab.addEventListener('click', openModal);
+        closeBtn.addEventListener('click', closeModal);
+        overlay.addEventListener('click', function(e) { if (e.target === overlay) closeModal(); });
+
+        document.querySelectorAll('.qr-type-btn').forEach(function(btn) {
+            btn.addEventListener('click', function () {
+                document.querySelectorAll('.qr-type-btn').forEach(function(b){ b.classList.remove('on'); });
+                this.classList.add('on');
+                qrType = this.dataset.type;
+            });
+        });
+
+        // Ctrl/Cmd + Shift + N 全局快捷键
+        document.addEventListener('keydown', function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'N') {
+                e.preventDefault();
+                overlay.classList.contains('open') ? closeModal() : openModal();
+            }
+            if (e.key === 'Escape' && overlay.classList.contains('open')) closeModal();
+        });
+
+        function pad(n) { return String(n).padStart(2, '0'); }
+
+        function buildBlogHTML(type, title, content, now) {
+            const typeNames = { diary: '日记', idea: '灵感', notes: '读书笔记' };
+            const typeName  = typeNames[type] || '随笔';
+            const dateStr   = now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日';
+            const paras = content.split('\n')
+                .map(function(l){ return l.trim(); })
+                .filter(Boolean)
+                .map(function(l){ return '            <p>' + l.replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</p>'; })
+                .join('\n');
+            return '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n' +
+                '    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
+                '    <title>' + title + ' - 谢亮</title>\n' +
+                '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>✏️</text></svg>">\n' +
+                '    <link rel="stylesheet" href="../../css/style.css">\n' +
+                '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">\n' +
+                '    <style>\n' +
+                '        .blog-container{max-width:800px;margin:100px auto 50px;padding:0 20px}\n' +
+                '        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}\n' +
+                '        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}\n' +
+                '        .post-title{font-size:26px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}\n' +
+                '        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}\n' +
+                '        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}\n' +
+                '        .post-content p{margin-bottom:18px;text-align:justify}\n' +
+                '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px}\n' +
+                '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
+                '    </style>\n</head>\n<body>\n' +
+                '    <div class="blog-container">\n' +
+                '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回</a>\n' +
+                '        <article class="post-header">\n' +
+                '            <h1 class="post-title">' + title + '</h1>\n' +
+                '            <div class="post-meta">\n' +
+                '                <span><i class="fas fa-calendar"></i> ' + dateStr + '</span>\n' +
+                '                <span><i class="fas fa-tag"></i> ' + typeName + '</span>\n' +
+                '            </div>\n        </article>\n' +
+                '        <div class="post-content">\n' + paras + '\n' +
+                '            <div class="post-tags"><span class="tag">' + typeName + '</span></div>\n' +
+                '        </div>\n    </div>\n</body>\n</html>';
+        }
+
+        pubBtn.addEventListener('click', async function () {
+            const raw = bodyEl.value.trim();
+            if (!raw) { statusEl.textContent = '请先写点内容'; return; }
+
+            const token = localStorage.getItem('github_token');
+            const owner = localStorage.getItem('github_owner');
+            const repo  = localStorage.getItem('github_repo');
+            if (!token || !owner || !repo) {
+                statusEl.textContent = '请先登录管理员面板';
+                setTimeout(function(){ window.open('/admin/login.html','_blank'); }, 800);
+                return;
+            }
+
+            const now = new Date();
+            const typeNames = { diary: '日记', idea: '灵感', notes: '读书笔记' };
+            let title = titleEl.value.trim();
+            if (!title) title = typeNames[qrType] + '·' + now.getFullYear() + '.' + (now.getMonth()+1) + '.' + now.getDate();
+
+            const category = qrType === 'notes' ? 'books' : 'life';
+            const safe = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 28);
+            const stamp = now.getFullYear() + pad(now.getMonth()+1);
+            const filename = safe + '（' + stamp + '）.html';
+            const path = 'blog/' + category + '/' + filename;
+            const html = buildBlogHTML(qrType, title, raw, now);
+            const encoded = btoa(unescape(encodeURIComponent(html)));
+
+            pubBtn.disabled = true;
+            statusEl.textContent = '发布中…';
+
+            try {
+                const resp = await fetch(
+                    'https://api.github.com/repos/' + owner + '/' + repo + '/contents/' + encodeURIComponent(path),
+                    {
+                        method: 'PUT',
+                        headers: { 'Authorization': 'token ' + token, 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ message: '快速记录：' + title, content: encoded })
+                    }
+                );
+                if (resp.ok) {
+                    statusEl.textContent = '✓ 已发布！约1分钟后上线';
+                    titleEl.value = ''; bodyEl.value = '';
+                    setTimeout(closeModal, 2500);
+                } else {
+                    const err = await resp.json().catch(function(){ return {}; });
+                    statusEl.textContent = '发布失败：' + (err.message || resp.status);
+                }
+            } catch (e) {
+                statusEl.textContent = '网络错误，请重试';
+            }
+            pubBtn.disabled = false;
+        });
+    })();
 
     // ========== 邮件链接增强 ==========
     // 点击 mailto: 链接时：尝试打开邮件客户端，同时弹出提示并自动复制邮箱
