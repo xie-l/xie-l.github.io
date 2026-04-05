@@ -2,7 +2,7 @@ name: Fetch News Feeds
 
 on:
   schedule:
-    - cron: '0 1,7,13,19 * * *'   # 北京时间 9:00 / 15:00 / 21:00 / 03:00
+    - cron: '0 22,2,7,14 * * *'   # 北京时间 6:00 / 10:00 / 15:00 / 22:00
   workflow_dispatch:                # 可在 GitHub Actions 页面手动触发
 
 permissions:
