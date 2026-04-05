@@ -9,6 +9,38 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* ===== 实时时间 & 天气 Widget ===== */
+        .clock-wrap { text-align: center; padding: 4px 0 8px; }
+        .clock-time {
+            font-size: 2rem; font-weight: 700; letter-spacing: 3px;
+            color: var(--primary-color); font-variant-numeric: tabular-nums;
+            line-height: 1.15;
+        }
+        .clock-gregorian {
+            font-size: 12.5px; color: var(--text-light);
+            margin: 5px 0 4px;
+        }
+        .clock-lunar {
+            display: inline-block; font-size: 12px;
+            color: var(--secondary-color);
+            background: rgba(52,152,219,0.09);
+            padding: 2px 12px; border-radius: 12px;
+        }
+        .weather-rows { display: flex; flex-direction: column; gap: 0; }
+        .weather-row {
+            display: flex; align-items: center; gap: 8px;
+            padding: 7px 2px;
+            border-bottom: 1px solid rgba(0,0,0,0.06);
+            font-size: 13px;
+        }
+        .weather-row:last-child { border-bottom: none; }
+        .wt-city { font-weight: 600; color: var(--primary-color); width: 38px; flex-shrink: 0; }
+        .wt-icon { font-size: 16px; width: 22px; text-align: center; }
+        .wt-desc { flex: 1; color: var(--text-light); font-size: 12px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+        .wt-temp { font-weight: 700; color: var(--secondary-color); white-space: nowrap; font-size: 13px; }
+        .wt-loading { text-align: center; padding: 10px 0; font-size: 13px; color: var(--text-light); }
+    </style>
 </head>
 <body>
     <!-- 顶部导航栏 -->
@@ -627,6 +659,28 @@
 
                 <!-- 右侧边栏 -->
                 <aside class="sidebar">
+                    <!-- 实时时间 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">
+                            <i class="fas fa-clock" style="color:var(--secondary-color);margin-right:6px"></i>实时时间
+                        </h3>
+                        <div class="clock-wrap">
+                            <div class="clock-time" id="w-clock">--:--:--</div>
+                            <div class="clock-gregorian" id="w-date">加载中...</div>
+                            <span class="clock-lunar" id="w-lunar">农历加载中</span>
+                        </div>
+                    </div>
+
+                    <!-- 城市天气 -->
+                    <div class="sidebar-widget">
+                        <h3 class="widget-title">
+                            <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气
+                        </h3>
+                        <div class="weather-rows" id="w-weather">
+                            <div class="wt-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
+                        </div>
+                    </div>
+
                     <!-- 快速链接 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">快速链接</h3>
@@ -742,5 +796,142 @@
     </div>
 
     <script src="js/main.js"></script>
+    <script>
+    /* ===================================================
+       实时时间（阳历 + 农历）+ 五城天气
+       农历：浏览器内置 Intl API，免外部库，精确可靠
+       天气：wttr.in 免费 JSON API，支持跨域
+    =================================================== */
+
+    // ---------- 时钟 ----------
+    const WEEKDAYS = ['日','一','二','三','四','五','六'];
+
+    // 农历格式化器（利用浏览器 Intl 内置的 Chinese Calendar）
+    let lunarFmt;
+    try {
+        lunarFmt = new Intl.DateTimeFormat('zh-u-ca-chinese', {
+            year:  'numeric',   // 干支年，如"乙巳年"
+            month: 'long',      // 如"正月"
+            day:   'numeric'    // 如"初八"
+        });
+    } catch(e) { lunarFmt = null; }
+
+    function updateClock() {
+        const now = new Date();
+        const hh = String(now.getHours()).padStart(2,'0');
+        const mm = String(now.getMinutes()).padStart(2,'0');
+        const ss = String(now.getSeconds()).padStart(2,'0');
+        document.getElementById('w-clock').textContent = `${hh}:${mm}:${ss}`;
+
+        const y = now.getFullYear(), mo = now.getMonth()+1, d = now.getDate();
+        const wd = WEEKDAYS[now.getDay()];
+        document.getElementById('w-date').textContent =
+            `${y}年${mo}月${d}日 周${wd}`;
+
+        if (lunarFmt) {
+            try {
+                // 输出示例："乙巳年正月初八"
+                let lunar = lunarFmt.format(now);
+                // 去掉可能带的公历年前缀（部分浏览器会加"2025"）
+                lunar = lunar.replace(/^\d{4}年?/, '').trim();
+                document.getElementById('w-lunar').textContent = '农历 ' + lunar;
+            } catch(e) {
+                document.getElementById('w-lunar').textContent = '';
+            }
+        } else {
+            document.getElementById('w-lunar').textContent = '';
+        }
+    }
+    updateClock();
+    setInterval(updateClock, 1000);
+
+    // ---------- 天气 ----------
+    const CITIES = [
+        { name:'北京', q:'Beijing'  },
+        { name:'上海', q:'Shanghai' },
+        { name:'南昌', q:'Nanchang' },
+        { name:'西宁', q:'Xining'   },
+        { name:'哈尔滨', q:'Harbin'  },
+    ];
+
+    function weatherEmoji(code) {
+        const c = parseInt(code);
+        if (c === 113) return '☀️';
+        if (c === 116) return '⛅';
+        if (c >= 119 && c <= 122) return '☁️';
+        if (c === 143 || c === 248 || c === 260) return '🌫️';
+        if (c >= 176 && c <= 185) return '🌦️';
+        if (c >= 200 && c <= 230) return '⛈️';
+        if (c >= 263 && c <= 299) return '🌧️';
+        if (c >= 302 && c <= 335) return '❄️';
+        if (c >= 338 && c <= 395) return '🌨️';
+        return '🌡️';
+    }
+
+    async function fetchCityWeather(city) {
+        // wttr.in 免费天气 API，支持 CORS，带中文描述
+        const url = `https://wttr.in/${city.q}?format=j1&lang=zh`;
+        const res = await fetch(url, { signal: AbortSignal.timeout(6000) });
+        const data = await res.json();
+        const cur  = data.current_condition[0];
+        const desc = (cur.lang_zh && cur.lang_zh[0])
+                     ? cur.lang_zh[0].value
+                     : cur.weatherDesc[0].value;
+        return {
+            temp:  cur.temp_C,
+            feels: cur.FeelsLikeC,
+            desc:  desc,
+            icon:  weatherEmoji(cur.weatherCode),
+        };
+    }
+
+    function makeWeatherRow(city, data) {
+        const div = document.createElement('div');
+        div.className = 'weather-row';
+        if (data) {
+            div.innerHTML =
+                `<span class="wt-city">${city.name}</span>` +
+                `<span class="wt-icon">${data.icon}</span>` +
+                `<span class="wt-desc">${data.desc}</span>` +
+                `<span class="wt-temp">${data.temp}°C</span>`;
+        } else {
+            div.innerHTML =
+                `<span class="wt-city">${city.name}</span>` +
+                `<span class="wt-icon">❓</span>` +
+                `<span class="wt-desc" style="color:#bbb">获取失败</span>`;
+        }
+        return div;
+    }
+
+    async function loadWeather() {
+        const container = document.getElementById('w-weather');
+        // 先渲染骨架（城市名占位）
+        container.innerHTML = '';
+        const rows = {};
+        CITIES.forEach(city => {
+            const div = document.createElement('div');
+            div.className = 'weather-row';
+            div.innerHTML = `<span class="wt-city">${city.name}</span>` +
+                            `<span class="wt-icon" style="color:#ccc"><i class="fas fa-spinner fa-spin" style="font-size:13px"></i></span>` +
+                            `<span class="wt-desc" style="color:#ccc">加载中...</span>`;
+            rows[city.q] = div;
+            container.appendChild(div);
+        });
+
+        // 并发请求所有城市，各自更新对应行
+        await Promise.allSettled(CITIES.map(async city => {
+            try {
+                const d = await fetchCityWeather(city);
+                rows[city.q].replaceWith(makeWeatherRow(city, d));
+            } catch(e) {
+                rows[city.q].replaceWith(makeWeatherRow(city, null));
+            }
+        }));
+    }
+
+    loadWeather();
+    // 每 15 分钟刷新一次天气
+    setInterval(loadWeather, 15 * 60 * 1000);
+    </script>
 </body>
 </html>
