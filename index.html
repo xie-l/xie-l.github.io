@@ -1381,6 +1381,50 @@
                 '        </div>\n    </div>\n</body>\n</html>';
         }
 
+        // 更新分类目录页（在 .post-list 开头插入新文章卡片）
+        async function updateCategoryIndex(owner, repo, token, category, filename, title, typeName, raw) {
+            const indexPath = 'blog/' + category + '/index.html';
+            const apiBase  = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+
+            // 读取当前 index.html
+            const getResp = await fetch(apiBase + indexPath, {
+                headers: { 'Authorization': 'token ' + token }
+            });
+            if (!getResp.ok) return;   // 获取失败则跳过
+            const getData = await getResp.json();
+            const currentHTML = decodeURIComponent(escape(atob(getData.content.replace(/\n/g,''))));
+            const sha = getData.sha;
+
+            // 生成日期和摘要
+            const now = new Date();
+            const dateStr = now.getFullYear() + '-' + pad(now.getMonth()+1) + '-' + pad(now.getDate());
+            const lines = raw.split('\n').map(function(l){ return l.trim(); }).filter(Boolean);
+            const excerpt = (lines[0] || '').slice(0, 90);
+
+            const newCard =
+                '\n            <a href="' + filename + '" class="post-item">\n' +
+                '                <div class="post-date">' + dateStr + '</div>\n' +
+                '                <h3 class="post-title">' + title + '</h3>\n' +
+                '                <p class="post-excerpt">' + excerpt + '</p>\n' +
+                '                <div class="post-tags"><span class="tag">' + typeName + '</span></div>\n' +
+                '            </a>';
+
+            const marker = '<div class="post-list">';
+            if (!currentHTML.includes(marker)) return;
+            const updatedHTML = currentHTML.replace(marker, marker + newCard);
+            const encodedIndex = btoa(unescape(encodeURIComponent(updatedHTML)));
+
+            await fetch(apiBase + indexPath, {
+                method: 'PUT',
+                headers: { 'Authorization': 'token ' + token, 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    message: '更新' + (category === 'books' ? '书籍' : '生活') + '目录：' + title,
+                    content: encodedIndex,
+                    sha: sha
+                })
+            });
+        }
+
         pubBtn.addEventListener('click', async function () {
             const raw = bodyEl.value.trim();
             if (!raw) { statusEl.textContent = '请先写点内容'; return; }
@@ -1396,8 +1440,9 @@
 
             const now = new Date();
             const typeNames = { diary: '日记', idea: '灵感', notes: '读书笔记' };
+            const typeName = typeNames[qrType] || '随笔';
             let title = titleEl.value.trim();
-            if (!title) title = typeNames[qrType] + '·' + now.getFullYear() + '.' + (now.getMonth()+1) + '.' + now.getDate();
+            if (!title) title = typeName + '·' + now.getFullYear() + '.' + (now.getMonth()+1) + '.' + now.getDate();
 
             const category = qrType === 'notes' ? 'books' : 'life';
             const safe = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 28);
@@ -1408,9 +1453,10 @@
             const encoded = btoa(unescape(encodeURIComponent(html)));
 
             pubBtn.disabled = true;
-            statusEl.textContent = '发布中…';
+            statusEl.textContent = '发布中（1/2）…';
 
             try {
+                // Step 1：创建文章文件
                 const resp = await fetch(
                     'https://api.github.com/repos/' + owner + '/' + repo + '/contents/' + encodeURIComponent(path),
                     {
@@ -1419,14 +1465,19 @@
                         body: JSON.stringify({ message: '快速记录：' + title, content: encoded })
                     }
                 );
-                if (resp.ok) {
-                    statusEl.textContent = '✓ 已发布！约1分钟后上线';
-                    titleEl.value = ''; bodyEl.value = '';
-                    setTimeout(closeModal, 2500);
-                } else {
+                if (!resp.ok) {
                     const err = await resp.json().catch(function(){ return {}; });
                     statusEl.textContent = '发布失败：' + (err.message || resp.status);
+                    pubBtn.disabled = false; return;
                 }
+
+                // Step 2：更新分类目录页
+                statusEl.textContent = '更新目录（2/2）…';
+                await updateCategoryIndex(owner, repo, token, category, filename, title, typeName, raw);
+
+                statusEl.textContent = '✓ 已发布并更新目录！约1分钟后上线';
+                titleEl.value = ''; bodyEl.value = '';
+                setTimeout(closeModal, 2800);
             } catch (e) {
                 statusEl.textContent = '网络错误，请重试';
             }
