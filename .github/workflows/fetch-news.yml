@@ -143,4 +143,5 @@ jobs:
           git diff --staged --quiet \
             && echo "No changes to commit." \
             || (git commit -m "chore: update news feeds $(date -u '+%Y-%m-%d %H:%M UTC') [skip ci]" \
+                && git pull --rebase origin main \
                 && git push)
