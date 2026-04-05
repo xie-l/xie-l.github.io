@@ -37,6 +37,12 @@ jobs:
                   'source': '36氪',
                   'count': 8
               },
+              'energy_intl': {
+                  # IEA：国际能源署官方资讯
+                  'url': 'https://www.iea.org/rss/news.xml',
+                  'source': 'IEA',
+                  'count': 8
+              },
               'energy': {
                   'url': 'https://feeds.nature.com/nenergy/rss/current',
                   'source': 'Nature Energy',

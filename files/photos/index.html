@@ -52,7 +52,7 @@
             try{
                 const res=await fetch('https://api.github.com/repos/'+OWNER+'/'+REPO+'/contents/'+DIR,{signal:AbortSignal.timeout(8000)});
                 if(!res.ok){box.innerHTML='<div class="sb">目录为空或暂无文件</div>';cnt.textContent='';return;}
-                const all=(await res.json()).filter(f=>f.type==='file');
+                const all=(await res.json()).filter(f=>f.type==='file' && f.name!=='index.html');
                 cnt.textContent='共 '+all.length+' 个文件，点击可查看/下载';
                 if(all.length===0){box.innerHTML='<div class="sb">暂无照片，请通过管理后台上传</div>';return;}
                 const imgs=all.filter(f=>IMGS.includes(ex(f.name)));

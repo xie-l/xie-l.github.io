@@ -261,6 +261,9 @@
                                 <button class="news-tab" data-feed="tech_cn">
                                     <i class="fas fa-globe-asia"></i> 国内科技
                                 </button>
+                                <button class="news-tab" data-feed="energy_intl">
+                                    <i class="fas fa-globe"></i> 国际能源
+                                </button>
                                 <button class="news-tab" data-feed="energy">
                                     <i class="fas fa-bolt"></i> 能源前沿
                                 </button>
@@ -1254,12 +1257,13 @@
     // 读取 GitHub Actions 每4小时预抓取的本地 data/news.json
     // 同域读取，无 CORS，无第三方依赖，100% 可靠
     const _NEWS_SOURCES = {
-        tech:      'Nature',
-        tech_cn:   '36氪',
-        energy:    'Nature Energy',
-        energy_cn: '能源界',
-        hydrogen:  'Fuel Cells Works',
-        papers:    'arXiv'
+        tech:        'Nature',
+        tech_cn:     '36氪',
+        energy_intl: 'IEA / CleanTechnica',
+        energy:      'Nature Energy',
+        energy_cn:   '能源界',
+        hydrogen:    'Fuel Cells Works',
+        papers:      'arXiv'
     };
     const _newsCache = {};
     let _currentFeed = 'tech';
