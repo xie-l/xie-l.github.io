@@ -8,27 +8,40 @@
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        .fc { max-width: 1100px; margin: 100px auto 60px; padding: 0 20px; }
-        .back-link { display: inline-block; margin-bottom: 20px; color: var(--secondary-color); text-decoration: none; }
-        .ph { margin-bottom: 28px; }
-        .ph h1 { font-size: 26px; color: var(--primary-color); }
-        .ph p  { color: var(--text-light); font-size: 13px; margin-top: 6px; }
-        .photo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(195px,1fr)); gap: 16px; }
-        .pc { background: var(--card-bg); border-radius: 10px; overflow: hidden; box-shadow: var(--shadow); transition: var(--transition); text-decoration: none; display: block; }
-        .pc:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
-        .pc img { width: 100%; height: 155px; object-fit: cover; display: block; }
-        .pc .np { width: 100%; height: 155px; background: var(--bg-secondary); display: flex; align-items: center; justify-content: center; font-size: 38px; }
-        .pi { padding: 9px 12px; }
-        .pi .pn { font-size: 12px; color: var(--text-color); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .pi .ps { font-size: 11px; color: var(--text-light); margin-top: 2px; }
-        .fl { display: flex; flex-direction: column; gap: 10px; margin-top: 20px; }
-        .fi { display: flex; align-items: center; gap: 14px; padding: 12px 16px; background: var(--card-bg); border-radius: 8px; box-shadow: var(--shadow); text-decoration: none; color: var(--text-color); transition: var(--transition); }
-        .fi:hover { box-shadow: var(--shadow-hover); transform: translateX(4px); }
-        .fi i { font-size: 22px; color: var(--secondary-color); width: 26px; text-align: center; flex-shrink: 0; }
-        .fi .fm { flex: 1; }
-        .fi .fn { font-size: 13px; font-weight: 500; }
-        .fi .fs { font-size: 11px; color: var(--text-light); }
-        .sb { text-align: center; padding: 40px; color: var(--text-light); font-size: 14px; }
+        .fc  { max-width: 1100px; margin: 100px auto 60px; padding: 0 20px; }
+        .back-link { display:inline-block; margin-bottom:20px; color:var(--secondary-color); text-decoration:none; }
+        .ph  { margin-bottom:28px; }
+        .ph h1 { font-size:26px; color:var(--primary-color); }
+        .ph p  { color:var(--text-light); font-size:13px; margin-top:6px; }
+        .photo-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(200px,1fr)); gap:16px; }
+        .pc  {
+            background:var(--card-bg); border-radius:10px; overflow:hidden;
+            box-shadow:var(--shadow); transition:var(--transition);
+            text-decoration:none; display:block;
+        }
+        .pc:hover { transform:translateY(-4px); box-shadow:var(--shadow-hover); }
+        .pc-wrap {
+            width:100%; height:160px; overflow:hidden;
+            background:var(--bg-secondary);
+            display:flex; align-items:center; justify-content:center;
+        }
+        .pc-wrap img { width:100%; height:100%; object-fit:cover; display:block; }
+        .pc-wrap .no-img { font-size:40px; }
+        .pi { padding:9px 12px; }
+        .pi .pn { font-size:12px; color:var(--text-color); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+        .pi .ps { font-size:11px; color:var(--text-light); margin-top:2px; }
+        .fl  { display:flex; flex-direction:column; gap:10px; margin-top:20px; }
+        .fi  {
+            display:flex; align-items:center; gap:14px; padding:12px 16px;
+            background:var(--card-bg); border-radius:8px; box-shadow:var(--shadow);
+            text-decoration:none; color:var(--text-color); transition:var(--transition);
+        }
+        .fi:hover { box-shadow:var(--shadow-hover); transform:translateX(4px); }
+        .fi i   { font-size:22px; color:var(--secondary-color); width:26px; text-align:center; flex-shrink:0; }
+        .fi .fm { flex:1; }
+        .fi .fn { font-size:13px; font-weight:500; }
+        .fi .fs { font-size:11px; color:var(--text-light); }
+        .sb  { text-align:center; padding:40px; color:var(--text-light); font-size:14px; }
     </style>
 </head>
 <body>
@@ -41,45 +54,78 @@
         <div id="fc-box"><div class="sb"><i class="fas fa-spinner fa-spin"></i> 加载中...</div></div>
     </div>
     <script>
+    /* 图片加载失败时显示占位符 */
+    document.addEventListener('error', function(e) {
+        if (e.target.tagName === 'IMG') {
+            const wrap = e.target.closest('.pc-wrap');
+            if (wrap) wrap.innerHTML = '<span class="no-img">🖼️</span>';
+        }
+    }, true);
+
     (function(){
-        const OWNER='xie-l', REPO='xie-l.github.io', DIR='files/photos';
-        const IMGS=['jpg','jpeg','png','gif','webp','svg','bmp','heic'];
-        function fmt(b){ if(!b)return''; if(b<1024)return b+' B'; if(b<1048576)return(b/1024).toFixed(1)+' KB'; return(b/1048576).toFixed(1)+' MB'; }
-        function ex(n){ return(n.split('.').pop()||'').toLowerCase(); }
-        function rawUrl(name){ return 'https://raw.githubusercontent.com/'+OWNER+'/'+REPO+'/main/'+DIR+'/'+encodeURIComponent(name); }
-        async function load(){
-            const box=document.getElementById('fc-box'), cnt=document.getElementById('fc-count');
-            try{
-                const res=await fetch('https://api.github.com/repos/'+OWNER+'/'+REPO+'/contents/'+DIR,{signal:AbortSignal.timeout(8000)});
-                if(!res.ok){box.innerHTML='<div class="sb">目录为空或暂无文件</div>';cnt.textContent='';return;}
-                const all=(await res.json()).filter(f=>f.type==='file' && f.name!=='index.html');
-                cnt.textContent='共 '+all.length+' 个文件，点击可查看/下载';
-                if(all.length===0){box.innerHTML='<div class="sb">暂无照片，请通过管理后台上传</div>';return;}
-                const imgs=all.filter(f=>IMGS.includes(ex(f.name)));
-                const docs=all.filter(f=>!IMGS.includes(ex(f.name)));
-                let html='';
-                if(imgs.length>0){
-                    html+='<div class="photo-grid">';
-                    imgs.forEach(f=>{
-                        const u=rawUrl(f.name);
-                        html+='<a href="'+u+'" target="_blank" class="pc">'+
-                            '<img src="'+u+'" alt="'+f.name+'" loading="lazy" onerror="this.outerHTML=\'<div class=\\\"np\\\">🖼️</div>\'">'+
-                            '<div class="pi"><div class="pn">'+f.name+'</div><div class="ps">'+fmt(f.size)+'</div></div></a>';
+        const OWNER = 'xie-l';
+        const REPO  = 'xie-l.github.io';
+        const DIR   = 'files/photos';
+        const IMGS  = new Set(['jpg','jpeg','png','gif','webp','svg','bmp','heic','avif']);
+
+        function fmt(b) {
+            if (!b) return '';
+            if (b < 1024) return b + ' B';
+            if (b < 1048576) return (b/1024).toFixed(1) + ' KB';
+            return (b/1048576).toFixed(1) + ' MB';
+        }
+        function ext(n) { return (n.split('.').pop() || '').toLowerCase(); }
+        /* 直接用 GitHub API 返回的 download_url，无需自行编码 */
+        function esc(s) { return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+
+        async function load() {
+            const box = document.getElementById('fc-box');
+            const cnt = document.getElementById('fc-count');
+            try {
+                const res = await fetch(
+                    'https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/' + DIR,
+                    { signal: AbortSignal.timeout(8000) }
+                );
+                if (!res.ok) { box.innerHTML = '<div class="sb">目录为空或暂无文件</div>'; cnt.textContent = ''; return; }
+                const all = (await res.json()).filter(f => f.type === 'file' && f.name !== 'index.html');
+                cnt.textContent = '共 ' + all.length + ' 个文件，点击可查看/下载';
+                if (all.length === 0) { box.innerHTML = '<div class="sb">暂无照片，请通过管理后台上传</div>'; return; }
+
+                const imgs  = all.filter(f => IMGS.has(ext(f.name)));
+                const docs  = all.filter(f => !IMGS.has(ext(f.name)));
+                let html = '';
+
+                if (imgs.length > 0) {
+                    html += '<div class="photo-grid">';
+                    imgs.forEach(function(f) {
+                        /* download_url 由 GitHub API 直接返回，已正确编码 */
+                        const dlUrl  = f.download_url;
+                        const safeName = esc(f.name);
+                        html += '<a href="' + dlUrl + '" target="_blank" class="pc">' +
+                            '<div class="pc-wrap"><img src="' + dlUrl + '" alt="' + safeName + '" loading="lazy"></div>' +
+                            '<div class="pi"><div class="pn">' + safeName + '</div>' +
+                            '<div class="ps">' + fmt(f.size) + '</div></div></a>';
                     });
-                    html+='</div>';
+                    html += '</div>';
                 }
-                if(docs.length>0){
-                    html+='<div class="fl">';
-                    docs.forEach(f=>{
-                        const u=rawUrl(f.name), e=ex(f.name);
-                        const icon=e==='pdf'?'fa-file-pdf':e==='doc'||e==='docx'?'fa-file-word':e==='xls'||e==='xlsx'?'fa-file-excel':'fa-file';
-                        html+='<a href="'+u+'" target="_blank" class="fi"><i class="fas '+icon+'"></i><div class="fm"><div class="fn">'+f.name+'</div><div class="fs">'+fmt(f.size)+'</div></div><i class="fas fa-download" style="font-size:14px;color:var(--text-light)"></i></a>';
+
+                if (docs.length > 0) {
+                    html += '<div class="fl">';
+                    docs.forEach(function(f) {
+                        const dlUrl = f.download_url;
+                        const e = ext(f.name);
+                        const icon = e==='pdf'?'fa-file-pdf':e==='doc'||e==='docx'?'fa-file-word':e==='xls'||e==='xlsx'?'fa-file-excel':'fa-file';
+                        html += '<a href="' + dlUrl + '" target="_blank" class="fi">' +
+                            '<i class="fas ' + icon + '"></i>' +
+                            '<div class="fm"><div class="fn">' + esc(f.name) + '</div>' +
+                            '<div class="fs">' + fmt(f.size) + '</div></div>' +
+                            '<i class="fas fa-download" style="font-size:14px;color:var(--text-light)"></i></a>';
                     });
-                    html+='</div>';
+                    html += '</div>';
                 }
-                box.innerHTML=html;
-            }catch(e){
-                box.innerHTML='<div class="sb"><i class="fas fa-exclamation-circle"></i> 加载失败，请确认已连接网络后刷新</div>';
+                box.innerHTML = html;
+            } catch(e) {
+                box.innerHTML = '<div class="sb"><i class="fas fa-exclamation-circle"></i> 加载失败，请确认已连接网络后刷新</div>';
             }
         }
         load();

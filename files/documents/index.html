@@ -44,7 +44,7 @@
         const OWNER='xie-l', REPO='xie-l.github.io', DIR='files/documents';
         function fmt(b){ if(!b)return''; if(b<1024)return b+' B'; if(b<1048576)return(b/1024).toFixed(1)+' KB'; return(b/1048576).toFixed(1)+' MB'; }
         function ex(n){ return(n.split('.').pop()||'').toLowerCase(); }
-        function rawUrl(name){ return 'https://raw.githubusercontent.com/'+OWNER+'/'+REPO+'/main/'+DIR+'/'+encodeURIComponent(name); }
+        /* 直接用 GitHub API 返回的 download_url，无需自行编码 */
         function iconClass(e){
             const m={pdf:'fa-file-pdf ico-pdf',doc:'fa-file-word ico-doc',docx:'fa-file-word ico-doc',xls:'fa-file-excel ico-xls',xlsx:'fa-file-excel ico-xls',ppt:'fa-file-powerpoint ico-ppt',pptx:'fa-file-powerpoint ico-ppt',jpg:'fa-file-image ico-img',jpeg:'fa-file-image ico-img',png:'fa-file-image ico-img'};
             return m[e]||'fa-file ico-def';
@@ -59,7 +59,7 @@
                 if(all.length===0){box.innerHTML='<div class="sb">暂无文档，请通过管理后台上传</div>';return;}
                 let html='<div class="fl">';
                 all.forEach(f=>{
-                    const u=rawUrl(f.name), e=ex(f.name), ic=iconClass(e);
+                    const u=f.download_url, e=ex(f.name), ic=iconClass(e);
                     html+='<a href="'+u+'" target="_blank" class="fi">'+
                         '<i class="fas '+ic+' ic"></i>'+
                         '<div class="fm"><div class="fn">'+f.name+'</div><div class="fs">'+fmt(f.size)+'</div></div>'+
