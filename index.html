@@ -2139,7 +2139,7 @@
             }
 
             const cat      = catEl.value;
-            const tagList  = tagsEl.value.split(',').map(function(t){ return t.trim(); }).filter(Boolean);
+            const tagList  = tagsEl.value.split(/[,，、;\s]+/).map(function(t){ return t.trim(); }).filter(Boolean);
             const now      = new Date();
             const stamp    = now.getFullYear() + pad(now.getMonth()+1);
             const safeTitle = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g,'').slice(0,30);
