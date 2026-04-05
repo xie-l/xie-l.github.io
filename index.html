@@ -123,7 +123,7 @@
         .goal-card li::before { content: "→"; color: var(--secondary-color); flex-shrink: 0; font-size: 12px; margin-top: 2px; }
         @media(max-width:768px){ .goals-grid{ grid-template-columns:1fr; } }
 
-        /* ===== 快速记录 ===== */
+        /* ===== 博客编辑器 ===== */
         .quick-record-fab {
             position: fixed; bottom: 88px; right: 28px;
             width: 50px; height: 50px; background: var(--secondary-color);
@@ -134,44 +134,78 @@
         }
         .quick-record-fab:hover { transform: scale(1.12); box-shadow: 0 6px 22px rgba(52,152,219,0.55); }
         .qr-overlay {
-            position: fixed; inset: 0; background: rgba(0,0,0,0.48);
+            position: fixed; inset: 0; background: rgba(0,0,0,0.55);
             z-index: 1000; display: none; align-items: center; justify-content: center;
         }
         .qr-overlay.open { display: flex; }
         .qr-modal {
-            background: var(--card-bg,#fff); border-radius: 16px; padding: 28px;
-            width: min(600px, 92vw); max-height: 88vh;
-            display: flex; flex-direction: column; gap: 14px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.22);
+            background: var(--card-bg,#fff); border-radius: 16px;
+            width: min(860px, 96vw); height: 88vh;
+            display: flex; flex-direction: column;
+            box-shadow: 0 24px 70px rgba(0,0,0,0.28); overflow: hidden;
         }
-        .qr-head { display: flex; justify-content: space-between; align-items: center; }
-        .qr-head h3 { margin: 0; font-size: 17px; color: var(--primary-color); }
-        .qr-close-btn { background: none; border: none; font-size: 18px; cursor: pointer; color: var(--text-light); padding: 4px; }
-        .qr-types { display: flex; gap: 8px; flex-wrap: wrap; }
-        .qr-type-btn {
-            padding: 5px 14px; border: 1px solid var(--border-color);
-            background: none; border-radius: 20px; cursor: pointer;
-            font-size: 13px; color: var(--text-light); transition: .2s;
+        /* 顶栏 */
+        .qr-head {
+            display: flex; align-items: center; gap: 12px;
+            padding: 14px 20px; border-bottom: 1px solid var(--border-color);
+            background: var(--bg-secondary); flex-shrink: 0;
         }
-        .qr-type-btn.on { background: var(--secondary-color); color: #fff; border-color: var(--secondary-color); }
-        .qr-title-input, .qr-body-input {
-            width: 100%; padding: 10px 14px; box-sizing: border-box;
+        .qr-head-title { font-size: 15px; font-weight: 700; color: var(--primary-color); margin-right: auto; }
+        .qr-head-btn {
+            padding: 5px 14px; border-radius: 6px; font-size: 13px; cursor: pointer;
+            border: 1px solid var(--border-color); background: none; color: var(--text-light); transition: .2s;
+        }
+        .qr-head-btn:hover { border-color: var(--secondary-color); color: var(--secondary-color); }
+        .qr-head-btn.danger { color: #e74c3c; }
+        .qr-head-btn.danger:hover { border-color: #e74c3c; }
+        /* 元信息区 */
+        .qr-meta {
+            display: grid; grid-template-columns: 1fr auto auto; gap: 10px;
+            padding: 12px 20px; border-bottom: 1px solid var(--border-color); flex-shrink: 0;
+        }
+        @media(max-width:600px){ .qr-meta{ grid-template-columns:1fr; } }
+        .qr-field {
+            width: 100%; padding: 9px 13px; box-sizing: border-box;
             border: 1px solid var(--border-color); border-radius: 8px;
             font-size: 14px; background: var(--bg-secondary); color: var(--text-color);
-            transition: border .2s; font-family: inherit;
+            font-family: inherit; transition: border .2s;
         }
-        .qr-title-input:focus, .qr-body-input:focus { outline: none; border-color: var(--secondary-color); }
-        .qr-body-input { min-height: 190px; resize: vertical; line-height: 1.75; }
-        .qr-foot { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
-        .qr-foot-status { font-size: 13px; color: var(--text-light); flex: 1; }
+        .qr-field:focus { outline: none; border-color: var(--secondary-color); }
+        select.qr-field { cursor: pointer; }
+        /* 正文区 */
+        .qr-body-wrap { flex: 1; display: flex; overflow: hidden; }
+        #qrBody {
+            flex: 1; width: 100%; padding: 18px 24px; box-sizing: border-box;
+            border: none; resize: none; font-size: 15px; line-height: 1.85;
+            background: var(--card-bg); color: var(--text-color); font-family: inherit;
+        }
+        #qrBody:focus { outline: none; }
+        #qrBody::placeholder { color: var(--text-light); }
+        /* 底栏 */
+        .qr-foot {
+            display: flex; align-items: center; gap: 10px; padding: 12px 20px;
+            border-top: 1px solid var(--border-color); background: var(--bg-secondary); flex-shrink: 0;
+        }
+        .qr-foot-status { font-size: 12.5px; color: var(--text-light); flex: 1; }
+        .qr-char-count { font-size: 12px; color: var(--text-light); white-space: nowrap; }
+        .qr-draft-btn {
+            padding: 7px 16px; border: 1px solid var(--border-color); border-radius: 7px;
+            background: none; font-size: 13px; cursor: pointer; color: var(--text-light); transition: .2s;
+        }
+        .qr-draft-btn:hover { border-color: var(--secondary-color); color: var(--secondary-color); }
         .qr-publish-btn {
-            padding: 9px 22px; background: var(--secondary-color); color: #fff;
-            border: none; border-radius: 8px; cursor: pointer; font-size: 14px;
-            font-weight: 600; transition: background .2s;
+            padding: 8px 22px; background: var(--secondary-color); color: #fff;
+            border: none; border-radius: 8px; cursor: pointer; font-size: 14px; font-weight: 600; transition: background .2s;
         }
         .qr-publish-btn:hover { background: var(--primary-color); }
         .qr-publish-btn:disabled { opacity: .5; cursor: not-allowed; }
-        .qr-shortcut { font-size: 11px; color: var(--text-light); opacity: .7; }
+        /* 草稿提示条 */
+        .qr-draft-banner {
+            padding: 8px 20px; background: rgba(230,126,34,.1); color: #e67e22;
+            font-size: 13px; border-bottom: 1px solid rgba(230,126,34,.2);
+            display: flex; align-items: center; justify-content: space-between; flex-shrink: 0;
+        }
+        .qr-draft-restore { background: none; border: none; color: #e67e22; font-weight: 600; cursor: pointer; text-decoration: underline; }
 
         /* ===== 今日三问 ===== */
         .dq-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:18px; }
@@ -1181,29 +1215,56 @@
         <i class="fas fa-arrow-up"></i>
     </div>
 
-    <!-- 快速记录悬浮按钮 -->
-    <button class="quick-record-fab" id="qrFab" title="快速记录 (Ctrl+Shift+N)">
+    <!-- 写博客悬浮按钮 -->
+    <button class="quick-record-fab" id="qrFab" title="写博客 (Ctrl+Shift+N)">
         <i class="fas fa-pen"></i>
     </button>
 
-    <!-- 快速记录模态框 -->
+    <!-- 博客编辑器模态框 -->
     <div class="qr-overlay" id="qrOverlay">
         <div class="qr-modal">
+            <!-- 顶栏 -->
             <div class="qr-head">
-                <h3>✏️ 快速记录</h3>
-                <button class="qr-close-btn" id="qrClose"><i class="fas fa-times"></i></button>
+                <span class="qr-head-title">✏️ 写博客</span>
+                <span style="font-size:11.5px;color:var(--text-light)">Ctrl+Shift+N</span>
+                <button class="qr-head-btn" id="qrSaveDraft"><i class="fas fa-save"></i> 存草稿</button>
+                <button class="qr-head-btn danger" id="qrClose"><i class="fas fa-times"></i> 关闭</button>
             </div>
-            <div class="qr-types">
-                <button class="qr-type-btn on" data-type="diary">📅 日记</button>
-                <button class="qr-type-btn" data-type="idea">💡 灵感</button>
-                <button class="qr-type-btn" data-type="notes">📖 读书笔记</button>
+            <!-- 草稿提示（有草稿时显示） -->
+            <div class="qr-draft-banner" id="qrDraftBanner" style="display:none">
+                <span>📝 检测到未发布的草稿</span>
+                <div style="display:flex;gap:12px">
+                    <button class="qr-draft-restore" id="qrRestoreDraft">恢复草稿</button>
+                    <button class="qr-draft-restore" id="qrDiscardDraft" style="color:#e74c3c">丢弃</button>
+                </div>
             </div>
-            <input class="qr-title-input" id="qrTitle" type="text" placeholder="标题（留空则自动生成）">
-            <textarea class="qr-body-input" id="qrBody" placeholder="写点什么……支持换行，每段将自动排版为段落。"></textarea>
+            <!-- 元信息：标题 / 分类 / 标签 -->
+            <div class="qr-meta">
+                <input class="qr-field" id="qrTitle" type="text" placeholder="文章标题（必填）" style="grid-column:1/-1">
+                <select class="qr-field" id="qrCategory">
+                    <option value="life">📅 生活日记</option>
+                    <option value="books">📚 书籍阅读</option>
+                    <option value="tech">💻 技术思考</option>
+                    <option value="analysis">📊 数据分析</option>
+                </select>
+                <input class="qr-field" id="qrTags" type="text" placeholder="标签（逗号分隔，如：读书笔记,成长）" style="grid-column:2/-1">
+            </div>
+            <!-- 正文 -->
+            <div class="qr-body-wrap">
+                <textarea id="qrBody" placeholder="开始写作……
+
+支持多段落，每行自动排版为独立段落。
+可以写日记、读书感悟、工作思考、数据分析……
+
+写完后点右下角「发布」，文章将直接出现在对应分类的博客页面。"></textarea>
+            </div>
+            <!-- 底栏 -->
             <div class="qr-foot">
                 <span class="qr-foot-status" id="qrStatus"></span>
-                <span class="qr-shortcut">快捷键：Ctrl+Shift+N</span>
-                <button class="qr-publish-btn" id="qrPublish">发布到博客</button>
+                <span class="qr-char-count" id="qrCharCount">0 字</span>
+                <button class="qr-publish-btn" id="qrPublish">
+                    <i class="fas fa-paper-plane"></i> 发布到博客
+                </button>
             </div>
         </div>
     </div>
@@ -1874,132 +1935,193 @@
     })();
     _loadNewsJSON(false);
 
-    // ========== 快速记录 ==========
+    // ========== 博客编辑器 ==========
     (function () {
         const fab     = document.getElementById('qrFab');
         const overlay = document.getElementById('qrOverlay');
         const closeBtn= document.getElementById('qrClose');
         const titleEl = document.getElementById('qrTitle');
+        const catEl   = document.getElementById('qrCategory');
+        const tagsEl  = document.getElementById('qrTags');
         const bodyEl  = document.getElementById('qrBody');
         const pubBtn  = document.getElementById('qrPublish');
         const statusEl= document.getElementById('qrStatus');
-        let qrType = 'diary';
+        const charEl  = document.getElementById('qrCharCount');
+        const draftBanner  = document.getElementById('qrDraftBanner');
+        const saveDraftBtn = document.getElementById('qrSaveDraft');
+        const restoreBtn   = document.getElementById('qrRestoreDraft');
+        const discardBtn   = document.getElementById('qrDiscardDraft');
 
-        function openModal()  { overlay.classList.add('open');    bodyEl.focus(); }
-        function closeModal() { overlay.classList.remove('open'); statusEl.textContent = ''; }
+        const DRAFT_KEY = 'blog_editor_draft';
+        let autoSaveTimer = null;
 
-        fab.addEventListener('click', openModal);
-        closeBtn.addEventListener('click', closeModal);
-        overlay.addEventListener('click', function(e) { if (e.target === overlay) closeModal(); });
-
-        document.querySelectorAll('.qr-type-btn').forEach(function(btn) {
-            btn.addEventListener('click', function () {
-                document.querySelectorAll('.qr-type-btn').forEach(function(b){ b.classList.remove('on'); });
-                this.classList.add('on');
-                qrType = this.dataset.type;
-            });
+        // ── 开/关 ──────────────────────────────────────────────
+        function openEditor() {
+            overlay.classList.add('open');
+            checkDraft();
+            bodyEl.focus();
+        }
+        function closeEditor() {
+            overlay.classList.remove('open');
+            statusEl.textContent = '';
+        }
+        fab.addEventListener('click', openEditor);
+        closeBtn.addEventListener('click', closeEditor);
+        overlay.addEventListener('click', function(e) {
+            if (e.target === overlay) closeEditor();
         });
-
-        // Ctrl/Cmd + Shift + N 全局快捷键
         document.addEventListener('keydown', function(e) {
             if ((e.ctrlKey || e.metaKey) && e.shiftKey && e.key === 'N') {
                 e.preventDefault();
-                overlay.classList.contains('open') ? closeModal() : openModal();
+                overlay.classList.contains('open') ? closeEditor() : openEditor();
             }
-            if (e.key === 'Escape' && overlay.classList.contains('open')) closeModal();
+            if (e.key === 'Escape' && overlay.classList.contains('open')) closeEditor();
         });
 
-        function pad(n) { return String(n).padStart(2, '0'); }
+        // ── 字数统计 ──────────────────────────────────────────
+        bodyEl.addEventListener('input', function() {
+            const n = bodyEl.value.replace(/\s/g,'').length;
+            charEl.textContent = n + ' 字';
+            scheduleAutoSave();
+        });
+        titleEl.addEventListener('input', scheduleAutoSave);
+        catEl.addEventListener('change', scheduleAutoSave);
+        tagsEl.addEventListener('input', scheduleAutoSave);
 
-        function buildBlogHTML(type, title, content, now) {
-            const typeNames = { diary: '日记', idea: '灵感', notes: '读书笔记' };
-            const typeName  = typeNames[type] || '随笔';
-            const dateStr   = now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日';
+        // ── 草稿 ─────────────────────────────────────────────
+        function saveDraft(quiet) {
+            const d = {
+                title: titleEl.value, cat: catEl.value,
+                tags: tagsEl.value, body: bodyEl.value,
+                savedAt: new Date().toISOString()
+            };
+            localStorage.setItem(DRAFT_KEY, JSON.stringify(d));
+            if (!quiet) {
+                const t = new Date().toLocaleTimeString('zh-CN');
+                statusEl.textContent = '草稿已保存 ' + t;
+                setTimeout(function(){ statusEl.textContent = ''; }, 3000);
+            }
+        }
+        function scheduleAutoSave() {
+            clearTimeout(autoSaveTimer);
+            autoSaveTimer = setTimeout(function(){ saveDraft(true); }, 10000);
+        }
+        function checkDraft() {
+            try {
+                const d = JSON.parse(localStorage.getItem(DRAFT_KEY) || 'null');
+                if (d && (d.title || d.body)) {
+                    const t = new Date(d.savedAt).toLocaleString('zh-CN');
+                    draftBanner.querySelector('span').textContent = '📝 检测到草稿（保存于 ' + t + '）';
+                    draftBanner.style.display = 'flex';
+                } else {
+                    draftBanner.style.display = 'none';
+                }
+            } catch(e) { draftBanner.style.display = 'none'; }
+        }
+        saveDraftBtn.addEventListener('click', function(){ saveDraft(false); });
+        restoreBtn.addEventListener('click', function() {
+            try {
+                const d = JSON.parse(localStorage.getItem(DRAFT_KEY));
+                if (d) {
+                    titleEl.value = d.title || '';
+                    catEl.value   = d.cat   || 'life';
+                    tagsEl.value  = d.tags  || '';
+                    bodyEl.value  = d.body  || '';
+                    charEl.textContent = bodyEl.value.replace(/\s/g,'').length + ' 字';
+                }
+            } catch(e) {}
+            draftBanner.style.display = 'none';
+        });
+        discardBtn.addEventListener('click', function() {
+            localStorage.removeItem(DRAFT_KEY);
+            draftBanner.style.display = 'none';
+        });
+
+        // ── 生成博客 HTML ──────────────────────────────────────
+        const CAT_NAMES = { life:'生活日记', books:'书籍阅读', tech:'技术思考', analysis:'数据分析' };
+        const CAT_ICONS = { life:'📅', books:'📚', tech:'💻', analysis:'📊' };
+        function pad(n){ return String(n).padStart(2,'0'); }
+
+        function buildBlogHTML(title, cat, tagList, content, now) {
+            const catName = CAT_NAMES[cat] || '随笔';
+            const catIcon = CAT_ICONS[cat] || '✏️';
+            const dateStr = now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日';
             const paras = content.split('\n')
-                .map(function(l){ return l.trim(); })
-                .filter(Boolean)
+                .map(function(l){ return l.trim(); }).filter(Boolean)
                 .map(function(l){ return '            <p>' + l.replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</p>'; })
                 .join('\n');
+            const tagsHtml = tagList.map(function(t){ return '<span class="tag">' + t + '</span>'; }).join('\n            ');
+            const tagClickScript = '<script>\ndocument.querySelectorAll(\'.tag\').forEach(function(el){el.style.cursor=\'pointer\';el.addEventListener(\'click\',function(e){e.preventDefault();e.stopPropagation();location.href=\'../tags.html?tag=\'+encodeURIComponent(el.textContent.trim());});});\n<\/script>';
             return '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n' +
                 '    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
                 '    <title>' + title + ' - 谢亮</title>\n' +
-                '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>✏️</text></svg>">\n' +
+                '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>' + catIcon + '</text></svg>">\n' +
                 '    <link rel="stylesheet" href="../../css/style.css">\n' +
                 '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">\n' +
                 '    <style>\n' +
-                '        .blog-container{max-width:800px;margin:100px auto 50px;padding:0 20px}\n' +
+                '        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}\n' +
                 '        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}\n' +
                 '        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}\n' +
-                '        .post-title{font-size:26px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}\n' +
+                '        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}\n' +
                 '        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}\n' +
                 '        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}\n' +
-                '        .post-content p{margin-bottom:18px;text-align:justify}\n' +
-                '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px}\n' +
+                '        .post-content p{margin-bottom:20px;text-align:justify}\n' +
+                '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}\n' +
                 '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
                 '    </style>\n</head>\n<body>\n' +
                 '    <div class="blog-container">\n' +
-                '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回</a>\n' +
+                '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回' + catName + '</a>\n' +
                 '        <article class="post-header">\n' +
                 '            <h1 class="post-title">' + title + '</h1>\n' +
                 '            <div class="post-meta">\n' +
                 '                <span><i class="fas fa-calendar"></i> ' + dateStr + '</span>\n' +
-                '                <span><i class="fas fa-tag"></i> ' + typeName + '</span>\n' +
+                '                <span><i class="fas fa-folder"></i> ' + catName + '</span>\n' +
+                (tagList.length ? '                <span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>\n' : '') +
                 '            </div>\n        </article>\n' +
                 '        <div class="post-content">\n' + paras + '\n' +
-                '            <div class="post-tags"><span class="tag">' + typeName + '</span></div>\n' +
+                '            <div class="post-tags">' + tagsHtml + '</div>\n' +
                 '        </div>\n    </div>\n' +
-                '<script>\n' +
-                'document.querySelectorAll(\'.tag\').forEach(function(el){el.style.cursor=\'pointer\';el.addEventListener(\'click\',function(e){e.preventDefault();e.stopPropagation();location.href=\'../tags.html?tag=\'+encodeURIComponent(el.textContent.trim());});});\n' +
-                '<\/script>\n</body>\n</html>';
+                tagClickScript + '\n</body>\n</html>';
         }
 
-        // 更新分类目录页（在 .post-list 开头插入新文章卡片）
-        async function updateCategoryIndex(owner, repo, token, category, filename, title, typeName, raw) {
-            const indexPath = 'blog/' + category + '/index.html';
-            const apiBase  = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
-
-            // 读取当前 index.html
-            const getResp = await fetch(apiBase + indexPath, {
-                headers: { 'Authorization': 'token ' + token }
-            });
-            if (!getResp.ok) return;   // 获取失败则跳过
-            const getData = await getResp.json();
+        // ── 更新分类目录页 ────────────────────────────────────
+        async function updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw) {
+            const indexPath = 'blog/' + cat + '/index.html';
+            const apiBase   = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+            const getResp   = await fetch(apiBase + indexPath, { headers:{'Authorization':'token '+token} });
+            if (!getResp.ok) return;
+            const getData    = await getResp.json();
             const currentHTML = decodeURIComponent(escape(atob(getData.content.replace(/\n/g,''))));
             const sha = getData.sha;
-
-            // 生成日期和摘要
             const now = new Date();
             const dateStr = now.getFullYear() + '-' + pad(now.getMonth()+1) + '-' + pad(now.getDate());
             const lines = raw.split('\n').map(function(l){ return l.trim(); }).filter(Boolean);
-            const excerpt = (lines[0] || '').slice(0, 90);
-
+            const excerpt = (lines[0] || '').slice(0,90);
+            const tagsHtml2 = tagList.map(function(t){ return '<span class="tag">'+t+'</span>'; }).join('');
             const newCard =
                 '\n            <a href="' + filename + '" class="post-item">\n' +
                 '                <div class="post-date">' + dateStr + '</div>\n' +
                 '                <h3 class="post-title">' + title + '</h3>\n' +
                 '                <p class="post-excerpt">' + excerpt + '</p>\n' +
-                '                <div class="post-tags"><span class="tag">' + typeName + '</span></div>\n' +
+                '                <div class="post-tags">' + tagsHtml2 + '</div>\n' +
                 '            </a>';
-
             const marker = '<div class="post-list">';
             if (!currentHTML.includes(marker)) return;
             const updatedHTML = currentHTML.replace(marker, marker + newCard);
             const encodedIndex = btoa(unescape(encodeURIComponent(updatedHTML)));
-
             await fetch(apiBase + indexPath, {
                 method: 'PUT',
-                headers: { 'Authorization': 'token ' + token, 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    message: '更新' + (category === 'books' ? '书籍' : '生活') + '目录：' + title,
-                    content: encodedIndex,
-                    sha: sha
-                })
+                headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
+                body: JSON.stringify({ message:'更新'+CAT_NAMES[cat]+'目录：'+title, content:encodedIndex, sha:sha })
             });
         }
 
-        pubBtn.addEventListener('click', async function () {
-            const raw = bodyEl.value.trim();
-            if (!raw) { statusEl.textContent = '请先写点内容'; return; }
+        // ── 发布 ──────────────────────────────────────────────
+        pubBtn.addEventListener('click', async function() {
+            const title = titleEl.value.trim();
+            const raw   = bodyEl.value.trim();
+            if (!title) { statusEl.textContent = '请填写文章标题'; titleEl.focus(); return; }
+            if (!raw)   { statusEl.textContent = '请写点内容'; bodyEl.focus(); return; }
 
             const token = localStorage.getItem('github_token');
             const owner = localStorage.getItem('github_owner');
@@ -2010,54 +2132,46 @@
                 return;
             }
 
-            const now = new Date();
-            const typeNames = { diary: '日记', idea: '灵感', notes: '读书笔记' };
-            const typeName = typeNames[qrType] || '随笔';
-            let title = titleEl.value.trim();
-            if (!title) title = typeName + '·' + now.getFullYear() + '.' + (now.getMonth()+1) + '.' + now.getDate();
-
-            const category = qrType === 'notes' ? 'books' : 'life';
-            const safe = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 28);
-            const stamp = now.getFullYear() + pad(now.getMonth()+1);
-            const filename = safe + '（' + stamp + '）.html';
-            const path = 'blog/' + category + '/' + filename;
-            const html = buildBlogHTML(qrType, title, raw, now);
-            const encoded = btoa(unescape(encodeURIComponent(html)));
+            const cat      = catEl.value;
+            const tagList  = tagsEl.value.split(',').map(function(t){ return t.trim(); }).filter(Boolean);
+            const now      = new Date();
+            const stamp    = now.getFullYear() + pad(now.getMonth()+1);
+            const safeTitle = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g,'').slice(0,30);
+            const filename  = safeTitle + '（' + stamp + '）.html';
+            const path      = 'blog/' + cat + '/' + filename;
+            const html      = buildBlogHTML(title, cat, tagList, raw, now);
+            const encoded   = btoa(unescape(encodeURIComponent(html)));
 
             pubBtn.disabled = true;
-            statusEl.textContent = '发布中（1/2）…';
+            statusEl.textContent = '正在发布（1/2）……';
 
             try {
-                // Step 1：创建文章文件
-                const resp = await fetch(
-                    'https://api.github.com/repos/' + owner + '/' + repo + '/contents/' + encodeURIComponent(path),
-                    {
-                        method: 'PUT',
-                        headers: { 'Authorization': 'token ' + token, 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ message: '快速记录：' + title, content: encoded })
-                    }
-                );
+                const apiBase = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+                const resp = await fetch(apiBase + encodeURIComponent(path), {
+                    method: 'PUT',
+                    headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
+                    body: JSON.stringify({ message:'发布博客：'+title, content:encoded })
+                });
                 if (!resp.ok) {
                     const err = await resp.json().catch(function(){ return {}; });
                     statusEl.textContent = '发布失败：' + (err.message || resp.status);
                     pubBtn.disabled = false; return;
                 }
-
-                // Step 2：更新分类目录页
-                statusEl.textContent = '更新目录（2/2）…';
-                await updateCategoryIndex(owner, repo, token, category, filename, title, typeName, raw);
-
-                statusEl.textContent = '✓ 已发布并更新目录！约1分钟后上线';
-                titleEl.value = ''; bodyEl.value = '';
-                setTimeout(closeModal, 2800);
-            } catch (e) {
+                statusEl.textContent = '更新目录（2/2）……';
+                await updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw);
+                localStorage.removeItem(DRAFT_KEY);
+                statusEl.textContent = '✓ 发布成功！约1分钟后在博客可见';
+                titleEl.value = ''; catEl.value = 'life'; tagsEl.value = ''; bodyEl.value = '';
+                charEl.textContent = '0 字';
+                setTimeout(closeEditor, 3000);
+            } catch(e) {
                 statusEl.textContent = '网络错误，请重试';
             }
             pubBtn.disabled = false;
         });
     })();
 
-    // ========== 邮件链接增强 ==========
+        // ========== 邮件链接增强 ==========
     // 点击 mailto: 链接时：尝试打开邮件客户端，同时弹出提示并自动复制邮箱
     (function () {
         let toastTimer = null;
