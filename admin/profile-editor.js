@@ -25,10 +25,22 @@ class ProfileEditor {
     }
 
     // 从 localStorage 加载，不存在则用默认值
+    // 如果 localStorage 里的邮箱是旧地址，清除旧缓存并用最新默认值
     loadCurrentData() {
         try {
             const stored = localStorage.getItem('profile_data_v3');
-            if (stored) return JSON.parse(stored);
+            if (stored) {
+                const parsed = JSON.parse(stored);
+                // 检测旧缓存（旧邮箱或旧标题），清除并使用最新默认值
+                if (parsed.profile && (
+                    parsed.profile.email === 'imxiel@163.com' ||
+                    parsed.profile.title === '工学博士 · 动力工程及工程热物理'
+                )) {
+                    localStorage.removeItem('profile_data_v3');
+                    return this.getDefaultData();
+                }
+                return parsed;
+            }
         } catch (e) {
             console.warn('加载 profile 数据失败:', e);
         }
@@ -39,11 +51,11 @@ class ProfileEditor {
         return {
             profile: {
                 name: '谢亮',
-                title: '工学博士 · 动力工程及工程热物理',
-                bio: '中共党员，哈尔滨工业大学在读博士生（2020.09-2026.06），研究方向为碳基电催化氧气合成过氧化氢调控机制及强化策略。具备扎实的学术科研能力，以共同作者发表SCI论文30余篇，参与4项发明专利研发。擅长数据分析与机器学习，熟练使用Python进行数据建模与机制分析。',
-                tags: ['电催化制氢', '机器学习', '碳基催化剂', '数据分析', 'Python'],
-                email: 'imxiel@163.com',
-                phone: '18846124518',
+                title: '工学博士 · 动力工程及工程热物理 · 国家能源集团氢能管培生',
+                bio: '哈尔滨工业大学工学博士（2026），师从秦裕琨院士团队，研究方向为碳基电催化与氢能技术。以共同作者发表SCI论文30余篇（一作6篇，含Materials Horizons、JMCA等），参与4项发明专利。博士毕业后加入国家能源集团，投身氢能产业化。',
+                tags: ['电催化制氢', '碳基催化剂', '机器学习', '氢能产业化', '数据分析'],
+                email: 'im.xiel@foxmail.com',
+                phone: '',
                 address: '黑龙江省哈尔滨市南岗区西大直街92号哈尔滨工业大学动力楼248室',
                 github: 'https://github.com/xie-l'
             },

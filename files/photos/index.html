@@ -42,6 +42,14 @@
         .fi .fn { font-size:13px; font-weight:500; }
         .fi .fs { font-size:11px; color:var(--text-light); }
         .sb  { text-align:center; padding:40px; color:var(--text-light); font-size:14px; }
+        /* 文件标签 */
+        .file-tags { display:flex; gap:5px; flex-wrap:wrap; margin-top:5px; }
+        .file-tag {
+            font-size:11px; padding:2px 8px; border-radius:10px;
+            background:rgba(52,152,219,.12); color:var(--secondary-color);
+            border:1px solid rgba(52,152,219,.2); cursor:pointer; text-decoration:none;
+        }
+        .file-tag:hover { background:var(--secondary-color); color:#fff; }
     </style>
 </head>
 <body>
@@ -67,69 +75,71 @@
         const REPO  = 'xie-l.github.io';
         const DIR   = 'files/photos';
         const IMGS  = new Set(['jpg','jpeg','png','gif','webp','svg','bmp','heic','avif']);
+        function fmt(b){ if(!b)return''; if(b<1024)return b+' B'; if(b<1048576)return(b/1024).toFixed(1)+' KB'; return(b/1048576).toFixed(1)+' MB'; }
+        function ext(n){ return(n.split('.').pop()||'').toLowerCase(); }
+        function esc(s){ return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 
-        function fmt(b) {
-            if (!b) return '';
-            if (b < 1024) return b + ' B';
-            if (b < 1048576) return (b/1024).toFixed(1) + ' KB';
-            return (b/1048576).toFixed(1) + ' MB';
+        function makeTagsHtml(tags) {
+            if (!tags || !tags.length) return '';
+            return '<div class="file-tags">' +
+                tags.map(function(t){ return '<a class="file-tag" href="../tags.html?tag=' + encodeURIComponent(t) + '">' + esc(t) + '</a>'; }).join('') +
+                '</div>';
         }
-        function ext(n) { return (n.split('.').pop() || '').toLowerCase(); }
-        /* 直接用 GitHub API 返回的 download_url，无需自行编码 */
-        function esc(s) { return s.replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 
         async function load() {
             const box = document.getElementById('fc-box');
             const cnt = document.getElementById('fc-count');
             try {
-                const res = await fetch(
-                    'https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/' + DIR,
-                    { signal: AbortSignal.timeout(8000) }
-                );
-                if (!res.ok) { box.innerHTML = '<div class="sb">目录为空或暂无文件</div>'; cnt.textContent = ''; return; }
-                const all = (await res.json()).filter(f => f.type === 'file' && f.name !== 'index.html' && !f.name.startsWith('.'));
+                const [filesRes, idxRes] = await Promise.all([
+                    fetch('https://api.github.com/repos/' + OWNER + '/' + REPO + '/contents/' + DIR,
+                          { signal: AbortSignal.timeout(8000) }),
+                    fetch('https://raw.githubusercontent.com/' + OWNER + '/' + REPO + '/main/data/files-index.json?_=' + Date.now())
+                ]);
+                if (!filesRes.ok) { box.innerHTML = '<div class="sb">目录为空或暂无文件</div>'; cnt.textContent = ''; return; }
+                const all = (await filesRes.json()).filter(function(f){ return f.type === 'file' && f.name !== 'index.html' && !f.name.startsWith('.'); });
+                const tagMap = {};
+                if (idxRes.ok) {
+                    try { const idx = await idxRes.json(); (idx.files || []).forEach(function(f){ tagMap[f.name] = f.tags || []; }); } catch(e) {}
+                }
                 cnt.textContent = '共 ' + all.length + ' 个文件，点击可查看/下载';
                 if (all.length === 0) { box.innerHTML = '<div class="sb">暂无照片，请通过管理后台上传</div>'; return; }
-
-                const imgs  = all.filter(f => IMGS.has(ext(f.name)));
-                const docs  = all.filter(f => !IMGS.has(ext(f.name)));
+                const imgs = all.filter(function(f){ return IMGS.has(ext(f.name)); });
+                const docs = all.filter(function(f){ return !IMGS.has(ext(f.name)); });
                 let html = '';
-
                 if (imgs.length > 0) {
                     html += '<div class="photo-grid">';
-                    imgs.forEach(function(f) {
-                        /* download_url 由 GitHub API 直接返回，已正确编码 */
-                        const dlUrl  = f.download_url;
-                        const safeName = esc(f.name);
+                    imgs.forEach(function(f){
+                        const dlUrl = f.download_url, safeName = esc(f.name), tags = tagMap[f.name] || [];
                         html += '<a href="' + dlUrl + '" target="_blank" class="pc">' +
                             '<div class="pc-wrap"><img src="' + dlUrl + '" alt="' + safeName + '" loading="lazy"></div>' +
-                            '<div class="pi"><div class="pn">' + safeName + '</div>' +
-                            '<div class="ps">' + fmt(f.size) + '</div></div></a>';
+                            '<div class="pi"><div class="pn">' + safeName + '</div><div class="ps">' + fmt(f.size) + '</div>' +
+                            makeTagsHtml(tags) + '</div></a>';
                     });
                     html += '</div>';
                 }
-
                 if (docs.length > 0) {
                     html += '<div class="fl">';
-                    docs.forEach(function(f) {
-                        const dlUrl = f.download_url;
-                        const e = ext(f.name);
+                    docs.forEach(function(f){
+                        const dlUrl = f.download_url, e = ext(f.name), tags = tagMap[f.name] || [];
                         const icon = e==='pdf'?'fa-file-pdf':e==='doc'||e==='docx'?'fa-file-word':e==='xls'||e==='xlsx'?'fa-file-excel':'fa-file';
                         html += '<a href="' + dlUrl + '" target="_blank" class="fi">' +
-                            '<i class="fas ' + icon + '"></i>' +
-                            '<div class="fm"><div class="fn">' + esc(f.name) + '</div>' +
-                            '<div class="fs">' + fmt(f.size) + '</div></div>' +
+                            '<i class="fas ' + icon + '"></i><div class="fm"><div class="fn">' + esc(f.name) + '</div>' +
+                            '<div class="fs">' + fmt(f.size) + '</div>' + makeTagsHtml(tags) + '</div>' +
                             '<i class="fas fa-download" style="font-size:14px;color:var(--text-light)"></i></a>';
                     });
                     html += '</div>';
                 }
                 box.innerHTML = html;
+                document.querySelectorAll('.file-tag').forEach(function(el){
+                    el.addEventListener('click', function(e){ e.stopPropagation(); });
+                });
             } catch(e) {
                 box.innerHTML = '<div class="sb"><i class="fas fa-exclamation-circle"></i> 加载失败，请确认已连接网络后刷新</div>';
             }
         }
         load();
     })();
+
     </script>
 </body>
 </html>

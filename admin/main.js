@@ -519,26 +519,24 @@ class FileManager {
     
     async handleFileSelect(event) {
         const files = Array.from(event.target.files);
+        if (!files.length) return;
         const directory = document.getElementById('upload-directory').value;
-        
+        const rawTags   = (document.getElementById('upload-tags') || {}).value || '';
+        const tagList   = rawTags.split(/[,，、;\s]+/).map(t => t.trim()).filter(Boolean);
+
         for (const file of files) {
-            // 检查文件大小（10MB限制）
             if (file.size > 10 * 1024 * 1024) {
                 showAlert('file', `文件 "${file.name}" 超过10MB限制`, 'error');
                 continue;
             }
-            
             const fileItem = this.createFileItem(file, directory);
             document.getElementById('file-list').appendChild(fileItem);
-            
             try {
-                await this.uploadFile(file, directory, fileItem);
+                await this.uploadFile(file, directory, fileItem, tagList);
             } catch (error) {
                 showAlert('file', `上传失败: ${error.message}`, 'error');
             }
         }
-        
-        // 清空input
         event.target.value = '';
     }
     
@@ -567,42 +565,80 @@ class FileManager {
         return item;
     }
     
-    async uploadFile(file, directory, item) {
+    async uploadFile(file, directory, item, tagList = []) {
         const progressBar = item.querySelector('.progress-bar');
-        
+        const statusDiv   = item.querySelector('.file-size');
         try {
-            // 模拟进度
             let progress = 0;
             const interval = setInterval(() => {
                 progress += Math.random() * 20;
-                if (progress >= 90) {
-                    progress = 90;
-                    clearInterval(interval);
-                }
+                if (progress >= 90) { progress = 90; clearInterval(interval); }
                 progressBar.style.width = progress + '%';
             }, 100);
-            
-            // 读取文件内容
+
             const content = await this.readFileAsBase64(file);
-            
-            // 上传文件
-            const path = directory + file.name;
-            await createOrUpdateFile(
-                path,
-                content,
-                `上传文件: ${file.name}`
-            );
-            
-            // 完成进度
+            const path    = directory + file.name;
+            await createOrUpdateFile(path, content, `上传文件: ${file.name}`);
+
             clearInterval(interval);
             progressBar.style.width = '100%';
             progressBar.style.background = '#10b981';
-            
-            showAlert('file', `文件 "${file.name}" 上传成功`, 'success');
-            
+            if (statusDiv) statusDiv.textContent = '✅ 上传成功';
+
+            // 保存标签到 data/files-index.json
+            if (tagList.length > 0) {
+                await this.saveFileIndex(file, path, tagList);
+            }
+
+            showAlert('file', `✅ "${file.name}" 上传成功${tagList.length ? '，标签：' + tagList.join(' / ') : ''}`, 'success');
         } catch (error) {
             item.querySelector('.progress-bar').style.background = '#ef4444';
+            if (statusDiv) statusDiv.textContent = '❌ 上传失败';
             throw error;
+        }
+    }
+
+    // 将文件元数据+标签写入 data/files-index.json
+    async saveFileIndex(file, path, tagList) {
+        try {
+            const creds = getStoredCredentials();
+            const apiBase = `${GITHUB_API_BASE}/repos/${creds.owner}/${creds.repo}/contents/`;
+            const indexPath = 'data/files-index.json';
+
+            // 读取现有 index（可能不存在）
+            let existing = { files: [] };
+            let sha = null;
+            try {
+                const res = await fetch(apiBase + indexPath, {
+                    headers: { 'Authorization': `token ${creds.token}` }
+                });
+                if (res.ok) {
+                    const data = await res.json();
+                    existing = JSON.parse(decodeURIComponent(escape(atob(data.content.replace(/\n/g,'')))));
+                    sha = data.sha;
+                }
+            } catch(e) { /* 首次创建 */ }
+
+            // 去重：同名文件更新标签
+            existing.files = (existing.files || []).filter(f => f.name !== file.name || f.path !== path);
+            existing.files.unshift({
+                name: file.name,
+                path: path,
+                tags: tagList,
+                size: file.size,
+                uploadedAt: new Date().toISOString().slice(0,10)
+            });
+
+            const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(existing, null, 2))));
+            const body = { message: `更新文件索引：${file.name}`, content: encoded };
+            if (sha) body.sha = sha;
+            await fetch(apiBase + indexPath, {
+                method: 'PUT',
+                headers: { 'Authorization': `token ${creds.token}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify(body)
+            });
+        } catch(e) {
+            console.warn('文件索引更新失败（不影响上传）:', e);
         }
     }
     
