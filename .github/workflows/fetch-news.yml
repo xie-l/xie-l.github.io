@@ -48,9 +48,9 @@ jobs:
                   'source': 'Nature Energy', 'count': 8
               },
               'energy_cn': {
-                  # 华夏能源网：国内能源行业资讯
-                  'url': 'https://www.hxny.com/rss.xml',
-                  'source': '华夏能源网', 'count': 8
+                  # Google News RSS（中文能源关键词搜索）：聚合国内各媒体能源报道
+                  'url': 'https://news.google.com/rss/search?q=%E8%83%BD%E6%BA%90+%E7%94%B5%E5%8A%9B+%E6%B0%A2%E8%83%BD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+                  'source': 'Google新闻·能源', 'count': 8
               },
               'hydrogen': {
                   'url': 'https://fuelcellsworks.com/feed/',
