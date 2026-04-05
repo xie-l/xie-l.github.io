@@ -157,6 +157,10 @@
             line-height: 1.5;
         }
         .news-status { text-align: center; padding: 24px; font-size: 13px; color: var(--text-light); }
+        .news-item-title-cn {
+            font-size: 13px; font-weight: 500; color: var(--primary-color);
+            opacity: .82; margin-top: 4px; line-height: 1.45;
+        }
 
         /* 相关链接子分类 */
         .link-section-label {
@@ -1259,9 +1263,9 @@
     const _NEWS_SOURCES = {
         tech:        'Nature',
         tech_cn:     '36氪',
-        energy_intl: 'IEA / CleanTechnica',
+        energy_intl: 'CleanTechnica',
         energy:      'Nature Energy',
-        energy_cn:   '能源界',
+        energy_cn:   '华夏能源网',
         hydrogen:    'Fuel Cells Works',
         papers:      'arXiv'
     };
@@ -1282,8 +1286,10 @@
             const dateStr = isNaN(d.getTime()) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
             let desc = (item.description || '').replace(/<[^>]+>/g,'').trim();
             if (desc.length > 130) desc = desc.slice(0,130) + '…';
+            const titleCn = (item.title_cn || '').trim();
             return '<div class="news-item">' +
                 '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
+                (titleCn ? '<div class="news-item-title-cn">' + titleCn + '</div>' : '') +
                 '<div class="news-item-meta">' +
                 (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
                 '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + source + '</span>' +

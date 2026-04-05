@@ -19,64 +19,91 @@ jobs:
       - name: Install feedparser
         run: pip install feedparser
 
-      - name: Fetch RSS feeds
+      - name: Fetch RSS feeds and translate
         run: |
           python3 << 'PYEOF'
-          import feedparser, json, re, os
+          import feedparser, json, re, os, time
+          import urllib.request, urllib.parse
           from datetime import datetime, timezone
+
+          # ── 需要翻译（英文源）的 feed key ──────────────────────────────────
+          ENGLISH_FEEDS = {'tech', 'energy_intl', 'energy', 'hydrogen', 'papers'}
 
           FEEDS = {
               'tech': {
                   'url': 'https://feeds.nature.com/nature/rss/current',
-                  'source': 'Nature',
-                  'count': 8
+                  'source': 'Nature', 'count': 8
               },
               'tech_cn': {
-                  # 36氪：国内科技/商业资讯
                   'url': 'https://36kr.com/feed',
-                  'source': '36氪',
-                  'count': 8
+                  'source': '36氪', 'count': 8
               },
               'energy_intl': {
-                  # IEA：国际能源署官方资讯
-                  'url': 'https://www.iea.org/rss/news.xml',
-                  'source': 'IEA',
-                  'count': 8
+                  # CleanTechnica：国际清洁能源&新能源资讯（RSS稳定）
+                  'url': 'https://cleantechnica.com/feed/',
+                  'source': 'CleanTechnica', 'count': 8
               },
               'energy': {
                   'url': 'https://feeds.nature.com/nenergy/rss/current',
-                  'source': 'Nature Energy',
-                  'count': 8
+                  'source': 'Nature Energy', 'count': 8
               },
               'energy_cn': {
-                  # 能源界：国内能源行业资讯
-                  'url': 'https://www.nengyuanjie.net/rss.xml',
-                  'source': '能源界',
-                  'count': 8
+                  # 华夏能源网：国内能源行业资讯
+                  'url': 'https://www.hxny.com/rss.xml',
+                  'source': '华夏能源网', 'count': 8
               },
               'hydrogen': {
                   'url': 'https://fuelcellsworks.com/feed/',
-                  'source': 'Fuel Cells Works',
-                  'count': 8
+                  'source': 'Fuel Cells Works', 'count': 8
               },
               'papers': {
-                  # arXiv API：搜索电催化/氢能/电解相关最新论文
-                  'url': 'https://export.arxiv.org/api/query?search_query=ti:electrocatalysis+OR+ti:hydrogen+evolution+OR+ti:electrolyzer+OR+ti:oxygen+reduction&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending',
-                  'source': 'arXiv',
-                  'count': 10
+                  'url': ('https://export.arxiv.org/api/query'
+                          '?search_query=ti:electrocatalysis+OR+ti:hydrogen+evolution'
+                          '+OR+ti:electrolyzer+OR+ti:oxygen+reduction'
+                          '&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending'),
+                  'source': 'arXiv', 'count': 10
               }
           }
 
           def clean(text):
               text = re.sub(r'<[^>]+>', ' ', text or '')
               text = re.sub(r'\s+', ' ', text).strip()
-              return text[:250]
+              return text[:300]
 
+          # ── MyMemory 免费翻译（英→中），无需 API Key ───────────────────────
+          _trans_cache = {}
+
+          def translate_to_zh(text, max_chars=200):
+              """把英文文本翻译为中文，失败返回空字符串"""
+              if not text or len(text.strip()) < 5:
+                  return ''
+              text = text[:max_chars].strip()
+              if text in _trans_cache:
+                  return _trans_cache[text]
+              try:
+                  url = ('https://api.mymemory.translated.net/get?q='
+                         + urllib.parse.quote(text) + '&langpair=en|zh-CN')
+                  req = urllib.request.Request(
+                      url, headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req, timeout=8) as r:
+                      data = json.load(r)
+                  translated = (data.get('responseData') or {}).get('translatedText', '')
+                  # MyMemory 有时原样返回（翻译失败），过滤掉
+                  if translated and translated.lower().strip() != text.lower().strip():
+                      _trans_cache[text] = translated
+                      return translated
+              except Exception as e:
+                  print(f'  [translate warn] {e}')
+              _trans_cache[text] = ''
+              return ''
+
+          # ── 主循环 ────────────────────────────────────────────────────────
           result = {}
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
           for key, cfg in FEEDS.items():
               items = []
+              needs_trans = key in ENGLISH_FEEDS
               try:
                   d = feedparser.parse(cfg['url'])
                   entries = d.get('entries', [])
@@ -85,14 +112,14 @@ jobs:
                       link  = (entry.get('link') or '').strip()
                       date  = (entry.get('published') or entry.get('updated') or '').strip()
                       desc  = clean(entry.get('summary') or entry.get('description') or '')
-                      if title and link:
-                          items.append({
-                              'title': title,
-                              'link':  link,
-                              'pubDate': date,
-                              'description': desc
-                          })
-                  print(f'[OK] {key}: {len(items)} items from {cfg["source"]}')
+                      if not (title and link):
+                          continue
+                      item = {'title': title, 'link': link, 'pubDate': date, 'description': desc}
+                      if needs_trans:
+                          item['title_cn'] = translate_to_zh(title, 180)
+                          time.sleep(0.4)   # 避免触发速率限制
+                      items.append(item)
+                  print(f'[OK] {key}: {len(items)} items, translate={needs_trans}')
               except Exception as e:
                   print(f'[ERR] {key}: {e}')
 
