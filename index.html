@@ -120,6 +120,21 @@
         .qr-publish-btn:disabled { opacity: .5; cursor: not-allowed; }
         .qr-shortcut { font-size: 11px; color: var(--text-light); opacity: .7; }
 
+        /* ===== 今日三问 ===== */
+        .dq-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:18px; }
+        .dq-header h2 { margin:0; }
+        .dq-date-tag { font-size:12px; color:var(--text-light); background:var(--bg-secondary); padding:3px 12px; border-radius:12px; }
+        .dq-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; }
+        @media(max-width:768px){ .dq-grid{ grid-template-columns:1fr; } }
+        .dq-card {
+            background:linear-gradient(135deg,rgba(52,152,219,.06) 0%,rgba(46,204,113,.06) 100%);
+            border:1px solid rgba(52,152,219,.15); border-left:3px solid var(--secondary-color);
+            border-radius:10px; padding:16px 18px; transition:var(--transition);
+        }
+        .dq-card:hover { transform:translateY(-3px); box-shadow:var(--shadow-md); }
+        .dq-num { font-size:22px; font-weight:800; color:var(--secondary-color); opacity:.35; line-height:1; }
+        .dq-text { font-size:14px; color:var(--text-color); line-height:1.7; margin-top:8px; }
+
         /* ===== 资讯动态 ===== */
         .news-tabs { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
         .news-tab {
@@ -253,6 +268,19 @@
             <div class="content-wrapper">
                 <!-- 左侧主内容 -->
                 <main class="main-column">
+                    <!-- 今日三问 -->
+                    <section id="daily-questions" class="section">
+                        <div class="dq-header">
+                            <h2 class="section-title" style="margin:0">💭 今日三问</h2>
+                            <span class="dq-date-tag" id="dq-date">每日8:00自动更新</span>
+                        </div>
+                        <div class="dq-grid" id="dq-grid">
+                            <div class="dq-card"><div class="dq-num">01</div><div class="dq-text">加载中...</div></div>
+                            <div class="dq-card"><div class="dq-num">02</div><div class="dq-text">加载中...</div></div>
+                            <div class="dq-card"><div class="dq-num">03</div><div class="dq-text">加载中...</div></div>
+                        </div>
+                    </section>
+
                     <!-- 资讯动态 -->
                     <section id="news-feed" class="section">
                         <div class="section-header">
@@ -1258,6 +1286,121 @@
     loadWeather();
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
+
+    // ========== 今日三问 ==========
+    // 题库：职业成长 / 学习思考 / 当下与内心 / 关系与表达 / 目标方向
+    const _DQ_POOL = [
+        // 职业成长
+        '作为氢能管培生，今天我主动问了什么问题，学到了什么新东西？',
+        '我在博士阶段积累的哪项能力，今天可以用在新工作里？',
+        '今天有没有做了一件"超出他人预期"的事情？',
+        '我和同事之间最大的差距是什么？最近缩小了吗？',
+        '如果五年后的我看到今天的状态，会怎么评价？',
+        '我今天的工作输出，让团队更信任我了吗？',
+        '我是否在用学术思维面对产业问题？需要如何调整？',
+        '在氢能产业中，我想成为哪种类型的人？现在朝那个方向走了吗？',
+        '今天有没有一件事，我选择了主动而不是等待？',
+        '如果导师看到我今天的工作状态，会怎么评价？',
+        '我对国家能源集团业务的理解，比一周前深了多少？',
+        '今天遇到的最大挑战是什么？我是如何应对的？',
+        '有没有一个行业问题，我一直想搞清楚但还没研究？',
+        '我最近的轮岗经历，带给我最大的认知更新是什么？',
+        '如果今天是管培生考核日，我最有信心展示的是哪一点？',
+        // 学习与思考
+        '今天读到或听到最有价值的一句话是什么？',
+        '我最近学到的新知识，和已有认知建立联系了吗？',
+        '有没有一个问题困扰了我超过三天？这背后说明什么？',
+        '今天输入了多少信息，真正转化为自己想法的有多少？',
+        '我的知识结构里，目前最薄弱的环节是什么？',
+        '有没有一件事，我以为自己理解了，其实还没真正想清楚？',
+        '我最近坚持的哪个习惯，感觉正在产生复利效应？',
+        '今天有没有主动向他人请教？学到了什么？',
+        '如果给今天的最大收获打一个标签，会是什么词？',
+        '我现在最想深入研究的一个方向是什么？为什么？',
+        '最近有没有一本书或一篇文章改变了我的某个判断？',
+        '我有没有把每日小结写成了"流水账"？今天的总结有没有新认知？',
+        '如果要用一个问题总结今天的学习，这个问题是什么？',
+        '我的阅读清单里，哪本书最该被优先读完？',
+        '最近有什么概念或想法，让我觉得"应该再深想一层"？',
+        // 当下与内心
+        '此刻，我最想逃避的是什么？这背后说明了什么？',
+        '如果今天就是完整的一天，我满意吗？',
+        '我今天的情绪底色是什么？是什么造成的？',
+        '最近有没有"人在做事，心思在别处"的感觉？',
+        '此刻，我最感激的三件事是什么？',
+        '让我持续感到轻微焦虑的，是哪件事？我真的接受它了吗？',
+        '今天，我有没有做到哪怕五分钟的"全然临在"？',
+        '我现在的状态，是在消耗能量还是在积累能量？',
+        '用一个词形容今天，这个词是什么？',
+        '我有没有在用"忙碌"掩盖对某件重要事情的回避？',
+        '最近什么事情让我感到最真实的快乐？',
+        '我对自己现在这个阶段，满意程度几分（1-10）？差距在哪里？',
+        '今天有没有一个瞬间，让我觉得"这就是我想要的生活"？',
+        '如果用《当下的力量》的视角审视今天，我的"小我"在哪里出现了？',
+        '我有没有某个"旧唱片"今天又播放了？我注意到了吗？',
+        // 关系与表达
+        '今天有没有好好听一个人说完话，而不是急着回应？',
+        '有没有一件事，我一直想告诉某个人，但还没说？',
+        '最近有没有给家人发过一条"不是为了求助"的消息？',
+        '我最近和谁的互动，让我感到充实？原因是什么？',
+        '今天有没有因为太忙而忽略了某个关心我的人？',
+        '我是否在某段关系里一直在索取？有没有主动给予？',
+        '如果今晚可以和任何一个人深谈，我会选谁？想谈什么？',
+        '今天的我，有没有让周围的人感到舒适和被尊重？',
+        // 目标与方向
+        '我今年最重要的三个目标，今天分别推进了多少？',
+        '三年后，我希望成为什么样的人？今天在往那个方向走吗？',
+        '我有没有一个"比结果更重要的过程习惯"在坚持？',
+        '今天的我，比昨天进步了多少？哪怕只有一点点。',
+        '如果只能聚焦在一件事上，对我当前阶段最重要的是什么？',
+        '我的长期方向和短期行动，是否对齐？',
+        '有没有一件事，我"知道重要"但一直没有开始？为什么？',
+        '我现在最希望在哪一方面快速成长？',
+        '今天有没有为"未来的自己"做一件今天不紧迫但重要的事？',
+        '如果要给六个月后的自己写一封信，第一句话会是什么？',
+        // 创造与表达
+        '今天有没有一个有趣的想法一闪而过但没被记录？',
+        '如果今天要写一篇博客，最想记录的是什么？',
+        '有没有一件事，我觉得"说出来别人可能不懂"，但其实很有价值？',
+        '我最近的写作，有没有真正说出我想说的话？',
+        '今天的某个体验，用一句话提炼出来会是什么？',
+        '如果用一张图表达今天，会是什么样的图？',
+        '我有没有刻意把今天的感悟"输出"，让它变得更清晰？',
+    ];
+
+    (function () {
+        // UTC 日期作为种子，UTC 00:00 = 北京时间 08:00，即每天8点自动换题
+        const now = new Date();
+        const utcDay = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+
+        // 线性同余伪随机（可复现，同一天同三题）
+        function lcg(seed) {
+            let s = seed;
+            return function () {
+                s = (Math.imul(1664525, s) + 1013904223) >>> 0;
+                return s / 0x100000000;
+            };
+        }
+
+        const rng = lcg(utcDay);
+        const pool = _DQ_POOL.slice();
+        const chosen = [];
+        for (let i = 0; i < 3; i++) {
+            const idx = Math.floor(rng() * pool.length);
+            chosen.push(pool.splice(idx, 1)[0]);
+        }
+
+        // 渲染
+        const nums = ['01', '02', '03'];
+        document.getElementById('dq-grid').innerHTML = chosen.map(function (q, i) {
+            return '<div class="dq-card"><div class="dq-num">' + nums[i] + '</div><div class="dq-text">' + q + '</div></div>';
+        }).join('');
+
+        // 日期标签
+        const bj = new Date(now.getTime() + 8 * 3600 * 1000);
+        document.getElementById('dq-date').textContent =
+            bj.getUTCFullYear() + '年' + (bj.getUTCMonth() + 1) + '月' + bj.getUTCDate() + '日';
+    })();
 
     // ========== 主页最后更新时间 ==========
     (function () {
