@@ -1,22 +1,230 @@
 {
   "tech": {
-    "items": [],
+    "items": [
+      {
+        "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+        "link": "https://www.nature.com/articles/d41586-026-01103-9",
+        "pubDate": "2026-04-04",
+        "description": "Nature, Published online: 04 April 2026; doi:10.1038/d41586-026-01103-9 Mission scientists spoke to Nature about the geological features they’re most excited for the crew to observe."
+      },
+      {
+        "title": "Massive budget cuts for US science proposed again by Trump administration",
+        "link": "https://www.nature.com/articles/d41586-026-01105-7",
+        "pubDate": "2026-04-03",
+        "description": "Nature, Published online: 03 April 2026; doi:10.1038/d41586-026-01105-7 Budget proposal would also curb federal payments for scientific publishing."
+      },
+      {
+        "title": "Regular physical activity in midlife cuts risk of early death",
+        "link": "https://www.nature.com/articles/d41586-026-01000-1",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01000-1 Study of more than 11,000 women found that only a few hours of moderate-to-vigorous activity per week had a strong effect."
+      },
+      {
+        "title": "Artemis II is go: humans head to the Moon after half-century absence",
+        "link": "https://www.nature.com/articles/d41586-026-01060-3",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01060-3 We take a look at the mission’s aims and the science that’ll be happening along the way."
+      },
+      {
+        "title": "The Moon belongs to all of us — not just countries that can afford to reach it",
+        "link": "https://www.nature.com/articles/d41586-026-01051-4",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01051-4 As humanity blasts off into a new space race, we need a model of exploration that emphasizes stewardship of other worlds, not exploitation."
+      },
+      {
+        "title": "‘Treasure trove’ of antiviral proteins could inspire powerful molecular tools",
+        "link": "https://www.nature.com/articles/d41586-026-01011-y",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01011-y Two research teams mined genomic data from bacteria to create databases containing thousands of antiviral defence proteins that could inspire powerful biotechnologies."
+      },
+      {
+        "title": "How procrastination can rob you of career fulfilment in science",
+        "link": "https://www.nature.com/articles/d41586-026-00551-7",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-00551-7 Putting off an important task in a long to-do list might be because you fear failure. Or maybe it is success that scares you?"
+      },
+      {
+        "title": "‘It’s a real shock’: quantum-computing breakthroughs pose imminent risks to cybersecurity",
+        "link": "https://www.nature.com/articles/d41586-026-01054-1",
+        "pubDate": "2026-04-02",
+        "description": "Nature, Published online: 02 April 2026; doi:10.1038/d41586-026-01054-1 Two analyses suggest that quantum computers could crack ubiquitous security keys and cryptocurrencies before the decade is over."
+      }
+    ],
     "source": "Nature",
-    "updated": "pending"
+    "updated": "2026-04-05 14:30 UTC"
   },
   "energy": {
-    "items": [],
+    "items": [
+      {
+        "title": "Fusion power unlikely to become competitive",
+        "link": "https://www.nature.com/articles/s41560-026-02022-9",
+        "pubDate": "2026-04-01",
+        "description": "Nature Energy, Published online: 01 April 2026; doi:10.1038/s41560-026-02022-9 While nuclear fusion power is often hailed as a future source of abundant, clean energy, current dominant fusion designs, magnetic and laser inertial, are unlikely to beco"
+      },
+      {
+        "title": "Degradation pathways of FA x Cs 1− x PbI 3 perovskite solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02012-x",
+        "pubDate": "2026-03-31",
+        "description": "Nature Energy, Published online: 31 March 2026; doi:10.1038/s41560-026-02012-x The upper stability limit of formamidinium–caesium (FACs) lead iodide perovskite solar cells (PSCs) under thermal and light stress is poorly understood. Now, analysis of t"
+      },
+      {
+        "title": "Understanding reverse bias effects",
+        "link": "https://www.nature.com/articles/s41560-026-02017-6",
+        "pubDate": "2026-03-31",
+        "description": "Nature Energy, Published online: 31 March 2026; doi:10.1038/s41560-026-02017-6 Perovskite photovoltaics that use self-assembled monolayers as hole-transport layers are unstable under reverse bias, but the underlying mechanism has not been well unders"
+      },
+      {
+        "title": "Standardized framework enables municipal energy access and energy poverty action globally",
+        "link": "https://www.nature.com/articles/s41560-026-02008-7",
+        "pubDate": "2026-03-30",
+        "description": "Nature Energy, Published online: 30 March 2026; doi:10.1038/s41560-026-02008-7 The Energy Access and Energy Poverty Pillar framework may enable municipalities worldwide to operationalize energy interventions relating to security, sustainability and a"
+      },
+      {
+        "title": "Progress on urban energy access and energy poverty in the Global Covenant of Mayors initiative",
+        "link": "https://www.nature.com/articles/s41560-026-02019-4",
+        "pubDate": "2026-03-30",
+        "description": "Nature Energy, Published online: 30 March 2026; doi:10.1038/s41560-026-02019-4 This study presents the Global Covenant of Mayors Energy Access and Poverty Pillar and analyses its first-year implementation across 1,354 municipalities that account for "
+      },
+      {
+        "title": "Controlled Cs⁺ incorporation through organocaesium salts in α-FA–Cs perovskite solar cells with a certified efficiency of 26.61%",
+        "link": "https://www.nature.com/articles/s41560-026-02016-7",
+        "pubDate": "2026-03-27",
+        "description": "Nature Energy, Published online: 27 March 2026; doi:10.1038/s41560-026-02016-7 The formation of α-phase formamidinium–caesium metal halide perovskites is hindered by limited Cs⁺ incorporation. He et al. use caesium 4-(diphenylphosphino)benzoate to en"
+      },
+      {
+        "title": "Quasi-random oriented molecular contacts for inverted perovskite solar cells with improved efficiency",
+        "link": "https://www.nature.com/articles/s41560-026-02024-7",
+        "pubDate": "2026-03-27",
+        "description": "Nature Energy, Published online: 27 March 2026; doi:10.1038/s41560-026-02024-7 Self-assembled hole-selective molecules can enable high performance in perovskite solar cells, but controlling the hole extraction efficiency is challenging. Tianyu Li et "
+      },
+      {
+        "title": "The team behind the publishing process",
+        "link": "https://www.nature.com/articles/s41560-025-01941-3",
+        "pubDate": "2026-03-26",
+        "description": "Nature Energy, Published online: 26 March 2026; doi:10.1038/s41560-025-01941-3 Every paper we publish is shaped by a dedicated team of production, art, copy, and editorial staff who guide it from submission to publication. This Q&amp;A series highlig"
+      }
+    ],
     "source": "Nature Energy",
-    "updated": "pending"
+    "updated": "2026-04-05 14:30 UTC"
   },
   "hydrogen": {
-    "items": [],
+    "items": [
+      {
+        "title": "Extreme H and STEP Foundation Announce Collaboration to Empower the Next Generation of Hydrogen Pioneers",
+        "link": "https://fuelcellsworks.com/2026/04/03/h2/extreme-h-and-step-foundation-announce-collaboration-to-empower-the-next-generation-of-hydrogen-pioneers",
+        "pubDate": "Fri, 03 Apr 2026 15:22:21 GMT",
+        "description": ""
+      },
+      {
+        "title": "Mapping Catalyst Failure to Advance Clean Hydrogen Fuel Production",
+        "link": "https://fuelcellsworks.com/2026/04/03/electrolyzer/mapping-catalyst-failure-to-advance-clean-hydrogen-fuel-production",
+        "pubDate": "Fri, 03 Apr 2026 15:00:42 GMT",
+        "description": ""
+      },
+      {
+        "title": "Turkish Cement Industry Explores Hydrogen to Cut Process Emissions",
+        "link": "https://fuelcellsworks.com/2026/04/03/h2/turkish-cement-industry-explores-hydrogen-to-cut-process-emissions",
+        "pubDate": "Fri, 03 Apr 2026 14:29:59 GMT",
+        "description": ""
+      },
+      {
+        "title": "Germany Surpasses 600 Hydrogen-Powered Buses, Setting New Record",
+        "link": "https://fuelcellsworks.com/2026/04/03/fuel-cells/germany-surpasses-600-hydrogen-powered-buses-setting-new-record",
+        "pubDate": "Fri, 03 Apr 2026 13:40:59 GMT",
+        "description": ""
+      },
+      {
+        "title": "1S1 Energy: Toward Cheaper, Cleaner Hydrogen Production",
+        "link": "https://fuelcellsworks.com/2026/04/03/clean-energy/1s1-energy-toward-cheaper-cleaner-hydrogen-production",
+        "pubDate": "Fri, 03 Apr 2026 13:34:37 GMT",
+        "description": ""
+      },
+      {
+        "title": "China Accelerates Hydrogen Development as Fujian Expands Pilot Applications",
+        "link": "https://fuelcellsworks.com/2026/04/01/h2/china-accelerates-hydrogen-development-as-fujian-expands-pilot-applications",
+        "pubDate": "Fri, 03 Apr 2026 13:01:35 GMT",
+        "description": ""
+      },
+      {
+        "title": "Hydrogenera to Supply 2MW Green Hydrogen System for German Project in Ukraine",
+        "link": "https://fuelcellsworks.com/2026/04/03/electrolyzer/hydrogenera-to-supply-2mw-green-hydrogen-system-for-german-project-in-ukraine",
+        "pubDate": "Fri, 03 Apr 2026 12:43:55 GMT",
+        "description": ""
+      },
+      {
+        "title": "Korea Petroleum Institute Launches ₩2.53B Program to Support Hydrogen Transport Equipment Purchases",
+        "link": "https://fuelcellsworks.com/2026/04/01/h2/korea-petroleum-institute-launches-2-53b-program-to-support-hydrogen-transport-equipment-purchases",
+        "pubDate": "Fri, 03 Apr 2026 12:23:43 GMT",
+        "description": ""
+      }
+    ],
     "source": "Fuel Cells Works",
-    "updated": "pending"
+    "updated": "2026-04-05 14:30 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI",
+        "link": "https://arxiv.org/abs/2604.02332v1",
+        "pubDate": "2026-04-02T17:59:59Z",
+        "description": "JWST is transforming our ability to characterise small exoplanets, from sub-Neptunes to rocky worlds. A key open question is whether highly irradiated rocky planets can retain atmospheres or are stripped bare by stellar irradiation -- a boundary that"
+      },
+      {
+        "title": "Revealing the neutrino mass through persistent homology of the cosmic web",
+        "link": "https://arxiv.org/abs/2604.02300v1",
+        "pubDate": "2026-04-02T17:39:58Z",
+        "description": "Cosmological constraints on neutrino mass offer a promising avenue for advancing our understanding of both fundamental particle physics and the evolution of cosmic large-scale structure. To overcome challenges associated with traditional probes of ne"
+      },
+      {
+        "title": "Crossovers from nonlinear wave-packet acceleration to wave-mixing and self-trapping in the Hatano-Nelson model",
+        "link": "https://arxiv.org/abs/2604.02263v1",
+        "pubDate": "2026-04-02T16:57:21Z",
+        "description": "We demonstrate that wave amplification enables even weak nonlinearities to reshape linear wave-packet transport in nonreciprocal systems. We study the dynamics of bulk Gaussian wave packets in the Hatano--Nelson model with onsite cubic nonlinearity. "
+      },
+      {
+        "title": "A virtual-variable-length method for robust inverse kinematics of multi-segment continuum robots",
+        "link": "https://arxiv.org/abs/2604.02256v1",
+        "pubDate": "2026-04-02T16:50:57Z",
+        "description": "This paper proposes a new, robust method to solve the inverse kinematics (IK) of multi-segment continuum manipulators. Conventional Jacobian-based solvers, especially when initialized from neutral/rest configurations, often exhibit slow convergence a"
+      },
+      {
+        "title": "A research roadmap for assessing the feasibility of warming Mars",
+        "link": "https://arxiv.org/abs/2604.02242v1",
+        "pubDate": "2026-04-02T16:33:39Z",
+        "description": "This roadmap outlines research pathways to determine whether Mars could be warmed with non-biological methods. It does not presuppose that warming Mars is desirable; its purpose is to identify what would need to be true for Mars to be warmed, what it"
+      },
+      {
+        "title": "Subquadratic Counting via Perfect Marginal Sampling",
+        "link": "https://arxiv.org/abs/2604.02235v1",
+        "pubDate": "2026-04-02T16:28:34Z",
+        "description": "We study the computational complexity of approximately computing the partition function of a spin system. Techniques based on standard counting-to-sampling reductions yield $\\tilde{O}(n^2)$-time algorithms, where $n$ is the size of the input graph. W"
+      },
+      {
+        "title": "Gravitational null rays: Covariant Quantization and the Dressing Time",
+        "link": "https://arxiv.org/abs/2604.02228v1",
+        "pubDate": "2026-04-02T16:22:27Z",
+        "description": "We quantize the degrees of freedom on a gravitational null ray segment in a fully gauge-invariant manner by using the dressing time as a quantum reference frame (QRF). Our work goes beyond previous models in that the QRF we employ is made out of the "
+      },
+      {
+        "title": "Modeling Transmission Intensity in SI Epidemics via CIR and Jacobi Processes: Asymptotic Results and Preliminary Intervention Strategies",
+        "link": "https://arxiv.org/abs/2604.02224v1",
+        "pubDate": "2026-04-02T16:14:06Z",
+        "description": "This paper introduces a way of modeling the epidemic transmission rate using a stochastic process of the form $(β_t = \\varphi(t)P_t : t \\ge 0)$, where the positive deterministic function $\\varphi(t)$ models the impact of a public health intervention "
+      },
+      {
+        "title": "Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges",
+        "link": "https://arxiv.org/abs/2604.02211v1",
+        "pubDate": "2026-04-02T16:04:52Z",
+        "description": "Video recommender systems are among the most popular and impactful applications of AI, shaping content consumption and influencing culture for billions of users. Traditional single-model recommenders, which optimize static engagement metrics, are inc"
+      },
+      {
+        "title": "Non-minimally coupled quintessence with sign-switching interaction",
+        "link": "https://arxiv.org/abs/2604.02204v1",
+        "pubDate": "2026-04-02T15:57:57Z",
+        "description": "We propose a new non-minimally coupled quintessence model to account for the late-time dark energy dynamics indicated by recent DESI measurements. Within this framework, the quintessence density begins to decrease only when it starts to dominate the "
+      }
+    ],
     "source": "arXiv",
-    "updated": "pending"
+    "updated": "2026-04-05 14:30 UTC"
   }
 }
