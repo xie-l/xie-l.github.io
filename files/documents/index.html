@@ -8,199 +8,71 @@
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        .docs-container {
-            max-width: 1200px;
-            margin: 100px auto 50px;
-            padding: 0 20px;
-        }
-        .docs-header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        .docs-header h1 {
-            font-size: 32px;
-            color: var(--primary-color);
-            margin-bottom: 10px;
-        }
-        .docs-header p {
-            color: var(--text-light);
-        }
-        .back-link {
-            display: inline-block;
-            margin-bottom: 20px;
-            color: var(--secondary-color);
-            text-decoration: none;
-            transition: var(--transition);
-        }
-        .back-link:hover {
-            color: var(--primary-color);
-        }
-        .upload-tip {
-            background: #e3f2fd;
-            border-left: 4px solid var(--secondary-color);
-            padding: 15px;
-            margin-bottom: 30px;
-            border-radius: 5px;
-        }
-        .upload-tip p {
-            margin: 0;
-            color: var(--text-color);
-        }
-        .upload-tip code {
-            background: rgba(0,0,0,0.05);
-            padding: 2px 6px;
-            border-radius: 3px;
-            font-family: monospace;
-        }
-        .doc-list {
-            display: grid;
-            gap: 15px;
-            margin-top: 30px;
-        }
-        .doc-item {
-            background: var(--card-bg);
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: var(--shadow);
-            transition: var(--transition);
-            display: flex;
-            align-items: center;
-            gap: 15px;
-        }
-        .doc-item:hover {
-            transform: translateX(5px);
-            box-shadow: var(--shadow-hover);
-        }
-        .doc-icon {
-            font-size: 36px;
-            color: var(--secondary-color);
-            flex-shrink: 0;
-        }
-        .doc-info {
-            flex: 1;
-        }
-        .doc-name {
-            font-size: 16px;
-            color: var(--primary-color);
-            margin-bottom: 5px;
-            word-break: break-all;
-        }
-        .doc-meta {
-            font-size: 14px;
-            color: var(--text-light);
-        }
-        .doc-size {
-            font-size: 14px;
-            color: var(--text-light);
-            margin-left: auto;
-        }
-        .empty-state {
-            text-align: center;
-            padding: 60px 20px;
-            color: var(--text-light);
-        }
-        .empty-state i {
-            font-size: 64px;
-            margin-bottom: 20px;
-            opacity: 0.5;
-        }
-        .empty-state h3 {
-            margin-bottom: 10px;
-            color: var(--primary-color);
-        }
-        .supported-formats {
-            background: var(--card-bg);
-            border-radius: 15px;
-            padding: 30px;
-            box-shadow: var(--shadow);
-            margin-top: 40px;
-        }
-        .supported-formats h2 {
-            text-align: center;
-            color: var(--primary-color);
-            margin-bottom: 20px;
-        }
-        .format-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-        }
-        .format-item {
-            text-align: center;
-            padding: 15px;
-            background: var(--bg-color);
-            border-radius: 10px;
-        }
-        .format-item i {
-            font-size: 32px;
-            color: var(--secondary-color);
-            margin-bottom: 10px;
-        }
-        .format-name {
-            font-size: 14px;
-            color: var(--text-color);
-            font-weight: 500;
-        }
+        .fc { max-width: 900px; margin: 100px auto 60px; padding: 0 20px; }
+        .back-link { display: inline-block; margin-bottom: 20px; color: var(--secondary-color); text-decoration: none; }
+        .ph { margin-bottom: 28px; }
+        .ph h1 { font-size: 26px; color: var(--primary-color); }
+        .ph p  { color: var(--text-light); font-size: 13px; margin-top: 6px; }
+        .fl { display: flex; flex-direction: column; gap: 12px; }
+        .fi { display: flex; align-items: center; gap: 14px; padding: 14px 18px; background: var(--card-bg); border-radius: 10px; box-shadow: var(--shadow); text-decoration: none; color: var(--text-color); transition: var(--transition); }
+        .fi:hover { box-shadow: var(--shadow-hover); transform: translateX(4px); }
+        .fi .ic { font-size: 26px; width: 30px; text-align: center; flex-shrink: 0; }
+        .fi .fm { flex: 1; }
+        .fi .fn { font-size: 14px; font-weight: 500; color: var(--primary-color); }
+        .fi .fs { font-size: 12px; color: var(--text-light); margin-top: 3px; }
+        .fi .dl { font-size: 13px; color: var(--secondary-color); white-space: nowrap; }
+        .sb { text-align: center; padding: 50px; color: var(--text-light); font-size: 14px; }
+        .ico-pdf { color: #e74c3c; }
+        .ico-doc { color: #2980b9; }
+        .ico-xls { color: #27ae60; }
+        .ico-ppt { color: #e67e22; }
+        .ico-img { color: var(--secondary-color); }
+        .ico-def { color: var(--text-light); }
     </style>
 </head>
 <body>
-    <div class="docs-container">
-        <a href="../" class="back-link">
-            <i class="fas fa-arrow-left"></i> 返回文件管理
-        </a>
-
-        <div class="docs-header">
-            <h1>文档资料</h1>
-            <p>管理和浏览各类文档文件</p>
+    <div class="fc">
+        <a href="../" class="back-link"><i class="fas fa-arrow-left"></i> 返回文件资源</a>
+        <div class="ph">
+            <h1><i class="fas fa-file-alt" style="color:var(--secondary-color);margin-right:8px"></i>文档资料</h1>
+            <p id="fc-count">正在从 GitHub 加载文件列表...</p>
         </div>
-
-        <div class="upload-tip">
-            <p><i class="fas fa-info-circle"></i> <strong>提示：</strong>要上传文档，请将文件放入 <code>files/documents/</code> 目录，然后使用Git提交并推送。</p>
-        </div>
-
-        <div class="doc-list">
-            <div class="empty-state">
-                <i class="fas fa-file-alt"></i>
-                <h3>暂无文档</h3>
-                <p>上传您的第一个文档吧！</p>
-            </div>
-        </div>
-
-        <div class="supported-formats">
-            <h2>支持的文档格式</h2>
-            <div class="format-grid">
-                <div class="format-item">
-                    <i class="fas fa-file-pdf"></i>
-                    <div class="format-name">PDF</div>
-                </div>
-                <div class="format-item">
-                    <i class="fas fa-file-word"></i>
-                    <div class="format-name">Word</div>
-                </div>
-                <div class="format-item">
-                    <i class="fas fa-file-excel"></i>
-                    <div class="format-name">Excel</div>
-                </div>
-                <div class="format-item">
-                    <i class="fas fa-file-powerpoint"></i>
-                    <div class="format-name">PowerPoint</div>
-                </div>
-                <div class="format-item">
-                    <i class="fas fa-file-text"></i>
-                    <div class="format-name">文本文件</div>
-                </div>
-                <div class="format-item">
-                    <i class="fas fa-file-archive"></i>
-                    <div class="format-name">压缩文件</div>
-                </div>
-            </div>
-        </div>
+        <div id="fc-box"><div class="sb"><i class="fas fa-spinner fa-spin"></i> 加载中...</div></div>
     </div>
-
-    <footer class="footer">
-        <div class="footer-content">
-            <p>&copy; 2026 谢亮. All rights reserved.</p>
-        </div>
-    </footer>
+    <script>
+    (function(){
+        const OWNER='xie-l', REPO='xie-l.github.io', DIR='files/documents';
+        function fmt(b){ if(!b)return''; if(b<1024)return b+' B'; if(b<1048576)return(b/1024).toFixed(1)+' KB'; return(b/1048576).toFixed(1)+' MB'; }
+        function ex(n){ return(n.split('.').pop()||'').toLowerCase(); }
+        function rawUrl(name){ return 'https://raw.githubusercontent.com/'+OWNER+'/'+REPO+'/main/'+DIR+'/'+encodeURIComponent(name); }
+        function iconClass(e){
+            const m={pdf:'fa-file-pdf ico-pdf',doc:'fa-file-word ico-doc',docx:'fa-file-word ico-doc',xls:'fa-file-excel ico-xls',xlsx:'fa-file-excel ico-xls',ppt:'fa-file-powerpoint ico-ppt',pptx:'fa-file-powerpoint ico-ppt',jpg:'fa-file-image ico-img',jpeg:'fa-file-image ico-img',png:'fa-file-image ico-img'};
+            return m[e]||'fa-file ico-def';
+        }
+        async function load(){
+            const box=document.getElementById('fc-box'), cnt=document.getElementById('fc-count');
+            try{
+                const res=await fetch('https://api.github.com/repos/'+OWNER+'/'+REPO+'/contents/'+DIR,{signal:AbortSignal.timeout(8000)});
+                if(!res.ok){box.innerHTML='<div class="sb">目录为空或暂无文件</div>';cnt.textContent='';return;}
+                const all=(await res.json()).filter(f=>f.type==='file');
+                cnt.textContent='共 '+all.length+' 个文件，点击可查看/下载';
+                if(all.length===0){box.innerHTML='<div class="sb">暂无文档，请通过管理后台上传</div>';return;}
+                let html='<div class="fl">';
+                all.forEach(f=>{
+                    const u=rawUrl(f.name), e=ex(f.name), ic=iconClass(e);
+                    html+='<a href="'+u+'" target="_blank" class="fi">'+
+                        '<i class="fas '+ic+' ic"></i>'+
+                        '<div class="fm"><div class="fn">'+f.name+'</div><div class="fs">'+fmt(f.size)+'</div></div>'+
+                        '<span class="dl"><i class="fas fa-download"></i> 下载</span></a>';
+                });
+                html+='</div>';
+                box.innerHTML=html;
+            }catch(e){
+                box.innerHTML='<div class="sb"><i class="fas fa-exclamation-circle"></i> 加载失败，请刷新页面</div>';
+            }
+        }
+        load();
+    })();
+    </script>
 </body>
 </html>

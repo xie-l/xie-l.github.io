@@ -31,9 +31,21 @@ jobs:
                   'source': 'Nature',
                   'count': 8
               },
+              'tech_cn': {
+                  # 36氪：国内科技/商业资讯
+                  'url': 'https://36kr.com/feed',
+                  'source': '36氪',
+                  'count': 8
+              },
               'energy': {
                   'url': 'https://feeds.nature.com/nenergy/rss/current',
                   'source': 'Nature Energy',
+                  'count': 8
+              },
+              'energy_cn': {
+                  # 能源界：国内能源行业资讯
+                  'url': 'https://www.nengyuanjie.net/rss.xml',
+                  'source': '能源界',
                   'count': 8
               },
               'hydrogen': {

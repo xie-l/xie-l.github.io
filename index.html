@@ -256,13 +256,19 @@
                         <div class="section-content">
                             <div class="news-tabs">
                                 <button class="news-tab active" data-feed="tech">
-                                    <i class="fas fa-flask"></i> 科技前沿
+                                    <i class="fas fa-flask"></i> 国际科技
+                                </button>
+                                <button class="news-tab" data-feed="tech_cn">
+                                    <i class="fas fa-globe-asia"></i> 国内科技
                                 </button>
                                 <button class="news-tab" data-feed="energy">
-                                    <i class="fas fa-bolt"></i> 能源动态
+                                    <i class="fas fa-bolt"></i> 能源前沿
+                                </button>
+                                <button class="news-tab" data-feed="energy_cn">
+                                    <i class="fas fa-fire"></i> 国内能源
                                 </button>
                                 <button class="news-tab" data-feed="hydrogen">
-                                    <i class="fas fa-atom"></i> 氢能新能源
+                                    <i class="fas fa-atom"></i> 氢能资讯
                                 </button>
                                 <button class="news-tab" data-feed="papers">
                                     <i class="fas fa-file-alt"></i> 前沿论文
@@ -1248,10 +1254,12 @@
     // 读取 GitHub Actions 每4小时预抓取的本地 data/news.json
     // 同域读取，无 CORS，无第三方依赖，100% 可靠
     const _NEWS_SOURCES = {
-        tech:     'Nature',
-        energy:   'Nature Energy',
-        hydrogen: 'Fuel Cells Works',
-        papers:   'arXiv'
+        tech:      'Nature',
+        tech_cn:   '36氪',
+        energy:    'Nature Energy',
+        energy_cn: '能源界',
+        hydrogen:  'Fuel Cells Works',
+        papers:    'arXiv'
     };
     const _newsCache = {};
     let _currentFeed = 'tech';
