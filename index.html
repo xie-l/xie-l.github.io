@@ -51,6 +51,44 @@
         .sidebar::-webkit-scrollbar { width: 3px; }
         .sidebar::-webkit-scrollbar-track { background: transparent; }
         .sidebar::-webkit-scrollbar-thumb { background: rgba(52,152,219,0.3); border-radius: 2px; }
+        /* ===== 资讯动态 ===== */
+        .news-tabs { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+        .news-tab {
+            padding: 6px 15px; border: 1px solid var(--border-color);
+            background: transparent; border-radius: 20px; cursor: pointer;
+            font-size: 13px; color: var(--text-light); transition: var(--transition);
+        }
+        .news-tab.active { background: var(--secondary-color); color: #fff; border-color: var(--secondary-color); }
+        .news-tab:hover:not(.active) { border-color: var(--secondary-color); color: var(--secondary-color); }
+        .news-topbar {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 12px; font-size: 12px; color: var(--text-light);
+        }
+        .news-refresh-btn {
+            background: none; border: 1px solid var(--border-color);
+            padding: 3px 10px; border-radius: 12px; cursor: pointer;
+            font-size: 12px; color: var(--text-light); transition: var(--transition);
+        }
+        .news-refresh-btn:hover { border-color: var(--secondary-color); color: var(--secondary-color); }
+        .news-items { display: flex; flex-direction: column; gap: 10px; }
+        .news-item {
+            padding: 12px 14px; background: var(--bg-secondary);
+            border-radius: 8px; border-left: 3px solid var(--secondary-color);
+            transition: var(--transition);
+        }
+        .news-item:hover { transform: translateX(4px); box-shadow: var(--shadow-md); }
+        .news-item-title { font-size: 14px; font-weight: 600; color: var(--text-color); line-height: 1.45; margin-bottom: 5px; }
+        .news-item-title a { color: inherit; text-decoration: none; }
+        .news-item-title a:hover { color: var(--secondary-color); }
+        .news-item-meta { font-size: 11.5px; color: var(--text-light); display: flex; gap: 12px; flex-wrap: wrap; }
+        .news-item-desc {
+            font-size: 12px; color: var(--text-light); margin-top: 5px;
+            overflow: hidden; display: -webkit-box;
+            -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+            line-height: 1.5;
+        }
+        .news-status { text-align: center; padding: 24px; font-size: 13px; color: var(--text-light); }
+
         /* 相关链接子分类 */
         .link-section-label {
             font-size: 11px; font-weight: 600; letter-spacing: 1px;
@@ -674,6 +712,39 @@
                             </div>
                         </div>
                     </section>
+                    <!-- 资讯动态 -->
+                    <section id="news-feed" class="section">
+                        <div class="section-header">
+                            <h2 class="section-title">资讯动态</h2>
+                        </div>
+                        <div class="section-content">
+                            <div class="news-tabs">
+                                <button class="news-tab active" data-feed="tech">
+                                    <i class="fas fa-flask"></i> 科技前沿
+                                </button>
+                                <button class="news-tab" data-feed="energy">
+                                    <i class="fas fa-bolt"></i> 能源动态
+                                </button>
+                                <button class="news-tab" data-feed="hydrogen">
+                                    <i class="fas fa-atom"></i> 氢能新能源
+                                </button>
+                                <button class="news-tab" data-feed="papers">
+                                    <i class="fas fa-file-alt"></i> 前沿论文
+                                </button>
+                            </div>
+                            <div class="news-topbar">
+                                <span id="news-update-time" style="font-size:12px;color:var(--text-light)">正在加载...</span>
+                                <button class="news-refresh-btn" id="news-refresh-btn">
+                                    <i class="fas fa-sync-alt"></i> 刷新
+                                </button>
+                            </div>
+                            <div id="news-content">
+                                <div class="news-status">
+                                    <i class="fas fa-spinner fa-spin"></i> 加载中...
+                                </div>
+                            </div>
+                        </div>
+                    </section>
                 </main>
 
                 <!-- 右侧边栏 -->
@@ -1031,6 +1102,126 @@
     loadWeather();
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
+
+    // ========== 资讯动态（RSS → rss2json.com → JSON）==========
+    const NEWS_FEEDS = {
+        tech: {
+            label: '科技前沿',
+            // Nature：全球顶级科学期刊，每日更新
+            url: 'https://feeds.nature.com/nature/rss/current',
+            source: 'Nature', count: 8
+        },
+        energy: {
+            label: '能源动态',
+            // Nature Energy：能源领域权威期刊 + CleanTechnica：清洁能源新闻
+            url: 'https://feeds.nature.com/nenergy/rss/current',
+            source: 'Nature Energy', count: 8
+        },
+        hydrogen: {
+            label: '氢能新能源',
+            // H2 View：国际氢能专业媒体
+            url: 'https://www.h2-view.com/feed/',
+            source: 'H2 View', count: 8
+        },
+        papers: {
+            label: '前沿论文',
+            // arXiv 材料科学 + 化学物理（含电催化、储能方向）
+            url: 'https://export.arxiv.org/rss/cond-mat.mtrl-sci',
+            source: 'arXiv', count: 10
+        }
+    };
+
+    const _newsCache = {};
+    let _currentFeed = 'tech';
+
+    function _newsTime() {
+        const n = new Date();
+        return n.getHours().toString().padStart(2,'0') + ':' + n.getMinutes().toString().padStart(2,'0');
+    }
+
+    function _renderNews(items, feedKey, feedTitle) {
+        const cfg = NEWS_FEEDS[feedKey];
+        const el = document.getElementById('news-content');
+        const timeEl = document.getElementById('news-update-time');
+        if (timeEl) timeEl.textContent = '更新于 ' + _newsTime();
+
+        if (!items || items.length === 0) {
+            el.innerHTML = '<div class="news-status">暂无数据，请稍后重试</div>';
+            return;
+        }
+
+        const html = items.map(function(item) {
+            const d = new Date(item.pubDate);
+            const dateStr = isNaN(d) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
+            const src = feedTitle || cfg.source;
+            let desc = (item.description || item.summary || '').replace(/<[^>]*>/g,'').trim();
+            if (desc.length > 120) desc = desc.slice(0, 120) + '…';
+            return '<div class="news-item">' +
+                '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
+                '<div class="news-item-meta">' +
+                    (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
+                    '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + src + '</span>' +
+                '</div>' +
+                (desc ? '<div class="news-item-desc">' + desc + '</div>' : '') +
+                '</div>';
+        }).join('');
+
+        el.innerHTML = '<div class="news-items">' + html + '</div>';
+    }
+
+    async function _fetchNews(feedKey, force) {
+        const cfg = NEWS_FEEDS[feedKey];
+        if (!cfg) return;
+        const el = document.getElementById('news-content');
+
+        // 命中缓存（30分钟内）
+        const cache = _newsCache[feedKey];
+        if (!force && cache && Date.now() - cache.ts < 30 * 60 * 1000) {
+            _renderNews(cache.items, feedKey, cache.feedTitle);
+            return;
+        }
+
+        el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
+        const timeEl = document.getElementById('news-update-time');
+        if (timeEl) timeEl.textContent = '加载中...';
+
+        try {
+            const api = 'https://api.rss2json.com/v1/api.json?rss_url=' +
+                encodeURIComponent(cfg.url) + '&count=' + cfg.count;
+            const res = await fetch(api, { signal: AbortSignal.timeout(10000) });
+            const data = await res.json();
+
+            if (data.status === 'ok' && data.items && data.items.length > 0) {
+                _newsCache[feedKey] = { items: data.items, ts: Date.now(), feedTitle: (data.feed && data.feed.title) || cfg.source };
+                _renderNews(data.items, feedKey, _newsCache[feedKey].feedTitle);
+            } else {
+                el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据获取失败，请刷新重试</div>';
+                if (timeEl) timeEl.textContent = '加载失败';
+            }
+        } catch (err) {
+            el.innerHTML = '<div class="news-status"><i class="fas fa-wifi" style="text-decoration:line-through"></i> 网络异常，请检查连接后刷新</div>';
+            if (timeEl) timeEl.textContent = '加载失败';
+        }
+    }
+
+    // Tab 切换
+    document.querySelectorAll('.news-tab').forEach(function(tab) {
+        tab.addEventListener('click', function() {
+            document.querySelectorAll('.news-tab').forEach(function(t){ t.classList.remove('active'); });
+            this.classList.add('active');
+            _currentFeed = this.dataset.feed;
+            _fetchNews(_currentFeed, false);
+        });
+    });
+
+    // 刷新按钮
+    (function() {
+        const btn = document.getElementById('news-refresh-btn');
+        if (btn) btn.addEventListener('click', function() { _fetchNews(_currentFeed, true); });
+    })();
+
+    // 首次加载
+    _fetchNews('tech', false);
 
     // ========== 邮件链接增强 ==========
     // 点击 mailto: 链接时：尝试打开邮件客户端，同时弹出提示并自动复制邮箱
