@@ -190,6 +190,7 @@ class BlogManager {
 
             showAlert('blog', '✓ 博客发布成功！GitHub Pages 通常在 1-2 分钟内生效。', 'success');
             this.form.reset();
+            localStorage.removeItem('blog_draft'); // 清除草稿，防止下次打开复现
 
         } catch (error) {
             showAlert('blog', `发布失败: ${error.message}`, 'error');
@@ -583,7 +584,10 @@ class FileManager {
             clearInterval(interval);
             progressBar.style.width = '100%';
             progressBar.style.background = '#10b981';
-            if (statusDiv) statusDiv.textContent = '✅ 上传成功';
+            // 进度条后显示持久的成功文字
+            progressBar.insertAdjacentHTML('afterend',
+                '<div style="color:#10b981;font-size:12px;margin-top:4px;font-weight:600">' +
+                '✅ 上传成功' + (tagList.length ? '  |  标签：' + tagList.join(' / ') : '') + '</div>');
 
             // 保存标签到 data/files-index.json
             if (tagList.length > 0) {
