@@ -35,11 +35,30 @@
             font-size: 13px;
         }
         .weather-row:last-child { border-bottom: none; }
-        .wt-city { font-weight: 600; color: var(--primary-color); width: 38px; flex-shrink: 0; }
-        .wt-icon { font-size: 16px; width: 22px; text-align: center; }
+        .wt-city { font-weight: 600; color: var(--primary-color); width: 54px; flex-shrink: 0; white-space: nowrap; }
+        .wt-icon { font-size: 16px; width: 22px; text-align: center; flex-shrink: 0; }
         .wt-desc { flex: 1; color: var(--text-light); font-size: 12px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
         .wt-temp { font-weight: 700; color: var(--secondary-color); white-space: nowrap; font-size: 13px; }
         .wt-loading { text-align: center; padding: 10px 0; font-size: 13px; color: var(--text-light); }
+        /* 侧边栏独立滚动 */
+        .sidebar {
+            max-height: calc(100vh - var(--header-height) - 48px);
+            overflow-y: auto;
+            overflow-x: hidden;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(52,152,219,0.25) transparent;
+        }
+        .sidebar::-webkit-scrollbar { width: 3px; }
+        .sidebar::-webkit-scrollbar-track { background: transparent; }
+        .sidebar::-webkit-scrollbar-thumb { background: rgba(52,152,219,0.3); border-radius: 2px; }
+        /* 相关链接子分类 */
+        .link-section-label {
+            font-size: 11px; font-weight: 600; letter-spacing: 1px;
+            color: var(--text-light); text-transform: uppercase;
+            padding: 8px 0 4px; margin-top: 4px;
+            border-top: 1px solid var(--border-color);
+        }
+        .link-section-label:first-child { border-top: none; margin-top: 0; padding-top: 0; }
     </style>
 </head>
 <body>
@@ -697,9 +716,36 @@
                                 <i class="fas fa-download"></i>
                                 简历下载
                             </a></li>
-                            <li><a href="#" class="link-item">
-                                <i class="fas fa-link"></i>
-                                相关链接
+                            <li class="link-section-label">能源企业</li>
+                            <li><a href="https://www.chnenergy.com.cn" target="_blank" class="link-item">
+                                <i class="fas fa-industry"></i>
+                                国家能源集团
+                            </a></li>
+                            <li><a href="http://www.guohua.com.cn" target="_blank" class="link-item">
+                                <i class="fas fa-bolt"></i>
+                                国华能源投资
+                            </a></li>
+                            <li class="link-section-label">学术机构</li>
+                            <li><a href="https://today.hit.edu.cn" target="_blank" class="link-item">
+                                <i class="fas fa-university"></i>
+                                哈工大新闻网
+                            </a></li>
+                            <li class="link-section-label">政府部门</li>
+                            <li><a href="http://www.nea.gov.cn" target="_blank" class="link-item">
+                                <i class="fas fa-sun"></i>
+                                国家能源局
+                            </a></li>
+                            <li><a href="https://www.ndrc.gov.cn" target="_blank" class="link-item">
+                                <i class="fas fa-chart-line"></i>
+                                国家发改委
+                            </a></li>
+                            <li><a href="https://www.miit.gov.cn" target="_blank" class="link-item">
+                                <i class="fas fa-microchip"></i>
+                                工业和信息化部
+                            </a></li>
+                            <li><a href="https://www.sasac.gov.cn" target="_blank" class="link-item">
+                                <i class="fas fa-landmark"></i>
+                                国务院国资委
                             </a></li>
                         </ul>
                     </div>
