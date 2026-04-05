@@ -875,6 +875,26 @@
     </div>
 
     <script src="js/main.js"></script>
+    <style>
+        #email-toast {
+            position: fixed; bottom: 28px; left: 50%;
+            transform: translateX(-50%) translateY(20px);
+            background: var(--primary-color, #1a2b4a);
+            color: #fff; padding: 11px 20px; border-radius: 10px;
+            font-size: 13.5px; z-index: 9999;
+            display: flex; align-items: center; gap: 12px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.25);
+            opacity: 0; transition: opacity .25s, transform .25s;
+            pointer-events: auto; white-space: nowrap;
+        }
+        #email-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+        #email-toast button {
+            background: rgba(255,255,255,0.18); border: none; color: #fff;
+            padding: 3px 11px; border-radius: 5px; cursor: pointer;
+            font-size: 12px; transition: background .2s;
+        }
+        #email-toast button:hover { background: rgba(255,255,255,0.35); }
+    </style>
     <script>
     /* ===================================================
        实时时间（阳历 + 农历）+ 五城天气
@@ -1011,6 +1031,63 @@
     loadWeather();
     // 每 15 分钟刷新一次天气
     setInterval(loadWeather, 15 * 60 * 1000);
-    </script>
+
+    // ========== 邮件链接增强 ==========
+    // 点击 mailto: 链接时：尝试打开邮件客户端，同时弹出提示并自动复制邮箱
+    (function () {
+        let toastTimer = null;
+
+        function showEmailToast(email) {
+            let toast = document.getElementById('email-toast');
+            if (!toast) {
+                toast = document.createElement('div');
+                toast.id = 'email-toast';
+                document.body.appendChild(toast);
+            }
+            toast.innerHTML =
+                '<i class="fas fa-envelope" style="opacity:.8"></i>' +
+                '<span>' + email + '</span>' +
+                '<button id="email-copy-btn">复制</button>';
+            toast.classList.add('show');
+
+            // 自动复制到剪贴板
+            if (navigator.clipboard) {
+                navigator.clipboard.writeText(email).catch(() => {});
+            }
+
+            // 复制按钮
+            document.getElementById('email-copy-btn').addEventListener('click', function () {
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(email).then(() => {
+                        this.textContent = '✓ 已复制';
+                    });
+                } else {
+                    // 降级方案
+                    const ta = document.createElement('textarea');
+                    ta.value = email; document.body.appendChild(ta);
+                    ta.select(); document.execCommand('copy');
+                    document.body.removeChild(ta);
+                    this.textContent = '✓ 已复制';
+                }
+            });
+
+            clearTimeout(toastTimer);
+            toastTimer = setTimeout(() => {
+                toast.classList.remove('show');
+            }, 5000);
+        }
+
+        document.querySelectorAll('a[href^="mailto:"]').forEach(function (link) {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                const email = this.getAttribute('href').replace('mailto:', '');
+                // 触发系统邮件客户端
+                window.location.href = 'mailto:' + email;
+                // 延迟 250ms 显示 toast（给邮件客户端打开的时间）
+                setTimeout(() => showEmailToast(email), 250);
+            });
+        });
+    })();
+</script>
 </body>
 </html>
