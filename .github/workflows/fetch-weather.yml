@@ -1,0 +1,109 @@
+name: Fetch Weather Data
+
+on:
+  schedule:
+    - cron: '5 * * * *'   # 每小时第5分钟执行（错开整点高峰）
+  workflow_dispatch:        # 可在 GitHub Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch weather for 5 cities
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request, json, os
+          from datetime import datetime, timezone
+
+          CITIES = [
+              {'name': '北京',  'q': 'Beijing' },
+              {'name': '上海',  'q': 'Shanghai'},
+              {'name': '南昌',  'q': 'Nanchang'},
+              {'name': '西宁',  'q': 'Xining'  },
+              {'name': '哈尔滨','q': 'Harbin'  },
+          ]
+
+          CODE_EMOJI = {
+              113:'☀️', 116:'⛅', 119:'☁️', 122:'☁️',
+              143:'🌫️', 248:'🌫️', 260:'🌫️',
+              263:'🌧️', 266:'🌧️', 281:'🌧️', 284:'🌧️',
+              293:'🌦️', 296:'🌦️', 299:'🌦️', 302:'🌧️',
+              305:'🌧️', 308:'🌧️', 311:'🌧️', 314:'🌧️',
+              317:'🌨️', 320:'🌨️', 323:'❄️', 326:'❄️',
+              329:'❄️', 332:'❄️', 335:'❄️', 338:'❄️',
+              350:'🌨️', 353:'🌦️', 356:'🌧️', 359:'🌧️',
+              362:'🌨️', 365:'🌨️', 368:'🌨️', 371:'❄️',
+              374:'🌨️', 377:'🌨️', 386:'⛈️', 389:'⛈️',
+              392:'⛈️', 395:'⛈️', 200:'⛈️',
+          }
+
+          def get_emoji(code):
+              c = int(code) if code else 0
+              if c in CODE_EMOJI:
+                  return CODE_EMOJI[c]
+              if 200 <= c <= 230: return '⛈️'
+              if 263 <= c <= 299: return '🌧️'
+              if 302 <= c <= 335: return '❄️'
+              if 338 <= c <= 395: return '🌨️'
+              return '🌡️'
+
+          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          result = {}
+
+          for city in CITIES:
+              try:
+                  url = f'https://wttr.in/{city["q"]}?format=j1&lang=zh'
+                  req = urllib.request.Request(
+                      url, headers={'User-Agent': 'curl/7.79.1', 'Accept': 'application/json'}
+                  )
+                  with urllib.request.urlopen(req, timeout=10) as r:
+                      data = json.load(r)
+                  cur = data['current_condition'][0]
+                  lang_zh = cur.get('lang_zh', [])
+                  desc = lang_zh[0]['value'] if lang_zh else cur.get('weatherDesc', [{}])[0].get('value', '')
+                  code = cur.get('weatherCode', '113')
+                  result[city['q']] = {
+                      'name':    city['name'],
+                      'temp':    cur.get('temp_C', '--'),
+                      'feels':   cur.get('FeelsLikeC', '--'),
+                      'desc':    desc,
+                      'icon':    get_emoji(code),
+                      'code':    code,
+                      'updated': now_utc
+                  }
+                  print(f"[OK] {city['name']}: {cur.get('temp_C')}°C {desc}")
+              except Exception as e:
+                  print(f"[ERR] {city['name']}: {e}")
+                  # 保留上次数据（如果文件存在），仅标记更新时间
+                  result[city['q']] = result.get(city['q'], {
+                      'name':    city['name'],
+                      'temp':    '--',
+                      'desc':    '暂无数据',
+                      'icon':    '🌡️',
+                      'code':    '',
+                      'updated': now_utc
+                  })
+
+          os.makedirs('data', exist_ok=True)
+          with open('data/weather.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          print('Wrote data/weather.json successfully.')
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/weather.json
+          git diff --staged --quiet \
+            && echo "No changes." \
+            || (git commit -m "chore: update weather data [skip ci]" \
+                && git pull --rebase origin main \
+                && git push)

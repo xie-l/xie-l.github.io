@@ -1339,93 +1339,46 @@
     updateClock();
     setInterval(updateClock, 1000);
 
-    // ---------- 天气 ----------
-    const CITIES = [
-        { name:'北京', q:'Beijing'  },
-        { name:'上海', q:'Shanghai' },
-        { name:'南昌', q:'Nanchang' },
-        { name:'西宁', q:'Xining'   },
-        { name:'哈尔滨', q:'Harbin'  },
-    ];
+    // ---------- 天气（读 GitHub Actions 预取的本地 JSON，无 CORS 问题）----------
+    const WEATHER_CITIES = ['Beijing','Shanghai','Nanchang','Xining','Harbin'];
 
-    function weatherEmoji(code) {
-        const c = parseInt(code);
-        if (c === 113) return '☀️';
-        if (c === 116) return '⛅';
-        if (c >= 119 && c <= 122) return '☁️';
-        if (c === 143 || c === 248 || c === 260) return '🌫️';
-        if (c >= 176 && c <= 185) return '🌦️';
-        if (c >= 200 && c <= 230) return '⛈️';
-        if (c >= 263 && c <= 299) return '🌧️';
-        if (c >= 302 && c <= 335) return '❄️';
-        if (c >= 338 && c <= 395) return '🌨️';
-        return '🌡️';
-    }
-
-    async function fetchCityWeather(city) {
-        // wttr.in 免费天气 API，支持 CORS，带中文描述
-        const url = `https://wttr.in/${city.q}?format=j1&lang=zh`;
-        const res = await fetch(url, { signal: AbortSignal.timeout(6000) });
-        const data = await res.json();
-        const cur  = data.current_condition[0];
-        const desc = (cur.lang_zh && cur.lang_zh[0])
-                     ? cur.lang_zh[0].value
-                     : cur.weatherDesc[0].value;
-        return {
-            temp:  cur.temp_C,
-            feels: cur.FeelsLikeC,
-            desc:  desc,
-            icon:  weatherEmoji(cur.weatherCode),
-        };
-    }
-
-    function makeWeatherRow(city, data) {
-        const div = document.createElement('div');
-        div.className = 'weather-row';
-        if (data) {
-            div.innerHTML =
-                `<span class="wt-city">${city.name}</span>` +
-                `<span class="wt-icon">${data.icon}</span>` +
-                `<span class="wt-desc">${data.desc}</span>` +
-                `<span class="wt-temp">${data.temp}°C</span>`;
-        } else {
-            div.innerHTML =
-                `<span class="wt-city">${city.name}</span>` +
-                `<span class="wt-icon">❓</span>` +
-                `<span class="wt-desc" style="color:#bbb">获取失败</span>`;
-        }
-        return div;
+    function renderWeather(data) {
+        const container = document.getElementById('w-weather');
+        container.innerHTML = WEATHER_CITIES.map(function(q) {
+            const d = data[q];
+            if (!d || d.temp === '--') {
+                return '<div class="weather-row">' +
+                    '<span class="wt-city">' + (d ? d.name : q) + '</span>' +
+                    '<span class="wt-icon">🌡️</span>' +
+                    '<span class="wt-desc" style="color:var(--text-light)">暂无数据</span>' +
+                    '</div>';
+            }
+            return '<div class="weather-row">' +
+                '<span class="wt-city">' + d.name + '</span>' +
+                '<span class="wt-icon">' + d.icon + '</span>' +
+                '<span class="wt-desc">' + d.desc + '</span>' +
+                '<span class="wt-temp">' + d.temp + '°C</span>' +
+                '</div>';
+        }).join('');
     }
 
     async function loadWeather() {
-        const container = document.getElementById('w-weather');
-        // 先渲染骨架（城市名占位）
-        container.innerHTML = '';
-        const rows = {};
-        CITIES.forEach(city => {
-            const div = document.createElement('div');
-            div.className = 'weather-row';
-            div.innerHTML = `<span class="wt-city">${city.name}</span>` +
-                            `<span class="wt-icon" style="color:#ccc"><i class="fas fa-spinner fa-spin" style="font-size:13px"></i></span>` +
-                            `<span class="wt-desc" style="color:#ccc">加载中...</span>`;
-            rows[city.q] = div;
-            container.appendChild(div);
-        });
-
-        // 并发请求所有城市，各自更新对应行
-        await Promise.allSettled(CITIES.map(async city => {
-            try {
-                const d = await fetchCityWeather(city);
-                rows[city.q].replaceWith(makeWeatherRow(city, d));
-            } catch(e) {
-                rows[city.q].replaceWith(makeWeatherRow(city, null));
-            }
-        }));
+        try {
+            const res = await fetch('/data/weather.json?_=' + Date.now(), {
+                signal: AbortSignal.timeout(5000)
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            const data = await res.json();
+            renderWeather(data);
+        } catch(e) {
+            // 降级：直接调用 wttr.in（浏览器端备用）
+            const container = document.getElementById('w-weather');
+            container.innerHTML = '<div class="wt-loading" style="padding:8px 0;font-size:13px;color:var(--text-light)">' +
+                '<i class="fas fa-exclamation-circle"></i> 天气数据加载失败，请稍后刷新</div>';
+        }
     }
 
     loadWeather();
-    // 每 15 分钟刷新一次天气
-    setInterval(loadWeather, 15 * 60 * 1000);
 
     // ========== 今日数感 ==========
     // 字段：topic题目, domain领域, num核心数字, label单位说明, ctx参照对比, sense数感训练
