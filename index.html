@@ -1936,8 +1936,14 @@
     _loadNewsJSON(false);
 
     // ========== 博客编辑器 ==========
+    // ✏️ 按钮仅对已登录（有 GitHub Token）的本人显示
     (function () {
         const fab     = document.getElementById('qrFab');
+        // 未登录时隐藏按钮，访客看不到
+        if (!localStorage.getItem('github_token')) {
+            fab.style.display = 'none';
+            return; // 直接退出，不绑定任何事件
+        }
         const overlay = document.getElementById('qrOverlay');
         const closeBtn= document.getElementById('qrClose');
         const titleEl = document.getElementById('qrTitle');
