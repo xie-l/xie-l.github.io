@@ -40,6 +40,51 @@
         .wt-desc { flex: 1; color: var(--text-light); font-size: 12px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
         .wt-temp { font-weight: 700; color: var(--secondary-color); white-space: nowrap; font-size: 13px; }
         .wt-loading { text-align: center; padding: 10px 0; font-size: 13px; color: var(--text-light); }
+        /* ===== 能源市场数据模块 ===== */
+        .em-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin-top: 16px;
+        }
+        @media (max-width: 900px) { .em-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 600px) { .em-grid { grid-template-columns: 1fr; } }
+        .em-card {
+            background: var(--bg-primary);
+            border-radius: var(--radius-lg);
+            padding: 18px 20px 16px;
+            box-shadow: var(--shadow-sm);
+            border-top: 3px solid transparent;
+            transition: var(--transition);
+        }
+        .em-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
+        .em-card-oil   { border-top-color: #f59e0b; }
+        .em-card-carbon{ border-top-color: var(--primary-color); }
+        .em-card-h2    { border-top-color: var(--accent-color); }
+        .em-card-label {
+            font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+            text-transform: uppercase; color: var(--text-light);
+            margin-bottom: 8px;
+        }
+        .em-asset { font-size: 14px; font-weight: 600; color: var(--text-primary); margin-bottom: 4px; }
+        .em-price-row { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
+        .em-price { font-size: 26px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+        .em-unit  { font-size: 12px; color: var(--text-light); }
+        .em-trend { font-size: 13px; font-weight: 600; }
+        .em-trend-up   { color: #16a34a; }
+        .em-trend-down { color: #dc2626; }
+        .em-trend-flat { color: var(--text-light); }
+        .em-date  { font-size: 11px; color: var(--text-light); margin-top: 4px; }
+        .em-divider { border: none; border-top: 1px solid var(--border-color); margin: 10px 0 8px; }
+        .em-sub-row { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 4px; }
+        .em-sub-label { font-size: 12px; color: var(--text-light); }
+        .em-sub-val   { font-size: 13px; font-weight: 600; color: var(--text-primary); }
+        .em-placeholder { font-size: 13px; color: var(--text-light); font-style: italic; line-height: 1.5; }
+        .em-placeholder a { color: var(--primary-color); text-decoration: none; }
+        .em-placeholder a:hover { text-decoration: underline; }
+        .em-ppi-num { font-size: 26px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+        .em-ppi-base { font-size: 11px; color: var(--text-light); margin-top: 2px; }
+        .em-loading { text-align: center; padding: 20px 0; color: var(--text-light); font-size: 13px; }
         /* 侧边栏独立滚动 */
         .sidebar {
             max-height: calc(100vh - var(--header-height) - 48px);
@@ -434,6 +479,17 @@
                             <div class="ds-grid" id="ds-grid">
                                 <div class="ds-card"><div class="ds-num-box"><div class="ds-num">--</div></div></div>
                             </div>
+                        </div>
+                    </section>
+
+                    <!-- 能源市场数据 -->
+                    <section id="energy-market" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">⚡ 能源市场数据</h2>
+                            <span class="kw-date-tag" id="em-updated">每日 09:05 自动更新</span>
+                        </div>
+                        <div class="em-grid" id="em-grid">
+                            <div class="em-loading">⏳ 加载中…</div>
                         </div>
                     </section>
 
@@ -1379,6 +1435,71 @@
     }
 
     loadWeather();
+
+    // ========== 能源市场数据 ==========
+    (async function loadEnergyData() {
+        const grid = document.getElementById('em-grid');
+        if (!grid) return;
+        try {
+            const res = await fetch('/data/energy.json?_=' + Date.now(), {
+                signal: AbortSignal.timeout(8000)
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            const d = await res.json();
+
+            const trendIcon = t => t === 'up' ? '▲' : t === 'down' ? '▼' : '─';
+            const trendCls  = t => t === 'up' ? 'em-trend-up' : t === 'down' ? 'em-trend-down' : 'em-trend-flat';
+            const wti   = (d.oil   || {}).wti   || {};
+            const brent = (d.oil   || {}).brent || {};
+            const cea   = (d.carbon|| {}).cea   || {};
+            const ppi   = (d.hydrogen || {}).us_ppi || {};
+
+            const oilCard = `<div class="em-card em-card-oil">
+                <div class="em-card-label">原油行情</div>
+                <div class="em-asset">WTI 美国原油</div>
+                <div class="em-price-row">
+                    <span class="em-price">${wti.price || '--'}</span>
+                    <span class="em-unit">${wti.unit || 'USD/桶'}</span>
+                    <span class="em-trend ${trendCls(wti.trend)}">${trendIcon(wti.trend)} ${wti.pct || ''}</span>
+                </div>
+                <hr class="em-divider">
+                <div class="em-asset">布伦特原油</div>
+                <div class="em-price-row">
+                    <span class="em-price">${brent.price || '--'}</span>
+                    <span class="em-unit">${brent.unit || 'USD/桶'}</span>
+                    <span class="em-trend ${trendCls(brent.trend)}">${trendIcon(brent.trend)} ${brent.pct || ''}</span>
+                </div>
+                <div class="em-date">${wti.date ? '数据日期：' + wti.date : ''}</div>
+            </div>`;
+
+            const ceaCard = `<div class="em-card em-card-carbon">
+                <div class="em-card-label">碳市场</div>
+                <div class="em-asset">${cea.desc || '全国碳市场 CEA'}</div>
+                <div class="em-placeholder" style="margin-top:10px">
+                    ${cea.note || '暂无数据'}<br>
+                    ${cea.source_url ? `<a href="${cea.source_url}" target="_blank" rel="noopener">→ ${cea.source}</a>` : ''}
+                </div>
+            </div>`;
+
+            const h2Card = `<div class="em-card em-card-h2">
+                <div class="em-card-label">制氢参考</div>
+                <div class="em-asset">${ppi.desc || '美国工业气体 PPI'}</div>
+                <div class="em-ppi-num" style="margin-top:10px">${ppi.index || '--'}</div>
+                <div class="em-ppi-base">${ppi.base || '2012=100'} · ${ppi.period || '--'}</div>
+                <div class="em-date" style="margin-top:6px">来源：${ppi.source || 'FRED'}</div>
+            </div>`;
+
+            grid.innerHTML = oilCard + ceaCard + h2Card;
+
+            const upd = wti.updated || brent.updated || '';
+            if (upd) {
+                const el = document.getElementById('em-updated');
+                if (el) el.textContent = '更新：' + upd;
+            }
+        } catch (e) {
+            if (grid) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
+        }
+    })();
 
     // ========== 今日数感 ==========
     // 字段：topic题目, domain领域, num核心数字, label单位说明, ctx参照对比, sense数感训练

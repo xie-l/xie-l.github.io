@@ -1,0 +1,42 @@
+{
+  "oil": {
+    "wti": {
+      "price": "--",
+      "unit": "USD/桶",
+      "change": "--",
+      "pct": "--",
+      "trend": "flat",
+      "date": "",
+      "updated": ""
+    },
+    "brent": {
+      "price": "--",
+      "unit": "USD/桶",
+      "change": "--",
+      "pct": "--",
+      "trend": "flat",
+      "date": "",
+      "updated": ""
+    }
+  },
+  "carbon": {
+    "cea": {
+      "note": "暂无免费数据源",
+      "desc": "全国碳市场 CEA 收盘价",
+      "unit": "元/吨",
+      "source": "上海环境能源交易所",
+      "source_url": "https://www.shea.com.cn/",
+      "updated": ""
+    }
+  },
+  "hydrogen": {
+    "us_ppi": {
+      "index": "--",
+      "period": "--",
+      "desc": "美国工业气体（含氢）PPI",
+      "base": "2012=100",
+      "source": "FRED / 美联储",
+      "updated": ""
+    }
+  }
+}

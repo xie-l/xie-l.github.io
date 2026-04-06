@@ -1,0 +1,145 @@
+name: Fetch Energy Market Data
+
+on:
+  schedule:
+    - cron: '5 1 * * *'   # 每天 01:05 UTC（北京时间 09:05），取前一交易日收盘价
+  workflow_dispatch:        # 可在 GitHub Actions 页面手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-energy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Fetch energy market data
+        env:
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request, json, os, csv, io
+          from datetime import datetime, timezone
+
+          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          av_key  = os.environ.get('ALPHAVANTAGE_API_KEY', '')
+
+          # ── 辅助函数 ──────────────────────────────────────────────────────
+          def fetch_json(url):
+              req = urllib.request.Request(url, headers={'User-Agent': 'curl/7.79.1'})
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  return json.load(r)
+
+          def fetch_text(url):
+              req = urllib.request.Request(url, headers={'User-Agent': 'curl/7.79.1'})
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  return r.read().decode('utf-8')
+
+          # ── 1. 原油价格（Alpha Vantage） ──────────────────────────────────
+          oil_result = {}
+          if av_key:
+              for symbol in ('WTI', 'BRENT'):
+                  try:
+                      url = (f'https://www.alphavantage.co/query'
+                             f'?function={symbol}&interval=daily&apikey={av_key}')
+                      data = fetch_json(url)
+                      rows = data.get('data', [])
+                      if len(rows) >= 2:
+                          latest = rows[0]
+                          prev   = rows[1]
+                          price  = float(latest['value'])
+                          prev_p = float(prev['value'])
+                          chg    = price - prev_p
+                          pct    = chg / prev_p * 100
+                          oil_result[symbol.lower()] = {
+                              'price':   f'{price:.2f}',
+                              'unit':    'USD/桶',
+                              'change':  f'{chg:+.2f}',
+                              'pct':     f'{pct:+.2f}%',
+                              'trend':   'up' if chg >= 0 else 'down',
+                              'date':    latest['date'],
+                              'updated': now_utc
+                          }
+                          print(f'[OK] {symbol}: {price:.2f} ({chg:+.2f})')
+                      else:
+                          print(f'[WARN] {symbol}: insufficient data')
+                          oil_result[symbol.lower()] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+                  except Exception as e:
+                      print(f'[ERR] {symbol}: {e}')
+                      oil_result[symbol.lower()] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+          else:
+              print('[WARN] ALPHAVANTAGE_API_KEY not set, skipping oil prices')
+              for sym in ('wti', 'brent'):
+                  oil_result[sym] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+
+          # ── 2. 碳市场（静态占位） ─────────────────────────────────────────
+          carbon_result = {
+              'cea': {
+                  'note':       '暂无免费数据源',
+                  'desc':       '全国碳市场 CEA 收盘价',
+                  'unit':       '元/吨',
+                  'source':     '上海环境能源交易所',
+                  'source_url': 'https://www.shea.com.cn/',
+                  'updated':    now_utc
+              }
+          }
+
+          # ── 3. 美国工业气体 PPI（FRED，无需 API key） ─────────────────────
+          # 系列：PCU325120325120 — Producer Price Index: Industrial Gases
+          hydrogen_result = {}
+          try:
+              csv_url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCU325120325120'
+              text = fetch_text(csv_url)
+              reader = csv.reader(io.StringIO(text))
+              rows = [r for r in reader if len(r) == 2 and r[1] != '.']
+              # 跳过表头行（DATE, PCU325120325120）
+              data_rows = [r for r in rows if r[0] != 'DATE']
+              if data_rows:
+                  latest = data_rows[-1]
+                  hydrogen_result['us_ppi'] = {
+                      'index':   latest[1],
+                      'period':  latest[0][:7],   # YYYY-MM
+                      'desc':    '美国工业气体（含氢）PPI',
+                      'base':    '2012=100',
+                      'source':  'FRED / 美联储',
+                      'updated': now_utc
+                  }
+                  print(f'[OK] FRED PPI: {latest[1]} ({latest[0]})')
+              else:
+                  raise ValueError('No valid rows in FRED CSV')
+          except Exception as e:
+              print(f'[ERR] FRED PPI: {e}')
+              hydrogen_result['us_ppi'] = {
+                  'index':   '--',
+                  'period':  '--',
+                  'desc':    '美国工业气体（含氢）PPI',
+                  'base':    '2012=100',
+                  'source':  'FRED / 美联储',
+                  'updated': now_utc
+              }
+
+          # ── 写入 JSON ─────────────────────────────────────────────────────
+          result = {
+              'oil':      oil_result,
+              'carbon':   carbon_result,
+              'hydrogen': hydrogen_result
+          }
+          os.makedirs('data', exist_ok=True)
+          with open('data/energy.json', 'w', encoding='utf-8') as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          print('Wrote data/energy.json successfully.')
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/energy.json
+          git diff --staged --quiet \
+            && echo "No changes to commit." \
+            || (git commit -m "chore: update energy market data [skip ci]" \
+                && git pull --rebase origin main \
+                && git push)
