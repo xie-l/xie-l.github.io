@@ -1143,6 +1143,7 @@
                         <div class="weather-rows" id="w-weather">
                             <div class="wt-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
                         </div>
+                        <div id="w-weather-time" style="font-size:11px;color:var(--text-light);margin-top:6px;opacity:.7;"></div>
                     </div>
 
                     <!-- 快速链接 -->
@@ -1437,6 +1438,18 @@
        天气：wttr.in 免费 JSON API，支持跨域
     =================================================== */
 
+    // ---------- UTC → 北京时间格式化 ----------
+    // 输入: "2026-04-06 08:00 UTC"  输出: "4月6日 16:00"
+    function fmtBJ(utcStr) {
+        if (!utcStr) return '';
+        const m = utcStr.match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);
+        if (!m) return utcStr;
+        const bj = new Date(Date.UTC(+m[1], +m[2]-1, +m[3], +m[4], +m[5]) + 8*3600*1000);
+        const pad = n => String(n).padStart(2, '0');
+        return (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 '
+             + pad(bj.getUTCHours()) + ':' + pad(bj.getUTCMinutes());
+    }
+
     // ---------- 时钟 ----------
     const WEEKDAYS = ['日','一','二','三','四','五','六'];
 
@@ -1500,6 +1513,12 @@
                 '<span class="wt-temp">' + d.temp + '°C</span>' +
                 '</div>';
         }).join('');
+        // 显示数据更新时间（取任意城市的 updated 字段）
+        const timeEl = document.getElementById('w-weather-time');
+        if (timeEl) {
+            const firstUpdated = Object.values(data).map(d => d && d.updated).find(Boolean);
+            timeEl.textContent = firstUpdated ? '更新于 ' + fmtBJ(firstUpdated) + '（北京时间）' : '';
+        }
     }
 
     async function loadWeather() {
@@ -1712,7 +1731,7 @@
             const upd = d.updated || wti.updated || '';
             if (upd) {
                 const el = document.getElementById('em-updated');
-                if (el) el.textContent = '更新：' + upd;
+                if (el) el.textContent = '更新于 ' + fmtBJ(upd) + '（北京时间）';
             }
         } catch (e) {
             if (grid) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
@@ -1957,7 +1976,7 @@
         }).join('');
         const bj = new Date(now.getTime() + 8*3600*1000);
         document.getElementById('ds-date').textContent =
-            bj.getUTCFullYear()+'年'+(bj.getUTCMonth()+1)+'月'+bj.getUTCDate()+'日';
+            bj.getUTCFullYear()+'年'+(bj.getUTCMonth()+1)+'月'+bj.getUTCDate()+'日 · 每日00:00换新';
     })();
 
     // ========== 每日五词 ==========
@@ -2072,7 +2091,7 @@
         }).join('');
         const bj = new Date(now.getTime() + 8 * 3600 * 1000);
         document.getElementById('kw-date').textContent =
-            bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日';
+            bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 · 每日00:00换新';
     })();
 
     // ========== 今日三问 ==========
@@ -2187,7 +2206,7 @@
         // 日期标签
         const bj = new Date(now.getTime() + 8 * 3600 * 1000);
         document.getElementById('dq-date').textContent =
-            bj.getUTCFullYear() + '年' + (bj.getUTCMonth() + 1) + '月' + bj.getUTCDate() + '日';
+            bj.getUTCFullYear() + '年' + (bj.getUTCMonth() + 1) + '月' + bj.getUTCDate() + '日 · 每日00:00换新';
     })();
 
     // ========== 主页最后更新时间 ==========
@@ -2231,7 +2250,7 @@
     function _renderNews(items, feedKey, source, updatedAt) {
         const el = document.getElementById('news-content');
         const timeEl = document.getElementById('news-update-time');
-        if (timeEl) timeEl.textContent = updatedAt ? '数据时间：' + updatedAt : '';
+        if (timeEl) timeEl.textContent = updatedAt ? '更新于 ' + fmtBJ(updatedAt) + '（北京时间）' : '';
         if (!items || items.length === 0) {
             el.innerHTML = '<div class="news-status"><i class="fas fa-info-circle"></i> 暂无数据，GitHub Actions 将定时更新</div>';
             return;
