@@ -1,13 +1,13 @@
 {
   "oil": {
     "wti": {
-      "price": "--",
+      "price": "104.69",
       "unit": "USD/桶",
-      "change": "--",
-      "pct": "--",
-      "trend": "flat",
-      "date": "",
-      "updated": ""
+      "change": "+3.43",
+      "pct": "+3.39%",
+      "trend": "up",
+      "date": "2026-03-30",
+      "updated": "2026-04-06 02:58 UTC"
     },
     "brent": {
       "price": "--",
@@ -16,7 +16,7 @@
       "pct": "--",
       "trend": "flat",
       "date": "",
-      "updated": ""
+      "updated": "2026-04-06 02:58 UTC"
     }
   },
   "carbon": {
@@ -26,17 +26,17 @@
       "unit": "元/吨",
       "source": "上海环境能源交易所",
       "source_url": "https://www.shea.com.cn/",
-      "updated": ""
+      "updated": "2026-04-06 02:58 UTC"
     }
   },
   "hydrogen": {
     "us_ppi": {
-      "index": "--",
-      "period": "--",
+      "index": "310.738",
+      "period": "2026-02",
       "desc": "美国工业气体（含氢）PPI",
       "base": "2012=100",
       "source": "FRED / 美联储",
-      "updated": ""
+      "updated": "2026-04-06 02:58 UTC"
     }
   }
 }
