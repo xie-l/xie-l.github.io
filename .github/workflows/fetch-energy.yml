@@ -16,12 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Install dependencies
+        run: pip install akshare -q
+
       - name: Fetch energy market data
         env:
           ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
         run: |
           python3 << 'PYEOF'
-          import urllib.request, json, os, csv, io
+          import urllib.request, json, os, csv, io, time
           from datetime import datetime, timezone
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -47,6 +50,8 @@ jobs:
                              f'?function={symbol}&interval=daily&apikey={av_key}')
                       data = fetch_json(url)
                       rows = data.get('data', [])
+                      # 过滤掉值为 '.' 的空行
+                      rows = [r for r in rows if r.get('value', '.') != '.']
                       if len(rows) >= 2:
                           latest = rows[0]
                           prev   = rows[1]
@@ -65,27 +70,97 @@ jobs:
                           }
                           print(f'[OK] {symbol}: {price:.2f} ({chg:+.2f})')
                       else:
-                          print(f'[WARN] {symbol}: insufficient data')
-                          oil_result[symbol.lower()] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+                          print(f'[WARN] {symbol}: insufficient data rows={len(rows)}')
+                          oil_result[symbol.lower()] = {
+                              'price': '--', 'unit': 'USD/桶', 'change': '--',
+                              'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
+                          }
                   except Exception as e:
                       print(f'[ERR] {symbol}: {e}')
-                      oil_result[symbol.lower()] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+                      oil_result[symbol.lower()] = {
+                          'price': '--', 'unit': 'USD/桶', 'change': '--',
+                          'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
+                      }
+                  # Alpha Vantage 免费版限速 5次/分钟，两次调用之间等待
+                  if symbol == 'WTI':
+                      time.sleep(15)
           else:
               print('[WARN] ALPHAVANTAGE_API_KEY not set, skipping oil prices')
               for sym in ('wti', 'brent'):
-                  oil_result[sym] = {'price': '--', 'unit': 'USD/桶', 'change': '--', 'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc}
+                  oil_result[sym] = {
+                      'price': '--', 'unit': 'USD/桶', 'change': '--',
+                      'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
+                  }
 
-          # ── 2. 碳市场（静态占位） ─────────────────────────────────────────
-          carbon_result = {
-              'cea': {
-                  'note':       '暂无免费数据源',
+          # ── 2. 全国碳市场 CEA（AKShare） ─────────────────────────────────
+          carbon_result = {}
+          try:
+              import akshare as ak
+              df = None
+              # 尝试多个可能的函数名（不同版本 AKShare 命名有差异）
+              for fn in ('carbon_trading_emission_trade',
+                         'carbon_emission_trade_zh',
+                         'carbon_trading_neeq'):
+                  try:
+                      df = getattr(ak, fn)()
+                      print(f'[OK] AKShare CEA via {fn}(), rows={len(df)}')
+                      break
+                  except Exception as fe:
+                      print(f'[SKIP] {fn}: {fe}')
+
+              if df is not None and len(df) > 0:
+                  # 自动识别列名（不同数据源列名略有差异）
+                  cols = list(df.columns)
+                  def find_col(*keywords):
+                      for kw in keywords:
+                          for c in cols:
+                              if kw in c:
+                                  return c
+                      return None
+
+                  date_col   = find_col('日期', 'date', 'Date')
+                  price_col  = find_col('收盘', '成交均价', '价格', 'price')
+                  change_col = find_col('涨跌额', '涨跌', 'change')
+                  pct_col    = find_col('涨跌幅', 'pct', 'pct_chg')
+                  vol_col    = find_col('成交量', 'volume', 'vol')
+
+                  row = df.iloc[-1]
+                  raw_price = row[price_col] if price_col else None
+                  if raw_price is not None and str(raw_price) not in ('--', 'nan', ''):
+                      price_val  = float(raw_price)
+                      change_val = float(row[change_col]) if change_col and str(row[change_col]) not in ('--','nan','') else None
+                      pct_val    = float(str(row[pct_col]).replace('%','')) if pct_col and str(row[pct_col]) not in ('--','nan','') else None
+                      vol_val    = str(row[vol_col]) if vol_col else '--'
+                      date_val   = str(row[date_col]).split(' ')[0] if date_col else '--'
+
+                      carbon_result['cea'] = {
+                          'price':   f'{price_val:.2f}',
+                          'unit':    '元/吨',
+                          'change':  f'{change_val:+.2f}' if change_val is not None else '--',
+                          'pct':     f'{pct_val:+.2f}%' if pct_val is not None else '--',
+                          'trend':   ('up' if (change_val or 0) >= 0 else 'down') if change_val is not None else 'flat',
+                          'volume':  vol_val,
+                          'date':    date_val,
+                          'source':  '全国碳排放权交易市场',
+                          'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                          'updated': now_utc
+                      }
+                      print(f'[OK] CEA: {price_val:.2f} 元/吨 ({date_val})')
+                  else:
+                      raise ValueError(f'No valid price in columns: {cols}')
+              else:
+                  raise ValueError('AKShare returned empty dataframe')
+
+          except Exception as e:
+              print(f'[ERR] CEA: {e}, using placeholder')
+              carbon_result['cea'] = {
+                  'note':       '数据获取中',
                   'desc':       '全国碳市场 CEA 收盘价',
                   'unit':       '元/吨',
-                  'source':     '上海环境能源交易所',
-                  'source_url': 'https://www.shea.com.cn/',
+                  'source':     '全国碳排放权交易市场',
+                  'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
                   'updated':    now_utc
               }
-          }
 
           # ── 3. 美国工业气体 PPI（FRED，无需 API key） ─────────────────────
           # 系列：PCU325120325120 — Producer Price Index: Industrial Gases
@@ -94,8 +169,7 @@ jobs:
               csv_url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCU325120325120'
               text = fetch_text(csv_url)
               reader = csv.reader(io.StringIO(text))
-              rows = [r for r in reader if len(r) == 2 and r[1] != '.']
-              # 跳过表头行（DATE, PCU325120325120）
+              rows = [r for r in reader if len(r) == 2 and r[1] not in ('.', 'PCU325120325120')]
               data_rows = [r for r in rows if r[0] != 'DATE']
               if data_rows:
                   latest = data_rows[-1]
@@ -113,8 +187,7 @@ jobs:
           except Exception as e:
               print(f'[ERR] FRED PPI: {e}')
               hydrogen_result['us_ppi'] = {
-                  'index':   '--',
-                  'period':  '--',
+                  'index':   '--', 'period':  '--',
                   'desc':    '美国工业气体（含氢）PPI',
                   'base':    '2012=100',
                   'source':  'FRED / 美联储',

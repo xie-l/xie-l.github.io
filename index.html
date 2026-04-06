@@ -1554,12 +1554,27 @@
                 <div class="em-date">${wti.date ? '数据日期：' + wti.date : ''}</div>
             </div>`;
 
-            const ceaCard = `<div class="em-card em-card-carbon">
-                <div class="em-card-label">碳市场</div>
-                <div class="em-asset">${cea.desc || '全国碳市场 CEA'}</div>
+            const ceaCard = cea.price
+                ? `<div class="em-card em-card-carbon">
+                <div class="em-card-label">碳市场 · CEA</div>
+                <div class="em-asset">全国碳市场收盘价</div>
+                <div class="em-price-row">
+                    <span class="em-price">${cea.price}</span>
+                    <span class="em-unit">${cea.unit || '元/吨'}</span>
+                    <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
+                </div>
+                <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}</div>
+                ${cea.volume && cea.volume !== '--' ? `<div class="em-date" style="margin-top:2px">成交量：${Number(cea.volume).toLocaleString()} 吨</div>` : ''}
+                <div class="em-date" style="margin-top:4px">
+                    <a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a>
+                </div>
+            </div>`
+                : `<div class="em-card em-card-carbon">
+                <div class="em-card-label">碳市场 · CEA</div>
+                <div class="em-asset">全国碳市场收盘价</div>
                 <div class="em-placeholder" style="margin-top:10px">
-                    ${cea.note || '暂无数据'}<br>
-                    ${cea.source_url ? `<a href="${cea.source_url}" target="_blank" rel="noopener">→ ${cea.source}</a>` : ''}
+                    ${cea.note || '数据获取中'}<br>
+                    <a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener">→ ${cea.source || '全国碳排放权交易市场'}</a>
                 </div>
             </div>`;
 
