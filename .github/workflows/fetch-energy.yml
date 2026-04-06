@@ -2,8 +2,8 @@ name: Fetch Energy Market Data
 
 on:
   schedule:
-    - cron: '5 1 * * *'   # 每天 01:05 UTC（北京时间 09:05），取前一交易日收盘价
-  workflow_dispatch:        # 可在 GitHub Actions 页面手动触发
+    - cron: '5 1 * * *'   # 每天 01:05 UTC（北京时间 09:05）
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
         run: |
           python3 << 'PYEOF'
           import urllib.request, json, os, csv, io, time
-          from datetime import datetime, timezone
+          from datetime import datetime, timezone, timedelta
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
           av_key  = os.environ.get('ALPHAVANTAGE_API_KEY', '')
@@ -41,164 +41,373 @@ jobs:
               with urllib.request.urlopen(req, timeout=15) as r:
                   return r.read().decode('utf-8')
 
-          # ── 1. 原油价格（Alpha Vantage） ──────────────────────────────────
-          oil_result = {}
+          # ── 读取现有数据（用于追加 history sparkline） ────────────────────
+          old_data = {}
+          try:
+              with open('data/energy.json', encoding='utf-8') as f:
+                  old_data = json.load(f)
+          except Exception:
+              pass
+
+          def get_old_history(*path):
+              obj = old_data
+              for p in path:
+                  obj = obj.get(p, {}) if isinstance(obj, dict) else {}
+              return list(obj.get('history', [])) if isinstance(obj, dict) else []
+
+          def append_history(hist, val):
+              if val is None:
+                  return hist[-14:]
+              try:
+                  hist.append(round(float(str(val).replace(',', '')), 4))
+              except Exception:
+                  pass
+              return hist[-14:]
+
+          # ── 1. Alpha Vantage：原油 + 天然气 + 汇率 ───────────────────────
+          av_results = {}
+
           if av_key:
-              for symbol in ('WTI', 'BRENT'):
+              # 商品序列：WTI、BRENT、NATURAL_GAS（Henry Hub）
+              for symbol in ('WTI', 'BRENT', 'NATURAL_GAS'):
                   try:
                       url = (f'https://www.alphavantage.co/query'
                              f'?function={symbol}&interval=daily&apikey={av_key}')
                       data = fetch_json(url)
-                      rows = data.get('data', [])
-                      # 过滤掉值为 '.' 的空行
-                      rows = [r for r in rows if r.get('value', '.') != '.']
+                      rows = [r for r in data.get('data', []) if r.get('value', '.') != '.']
                       if len(rows) >= 2:
-                          latest = rows[0]
-                          prev   = rows[1]
-                          price  = float(latest['value'])
-                          prev_p = float(prev['value'])
+                          price  = float(rows[0]['value'])
+                          prev_p = float(rows[1]['value'])
                           chg    = price - prev_p
                           pct    = chg / prev_p * 100
-                          oil_result[symbol.lower()] = {
+                          key    = symbol.lower()   # 'wti', 'brent', 'natural_gas'
+                          if symbol in ('WTI', 'BRENT'):
+                              hist = get_old_history('oil', key)
+                          else:
+                              hist = get_old_history('natgas')
+                          hist = append_history(hist, price)
+                          av_results[key] = {
                               'price':   f'{price:.2f}',
-                              'unit':    'USD/桶',
+                              'unit':    'USD/桶' if symbol != 'NATURAL_GAS' else 'USD/MMBtu',
                               'change':  f'{chg:+.2f}',
                               'pct':     f'{pct:+.2f}%',
                               'trend':   'up' if chg >= 0 else 'down',
-                              'date':    latest['date'],
+                              'date':    rows[0]['date'],
+                              'history': hist,
                               'updated': now_utc
                           }
-                          print(f'[OK] {symbol}: {price:.2f} ({chg:+.2f})')
+                          print(f'[OK] {symbol}: {price:.2f} ({pct:+.2f}%)')
                       else:
-                          print(f'[WARN] {symbol}: insufficient data rows={len(rows)}')
-                          oil_result[symbol.lower()] = {
-                              'price': '--', 'unit': 'USD/桶', 'change': '--',
-                              'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
-                          }
+                          raise ValueError(f'insufficient rows={len(rows)}')
                   except Exception as e:
                       print(f'[ERR] {symbol}: {e}')
-                      oil_result[symbol.lower()] = {
-                          'price': '--', 'unit': 'USD/桶', 'change': '--',
-                          'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
+                      key = symbol.lower()
+                      if symbol in ('WTI', 'BRENT'):
+                          hist = get_old_history('oil', key)
+                      else:
+                          hist = get_old_history('natgas')
+                      av_results[key] = {
+                          'price': '--', 'unit': 'USD/桶' if symbol != 'NATURAL_GAS' else 'USD/MMBtu',
+                          'change': '--', 'pct': '--', 'trend': 'flat',
+                          'date': '', 'history': hist, 'updated': now_utc
                       }
-                  # Alpha Vantage 免费版限速 5次/分钟，两次调用之间等待
-                  if symbol == 'WTI':
-                      time.sleep(15)
-          else:
-              print('[WARN] ALPHAVANTAGE_API_KEY not set, skipping oil prices')
-              for sym in ('wti', 'brent'):
-                  oil_result[sym] = {
-                      'price': '--', 'unit': 'USD/桶', 'change': '--',
-                      'pct': '--', 'trend': 'flat', 'date': '', 'updated': now_utc
-                  }
+                  time.sleep(13)   # 免费版 5次/分钟限速，间隔 13s
 
-          # ── 2. 全国碳市场 CEA（AKShare） ─────────────────────────────────
-          carbon_result = {}
-          try:
-              import akshare as ak
-              df = None
-              # 尝试多个可能的函数名（不同版本 AKShare 命名有差异）
-              for fn in ('carbon_trading_emission_trade',
-                         'carbon_emission_trade_zh',
-                         'carbon_trading_neeq'):
-                  try:
-                      df = getattr(ak, fn)()
-                      print(f'[OK] AKShare CEA via {fn}(), rows={len(df)}')
-                      break
-                  except Exception as fe:
-                      print(f'[SKIP] {fn}: {fe}')
-
-              if df is not None and len(df) > 0:
-                  # 自动识别列名（不同数据源列名略有差异）
-                  cols = list(df.columns)
-                  def find_col(*keywords):
-                      for kw in keywords:
-                          for c in cols:
-                              if kw in c:
-                                  return c
-                      return None
-
-                  date_col   = find_col('日期', 'date', 'Date')
-                  price_col  = find_col('收盘', '成交均价', '价格', 'price')
-                  change_col = find_col('涨跌额', '涨跌', 'change')
-                  pct_col    = find_col('涨跌幅', 'pct', 'pct_chg')
-                  vol_col    = find_col('成交量', 'volume', 'vol')
-
-                  row = df.iloc[-1]
-                  raw_price = row[price_col] if price_col else None
-                  if raw_price is not None and str(raw_price) not in ('--', 'nan', ''):
-                      price_val  = float(raw_price)
-                      change_val = float(row[change_col]) if change_col and str(row[change_col]) not in ('--','nan','') else None
-                      pct_val    = float(str(row[pct_col]).replace('%','')) if pct_col and str(row[pct_col]) not in ('--','nan','') else None
-                      vol_val    = str(row[vol_col]) if vol_col else '--'
-                      date_val   = str(row[date_col]).split(' ')[0] if date_col else '--'
-
-                      carbon_result['cea'] = {
-                          'price':   f'{price_val:.2f}',
-                          'unit':    '元/吨',
-                          'change':  f'{change_val:+.2f}' if change_val is not None else '--',
-                          'pct':     f'{pct_val:+.2f}%' if pct_val is not None else '--',
-                          'trend':   ('up' if (change_val or 0) >= 0 else 'down') if change_val is not None else 'flat',
-                          'volume':  vol_val,
-                          'date':    date_val,
-                          'source':  '全国碳排放权交易市场',
-                          'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+              # 汇率：USD/CNY
+              try:
+                  url = (f'https://www.alphavantage.co/query?function=FX_DAILY'
+                         f'&from_symbol=USD&to_symbol=CNY&outputsize=compact&apikey={av_key}')
+                  data = fetch_json(url)
+                  ts = data.get('Time Series FX (Daily)', {})
+                  if ts:
+                      dates = sorted(ts.keys())
+                      latest_date = dates[-1]
+                      rate      = float(ts[latest_date]['4. close'])
+                      prev_rate = float(ts[dates[-2]]['4. close']) if len(dates) >= 2 else rate
+                      chg = rate - prev_rate
+                      pct = chg / prev_rate * 100
+                      hist = get_old_history('usdcny')
+                      hist = append_history(hist, rate)
+                      av_results['usdcny'] = {
+                          'price':   f'{rate:.4f}',
+                          'unit':    'CNY/USD',
+                          'change':  f'{chg:+.4f}',
+                          'pct':     f'{pct:+.2f}%',
+                          'trend':   'up' if chg >= 0 else 'down',
+                          'date':    latest_date,
+                          'history': hist,
                           'updated': now_utc
                       }
-                      print(f'[OK] CEA: {price_val:.2f} 元/吨 ({date_val})')
+                      print(f'[OK] USD/CNY: {rate:.4f} ({pct:+.2f}%)')
                   else:
-                      raise ValueError(f'No valid price in columns: {cols}')
-              else:
-                  raise ValueError('AKShare returned empty dataframe')
+                      raise ValueError('empty time series')
+              except Exception as e:
+                  print(f'[ERR] USD/CNY: {e}')
+                  av_results['usdcny'] = {
+                      'price': '--', 'unit': 'CNY/USD', 'change': '--', 'pct': '--',
+                      'trend': 'flat', 'date': '',
+                      'history': get_old_history('usdcny'), 'updated': now_utc
+                  }
+              time.sleep(13)
 
-          except Exception as e:
-              print(f'[ERR] CEA: {e}, using placeholder')
+          else:
+              print('[WARN] ALPHAVANTAGE_API_KEY not set, skipping Alpha Vantage data')
+              for k, h_path in [('wti', ('oil','wti')), ('brent', ('oil','brent')),
+                                 ('natural_gas', ('natgas',)), ('usdcny', ('usdcny',))]:
+                  av_results[k] = {
+                      'price': '--', 'unit': '--', 'pct': '--', 'trend': 'flat',
+                      'date': '', 'history': get_old_history(*h_path), 'updated': now_utc
+                  }
+
+          # ── 2. AKShare：CEA + 秦皇岛动力煤 + 中证能源指数 ────────────────
+          try:
+              import akshare as ak
+              AK_OK = True
+          except ImportError as e:
+              print(f'[ERR] akshare import failed: {e}')
+              ak = None
+              AK_OK = False
+
+          # 2a. 全国碳市场 CEA
+          carbon_result = {}
+          if AK_OK:
+              try:
+                  df = None
+                  for fn in ('carbon_trading_emission_trade',
+                             'carbon_emission_trade_zh',
+                             'carbon_trading_neeq'):
+                      try:
+                          df = getattr(ak, fn)()
+                          print(f'[OK] AKShare CEA via {fn}(), rows={len(df)}')
+                          break
+                      except Exception as fe:
+                          print(f'[SKIP] {fn}: {fe}')
+
+                  if df is not None and len(df) > 0:
+                      cols = list(df.columns)
+
+                      def find_col(*keywords):
+                          for kw in keywords:
+                              for c in cols:
+                                  if kw in str(c):
+                                      return c
+                          return None
+
+                      date_col  = find_col('日期', 'date')
+                      price_col = find_col('收盘', '成交均价', '价格', 'price')
+                      chg_col   = find_col('涨跌额', '涨跌')
+                      pct_col   = find_col('涨跌幅', 'pct')
+                      vol_col   = find_col('成交量', 'volume', 'vol')
+                      row       = df.iloc[-1]
+                      raw_price = row[price_col] if price_col else None
+
+                      if raw_price is not None and str(raw_price) not in ('--', 'nan', ''):
+                          price_val = float(raw_price)
+                          chg_val   = float(row[chg_col]) if chg_col and str(row[chg_col]) not in ('--','nan','') else None
+                          pct_val   = float(str(row[pct_col]).replace('%','')) if pct_col and str(row[pct_col]) not in ('--','nan','') else None
+                          vol_val   = str(row[vol_col]) if vol_col else '--'
+                          date_val  = str(row[date_col]).split(' ')[0] if date_col else '--'
+                          hist      = get_old_history('carbon', 'cea')
+                          hist      = append_history(hist, price_val)
+                          carbon_result['cea'] = {
+                              'price':      f'{price_val:.2f}',
+                              'unit':       '元/吨',
+                              'change':     f'{chg_val:+.2f}' if chg_val is not None else '--',
+                              'pct':        f'{pct_val:+.2f}%' if pct_val is not None else '--',
+                              'trend':      ('up' if (chg_val or 0) >= 0 else 'down') if chg_val is not None else 'flat',
+                              'volume':     vol_val,
+                              'date':       date_val,
+                              'source':     '全国碳排放权交易市场',
+                              'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                              'history':    hist,
+                              'updated':    now_utc
+                          }
+                          print(f'[OK] CEA: {price_val:.2f} 元/吨 ({date_val})')
+                      else:
+                          raise ValueError(f'No valid price, cols={cols}')
+                  else:
+                      raise ValueError('AKShare returned empty dataframe')
+              except Exception as e:
+                  print(f'[ERR] CEA: {e}')
+                  carbon_result['cea'] = {
+                      'note':       '数据获取中',
+                      'unit':       '元/吨',
+                      'source':     '全国碳排放权交易市场',
+                      'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                      'history':    get_old_history('carbon', 'cea'),
+                      'updated':    now_utc
+                  }
+          else:
               carbon_result['cea'] = {
-                  'note':       '数据获取中',
-                  'desc':       '全国碳市场 CEA 收盘价',
-                  'unit':       '元/吨',
-                  'source':     '全国碳排放权交易市场',
+                  'note': '数据获取中', 'unit': '元/吨',
+                  'source': '全国碳排放权交易市场',
                   'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
-                  'updated':    now_utc
+                  'history': get_old_history('carbon', 'cea'), 'updated': now_utc
               }
 
-          # ── 3. 美国工业气体 PPI（FRED，无需 API key） ─────────────────────
-          # 系列：PCU325120325120 — Producer Price Index: Industrial Gases
+          # 2b. 秦皇岛动力煤现货价格
+          coal_result = {}
+          if AK_OK:
+              try:
+                  df = None
+                  for fn in ('macro_china_qhd_coal_spot',
+                             'energy_coal_hist_sina',
+                             'coal_qhd_spot_price'):
+                      try:
+                          df = getattr(ak, fn)()
+                          print(f'[OK] AKShare coal via {fn}(), rows={len(df)}')
+                          break
+                      except Exception as fe:
+                          print(f'[SKIP] {fn}: {fe}')
+
+                  if df is not None and len(df) > 0:
+                      cols = list(df.columns)
+                      date_col  = next((c for c in cols if any(k in str(c) for k in ('日期','date','Date'))), None)
+                      price_col = next((c for c in cols if any(k in str(c) for k in ('指数','价格','收盘','价','coal','price'))), None)
+                      row = df.iloc[-1]
+                      raw = row[price_col] if price_col else None
+
+                      if raw is not None and str(raw) not in ('--', 'nan', ''):
+                          price_val = float(str(raw).replace(',', ''))
+                          date_val  = str(row[date_col]).split(' ')[0] if date_col else '--'
+                          hist      = get_old_history('coal_qhd')
+                          hist      = append_history(hist, price_val)
+                          coal_result = {
+                              'price':   f'{price_val:.0f}',
+                              'unit':    '元/吨',
+                              'date':    date_val,
+                              'history': hist,
+                              'updated': now_utc
+                          }
+                          print(f'[OK] QHD coal: {price_val:.0f} 元/吨 ({date_val})')
+                      else:
+                          raise ValueError(f'No valid price, cols={cols}')
+                  else:
+                      raise ValueError('empty df')
+              except Exception as e:
+                  print(f'[ERR] QHD coal: {e}')
+                  coal_result = {
+                      'price': '--', 'unit': '元/吨', 'date': '',
+                      'history': get_old_history('coal_qhd'), 'updated': now_utc
+                  }
+          else:
+              coal_result = {
+                  'price': '--', 'unit': '元/吨', 'date': '',
+                  'history': [], 'updated': now_utc
+              }
+
+          # 2c. 中证能源指数（代码 399932，深交所）
+          index_result = {}
+          if AK_OK:
+              try:
+                  today_str = datetime.now().strftime('%Y%m%d')
+                  last30    = (datetime.now() - timedelta(days=30)).strftime('%Y%m%d')
+                  df = None
+                  for fn, kwargs in [
+                      ('stock_zh_index_daily_em', {'symbol': 'sz399932'}),
+                      ('index_zh_a_hist',         {'symbol': '399932', 'period': 'daily',
+                                                   'start_date': last30, 'end_date': today_str}),
+                  ]:
+                      try:
+                          df = getattr(ak, fn)(**kwargs)
+                          print(f'[OK] AKShare index via {fn}(), rows={len(df)}')
+                          break
+                      except Exception as fe:
+                          print(f'[SKIP] {fn}: {fe}')
+
+                  if df is not None and len(df) >= 2:
+                      cols      = list(df.columns)
+                      date_col  = next((c for c in cols if '日期' in str(c) or 'date' in str(c).lower()), None)
+                      close_col = next((c for c in cols if '收盘' in str(c) or 'close' in str(c).lower()), None)
+                      pct_col   = next((c for c in cols if '涨跌幅' in str(c)), None)
+                      row1      = df.iloc[-1]
+                      row2      = df.iloc[-2]
+                      price_val = float(row1[close_col]) if close_col else None
+                      prev_val  = float(row2[close_col]) if close_col else None
+
+                      if price_val:
+                          chg   = price_val - prev_val if prev_val else 0
+                          pct_v = float(str(row1[pct_col]).replace('%','')) if pct_col and str(row1[pct_col]) not in ('--','nan','') else (chg/prev_val*100 if prev_val else 0)
+                          hist  = get_old_history('energy_index')
+                          hist  = append_history(hist, price_val)
+                          date_val = str(row1[date_col]).split(' ')[0] if date_col else '--'
+                          index_result = {
+                              'name':    '中证能源',
+                              'code':    '399932',
+                              'price':   f'{price_val:.2f}',
+                              'change':  f'{chg:+.2f}',
+                              'pct':     f'{pct_v:+.2f}%',
+                              'trend':   'up' if chg >= 0 else 'down',
+                              'date':    date_val,
+                              'history': hist,
+                              'updated': now_utc
+                          }
+                          print(f'[OK] 中证能源: {price_val:.2f} ({pct_v:+.2f}%)')
+                      else:
+                          raise ValueError(f'No close price, cols={cols}')
+                  else:
+                      raise ValueError('insufficient rows')
+              except Exception as e:
+                  print(f'[ERR] 中证能源: {e}')
+                  index_result = {
+                      'name': '中证能源', 'code': '399932',
+                      'price': '--', 'pct': '--', 'trend': 'flat', 'date': '',
+                      'history': get_old_history('energy_index'), 'updated': now_utc
+                  }
+          else:
+              index_result = {
+                  'name': '中证能源', 'code': '399932',
+                  'price': '--', 'pct': '--', 'trend': 'flat',
+                  'date': '', 'history': [], 'updated': now_utc
+              }
+
+          # ── 3. FRED：美国工业气体 PPI ─────────────────────────────────────
           hydrogen_result = {}
           try:
               csv_url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCU325120325120'
-              text = fetch_text(csv_url)
-              reader = csv.reader(io.StringIO(text))
-              rows = [r for r in reader if len(r) == 2 and r[1] not in ('.', 'PCU325120325120')]
-              data_rows = [r for r in rows if r[0] != 'DATE']
+              text    = fetch_text(csv_url)
+              reader  = csv.reader(io.StringIO(text))
+              data_rows = [r for r in reader
+                           if len(r) == 2 and r[0] != 'DATE' and r[1] not in ('.', 'PCU325120325120')]
               if data_rows:
                   latest = data_rows[-1]
+                  hist   = get_old_history('hydrogen', 'us_ppi')
+                  hist   = append_history(hist, latest[1])
                   hydrogen_result['us_ppi'] = {
                       'index':   latest[1],
-                      'period':  latest[0][:7],   # YYYY-MM
+                      'period':  latest[0][:7],
                       'desc':    '美国工业气体（含氢）PPI',
                       'base':    '2012=100',
                       'source':  'FRED / 美联储',
+                      'history': hist,
                       'updated': now_utc
                   }
                   print(f'[OK] FRED PPI: {latest[1]} ({latest[0]})')
               else:
-                  raise ValueError('No valid rows in FRED CSV')
+                  raise ValueError('No valid rows')
           except Exception as e:
               print(f'[ERR] FRED PPI: {e}')
               hydrogen_result['us_ppi'] = {
-                  'index':   '--', 'period':  '--',
-                  'desc':    '美国工业气体（含氢）PPI',
-                  'base':    '2012=100',
-                  'source':  'FRED / 美联储',
+                  'index': '--', 'period': '--',
+                  'desc': '美国工业气体（含氢）PPI', 'base': '2012=100',
+                  'source': 'FRED / 美联储',
+                  'history': get_old_history('hydrogen', 'us_ppi'),
                   'updated': now_utc
               }
 
           # ── 写入 JSON ─────────────────────────────────────────────────────
           result = {
-              'oil':      oil_result,
-              'carbon':   carbon_result,
-              'hydrogen': hydrogen_result
+              'oil': {
+                  'wti':   av_results.get('wti', {}),
+                  'brent': av_results.get('brent', {})
+              },
+              'natgas':       av_results.get('natural_gas', {}),
+              'usdcny':       av_results.get('usdcny', {}),
+              'coal_qhd':     coal_result,
+              'energy_index': index_result,
+              'carbon':       carbon_result,
+              'hydrogen':     hydrogen_result,
+              'updated':      now_utc
           }
           os.makedirs('data', exist_ok=True)
           with open('data/energy.json', 'w', encoding='utf-8') as f:

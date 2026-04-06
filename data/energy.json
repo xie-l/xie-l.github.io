@@ -7,6 +7,7 @@
       "pct": "+3.39%",
       "trend": "up",
       "date": "2026-03-30",
+      "history": [104.69],
       "updated": "2026-04-06 02:58 UTC"
     },
     "brent": {
@@ -16,16 +17,54 @@
       "pct": "--",
       "trend": "flat",
       "date": "",
+      "history": [],
       "updated": "2026-04-06 02:58 UTC"
     }
   },
+  "natgas": {
+    "price": "--",
+    "unit": "USD/MMBtu",
+    "change": "--",
+    "pct": "--",
+    "trend": "flat",
+    "date": "",
+    "history": [],
+    "updated": ""
+  },
+  "usdcny": {
+    "price": "--",
+    "unit": "CNY/USD",
+    "change": "--",
+    "pct": "--",
+    "trend": "flat",
+    "date": "",
+    "history": [],
+    "updated": ""
+  },
+  "coal_qhd": {
+    "price": "--",
+    "unit": "元/吨",
+    "date": "",
+    "history": [],
+    "updated": ""
+  },
+  "energy_index": {
+    "name": "中证能源",
+    "code": "399932",
+    "price": "--",
+    "pct": "--",
+    "trend": "flat",
+    "date": "",
+    "history": [],
+    "updated": ""
+  },
   "carbon": {
     "cea": {
-      "note": "暂无免费数据源",
-      "desc": "全国碳市场 CEA 收盘价",
+      "note": "数据获取中",
       "unit": "元/吨",
-      "source": "上海环境能源交易所",
-      "source_url": "https://www.shea.com.cn/",
+      "source": "全国碳排放权交易市场",
+      "source_url": "https://www.cneeex.com/qghtfq/jysj/",
+      "history": [],
       "updated": "2026-04-06 02:58 UTC"
     }
   },
@@ -36,7 +75,9 @@
       "desc": "美国工业气体（含氢）PPI",
       "base": "2012=100",
       "source": "FRED / 美联储",
+      "history": [310.738],
       "updated": "2026-04-06 02:58 UTC"
     }
-  }
+  },
+  "updated": "2026-04-06 02:58 UTC"
 }

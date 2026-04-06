@@ -92,44 +92,46 @@
             gap: 16px;
             margin-top: 16px;
         }
-        @media (max-width: 900px) { .em-grid { grid-template-columns: repeat(2, 1fr); } }
-        @media (max-width: 600px) { .em-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 1000px) { .em-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 600px)  { .em-grid { grid-template-columns: 1fr; } }
         .em-card {
             background: var(--bg-primary);
             border-radius: var(--radius-lg);
-            padding: 18px 20px 16px;
+            padding: 16px 18px 14px;
             box-shadow: var(--shadow-sm);
             border-top: 3px solid transparent;
             transition: var(--transition);
         }
         .em-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); }
-        .em-card-oil   { border-top-color: #f59e0b; }
-        .em-card-carbon{ border-top-color: var(--primary-color); }
-        .em-card-h2    { border-top-color: var(--accent-color); }
+        .em-card-oil    { border-top-color: #f59e0b; }
+        .em-card-natgas { border-top-color: #6366f1; }
+        .em-card-carbon { border-top-color: var(--primary-color); }
+        .em-card-coal   { border-top-color: #78716c; }
+        .em-card-index  { border-top-color: #f97316; }
+        .em-card-fx     { border-top-color: #10b981; }
+        .em-card-h2     { border-top-color: var(--accent-color); }
+        .em-card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px; }
         .em-card-label {
             font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
             text-transform: uppercase; color: var(--text-light);
-            margin-bottom: 8px;
         }
-        .em-asset { font-size: 14px; font-weight: 600; color: var(--text-primary); margin-bottom: 4px; }
+        .em-spark { width: 72px; height: 24px; vertical-align: middle; opacity: 0.9; flex-shrink: 0; }
+        .em-asset { font-size: 13px; font-weight: 600; color: var(--text-primary); margin-bottom: 4px; }
         .em-price-row { display: flex; align-items: baseline; gap: 8px; margin-bottom: 4px; }
-        .em-price { font-size: 26px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
-        .em-unit  { font-size: 12px; color: var(--text-light); }
-        .em-trend { font-size: 13px; font-weight: 600; }
+        .em-price { font-size: 24px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+        .em-unit  { font-size: 11px; color: var(--text-light); }
+        .em-trend { font-size: 12px; font-weight: 600; }
         .em-trend-up   { color: #16a34a; }
         .em-trend-down { color: #dc2626; }
         .em-trend-flat { color: var(--text-light); }
         .em-date  { font-size: 11px; color: var(--text-light); margin-top: 4px; }
-        .em-divider { border: none; border-top: 1px solid var(--border-color); margin: 10px 0 8px; }
-        .em-sub-row { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 4px; }
-        .em-sub-label { font-size: 12px; color: var(--text-light); }
-        .em-sub-val   { font-size: 13px; font-weight: 600; color: var(--text-primary); }
-        .em-placeholder { font-size: 13px; color: var(--text-light); font-style: italic; line-height: 1.5; }
+        .em-divider { border: none; border-top: 1px solid var(--border-color); margin: 8px 0 6px; }
+        .em-placeholder { font-size: 13px; color: var(--text-light); font-style: italic; line-height: 1.6; margin-top: 8px; }
         .em-placeholder a { color: var(--primary-color); text-decoration: none; }
         .em-placeholder a:hover { text-decoration: underline; }
-        .em-ppi-num { font-size: 26px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+        .em-ppi-num  { font-size: 24px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; margin-top: 8px; }
         .em-ppi-base { font-size: 11px; color: var(--text-light); margin-top: 2px; }
-        .em-loading { text-align: center; padding: 20px 0; color: var(--text-light); font-size: 13px; }
+        .em-loading  { text-align: center; padding: 20px 0; color: var(--text-light); font-size: 13px; }
         /* 侧边栏独立滚动 */
         .sidebar {
             max-height: calc(100vh - var(--header-height) - 48px);
@@ -1531,13 +1533,40 @@
 
             const trendIcon = t => t === 'up' ? '▲' : t === 'down' ? '▼' : '─';
             const trendCls  = t => t === 'up' ? 'em-trend-up' : t === 'down' ? 'em-trend-down' : 'em-trend-flat';
-            const wti   = (d.oil   || {}).wti   || {};
-            const brent = (d.oil   || {}).brent || {};
-            const cea   = (d.carbon|| {}).cea   || {};
+
+            // SVG sparkline（取最近 14 个数据点，自动缩放）
+            function sparkline(history, trend) {
+                const h = (history || []).map(Number).filter(v => isFinite(v));
+                if (h.length < 2) return '';
+                const min = Math.min(...h), max = Math.max(...h);
+                const range = max - min || 1;
+                const W = 72, H = 24, pad = 2;
+                const pts = h.map((v, i) => {
+                    const x = ((i / (h.length - 1)) * (W - pad * 2) + pad).toFixed(1);
+                    const y = (H - pad - ((v - min) / range) * (H - pad * 2)).toFixed(1);
+                    return x + ',' + y;
+                }).join(' ');
+                const color = trend === 'up' ? '#22c55e' : trend === 'down' ? '#ef4444' : '#94a3b8';
+                return '<svg class="em-spark" viewBox="0 0 ' + W + ' ' + H + '" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">'
+                     + '<polyline points="' + pts + '" fill="none" stroke="' + color + '" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>'
+                     + '</svg>';
+            }
+
+            const wti   = (d.oil      || {}).wti   || {};
+            const brent = (d.oil      || {}).brent  || {};
+            const ng    = d.natgas    || {};
+            const fx    = d.usdcny    || {};
+            const coal  = d.coal_qhd  || {};
+            const idx   = d.energy_index || {};
+            const cea   = (d.carbon   || {}).cea    || {};
             const ppi   = (d.hydrogen || {}).us_ppi || {};
 
+            // 卡片 1：原油行情（WTI + Brent）
             const oilCard = `<div class="em-card em-card-oil">
-                <div class="em-card-label">原油行情</div>
+                <div class="em-card-header">
+                    <div class="em-card-label">原油行情</div>
+                    ${sparkline(wti.history, wti.trend)}
+                </div>
                 <div class="em-asset">WTI 美国原油</div>
                 <div class="em-price-row">
                     <span class="em-price">${wti.price || '--'}</span>
@@ -1554,9 +1583,28 @@
                 <div class="em-date">${wti.date ? '数据日期：' + wti.date : ''}</div>
             </div>`;
 
+            // 卡片 2：天然气（Henry Hub）
+            const ngCard = `<div class="em-card em-card-natgas">
+                <div class="em-card-header">
+                    <div class="em-card-label">天然气 · Henry Hub</div>
+                    ${sparkline(ng.history, ng.trend)}
+                </div>
+                <div class="em-asset">美国天然气现货价</div>
+                <div class="em-price-row" style="margin-top:10px">
+                    <span class="em-price">${ng.price || '--'}</span>
+                    <span class="em-unit">${ng.unit || 'USD/MMBtu'}</span>
+                    <span class="em-trend ${trendCls(ng.trend)}">${trendIcon(ng.trend)} ${ng.pct || ''}</span>
+                </div>
+                <div class="em-date">${ng.date ? '数据日期：' + ng.date : ''}</div>
+            </div>`;
+
+            // 卡片 3：碳市场 CEA
             const ceaCard = cea.price
                 ? `<div class="em-card em-card-carbon">
-                <div class="em-card-label">碳市场 · CEA</div>
+                <div class="em-card-header">
+                    <div class="em-card-label">碳市场 · CEA</div>
+                    ${sparkline(cea.history, cea.trend)}
+                </div>
                 <div class="em-asset">全国碳市场收盘价</div>
                 <div class="em-price-row">
                     <span class="em-price">${cea.price}</span>
@@ -1564,31 +1612,82 @@
                     <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
                 </div>
                 <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}</div>
-                ${cea.volume && cea.volume !== '--' ? `<div class="em-date" style="margin-top:2px">成交量：${Number(cea.volume).toLocaleString()} 吨</div>` : ''}
-                <div class="em-date" style="margin-top:4px">
-                    <a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a>
-                </div>
+                ${cea.volume && cea.volume !== '--' ? '<div class="em-date">成交量：' + Number(cea.volume).toLocaleString() + ' 吨</div>' : ''}
+                <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a></div>
             </div>`
                 : `<div class="em-card em-card-carbon">
-                <div class="em-card-label">碳市场 · CEA</div>
+                <div class="em-card-header"><div class="em-card-label">碳市场 · CEA</div></div>
                 <div class="em-asset">全国碳市场收盘价</div>
-                <div class="em-placeholder" style="margin-top:10px">
+                <div class="em-placeholder">
                     ${cea.note || '数据获取中'}<br>
                     <a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener">→ ${cea.source || '全国碳排放权交易市场'}</a>
                 </div>
             </div>`;
 
-            const h2Card = `<div class="em-card em-card-h2">
-                <div class="em-card-label">制氢参考</div>
-                <div class="em-asset">${ppi.desc || '美国工业气体 PPI'}</div>
-                <div class="em-ppi-num" style="margin-top:10px">${ppi.index || '--'}</div>
-                <div class="em-ppi-base">${ppi.base || '2012=100'} · ${ppi.period || '--'}</div>
-                <div class="em-date" style="margin-top:6px">来源：${ppi.source || 'FRED'}</div>
+            // 卡片 4：动力煤（秦皇岛）
+            const coalCard = `<div class="em-card em-card-coal">
+                <div class="em-card-header">
+                    <div class="em-card-label">动力煤 · 秦皇岛</div>
+                    ${sparkline(coal.history, coal.trend)}
+                </div>
+                <div class="em-asset">秦皇岛港现货价</div>
+                ${coal.price && coal.price !== '--'
+                    ? `<div class="em-price-row" style="margin-top:10px">
+                        <span class="em-price">${coal.price}</span>
+                        <span class="em-unit">${coal.unit || '元/吨'}</span>
+                       </div>
+                       <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
+                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.qhd.com.cn/" target="_blank" rel="noopener">→ 秦皇岛煤炭网</a></div>'
+                }
             </div>`;
 
-            grid.innerHTML = oilCard + ceaCard + h2Card;
+            // 卡片 5：中证能源指数
+            const idxCard = `<div class="em-card em-card-index">
+                <div class="em-card-header">
+                    <div class="em-card-label">A股 · 中证能源</div>
+                    ${sparkline(idx.history, idx.trend)}
+                </div>
+                <div class="em-asset">${idx.name || '中证能源'} <span style="font-size:11px;color:var(--text-light);font-weight:400">${idx.code || '399932'}</span></div>
+                ${idx.price && idx.price !== '--'
+                    ? `<div class="em-price-row" style="margin-top:10px">
+                        <span class="em-price">${idx.price}</span>
+                        <span class="em-trend ${trendCls(idx.trend)}">${trendIcon(idx.trend)} ${idx.pct || ''}</span>
+                       </div>
+                       <div class="em-date">${idx.date ? '数据日期：' + idx.date : ''}</div>`
+                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.csindex.com.cn/#/indices/family/detail?indexCode=399932" target="_blank" rel="noopener">→ 中证指数</a></div>'
+                }
+            </div>`;
 
-            const upd = wti.updated || brent.updated || '';
+            // 卡片 6：人民币汇率
+            const fxCard = `<div class="em-card em-card-fx">
+                <div class="em-card-header">
+                    <div class="em-card-label">汇率 · USD/CNY</div>
+                    ${sparkline(fx.history, fx.trend)}
+                </div>
+                <div class="em-asset">人民币兑美元</div>
+                <div class="em-price-row" style="margin-top:10px">
+                    <span class="em-price">${fx.price || '--'}</span>
+                    <span class="em-unit">${fx.unit || 'CNY/USD'}</span>
+                    <span class="em-trend ${trendCls(fx.trend)}">${trendIcon(fx.trend)} ${fx.pct || ''}</span>
+                </div>
+                <div class="em-date">${fx.date ? '数据日期：' + fx.date : ''}</div>
+            </div>`;
+
+            // 卡片 7：制氢参考（FRED PPI）
+            const h2Card = `<div class="em-card em-card-h2">
+                <div class="em-card-header">
+                    <div class="em-card-label">制氢参考 · FRED</div>
+                    ${sparkline(ppi.history, 'flat')}
+                </div>
+                <div class="em-asset">${ppi.desc || '美国工业气体 PPI'}</div>
+                <div class="em-ppi-num">${ppi.index || '--'}</div>
+                <div class="em-ppi-base">${ppi.base || '2012=100'} · ${ppi.period || '--'}</div>
+                <div class="em-date" style="margin-top:6px">来源：${ppi.source || 'FRED / 美联储'}</div>
+            </div>`;
+
+            grid.innerHTML = oilCard + ngCard + ceaCard + coalCard + idxCard + fxCard + h2Card;
+
+            const upd = d.updated || wti.updated || '';
             if (upd) {
                 const el = document.getElementById('em-updated');
                 if (el) el.textContent = '更新：' + upd;
