@@ -1612,7 +1612,7 @@
                     <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
                 </div>
                 <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}</div>
-                ${cea.volume && cea.volume !== '--' ? '<div class="em-date">成交量：' + Number(cea.volume).toLocaleString() + ' 吨</div>' : ''}
+                ${cea.amount && cea.amount !== '--' ? '<div class="em-date">成交额：' + cea.amount + '</div>' : (cea.volume && cea.volume !== '--' ? '<div class="em-date">成交量：' + Number(cea.volume).toLocaleString() + ' 吨</div>' : '')}
                 <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a></div>
             </div>`
                 : `<div class="em-card em-card-carbon">
@@ -1635,10 +1635,11 @@
                     ? `<div class="em-price-row" style="margin-top:8px">
                         <span class="em-price">${coal.price}</span>
                         <span class="em-unit">${coal.unit || '元/吨'}</span>
+                        <span class="em-trend ${trendCls(coal.trend)}">${trendIcon(coal.trend)} ${coal.pct || ''}</span>
                        </div>
-                       ${coal.freq ? `<div class="em-date">更新频率：${coal.freq}</div>` : ''}
+                       ${coal.note ? `<div class="em-date" style="font-style:italic">${coal.note}</div>` : ''}
                        <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
-                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网（秦皇岛港价）</a></div>'
+                    : `<div class="em-placeholder">数据获取中${coal.note ? '<br><span style="font-style:italic;font-size:11px">' + coal.note + '</span>' : ''}<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
                 }
             </div>`;
 
