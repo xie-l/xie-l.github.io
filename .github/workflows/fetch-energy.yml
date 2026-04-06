@@ -275,6 +275,45 @@ jobs:
                   'history': get_old_history('carbon', 'cea'), 'updated': now_utc
               }
 
+          # EU ETS 欧盟碳市场（EUA）—— energy_carbon_eu 已确认可用，作为国际碳价基准
+          if AK_OK:
+              try:
+                  df_eu = ak.energy_carbon_eu()
+                  if df_eu is not None and len(df_eu) >= 2:
+                      cols_eu   = list(df_eu.columns)
+                      date_c    = next((c for c in cols_eu if '日期' in str(c) or 'date' in str(c).lower()), None)
+                      close_c   = next((c for c in cols_eu if any(k in str(c) for k in ('收盘','close','Close','价格'))), None)
+                      pct_c     = next((c for c in cols_eu if '涨跌幅' in str(c)), None)
+                      chg_c     = next((c for c in cols_eu if '涨跌额' in str(c)), None)
+                      r1 = df_eu.iloc[-1]; r2 = df_eu.iloc[-2]
+                      p_eu = float(r1[close_c]) if close_c else None
+                      if p_eu:
+                          prev_eu = float(r2[close_c]) if close_c else p_eu
+                          chg_eu  = float(str(r1[chg_c]).replace(',','')) if chg_c and str(r1[chg_c]) not in ('--','nan','') else (p_eu - prev_eu)
+                          pct_eu  = float(str(r1[pct_c]).replace('%','')) if pct_c and str(r1[pct_c]) not in ('--','nan','') else (chg_eu/prev_eu*100 if prev_eu else 0)
+                          hist_eu = get_old_history('carbon', 'eua')
+                          hist_eu = append_history(hist_eu, p_eu)
+                          carbon_result['eua'] = {
+                              'price':   f'{p_eu:.2f}',
+                              'unit':    '€/吨',
+                              'change':  f'{chg_eu:+.2f}',
+                              'pct':     f'{pct_eu:+.2f}%',
+                              'trend':   'up' if chg_eu >= 0 else 'down',
+                              'date':    str(r1[date_c]).split(' ')[0] if date_c else '--',
+                              'history': hist_eu,
+                              'updated': now_utc
+                          }
+                          print(f'[OK] EU ETS: {p_eu:.2f} €/吨 ({pct_eu:+.2f}%)')
+                      else:
+                          raise ValueError(f'no close price, cols={cols_eu}')
+                  else:
+                      raise ValueError('EU ETS df empty or insufficient rows')
+              except Exception as e_eu:
+                  print(f'[ERR] EU ETS: {e_eu}')
+                  carbon_result.setdefault('eua', {
+                      'price': '--', 'unit': '€/吨', 'history': [], 'updated': now_utc
+                  })
+
           # 2b. 煤炭行情——AKShare 无专门煤炭函数，用 DCE 焦煤期货（JM）主力作为煤市代理指标
           coal_result = {}
           if AK_OK:
@@ -346,6 +385,43 @@ jobs:
                   'price': '--', 'unit': '元/吨', 'label': '焦煤期货·DCE主力（JM）',
                   'date': '', 'history': [], 'updated': now_utc
               }
+
+          # Newcastle 动力煤国际基准（FRED: PCOALAUUSDM，澳大利亚出口价，USD/吨）
+          try:
+              csv_url_coal = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCOALAUUSDM'
+              text_coal    = fetch_text(csv_url_coal)
+              reader_coal  = csv.reader(io.StringIO(text_coal))
+              coal_rows    = [r for r in reader_coal
+                              if len(r) == 2 and r[0] != 'DATE' and r[1] not in ('.', 'PCOALAUUSDM')]
+              if len(coal_rows) >= 2:
+                  latest_coal = coal_rows[-1]
+                  prev_coal   = coal_rows[-2]
+                  p_coal   = float(latest_coal[1])
+                  p_prev_c = float(prev_coal[1])
+                  chg_coal = p_coal - p_prev_c
+                  pct_coal = chg_coal / p_prev_c * 100 if p_prev_c else 0
+                  hist_coal = get_old_history('coal_qhd', 'newcastle')
+                  hist_coal = append_history(hist_coal, p_coal)
+                  coal_result['newcastle'] = {
+                      'price':   f'{p_coal:.2f}',
+                      'unit':    'USD/吨',
+                      'change':  f'{chg_coal:+.2f}',
+                      'pct':     f'{pct_coal:+.2f}%',
+                      'trend':   'up' if chg_coal >= 0 else 'down',
+                      'date':    latest_coal[0],
+                      'label':   'Newcastle动力煤（FRED月度）',
+                      'source':  'FRED / World Bank',
+                      'history': hist_coal,
+                      'updated': now_utc
+                  }
+                  print(f'[OK] Newcastle coal: {p_coal:.2f} USD/吨 ({pct_coal:+.2f}%) ({latest_coal[0]})')
+              else:
+                  raise ValueError('Insufficient coal rows')
+          except Exception as e_coal:
+              print(f'[ERR] Newcastle coal: {e_coal}')
+              coal_result.setdefault('newcastle', {
+                  'price': '--', 'unit': 'USD/吨', 'history': [], 'updated': now_utc
+              })
 
           # 2c. 中证能源指数（399932）——主力：新浪财经实时行情 API
           import re as _re

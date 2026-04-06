@@ -1552,14 +1552,16 @@
                      + '</svg>';
             }
 
-            const wti   = (d.oil      || {}).wti   || {};
-            const brent = (d.oil      || {}).brent  || {};
-            const ng    = d.natgas    || {};
-            const fx    = d.usdcny    || {};
-            const coal  = d.coal_qhd  || {};
-            const idx   = d.energy_index || {};
-            const cea   = (d.carbon   || {}).cea    || {};
-            const ppi   = (d.hydrogen || {}).us_ppi || {};
+            const wti        = (d.oil      || {}).wti        || {};
+            const brent      = (d.oil      || {}).brent      || {};
+            const ng         = d.natgas    || {};
+            const fx         = d.usdcny    || {};
+            const coal       = d.coal_qhd  || {};
+            const newcastle  = (d.coal_qhd || {}).newcastle  || {};
+            const idx        = d.energy_index || {};
+            const cea        = (d.carbon   || {}).cea        || {};
+            const eua        = (d.carbon   || {}).eua        || {};
+            const ppi        = (d.hydrogen || {}).us_ppi     || {};
 
             // 卡片 1：原油行情（WTI + Brent）
             const oilCard = `<div class="em-card em-card-oil">
@@ -1598,48 +1600,64 @@
                 <div class="em-date">${ng.date ? '数据日期：' + ng.date : ''}</div>
             </div>`;
 
-            // 卡片 3：碳市场 CEA
-            const ceaCard = cea.price
-                ? `<div class="em-card em-card-carbon">
+            // 卡片 3：碳市场（CEA + EU ETS）
+            const ceaCard = `<div class="em-card em-card-carbon">
                 <div class="em-card-header">
-                    <div class="em-card-label">碳市场 · CEA</div>
-                    ${sparkline(cea.history, cea.trend)}
+                    <div class="em-card-label">碳市场</div>
+                    ${sparkline(cea.price ? cea.history : eua.history, cea.price ? cea.trend : eua.trend)}
                 </div>
-                <div class="em-asset">全国碳市场收盘价</div>
-                <div class="em-price-row">
-                    <span class="em-price">${cea.price}</span>
-                    <span class="em-unit">${cea.unit || '元/吨'}</span>
-                    <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
-                </div>
-                <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}</div>
-                ${cea.amount && cea.amount !== '--' ? '<div class="em-date">成交额：' + cea.amount + '</div>' : (cea.volume && cea.volume !== '--' ? '<div class="em-date">成交量：' + Number(cea.volume).toLocaleString() + ' 吨</div>' : '')}
-                <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a></div>
-            </div>`
-                : `<div class="em-card em-card-carbon">
-                <div class="em-card-header"><div class="em-card-label">碳市场 · CEA</div></div>
-                <div class="em-asset">全国碳市场收盘价</div>
-                <div class="em-placeholder">
-                    ${cea.note || '数据获取中'}<br>
-                    <a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener">→ ${cea.source || '全国碳排放权交易市场'}</a>
-                </div>
+                <div class="em-asset">全国碳市场 · CEA</div>
+                ${cea.price
+                    ? `<div class="em-price-row">
+                        <span class="em-price">${cea.price}</span>
+                        <span class="em-unit">${cea.unit || '元/吨'}</span>
+                        <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
+                       </div>
+                       <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}${cea.amount && cea.amount !== '--' ? ' · 成交额：' + cea.amount : ''}</div>
+                       <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ 全国碳排放权交易市场</a></div>`
+                    : `<div class="em-placeholder" style="margin-bottom:4px">${cea.note || '数据获取中'}<br><a href="https://www.cneeex.com/" target="_blank" rel="noopener">→ 全国碳排放权交易市场</a></div>`
+                }
+                ${eua.price
+                    ? `<hr class="em-divider">
+                       <div class="em-asset">欧盟碳市场 · EUA</div>
+                       <div class="em-price-row">
+                           <span class="em-price">${eua.price}</span>
+                           <span class="em-unit">${eua.unit || '€/吨'}</span>
+                           <span class="em-trend ${trendCls(eua.trend)}">${trendIcon(eua.trend)} ${eua.pct || ''}</span>
+                       </div>
+                       <div class="em-date">${eua.date ? '数据日期：' + eua.date : ''}</div>`
+                    : ''
+                }
             </div>`;
 
-            // 卡片 4：动力煤（秦皇岛）
+            // 卡片 4：动力煤（焦煤期货 + Newcastle国际基准）
             const coalCard = `<div class="em-card em-card-coal">
                 <div class="em-card-header">
-                    <div class="em-card-label">动力煤 · 秦皇岛</div>
-                    ${sparkline(coal.history, coal.trend)}
+                    <div class="em-card-label">动力煤</div>
+                    ${sparkline(coal.price && coal.price !== '--' ? coal.history : newcastle.history,
+                                coal.price && coal.price !== '--' ? coal.trend  : newcastle.trend)}
                 </div>
-                <div class="em-asset">${coal.label || '秦皇岛港动力煤'}</div>
+                <div class="em-asset">${coal.label || '焦煤期货 · DCE'}</div>
                 ${coal.price && coal.price !== '--'
-                    ? `<div class="em-price-row" style="margin-top:8px">
+                    ? `<div class="em-price-row">
                         <span class="em-price">${coal.price}</span>
                         <span class="em-unit">${coal.unit || '元/吨'}</span>
                         <span class="em-trend ${trendCls(coal.trend)}">${trendIcon(coal.trend)} ${coal.pct || ''}</span>
                        </div>
-                       ${coal.note ? `<div class="em-date" style="font-style:italic">${coal.note}</div>` : ''}
+                       ${coal.note ? `<div class="em-date" style="font-style:italic;font-size:11px">${coal.note}</div>` : ''}
                        <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
-                    : `<div class="em-placeholder">数据获取中${coal.note ? '<br><span style="font-style:italic;font-size:11px">' + coal.note + '</span>' : ''}<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
+                    : `<div class="em-placeholder" style="margin-bottom:4px">数据获取中<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
+                }
+                ${newcastle.price && newcastle.price !== '--'
+                    ? `<hr class="em-divider">
+                       <div class="em-asset">Newcastle动力煤 · 国际基准</div>
+                       <div class="em-price-row">
+                           <span class="em-price">${newcastle.price}</span>
+                           <span class="em-unit">${newcastle.unit || 'USD/吨'}</span>
+                           <span class="em-trend ${trendCls(newcastle.trend)}">${trendIcon(newcastle.trend)} ${newcastle.pct || ''}</span>
+                       </div>
+                       <div class="em-date">${newcastle.date ? '数据日期：' + newcastle.date : ''} · 月度</div>`
+                    : ''
                 }
             </div>`;
 
