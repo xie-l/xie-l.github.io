@@ -2,13 +2,6 @@
   "tech": {
     "items": [
       {
-        "title": "Artemis II astronauts fly by the Moon today: follow along with Nature live",
-        "link": "https://www.nature.com/articles/d41586-026-00989-9",
-        "pubDate": "2026-04-06",
-        "description": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9 Humans are seeing parts of the Moon’s far side never observed by eye. Nature is in Houston with the mission’s scientists.",
-        "title_cn": "阿尔忒弥斯二世宇航员今天飞越月球：跟随Nature LIVE"
-      },
-      {
         "title": "Engaging the head and the heart: why scientists turn to poetry",
         "link": "https://www.nature.com/articles/d41586-026-01028-3",
         "pubDate": "2026-04-06",
@@ -28,6 +21,13 @@
         "pubDate": "2026-04-06",
         "description": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-01027-4 A goal-driven approach to medical research and development in the United States would address unmet medical needs, reduce costs and improve the reach of treatments.",
         "title_cn": "为什么美国需要一个统一的、基于使命的健康创新战略"
+      },
+      {
+        "title": "Moon fly-by live coverage: Artemis crew see intriguing colours on lunar surface",
+        "link": "https://www.nature.com/articles/d41586-026-00989-9",
+        "pubDate": "2026-04-06",
+        "description": "Nature, Published online: 06 April 2026; doi:10.1038/d41586-026-00989-9 Astronauts are flying by the Moon’s far side and setting records. Nature is in Houston with the mission’s scientists.",
+        "title_cn": "月球飞越现场报道：阿尔忒弥斯工作人员看到月球表面有趣的颜色"
       },
       {
         "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Microwaves From Space — What Could Possibly Go Wrong?",
+        "link": "https://cleantechnica.com/2026/04/06/microwaves-from-space-what-could-possibly-go-wrong/",
+        "pubDate": "Mon, 06 Apr 2026 18:30:13 +0000",
+        "description": "A report by a top Chinese scientist suggests that space-based solar could also be used as a weapon to disrupt critical communications. The post Microwaves From Space &#8212; What Could Possibly Go Wrong? appeared first on CleanTechnica .",
+        "title_cn": "来自太空的微波炉—可能出错的地方是什么？"
+      },
+      {
+        "title": "We Need To Tax Billionaires At 2%, & Economist Gabriel Zucman Just Explained Exactly How",
+        "link": "https://cleantechnica.com/2026/04/06/we-need-to-tax-billionaires-at-2-economist-gabriel-zucman-just-explained-exactly-how/",
+        "pubDate": "Mon, 06 Apr 2026 15:06:42 +0000",
+        "description": "The most talked-about economics book of 2026 fits in your jacket pocket. Here are the five things you need to know. Gabriel Zucman is having a moment. The Paris-born Berkeley economist who coined the term “tax haven” and mapped the hidden wealth of nations is now one the most famous ... [continued] ",
+        "title_cn": "我们需要对亿万富翁征收2%的税，经济学家加布里埃尔·祖克曼（ Gabriel Zucman ）刚刚解释了"
+      },
+      {
+        "title": "German Bionic Cracks The Energy Transition’s Back Problem",
+        "link": "https://cleantechnica.com/2026/04/06/german-bionic-cracks-the-energy-transitions-back-problem/",
+        "pubDate": "Mon, 06 Apr 2026 15:00:53 +0000",
+        "description": "The clean energy boom is also creating physically demanding work, and the Bavarian tech company German Bionic has the exoskeleton to power such work, such as manufacturing the components that make the energy transition possible; turbine housings and blades, nacelle assemblies, solar panel frames; wh",
+        "title_cn": "德国仿生破解能源转型的背部问题"
+      },
+      {
+        "title": "EV Driver “Fills Up” For Less Than $30 On Road Trip",
+        "link": "https://cleantechnica.com/2026/04/06/ev-driver-fills-up-for-less-than-30-on-road-trip/",
+        "pubDate": "Mon, 06 Apr 2026 14:53:36 +0000",
+        "description": "The fact that fossil fuels are the primary contributor to climate change, and climate change impacts potentially cost trillions of dollars to humanity and the planet, seem to not register much with millions of individuals around the globe. However, if gas and diesel prices at the pump rise and the .",
+        "title_cn": "开车接单时，电动车司机“加满”车费少于$ 30"
+      },
+      {
+        "title": "It’s Decision Time For EV Fence-Sitters As Online Searches Surge",
+        "link": "https://cleantechnica.com/2026/04/06/its-decision-time-for-ev-fence-sitters-as-online-searches-surge/",
+        "pubDate": "Mon, 06 Apr 2026 14:51:02 +0000",
+        "description": "Now that fuel prices have gone through the roof, online EV cost calculators like CLEAResult's ChooseEV are seeing a spike in page views. The post It&#8217;s Decision Time For EV Fence-Sitters As Online Searches Surge appeared first on CleanTechnica .",
+        "title_cn": "随着在线搜索激增，现在是电动汽车围栏保姆的决策时间"
+      },
       {
         "title": "Tesla Full Self-Driving History: Where It Stands Today With V12 On HW3 Cars And V14 On HW4 Cars",
         "link": "https://cleantechnica.com/2026/04/06/tesla-full-self-driving-history-where-it-stands-today-with-v12-on-hw-3-cars-and-v14-on-hw-4-cars/",
@@ -137,48 +172,27 @@
         "pubDate": "Mon, 06 Apr 2026 00:44:16 +0000",
         "description": "The Fife, Scotland, hydrogen trial is moving forward at Easter 2026, and that timing matters more than it might seem. Easter is a season associated with renewal, honesty, sacrifice, and the choice to leave behind what no longer serves the common good. Against that backdrop, SGN is advancing a projec",
         "title_cn": "苏格兰家庭氢能试验和延迟的伦理"
-      },
-      {
-        "title": "Agrivoltaics Can Save US Farmers In More Ways Than One",
-        "link": "https://cleantechnica.com/2026/04/05/agrivoltaics-can-save-us-farmers-in-more-ways-than-one/",
-        "pubDate": "Sun, 05 Apr 2026 20:41:29 +0000",
-        "description": "A new study deploys computational fluid dynamic models to describe how the solar panels in agrivoltaic systems can reduce wind damage and soil loss, outperforming natural windbreaks. The post Agrivoltaics Can Save US Farmers In More Ways Than One appeared first on CleanTechnica .",
-        "title_cn": "Agrivoltaics可以不止一种方式拯救美国农民"
-      },
-      {
-        "title": "Proton EVs Sell Well In Malaysia, Where Fuel Is Subsidized & Cheap",
-        "link": "https://cleantechnica.com/2026/04/05/proton-evs-sell-well-in-malaysia-where-fuel-is-subsidized-cheap/",
-        "pubDate": "Sun, 05 Apr 2026 19:55:56 +0000",
-        "description": "Malaysian national carmaker Proton achieved its highest quarterly sales volume since 2004 by delivering 49,140 units in the first three months of the year. This meant 40.1 percent year-on-year growth, a feat made more impressive by the fact that the broader Malaysian automotive market actually contr",
-        "title_cn": "质子电动汽车在马来西亚销售良好，燃料补贴和便宜"
-      },
-      {
-        "title": "1,500 New EV Chargers Coming To the Isle Of Wight",
-        "link": "https://cleantechnica.com/2026/04/05/1500-new-ev-chargers-coming-to-the-isle-of-wight/",
-        "pubDate": "Sun, 05 Apr 2026 16:49:11 +0000",
-        "description": "The Isle of Wight is where Charles Dickens wrote some of David Copperfield, a novel that may have been his most autobiographical. The opening could also serve as a meaningful observation and guidance for our own times: &#8220;WHETHER I shall turn out to be the hero of my own life, ... [continued] Th",
-        "title_cn": "1500台全新电动汽车充电桩即将登陆怀特岛"
-      },
-      {
-        "title": "72 New EV Fast Chargers Now Operating In Or Coming To Illinois",
-        "link": "https://cleantechnica.com/2026/04/05/72-new-ev-fast-chargers-now-operating-in-or-coming-to-illinois/",
-        "pubDate": "Sun, 05 Apr 2026 16:33:57 +0000",
-        "description": "In the last six months or so, there have been a number of news articles about Illinois EV charger expansion: 10 in Decatur 40 fast chargers near Chicago. 40 in Springfield A new hub of fast chargers Here comes another 72 public fast charger ports for the same state. The ... [continued] The post 72 N",
-        "title_cn": "72款新型电动汽车快速充电器现已在伊利诺伊州运营或即将在伊利诺伊州"
-      },
-      {
-        "title": "Fossil Fuel FUD Is Targeting Your Children",
-        "link": "https://cleantechnica.com/2026/04/05/fossil-fuel-fud-is-targeting-your-children/",
-        "pubDate": "Sun, 05 Apr 2026 16:16:37 +0000",
-        "description": "A children's book in Sweden about fossil fuels has created controversy, with critics saying it is propaganda for the oil and gas industry. The post Fossil Fuel FUD Is Targeting Your Children appeared first on CleanTechnica .",
-        "title_cn": "化石燃料FUD正在瞄准您的孩子"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Governance challenges preventing better integration of the electrical grid in the USA",
+        "link": "https://www.nature.com/articles/s41560-026-02020-x",
+        "pubDate": "2026-04-06",
+        "description": "Nature Energy, Published online: 06 April 2026; doi:10.1038/s41560-026-02020-x The USA’s electricity network remains underdeveloped and fragmented in ways that threaten the reliability, resilience and affordability of electricity as well as clean energy goals. The design of its grid governance is la",
+        "title_cn": "治理挑战妨碍美国更好地整合电网"
+      },
+      {
+        "title": "Thermal runaway-free ampere-hour-level Na-ion battery via polymerizable non-flammable electrolyte",
+        "link": "https://www.nature.com/articles/s41560-026-02032-7",
+        "pubDate": "2026-04-06",
+        "description": "Nature Energy, Published online: 06 April 2026; doi:10.1038/s41560-026-02032-7 The safe operation of large-scale batteries remains challenging, as thermal runaway in ampere-hour-level cells is still unresolved and the link between electrolyte flame retardancy and battery safety is unclear. Here the ",
+        "title_cn": "通过可聚合非易燃电解质的无热失控安培-小时级钠离子电池"
+      },
       {
         "title": "Fusion power unlikely to become competitive",
         "link": "https://www.nature.com/articles/s41560-026-02022-9",
@@ -220,24 +234,10 @@
         "pubDate": "2026-03-27",
         "description": "Nature Energy, Published online: 27 March 2026; doi:10.1038/s41560-026-02016-7 The formation of α-phase formamidinium–caesium metal halide perovskites is hindered by limited Cs⁺ incorporation. He et al. use caesium 4-(diphenylphosphino)benzoate to enable efficient Cs⁺ doping and achieve solar cells ",
         "title_cn": "通过有机铯盐在α-FA-Cs钙钛矿太阳能电池中的对照铯掺入，经认证的效率为26.61%"
-      },
-      {
-        "title": "Quasi-random oriented molecular contacts for inverted perovskite solar cells with improved efficiency",
-        "link": "https://www.nature.com/articles/s41560-026-02024-7",
-        "pubDate": "2026-03-27",
-        "description": "Nature Energy, Published online: 27 March 2026; doi:10.1038/s41560-026-02024-7 Self-assembled hole-selective molecules can enable high performance in perovskite solar cells, but controlling the hole extraction efficiency is challenging. Tianyu Li et al. address this by designing molecules that adopt",
-        "title_cn": "用于倒置钙钛矿太阳能电池的准随机取向分子触点，效率更高"
-      },
-      {
-        "title": "The team behind the publishing process",
-        "link": "https://www.nature.com/articles/s41560-025-01941-3",
-        "pubDate": "2026-03-26",
-        "description": "Nature Energy, Published online: 26 March 2026; doi:10.1038/s41560-025-01941-3 Every paper we publish is shaped by a dedicated team of production, art, copy, and editorial staff who guide it from submission to publication. This Q&amp;A series highlights their behind-the-scenes work.",
-        "title_cn": "发布流程背后的团队"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,22 +248,28 @@
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
         "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:12:00 GMT",
         "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
       },
       {
-        "title": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 - caifuhao.eastmoney.com",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 - 财富号",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcWRYUTFJaXF5UE1NTTlSZEFldl9kNUJ6SzI0eVVnbXNaWlQ2YVM0QzlGZ0g0dVktWnRLMktNUEc1bmNtYWx0bDlWQlplekJJUEhfZ3BRLUtjVE93dzg5U3FzMzczWXhxaUZv?oc=5",
         "pubDate": "Tue, 31 Mar 2026 12:04:00 GMT",
-        "description": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 &nbsp;&nbsp; caifuhao.eastmoney.com"
+        "description": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 &nbsp;&nbsp; 财富号"
+      },
+      {
+        "title": "龙源电力3394万元收购国华沧州51%股权，布局氢能示范项目 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMimgRBVV95cUxNTkZ1R1I0c2V1Q1VGTG1UZUh5Y2syQ2x4UUx4dEp1TWhVa0pJYS1Dby1ja1RacFNJVjNzeHhRa2VCRUdNSURMajNtSW5uLWEzV3hVcXd1cHRMaDBYTDI4Z19kLURDYUxnQV9XdmRnS0N6YjJNOHhWNXdqTzRuVXh4c3Yzc08yZ0pzelAwZW5kcVA2djkxWHZweXpfc3FMZWNvT3hremd4M00zT0tHdFkzVUx6YkVrRURjTERyWjBnOEd5NGVybmlXOURUT3lwUkViN3VHUWZzcGtKM0lMTWhmZmJOeWhBVnVFaVhvNlFrU29YQTRibWlyVTRhNDJTNkhmMWhYaVdrbkNMTXlVT3VUZGdRMm94NEd5WURYYnM1dnlRdlQ3VXBlV1BNQzZWLTJRZEQzMUM5SGh5NFpvTVVaRTB4RzFlWk5RR3NVazIxRC1OM3kycXJzdE9CVXZacHdycWVMR1BxQnU5Zy1TbFMxakFFM0JkZ0xYR2Zmbk5jOXEtOXQ5RXFEeC1qejFxWGJaOXEwYjJicDF0NnJmS0JrSUtub09mdk5HSUhBSVRKMUZDNVhPem13ODROTm01VFBsNWZxZk1zSEI3Y2hQQTNhRnFvNTV1SmFhZGZEUkg5T2tlQWp0bTNmdVpEd3pqQnpVOXI0UnVLUWpJVlVZSGZIMldCd3M0Tk5HaE1WUThmQ1NmRWJfSUpKWEVB?oc=5",
+        "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT",
+        "description": "龙源电力3394万元收购国华沧州51%股权，布局氢能示范项目 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -272,88 +278,82 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "明阳氢能深度解码“氢能-电力-化工耦合”创新模式 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGZ0FWOHpNakJoaDJ5VFBwMVdnQmZEcVpQc3ZDWFFpZmR6UlVrNlR0eDl1UnpDV3R2YUIzakVBRi12cVo5MmZTaEZUdDAzZlNQbzJRNGlB?oc=5",
+        "pubDate": "Thu, 12 Mar 2026 01:34:49 GMT",
+        "description": "明阳氢能深度解码“氢能-电力-化工耦合”创新模式 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
         "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
-      },
-      {
-        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Extreme H and STEP Foundation Announce Collaboration to Empower the Next Generation of Hydrogen Pioneers",
-        "link": "https://fuelcellsworks.com/2026/04/03/h2/extreme-h-and-step-foundation-announce-collaboration-to-empower-the-next-generation-of-hydrogen-pioneers",
-        "pubDate": "Fri, 03 Apr 2026 15:22:21 GMT",
+        "title": "Belgian Government Weighs Hydrogen Exploration Initiative",
+        "link": "https://fuelcellsworks.com/2026/04/04/green-hydrogen/belgian-government-weighs-hydrogen-exploration-initiative",
+        "pubDate": "Mon, 06 Apr 2026 15:06:04 GMT",
         "description": "",
-        "title_cn": "Extreme H和STEP基金会宣布合作助力下一代氢能先锋"
+        "title_cn": "比利时政府权衡氢气勘探计划"
       },
       {
-        "title": "Mapping Catalyst Failure to Advance Clean Hydrogen Fuel Production",
-        "link": "https://fuelcellsworks.com/2026/04/03/electrolyzer/mapping-catalyst-failure-to-advance-clean-hydrogen-fuel-production",
-        "pubDate": "Fri, 03 Apr 2026 15:00:42 GMT",
+        "title": "Japan Proposes Hydrogen-Fueled Shipping Route and Truck Transport Corridor",
+        "link": "https://fuelcellsworks.com/2026/04/06/energy-innovation/japan-proposes-hydrogen-fueled-shipping-route-and-truck-transport-corridor",
+        "pubDate": "Mon, 06 Apr 2026 14:34:22 GMT",
         "description": "",
-        "title_cn": "映射催化剂未能推进清洁氢燃料生产"
+        "title_cn": "日本提出氢燃料航线和卡车运输走廊"
       },
       {
-        "title": "Turkish Cement Industry Explores Hydrogen to Cut Process Emissions",
-        "link": "https://fuelcellsworks.com/2026/04/03/h2/turkish-cement-industry-explores-hydrogen-to-cut-process-emissions",
-        "pubDate": "Fri, 03 Apr 2026 14:29:59 GMT",
+        "title": "The Netherlands Gets Its First Hydrogen Combustion Engine Truck",
+        "link": "https://fuelcellsworks.com/2026/03/31/h2/no-diesel-no-battery-evert-drives-the-newest-hydrogen-truck",
+        "pubDate": "Mon, 06 Apr 2026 14:14:15 GMT",
         "description": "",
-        "title_cn": "土耳其水泥行业勘探氢气以减少工艺排放"
+        "title_cn": "荷兰推出首款氢气内燃机卡车"
       },
       {
-        "title": "Germany Surpasses 600 Hydrogen-Powered Buses, Setting New Record",
-        "link": "https://fuelcellsworks.com/2026/04/03/fuel-cells/germany-surpasses-600-hydrogen-powered-buses-setting-new-record",
-        "pubDate": "Fri, 03 Apr 2026 13:40:59 GMT",
+        "title": "World’s First Megawatt-Class Hydrogen Turboprop Engine Completes Maiden Flight in China",
+        "link": "https://fuelcellsworks.com/2026/04/06/clean-energy/world-s-first-megawatt-class-hydrogen-turboprop-engine-completes-maiden-flight-in-china",
+        "pubDate": "Mon, 06 Apr 2026 14:05:33 GMT",
         "description": "",
-        "title_cn": "德国超过600辆氢动力公交车，创下新纪录"
+        "title_cn": "全球首款兆瓦级氢能涡轮螺旋桨发动机在中国完成首飞"
       },
       {
-        "title": "1S1 Energy: Toward Cheaper, Cleaner Hydrogen Production",
-        "link": "https://fuelcellsworks.com/2026/04/03/clean-energy/1s1-energy-toward-cheaper-cleaner-hydrogen-production",
-        "pubDate": "Fri, 03 Apr 2026 13:34:37 GMT",
+        "title": "TransNamib Launches Hydrogen-Diesel Dual-Fuel Locomotive Pilot in Namibia",
+        "link": "https://fuelcellsworks.com/2026/04/06/h2/transnamib-launches-hydrogen-diesel-dual-fuel-locomotive-pilot-in-namibia",
+        "pubDate": "Mon, 06 Apr 2026 13:40:50 GMT",
         "description": "",
-        "title_cn": "1S1能源：走向更便宜、更清洁的氢气生产"
+        "title_cn": "TransNamib在纳米比亚推出氢柴油双燃料机车试点项目"
       },
       {
-        "title": "China Accelerates Hydrogen Development as Fujian Expands Pilot Applications",
-        "link": "https://fuelcellsworks.com/2026/04/01/h2/china-accelerates-hydrogen-development-as-fujian-expands-pilot-applications",
-        "pubDate": "Fri, 03 Apr 2026 13:01:35 GMT",
+        "title": "DTU Achieves 5X Power-to-Weight Gain in Hydrogen Engines Using Ceramic 3D Printing",
+        "link": "https://fuelcellsworks.com/2026/04/06/green-technology/dtu-achieves-5x-power-to-weight-gain-in-hydrogen-engines-using-ceramic-3d-printing",
+        "pubDate": "Mon, 06 Apr 2026 13:29:31 GMT",
         "description": "",
-        "title_cn": "随着福建扩大试点应用，中国加快氢能开发"
+        "title_cn": "DTU使用陶瓷3D打印实现氢气发动机5倍的功率重量比增益"
       },
       {
-        "title": "Hydrogenera to Supply 2MW Green Hydrogen System for German Project in Ukraine",
-        "link": "https://fuelcellsworks.com/2026/04/03/electrolyzer/hydrogenera-to-supply-2mw-green-hydrogen-system-for-german-project-in-ukraine",
-        "pubDate": "Fri, 03 Apr 2026 12:43:55 GMT",
+        "title": "Ulsan to Build Land-Based Hydrogen Engine Demonstration Facility",
+        "link": "https://fuelcellsworks.com/2026/04/01/h2/ulsan-to-build-land-based-hydrogen-engine-demonstration-facility",
+        "pubDate": "Mon, 06 Apr 2026 13:07:07 GMT",
         "description": "",
-        "title_cn": "Hydrogenera将为乌克兰的德国项目提供2MW绿色氢系统"
+        "title_cn": "蔚山将建设陆基氢发动机示范设施"
       },
       {
-        "title": "Korea Petroleum Institute Launches ₩2.53B Program to Support Hydrogen Transport Equipment Purchases",
-        "link": "https://fuelcellsworks.com/2026/04/01/h2/korea-petroleum-institute-launches-2-53b-program-to-support-hydrogen-transport-equipment-purchases",
-        "pubDate": "Fri, 03 Apr 2026 12:23:43 GMT",
+        "title": "Jakson Green Secures Major Green Ammonia Contract Under India’s Hydrogen Mission",
+        "link": "https://fuelcellsworks.com/2026/04/06/energy-policy/jakson-green-secures-major-green-ammonia-contract-under-india-s-hydrogen-mission",
+        "pubDate": "Mon, 06 Apr 2026 13:02:19 GMT",
         "description": "",
-        "title_cn": "韩国石油学会启动₩ 25.3亿支持氢气运输设备采购的计划"
+        "title_cn": "Jakson Green获得印度氢能任务下的主要绿色氨合同"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "policy_nea": {
     "items": [
@@ -458,10 +458,10 @@
         "description": "破解发展堵点 氢能有望实现从“政策热”迈向“市场热” &nbsp;&nbsp; 能源发展网"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - stdaily.com",
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
         "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; stdaily.com"
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       },
       {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -506,10 +506,10 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "国家发改委：开展分布式光伏、微电网、新型储能建设，促进新能源就近就地消纳 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aMjRER2lfY1ZYVU1pWHpZYTd0Ny0zQlpPeWlYNEtWcC1TYjVDMHNMWktBd2VGV3U2c2M3bHV4bV9JYnVlMURQSllMRW1OaFpjd3paQ2tXcFhsQl9JNXROVVVoaWxKT21k?oc=5",
-        "pubDate": "Tue, 06 Jan 2026 08:00:00 GMT",
-        "description": "国家发改委：开展分布式光伏、微电网、新型储能建设，促进新能源就近就地消纳 &nbsp;&nbsp; 国际新能源网"
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -518,25 +518,25 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ - 国际风力发电网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Zi1NM0hDeVgzNjB5TnJaVlF6NnRteXBlcGZjTW1Ea2o2UlpEcEliMTNPRVV3eVNhMTN3emxuVThrWFQxeldtMzl6WktTOVhLeS0tVTJseHFMdkk?oc=5",
+        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "description": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ &nbsp;&nbsp; 国际风力发电网"
+      },
+      {
+        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
+        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
       },
       {
         "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
         "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
         "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
-      },
-      {
-        "title": "全国首个城市绿证绿电碳业务服务中心在杭成立，能给我们带来什么 - 浙江省经济信息中心",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lVU1ZY0k2WW8wZ2w2X2MtSlh1dnhfWGYxNnFUcTJ2VHB6bElFMy1PanpXT2tucVJiQlNRaUoxOHBSVDI5VkJiUXJHbjdiX3RIbWlOMWtTT243TmpyenJmamFaNF9HSGdNR0xHNnBpWk1LQQ?oc=5",
-        "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
-        "description": "全国首个城市绿证绿电碳业务服务中心在杭成立，能给我们带来什么 &nbsp;&nbsp; 浙江省经济信息中心"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-06 14:41 UTC"
+    "updated": "2026-04-06 22:29 UTC"
   }
 }
