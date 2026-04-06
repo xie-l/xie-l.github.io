@@ -63,50 +63,58 @@ jobs:
 
           try:
               shelf = api_get('https://weread.qq.com/web/shelf/sync?synckey=0&virtualGroupId=0')
-              # 打印顶层字段帮助调试（只显示 key 和每个 value 的类型/长度）
-              print(f'[DEBUG] shelf keys: {list(shelf.keys())}')
-              for k, v in shelf.items():
-                  print(f'  {k}: {type(v).__name__} len={len(v) if isinstance(v, (list,dict,str)) else v}')
+              books = shelf.get('books') or shelf.get('shelf') or shelf.get('bookList') or []
+              print(f'[OK] shelf: {len(books)} books, bookProgress: {len(shelf.get("bookProgress", []))}')
 
-              # 尝试所有可能的书单字段名
-              books = (shelf.get('books')
-                       or shelf.get('shelf')
-                       or shelf.get('bookList')
-                       or shelf.get('data', {}).get('books', [])
-                       or [])
-              print(f'[OK] shelf: {len(books)} books')
+                      # 按最近阅读时间排序（bookProgress 字段记录每本的最后阅读时间）
+              progress_map = {}
+              for p in shelf.get('bookProgress', []):
+                  bid = p.get('bookId', '')
+                  ts  = p.get('readingDate') or p.get('updateTime') or 0
+                  if bid:
+                      progress_map[bid] = ts
 
-              # 按最近阅读时间排序
-              books.sort(key=lambda b: b.get('readingBookDate', b.get('lastReadingDate', 0) or 0), reverse=True)
+              # 把进度时间戳合并到 books，然后排序
+              for b in books:
+                  bid = (b.get('book') or b).get('bookId', '') or b.get('bookId', '')
+                  b['_lastTs'] = progress_map.get(bid, b.get('readingBookDate', 0) or 0)
+              books.sort(key=lambda b: b.get('_lastTs', 0), reverse=True)
 
-              for i, book_obj in enumerate(books[:6]):
-                  book = book_obj.get('book', {})
-                  bid    = book.get('bookId', '')
+              for i, book_obj in enumerate(books[:10]):
+                  # 书的基础信息：优先取嵌套的 book 子对象，否则直接用 book_obj
+                  book   = book_obj.get('book') or book_obj
                   title  = book.get('title', '')
                   author = book.get('author', '')
                   cover  = book.get('cover', '')
-                  # 进度百分比（readingProgress 0-100 or 0-10000）
+
+                  if not title:
+                      continue   # 跳过没有标题的条目
+
+                  # 进度百分比：readingProgress 可能是 0-100 或 0-10000
                   prog_raw = book_obj.get('readingProgress', 0) or 0
                   progress = int(prog_raw / 100) if prog_raw > 100 else int(prog_raw)
-                  finished = book_obj.get('finishReading', False) or (progress >= 100)
+                  finished = bool(book_obj.get('finishReading')) or (progress >= 100)
 
-                  last_ts = book_obj.get('readingBookDate', book_obj.get('lastReadingDate', 0)) or 0
-                  if last_ts > 1e10:   # ms
+                  last_ts = book_obj.get('_lastTs', 0) or 0
+                  if last_ts > 1e10:   # 毫秒转秒
                       last_ts = int(last_ts / 1000)
                   last_date = datetime.fromtimestamp(last_ts, tz=timezone.utc).strftime('%Y-%m-%d') if last_ts else ''
 
                   entry = {
-                      'title':    title,
-                      'author':   author,
-                      'cover':    cover,
-                      'progress': progress,
-                      'finished': finished,
+                      'title':     title,
+                      'author':    author,
+                      'cover':     cover,
+                      'progress':  progress,
+                      'finished':  finished,
                       'last_read': last_date
                   }
 
-                  if i == 0 and not finished:
+                  # reading = 最近读的一本（不管读没读完）
+                  if reading is None:
                       reading = entry
                   recent.append(entry)
+                  if len(recent) >= 5:
+                      break
 
           except Exception as e:
               print(f'[ERR] shelf: {e}')
