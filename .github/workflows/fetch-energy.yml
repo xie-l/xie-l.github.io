@@ -172,13 +172,21 @@ jobs:
           carbon_result = {}
           if AK_OK:
               try:
+                  # 自动枚举 AKShare 中与碳市场相关的函数，打印供调试
+                  avail_carbon = sorted(fn for fn in dir(ak)
+                                        if any(kw in fn for kw in ('carbon', 'emission', 'Carbon')))
+                  print(f'[DEBUG] AKShare carbon functions: {avail_carbon}')
+
                   df = None
-                  for fn in ('carbon_trading_emission_trade',
-                             'carbon_emission_trade_zh',
-                             'carbon_trading_neeq'):
+                  # 按已知版本从新到旧尝试，再尝试自动发现的
+                  for fn in (['carbon_emission_trade_zh',
+                               'carbon_trading_emission_trade',
+                               'carbon_trading_neeq_spot'] + avail_carbon):
+                      if fn in ('carbon_trading_neeq',):   # 已知是错的，跳过
+                          continue
                       try:
                           df = getattr(ak, fn)()
-                          print(f'[OK] AKShare CEA via {fn}(), rows={len(df)}')
+                          print(f'[OK] AKShare CEA via {fn}(), rows={len(df)}, cols={list(df.columns)}')
                           break
                       except Exception as fe:
                           print(f'[SKIP] {fn}: {fe}')
@@ -245,25 +253,37 @@ jobs:
                   'history': get_old_history('carbon', 'cea'), 'updated': now_utc
               }
 
-          # 2b. 秦皇岛动力煤现货价格
+          # 2b. 秦皇岛动力煤 / 环渤海动力煤价格指数（BSPI）
           coal_result = {}
           if AK_OK:
               try:
+                  # 自动枚举 AKShare 中与煤炭相关的函数
+                  avail_coal = sorted(fn for fn in dir(ak)
+                                      if any(kw in fn for kw in ('coal', 'Coal', 'qhd', 'bspi', 'BSPI')))
+                  print(f'[DEBUG] AKShare coal functions: {avail_coal}')
+
                   df = None
-                  for fn in ('macro_china_qhd_coal_spot',
-                             'energy_coal_hist_sina',
-                             'coal_qhd_spot_price'):
+                  label = '秦皇岛港动力煤'
+                  # 优先尝试现货价，再尝试 BSPI 指数，再尝试自动发现的函数
+                  for fn in (['macro_china_qhd_coal_spot',
+                               'energy_coal_hist_sina',
+                               'macro_china_coal_wholesale_price',
+                               'spot_price_zh'] + avail_coal):
                       try:
-                          df = getattr(ak, fn)()
-                          print(f'[OK] AKShare coal via {fn}(), rows={len(df)}')
-                          break
+                          df = getattr(ak, fn)() if fn != 'spot_price_zh' else getattr(ak, fn)(commodity='动力煤')
+                          if df is not None and len(df) > 0:
+                              print(f'[OK] AKShare coal via {fn}(), rows={len(df)}, cols={list(df.columns)}')
+                              label = fn   # 记录来源以便显示
+                              break
                       except Exception as fe:
                           print(f'[SKIP] {fn}: {fe}')
 
                   if df is not None and len(df) > 0:
                       cols = list(df.columns)
                       date_col  = next((c for c in cols if any(k in str(c) for k in ('日期','date','Date'))), None)
-                      price_col = next((c for c in cols if any(k in str(c) for k in ('指数','价格','收盘','价','coal','price'))), None)
+                      # 优先取收盘/现货价，其次取指数点位
+                      price_col = next((c for c in cols if any(k in str(c) for k in
+                                        ('收盘','现货','5500','价格','price','指数点位','价'))), None)
                       row = df.iloc[-1]
                       raw = row[price_col] if price_col else None
 
@@ -272,94 +292,130 @@ jobs:
                           date_val  = str(row[date_col]).split(' ')[0] if date_col else '--'
                           hist      = get_old_history('coal_qhd')
                           hist      = append_history(hist, price_val)
+                          # 判断是周度数据还是日度数据
+                          is_weekly = 'bspi' in label.lower() or 'wholesale' in label.lower()
                           coal_result = {
                               'price':   f'{price_val:.0f}',
                               'unit':    '元/吨',
+                              'label':   '环渤海动力煤指数（BSPI）' if is_weekly else '秦皇岛港动力煤',
+                              'freq':    '周度' if is_weekly else '日度',
                               'date':    date_val,
                               'history': hist,
                               'updated': now_utc
                           }
-                          print(f'[OK] QHD coal: {price_val:.0f} 元/吨 ({date_val})')
+                          print(f'[OK] coal: {price_val:.0f} 元/吨 ({date_val}) via {label}')
                       else:
                           raise ValueError(f'No valid price, cols={cols}')
                   else:
-                      raise ValueError('empty df')
+                      raise ValueError('all coal functions failed or returned empty df')
               except Exception as e:
                   print(f'[ERR] QHD coal: {e}')
                   coal_result = {
-                      'price': '--', 'unit': '元/吨', 'date': '',
-                      'history': get_old_history('coal_qhd'), 'updated': now_utc
+                      'price': '--', 'unit': '元/吨', 'label': '秦皇岛港动力煤',
+                      'date': '', 'history': get_old_history('coal_qhd'), 'updated': now_utc
                   }
           else:
               coal_result = {
-                  'price': '--', 'unit': '元/吨', 'date': '',
-                  'history': [], 'updated': now_utc
+                  'price': '--', 'unit': '元/吨', 'label': '秦皇岛港动力煤',
+                  'date': '', 'history': [], 'updated': now_utc
               }
 
-          # 2c. 中证能源指数（代码 399932，深交所）
+          # 2c. 中证能源指数（399932）——主力：新浪财经实时行情 API
+          import re as _re
           index_result = {}
-          if AK_OK:
-              try:
-                  today_str = datetime.now().strftime('%Y%m%d')
-                  last30    = (datetime.now() - timedelta(days=30)).strftime('%Y%m%d')
-                  df = None
-                  for fn, kwargs in [
-                      ('stock_zh_index_daily_em', {'symbol': 'sz399932'}),
-                      ('index_zh_a_hist',         {'symbol': '399932', 'period': 'daily',
-                                                   'start_date': last30, 'end_date': today_str}),
-                  ]:
-                      try:
-                          df = getattr(ak, fn)(**kwargs)
-                          print(f'[OK] AKShare index via {fn}(), rows={len(df)}')
-                          break
-                      except Exception as fe:
-                          print(f'[SKIP] {fn}: {fe}')
+          try:
+              idx_req = urllib.request.Request(
+                  'https://hq.sinajs.cn/list=sz399932',
+                  headers={
+                      'Referer':    'https://finance.sina.com.cn/',
+                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+                  }
+              )
+              with urllib.request.urlopen(idx_req, timeout=10) as r:
+                  idx_text = r.read().decode('gbk')
+              m = _re.search(r'"([^"]+)"', idx_text)
+              if not m or not m.group(1).strip():
+                  raise ValueError('Empty Sina response (market may be closed)')
+              vals = m.group(1).split(',')
+              # 字段：名称,开盘,昨收,当前,最高,最低,买,卖,成交量(手),成交额(元),日期,时间,...
+              if len(vals) < 11:
+                  raise ValueError(f'Field count too low: {len(vals)}: {vals}')
+              current = float(vals[3])
+              prev_cl = float(vals[2])
+              high    = float(vals[4])
+              low     = float(vals[5])
+              amount  = float(vals[9])       # 元
+              date_str = vals[10].strip()    # YYYY-MM-DD
+              chg  = current - prev_cl
+              pct  = chg / prev_cl * 100
+              hist = get_old_history('energy_index')
+              hist = append_history(hist, current)
+              index_result = {
+                  'name':    '中证能源',
+                  'code':    '399932',
+                  'price':   f'{current:.2f}',
+                  'change':  f'{chg:+.2f}',
+                  'pct':     f'{pct:+.2f}%',
+                  'trend':   'up' if chg >= 0 else 'down',
+                  'high':    f'{high:.2f}',
+                  'low':     f'{low:.2f}',
+                  'amount':  f'{amount/1e8:.2f}',   # 亿元
+                  'date':    date_str,
+                  'history': hist,
+                  'updated': now_utc
+              }
+              print(f'[OK] 中证能源(Sina): {current:.2f} ({pct:+.2f}%) 成交额={amount/1e8:.2f}亿')
+          except Exception as sina_err:
+              print(f'[WARN] Sina index failed: {sina_err}, trying AKShare fallback')
+              # 降级：AKShare
+              _ak_idx_ok = False
+              if AK_OK:
+                  try:
+                      today_str = datetime.now().strftime('%Y%m%d')
+                      last30    = (datetime.now() - timedelta(days=30)).strftime('%Y%m%d')
+                      df = None
+                      for fn, kwargs in [
+                          ('stock_zh_index_daily_em', {'symbol': 'sz399932'}),
+                          ('index_zh_a_hist',         {'symbol': '399932', 'period': 'daily',
+                                                       'start_date': last30, 'end_date': today_str}),
+                      ]:
+                          try:
+                              df = getattr(ak, fn)(**kwargs)
+                              print(f'[OK] AKShare index fallback via {fn}(), rows={len(df)}')
+                              break
+                          except Exception as fe:
+                              print(f'[SKIP] {fn}: {fe}')
 
-                  if df is not None and len(df) >= 2:
-                      cols      = list(df.columns)
-                      date_col  = next((c for c in cols if '日期' in str(c) or 'date' in str(c).lower()), None)
-                      close_col = next((c for c in cols if '收盘' in str(c) or 'close' in str(c).lower()), None)
-                      pct_col   = next((c for c in cols if '涨跌幅' in str(c)), None)
-                      row1      = df.iloc[-1]
-                      row2      = df.iloc[-2]
-                      price_val = float(row1[close_col]) if close_col else None
-                      prev_val  = float(row2[close_col]) if close_col else None
-
-                      if price_val:
-                          chg   = price_val - prev_val if prev_val else 0
-                          pct_v = float(str(row1[pct_col]).replace('%','')) if pct_col and str(row1[pct_col]) not in ('--','nan','') else (chg/prev_val*100 if prev_val else 0)
-                          hist  = get_old_history('energy_index')
-                          hist  = append_history(hist, price_val)
-                          date_val = str(row1[date_col]).split(' ')[0] if date_col else '--'
-                          index_result = {
-                              'name':    '中证能源',
-                              'code':    '399932',
-                              'price':   f'{price_val:.2f}',
-                              'change':  f'{chg:+.2f}',
-                              'pct':     f'{pct_v:+.2f}%',
-                              'trend':   'up' if chg >= 0 else 'down',
-                              'date':    date_val,
-                              'history': hist,
-                              'updated': now_utc
-                          }
-                          print(f'[OK] 中证能源: {price_val:.2f} ({pct_v:+.2f}%)')
-                      else:
-                          raise ValueError(f'No close price, cols={cols}')
-                  else:
-                      raise ValueError('insufficient rows')
-              except Exception as e:
-                  print(f'[ERR] 中证能源: {e}')
+                      if df is not None and len(df) >= 2:
+                          cols      = list(df.columns)
+                          date_col  = next((c for c in cols if '日期' in str(c) or 'date' in str(c).lower()), None)
+                          close_col = next((c for c in cols if '收盘' in str(c) or 'close' in str(c).lower()), None)
+                          pct_col   = next((c for c in cols if '涨跌幅' in str(c)), None)
+                          row1 = df.iloc[-1]; row2 = df.iloc[-2]
+                          price_val = float(row1[close_col]) if close_col else None
+                          prev_val  = float(row2[close_col]) if close_col else None
+                          if price_val:
+                              chg   = price_val - prev_val if prev_val else 0
+                              pct_v = float(str(row1[pct_col]).replace('%','')) if pct_col and str(row1[pct_col]) not in ('--','nan','') else (chg/prev_val*100 if prev_val else 0)
+                              hist  = get_old_history('energy_index')
+                              hist  = append_history(hist, price_val)
+                              index_result = {
+                                  'name': '中证能源', 'code': '399932',
+                                  'price': f'{price_val:.2f}', 'change': f'{chg:+.2f}',
+                                  'pct': f'{pct_v:+.2f}%', 'trend': 'up' if chg >= 0 else 'down',
+                                  'date': str(row1[date_col]).split(' ')[0] if date_col else '--',
+                                  'history': hist, 'updated': now_utc
+                              }
+                              _ak_idx_ok = True
+                              print(f'[OK] 中证能源(AKShare): {price_val:.2f} ({pct_v:+.2f}%)')
+                  except Exception as e2:
+                      print(f'[ERR] 中证能源 AKShare: {e2}')
+              if not _ak_idx_ok:
                   index_result = {
                       'name': '中证能源', 'code': '399932',
                       'price': '--', 'pct': '--', 'trend': 'flat', 'date': '',
                       'history': get_old_history('energy_index'), 'updated': now_utc
                   }
-          else:
-              index_result = {
-                  'name': '中证能源', 'code': '399932',
-                  'price': '--', 'pct': '--', 'trend': 'flat',
-                  'date': '', 'history': [], 'updated': now_utc
-              }
 
           # ── 3. FRED：美国工业气体 PPI ─────────────────────────────────────
           hydrogen_result = {}
