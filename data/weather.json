@@ -1,47 +1,47 @@
 {
   "Beijing": {
     "name": "北京",
-    "temp": "15",
-    "feels": "15",
-    "desc": "晴天",
-    "icon": "☀️",
-    "code": "113",
-    "updated": "2026-04-06 03:34 UTC"
+    "temp": "18",
+    "feels": "18",
+    "desc": "局部多云",
+    "icon": "⛅",
+    "code": "116",
+    "updated": "2026-04-06 06:05 UTC"
   },
   "Shanghai": {
     "name": "上海",
-    "temp": "25",
-    "feels": "26",
+    "temp": "30",
+    "feels": "34",
     "desc": "晴天",
     "icon": "☀️",
     "code": "113",
-    "updated": "2026-04-06 03:34 UTC"
+    "updated": "2026-04-06 06:05 UTC"
   },
   "Nanchang": {
     "name": "南昌",
     "temp": "20",
     "feels": "20",
-    "desc": "周边有零星小雨",
-    "icon": "🌡️",
-    "code": "176",
-    "updated": "2026-04-06 03:34 UTC"
+    "desc": "中雨",
+    "icon": "🌧️",
+    "code": "302",
+    "updated": "2026-04-06 06:05 UTC"
   },
   "Xining": {
     "name": "西宁",
-    "temp": "9",
-    "feels": "9",
+    "temp": "14",
+    "feels": "14",
     "desc": "晴天",
     "icon": "☀️",
     "code": "113",
-    "updated": "2026-04-06 03:34 UTC"
+    "updated": "2026-04-06 06:05 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
-    "temp": "2",
-    "feels": "-2",
+    "temp": "3",
+    "feels": "-1",
     "desc": "小阵雪",
     "icon": "🌨️",
     "code": "368",
-    "updated": "2026-04-06 03:34 UTC"
+    "updated": "2026-04-06 06:05 UTC"
   }
 }
