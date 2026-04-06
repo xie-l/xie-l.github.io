@@ -40,6 +40,51 @@
         .wt-desc { flex: 1; color: var(--text-light); font-size: 12px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
         .wt-temp { font-weight: 700; color: var(--secondary-color); white-space: nowrap; font-size: 13px; }
         .wt-loading { text-align: center; padding: 10px 0; font-size: 13px; color: var(--text-light); }
+        /* ===== 写作统计 & 微信读书 Widget ===== */
+        .bs-row {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 6px 0; border-bottom: 1px solid var(--border-color);
+            font-size: 13px; color: var(--text-secondary);
+        }
+        .bs-row:last-child { border-bottom: none; }
+        .bs-row strong { font-weight: 700; color: var(--text-primary); }
+        .wr-current {
+            display: flex; gap: 10px; align-items: flex-start; margin-bottom: 10px;
+        }
+        .wr-cover {
+            width: 44px; height: 60px; border-radius: 4px; object-fit: cover;
+            flex-shrink: 0; background: var(--bg-tertiary);
+        }
+        .wr-cover-placeholder {
+            width: 44px; height: 60px; border-radius: 4px;
+            background: var(--bg-tertiary); flex-shrink: 0;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 20px;
+        }
+        .wr-info { flex: 1; min-width: 0; }
+        .wr-book-title {
+            font-size: 13px; font-weight: 600; color: var(--text-primary);
+            overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+        }
+        .wr-author { font-size: 12px; color: var(--text-light); margin: 2px 0 6px; }
+        .wr-bar-wrap {
+            background: var(--bg-tertiary); border-radius: 4px; height: 6px; overflow: hidden;
+        }
+        .wr-bar {
+            height: 6px; border-radius: 4px;
+            background: linear-gradient(90deg, var(--accent-color), var(--primary-color));
+            transition: width 0.8s ease;
+        }
+        .wr-pct { font-size: 11px; color: var(--text-light); margin-top: 3px; }
+        .wr-recent-title { font-size: 11px; font-weight: 600; color: var(--text-light);
+            text-transform: uppercase; letter-spacing: 0.06em; margin: 8px 0 4px; }
+        .wr-recent-item {
+            font-size: 12px; padding: 3px 0;
+            display: flex; justify-content: space-between; align-items: center;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .wr-recent-item:last-child { border-bottom: none; }
+        .wr-rt { color: var(--text-light); font-size: 11px; }
         /* ===== 能源市场数据模块 ===== */
         .em-grid {
             display: grid;
@@ -440,6 +485,12 @@
                                 </button>
                                 <button class="news-tab" data-feed="papers">
                                     <i class="fas fa-file-alt"></i> 前沿论文
+                                </button>
+                                <button class="news-tab" data-feed="policy_nea">
+                                    <i class="fas fa-landmark"></i> 国家能源局
+                                </button>
+                                <button class="news-tab" data-feed="policy_ndrc">
+                                    <i class="fas fa-file-invoice"></i> 发改委政策
                                 </button>
                             </div>
                             <div class="news-topbar">
@@ -1208,6 +1259,37 @@
                         </div>
                     </div>
 
+                    <!-- 写作统计 -->
+                    <div class="sidebar-widget" id="blog-stats-widget">
+                        <h3 class="widget-title">写作统计</h3>
+                        <div id="blog-stats-content">
+                            <div class="bs-row"><span>📝 文章</span><strong id="bs-count">--</strong></div>
+                            <div class="bs-row"><span>✍️ 总字数</span><strong id="bs-words">--</strong></div>
+                            <div class="bs-row"><span>📁 资源文件</span><strong id="bs-files">--</strong></div>
+                            <div class="bs-row"><span>🕐 最新</span><strong id="bs-latest">--</strong></div>
+                        </div>
+                    </div>
+
+                    <!-- 微信读书 -->
+                    <div class="sidebar-widget" id="weread-widget" style="display:none">
+                        <h3 class="widget-title">📚 正在阅读</h3>
+                        <div id="weread-content">
+                            <div class="wr-current">
+                                <div class="wr-cover-placeholder">📖</div>
+                                <div class="wr-info">
+                                    <div class="wr-book-title" id="wr-title">--</div>
+                                    <div class="wr-author" id="wr-author">--</div>
+                                    <div class="wr-bar-wrap">
+                                        <div class="wr-bar" id="wr-bar" style="width:0%"></div>
+                                    </div>
+                                    <div class="wr-pct" id="wr-pct">0%</div>
+                                </div>
+                            </div>
+                            <div class="wr-recent-title">最近读过</div>
+                            <div id="wr-recent-list"></div>
+                        </div>
+                    </div>
+
                     <!-- 社交链接 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">社交链接</h3>
@@ -1499,6 +1581,74 @@
         } catch (e) {
             if (grid) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
         }
+    })();
+
+    // ========== 写作统计 ==========
+    (async function loadBlogStats() {
+        try {
+            const res = await fetch('/data/stats.json?_=' + Date.now(), {
+                signal: AbortSignal.timeout(5000)
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            const d = await res.json();
+            if (!d.post_count && !d.total_words) return;  // 空占位文件，不更新
+            const fmt = n => n >= 10000 ? (n / 10000).toFixed(1) + '万' : n.toLocaleString();
+            const el = id => document.getElementById(id);
+            if (el('bs-count'))  el('bs-count').textContent  = d.post_count + ' 篇';
+            if (el('bs-words'))  el('bs-words').textContent  = fmt(d.total_words) + ' 字';
+            if (el('bs-files'))  el('bs-files').textContent  = (d.file_count || 0) + ' 个';
+            if (el('bs-latest')) el('bs-latest').textContent = (d.latest_post_date || '--').slice(5);
+        } catch(e) { /* 静默失败，保持 '--' */ }
+    })();
+
+    // ========== 微信读书 ==========
+    (async function loadWeRead() {
+        try {
+            const res = await fetch('/data/weread.json?_=' + Date.now(), {
+                signal: AbortSignal.timeout(5000)
+            });
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            const d = await res.json();
+            const widget = document.getElementById('weread-widget');
+            if (!widget) return;
+            if (!d.reading && (!d.recent || d.recent.length === 0)) return;  // 无数据，不显示
+            widget.style.display = '';
+            if (d.reading) {
+                const r = d.reading;
+                const titleEl  = document.getElementById('wr-title');
+                const authorEl = document.getElementById('wr-author');
+                const barEl    = document.getElementById('wr-bar');
+                const pctEl    = document.getElementById('wr-pct');
+                if (titleEl)  titleEl.textContent  = r.title  || '--';
+                if (authorEl) authorEl.textContent = r.author || '';
+                const pct = Math.min(100, Math.max(0, r.progress || 0));
+                if (barEl)    barEl.style.width    = pct + '%';
+                if (pctEl)    pctEl.textContent    = '已读 ' + pct + '%';
+                // 封面图
+                if (r.cover) {
+                    const placeholder = widget.querySelector('.wr-cover-placeholder');
+                    if (placeholder) {
+                        const img = document.createElement('img');
+                        img.className = 'wr-cover';
+                        img.src = r.cover;
+                        img.alt = r.title;
+                        img.onerror = () => {};
+                        placeholder.replaceWith(img);
+                    }
+                }
+            }
+            if (d.recent && d.recent.length > 0) {
+                const listEl = document.getElementById('wr-recent-list');
+                if (listEl) {
+                    listEl.innerHTML = d.recent.slice(0, 4).map(function(b) {
+                        const finishMark = b.finished ? '✓' : (b.progress ? b.progress + '%' : '');
+                        return '<div class="wr-recent-item">' +
+                            '<span style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis;max-width:130px">' + (b.title || '') + '</span>' +
+                            '<span class="wr-rt">' + finishMark + '</span></div>';
+                    }).join('');
+                }
+            }
+        } catch(e) { /* 静默失败 */ }
     })();
 
     // ========== 今日数感 ==========

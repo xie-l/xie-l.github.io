@@ -62,6 +62,16 @@ jobs:
                           '+OR+ti:electrolyzer+OR+ti:oxygen+reduction'
                           '&start=0&max_results=10&sortBy=submittedDate&sortOrder=descending'),
                   'source': 'arXiv', 'count': 10
+              },
+              'policy_nea': {
+                  # 国家能源局相关政策（Google新闻RSS，中文）
+                  'url': 'https://news.google.com/rss/search?q=%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80+%E6%B0%A2%E8%83%BD+%E6%94%BF%E7%AD%96&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+                  'source': '国家能源局', 'count': 8
+              },
+              'policy_ndrc': {
+                  # 发改委能源政策（Google新闻RSS，中文）
+                  'url': 'https://news.google.com/rss/search?q=%E5%8F%91%E6%94%B9%E5%A7%94+%E8%83%BD%E6%BA%90%E6%94%BF%E7%AD%96+%E7%BB%BF%E8%89%B2&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+                  'source': '发改委政策', 'count': 8
               }
           }
 

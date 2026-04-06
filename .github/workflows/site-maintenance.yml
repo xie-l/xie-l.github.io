@@ -1,0 +1,172 @@
+name: Site Maintenance (Dead Link Checker)
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'   # 每周日 03:00 UTC（北京时间 11:00）
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  dead-link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Check for dead links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request, urllib.error, re, os, json, glob, time
+          from datetime import datetime, timezone
+
+          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          today   = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          repo    = os.environ.get('REPO', '')
+          token   = os.environ.get('GITHUB_TOKEN', '')
+
+          # ── 不检查的域名（需登录或已知会返回 4xx） ──────────────────────
+          SKIP_DOMAINS = {
+              'weread.qq.com', 'weixin.qq.com',
+              'zhihu.com', 'bilibili.com',          # 反爬
+              'fonts.googleapis.com',                # CDN，通常可访问
+              'cdnjs.cloudflare.com',
+              'github.com/login', 'orcid.org',
+          }
+
+          def should_skip(url):
+              for d in SKIP_DOMAINS:
+                  if d in url:
+                      return True
+              return False
+
+          # ── 收集所有外部链接 ──────────────────────────────────────────────
+          href_re = re.compile(r'href=["\']((https?://)[^"\'>\s]+)["\']', re.I)
+          link_map = {}   # url → set of pages
+
+          for path in glob.glob('**/*.html', recursive=True):
+              if path.startswith('admin/'):
+                  continue
+              try:
+                  with open(path, encoding='utf-8', errors='ignore') as f:
+                      content = f.read()
+                  for m in href_re.finditer(content):
+                      url = m.group(1).rstrip(')')
+                      if should_skip(url):
+                          continue
+                      link_map.setdefault(url, set()).add(path)
+              except Exception as e:
+                  print(f'[ERR parse] {path}: {e}')
+
+          print(f'Found {len(link_map)} unique external links to check')
+
+          # ── 逐一 HEAD 请求 ────────────────────────────────────────────────
+          dead = []   # list of { url, pages, status }
+          headers = {'User-Agent': 'Mozilla/5.0 (compatible; SiteBot/1.0; dead-link-checker)'}
+
+          for i, (url, pages) in enumerate(link_map.items()):
+              status = None
+              for attempt in range(2):
+                  try:
+                      req = urllib.request.Request(url, method='HEAD', headers=headers)
+                      with urllib.request.urlopen(req, timeout=10) as r:
+                          status = r.status
+                      break
+                  except urllib.error.HTTPError as e:
+                      status = e.code
+                      if e.code < 400:
+                          break   # redirects treated as ok
+                  except Exception:
+                      status = 0   # timeout / connection error
+                  if attempt == 0:
+                      time.sleep(1)
+
+              if i % 20 == 0:
+                  print(f'  [{i}/{len(link_map)}] checked...')
+
+              if status is None or status == 0 or status >= 400:
+                  dead.append({
+                      'url':    url,
+                      'pages':  sorted(pages),
+                      'status': status or 'timeout'
+                  })
+                  print(f'[DEAD] {status} {url}')
+              time.sleep(0.3)   # 礼貌性延迟
+
+          print(f'Dead links: {len(dead)} / {len(link_map)}')
+
+          # ── 无死链时结束 ──────────────────────────────────────────────────
+          if not dead:
+              print('All links are alive. No issue needed.')
+              exit(0)
+
+          # ── 构建 Issue 内容 ───────────────────────────────────────────────
+          title = f'[死链检测] {today} 发现 {len(dead)} 个失效链接'
+          rows  = '\n'.join(
+              f'| {d["status"]} | `{d["url"]}` | {", ".join(d["pages"])} |'
+              for d in dead
+          )
+          body = f"""## 自动死链检测报告
+
+**检测时间：** {now_utc}
+**失效链接数：** {len(dead)} / {len(link_map)}
+
+| 状态码 | 链接 | 出现页面 |
+|--------|------|---------|
+{rows}
+
+---
+*由 GitHub Actions `site-maintenance.yml` 自动生成*
+"""
+
+          gh_api = f'https://api.github.com/repos/{repo}'
+          auth_headers = {
+              'Authorization': f'Bearer {token}',
+              'Accept':        'application/vnd.github+json',
+              'Content-Type':  'application/json',
+              'User-Agent':    'site-maintenance-bot'
+          }
+
+          def gh_request(method, path, data=None):
+              req = urllib.request.Request(
+                  gh_api + path,
+                  method=method,
+                  headers=auth_headers,
+                  data=json.dumps(data).encode() if data else None
+              )
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  return json.load(r)
+
+          # 查找现有死链 Issue（open 状态），有则关闭
+          try:
+              issues = gh_request('GET', '/issues?state=open&labels=dead-link&per_page=10')
+              for issue in issues:
+                  if '[死链检测]' in issue.get('title', ''):
+                      gh_request('PATCH', f'/issues/{issue["number"]}', {'state': 'closed'})
+                      print(f'Closed old issue #{issue["number"]}')
+          except Exception as e:
+              print(f'[WARN] Could not list/close old issues: {e}')
+
+          # 确保 label 存在
+          try:
+              gh_request('POST', '/labels', {'name': 'dead-link', 'color': 'e11d48', 'description': '死链检测自动标签'})
+          except Exception:
+              pass   # label 已存在时会报 422，忽略
+
+          # 创建新 Issue
+          try:
+              issue = gh_request('POST', '/issues', {
+                  'title':  title,
+                  'body':   body,
+                  'labels': ['dead-link']
+              })
+              print(f'Created issue #{issue["number"]}: {title}')
+          except Exception as e:
+              print(f'[ERR] Could not create issue: {e}')
+          PYEOF
