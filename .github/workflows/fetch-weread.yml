@@ -63,7 +63,17 @@ jobs:
 
           try:
               shelf = api_get('https://weread.qq.com/web/shelf/sync?synckey=0&virtualGroupId=0')
-              books = shelf.get('books', [])
+              # 打印顶层字段帮助调试（只显示 key 和每个 value 的类型/长度）
+              print(f'[DEBUG] shelf keys: {list(shelf.keys())}')
+              for k, v in shelf.items():
+                  print(f'  {k}: {type(v).__name__} len={len(v) if isinstance(v, (list,dict,str)) else v}')
+
+              # 尝试所有可能的书单字段名
+              books = (shelf.get('books')
+                       or shelf.get('shelf')
+                       or shelf.get('bookList')
+                       or shelf.get('data', {}).get('books', [])
+                       or [])
               print(f'[OK] shelf: {len(books)} books')
 
               # 按最近阅读时间排序
