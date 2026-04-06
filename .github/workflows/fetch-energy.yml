@@ -218,7 +218,7 @@ jobs:
                               'volume':     vol_val,
                               'date':       date_val,
                               'source':     '全国碳排放权交易市场',
-                              'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                              'source_url': 'https://www.cneeex.com/',
                               'history':    hist,
                               'updated':    now_utc
                           }
@@ -233,7 +233,7 @@ jobs:
                       'note':       '数据获取中',
                       'unit':       '元/吨',
                       'source':     '全国碳排放权交易市场',
-                      'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                      'source_url': 'https://www.cneeex.com/',
                       'history':    get_old_history('carbon', 'cea'),
                       'updated':    now_utc
                   }
@@ -241,7 +241,7 @@ jobs:
               carbon_result['cea'] = {
                   'note': '数据获取中', 'unit': '元/吨',
                   'source': '全国碳排放权交易市场',
-                  'source_url': 'https://www.cneeex.com/qghtfq/jysj/',
+                  'source_url': 'https://www.cneeex.com/',
                   'history': get_old_history('carbon', 'cea'), 'updated': now_utc
               }
 

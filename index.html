@@ -1613,14 +1613,14 @@
                 </div>
                 <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}</div>
                 ${cea.volume && cea.volume !== '--' ? '<div class="em-date">成交量：' + Number(cea.volume).toLocaleString() + ' 吨</div>' : ''}
-                <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a></div>
+                <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ ${cea.source || '全国碳排放权交易市场'}</a></div>
             </div>`
                 : `<div class="em-card em-card-carbon">
                 <div class="em-card-header"><div class="em-card-label">碳市场 · CEA</div></div>
                 <div class="em-asset">全国碳市场收盘价</div>
                 <div class="em-placeholder">
                     ${cea.note || '数据获取中'}<br>
-                    <a href="${cea.source_url || 'https://www.cneeex.com/qghtfq/jysj/'}" target="_blank" rel="noopener">→ ${cea.source || '全国碳排放权交易市场'}</a>
+                    <a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener">→ ${cea.source || '全国碳排放权交易市场'}</a>
                 </div>
             </div>`;
 
@@ -1637,7 +1637,7 @@
                         <span class="em-unit">${coal.unit || '元/吨'}</span>
                        </div>
                        <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
-                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.qhd.com.cn/" target="_blank" rel="noopener">→ 秦皇岛煤炭网</a></div>'
+                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网（秦皇岛港价）</a></div>'
                 }
             </div>`;
 
@@ -1654,7 +1654,7 @@
                         <span class="em-trend ${trendCls(idx.trend)}">${trendIcon(idx.trend)} ${idx.pct || ''}</span>
                        </div>
                        <div class="em-date">${idx.date ? '数据日期：' + idx.date : ''}</div>`
-                    : '<div class="em-placeholder">数据获取中<br><a href="https://www.csindex.com.cn/#/indices/family/detail?indexCode=399932" target="_blank" rel="noopener">→ 中证指数</a></div>'
+                    : '<div class="em-placeholder">数据获取中<br><a href="https://quote.eastmoney.com/sz399932.html" target="_blank" rel="noopener">→ 东方财富·中证能源</a></div>'
                 }
             </div>`;
 
