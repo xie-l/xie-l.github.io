@@ -1299,6 +1299,7 @@
                             </div>
                             <div class="wr-recent-title">最近读过</div>
                             <div id="wr-recent-list"></div>
+                            <div id="wr-updated" style="font-size:11px;color:var(--text-light);margin-top:8px;opacity:.65;"></div>
                         </div>
                     </div>
 
@@ -1812,6 +1813,8 @@
                     }).join('');
                 }
             }
+            const updEl = document.getElementById('wr-updated');
+            if (updEl && d.updated) updEl.textContent = '更新于 ' + fmtBJ(d.updated) + '（北京时间）';
         } catch(e) { /* 静默失败 */ }
     })();
 
