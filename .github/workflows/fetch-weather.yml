@@ -2,7 +2,7 @@ name: Fetch Weather Data
 
 on:
   schedule:
-    - cron: '5 * * * *'   # 每小时第5分钟执行（错开整点高峰）
+    - cron: '5 */2 * * *'  # 每2小时第5分钟执行（减少调度频率，避免 GitHub 节流）
   workflow_dispatch:        # 可在 GitHub Actions 页面手动触发
 
 permissions:
