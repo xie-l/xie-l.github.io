@@ -112,18 +112,19 @@ jobs:
               f'| {d["status"]} | `{d["url"]}` | {", ".join(d["pages"])} |'
               for d in dead
           )
-          body = f"""## 自动死链检测报告
-
-**检测时间：** {now_utc}
-**失效链接数：** {len(dead)} / {len(link_map)}
-
-| 状态码 | 链接 | 出现页面 |
-|--------|------|---------|
-{rows}
-
----
-*由 GitHub Actions `site-maintenance.yml` 自动生成*
-"""
+          body_lines = [
+              '## 自动死链检测报告',
+              f'**检测时间：** {now_utc}',
+              f'**失效链接数：** {len(dead)} / {len(link_map)}',
+              '',
+              '| 状态码 | 链接 | 出现页面 |',
+              '|--------|------|---------|',
+              rows,
+              '',
+              '---',
+              '*由 GitHub Actions `site-maintenance.yml` 自动生成*'
+          ]
+          body = '\n'.join(body_lines)
 
           gh_api = f'https://api.github.com/repos/{repo}'
           auth_headers = {
