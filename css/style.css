@@ -159,11 +159,11 @@ button {
     font-size: 16px;
     font-weight: 600;
     color: #e2e8f0;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.02em;
     transition: var(--transition);
     display: inline-flex;
     align-items: center;
-    gap: 8px;
+    gap: 7px;
     padding: 6px 14px;
     border-radius: 20px;
     border: 1px solid rgba(255,255,255,0.1);
@@ -173,6 +173,32 @@ button {
     color: var(--accent-color);
     border-color: var(--accent-border);
     background: rgba(6, 182, 212, 0.06);
+}
+
+.logo-icon {
+    font-size: 15px;
+    line-height: 1;
+}
+
+/* 管理：图标-only，低调 */
+.nav-admin {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,0.08);
+    color: rgba(226,232,240,0.35);
+    font-size: 13px;
+    transition: var(--transition);
+    margin-left: 2px;
+}
+
+.nav-admin:hover {
+    color: rgba(226,232,240,0.75);
+    border-color: rgba(255,255,255,0.18);
+    background: rgba(255,255,255,0.06);
 }
 
 .nav-menu {
