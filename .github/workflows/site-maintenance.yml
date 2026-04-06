@@ -31,11 +31,19 @@ jobs:
           repo    = os.environ.get('REPO', '')
           token   = os.environ.get('GITHUB_TOKEN', '')
 
-          # ── 不检查的域名（需登录或已知会返回 4xx） ──────────────────────
+          # ── 不检查的域名 ──────────────────────────────────────────────────
+          # 国内平台：GitHub Actions 从境外访问，常超时或被封锁，不代表链接失效
+          # 反爬平台：返回 403 但用户浏览器可正常访问
           SKIP_DOMAINS = {
               'weread.qq.com', 'weixin.qq.com',
-              'zhihu.com', 'bilibili.com',          # 反爬
-              'fonts.googleapis.com',                # CDN，通常可访问
+              'zhihu.com', 'bilibili.com',
+              'xiaohongshu.com',                     # 国内，境外 IP 不可达
+              'dedao.cn',                            # 国内，反爬
+              'cnenergy.org',                        # 国内，境外超时
+              'hit.edu.cn',                          # 国内高校，境外超时
+              'researchgate.net',                    # 反爬，返回 403
+              'scholar.google.com',                  # Google 反爬，返回 403
+              'fonts.googleapis.com',
               'cdnjs.cloudflare.com',
               'github.com/login', 'orcid.org',
           }
@@ -90,13 +98,18 @@ jobs:
               if i % 20 == 0:
                   print(f'  [{i}/{len(link_map)}] checked...')
 
-              if status is None or status == 0 or status >= 400:
+              # 403 = 服务器拒绝机器人但页面真实存在，不算死链
+              # 只有 404/410（页面已删除）和 timeout（无法连接）才报告
+              is_dead = (status in (404, 410)) or (status == 0)
+              if is_dead:
                   dead.append({
                       'url':    url,
                       'pages':  sorted(pages),
                       'status': status or 'timeout'
                   })
                   print(f'[DEAD] {status} {url}')
+              elif status and status >= 400:
+                  print(f'[SKIP-{status}] {url}')   # 403 等，忽略
               time.sleep(0.3)   # 礼貌性延迟
 
           print(f'Dead links: {len(dead)} / {len(link_map)}')
