@@ -1,5 +1,53 @@
 {
-  "reading": null,
-  "recent": [],
-  "updated": "2026-04-06 03:30 UTC"
+  "reading": {
+    "title": "",
+    "author": "",
+    "cover": "",
+    "progress": 0,
+    "finished": false,
+    "last_read": ""
+  },
+  "recent": [
+    {
+      "title": "",
+      "author": "",
+      "cover": "",
+      "progress": 0,
+      "finished": false,
+      "last_read": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "cover": "",
+      "progress": 0,
+      "finished": false,
+      "last_read": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "cover": "",
+      "progress": 0,
+      "finished": false,
+      "last_read": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "cover": "",
+      "progress": 0,
+      "finished": false,
+      "last_read": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "cover": "",
+      "progress": 0,
+      "finished": false,
+      "last_read": ""
+    }
+  ],
+  "updated": "2026-04-06 03:53 UTC"
 }
