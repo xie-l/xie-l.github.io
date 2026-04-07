@@ -949,3 +949,42 @@
     </script>
 </body>
 </html>
+<script>
+// 实时时间更新
+const WEEKDAYS = ['日','一','二','三','四','五','六'];
+let lunarFmt;
+try {
+    lunarFmt = new Intl.DateTimeFormat('zh-u-ca-chinese', {
+        year:  'numeric',
+        month: 'long',
+        day:   'numeric'
+    });
+} catch(e) { lunarFmt = null; }
+
+function updateClock() {
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2,'0');
+    const mm = String(now.getMinutes()).padStart(2,'0');
+    const ss = String(now.getSeconds()).padStart(2,'0');
+    document.getElementById('w-clock').textContent = `${hh}:${mm}:${ss}`;
+
+    const y = now.getFullYear(), mo = now.getMonth()+1, d = now.getDate();
+    const wd = WEEKDAYS[now.getDay()];
+    document.getElementById('w-date').textContent =
+        `${y}年${mo}月${d}日 周${wd}`;
+
+    if (lunarFmt) {
+        try {
+            let lunar = lunarFmt.format(now);
+            lunar = lunar.replace(/^\d{4}年?/, '').trim();
+            document.getElementById('w-lunar').textContent = '农历 ' + lunar;
+        } catch(e) {
+            document.getElementById('w-lunar').textContent = '';
+        }
+    } else {
+        document.getElementById('w-lunar').textContent = '';
+    }
+}
+updateClock();
+setInterval(updateClock, 1000);
+</script>
