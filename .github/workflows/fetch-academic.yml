@@ -1,0 +1,123 @@
+name: Fetch Academic Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'   # 每周一 03:00 UTC（北京时间 11:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-academic:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Fetch publication stats from Semantic Scholar
+        run: |
+          python3 << 'PYEOF'
+          import json, urllib.request, urllib.parse, urllib.error
+          from datetime import datetime, timezone
+
+          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+
+          # ── 配置：使用 Semantic Scholar API（无需 API Key，每分钟60次） ──
+          # 作者搜索：搜索 "Liang Xie" 并筛选哈工大相关结果
+          AUTHOR_NAME = "Liang Xie"
+          AFFILIATION_KEYWORD = "Harbin"   # 过滤哈工大
+          API_BASE = "https://api.semanticscholar.org/graph/v1"
+
+          headers = {
+              "User-Agent": "xie-l.github.io academic stats bot (https://xie-l.github.io)",
+              "Accept": "application/json"
+          }
+
+          def api_get(url):
+              req = urllib.request.Request(url, headers=headers)
+              try:
+                  with urllib.request.urlopen(req, timeout=15) as resp:
+                      return json.loads(resp.read().decode())
+              except urllib.error.HTTPError as e:
+                  print(f"HTTP {e.code}: {url}")
+                  return None
+              except Exception as e:
+                  print(f"Error fetching {url}: {e}")
+                  return None
+
+          # ── 1. 搜索作者 ────────────────────────────────────────────────────
+          search_url = (API_BASE + "/author/search?query=" +
+                        urllib.parse.quote(AUTHOR_NAME) +
+                        "&fields=name,affiliations,paperCount,citationCount,hIndex")
+          result = api_get(search_url)
+
+          author_data = None
+          if result and result.get("data"):
+              for candidate in result["data"]:
+                  affiliations = candidate.get("affiliations") or []
+                  aff_str = " ".join(affiliations).lower()
+                  if AFFILIATION_KEYWORD.lower() in aff_str:
+                      author_data = candidate
+                      print(f"匹配作者: {candidate['name']} | 机构: {affiliations}")
+                      break
+              if not author_data:
+                  # 退而求其次：取第一个结果
+                  author_data = result["data"][0]
+                  print(f"未精确匹配，使用首个结果: {author_data.get('name')}")
+
+          # ── 2. 拉取最新论文列表 ────────────────────────────────────────────
+          papers = []
+          if author_data:
+              author_id = author_data.get("authorId")
+              papers_url = (API_BASE + "/author/" + author_id +
+                            "/papers?fields=title,year,citationCount,externalIds,venue&limit=50")
+              papers_result = api_get(papers_url)
+              if papers_result and papers_result.get("data"):
+                  raw = papers_result["data"]
+                  # 按引用数倒序
+                  raw.sort(key=lambda p: p.get("citationCount", 0), reverse=True)
+                  papers = [
+                      {
+                          "title": p.get("title", ""),
+                          "year": p.get("year"),
+                          "citations": p.get("citationCount", 0),
+                          "venue": p.get("venue", ""),
+                          "doi": p.get("externalIds", {}).get("DOI", ""),
+                      }
+                      for p in raw[:30]   # 最多30篇
+                  ]
+
+          # ── 3. 构建输出 JSON ───────────────────────────────────────────────
+          academic = {
+              "updated": now_utc,
+              "source": "Semantic Scholar",
+              "author": {
+                  "name": author_data.get("name", AUTHOR_NAME) if author_data else AUTHOR_NAME,
+                  "paper_count": author_data.get("paperCount", 0) if author_data else 0,
+                  "citation_count": author_data.get("citationCount", 0) if author_data else 0,
+                  "h_index": author_data.get("hIndex", 0) if author_data else 0,
+              },
+              "top_papers": papers,
+              "note": "数据来自 Semantic Scholar，每周自动更新。"
+          }
+
+          with open("data/academic.json", "w", encoding="utf-8") as f:
+              json.dump(academic, f, ensure_ascii=False, indent=2)
+
+          a = academic["author"]
+          print(f"学术数据已保存：{a['paper_count']} 篇论文，"
+                f"{a['citation_count']} 次引用，h-index={a['h_index']}")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/academic.json
+          git diff --staged --quiet \
+            && echo "No changes to commit." \
+            || (git commit -m "chore: update academic stats [skip ci]" \
+                && git pull --rebase origin main \
+                && git push)
