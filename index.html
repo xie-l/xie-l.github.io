@@ -204,6 +204,110 @@
                         </div>
                     </section>
 
+                    <!-- 每日跨域类比 -->
+                    <section id="daily-analogy" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">🔗 每日跨域类比</h2>
+                            <span class="kw-date-tag" id="analogy-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="analogy-card" class="analogy-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 信号vs噪声判断 -->
+                    <section id="daily-signal" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">📡 信号 vs 噪声</h2>
+                            <span class="kw-date-tag" id="signal-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="signal-card" class="signal-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 每日认知偏误觉察 -->
+                    <section id="daily-bias" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">🧠 认知偏误觉察</h2>
+                            <span class="kw-date-tag" id="bias-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="bias-card" class="bias-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 逆向思维/钢人论证 -->
+                    <section id="daily-inversion" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">⚔️ 逆向·钢人论证</h2>
+                            <span class="kw-date-tag" id="inversion-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="inversion-card" class="inversion-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 历史类比/行业映射 -->
+                    <section id="daily-historical" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">🏛️ 历史类比</h2>
+                            <span class="kw-date-tag" id="historical-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="historical-card" class="historical-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 每日一人/思维传记 -->
+                    <section id="daily-person" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">👤 每日一人</h2>
+                            <span class="kw-date-tag" id="person-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="person-card" class="person-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 每日微写作 -->
+                    <section id="daily-writing" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">✍️ 每日微写作</h2>
+                            <span class="kw-date-tag" id="writing-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="writing-card" class="writing-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- 每周预测与校准 -->
+                    <section id="weekly-prediction" class="section">
+                        <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
+                            <h2 class="section-title" style="margin:0">🎯 预测与校准</h2>
+                            <span class="kw-date-tag" id="prediction-date">每日换新</span>
+                        </div>
+                        <div class="section-content">
+                            <div id="prediction-card" class="prediction-card">
+                                <div class="analogy-loading">加载中…</div>
+                            </div>
+                        </div>
+                    </section>
+
                     <!-- 能源市场数据 -->
                     <section id="energy-market" class="section">
                         <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
@@ -1657,6 +1761,189 @@
     // ── 内联数据池已移至 data/pool-*.json（各 75~350+ 条目） ──
     // 渲染代码见上方的 fetch IIFE。
 
+
+    // ========== 8大思维成长模块 ==========
+    (function () {
+        function lcgShuffle(items, seed) {
+            var arr = items.slice();
+            var s = ((seed ^ 0x1A2B3C4D) >>> 0);
+            for (var i = arr.length - 1; i > 0; i--) {
+                s = (Math.imul(1664525, s) + 1013904223) >>> 0;
+                var j = s % (i + 1);
+                var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
+            }
+            return arr;
+        }
+        function pickOne(pool, utcDay, seedOffset) {
+            if (!pool.length) return null;
+            var n = pool.length;
+            var epoch = Math.floor(utcDay / n);
+            var dayInCycle = utcDay % n;
+            var shuffled = lcgShuffle(pool, ((epoch ^ seedOffset) >>> 0));
+            return shuffled[dayInCycle];
+        }
+        var now = new Date();
+        var utcDay = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+        var bj = new Date(now.getTime() + 8 * 3600 * 1000);
+        var bjStr = bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 · 每日换新';
+        function setDate(id) { var el = document.getElementById(id); if (el) el.textContent = bjStr; }
+        function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+        // ── 每日跨域类比 ──
+        fetch('/data/pool-analogies.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('analogy-date');
+            var d = pickOne(pool, utcDay, 0xA1B2C3D4);
+            if (!d) return;
+            document.getElementById('analogy-card').innerHTML =
+                '<div class="analogy-concepts">' +
+                    '<div class="analogy-concept">' +
+                        '<div class="analogy-field">' + esc(d.a_field) + '</div>' +
+                        '<div class="analogy-concept-name">' + esc(d.a_concept) + '</div>' +
+                    '</div>' +
+                    '<div class="analogy-arrow">⟷</div>' +
+                    '<div class="analogy-concept">' +
+                        '<div class="analogy-field">' + esc(d.b_field) + '</div>' +
+                        '<div class="analogy-concept-name">' + esc(d.b_concept) + '</div>' +
+                    '</div>' +
+                '</div>' +
+                '<div class="growth-label">深层联系</div>' +
+                '<div class="analogy-bridge">' + esc(d.bridge) + '</div>';
+        }).catch(function(){ setDate('analogy-date'); });
+
+        // ── 信号vs噪声判断 ──
+        fetch('/data/pool-signals.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('signal-date');
+            var d = pickOne(pool, utcDay, 0xB2C3D4E5);
+            if (!d) return;
+            var isSignal = d.verdict === 'signal';
+            document.getElementById('signal-card').innerHTML =
+                '<div class="signal-headline">' + esc(d.headline) + '</div>' +
+                '<div class="signal-badge ' + (isSignal ? 'is-signal' : 'is-noise') + '">' +
+                    (isSignal ? '📶 信号' : '🔇 噪声') +
+                '</div>' +
+                '<div class="growth-label">判断理由</div>' +
+                '<div class="signal-reason">' + esc(d.reason) + '</div>' +
+                '<div class="signal-metric"><strong>🎯 关键指标：</strong>' + esc(d.key_metric) + '</div>';
+        }).catch(function(){ setDate('signal-date'); });
+
+        // ── 认知偏误觉察 ──
+        fetch('/data/pool-biases.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('bias-date');
+            var d = pickOne(pool, utcDay, 0xC3D4E5F6);
+            if (!d) return;
+            document.getElementById('bias-card').innerHTML =
+                '<div class="growth-label">今日场景</div>' +
+                '<div class="bias-scenario">' + esc(d.scenario) + '</div>' +
+                '<div class="bias-name-row">' +
+                    '<div class="growth-label" style="margin:0">隐藏偏误</div>' +
+                    '<div class="bias-name-badge">' + esc(d.bias) + '</div>' +
+                '</div>' +
+                '<div class="bias-desc">' + esc(d.desc) + '</div>' +
+                '<div class="bias-counter"><strong>💡 破解策略：</strong>' + esc(d.counter) + '</div>';
+        }).catch(function(){ setDate('bias-date'); });
+
+        // ── 逆向思维/钢人论证 ──
+        fetch('/data/pool-inversions.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('inversion-date');
+            var d = pickOne(pool, utcDay, 0xD4E5F6A7);
+            if (!d) return;
+            document.getElementById('inversion-card').innerHTML =
+                '<div class="inversion-belief-label">流行观点</div>' +
+                '<div class="inversion-belief">' + esc(d.belief) + '</div>' +
+                '<div class="growth-label" style="margin-top:14px">最强反驳（钢人论证）</div>' +
+                '<div class="inversion-steel">' + esc(d.steel) + '</div>' +
+                '<div class="inversion-insight"><strong>💡 洞见：</strong>' + esc(d.insight) + '</div>';
+        }).catch(function(){ setDate('inversion-date'); });
+
+        // ── 历史类比/行业映射 ──
+        fetch('/data/pool-historical.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('historical-date');
+            var d = pickOne(pool, utcDay, 0xE5F6A7B8);
+            if (!d) return;
+            document.getElementById('historical-card').innerHTML =
+                '<div class="historical-timeline">' +
+                    '<div class="historical-box">' +
+                        '<div class="historical-box-label">当前情境</div>' +
+                        '<div class="historical-box-text">' + esc(d.current) + '</div>' +
+                    '</div>' +
+                    '<div class="historical-sep">↔</div>' +
+                    '<div class="historical-box">' +
+                        '<div class="historical-box-label">历史先例</div>' +
+                        '<div class="historical-box-text">' + esc(d.event) + '</div>' +
+                        '<div class="historical-era">' + esc(d.era) + '</div>' +
+                    '</div>' +
+                '</div>' +
+                '<div class="growth-label">可迁移的规律</div>' +
+                '<div class="historical-lesson">' + esc(d.lesson) + '</div>';
+        }).catch(function(){ setDate('historical-date'); });
+
+        // ── 每日一人 ──
+        fetch('/data/pool-persons.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('person-date');
+            var d = pickOne(pool, utcDay, 0xF6A7B8C9);
+            if (!d) return;
+            var initial = (d.name||'?')[0];
+            document.getElementById('person-card').innerHTML =
+                '<div class="person-header">' +
+                    '<div class="person-avatar">' + esc(initial) + '</div>' +
+                    '<div>' +
+                        '<div class="person-name">' + esc(d.name) + '</div>' +
+                        '<div class="person-field">' + esc(d.field) + '</div>' +
+                    '</div>' +
+                '</div>' +
+                '<div class="person-row">' +
+                    '<div class="growth-label">关键决策</div>' +
+                    '<div class="person-decision">' + esc(d.decision) + '</div>' +
+                '</div>' +
+                '<div class="person-row">' +
+                    '<div class="growth-label">心智模型</div>' +
+                    '<div class="person-model">' + esc(d.model) + '</div>' +
+                '</div>' +
+                '<div class="person-apply"><strong>💡 对你的启发：</strong>' + esc(d.apply) + '</div>';
+        }).catch(function(){ setDate('person-date'); });
+
+        // ── 每日微写作 ──
+        fetch('/data/pool-writing.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('writing-date');
+            var d = pickOne(pool, utcDay, 0xA7B8C9DA);
+            if (!d) return;
+            document.getElementById('writing-card').innerHTML =
+                '<div class="writing-prompt">' + esc(d.prompt) + '</div>' +
+                '<div class="growth-label">写作角度提示</div>' +
+                '<div class="writing-hint">' + esc(d.hint) + '</div>' +
+                '<div class="writing-goal"><strong>训练目标：</strong>' + esc(d.goal) + '</div>';
+        }).catch(function(){ setDate('writing-date'); });
+
+        // ── 预测与校准 ──
+        fetch('/data/pool-predictions.json?_v=1', {signal: fetchSignal(8000)})
+        .then(function(r){ return r.json(); })
+        .then(function(pool) {
+            setDate('prediction-date');
+            var d = pickOne(pool, utcDay, 0xB8C9DAEB);
+            if (!d) return;
+            document.getElementById('prediction-card').innerHTML =
+                '<div class="prediction-topic">' + esc(d.topic) + '</div>' +
+                '<div class="prediction-question">' + esc(d.question) + '</div>' +
+                '<div class="growth-label">当前各方观点</div>' +
+                '<div class="prediction-stance">' + esc(d.stance) + '</div>' +
+                '<div class="prediction-calibrate"><strong>🎯 校准问题：</strong>' + esc(d.calibrate) + '</div>';
+        }).catch(function(){ setDate('prediction-date'); });
+
+    })();
 
     // ========== 主页最后更新时间 ==========
     (function () {
