@@ -2,9 +2,9 @@
   "Beijing": {
     "name": "北京",
     "current": {
-      "temp": 10,
-      "icon": "☀️",
-      "desc": "晴"
+      "temp": 12,
+      "icon": "🌤️",
+      "desc": "晴间多云"
     },
     "daily": [
       {
@@ -57,12 +57,12 @@
         "min": 10
       }
     ],
-    "updated": "2026-04-07 01:57 UTC"
+    "updated": "2026-04-07 03:25 UTC"
   },
   "Shanghai": {
     "name": "上海",
     "current": {
-      "temp": 16,
+      "temp": 18,
       "icon": "☀️",
       "desc": "晴"
     },
@@ -117,12 +117,12 @@
         "min": 14
       }
     ],
-    "updated": "2026-04-07 01:57 UTC"
+    "updated": "2026-04-07 03:25 UTC"
   },
   "Nanchang": {
     "name": "南昌",
     "current": {
-      "temp": 21,
+      "temp": 23,
       "icon": "☁️",
       "desc": "阴"
     },
@@ -177,14 +177,14 @@
         "min": 20
       }
     ],
-    "updated": "2026-04-07 01:57 UTC"
+    "updated": "2026-04-07 03:25 UTC"
   },
   "Xining": {
     "name": "西宁",
     "current": {
-      "temp": 8,
-      "icon": "☀️",
-      "desc": "晴"
+      "temp": 13,
+      "icon": "⛅",
+      "desc": "多云"
     },
     "daily": [
       {
@@ -237,12 +237,12 @@
         "min": 1
       }
     ],
-    "updated": "2026-04-07 01:57 UTC"
+    "updated": "2026-04-07 03:25 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
     "current": {
-      "temp": 4,
+      "temp": 7,
       "icon": "☀️",
       "desc": "晴"
     },
@@ -297,6 +297,6 @@
         "min": -2
       }
     ],
-    "updated": "2026-04-07 01:57 UTC"
+    "updated": "2026-04-07 03:25 UTC"
   }
 }
