@@ -2,7 +2,8 @@ name: Fetch Weather Data
 
 on:
   schedule:
-    - cron: '5 */2 * * *'  # 每2小时第5分钟执行
+    - cron: '0 22 * * *'   # 北京时间 06:00（UTC 22:00 前一天）
+    - cron: '0 7  * * *'   # 北京时间 15:00（UTC 07:00）
   workflow_dispatch:
 
 permissions:
@@ -16,22 +17,47 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Fetch weather for 5 cities (wttr.in)
+      - name: Fetch 7-day forecast (Open-Meteo, fallback wttr.in)
         run: |
           python3 << 'PYEOF'
-          import urllib.request, json, os
+          import urllib.request, urllib.error, json, os, time
           from datetime import datetime, timezone
 
           CITIES = [
-              {'name': '北京',   'q': 'Beijing'},
-              {'name': '上海',   'q': 'Shanghai'},
-              {'name': '南昌',   'q': 'Nanchang'},
-              {'name': '西宁',   'q': 'Xining'},
-              {'name': '哈尔滨', 'q': 'Harbin'},
+              {'name': '北京',   'q': 'Beijing',  'lat': 39.9042, 'lon': 116.4074},
+              {'name': '上海',   'q': 'Shanghai', 'lat': 31.2304, 'lon': 121.4737},
+              {'name': '南昌',   'q': 'Nanchang', 'lat': 28.6820, 'lon': 115.8579},
+              {'name': '西宁',   'q': 'Xining',   'lat': 36.6171, 'lon': 101.7782},
+              {'name': '哈尔滨', 'q': 'Harbin',   'lat': 45.8038, 'lon': 126.5349},
           ]
 
-          # wttr.in weatherCode → (emoji, 中文描述)
-          WTTR_MAP = {
+          # WMO / wttr.in weatherCode → (emoji, 中文描述)
+          CODE_MAP = {
+              0:   ('☀️',  '晴'),
+              1:   ('🌤️', '晴间多云'),
+              2:   ('⛅',  '多云'),
+              3:   ('☁️',  '阴'),
+              45:  ('🌫️', '雾'),
+              48:  ('🌫️', '雾'),
+              51:  ('🌦️', '小雨'),
+              53:  ('🌦️', '小雨'),
+              55:  ('🌧️', '中雨'),
+              61:  ('🌦️', '小雨'),
+              63:  ('🌧️', '中雨'),
+              65:  ('🌧️', '大雨'),
+              71:  ('🌨️', '小雪'),
+              73:  ('🌨️', '中雪'),
+              75:  ('❄️',  '大雪'),
+              77:  ('🌨️', '雪粒'),
+              80:  ('🌦️', '阵雨'),
+              81:  ('🌧️', '阵雨'),
+              82:  ('🌧️', '强阵雨'),
+              85:  ('🌨️', '阵雪'),
+              86:  ('❄️',  '强阵雪'),
+              95:  ('⛈️',  '雷阵雨'),
+              96:  ('⛈️',  '雷阵雨'),
+              99:  ('⛈️',  '雷阵雨'),
+              # wttr.in codes
               113: ('☀️',  '晴'),
               116: ('⛅',  '多云'),
               119: ('☁️',  '阴天'),
@@ -40,24 +66,17 @@ jobs:
               176: ('🌦️', '小雨'),
               179: ('🌨️', '小雪'),
               182: ('🌨️', '雨夹雪'),
-              185: ('🌧️', '冰雨'),
               200: ('⛈️',  '雷阵雨'),
               227: ('🌨️', '大雪'),
               230: ('❄️',  '暴雪'),
-              248: ('🌫️', '大雾'),
-              260: ('🌫️', '冻雾'),
               263: ('🌦️', '毛毛雨'),
               266: ('🌦️', '小雨'),
-              281: ('🌧️', '冰雨'),
-              284: ('🌧️', '冻雨'),
               293: ('🌦️', '小雨'),
               296: ('🌦️', '小雨'),
               299: ('🌧️', '中雨'),
               302: ('🌧️', '中雨'),
               305: ('🌧️', '大雨'),
               308: ('🌧️', '暴雨'),
-              311: ('🌧️', '冻雨'),
-              314: ('🌧️', '冻雨'),
               317: ('🌨️', '雨夹雪'),
               320: ('🌨️', '雨夹雪'),
               323: ('🌨️', '小雪'),
@@ -66,82 +85,145 @@ jobs:
               332: ('❄️',  '中雪'),
               335: ('❄️',  '大雪'),
               338: ('❄️',  '暴雪'),
-              350: ('🌧️', '冰粒'),
               353: ('🌦️', '阵雨'),
               356: ('🌧️', '阵雨'),
               359: ('🌧️', '暴雨'),
-              362: ('🌨️', '雨夹雪'),
-              365: ('🌨️', '雨夹雪'),
               368: ('🌨️', '阵雪'),
               371: ('❄️',  '阵雪'),
-              374: ('🌧️', '冰粒'),
-              377: ('🌧️', '冰粒'),
               386: ('⛈️',  '雷阵雨'),
               389: ('⛈️',  '强雷雨'),
-              392: ('⛈️',  '雷雪'),
-              395: ('⛈️',  '强雷雪'),
           }
 
-          def wmap(code):
+          def cmap(code):
               try:
-                  return WTTR_MAP.get(int(code), ('🌡️', '未知'))
+                  return CODE_MAP.get(int(code), ('🌡️', '未知'))
               except Exception:
                   return ('🌡️', '未知')
 
+          def fetch_url(url, headers=None, timeout=20, retries=3):
+              h = {'User-Agent': 'curl/7.79.1', 'Accept': 'application/json'}
+              if headers:
+                  h.update(headers)
+              for attempt in range(retries):
+                  try:
+                      req = urllib.request.Request(url, headers=h)
+                      with urllib.request.urlopen(req, timeout=timeout) as r:
+                          return json.load(r)
+                  except Exception as e:
+                      print(f'  attempt {attempt+1}/{retries} failed: {e}')
+                      if attempt < retries - 1:
+                          time.sleep(3)
+              return None
+
+          def fetch_openmeteo(city):
+              url = (
+                  'https://api.open-meteo.com/v1/forecast'
+                  f'?latitude={city["lat"]}&longitude={city["lon"]}'
+                  '&current=temperature_2m,weathercode'
+                  '&daily=weathercode,temperature_2m_max,temperature_2m_min'
+                  '&timezone=Asia%2FShanghai&forecast_days=7'
+              )
+              data = fetch_url(url)
+              if not data:
+                  return None
+
+              cur      = data.get('current', {})
+              temp_val = cur.get('temperature_2m')
+              code_val = cur.get('weathercode', 0)
+              icon, desc = cmap(code_val)
+
+              daily  = data.get('daily', {})
+              dates  = daily.get('time', [])
+              codes  = daily.get('weathercode', [])
+              maxes  = daily.get('temperature_2m_max', [])
+              mines  = daily.get('temperature_2m_min', [])
+
+              forecast = []
+              for i, date in enumerate(dates[:7]):
+                  d_icon, d_desc = cmap(codes[i] if i < len(codes) else 0)
+                  forecast.append({
+                      'date': date,
+                      'icon': d_icon,
+                      'desc': d_desc,
+                      'max':  round(maxes[i]) if i < len(maxes) else '--',
+                      'min':  round(mines[i]) if i < len(mines) else '--',
+                  })
+
+              return {
+                  'current': {
+                      'temp': round(temp_val) if temp_val is not None else '--',
+                      'icon': icon,
+                      'desc': desc,
+                  },
+                  'daily': forecast,
+                  'source': 'Open-Meteo',
+              }
+
+          def fetch_wttr(city):
+              url = 'https://wttr.in/' + city['q'] + '?format=j1'
+              data = fetch_url(url)
+              if not data:
+                  return None
+
+              cur  = data['current_condition'][0]
+              temp = int(cur.get('temp_C', 0))
+              code = int(cur.get('weatherCode', 113))
+              icon, desc = cmap(code)
+
+              forecast = []
+              for day in data.get('weather', [])[:3]:
+                  hourly = day.get('hourly', [])
+                  d_code = int(hourly[4].get('weatherCode', code)) if len(hourly) > 4 else code
+                  d_icon, d_desc = cmap(d_code)
+                  forecast.append({
+                      'date': day.get('date', ''),
+                      'icon': d_icon,
+                      'desc': d_desc,
+                      'max':  int(day.get('maxtempC', 0)),
+                      'min':  int(day.get('mintempC', 0)),
+                  })
+
+              return {
+                  'current': {'temp': temp, 'icon': icon, 'desc': desc},
+                  'daily':   forecast,
+                  'source':  'wttr.in (3天)',
+              }
+
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-          result = {}
+          result  = {}
 
           for city in CITIES:
-              try:
-                  url = 'https://wttr.in/' + city['q'] + '?format=j1'
-                  req = urllib.request.Request(url, headers={
-                      'User-Agent': 'curl/7.79.1',
-                      'Accept': 'application/json'
-                  })
-                  with urllib.request.urlopen(req, timeout=20) as r:
-                      data = json.load(r)
+              print(f'\n[{city["name"]}] 尝试 Open-Meteo...')
+              info = fetch_openmeteo(city)
+              if not info:
+                  print(f'[{city["name"]}] Open-Meteo 失败，回退至 wttr.in...')
+                  info = fetch_wttr(city)
 
-                  cur  = data['current_condition'][0]
-                  temp = int(cur.get('temp_C', 0))
-                  code = int(cur.get('weatherCode', 113))
-                  icon, desc = wmap(code)
-
-                  # 3天预报（wttr.in 最多3天）
-                  forecast = []
-                  for day in data.get('weather', [])[:3]:
-                      # 取正午时段（hourly index 4 ≈ 12:00）的天气码
-                      hourly = day.get('hourly', [])
-                      d_code = int(hourly[4].get('weatherCode', code)) if len(hourly) > 4 else code
-                      d_icon, d_desc = wmap(d_code)
-                      forecast.append({
-                          'date': day.get('date', ''),
-                          'icon': d_icon,
-                          'desc': d_desc,
-                          'max':  int(day.get('maxtempC', 0)),
-                          'min':  int(day.get('mintempC', 0)),
-                      })
-
+              if info:
                   result[city['q']] = {
                       'name':    city['name'],
-                      'current': {'temp': temp, 'icon': icon, 'desc': desc},
-                      'daily':   forecast,
+                      'current': info['current'],
+                      'daily':   info['daily'],
+                      'source':  info.get('source', ''),
                       'updated': now_utc,
                   }
-                  print('[OK] ' + city['name'] + ': ' + str(temp) + 'C ' + desc + ', ' + str(len(forecast)) + '天预报')
-
-              except Exception as e:
-                  print('[ERR] ' + city['name'] + ': ' + str(e))
+                  cur = info['current']
+                  print(f'[OK] {city["name"]}: {cur["temp"]}°C {cur["desc"]}, '
+                        f'{len(info["daily"])}天预报 ({info.get("source","")})')
+              else:
+                  print(f'[ERR] {city["name"]}: 所有数据源均失败')
                   result[city['q']] = {
                       'name':    city['name'],
                       'current': {'temp': '--', 'icon': '🌡️', 'desc': '暂无数据'},
                       'daily':   [],
+                      'source':  '',
                       'updated': now_utc,
                   }
 
           os.makedirs('data', exist_ok=True)
           with open('data/weather.json', 'w', encoding='utf-8') as f:
               json.dump(result, f, ensure_ascii=False, indent=2)
-          print('Wrote data/weather.json successfully.')
+          print('\nWrote data/weather.json successfully.')
           PYEOF
 
       - name: Commit and push
