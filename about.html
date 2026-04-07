@@ -6,7 +6,60 @@
     <title>关于我 - 谢亮</title>
     <meta name="description" content="谢亮 - 哈尔滨工业大学工学博士，国家能源集团氢能管培生。个人简介、教育背景、获奖荣誉、实习经历、科研项目、科研成果和专业技能。">
     <meta name="keywords" content="谢亮,个人简介,教育背景,科研成果,氢能,电催化">
+    <meta name="author" content="谢亮">
+    <!-- Open Graph -->
+    <meta property="og:type" content="profile">
+    <meta property="og:url" content="https://xie-l.github.io/about.html">
+    <meta property="og:title" content="关于谢亮 - 学术履历与科研成果">
+    <meta property="og:description" content="哈尔滨工业大学工学博士（2020–2026），国家能源集团氢能管培生。SCI 论文 30+，挑战杯特等奖，多项国家级荣誉。">
+    <meta property="og:image" content="https://xie-l.github.io/img/avatar.jpg">
+    <meta property="og:site_name" content="谢亮的个人主页">
+    <meta property="og:locale" content="zh_CN">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="关于谢亮 - 学术履历与科研成果">
+    <meta name="twitter:description" content="哈尔滨工业大学工学博士，国家能源集团氢能管培生。SCI 论文 30+，挑战杯特等奖。">
+    <meta name="twitter:image" content="https://xie-l.github.io/img/avatar.jpg">
+    <!-- Canonical -->
+    <link rel="canonical" href="https://xie-l.github.io/about.html">
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="谢亮的博客" href="https://xie-l.github.io/feed.xml">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👤</text></svg>">
+    <!-- JSON-LD 结构化数据 -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "谢亮",
+      "alternateName": "Liang Xie",
+      "url": "https://xie-l.github.io/",
+      "image": "https://xie-l.github.io/img/avatar.jpg",
+      "sameAs": [
+        "https://github.com/xie-l"
+      ],
+      "jobTitle": "氢能管培生",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "国家能源集团"
+      },
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "哈尔滨工业大学",
+          "sameAs": "https://www.hit.edu.cn/"
+        }
+      ],
+      "knowsAbout": [
+        "碳基电催化",
+        "电解水制氢",
+        "机器学习",
+        "DFT计算",
+        "氢能",
+        "过氧化氢电合成"
+      ],
+      "description": "哈尔滨工业大学工学博士（动力工程及工程热物理），国家能源集团氢能管培生。研究方向：碳基电催化氧气合成过氧化氢调控机制及强化策略。发表SCI论文30余篇，获挑战杯特等奖等国家级荣誉。"
+    }
+    </script>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
@@ -28,6 +81,9 @@
                         <li><a href="admin/login.html" class="nav-admin" title="管理"><i class="fas fa-cog"></i></a></li>
                     </ul>
                 </nav>
+                <button class="theme-toggle" id="themeToggle" title="切换深色/浅色模式" aria-label="切换主题">
+                    <i class="fas fa-moon"></i>
+                </button>
                 <div class="mobile-toggle">
                     <span></span>
                     <span></span>
@@ -638,6 +694,14 @@
                         </div>
                     </div>
 
+                    <!-- 学术影响力（自动更新） -->
+                    <div class="sidebar-widget" id="academic-widget">
+                        <h3 class="widget-title">
+                            <i class="fas fa-chart-line" style="color:var(--secondary-color);margin-right:6px"></i>学术影响力
+                        </h3>
+                        <div id="academic-stats" style="font-size:13px;color:var(--text-light);">加载中...</div>
+                    </div>
+
                     <!-- 核心优势 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">核心优势</h3>
@@ -682,6 +746,36 @@
 
     <!-- JavaScript -->
     <script src="js/main.js"></script>
+    <script>
+        // 加载学术影响力数据
+        fetch('/data/academic.json')
+            .then(r => r.ok ? r.json() : null)
+            .then(d => {
+                const el = document.getElementById('academic-stats');
+                if (!el) return;
+                if (!d || !d.author) {
+                    el.textContent = '数据尚未生成，将于每周一自动更新。';
+                    return;
+                }
+                const a = d.author;
+                el.innerHTML =
+                    '<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:10px;text-align:center">' +
+                    '<div style="background:var(--bg-tertiary);border-radius:8px;padding:8px 4px">' +
+                    '<div style="font-size:20px;font-weight:700;color:var(--primary-color)">' + (a.paper_count || '—') + '</div>' +
+                    '<div style="font-size:10px;color:var(--text-light);margin-top:2px">论文数</div></div>' +
+                    '<div style="background:var(--bg-tertiary);border-radius:8px;padding:8px 4px">' +
+                    '<div style="font-size:20px;font-weight:700;color:var(--accent-color)">' + (a.citation_count || '—') + '</div>' +
+                    '<div style="font-size:10px;color:var(--text-light);margin-top:2px">总引用</div></div>' +
+                    '<div style="background:var(--bg-tertiary);border-radius:8px;padding:8px 4px">' +
+                    '<div style="font-size:20px;font-weight:700;color:var(--gold)">' + (a.h_index || '—') + '</div>' +
+                    '<div style="font-size:10px;color:var(--text-light);margin-top:2px">h-index</div></div></div>' +
+                    '<div style="font-size:11px;color:var(--text-light);text-align:right">来源：Semantic Scholar · ' + (d.updated || '') + '</div>';
+            })
+            .catch(() => {
+                const el = document.getElementById('academic-stats');
+                if (el) el.textContent = '数据将于每周一自动更新。';
+            });
+    </script>
     <script>
         // 平滑滚动
         document.addEventListener('DOMContentLoaded', function() {

@@ -252,15 +252,73 @@ jobs:
           with open('sitemap.xml', 'w', encoding='utf-8') as f:
               f.write('\n'.join(sitemap_lines) + '\n')
           print(f'Wrote sitemap.xml: {len(urls)} URLs')
+
+          # ── 5. RSS Feed ───────────────────────────────────────────────────
+          import email.utils, time
+
+          def rss_date(date_str):
+              try:
+                  t = time.strptime(date_str, '%Y-%m-%d')
+                  return email.utils.formatdate(time.mktime(t))
+              except Exception:
+                  return email.utils.formatdate()
+
+          def xml_esc(s):
+              return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+          rss_items = []
+          for p in posts[:20]:
+              url = BASE + '/' + p['path']
+              item_lines = [
+                  '    <item>',
+                  '      <title>' + xml_esc(p['title']) + '</title>',
+                  '      <link>' + url + '</link>',
+                  '      <guid isPermaLink="true">' + url + '</guid>',
+                  '      <pubDate>' + rss_date(p['date']) + '</pubDate>',
+                  '      <category>' + xml_esc(p['category']) + '</category>',
+                  '      <description><![CDATA[' + p['summary'] + ']]></description>',
+                  '    </item>',
+              ]
+              rss_items.append('\n'.join(item_lines))
+
+          build_date = email.utils.formatdate()
+          rss_lines = [
+              '<?xml version="1.0" encoding="UTF-8"?>',
+              '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+              '  <channel>',
+              '    <title>谢亮的博客</title>',
+              '    <link>' + BASE + '/</link>',
+              '    <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>',
+              '    <language>zh-CN</language>',
+              '    <lastBuildDate>' + build_date + '</lastBuildDate>',
+              '    <atom:link href="' + BASE + '/feed.xml" rel="self" type="application/rss+xml"/>',
+              '    <image>',
+              '      <url>' + BASE + '/img/avatar.jpg</url>',
+              '      <title>谢亮的博客</title>',
+              '      <link>' + BASE + '/</link>',
+              '    </image>',
+          ] + rss_items + [
+              '  </channel>',
+              '</rss>',
+          ]
+
+          with open('feed.xml', 'w', encoding='utf-8') as f:
+              f.write('\n'.join(rss_lines) + '\n')
+          print('Wrote feed.xml: ' + str(len(rss_items)) + ' items')
           PYEOF
+
+      - name: Build Pagefind search index
+        run: |
+          npx -y pagefind --site . --output-path pagefind --glob "blog/**/*.html"
+          echo "Pagefind index built."
 
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/blog-index.json data/files-index.json data/stats.json sitemap.xml
+          git add data/blog-index.json data/files-index.json data/stats.json sitemap.xml feed.xml pagefind/
           git diff --staged --quiet \
             && echo "No changes to commit." \
-            || (git commit -m "chore: update site index and sitemap [skip ci]" \
+            || (git commit -m "chore: update site index, sitemap, RSS feed, and search index [skip ci]" \
                 && git pull --rebase origin main \
                 && git push)

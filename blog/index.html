@@ -4,9 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>个人日记 - 谢亮</title>
+    <meta name="description" content="谢亮的个人日记与思考空间：技术探索、生活感悟、书评分享、能源数据分析。">
+    <meta name="author" content="谢亮">
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://xie-l.github.io/blog/">
+    <meta property="og:title" content="个人日记 - 谢亮">
+    <meta property="og:description" content="谢亮的个人日记与思考空间：技术探索、生活感悟、书评分享、能源数据分析。">
+    <meta property="og:image" content="https://xie-l.github.io/img/avatar.jpg">
+    <meta property="og:site_name" content="谢亮的个人主页">
+    <meta property="og:locale" content="zh_CN">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="个人日记 - 谢亮">
+    <meta name="twitter:description" content="谢亮的个人日记与思考空间：技术探索、生活感悟、书评分享、能源数据分析。">
+    <meta name="twitter:image" content="https://xie-l.github.io/img/avatar.jpg">
+    <!-- Canonical -->
+    <link rel="canonical" href="https://xie-l.github.io/blog/">
+    <!-- RSS Feed -->
+    <link rel="alternate" type="application/rss+xml" title="谢亮的博客" href="https://xie-l.github.io/feed.xml">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Pagefind UI -->
+    <link rel="stylesheet" href="../pagefind/pagefind-ui.css">
     <style>
         .blog-container {
             max-width: 1200px;
@@ -122,6 +143,11 @@
             <p>记录技术成长与生活感悟</p>
         </div>
 
+        <!-- Pagefind 全文搜索 -->
+        <div class="search-wrap">
+            <div id="search"></div>
+        </div>
+
         <div class="blog-categories">
             <a href="tech/" class="category-card">
                 <i class="fas fa-code"></i>
@@ -162,5 +188,25 @@
             <p>&copy; 2026 谢亮. All rights reserved.</p>
         </div>
     </footer>
+    <!-- Pagefind 搜索 JS -->
+    <script src="../pagefind/pagefind-ui.js"></script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            if (typeof PagefindUI !== 'undefined') {
+                new PagefindUI({ element: '#search', showSubResults: true, translations: {
+                    placeholder: '搜索文章…',
+                    zero_results: '未找到相关文章'
+                }});
+            }
+        });
+    </script>
+    <!-- 暗色模式切换 -->
+    <script>
+        (function() {
+            const saved = localStorage.getItem('theme') ||
+                (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            if (saved === 'dark') document.documentElement.classList.add('dark');
+        })();
+    </script>
 </body>
 </html>

@@ -4,6 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>文件管理 - 谢亮</title>
+    <meta name="description" content="谢亮的资源文件管理中心：照片、文档、学术资料统一管理。">
+    <meta name="author" content="谢亮">
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://xie-l.github.io/files/">
+    <meta property="og:title" content="文件管理 - 谢亮">
+    <meta property="og:description" content="谢亮的资源文件管理中心：照片、文档、学术资料统一管理。">
+    <meta property="og:image" content="https://xie-l.github.io/img/avatar.jpg">
+    <meta property="og:site_name" content="谢亮的个人主页">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="文件管理 - 谢亮">
+    <meta name="twitter:description" content="谢亮的资源文件管理中心：照片、文档、学术资料统一管理。">
+    <!-- Canonical -->
+    <link rel="canonical" href="https://xie-l.github.io/files/">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📁</text></svg>">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -258,5 +273,12 @@
             <p>&copy; 2026 谢亮. All rights reserved.</p>
         </div>
     </footer>
+    <script>
+        (function() {
+            const saved = localStorage.getItem('theme') ||
+                (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            if (saved === 'dark') document.documentElement.classList.add('dark');
+        })();
+    </script>
 </body>
 </html>
