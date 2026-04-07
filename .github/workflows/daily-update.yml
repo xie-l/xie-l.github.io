@@ -1,0 +1,71 @@
+name: 每日数据自动更新
+
+on:
+  schedule:
+    # 每天北京时间 8:00 运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-daily-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz lunardate
+
+      - name: 运行每日更新脚本
+        run: |
+          python scripts/daily_update.py
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          # 和风天气API密钥，需要在GitHub仓库Settings > Secrets and variables > Actions中设置
+
+      - name: 检查是否有更新
+        id: check_changes
+        run: |
+          if git diff --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "没有数据更新"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "检测到数据更新"
+          fi
+
+      - name: 提交更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git commit -m "chore: 自动更新每日数据
+          
+          - 更新今日三问
+          - 更新每日五词
+          - 更新今日数感
+          - 更新天气数据
+          - 更新时间戳"
+          git push
+
+      - name: 更新成功通知
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          echo "✅ 每日数据更新成功！"
+          echo "更新时间: $(date '+%Y-%m-%d %H:%M:%S')"
+
+      - name: 无需更新
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: |
+          echo "ℹ️ 暂无数据更新，跳过提交"
