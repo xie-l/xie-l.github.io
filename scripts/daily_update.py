@@ -2,6 +2,8 @@
 """
 每日数据自动更新脚本
 生成今日三问、每日五词、今日数感等数据
+
+数据池配置从 data/daily-config.json 读取，支持动态扩展。
 """
 
 import json
@@ -19,8 +21,20 @@ sys.path.insert(0, str(project_root))
 data_dir = project_root / 'data'
 data_dir.mkdir(exist_ok=True)
 
-# 每日三问题库
-DAILY_QUESTIONS_POOL = [
+# ── 从外部 JSON 配置文件加载数据池 ─────────────────────────────────────────
+_config_path = data_dir / 'daily-config.json'
+if _config_path.exists():
+    with open(_config_path, encoding='utf-8') as _f:
+        _cfg = json.load(_f)
+    DAILY_QUESTIONS_POOL = _cfg.get('questions_pool', [])
+    DAILY_KEYWORDS_POOL  = _cfg.get('keywords_pool', [])
+    DAILY_DATA_POOL      = _cfg.get('data_pool', [])
+    print(f'已从 daily-config.json 加载：{len(DAILY_QUESTIONS_POOL)} 问题 / '
+          f'{len(DAILY_KEYWORDS_POOL)} 关键词 / {len(DAILY_DATA_POOL)} 数据条目')
+else:
+    print('警告：daily-config.json 不存在，回退到内置数据池')
+    # ── 内置回退数据池（精简版，建议通过 daily-config.json 维护完整池）──
+    DAILY_QUESTIONS_POOL = [
     "今天最重要的三件事是什么？",
     "昨天有哪些收获可以优化到今天？",
     "今天可能遇到的最大挑战是什么？如何应对？",
@@ -230,6 +244,7 @@ DAILY_DATA_POOL = [
         "insight": "延长电解槽寿命可降低资本成本，每延长1万小时可降低氢气成本约0.1元/m³。"
     }
 ]
+    # ── 内置回退数据池结束 ─────────────────────────────────────────────────
 
 def generate_daily_questions():
     """生成今日三问"""
