@@ -256,17 +256,121 @@
         // 加载随笔列表
         async function loadThoughts() {
             try {
-                // 这里应该调用GitHub API获取文件列表
-                // 由于需要认证，暂时使用静态内容
-                document.getElementById('thought-list').innerHTML = `
-                    <div class="empty-state">
-                        <i class="fas fa-lightbulb"></i>
-                        <h3>随笔功能已启用</h3>
-                        <p>请在管理后台的「快速记录」模块中添加你的第一条随笔。</p>
+                const token = localStorage.getItem('github_token');
+                const owner = localStorage.getItem('github_owner');
+                const repo  = localStorage.getItem('github_repo');
+                
+                if (!token || !owner || !repo) {
+                    document.getElementById('thought-list').innerHTML = `
+                        <div class="empty-state">
+                            <i class="fas fa-lightbulb"></i>
+                            <h3>未登录</h3>
+                            <p>请先<a href="/admin/login.html" target="_blank">登录管理后台</a>以查看随笔。</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // 获取文件列表
+                const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/blog/thoughts`;
+                const response = await fetch(apiUrl, {
+                    headers: { 'Authorization': `token ${token}` }
+                });
+                
+                if (!response.ok) throw new Error('获取文件列表失败');
+                
+                const files = await response.json();
+                const htmlFiles = files.filter(f => f.type === 'file' && f.name.endsWith('.html') && f.name !== 'index.html');
+                
+                if (htmlFiles.length === 0) {
+                    document.getElementById('thought-list').innerHTML = `
+                        <div class="empty-state">
+                            <i class="fas fa-lightbulb"></i>
+                            <h3>暂无随笔记录</h3>
+                            <p>在管理后台的「快速记录」模块中，随时记录你的灵感和思考。</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // 按日期排序（最新的在前）
+                htmlFiles.sort((a, b) => new Date(b.name.substring(0, 10)) - new Date(a.name.substring(0, 10)));
+                
+                // 获取每个文件的内容
+                const thoughts = [];
+                for (const file of htmlFiles.slice(0, 20)) { // 限制为最近20条
+                    try {
+                        const fileResp = await fetch(file.download_url);
+                        if (!fileResp.ok) continue;
+                        
+                        const html = await fileResp.text();
+                        
+                        // 提取标题
+                        const titleMatch = html.match(/<title>(.*?) - 谢亮<\/title>/);
+                        const title = titleMatch ? titleMatch[1] : '（灵感片段）';
+                        
+                        // 提取日期
+                        const dateMatch = html.match(/<span><i class="fas fa-calendar"><\/i>(.*?)<\/span>/);
+                        const date = dateMatch ? dateMatch[1].trim() : file.name.substring(0, 10);
+                        
+                        // 提取分类
+                        const catMatch = html.match(/<span><i class="fas fa-folder"><\/i>(.*?)<\/span>/);
+                        const category = catMatch ? catMatch[1].trim() : '随笔思考';
+                        
+                        // 提取内容
+                        const contentMatch = html.match(/<div class="post-content">([\s\S]*?)<\/div>\s*<script>/);
+                        let content = '';
+                        if (contentMatch) {
+                            const contentHtml = contentMatch[1];
+                            const pMatches = contentHtml.match(/<p>([\s\S]*?)<\/p>/g);
+                            if (pMatches) {
+                                content = pMatches.map(p => p.replace(/<p>([\s\S]*?)<\/p>/, '$1').trim()).filter(p => !p.includes('class="post-tags"')).join('\n');
+                            }
+                        }
+                        
+                        // 提取标签
+                        const tagsMatch = html.match(/<div class="post-tags">([\s\S]*?)<\/div>/);
+                        let tags = [];
+                        if (tagsMatch) {
+                            const tagsHtml = tagsMatch[1];
+                            const tagMatches = tagsHtml.match(/<span class="tag">(.*?)<\/span>/g);
+                            if (tagMatches) {
+                                tags = tagMatches.map(t => t.replace(/<span class="tag">(.*?)<\/span>/, '$1'));
+                            }
+                        }
+                        
+                        thoughts.push({ title, date, category, content, tags, url: file.name });
+                    } catch (e) {
+                        console.error('加载文件失败:', file.name, e);
+                    }
+                }
+                
+                // 渲染列表
+                const listHtml = thoughts.map(t => `
+                    <div class="thought-item" onclick="showThoughtDetail('${t.title.replace(/'/g, "\'")}', '${t.content.replace(/'/g, "\'")}', '${t.date}', [${t.tags.map(tag => `'${tag.replace(/'/g, "\'")}'`).join(',')}])">
+                        <div class="thought-content">
+                            <div class="thought-text">${t.title}</div>
+                            <div class="thought-meta">
+                                <span class="thought-date"><i class="fas fa-calendar"></i> ${t.date}</span>
+                                <span class="thought-category"><i class="fas fa-folder"></i> ${t.category}</span>
+                                ${t.tags.length ? '<span class="thought-tags"><i class="fas fa-tags"></i> ' + t.tags.join(' / ') + '</span>' : ''}
+                            </div>
+                        </div>
                     </div>
-                `;
+                `).join('');
+                
+                document.getElementById('thought-list').innerHTML = listHtml;
+                
             } catch (error) {
                 console.error('加载随笔失败:', error);
+                document.getElementById('thought-list').innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-exclamation-circle"></i>
+                        <h3>加载失败</h3>
+                        <p>请刷新页面重试，或检查网络连接。</p>
+                        <button onclick="loadThoughts()" style="margin-top:15px;padding:8px 16px;background:var(--secondary-color);color:#fff;border:none;border-radius:5px;cursor:pointer;">重新加载</button>
+                    </div>
+                `;
             }
         }
         
