@@ -1163,12 +1163,14 @@
             </div>
             <!-- 元信息：标题 / 分类 / 标签 -->
             <div class="qr-meta">
-                <input class="qr-field" id="qrTitle" type="text" placeholder="文章标题（必填）" style="grid-column:1/-1">
+                <input class="qr-field" id="qrTitle" type="text" placeholder="文章标题（随笔思考可选）" style="grid-column:1/-1">
                 <select class="qr-field" id="qrCategory">
                     <option value="life">📅 生活日记</option>
                     <option value="books">📚 书籍阅读</option>
                     <option value="tech">💻 技术思考</option>
                     <option value="analysis">📊 数据分析</option>
+                    <option value="quotes">❝ 摘录记录</option>
+                    <option value="thoughts">💡 随笔思考（标题可选）</option>
                 </select>
                 <input class="qr-field" id="qrTags" type="text" placeholder="标签（逗号分隔，如：读书笔记,成长）" style="grid-column:2/-1">
             </div>
@@ -2159,8 +2161,8 @@
         });
 
         // ── 生成博客 HTML ──────────────────────────────────────
-        const CAT_NAMES = { life:'生活日记', books:'书籍阅读', tech:'技术思考', analysis:'数据分析' };
-        const CAT_ICONS = { life:'📅', books:'📚', tech:'💻', analysis:'📊' };
+        const CAT_NAMES = { life:'生活日记', books:'书籍阅读', tech:'技术思考', analysis:'数据分析', quotes:'摘录记录', thoughts:'随笔思考' };
+        const CAT_ICONS = { life:'📅', books:'📚', tech:'💻', analysis:'📊', quotes:'❝', thoughts:'💡' };
         function pad(n){ return String(n).padStart(2,'0'); }
 
         function buildBlogHTML(title, cat, tagList, content, now) {
@@ -2241,7 +2243,14 @@
         pubBtn.addEventListener('click', async function() {
             const title = titleEl.value.trim();
             const raw   = bodyEl.value.trim();
-            if (!title) { statusEl.textContent = '请填写文章标题'; titleEl.focus(); return; }
+            const cat   = catEl.value;
+            
+            // 验证逻辑：随笔思考(thoughts)标题可选，其他分类标题必填
+            if (!title && cat !== 'thoughts') { 
+                statusEl.textContent = '请填写文章标题（随笔思考可选）'; 
+                titleEl.focus(); 
+                return; 
+            }
             if (!raw)   { statusEl.textContent = '请写点内容'; bodyEl.focus(); return; }
 
             const token = localStorage.getItem('github_token');
@@ -2253,14 +2262,24 @@
                 return;
             }
 
-            const cat      = catEl.value;
             const tagList  = tagsEl.value.split(/[,，、;\s]+/).map(function(t){ return t.trim(); }).filter(Boolean);
             const now      = new Date();
             const stamp    = now.getFullYear() + pad(now.getMonth()+1);
-            const safeTitle = title.replace(/[<>:"/\\|?*\u0000-\u001f]/g,'').slice(0,30);
-            const filename  = safeTitle + '（' + stamp + '）.html';
+            
+            // 处理标题：随笔思考无标题时使用内容前20字
+            const displayTitle = title || (cat === 'thoughts' ? raw.substring(0, 20).replace(/\n/g, ' ') + '...' : '无标题');
+            const safeTitle = displayTitle.replace(/[<>:"/\\|?*\u0000-\u001f]/g,'').slice(0,30);
+            
+            // 生成文件名：有标题用标题，无标题用日期
+            let filename;
+            if (title) {
+                filename = safeTitle + '（' + stamp + '）.html';
+            } else {
+                filename = now.getFullYear() + '-' + pad(now.getMonth()+1) + '-' + pad(now.getDate()) + '（' + stamp + '）.html';
+            }
+            
             const path      = 'blog/' + cat + '/' + filename;
-            const html      = buildBlogHTML(title, cat, tagList, raw, now);
+            const html      = buildBlogHTML(displayTitle, cat, tagList, raw, now);
             const encoded   = btoa(unescape(encodeURIComponent(html)));
 
             pubBtn.disabled = true;
