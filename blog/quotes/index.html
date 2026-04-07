@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>摘录记录 - 谢亮的博客</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container {
+            max-width: 900px;
+            margin: 100px auto 50px;
+            padding: 0 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+        .back-link:hover { color: var(--primary-color); }
+        .page-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .page-title {
+            font-size: 28px;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        .page-subtitle {
+            color: var(--text-light);
+            font-size: 16px;
+        }
+        
+        .quote-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .quote-item {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: var(--shadow-md);
+            transition: var(--transition);
+            border-left: 4px solid var(--secondary-color);
+        }
+        
+        .quote-item:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+        }
+        
+        .quote-source {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 15px;
+            font-size: 14px;
+            color: var(--text-light);
+        }
+        
+        .quote-source i {
+            color: var(--secondary-color);
+        }
+        
+        .quote-source a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .quote-source a:hover {
+            text-decoration: underline;
+        }
+        
+        .quote-content {
+            font-size: 17px;
+            line-height: 1.8;
+            color: var(--text-color);
+            margin-bottom: 20px;
+            padding: 20px;
+            background: rgba(6, 182, 212, 0.05);
+            border-radius: 10px;
+            border-left: 3px solid var(--secondary-color);
+        }
+        
+        .quote-content blockquote {
+            margin: 0;
+            padding: 0;
+            border: none;
+            background: none;
+            font-style: italic;
+        }
+        
+        .quote-reflection {
+            background: rgba(16, 185, 129, 0.05);
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 15px;
+            line-height: 1.7;
+        }
+        
+        .quote-reflection strong {
+            color: var(--success-color);
+            font-weight: 600;
+        }
+        
+        .quote-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+        }
+        
+        .quote-date {
+            font-size: 13px;
+            color: var(--text-light);
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .quote-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            font-size: 12px;
+            background: var(--secondary-color);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        
+        .tag:hover {
+            background: var(--primary-color);
+            transform: translateY(-1px);
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-light);
+        }
+        
+        .empty-state i {
+            font-size: 48px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+        
+        .empty-state h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .empty-state p {
+            font-size: 15px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        @media (max-width: 768px) {
+            .blog-container { margin-top: 80px; }
+            .quote-item { padding: 20px; }
+            .quote-content { padding: 15px; font-size: 16px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="../" class="back-link">
+            <i class="fas fa-arrow-left"></i> 返回博客首页
+        </a>
+        
+        <div class="page-header">
+            <h1 class="page-title"><i class="fas fa-quote-left"></i> 摘录记录</h1>
+            <p class="page-subtitle">网上看到的精彩内容，一键收藏</p>
+        </div>
+        
+        <div class="quote-list" id="quote-list">
+            <!-- 内容将由JavaScript动态加载 -->
+        </div>
+        
+        <div class="empty-state" id="empty-state" style="display:none;">
+            <i class="fas fa-quote-left"></i>
+            <h3>暂无摘录记录</h3>
+            <p>在管理后台使用「快速记录」功能，随时保存你在网上看到的精彩内容。</p>
+        </div>
+    </div>
+    
+    <script src="../../js/lazy-load.js"></script>
+    <script>
+        // 加载摘录列表
+        async function loadQuotes() {
+            try {
+                // 这里应该调用GitHub API获取文件列表
+                // 由于需要认证，暂时使用静态内容
+                document.getElementById('quote-list').innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-quote-left"></i>
+                        <h3>摘录功能已启用</h3>
+                        <p>请在管理后台的「快速记录」模块中添加你的第一条摘录。</p>
+                    </div>
+                `;
+            } catch (error) {
+                console.error('加载摘录失败:', error);
+            }
+        }
+        
+        // 页面加载完成后执行
+        document.addEventListener('DOMContentLoaded', loadQuotes);
+    </script>
+</body>
+</html>

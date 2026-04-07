@@ -746,3 +746,269 @@ window.previewBlog = function() {
 window.saveDraft = function() {
     if (typeof blogManager !== 'undefined') blogManager.saveDraft();
 };
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// 快速记录功能（摘录记录 + 随笔思考）
+// ═══════════════════════════════════════════════════════════════════════════════
+
+/**
+ * 显示快速记录表单
+ * @param {string} type - 'quote' 或 'thought'
+ */
+function showCaptureForm(type) {
+    // 隐藏所有表单
+    document.querySelectorAll('.capture-form').forEach(form => {
+        form.style.display = 'none';
+    });
+    
+    // 显示对应表单
+    const formId = type === 'quote' ? 'quote-form' : 'thought-form';
+    const form = document.getElementById(formId);
+    form.style.display = 'block';
+    
+    // 滚动到表单位置
+    form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    
+    // 聚焦到主要内容输入框
+    const focusId = type === 'quote' ? 'quote-content' : 'thought-content';
+    setTimeout(() => document.getElementById(focusId).focus(), 300);
+    
+    // 显示最近记录面板
+    document.getElementById('recent-captures').style.display = 'block';
+    loadRecentCaptures(type);
+}
+
+/**
+ * 隐藏快速记录表单
+ */
+function hideCaptureForm() {
+    document.querySelectorAll('.capture-form').forEach(form => {
+        form.style.display = 'none';
+    });
+    document.getElementById('recent-captures').style.display = 'none';
+}
+
+/**
+ * 发布摘录记录
+ */
+async function publishQuote() {
+    const source = document.getElementById('quote-source').value.trim();
+    const content = document.getElementById('quote-content').value.trim();
+    const reflection = document.getElementById('quote-reflection').value.trim();
+    const tags = document.getElementById('quote-tags').value.trim();
+    
+    // 验证必填项
+    if (!content) {
+        showAlert('quick-capture', '请填写摘录内容', 'error');
+        return;
+    }
+    
+    const submitBtn = event.target;
+    const originalHTML = submitBtn.innerHTML;
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 发布中...';
+    submitBtn.disabled = true;
+    
+    try {
+        const now = new Date();
+        const dateStr = now.toISOString().split('T')[0];
+        const timeStr = now.toTimeString().split(' ')[0].substring(0, 5);
+        
+        // 生成文件名
+        let filename;
+        if (source) {
+            try {
+                const url = new URL(source);
+                const domain = url.hostname.replace(/[^a-zA-Z0-9]/g, '-');
+                filename = `${dateStr}-${domain}.md`;
+            } catch {
+                filename = `${dateStr}-quote.md`;
+            }
+        } else {
+            filename = `${dateStr}-quote.md`;
+        }
+        
+        // 生成标题
+        const title = source ? `来自 ${new URL(source).hostname} 的摘录` : '精彩摘录';
+        
+        // 处理标签
+        const tagList = tags ? tags.split(/[,，\s]+/).filter(t => t.trim()) : [];
+        const tagsStr = tagList.length > 0 ? tagList.join(', ') : '';
+        
+        // 生成文件内容
+        let fileContent = `---\ntitle: "${title}"\ndate: ${now.toISOString()}\ncategory: quotes\n`;
+        if (source) fileContent += `source: "${source}"\n`;
+        if (tagsStr) fileContent += `tags: [${tagsStr}]\n`;
+        fileContent += `---\n\n`;
+        
+        // 添加引用内容
+        fileContent += `> ${content.replace(/\n/g, '\n> ')}\n\n`;
+        
+        // 添加感悟
+        if (reflection) {
+            fileContent += `**摘录感悟**: ${reflection}\n`;
+        }
+        
+        // 创建文件
+        await createOrUpdateFile(
+            `blog/quotes/${filename}`,
+            fileContent,
+            `添加摘录: ${title}`
+        );
+        
+        showAlert('quick-capture', '✓ 摘录发布成功！约1分钟后可见。', 'success');
+        
+        // 清空表单
+        document.getElementById('quote-source').value = '';
+        document.getElementById('quote-content').value = '';
+        document.getElementById('quote-reflection').value = '';
+        document.getElementById('quote-tags').value = '';
+        
+        // 隐藏表单
+        setTimeout(hideCaptureForm, 2000);
+        
+    } catch (error) {
+        showAlert('quick-capture', `发布失败: ${error.message}`, 'error');
+    } finally {
+        submitBtn.innerHTML = originalHTML;
+        submitBtn.disabled = false;
+    }
+}
+
+/**
+ * 发布随笔思考
+ */
+async function publishThought() {
+    const title = document.getElementById('thought-title').value.trim();
+    const content = document.getElementById('thought-content').value.trim();
+    const tags = document.getElementById('thought-tags').value.trim();
+    
+    // 验证必填项
+    if (!content) {
+        showAlert('quick-capture', '请填写思考内容', 'error');
+        return;
+    }
+    
+    const submitBtn = event.target;
+    const originalHTML = submitBtn.innerHTML;
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> 发布中...';
+    submitBtn.disabled = true;
+    
+    try {
+        const now = new Date();
+        const dateStr = now.toISOString().split('T')[0];
+        const timeStr = now.toTimeString().split(' ')[0].substring(0, 5);
+        
+        // 如果标题为空，使用内容前20字作为显示标题
+        const displayTitle = title || content.substring(0, 20).replace(/\n/g, ' ') + '...';
+        
+        // 生成文件名
+        let filename;
+        if (title) {
+            const slug = title.substring(0, 30).replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g, '-');
+            filename = `${dateStr}-${slug}.md`;
+        } else {
+            filename = `${dateStr}.md`;
+        }
+        
+        // 处理标签
+        const tagList = tags ? tags.split(/[,，\s]+/).filter(t => t.trim()) : [];
+        const tagsStr = tagList.length > 0 ? tagList.join(', ') : '';
+        
+        // 生成文件内容
+        let fileContent = `---\ntitle: "${title}"\ndate: ${now.toISOString()}\ncategory: thoughts\n`;
+        if (tagsStr) fileContent += `tags: [${tagsStr}]\n`;
+        fileContent += `---\n\n${content}\n`;
+        
+        // 创建文件
+        await createOrUpdateFile(
+            `blog/thoughts/${filename}`,
+            fileContent,
+            `添加随笔: ${displayTitle}`
+        );
+        
+        showAlert('quick-capture', '✓ 随笔发布成功！约1分钟后可见。', 'success');
+        
+        // 清空表单
+        document.getElementById('thought-title').value = '';
+        document.getElementById('thought-content').value = '';
+        document.getElementById('thought-tags').value = '';
+        
+        // 隐藏表单
+        setTimeout(hideCaptureForm, 2000);
+        
+    } catch (error) {
+        showAlert('quick-capture', `发布失败: ${error.message}`, 'error');
+    } finally {
+        submitBtn.innerHTML = originalHTML;
+        submitBtn.disabled = false;
+    }
+}
+
+/**
+ * 加载最近记录
+ * @param {string} type - 'quote' 或 'thought'
+ */
+async function loadRecentCaptures(type) {
+    try {
+        const category = type === 'quote' ? 'quotes' : 'thoughts';
+        const path = `blog/${category}`;
+        
+        // 获取文件列表
+        const files = await listFiles(path);
+        if (!files || files.length === 0) {
+            document.getElementById('recent-captures-list').innerHTML = '<p style="color:var(--text3);text-align:center;padding:20px;">暂无记录</p>';
+            return;
+        }
+        
+        // 取最近5条（按修改时间排序）
+        const recentFiles = files
+            .sort((a, b) => new Date(b.lastModified || 0) - new Date(a.lastModified || 0))
+            .slice(0, 5);
+        
+        const listHtml = await Promise.all(recentFiles.map(async file => {
+            try {
+                const fileData = await getFileContent(file.path);
+                if (!fileData) return '';
+                
+                // 解析front matter
+                const frontMatter = fileData.content.match(/^---\n([\s\S]*?)\n---/);
+                if (!frontMatter) return '';
+                
+                const meta = {};
+                frontMatter[1].split('\n').forEach(line => {
+                    const [key, ...valueParts] = line.split(':');
+                    if (key && valueParts.length > 0) {
+                        meta[key.trim()] = valueParts.join(':').trim().replace(/^"|"$/g, '');
+                    }
+                });
+                
+                const title = meta.title || (type === 'quote' ? '摘录' : '随笔');
+                const date = new Date(meta.date).toLocaleString('zh-CN', {
+                    month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit'
+                });
+                
+                return `
+                    <div class="file-item">
+                        <div class="file-item-head">
+                            <i class="fas fa-${type === 'quote' ? 'quote-left' : 'lightbulb'}" style="color:var(--accent);"></i>
+                            <div style="flex:1;">
+                                <div style="font-weight:600;font-size:14px;">${title || '（无标题）'}</div>
+                                <div style="font-size:12px;color:var(--text3);">${date}</div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            } catch {
+                return '';
+            }
+        }));
+        
+        document.getElementById('recent-captures-list').innerHTML = listHtml.join('');
+        
+    } catch (error) {
+        console.warn('加载最近记录失败:', error);
+        document.getElementById('recent-captures-list').innerHTML = '<p style="color:var(--text3);text-align:center;padding:20px;">加载失败</p>';
+    }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════

@@ -148,6 +148,20 @@
         .file-list { margin-top: 20px; display: flex; flex-direction: column; gap: 10px; }
         .file-item { background: #fff; border: 1.5px solid var(--border); border-radius: 10px; padding: 14px 16px; }
         .file-item-head { display: flex; align-items: center; gap: 12px; }
+
+        /* ───── 快速记录 ───── */
+        .quick-capture-btns { display: flex; gap: 12px; margin-bottom: 24px; }
+        @media (max-width: 600px) { .quick-capture-btns { flex-direction: column; } }
+        .quick-capture-btns .btn { flex: 1; justify-content: center; padding: 12px; font-size: 14px; }
+        .quick-capture-btns .btn i { font-size: 16px; }
+        
+        .capture-form { animation: fadeIn 0.3s ease-in; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        
+        .capture-form .form-textarea { min-height: 200px; }
+        .capture-form .form-textarea[rows="6"] { min-height: 150px; }
+        .capture-form .form-textarea[rows="8"] { min-height: 200px; }
+        .capture-form .form-textarea[rows="3"] { min-height: 80px; }
         .file-item-icon { font-size: 22px; color: var(--accent); width: 28px; text-align: center; flex-shrink: 0; }
         .file-item-info { flex: 1; min-width: 0; }
         .file-item-name { font-size: 14px; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -198,6 +212,9 @@
     <nav class="topbar-nav">
         <button class="nav-btn active" data-section="blog-section">
             <i class="fas fa-pen-nib"></i> 撰写博客
+        </button>
+        <button class="nav-btn" data-section="quick-capture">
+            <i class="fas fa-bolt"></i> 快速记录
         </button>
         <button class="nav-btn" data-section="files-section">
             <i class="fas fa-cloud-upload-alt"></i> 上传文件
@@ -317,6 +334,106 @@
                     </button>
                 </div>
             </form>
+        </div>
+    </section>
+
+    <!-- ═══════════════ 快速记录 ═══════════════ -->
+    <section id="quick-capture" class="section">
+
+        <div id="capture-alert" class="alert"></div>
+
+        <div class="card">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-bolt"></i> 快速记录</span>
+                <span style="font-size:12px;color:var(--text3)">灵感闪现 · 即时记录</span>
+            </div>
+            <div class="card-body">
+                <div class="quick-capture-btns" style="display:flex;gap:12px;margin-bottom:24px;">
+                    <button type="button" class="btn btn-primary" onclick="showCaptureForm('quote')" style="flex:1;justify-content:center;padding:12px;">
+                        <i class="fas fa-quote-left"></i> 摘录记录
+                    </button>
+                    <button type="button" class="btn btn-success" onclick="showCaptureForm('thought')" style="flex:1;justify-content:center;padding:12px;">
+                        <i class="fas fa-lightbulb"></i> 随笔思考
+                    </button>
+                </div>
+                
+                <!-- 摘录记录表单 -->
+                <div id="quote-form" class="capture-form" style="display:none;">
+                    <div class="form-group">
+                        <label class="form-label">来源链接 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                        <input type="url" id="quote-source" class="form-input" placeholder="https://...（粘贴原文链接）">
+                        <div class="form-hint">记录知识来源，方便日后溯源</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">摘录内容 <span style="color:var(--danger)">*</span></label>
+                        <textarea id="quote-content" class="form-textarea" rows="6" placeholder="粘贴你看到的精彩内容...&#10;&#10;支持引用格式，自动识别为引用块"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">个人感悟 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                        <textarea id="quote-reflection" class="form-textarea" rows="3" placeholder="这段内容让你想到了什么？"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">标签 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                        <input type="text" id="quote-tags" class="form-input" placeholder="认知 成长 氢能（空格分隔）" autocomplete="off">
+                        <div class="form-hint">中英文逗号/顿号/空格均可分隔</div>
+                    </div>
+                    <div class="editor-footer">
+                        <div class="editor-meta">
+                            <span><i class="fas fa-info-circle"></i> 分类: <strong>摘录记录</strong></span>
+                        </div>
+                        <div class="editor-actions">
+                            <button type="button" class="btn btn-ghost" onclick="hideCaptureForm()">
+                                <i class="fas fa-times"></i> 取消
+                            </button>
+                            <button type="button" class="btn btn-primary" onclick="publishQuote()">
+                                <i class="fas fa-paper-plane"></i> 发布摘录
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 随笔思考表单 -->
+                <div id="thought-form" class="capture-form" style="display:none;">
+                    <div class="form-group">
+                        <label class="form-label">标题 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                        <input type="text" id="thought-title" class="form-input" placeholder="给这个灵感起个名字（可留空，将自动提取内容前20字）" autocomplete="off">
+                        <div class="form-hint">随笔的标题是可选的，系统会根据内容自动生成</div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">思考内容 <span style="color:var(--danger)">*</span></label>
+                        <textarea id="thought-content" class="form-textarea" rows="8" placeholder="记录你的灵感、想法、顿悟...&#10;&#10;可以是一句话，也可以是长篇思考。支持Markdown格式。"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">标签 <span style="font-weight:400;color:var(--text3)">&nbsp;（可选）</span></label>
+                        <input type="text" id="thought-tags" class="form-input" placeholder="灵感 产业 认知（空格分隔）" autocomplete="off">
+                        <div class="form-hint">中英文逗号/顿号/空格均可分隔</div>
+                    </div>
+                    <div class="editor-footer">
+                        <div class="editor-meta">
+                            <span><i class="fas fa-info-circle"></i> 分类: <strong>随笔思考</strong></span>
+                        </div>
+                        <div class="editor-actions">
+                            <button type="button" class="btn btn-ghost" onclick="hideCaptureForm()">
+                                <i class="fas fa-times"></i> 取消
+                            </button>
+                            <button type="button" class="btn btn-success" onclick="publishThought()">
+                                <i class="fas fa-paper-plane"></i> 发布思考
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 最近记录 -->
+        <div class="card" id="recent-captures" style="display:none;">
+            <div class="card-header">
+                <span class="card-title"><i class="fas fa-history"></i> 最近记录</span>
+                <span style="font-size:12px;color:var(--text3)">最近5条快速记录</span>
+            </div>
+            <div class="card-body">
+                <div id="recent-captures-list"></div>
+            </div>
         </div>
     </section>
 

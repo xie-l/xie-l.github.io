@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>随笔思考 - 谢亮的博客</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container {
+            max-width: 900px;
+            margin: 100px auto 50px;
+            padding: 0 20px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            transition: var(--transition);
+        }
+        .back-link:hover { color: var(--primary-color); }
+        .page-header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .page-title {
+            font-size: 28px;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+        .page-subtitle {
+            color: var(--text-light);
+            font-size: 16px;
+        }
+        
+        .thought-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .thought-item {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: var(--shadow-md);
+            transition: var(--transition);
+            cursor: pointer;
+        }
+        
+        .thought-item:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+        }
+        
+        .thought-title {
+            font-size: 20px;
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            line-height: 1.4;
+            font-weight: 600;
+        }
+        
+        .thought-title.no-title {
+            color: var(--text-light);
+            font-style: italic;
+            font-size: 18px;
+        }
+        
+        .thought-content {
+            font-size: 16px;
+            line-height: 1.8;
+            color: var(--text-color);
+            margin-bottom: 20px;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .thought-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            font-size: 13px;
+            color: var(--text-light);
+        }
+        
+        .thought-date {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .thought-wordcount {
+            background: rgba(6, 182, 212, 0.1);
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        
+        .thought-tags {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        
+        .tag {
+            font-size: 12px;
+            background: var(--success-color);
+            color: white;
+            padding: 4px 10px;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+        
+        .tag:hover {
+            background: var(--primary-color);
+            transform: translateY(-1px);
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-light);
+        }
+        
+        .empty-state i {
+            font-size: 48px;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+        
+        .empty-state h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .empty-state p {
+            font-size: 15px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        
+        .thought-detail {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.8);
+            z-index: 1000;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        .thought-detail-content {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 40px;
+            max-width: 800px;
+            margin: 50px auto;
+            position: relative;
+        }
+        
+        .close-detail {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: var(--text-light);
+        }
+        
+        .detail-title {
+            font-size: 24px;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            padding-right: 40px;
+        }
+        
+        .detail-content {
+            font-size: 17px;
+            line-height: 1.8;
+            margin-bottom: 30px;
+            white-space: pre-wrap;
+        }
+        
+        .detail-meta {
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        @media (max-width: 768px) {
+            .blog-container { margin-top: 80px; }
+            .thought-item { padding: 20px; }
+            .thought-detail-content { padding: 20px; margin: 20px auto; }
+            .detail-title { font-size: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="../" class="back-link">
+            <i class="fas fa-arrow-left"></i> 返回博客首页
+        </a>
+        
+        <div class="page-header">
+            <h1 class="page-title"><i class="fas fa-lightbulb"></i> 随笔思考</h1>
+            <p class="page-subtitle">灵感闪现的瞬间，即时记录</p>
+        </div>
+        
+        <div class="thought-list" id="thought-list">
+            <!-- 内容将由JavaScript动态加载 -->
+        </div>
+        
+        <div class="empty-state" id="empty-state" style="display:none;">
+            <i class="fas fa-lightbulb"></i>
+            <h3>暂无随笔记录</h3>
+            <p>在管理后台的「快速记录」模块中，随时记录你的灵感和思考。</p>
+        </div>
+    </div>
+    
+    <!-- 详情弹窗 -->
+    <div class="thought-detail" id="thought-detail">
+        <div class="thought-detail-content">
+            <button class="close-detail" onclick="closeThoughtDetail()">
+                <i class="fas fa-times"></i>
+            </button>
+            <h2 class="detail-title" id="detail-title"></h2>
+            <div class="detail-content" id="detail-content"></div>
+            <div class="detail-meta">
+                <div class="thought-date" id="detail-date"></div>
+                <div class="thought-tags" id="detail-tags"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="../../js/lazy-load.js"></script>
+    <script>
+        // 加载随笔列表
+        async function loadThoughts() {
+            try {
+                // 这里应该调用GitHub API获取文件列表
+                // 由于需要认证，暂时使用静态内容
+                document.getElementById('thought-list').innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-lightbulb"></i>
+                        <h3>随笔功能已启用</h3>
+                        <p>请在管理后台的「快速记录」模块中添加你的第一条随笔。</p>
+                    </div>
+                `;
+            } catch (error) {
+                console.error('加载随笔失败:', error);
+            }
+        }
+        
+        // 显示详情
+        function showThoughtDetail(title, content, date, tags) {
+            document.getElementById('detail-title').textContent = title || '（灵感片段）';
+            document.getElementById('detail-content').textContent = content;
+            document.getElementById('detail-date').innerHTML = `<i class="fas fa-calendar"></i> ${date}`;
+            
+            const tagsHtml = tags ? tags.map(tag => `<span class="tag">${tag}</span>`).join('') : '';
+            document.getElementById('detail-tags').innerHTML = tagsHtml;
+            
+            document.getElementById('thought-detail').style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        }
+        
+        // 关闭详情
+        function closeThoughtDetail() {
+            document.getElementById('thought-detail').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+        
+        // 点击背景关闭
+        document.getElementById('thought-detail').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeThoughtDetail();
+            }
+        });
+        
+        // 页面加载完成后执行
+        document.addEventListener('DOMContentLoaded', loadThoughts);
+    </script>
+</body>
+</html>
