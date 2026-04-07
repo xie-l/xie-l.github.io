@@ -1,6 +1,42 @@
+// ====================
+// 暗色模式初始化（在 DOMContentLoaded 之前尽早执行）
+// ====================
+(function() {
+    const saved = localStorage.getItem('theme') ||
+        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    if (saved === 'dark') document.documentElement.classList.add('dark');
+})();
+
 // 等待DOM加载完成
 document.addEventListener('DOMContentLoaded', function() {
-    
+
+    // ====================
+    // 暗色模式切换按钮
+    // ====================
+
+    const themeToggle = document.getElementById('themeToggle');
+    const html = document.documentElement;
+
+    function updateToggleIcon() {
+        if (!themeToggle) return;
+        const isDark = html.classList.contains('dark');
+        themeToggle.innerHTML = isDark
+            ? '<i class="fas fa-sun"></i>'
+            : '<i class="fas fa-moon"></i>';
+        themeToggle.title = isDark ? '切换浅色模式' : '切换深色模式';
+    }
+
+    updateToggleIcon();
+
+    if (themeToggle) {
+        themeToggle.addEventListener('click', function() {
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            updateToggleIcon();
+        });
+    }
+
     // ====================
     // 移动端菜单切换
     // ====================
