@@ -69,19 +69,23 @@ jobs:
 
           for city in CITIES:
               try:
+                  # 使用新版 API 参数（current 替代已弃用的 current_weather）
                   url = (
                       f'https://api.open-meteo.com/v1/forecast'
                       f'?latitude={city["lat"]}&longitude={city["lon"]}'
-                      f'&current_weather=true'
+                      f'&current=temperature_2m,weathercode'
                       f'&daily=weathercode,temperature_2m_max,temperature_2m_min'
                       f'&timezone=Asia%2FShanghai&forecast_days=7'
                   )
-                  req = urllib.request.Request(url, headers={'User-Agent': 'curl/7.79.1'})
-                  with urllib.request.urlopen(req, timeout=12) as r:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req, timeout=15) as r:
                       data = json.load(r)
 
-                  cur  = data.get('current_weather', {})
-                  cur_icon, cur_desc = wmo(cur.get('weathercode', 0))
+                  # 新版 API 返回 current 而非 current_weather
+                  cur = data.get('current', data.get('current_weather', {}))
+                  temp_val = cur.get('temperature_2m', cur.get('temperature'))
+                  code_val = cur.get('weathercode', 0)
+                  cur_icon, cur_desc = wmo(code_val)
 
                   daily = data.get('daily', {})
                   dates = daily.get('time', [])
@@ -103,14 +107,14 @@ jobs:
                   result[city['q']] = {
                       'name':    city['name'],
                       'current': {
-                          'temp': round(cur.get('temperature', 0)),
+                          'temp': round(temp_val) if temp_val is not None else '--',
                           'icon': cur_icon,
                           'desc': cur_desc,
                       },
                       'daily':   forecast,
                       'updated': now_utc,
                   }
-                  print(f"[OK] {city['name']}: {cur.get('temperature')}°C {cur_desc}, 7天={len(forecast)}条")
+                  print(f"[OK] {city['name']}: {temp_val}°C {cur_desc}, 7天={len(forecast)}条")
 
               except Exception as e:
                   print(f"[ERR] {city['name']}: {e}")
