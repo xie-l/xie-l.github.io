@@ -29,18 +29,30 @@
             background: rgba(52,152,219,0.09);
             padding: 2px 12px; border-radius: 12px;
         }
-        .weather-rows { display: flex; flex-direction: column; gap: 0; }
-        .weather-row {
-            display: flex; align-items: center; gap: 8px;
-            padding: 7px 2px;
-            border-bottom: 1px solid rgba(0,0,0,0.06);
-            font-size: 13px;
+        /* ===== 城市天气 7天预报 Widget ===== */
+        .wt-tabs { display: flex; gap: 4px; margin-bottom: 10px; flex-wrap: wrap; }
+        .wt-tab {
+            font-size: 11px; padding: 3px 8px; border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1); cursor: pointer;
+            color: var(--text-light); background: none;
+            transition: all 0.18s; line-height: 1.4;
         }
-        .weather-row:last-child { border-bottom: none; }
-        .wt-city { font-weight: 600; color: var(--primary-color); width: 54px; flex-shrink: 0; white-space: nowrap; }
-        .wt-icon { font-size: 16px; width: 22px; text-align: center; flex-shrink: 0; }
-        .wt-desc { flex: 1; color: var(--text-light); font-size: 12px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
-        .wt-temp { font-weight: 700; color: var(--secondary-color); white-space: nowrap; font-size: 13px; }
+        .wt-tab.active { background: var(--primary-color); color: #fff; border-color: var(--primary-color); }
+        .wt-tab:hover:not(.active) { border-color: rgba(255,255,255,0.25); color: var(--text-secondary); }
+        .wt-today {
+            display: flex; align-items: center; gap: 10px;
+            padding: 8px 0 10px; border-bottom: 1px solid var(--border-color);
+        }
+        .wt-today-icon { font-size: 32px; line-height: 1; flex-shrink: 0; }
+        .wt-today-temp { font-size: 26px; font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; line-height: 1.1; }
+        .wt-today-desc { font-size: 12px; color: var(--text-light); margin-top: 3px; }
+        .wt-forecast { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; margin-top: 8px; }
+        .wt-day { text-align: center; padding: 5px 2px; border-radius: 6px; }
+        .wt-day.wt-day-today { background: rgba(37,99,235,0.08); }
+        .wt-day-name { font-size: 10px; color: var(--text-light); white-space: nowrap; }
+        .wt-day-icon { font-size: 14px; margin: 3px 0 2px; line-height: 1; }
+        .wt-day-max { font-size: 11px; font-weight: 600; color: var(--text-primary); }
+        .wt-day-min { font-size: 10px; color: var(--text-light); margin-top: 1px; }
         .wt-loading { text-align: center; padding: 10px 0; font-size: 13px; color: var(--text-light); }
         /* ===== 写作统计 & 微信读书 Widget ===== */
         .bs-row {
@@ -1147,9 +1159,10 @@
                     <!-- 城市天气 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">
-                            <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气
+                            <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气 · 7天预报
                         </h3>
-                        <div class="weather-rows" id="w-weather">
+                        <div id="wt-tabs" class="wt-tabs"></div>
+                        <div id="w-weather">
                             <div class="wt-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
                         </div>
                         <div id="w-weather-time" style="font-size:11px;color:var(--text-light);margin-top:6px;opacity:.7;"></div>
@@ -1504,29 +1517,76 @@
 
     // ---------- 天气（读 GitHub Actions 预取的本地 JSON，无 CORS 问题）----------
     const WEATHER_CITIES = ['Beijing','Shanghai','Nanchang','Xining','Harbin'];
+    const WEEK_ZH = ['周日','周一','周二','周三','周四','周五','周六'];
+    let _wtData   = {};
+    let _wtActive = 'Beijing';
+
+    function renderWeatherCity(cityKey) {
+        _wtActive = cityKey;
+        const d = _wtData[cityKey];
+        const container = document.getElementById('w-weather');
+        if (!d) { container.innerHTML = '<div class="wt-loading">暂无数据</div>'; return; }
+
+        const cur   = d.current || {};
+        const daily = d.daily   || [];
+
+        // 当日大图
+        const todayHTML =
+            '<div class="wt-today">' +
+                '<div class="wt-today-icon">' + (cur.icon || '🌡️') + '</div>' +
+                '<div>' +
+                    '<div class="wt-today-temp">' + (cur.temp !== undefined ? cur.temp + '°C' : '--') + '</div>' +
+                    '<div class="wt-today-desc">'  + (cur.desc || '')                                 + '</div>' +
+                '</div>' +
+            '</div>';
+
+        // 7天预报网格
+        const forecastHTML =
+            '<div class="wt-forecast">' +
+            daily.slice(0, 7).map(function(day, i) {
+                var dt      = new Date(day.date + 'T00:00:00+08:00');
+                var dayName = i === 0 ? '今天' : WEEK_ZH[dt.getDay()];
+                return '<div class="wt-day' + (i === 0 ? ' wt-day-today' : '') + '">' +
+                    '<div class="wt-day-name">' + dayName         + '</div>' +
+                    '<div class="wt-day-icon">' + (day.icon||'🌡️') + '</div>' +
+                    '<div class="wt-day-max">'  + day.max + '°'   + '</div>' +
+                    '<div class="wt-day-min">'  + day.min + '°'   + '</div>' +
+                '</div>';
+            }).join('') +
+            '</div>';
+
+        container.innerHTML = todayHTML + forecastHTML;
+
+        // 更新 tab 高亮
+        document.querySelectorAll('.wt-tab').forEach(function(btn) {
+            btn.classList.toggle('active', btn.dataset.city === cityKey);
+        });
+    }
 
     function renderWeather(data) {
-        const container = document.getElementById('w-weather');
-        container.innerHTML = WEATHER_CITIES.map(function(q) {
-            const d = data[q];
-            if (!d || d.temp === '--') {
-                return '<div class="weather-row">' +
-                    '<span class="wt-city">' + (d ? d.name : q) + '</span>' +
-                    '<span class="wt-icon">🌡️</span>' +
-                    '<span class="wt-desc" style="color:var(--text-light)">暂无数据</span>' +
-                    '</div>';
-            }
-            return '<div class="weather-row">' +
-                '<span class="wt-city">' + d.name + '</span>' +
-                '<span class="wt-icon">' + d.icon + '</span>' +
-                '<span class="wt-desc">' + d.desc + '</span>' +
-                '<span class="wt-temp">' + d.temp + '°C</span>' +
-                '</div>';
-        }).join('');
-        // 显示数据更新时间（取任意城市的 updated 字段）
-        const timeEl = document.getElementById('w-weather-time');
+        _wtData = data;
+
+        // 渲染城市 tabs
+        var tabsEl = document.getElementById('wt-tabs');
+        if (tabsEl) {
+            tabsEl.innerHTML = WEATHER_CITIES.map(function(q) {
+                var name = (data[q] && data[q].name) ? data[q].name : q;
+                return '<button class="wt-tab' + (q === _wtActive ? ' active' : '') +
+                       '" data-city="' + q + '">' + name + '</button>';
+            }).join('');
+            tabsEl.addEventListener('click', function(e) {
+                if (e.target.classList.contains('wt-tab')) {
+                    renderWeatherCity(e.target.dataset.city);
+                }
+            });
+        }
+
+        renderWeatherCity(_wtActive);
+
+        // 显示数据更新时间
+        var timeEl = document.getElementById('w-weather-time');
         if (timeEl) {
-            const firstUpdated = Object.values(data).map(d => d && d.updated).find(Boolean);
+            var firstUpdated = Object.values(data).map(function(d) { return d && d.updated; }).find(Boolean);
             timeEl.textContent = firstUpdated ? '更新于 ' + fmtBJ(firstUpdated) + '（北京时间）' : '';
         }
     }

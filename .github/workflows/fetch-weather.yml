@@ -2,8 +2,8 @@ name: Fetch Weather Data
 
 on:
   schedule:
-    - cron: '5 */2 * * *'  # 每2小时第5分钟执行（减少调度频率，避免 GitHub 节流）
-  workflow_dispatch:        # 可在 GitHub Actions 页面手动触发
+    - cron: '5 */2 * * *'  # 每2小时第5分钟执行
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,80 +16,110 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Fetch weather for 5 cities
+      - name: Fetch 7-day forecast for 5 cities (Open-Meteo)
         run: |
           python3 << 'PYEOF'
           import urllib.request, json, os
           from datetime import datetime, timezone
 
           CITIES = [
-              {'name': '北京',  'q': 'Beijing' },
-              {'name': '上海',  'q': 'Shanghai'},
-              {'name': '南昌',  'q': 'Nanchang'},
-              {'name': '西宁',  'q': 'Xining'  },
-              {'name': '哈尔滨','q': 'Harbin'  },
+              {'name': '北京',   'q': 'Beijing',  'lat': 39.9042, 'lon': 116.4074},
+              {'name': '上海',   'q': 'Shanghai', 'lat': 31.2304, 'lon': 121.4737},
+              {'name': '南昌',   'q': 'Nanchang', 'lat': 28.6820, 'lon': 115.8579},
+              {'name': '西宁',   'q': 'Xining',   'lat': 36.6171, 'lon': 101.7782},
+              {'name': '哈尔滨', 'q': 'Harbin',   'lat': 45.8038, 'lon': 126.5349},
           ]
 
-          CODE_EMOJI = {
-              113:'☀️', 116:'⛅', 119:'☁️', 122:'☁️',
-              143:'🌫️', 248:'🌫️', 260:'🌫️',
-              263:'🌧️', 266:'🌧️', 281:'🌧️', 284:'🌧️',
-              293:'🌦️', 296:'🌦️', 299:'🌦️', 302:'🌧️',
-              305:'🌧️', 308:'🌧️', 311:'🌧️', 314:'🌧️',
-              317:'🌨️', 320:'🌨️', 323:'❄️', 326:'❄️',
-              329:'❄️', 332:'❄️', 335:'❄️', 338:'❄️',
-              350:'🌨️', 353:'🌦️', 356:'🌧️', 359:'🌧️',
-              362:'🌨️', 365:'🌨️', 368:'🌨️', 371:'❄️',
-              374:'🌨️', 377:'🌨️', 386:'⛈️', 389:'⛈️',
-              392:'⛈️', 395:'⛈️', 200:'⛈️',
+          # WMO 天气代码 → (emoji, 中文描述)
+          WMO_MAP = {
+              0:  ('☀️',  '晴'),
+              1:  ('🌤️', '晴间多云'),
+              2:  ('⛅',  '多云'),
+              3:  ('☁️',  '阴'),
+              45: ('🌫️', '雾'),
+              48: ('🌫️', '雾'),
+              51: ('🌦️', '小雨'),
+              53: ('🌦️', '小雨'),
+              55: ('🌧️', '中雨'),
+              61: ('🌦️', '小雨'),
+              63: ('🌧️', '中雨'),
+              65: ('🌧️', '大雨'),
+              71: ('🌨️', '小雪'),
+              73: ('🌨️', '中雪'),
+              75: ('❄️',  '大雪'),
+              77: ('🌨️', '雪粒'),
+              80: ('🌦️', '阵雨'),
+              81: ('🌧️', '阵雨'),
+              82: ('🌧️', '强阵雨'),
+              85: ('🌨️', '阵雪'),
+              86: ('❄️',  '强阵雪'),
+              95: ('⛈️',  '雷阵雨'),
+              96: ('⛈️',  '雷阵雨'),
+              99: ('⛈️',  '雷阵雨'),
           }
 
-          def get_emoji(code):
-              c = int(code) if code else 0
-              if c in CODE_EMOJI:
-                  return CODE_EMOJI[c]
-              if 200 <= c <= 230: return '⛈️'
-              if 263 <= c <= 299: return '🌧️'
-              if 302 <= c <= 335: return '❄️'
-              if 338 <= c <= 395: return '🌨️'
-              return '🌡️'
+          def wmo(code):
+              try:
+                  return WMO_MAP.get(int(code), ('🌡️', '未知'))
+              except Exception:
+                  return ('🌡️', '未知')
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
           result = {}
 
           for city in CITIES:
               try:
-                  url = f'https://wttr.in/{city["q"]}?format=j1&lang=zh'
-                  req = urllib.request.Request(
-                      url, headers={'User-Agent': 'curl/7.79.1', 'Accept': 'application/json'}
+                  url = (
+                      f'https://api.open-meteo.com/v1/forecast'
+                      f'?latitude={city["lat"]}&longitude={city["lon"]}'
+                      f'&current_weather=true'
+                      f'&daily=weathercode,temperature_2m_max,temperature_2m_min'
+                      f'&timezone=Asia%2FShanghai&forecast_days=7'
                   )
-                  with urllib.request.urlopen(req, timeout=10) as r:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'curl/7.79.1'})
+                  with urllib.request.urlopen(req, timeout=12) as r:
                       data = json.load(r)
-                  cur = data['current_condition'][0]
-                  lang_zh = cur.get('lang_zh', [])
-                  desc = lang_zh[0]['value'] if lang_zh else cur.get('weatherDesc', [{}])[0].get('value', '')
-                  code = cur.get('weatherCode', '113')
+
+                  cur  = data.get('current_weather', {})
+                  cur_icon, cur_desc = wmo(cur.get('weathercode', 0))
+
+                  daily = data.get('daily', {})
+                  dates = daily.get('time', [])
+                  codes = daily.get('weathercode', [])
+                  maxes = daily.get('temperature_2m_max', [])
+                  mines = daily.get('temperature_2m_min', [])
+
+                  forecast = []
+                  for i, date in enumerate(dates[:7]):
+                      icon, desc = wmo(codes[i] if i < len(codes) else 0)
+                      forecast.append({
+                          'date': date,
+                          'icon': icon,
+                          'desc': desc,
+                          'max':  round(maxes[i]) if i < len(maxes) else '--',
+                          'min':  round(mines[i]) if i < len(mines) else '--',
+                      })
+
                   result[city['q']] = {
                       'name':    city['name'],
-                      'temp':    cur.get('temp_C', '--'),
-                      'feels':   cur.get('FeelsLikeC', '--'),
-                      'desc':    desc,
-                      'icon':    get_emoji(code),
-                      'code':    code,
-                      'updated': now_utc
+                      'current': {
+                          'temp': round(cur.get('temperature', 0)),
+                          'icon': cur_icon,
+                          'desc': cur_desc,
+                      },
+                      'daily':   forecast,
+                      'updated': now_utc,
                   }
-                  print(f"[OK] {city['name']}: {cur.get('temp_C')}°C {desc}")
+                  print(f"[OK] {city['name']}: {cur.get('temperature')}°C {cur_desc}, 7天={len(forecast)}条")
+
               except Exception as e:
                   print(f"[ERR] {city['name']}: {e}")
-                  # 保留上次数据（如果文件存在），仅标记更新时间
-                  result[city['q']] = result.get(city['q'], {
+                  result[city['q']] = {
                       'name':    city['name'],
-                      'temp':    '--',
-                      'desc':    '暂无数据',
-                      'icon':    '🌡️',
-                      'code':    '',
-                      'updated': now_utc
-                  })
+                      'current': {'temp': '--', 'icon': '🌡️', 'desc': '暂无数据'},
+                      'daily':   [],
+                      'updated': now_utc,
+                  }
 
           os.makedirs('data', exist_ok=True)
           with open('data/weather.json', 'w', encoding='utf-8') as f:
