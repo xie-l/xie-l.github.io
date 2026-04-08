@@ -667,18 +667,27 @@ document.addEventListener('DOMContentLoaded', function() {
             
             const items = feedData.items.slice(0, 10); // 显示10条
             
-            container.innerHTML = items.map(item => `
-                <div class="news-item">
-                    <div class="news-title">
-                        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+            container.innerHTML = items.map(item => {
+                // 适配RSS标准字段
+                const title = item.title || item.title_cn || '无标题';
+                const link = item.link || '#';
+                const source = item.source || getFeedName(feedType);
+                const time = item.time || item.pubDate || '未知时间';
+                const summary = item.summary || item.description || '';
+                
+                return `
+                    <div class="news-item">
+                        <div class="news-title">
+                            <a href="${link}" target="_blank" rel="noopener">${title}</a>
+                        </div>
+                        <div class="news-meta">
+                            <span class="news-source">${source}</span>
+                            <span class="news-time">${time}</span>
+                        </div>
+                        ${summary ? `<div class="news-summary">${summary}</div>` : ''}
                     </div>
-                    <div class="news-meta">
-                        <span class="news-source">${item.source}</span>
-                        <span class="news-time">${item.time}</span>
-                    </div>
-                    ${item.summary ? `<div class="news-summary">${item.summary}</div>` : ''}
-                </div>
-            `).join('');
+                `;
+            }).join('');
             
             // 更新时间标签
             const timeEl = document.getElementById('news-update-time');
