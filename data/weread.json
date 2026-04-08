@@ -1,5 +1,37 @@
 {
-  "reading": null,
-  "recent": [],
-  "updated": "2026-04-08 15:22 UTC"
+  "reading": {
+    "title": "高效能人士的七个习惯",
+    "author": "史蒂芬·柯维",
+    "cover": "https://img3.doubanio.com/fiction/s29725544-0.jpg",
+    "progress": 65,
+    "finished": false,
+    "last_read": "2026-04-08"
+  },
+  "recent": [
+    {
+      "title": "认知觉醒",
+      "author": "周岭",
+      "cover": "",
+      "progress": 100,
+      "finished": true,
+      "last_read": "2026-04-07"
+    },
+    {
+      "title": "深度工作",
+      "author": "卡尔·纽波特",
+      "cover": "",
+      "progress": 45,
+      "finished": false,
+      "last_read": "2026-04-06"
+    },
+    {
+      "title": "原子习惯",
+      "author": "詹姆斯·克利尔",
+      "cover": "",
+      "progress": 100,
+      "finished": true,
+      "last_read": "2026-04-05"
+    }
+  ],
+  "updated": "2026-04-08 16:00 UTC"
 }
