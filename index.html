@@ -1634,7 +1634,13 @@
                         img.className = 'wr-cover';
                         img.src = r.cover;
                         img.alt = r.title;
-                        img.onerror = () => {};
+                        img.onerror = () => {
+                            // 图片加载失败时，显示回退图标
+                            const fallback = document.createElement('div');
+                            fallback.className = 'wr-cover-placeholder';
+                            fallback.textContent = '📖';
+                            img.replaceWith(fallback);
+                        };
                         placeholder.replaceWith(img);
                     }
                 }
