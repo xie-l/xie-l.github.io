@@ -943,10 +943,10 @@ function initThreeJSBackground() {
         particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
         
         const particlesMaterial = new THREE.PointsMaterial({
-            size: 0.008, // 增大粒子尺寸
+            size: 0.015, // 显著增大粒子尺寸，确保效果明显可见
             color: '#00ffff', // 更亮的青色提高对比度
             transparent: true,
-            opacity: 0.8, // 提高透明度使效果更明显
+            opacity: 1.0, // 完全不透明，效果更明显
             blending: THREE.AdditiveBlending
         });
         
@@ -994,9 +994,9 @@ function animateBackground() {
     mouseX += (targetMouseX - mouseX) * 0.05;
     mouseY += (targetMouseY - mouseY) * 0.05;
     
-    // 基础旋转 + 鼠标影响
-    particles.rotation.x += 0.0003 + mouseY * 0.0001;
-    particles.rotation.y += 0.0003 + mouseX * 0.0001;
+    // 基础旋转 + 鼠标影响（加快旋转速度使效果更明显）
+    particles.rotation.x += 0.0008 + mouseY * 0.0002;
+    particles.rotation.y += 0.0008 + mouseX * 0.0002;
     
     renderer.render(scene, camera);
 }
