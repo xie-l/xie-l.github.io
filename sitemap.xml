@@ -111,6 +111,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://xie-l.github.io/blog/quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://xie-l.github.io/blog/tags.html</loc>
     <lastmod>2026-04-08</lastmod>
     <priority>0.8</priority>
@@ -179,5 +184,10 @@
     <loc>https://xie-l.github.io/index.html</loc>
     <lastmod>2026-04-08</lastmod>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://xie-l.github.io/test-data-display.html</loc>
+    <lastmod>2026-04-08</lastmod>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -25,6 +25,20 @@
       "path": "blog/life/今日规划（2026.04.08）（202604）.html"
     },
     {
+      "title": "十个顶级 Claude Code Skills，装上就不想卸",
+      "date": "2026-04-08",
+      "category": "quotes",
+      "tags": [
+        "Claude",
+        "Code",
+        "Skill",
+        "Superpower"
+      ],
+      "summary": "用 Claude Code 大半年了，Skills 和 Plugin 装了几十个，删了一半，留下来的都是真正改变了我工作方式的。这篇就挑十个我用得最多、也觉得最值得推荐的，每个都附安装命令，拿去直接用。 先简单说下 Skill 和 Plugin 的区别。Skill 是一个包含 SKILL.md 的文…",
+      "word_count": 2286,
+      "path": "blog/quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html"
+    },
+    {
       "title": "今日规划（2025.04.07）",
       "date": "2026-04-07",
       "category": "life",
@@ -288,5 +302,5 @@
       "path": "blog/tech/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.html"
     }
   ],
-  "updated": "2026-04-08 07:00 UTC"
+  "updated": "2026-04-08 07:21 UTC"
 }
