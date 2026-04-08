@@ -1025,10 +1025,10 @@ document.addEventListener('visibilitychange', () => {
     }
 });
 
-// 初始化背景（延迟执行，确保DOM加载完成）
-setTimeout(() => {
-    initThreeJSBackground();
-}, 100);
+    // 初始化背景（延迟执行，确保DOM加载完成）
+    setTimeout(() => {
+        initThreeJSBackground();
+    }, 100);
 
     // 初始化完成
     // ====================
@@ -1036,7 +1036,6 @@ setTimeout(() => {
     console.log('个人主页已加载完成！');
     console.log('Designed by 谢亮');
     console.log('GitHub: https://github.com/xie-l');
-    
 }
 
 // ====================
@@ -1080,7 +1079,7 @@ function getTodayItems(array, count, date = new Date()) {
     return result;
 }
 
-// ====================);
+// ====================
 
 // 页面卸载时的清理
 window.addEventListener('beforeunload', function() {
