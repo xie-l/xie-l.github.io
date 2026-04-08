@@ -386,6 +386,504 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', optimizedScrollHandler);
     
     // ====================
+    // 核心数据加载基础设施
+    // ====================
+    
+    /**
+     * 获取今日数据键值（8点前使用昨日数据）
+     * @param {Date} date - 可选日期对象
+     * @returns {string} YYYY-MM-DD 格式日期键
+     */
+    function getTodayKey(date = new Date()) {
+        const hour = date.getHours();
+        // 如果早于8点，使用昨日数据
+        if (hour < 8) {
+            date.setDate(date.getDate() - 1);
+        }
+        return date.toISOString().split('T')[0];
+    }
+    
+    /**
+     * 通用数据加载器（带错误处理和加载状态）
+     * @param {string} widgetName - 组件名称（用于日志和错误提示）
+     * @param {string} dataUrl - JSON数据文件路径
+     * @param {Function} renderer - 渲染函数(data, container)
+     * @param {Object} options - 配置选项
+     * @returns {Promise<Object>} {success: boolean, data?: any, error?: string}
+     */
+    async function loadWidgetData(widgetName, dataUrl, renderer, options = {}) {
+        const containerId = options.containerId || widgetName.replace(/([A-Z])/g, '-$1').toLowerCase();
+        const container = document.getElementById(containerId);
+        
+        if (!container) {
+            console.error(`[${widgetName}] Container not found: #${containerId}`);
+            return { success: false, error: 'Container not found' };
+        }
+        
+        // 显示加载状态
+        if (!options.hideLoading) {
+            container.innerHTML = `
+                <div class="loading-state">
+                    <i class="fas fa-spinner fa-spin"></i>
+                    <span>正在加载${options.loadingText || '内容'}...</span>
+                </div>
+            `;
+        }
+        
+        try {
+            console.log(`[${widgetName}] Loading data from: ${dataUrl}`);
+            
+            // 添加超时控制（10秒）
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 10000);
+            
+            const response = await fetch(dataUrl, {
+                signal: controller.signal,
+                headers: {
+                    'Accept': 'application/json',
+                    'Cache-Control': 'no-cache'
+                }
+            });
+            
+            clearTimeout(timeoutId);
+            
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            
+            const data = await response.json();
+            console.log(`[${widgetName}] Data loaded successfully`, data);
+            
+            // 渲染数据
+            if (renderer && typeof renderer === 'function') {
+                renderer(data, container, options);
+            }
+            
+            return { success: true, data };
+            
+        } catch (error) {
+            console.error(`[${widgetName}] Load failed:`, error);
+            
+            let errorMessage = '加载失败';
+            let errorDetail = '请稍后重试';
+            
+            if (error.name === 'AbortError') {
+                errorMessage = '请求超时';
+                errorDetail = '请检查网络连接';
+            } else if (error.message.includes('HTTP error')) {
+                errorMessage = '数据获取失败';
+                errorDetail = '服务器返回错误';
+            } else if (error.message.includes('JSON')) {
+                errorMessage = '数据格式错误';
+                errorDetail = '请检查数据文件格式';
+            } else if (error.message.includes('Failed to fetch')) {
+                errorMessage = '网络连接失败';
+                errorDetail = '请检查网络连接';
+            }
+            
+            // 显示错误UI
+            container.innerHTML = `
+                <div class="error-state">
+                    <i class="fas fa-exclamation-triangle"></i>
+                    <div class="error-message">${errorMessage}</div>
+                    <div class="error-detail">${errorDetail}</div>
+                    <button class="retry-btn" onclick="loadWidgetData('${widgetName}', '${dataUrl}', ${renderer}, ${JSON.stringify(options).replace(/"/g, '&quot;')})">
+                        <i class="fas fa-redo"></i> 重新加载
+                    </button>
+                </div>
+            `;
+            
+            return { success: false, error: error.message };
+        }
+    }
+    
+    // ====================
+    // 今日三问加载器
+    // ====================
+    
+    async function loadDailyQuestions() {
+        const todayKey = getTodayKey();
+        const dataUrl = `data/pool-questions.json`;
+        
+        const renderer = (data, container) => {
+            const todayData = data[todayKey];
+            
+            if (!todayData || !todayData.questions || todayData.questions.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-calendar-times"></i>
+                        <div>今日三问暂无内容</div>
+                        <div style="font-size: 12px; color: var(--text-light); margin-top: 8px;">每日8:00自动更新</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            const questions = todayData.questions.slice(0, 3); // 确保3个问题
+            
+            container.innerHTML = questions.map((q, index) => `
+                <div class="dq-card">
+                    <div class="dq-num">${String(index + 1).padStart(2, '0')}</div>
+                    <div class="dq-text">${q.question || q}</div>
+                </div>
+            `).join('');
+            
+            // 更新日期标签
+            const dateTag = document.getElementById('dq-date');
+            if (dateTag) {
+                dateTag.textContent = `今日 · ${todayKey}`;
+            }
+        };
+        
+        return loadWidgetData('DailyQuestions', dataUrl, renderer, {
+            loadingText: '今日三问',
+            containerId: 'dq-grid'
+        });
+    }
+    
+    // ====================
+    // 每日五词加载器
+    // ====================
+    
+    async function loadDailyKeywords() {
+        const todayKey = getTodayKey();
+        const dataUrl = `data/pool-keywords.json`;
+        
+        const renderer = (data, container) => {
+            const todayData = data[todayKey];
+            
+            if (!todayData || !todayData.keywords || todayData.keywords.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-book-open"></i>
+                        <div>每日五词暂无内容</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            const keywords = todayData.keywords.slice(0, 5); // 确保5个词汇
+            
+            container.innerHTML = keywords.map((kw, index) => `
+                <div class="kw-item">
+                    <div class="kw-left">
+                        <div class="kw-num">${String(index + 1).padStart(2, '0')}</div>
+                        <div class="kw-badge">${kw.domain || '通用'}</div>
+                    </div>
+                    <div class="kw-right">
+                        <div class="kw-term">${kw.term}</div>
+                        <div class="kw-def">${kw.definition}</div>
+                        ${kw.example ? `<div class="kw-eg"><strong>例:</strong> ${kw.example}</div>` : ''}
+                    </div>
+                </div>
+            `).join('');
+            
+            // 更新日期标签
+            const dateTag = document.getElementById('kw-date');
+            if (dateTag) {
+                dateTag.textContent = `今日 · ${todayKey}`;
+            }
+        };
+        
+        return loadWidgetData('DailyKeywords', dataUrl, renderer, {
+            loadingText: '每日五词',
+            containerId: 'kw-list'
+        });
+    }
+    
+    // ====================
+    // 今日数感加载器
+    // ====================
+    
+    async function loadDailyData() {
+        const todayKey = getTodayKey();
+        const dataUrl = `data/pool-data.json`;
+        
+        const renderer = (data, container) => {
+            const todayData = data[todayKey];
+            
+            if (!todayData || !todayData.datasets || todayData.datasets.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-chart-bar"></i>
+                        <div>今日数感暂无内容</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            const datasets = todayData.datasets.slice(0, 6); // 最多6个数据
+            
+            container.innerHTML = datasets.map(dataset => `
+                <div class="ds-card">
+                    <div class="ds-head">
+                        <div class="ds-topic">${dataset.topic}</div>
+                        <div class="ds-domain-badge">${dataset.domain}</div>
+                    </div>
+                    <div class="ds-num-box">
+                        <div class="ds-num">${dataset.number}</div>
+                        <div class="ds-num-label">${dataset.unit}</div>
+                    </div>
+                    <div class="ds-section-label">背景</div>
+                    <div class="ds-ctx">${dataset.context}</div>
+                    <div class="ds-sense">
+                        <strong>数感:</strong> ${dataset.numberSense}
+                    </div>
+                </div>
+            `).join('');
+            
+            // 更新日期标签
+            const dateTag = document.getElementById('ds-date');
+            if (dateTag) {
+                dateTag.textContent = `今日 · ${todayKey}`;
+            }
+        };
+        
+        return loadWidgetData('DailyData', dataUrl, renderer, {
+            loadingText: '今日数感',
+            containerId: 'ds-grid'
+        });
+    }
+    
+    // ====================
+    // 资讯动态加载器
+    // ====================
+    
+    async function loadNewsFeed(feedType = 'tech') {
+        const dataUrl = `data/news.json`;
+        
+        const renderer = (data, container) => {
+            const feedData = data[feedType];
+            
+            if (!feedData || !feedData.items || feedData.items.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <i class="fas fa-newspaper"></i>
+                        <div>暂无${getFeedName(feedType)}资讯</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            const items = feedData.items.slice(0, 10); // 显示10条
+            
+            container.innerHTML = items.map(item => `
+                <div class="news-item">
+                    <div class="news-title">
+                        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                    </div>
+                    <div class="news-meta">
+                        <span class="news-source">${item.source}</span>
+                        <span class="news-time">${item.time}</span>
+                    </div>
+                    ${item.summary ? `<div class="news-summary">${item.summary}</div>` : ''}
+                </div>
+            `).join('');
+            
+            // 更新时间标签
+            const timeEl = document.getElementById('news-update-time');
+            if (timeEl && feedData.updated) {
+                timeEl.textContent = `最后更新: ${feedData.updated}`;
+            }
+        };
+        
+        return loadWidgetData('NewsFeed', dataUrl, renderer, {
+            loadingText: '资讯动态',
+            containerId: 'news-content'
+        });
+    }
+    
+    // 辅助函数: 获取资讯分类名称
+    function getFeedName(feedType) {
+        const names = {
+            'tech': '国际科技',
+            'tech_cn': '国内科技',
+            'energy_intl': '国际能源',
+            'energy': '能源前沿',
+            'energy_cn': '国内能源',
+            'hydrogen': '氢能资讯',
+            'papers': '前沿论文',
+            'policy_nea': '国家能源局',
+            'policy_ndrc': '发改委政策'
+        };
+        return names[feedType] || '资讯';
+    }
+    
+    // ====================
+    // 其他思维成长模块加载器（模板）
+    // ====================
+    
+    // 跨域类比
+    async function loadDailyAnalogy() {
+        const dataUrl = `data/pool-analogies.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyAnalogy', dataUrl, renderer, {
+            containerId: 'analogy-card'
+        });
+    }
+    
+    // 信号vs噪声
+    async function loadDailySignal() {
+        const dataUrl = `data/pool-signals.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailySignal', dataUrl, renderer, {
+            containerId: 'signal-card'
+        });
+    }
+    
+    // 认知偏误
+    async function loadDailyBias() {
+        const dataUrl = `data/pool-biases.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyBias', dataUrl, renderer, {
+            containerId: 'bias-card'
+        });
+    }
+    
+    // 逆向思维
+    async function loadDailyInversion() {
+        const dataUrl = `data/pool-inversions.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyInversion', dataUrl, renderer, {
+            containerId: 'inversion-card'
+        });
+    }
+    
+    // 历史类比
+    async function loadDailyHistorical() {
+        const dataUrl = `data/pool-historical.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyHistorical', dataUrl, renderer, {
+            containerId: 'historical-card'
+        });
+    }
+    
+    // 每日一人
+    async function loadDailyPerson() {
+        const dataUrl = `data/pool-persons.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyPerson', dataUrl, renderer, {
+            containerId: 'person-card'
+        });
+    }
+    
+    // 微写作
+    async function loadDailyWriting() {
+        const dataUrl = `data/pool-writing.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('DailyWriting', dataUrl, renderer, {
+            containerId: 'writing-card'
+        });
+    }
+    
+    // 预测与校准
+    async function loadPredictions() {
+        const dataUrl = `data/pool-predictions.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('Predictions', dataUrl, renderer, {
+            containerId: 'prediction-card'
+        });
+    }
+    
+    // 能源市场
+    async function loadEnergyMarket() {
+        const dataUrl = `data/energy.json`;
+        const renderer = (data, container) => {
+            // 实现渲染逻辑
+        };
+        return loadWidgetData('EnergyMarket', dataUrl, renderer, {
+            containerId: 'em-grid'
+        });
+    }
+    
+    // ====================
+    // 初始化所有数据加载
+    // ====================
+    
+    // 页面加载完成后初始化
+    setTimeout(() => {
+        console.log('初始化每日内容加载...');
+        
+        // 加载今日三问
+        loadDailyQuestions().catch(err => console.error('Failed to load daily questions:', err));
+        
+        // 加载每日五词
+        loadDailyKeywords().catch(err => console.error('Failed to load daily keywords:', err));
+        
+        // 加载今日数感
+        loadDailyData().catch(err => console.error('Failed to load daily data:', err));
+        
+        // 加载资讯动态（默认加载tech）
+        loadNewsFeed('tech').catch(err => console.error('Failed to load news:', err));
+        
+        // 加载其他思维成长模块（可选）
+        // 可以根据需要启用
+        /*
+        loadDailyAnalogy();
+        loadDailySignal();
+        loadDailyBias();
+        loadDailyInversion();
+        loadDailyHistorical();
+        loadDailyPerson();
+        loadDailyWriting();
+        loadPredictions();
+        loadEnergyMarket();
+        */
+        
+        console.log('每日内容加载初始化完成');
+    }, 1000); // 延迟1秒加载，确保DOM完全就绪
+    
+    // ====================
+    // 资讯标签切换
+    // ====================
+    
+    // 为资讯标签添加点击事件
+    document.querySelectorAll('.news-tab').forEach(tab => {
+        tab.addEventListener('click', function() {
+            const feedType = this.dataset.feed;
+            
+            // 更新激活状态
+            document.querySelectorAll('.news-tab').forEach(t => t.classList.remove('active'));
+            this.classList.add('active');
+            
+            // 加载对应资讯
+            loadNewsFeed(feedType).catch(err => console.error('Failed to load news feed:', err));
+        });
+    });
+    
+    // 刷新按钮
+    const refreshBtn = document.getElementById('news-refresh-btn');
+    if (refreshBtn) {
+        refreshBtn.addEventListener('click', function() {
+            const activeTab = document.querySelector('.news-tab.active');
+            const feedType = activeTab ? activeTab.dataset.feed : 'tech';
+            
+            // 添加旋转动画
+            this.classList.add('spinning');
+            setTimeout(() => this.classList.remove('spinning'), 1000);
+            
+            // 重新加载
+            loadNewsFeed(feedType).catch(err => console.error('Failed to refresh news:', err));
+        });
+    }
+    
+    // ====================
     // 初始化完成
     // ====================
     
