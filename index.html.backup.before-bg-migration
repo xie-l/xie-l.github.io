@@ -28,8 +28,6 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Three.js for dynamic background -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <!-- 不蒜子：静态站访问计数 -->
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </head>
@@ -65,8 +63,7 @@
 
     <!-- 横幅区域 -->
     <section class="banner">
-        <canvas id="hero-canvas"></canvas>
-        <div class="banner-bg-fallback"></div>
+        <div class="banner-bg"></div>
         <div class="banner-content">
             <div class="container">
                 <h1 class="banner-title">氢能驱动未来</h1>

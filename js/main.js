@@ -893,6 +893,126 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // ====================
+// ====================
+// Three.js 动态背景
+// ====================
+
+let scene, camera, renderer, particles;
+let backgroundInitialized = false;
+
+function initThreeJSBackground() {
+    if (backgroundInitialized) return;
+    
+    try {
+        const canvas = document.getElementById('hero-canvas');
+        if (!canvas) {
+            console.log('Canvas not found, skipping Three.js background');
+            return;
+        }
+        
+        // 检查WebGL支持
+        const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+        if (!gl) {
+            console.log('WebGL not supported, using CSS fallback background');
+            return;
+        }
+        
+        // 初始化场景
+        scene = new THREE.Scene();
+        camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        renderer = new THREE.WebGLRenderer({
+            canvas: canvas,
+            alpha: true,
+            antialias: true,
+            powerPreference: 'high-performance'
+        });
+        
+        // 限制像素比以提高性能
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        
+        // 创建粒子
+        const particlesGeometry = new THREE.BufferGeometry();
+        const particlesCount = 3000; // 优化：从5000减少到3000
+        const posArray = new Float32Array(particlesCount * 3);
+        
+        for (let i = 0; i < particlesCount * 3; i++) {
+            posArray[i] = (Math.random() - 0.5) * 10;
+        }
+        
+        particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
+        
+        const particlesMaterial = new THREE.PointsMaterial({
+            size: 0.005,
+            color: '#64ffda',
+            transparent: true,
+            opacity: 0.6, // 优化：降低透明度以减少GPU负担
+            blending: THREE.AdditiveBlending
+        });
+        
+        particles = new THREE.Points(particlesGeometry, particlesMaterial);
+        scene.add(particles);
+        
+        camera.position.z = 2;
+        
+        // 隐藏CSS背景
+        const fallbackBg = document.querySelector('.banner-bg-fallback');
+        if (fallbackBg) {
+            fallbackBg.style.opacity = '0';
+            fallbackBg.style.transition = 'opacity 0.5s ease';
+        }
+        
+        backgroundInitialized = true;
+        animateBackground();
+        
+        console.log('Three.js background initialized successfully');
+        
+    } catch (error) {
+        console.error('Failed to initialize Three.js background:', error);
+        // 保持CSS背景
+    }
+}
+
+function animateBackground() {
+    if (!backgroundInitialized || !particles) return;
+    
+    requestAnimationFrame(animateBackground);
+    
+    particles.rotation.x += 0.0003; // 减慢旋转速度
+    particles.rotation.y += 0.0003;
+    
+    renderer.render(scene, camera);
+}
+
+// 窗口大小调整
+window.addEventListener('resize', () => {
+    if (!backgroundInitialized || !camera || !renderer) return;
+    
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+// 页面可见性变化时暂停/恢复动画
+document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+        // 页面不可见时暂停动画
+        if (backgroundInitialized) {
+            console.log('Page hidden, pausing background animation');
+        }
+    } else {
+        // 页面可见时恢复动画
+        if (backgroundInitialized) {
+            animateBackground();
+        }
+    }
+});
+
+// 初始化背景（延迟执行，确保DOM加载完成）
+setTimeout(() => {
+    initThreeJSBackground();
+}, 100);
+
     // 初始化完成
     // ====================
     

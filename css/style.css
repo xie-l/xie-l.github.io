@@ -287,14 +287,28 @@ button {
     overflow: hidden;
 }
 
-.banner-bg {
+/* Three.js Canvas Background */
+#hero-canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    display: block;
+}
+
+/* CSS Fallback Background */
+.banner-bg-fallback {
     position: absolute;
     inset: 0;
     background: linear-gradient(135deg, var(--hero-bg) 0%, var(--hero-mid) 55%, var(--hero-end) 100%);
+    z-index: -2;
+    transition: opacity 0.5s ease;
 }
 
 /* 网格纹理 */
-.banner-bg::before {
+.banner-bg-fallback::before {
     content: '';
     position: absolute;
     inset: 0;
@@ -306,7 +320,7 @@ button {
 }
 
 /* 发光晕圈（氰蓝） */
-.banner-bg::after {
+.banner-bg-fallback::after {
     content: '';
     position: absolute;
     top: -20%;
