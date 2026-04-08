@@ -506,9 +506,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const dataUrl = `data/pool-questions.json`;
         
         const renderer = (data, container) => {
-            const todayData = data[todayKey];
-            
-            if (!todayData || !todayData.questions || todayData.questions.length === 0) {
+            // 适配数组格式
+            if (!Array.isArray(data) || data.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
                         <i class="fas fa-calendar-times"></i>
@@ -519,12 +518,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
             
-            const questions = todayData.questions.slice(0, 3); // 确保3个问题
+            // 从数组获取今日问题
+            const questions = getTodayItems(data, 3);
             
             container.innerHTML = questions.map((q, index) => `
                 <div class="dq-card">
                     <div class="dq-num">${String(index + 1).padStart(2, '0')}</div>
-                    <div class="dq-text">${q.question || q}</div>
+                    <div class="dq-text">${q}</div>
                 </div>
             `).join('');
             
@@ -550,9 +550,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const dataUrl = `data/pool-keywords.json`;
         
         const renderer = (data, container) => {
-            const todayData = data[todayKey];
-            
-            if (!todayData || !todayData.keywords || todayData.keywords.length === 0) {
+            // 适配数组格式
+            if (!Array.isArray(data) || data.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
                         <i class="fas fa-book-open"></i>
@@ -562,7 +561,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
             
-            const keywords = todayData.keywords.slice(0, 5); // 确保5个词汇
+            // 从数组获取今日词汇
+            const keywords = getTodayItems(data, 5);
             
             container.innerHTML = keywords.map((kw, index) => `
                 <div class="kw-item">
@@ -572,8 +572,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <div class="kw-right">
                         <div class="kw-term">${kw.term}</div>
-                        <div class="kw-def">${kw.definition}</div>
-                        ${kw.example ? `<div class="kw-eg"><strong>例:</strong> ${kw.example}</div>` : ''}
+                        <div class="kw-def">${kw.def}</div>
+                        ${kw.eg ? `<div class="kw-eg"><strong>例:</strong> ${kw.eg}</div>` : ''}
                     </div>
                 </div>
             `).join('');
@@ -600,9 +600,8 @@ document.addEventListener('DOMContentLoaded', function() {
         const dataUrl = `data/pool-data.json`;
         
         const renderer = (data, container) => {
-            const todayData = data[todayKey];
-            
-            if (!todayData || !todayData.datasets || todayData.datasets.length === 0) {
+            // 适配数组格式
+            if (!Array.isArray(data) || data.length === 0) {
                 container.innerHTML = `
                     <div class="empty-state">
                         <i class="fas fa-chart-bar"></i>
@@ -612,7 +611,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 return;
             }
             
-            const datasets = todayData.datasets.slice(0, 6); // 最多6个数据
+            // 从数组获取今日数据
+            const datasets = getTodayItems(data, 6);
             
             container.innerHTML = datasets.map(dataset => `
                 <div class="ds-card">
@@ -621,13 +621,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         <div class="ds-domain-badge">${dataset.domain}</div>
                     </div>
                     <div class="ds-num-box">
-                        <div class="ds-num">${dataset.number}</div>
-                        <div class="ds-num-label">${dataset.unit}</div>
+                        <div class="ds-num">${dataset.num}</div>
+                        <div class="ds-num-label">${dataset.label}</div>
                     </div>
                     <div class="ds-section-label">背景</div>
-                    <div class="ds-ctx">${dataset.context}</div>
+                    <div class="ds-ctx">${dataset.ctx}</div>
                     <div class="ds-sense">
-                        <strong>数感:</strong> ${dataset.numberSense}
+                        <strong>数感:</strong> ${dataset.sense}
                     </div>
                 </div>
             `).join('');
@@ -900,7 +900,50 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('Designed by 谢亮');
     console.log('GitHub: https://github.com/xie-l');
     
-});
+}
+
+// ====================
+// 数组索引映射工具函数
+// ====================
+
+/**
+ * 将日期字符串转换为数组索引
+ * @param {string} dateStr - 日期字符串 (YYYY-MM-DD)
+ * @param {number} arrayLength - 数组长度
+ * @returns {number} 数组索引
+ */
+function dateToIndex(dateStr, arrayLength) {
+    const hash = dateStr.split('').reduce((acc, char) => {
+        return acc + char.charCodeAt(0);
+    }, 0);
+    return Math.abs(hash) % arrayLength;
+}
+
+/**
+ * 从数组获取今日数据项
+ * @param {Array} array - 数据数组
+ * @param {number} count - 需要获取的项数
+ * @param {Date} date - 日期
+ * @returns {Array} 数据项
+ */
+function getTodayItems(array, count, date = new Date()) {
+    if (!Array.isArray(array) || array.length === 0) {
+        return [];
+    }
+    
+    const dateStr = date.toISOString().split('T')[0];
+    const startIndex = dateToIndex(dateStr, array.length);
+    
+    const result = [];
+    for (let i = 0; i < count; i++) {
+        const index = (startIndex + i) % array.length;
+        result.push(array[index]);
+    }
+    
+    return result;
+}
+
+// ====================);
 
 // 页面卸载时的清理
 window.addEventListener('beforeunload', function() {
