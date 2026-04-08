@@ -1036,7 +1036,7 @@ document.addEventListener('visibilitychange', () => {
     console.log('个人主页已加载完成！');
     console.log('Designed by 谢亮');
     console.log('GitHub: https://github.com/xie-l');
-}
+});
 
 // ====================
 // 数组索引映射工具函数
