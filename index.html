@@ -1176,6 +1176,10 @@
                 </select>
                 <input class="qr-field" id="qrTags" type="text" placeholder="标签（逗号分隔，如：读书笔记,成长）" style="grid-column:2/-1">
             </div>
+            <!-- 摘录来源（仅 quotes 分类显示） -->
+            <div id="qrSourceRow" style="display:none;margin:-8px 0 0;padding:0 20px 10px">
+                <input class="qr-field" id="qrSource" type="text" placeholder="来源链接或出处（可选，如：https://... 或「作者/书名」）" style="width:100%;box-sizing:border-box">
+            </div>
             <!-- 正文 -->
             <div class="qr-body-wrap">
                 <textarea id="qrBody" placeholder="开始写作……
@@ -2110,14 +2114,34 @@
             scheduleAutoSave();
         });
         titleEl.addEventListener('input', scheduleAutoSave);
-        catEl.addEventListener('change', scheduleAutoSave);
         tagsEl.addEventListener('input', scheduleAutoSave);
+
+        // ── 分类切换：来源行 + placeholder ───────────────────
+        var sourceRow = document.getElementById('qrSourceRow');
+        var sourceEl  = document.getElementById('qrSource');
+        var PLACEHOLDERS = {
+            life:     '记录今天……\n\n可以是日记、小结、规划，每行自动成段。\n写完点「发布」即可出现在生活日记页面。',
+            books:    '写下读书笔记……\n\n可以是摘抄、感悟、批注，每行自动成段。',
+            tech:     '写下技术思考……\n\n可以是学习总结、行业分析、方法论。',
+            analysis: '写下数据分析……\n\n可以是数据解读、图表说明、洞察结论。',
+            quotes:   '粘贴你摘录的内容……\n\n直接把在网上看到的精彩段落粘贴进来即可，可以加几句自己的感想。\n来源链接填在上方（可选）。',
+            thoughts: '随手写下这一刻的想法……\n\n一句话也可以，不需要标题，随时记录。'
+        };
+        function onCatChange() {
+            var cat = catEl.value;
+            sourceRow.style.display = (cat === 'quotes') ? '' : 'none';
+            bodyEl.placeholder = PLACEHOLDERS[cat] || PLACEHOLDERS.life;
+            scheduleAutoSave();
+        }
+        catEl.addEventListener('change', onCatChange);
+        onCatChange(); // 初始化
 
         // ── 草稿 ─────────────────────────────────────────────
         function saveDraft(quiet) {
             const d = {
                 title: titleEl.value, cat: catEl.value,
                 tags: tagsEl.value, body: bodyEl.value,
+                source: sourceEl ? sourceEl.value : '',
                 savedAt: new Date().toISOString()
             };
             localStorage.setItem(DRAFT_KEY, JSON.stringify(d));
@@ -2152,7 +2176,9 @@
                     catEl.value   = d.cat   || 'life';
                     tagsEl.value  = d.tags  || '';
                     bodyEl.value  = d.body  || '';
+                    if (sourceEl) sourceEl.value = d.source || '';
                     charEl.textContent = bodyEl.value.replace(/\s/g,'').length + ' 字';
+                    onCatChange();
                 }
             } catch(e) {}
             draftBanner.style.display = 'none';
@@ -2167,19 +2193,44 @@
         const CAT_ICONS = { life:'📅', books:'📚', tech:'💻', analysis:'📊', quotes:'❝', thoughts:'💡' };
         function pad(n){ return String(n).padStart(2,'0'); }
 
-        function buildBlogHTML(title, cat, tagList, content, now) {
+        function buildBlogHTML(title, cat, tagList, content, now, source) {
             const catName = CAT_NAMES[cat] || '随笔';
             const catIcon = CAT_ICONS[cat] || '✏️';
             const dateStr = now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日';
+            const safe = function(s){ return String(s||'').replace(/</g,'&lt;').replace(/>/g,'&gt;'); };
             const paras = content.split('\n')
                 .map(function(l){ return l.trim(); }).filter(Boolean)
-                .map(function(l){ return '            <p>' + l.replace(/</g,'&lt;').replace(/>/g,'&gt;') + '</p>'; })
+                .map(function(l){ return '            <p>' + safe(l) + '</p>'; })
                 .join('\n');
-            const tagsHtml = tagList.map(function(t){ return '<span class="tag">' + t + '</span>'; }).join('\n            ');
+            const tagsHtml = tagList.map(function(t){ return '<span class="tag">' + safe(t) + '</span>'; }).join('\n            ');
             const tagClickScript = '<script>\ndocument.querySelectorAll(\'.tag\').forEach(function(el){el.style.cursor=\'pointer\';el.addEventListener(\'click\',function(e){e.preventDefault();e.stopPropagation();location.href=\'../tags.html?tag=\'+encodeURIComponent(el.textContent.trim());});});\n<\/script>';
+            // 来源区块（仅 quotes 且填写了来源时显示）
+            var sourceHtml = '';
+            if (cat === 'quotes' && source && source.trim()) {
+                var src = source.trim();
+                var isUrl = /^https?:\/\//i.test(src);
+                sourceHtml = '\n        <div class="post-source" data-source="' + safe(src) + '">' +
+                    '<i class="fas fa-link"></i> 来源：' +
+                    (isUrl ? '<a href="' + safe(src) + '" target="_blank" rel="noopener">' + safe(src) + '</a>' : safe(src)) +
+                    '</div>';
+            }
+            // thoughts 无标题时隐藏标题区
+            var headerHtml = (cat === 'thoughts' && !title)
+                ? '        <div class="post-meta" style="margin-bottom:24px;justify-content:center;display:flex;gap:16px;color:var(--text-light);font-size:14px">' +
+                  '<span><i class="fas fa-calendar"></i> ' + dateStr + '</span>' +
+                  '<span><i class="fas fa-folder"></i> ' + catName + '</span>' +
+                  (tagList.length ? '<span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>' : '') +
+                  '</div>'
+                : '        <article class="post-header">\n' +
+                  '            <h1 class="post-title">' + safe(title) + '</h1>\n' +
+                  '            <div class="post-meta">\n' +
+                  '                <span><i class="fas fa-calendar"></i> ' + dateStr + '</span>\n' +
+                  '                <span><i class="fas fa-folder"></i> ' + catName + '</span>\n' +
+                  (tagList.length ? '                <span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>\n' : '') +
+                  '            </div>\n        </article>';
             return '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n' +
                 '    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
-                '    <title>' + title + ' - 谢亮</title>\n' +
+                '    <title>' + safe(title || dateStr) + ' - 谢亮</title>\n' +
                 '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>' + catIcon + '</text></svg>">\n' +
                 '    <link rel="stylesheet" href="../../css/style.css">\n' +
                 '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">\n' +
@@ -2191,18 +2242,14 @@
                 '        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}\n' +
                 '        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}\n' +
                 '        .post-content p{margin-bottom:20px;text-align:justify}\n' +
+                '        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}\n' +
+                '        .post-source a{color:var(--secondary-color);word-break:break-all}\n' +
                 '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}\n' +
                 '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
                 '    </style>\n</head>\n<body>\n' +
                 '    <div class="blog-container">\n' +
                 '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回' + catName + '</a>\n' +
-                '        <article class="post-header">\n' +
-                '            <h1 class="post-title">' + title + '</h1>\n' +
-                '            <div class="post-meta">\n' +
-                '                <span><i class="fas fa-calendar"></i> ' + dateStr + '</span>\n' +
-                '                <span><i class="fas fa-folder"></i> ' + catName + '</span>\n' +
-                (tagList.length ? '                <span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>\n' : '') +
-                '            </div>\n        </article>\n' +
+                headerHtml + '\n' + sourceHtml +
                 '        <div class="post-content">\n' + paras + '\n' +
                 '            <div class="post-tags">' + tagsHtml + '</div>\n' +
                 '        </div>\n    </div>\n' +
@@ -2210,7 +2257,7 @@
         }
 
         // ── 更新分类目录页 ────────────────────────────────────
-        async function updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw) {
+        async function updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw, source) {
             const indexPath = 'blog/' + cat + '/index.html';
             const apiBase   = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
             const getResp   = await fetch(apiBase + indexPath, { headers:{'Authorization':'token '+token} });
@@ -2221,12 +2268,17 @@
             const now = new Date();
             const dateStr = now.getFullYear() + '-' + pad(now.getMonth()+1) + '-' + pad(now.getDate());
             const lines = raw.split('\n').map(function(l){ return l.trim(); }).filter(Boolean);
-            const excerpt = (lines[0] || '').slice(0,90);
+            const excerpt = (lines[0] || '').slice(0,100);
             const tagsHtml2 = tagList.map(function(t){ return '<span class="tag">'+t+'</span>'; }).join('');
+            // 无标题时卡片显示内容开头
+            const cardTitle = title || ('<span style="color:var(--text-light);font-style:italic">' + (lines[0]||'').slice(0,30) + (lines[0]&&lines[0].length>30?'…':'') + '</span>');
+            // 来源标注（quotes 专用）
+            const sourceHtml2 = (cat === 'quotes' && source) ? '<div class="post-source-mini"><i class="fas fa-link"></i> ' + source.slice(0,60) + '</div>' : '';
             const newCard =
                 '\n            <a href="' + filename + '" class="post-item">\n' +
                 '                <div class="post-date">' + dateStr + '</div>\n' +
-                '                <h3 class="post-title">' + title + '</h3>\n' +
+                '                <h3 class="post-title">' + cardTitle + '</h3>\n' +
+                sourceHtml2 +
                 '                <p class="post-excerpt">' + excerpt + '</p>\n' +
                 '                <div class="post-tags">' + tagsHtml2 + '</div>\n' +
                 '            </a>';
@@ -2237,7 +2289,7 @@
             await fetch(apiBase + indexPath, {
                 method: 'PUT',
                 headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
-                body: JSON.stringify({ message:'更新'+CAT_NAMES[cat]+'目录：'+title, content:encodedIndex, sha:sha })
+                body: JSON.stringify({ message:'更新'+CAT_NAMES[cat]+'目录', content:encodedIndex, sha:sha })
             });
         }
 
@@ -2247,11 +2299,11 @@
             const raw   = bodyEl.value.trim();
             const cat   = catEl.value;
             
-            // 验证逻辑：随笔思考(thoughts)标题可选，其他分类标题必填
-            if (!title && cat !== 'thoughts') { 
-                statusEl.textContent = '请填写文章标题（随笔思考可选）'; 
-                titleEl.focus(); 
-                return; 
+            // 验证逻辑：随笔思考/摘录记录标题可选，其他分类标题必填
+            if (!title && cat !== 'thoughts' && cat !== 'quotes') {
+                statusEl.textContent = '请填写文章标题';
+                titleEl.focus();
+                return;
             }
             if (!raw)   { statusEl.textContent = '请写点内容'; bodyEl.focus(); return; }
 
@@ -2265,13 +2317,15 @@
             }
 
             const tagList  = tagsEl.value.split(/[,，、;\s]+/).map(function(t){ return t.trim(); }).filter(Boolean);
+            const source   = (sourceEl && cat === 'quotes') ? sourceEl.value.trim() : '';
             const now      = new Date();
             const stamp    = now.getFullYear() + pad(now.getMonth()+1);
-            
-            // 处理标题：随笔思考无标题时使用内容前20字
-            const displayTitle = title || (cat === 'thoughts' ? raw.substring(0, 20).replace(/\n/g, ' ') + '...' : '无标题');
+
+            // 处理标题：随笔思考/摘录记录无标题时使用内容前20字或日期
+            const titleOptional = cat === 'thoughts' || cat === 'quotes';
+            const displayTitle = title || (titleOptional ? (raw.substring(0, 24).replace(/\n/g, ' ') + (raw.length > 24 ? '…' : '')) : '无标题');
             const safeTitle = displayTitle.replace(/[<>:"/\\|?*\u0000-\u001f]/g,'').slice(0,30);
-            
+
             // 生成文件名：有标题用标题，无标题用日期
             let filename;
             if (title) {
@@ -2279,9 +2333,9 @@
             } else {
                 filename = now.getFullYear() + '-' + pad(now.getMonth()+1) + '-' + pad(now.getDate()) + '（' + stamp + '）.html';
             }
-            
+
             const path      = 'blog/' + cat + '/' + filename;
-            const html      = buildBlogHTML(displayTitle, cat, tagList, raw, now);
+            const html      = buildBlogHTML(displayTitle, cat, tagList, raw, now, source);
             const encoded   = btoa(unescape(encodeURIComponent(html)));
 
             pubBtn.disabled = true;
@@ -2300,10 +2354,11 @@
                     pubBtn.disabled = false; return;
                 }
                 statusEl.textContent = '更新目录（2/2）……';
-                await updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw);
+                await updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw, source);
                 localStorage.removeItem(DRAFT_KEY);
                 statusEl.textContent = '✓ 发布成功！约1分钟后在博客可见';
                 titleEl.value = ''; catEl.value = 'life'; tagsEl.value = ''; bodyEl.value = '';
+                if (sourceEl) sourceEl.value = '';
                 charEl.textContent = '0 字';
                 setTimeout(closeEditor, 3000);
             } catch(e) {
