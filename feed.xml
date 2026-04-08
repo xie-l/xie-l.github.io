@@ -5,13 +5,21 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:40:33 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:08:55 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
       <title>谢亮的博客</title>
       <link>https://xie-l.github.io/</link>
     </image>
+    <item>
+      <title>今日小结（2026.04.07）</title>
+      <link>https://xie-l.github.io/blog/life/今日小结（2026.04.07）（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/今日小结（2026.04.07）（202604）.html</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[日有所成： 1. 推进完善个人博客，主要是丰富了个人词汇，添加了其他模块（每日跨域类比、信号 vs 噪声、认知偏误觉察、逆向·钢人论证、历史类比、每日一人、每日微写作）、在博客分类那里添加了两个模块（摘录记录、随笔记录）部分。这里需要注意借助 Claudecode 编写文件需要注意的事项。 2.推进…]]></description>
+    </item>
     <item>
       <title>今日规划（2025.04.07）</title>
       <link>https://xie-l.github.io/blog/life/今日规划（2025.04.07）（202604）.html</link>
