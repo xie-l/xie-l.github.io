@@ -1,0 +1,72 @@
+{
+  "obsidian": {
+    "vaultPath": "./obsidian-vault",
+    "attachmentsPath": "./obsidian-vault/attachments",
+    "supportedExtensions": [".md", ".markdown"],
+    "ignoreFolders": [".obsidian", "templates", "drafts"],
+    "ignoreFiles": [".DS_Store", "Thumbs.db", "*.tmp", "*.swp"],
+    "encoding": "utf8"
+  },
+  "blog": {
+    "blogPath": "./blog",
+    "imgPath": "./img/blog",
+    "filesPath": "./files",
+    "supportedCategories": ["quotes", "thoughts", "tech", "life", "books", "analysis"],
+    "indexFiles": ["index.html"],
+    "postTemplate": "./templates/blog-post.html",
+    "encoding": "utf8"
+  },
+  "sync": {
+    "direction": "both",
+    "autoBackup": true,
+    "backupPath": "./backups/obsidian-sync",
+    "maxBackups": 10,
+    "backupRetentionDays": 30,
+    "conflictResolution": "timestamp",
+    "defaultStatus": "draft",
+    "validateFrontmatter": true
+  },
+  "images": {
+    "maxSize": 5242880,
+    "compress": false,
+    "compressionQuality": 80,
+    "supportedFormats": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"],
+    "generateThumbnails": false,
+    "thumbnailWidth": 300,
+    "lazyLoad": true,
+    "lightbox": true
+  },
+  "files": {
+    "maxSize": 104857600,
+    "supportedTypes": ["photos", "documents", "archives"],
+    "autoIndex": true,
+    "generateThumbnails": true
+  },
+  "conversion": {
+    "markdownEngine": "marked",
+    "highlightCode": true,
+    "codeTheme": "github",
+    "processInternalLinks": true,
+    "processEmbeds": true,
+    "removeComments": true,
+    "processTasks": true
+  },
+  "logging": {
+    "level": "info",
+    "maxLogSize": "10MB",
+    "maxLogFiles": 5,
+    "logToFile": true,
+    "logToConsole": true
+  },
+  "watch": {
+    "enabled": false,
+    "debounceMs": 1000,
+    "excludedPatterns": ["**/*.tmp", "**/*.swp", "**/.DS_Store"]
+  },
+  "templates": {
+    "frontmatter": {
+      "required": ["title", "date", "category", "status"],
+      "optional": ["tags", "description", "image", "author"]
+    }
+  }
+}
