@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Liquid or solid? Oobleck droplets are both",
+        "link": "https://www.nature.com/articles/d41586-026-01109-3",
+        "pubDate": "2026-04-09",
+        "description": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01109-3 High-speed cameras can observe the strange behaviour of a cornstarch–water mixture.",
+        "title_cn": "液体还是固体？卵斑液滴都是"
+      },
+      {
         "title": "Author Correction: Foundation model of neural activity predicts response to new stimulus types",
         "link": "https://www.nature.com/articles/s41586-026-10457-z",
         "pubDate": "2026-04-08",
@@ -49,20 +56,49 @@
         "pubDate": "2026-04-08",
         "description": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10285-1 A purely geometric two-qubit SWAP gate can be realized by transiently populating qubit doublon states of fermionic atoms in a dynamical optical lattice.",
         "title_cn": "在动态光学晶格中使用量子比特倍增来保护量子门"
-      },
-      {
-        "title": "Saturation editing of RNU4-2 reveals distinct dominant and recessive disorders",
-        "link": "https://www.nature.com/articles/s41586-026-10334-9",
-        "pubDate": "2026-04-08",
-        "description": "Nature, Published online: 08 April 2026; doi:10.1038/s41586-026-10334-9 Saturation genome editing of RNU4-2 identifies the functional and clinical impact of variants across the entire gene and delineates variants that cause a new recessive neurodevelopmental disorder distinct from ReNU syndrome.",
-        "title_cn": "RNU4-2的饱和度编辑揭示了明显的显性疾病和隐性疾病"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "INAIR完成千万美元融资，便携空间主机适配多款 AR 眼镜｜最前线",
+        "link": "https://36kr.com/p/3759045427937793?f=rss",
+        "pubDate": "2026-04-09 11:53:44  +0800",
+        "description": "近日，下一代移动计算平台公司 Inair 多屏未来（以下简称 Inair）宣布完成千万美元 A+ 轮融资。本轮融资由君联资本、高瓴创投、弘晖基金联合投资，资金将主要用于加速便携空间主机（PSS） 产品 Inair Pod 的生态拓展、空间操作系统研发及垂直行业应用落地。 Inair 多屏未来是一家专注于空间计算与移动生产力的科技公司，由两名在科技领域的连续创业者发起，初创团队拥有 AR 硬件、软件、产品和市场经验，团队成员来自于多家互联网及科技领域的知名企业。 该公司以 AR 眼镜作为入口，致力于为消费者提供下一代的 All-in-one 移动办公解决方案，核心产品为 Inair Pod。该设"
+      },
+      {
+        "title": "耀速科技获2亿人民币融资，将“AI+器官芯片”嵌入新药开发流程",
+        "link": "https://36kr.com/p/3758982738641670?f=rss",
+        "pubDate": "2026-04-09 10:36:29  +0800",
+        "description": "文｜胡香赟 编辑｜海若镜 制药行业离“告别”动物实验又近了一步。 从2022年FDA的现代化法案2.0被批准开始，“替代动物实验”的监管战略一直在持续。今年3月中旬，FDA终于发文表态，开始接收非动物数据支撑新药评审，鼓励使用类器官/器官芯片、AI毒理学模型等新方法学（NAMs），逐步减少药企对动物实验的依赖。 图源：FDA官网 伴随政策层面的深入，类器官/器官芯片企业在一级市场上的声量也逐步提高。仅今年来，就有至少5家相关企业披露融资。比如，4月初，AI for 3D Bioliogy平台企业 耀速科技 刚刚宣布完成2亿人民币A轮融资，本轮募资由国寿股权独家领投，老股东晶泰控股（XtalPi"
+      },
+      {
+        "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
+        "link": "https://36kr.com/p/3758979573121538?f=rss",
+        "pubDate": "2026-04-09 10:32:44  +0800",
+        "description": "文丨彭倩 编辑丨乔芊 “苦大仇深”是马学军对自己的形容。 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢家装体验馆”、利用3D软件做了“设计师淘客”，到参与孵化“家装E站”所谓的“互联网家装”。回过头看，他认为这些项目只能算是提高了局部效率，并未提升整个产业效率，消费者并没有感知且对服务结果仍然不满意。 201"
+      },
+      {
+        "title": "36氪首发 | 牛津博士后跨界创业融资两轮，用光学重构机器人传感器",
+        "link": "https://36kr.com/p/3758900416348934?f=rss",
+        "pubDate": "2026-04-09 09:11:39  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人全身级力觉自感知系统公司——智子力控（上海）科技有限公司（下称“智子力控”）近日完成新一轮融资，本轮由中芯聚源独家投资；此前，公司已获得浦东创投旗下浦东人工智能种子基金投资。这连续两轮融资达千万级别。资金将主要用于技术研发迭代、小批量产线建设及工程化团队扩充。 智子力控成立于2024年，现总部位于上海，是一家基于光学传感技术，为人形机器人提供分布式力觉感知一体化解决方案的公司。 公司创始人宋戈阳算是一名跨界创业者。他本科就读于谢菲尔德大学土木工程专业，又相继在伦敦帝国理工大学、诺丁汉大学取得硕士和博士学位，博士毕业后在牛津大学从事博士后研究，核心方向是"
+      },
+      {
+        "title": "36氪专访 | 前小米高管王腾的下一站：从睡眠入手，抓住AI硬件十年一遇的创业窗口",
+        "link": "https://36kr.com/p/3758896443884033?f=rss",
+        "pubDate": "2026-04-09 09:08:02  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 今日宜休的创始人王腾觉得自己很庆幸，在39岁时赶上了AI硬件创业最好的时候。 过去很多年，王腾的日程表都以小时为单位切割，每一天似乎都处于战备状态。当这段职业生涯告一段落，大部分人选择休息。但王腾没有停下脚步。 刚离职时，王腾并不确定，干了十多年消费电子后，自己接下来要走向何方。他密集见投资人、老朋友，逐渐发现自己正处在一个转瞬即逝的拐点。“这是AI硬件十年一遇的创业窗口期。”王腾告诉硬氪。 高强度交流半个多月后，王腾立刻开始筹备硬件创业。他研究过AI眼镜、新能源车，最终却进入看似并无经验积累的“睡眠”赛道。 虽然自带光环，王腾也逃不开创业的艰辛。他要说服有稳定高收入"
+      },
+      {
+        "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+        "link": "https://36kr.com/p/3758836635730432?f=rss",
+        "pubDate": "2026-04-09 08:10:15  +0800",
+        "description": "今日热点导览 国资委成立境外国资工作局 李飞飞出任阿里云CTO B站“按暂停弹出广告”功能将于4月10日上线 多款印度原料药被暂停进口 德勤：一季度香港新股集资1099亿港元，全球居首 TOP3大新闻 张雪机车LOGO被指抄袭，设计公司回应 4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新京报贝壳财经记者注意到，张雪此前曾公开表示，张雪机车的整体设计花费约40万元，核心图形LOGO是“免费赠送”。据了解，张雪机车的LOGO由杭州巴顿品牌设计公司负责。该公司官网展示了张雪机车的LOGO设计思路，该公司的"
+      },
       {
         "title": "氪星晚报｜星巴克中国发布“千店千面”战略；TikTok宣布将投资10亿欧元，在芬兰建第二座数据中心；谷歌CEO皮查伊：2027年将是AI重塑生产方式的关键拐点",
         "link": "https://36kr.com/p/3756524566610437?f=rss",
@@ -74,49 +110,41 @@
         "link": "https://36kr.com/p/3748018292802309?f=rss",
         "pubDate": "2026-04-08 17:23:43  +0800",
         "description": "文｜彭倩 编辑｜乔芊 杨轩 4月1日新财年伊始，由蒋凡统领的阿里巴巴中国电商事业群正在规划可以结合 AI 实现的增长点。 据36氪了解，淘天集团当下对 AI 的探索将聚焦在 AI to B 方向上，其核心 OKR 是商家侧的 AI 工具留存率以及 AI 带来的 GMV 增长。它的背景是进入2026年，&nbsp;Open Claw 引爆 AI Agent，阿里 CEO 吴泳铭提出阿里组建新的 Alibaba Token Hub（ATH&nbsp;）事业群，所有关联业务需要围绕 Token 进行商业化。 组织变动也随之发生。据36氪了解，中国电商事业群 AI 业务的负责人张凯夫不再负责，承载 A"
-      },
-      {
-        "title": "我们寻找迎风而立的人｜2026年「36Under36」 征集开始",
-        "link": "https://36kr.com/p/3757769438609920?f=rss",
-        "pubDate": "2026-04-08 14:57:35  +0800",
-        "description": "出品｜36氪创投研究院 文｜罗婧、杜梦 如何形容2026的创投行业？ 「暗涌Waves」回望过去一年，试图找到最恰当的形容：当AI重新搭建产业底座，当硬科技成为底色，当全球化与本土创新彼此缠绕，我们已全然接受一级市场的新叙事、新世代。 从肖弘2016年的一场黑客松，到2026年的蝴蝶效应，我们深知总有人挺立在创业前线；当一位位科学家从实验室走向量产前线，我们坚信总有人在开辟前路。 这群人，有一个共同点： 不被风口塑形，在湍流中站稳，用持续创造定义自己的形状。年轻，是他们的共性。每一位 都用行动证明：真正的价值从来不在风口之上，而在长期坚持的土地里。 提炼今年的创投圈：风已至，路在前。 2026"
-      },
-      {
-        "title": "36氪首发 | 柔性触觉传感器厂商完成近亿元融资，切入具身智能与锂电安全双场景",
-        "link": "https://36kr.com/p/3757589543813893?f=rss",
-        "pubDate": "2026-04-08 10:58:42  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，苏州灵动佳芯科技有限公司（下称“灵动佳芯”）近期完成A轮融资，融资金额近亿元。本轮融资引入锦秋基金、中芯聚源、瑞丞投资、润璋创投等多家产业方与财务投资机构，慕石资本担任长期战略财务顾问。 灵动佳芯成立于2021年，是一家基于压电材料与半导体技术开发传感器解决方案的企业，应用场景覆盖智能机器人、智能穿戴、新能源与锂电池等多个领域。 创始核心团队均出身于国内电子科技大厂，拥有数十年管理、研发及量产经验。 在业务路径上，公司自成立之初即采取“成熟业务+前沿技术”双线推进策略：一方面，通过成熟市场产品的规模化出货建立"
-      },
-      {
-        "title": "产品观察 | 追觅入局智能床垫赛道，3个月公司估值10亿",
-        "link": "https://36kr.com/p/3757587705873158?f=rss",
-        "pubDate": "2026-04-08 10:56:54  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 中国每年向全球出口价值100亿的床垫，但很长一段时间，智能床垫行业的明星公司并不诞生于此地。 这个行业的明星创业者，是一个来自意大利小城费拉拉的业余运动员。2014年，他在纽约和妻子成立了一家智能床垫公司Eight Sleep，如今每年卖出5亿美元，估值达到15亿美元。 毫无意外，Eight Sleep的代工厂和研发伙伴都在珠三角。在看到Eight Sleep让人惊讶的销量后，中国公司终于冲入这个市场。 今年年初，追觅生态旗下的智能床垫品牌希瑞（stareep）宣布完成第二轮近亿元融资，投后估值达到10亿元，而这距离其"
-      },
-      {
-        "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
-        "link": "https://36kr.com/p/3757404054930182?f=rss",
-        "pubDate": "2026-04-08 07:53:58  +0800",
-        "description": "今日热点导览 海康威视回应辟谣“监控系统出现漏洞，300多人被带走” 郭艾伦否认被骗千万 日本餐饮巨头食其家创始人心梗去世 产业链人士：苹果首款折叠屏手机项目正常推进 宇树科技移动机器人新专利获授权 TOP 3大新闻 嫣然天使儿童医院发文感谢陈光标捐赠1000万 4月7日，“北京嫣然天使儿童医院体检中心”官方账号发文感谢陈光标对嫣然医院的支持，并发布了颁发给陈光标的感谢证书。证书内文写到：感谢您对北京嫣然天使儿童医院的大力支持。因为你们的帮助，更多的孩子在这里重建笑容。我们坚信，唯有怀抱着善良与爱，才能在公益之路上勇敢前行！4月5日，陈光标发布视频并晒出1000万元的汇款凭证说：“亲爱的网友们"
-      },
-      {
-        "title": "氪星晚报｜潘兴广场拟94亿欧元现金加股票收购环球音乐集团；高盛策略师：当前科技股估值带来投资机会；中国央行连续第17个月增持黄金",
-        "link": "https://36kr.com/p/3756523983536905?f=rss",
-        "pubDate": "2026-04-07 19:16:08  +0800",
-        "description": "大公司： 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布 4月6日，有媒体报道，富士康正在试产苹果首款折叠屏手机。对此，4月7日，苹果产业链人士向记者表示，苹果首款折叠屏手机项目方案早已确定，目前该项目正在正常推进中，试产是产品正式量产前必经阶段，一般需经过工程验证、设计验证、生产试产验证，最后再到正式量产，按正常推进计划，该产品将于今年秋季发布。（证券时报） 名创优品：预计2026年底将开设200家“乐园系”门店 36氪获悉，截至4月7日，名创优品已在全球落地65家“乐园系”门店，涵盖MINISO SPACE、MINISO FRIENDS、MINISO LAND、SUPER MI"
-      },
-      {
-        "title": "阿迪达斯不需要下一个Samba",
-        "link": "https://36kr.com/p/3745098994876420?f=rss",
-        "pubDate": "2026-04-07 16:25:53  +0800",
-        "description": "文｜贺哲馨 编辑｜乔芊 天刚擦黑，上海新天地一处老校舍的灯就亮了，人群随着光涌进来。曾经是教室的空间被布置成不同的主题：陈列着《足球周刊》、挂满复古球衣或者摆着摊位。人群在楼上楼下反复流动，像在逛一个临时拼起来的跳蚤市场，而不是一场发布会。 但它确实是一场发布会。主角是阿迪达斯最新发布的世界杯国家队客场球衣——时隔36年，这些球衣的右襟上再次换回了三叶草标识，这确实让它们显得更时尚了。随后的秀场里，这些球衣被出色的设计师和搭配达人们带进日常穿搭的语境中，离“上街”只差了一步。 Superstar也被放在了更靠前的位置。从楼梯墙面上Blackpink成员之一Jennie的海报，到小红书时尚博主的"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Electric Trucks Go Mainstream in Europe",
+        "link": "https://cleantechnica.com/2026/04/08/electric-trucks-go-mainstream-in-europe/",
+        "pubDate": "Thu, 09 Apr 2026 03:44:51 +0000",
+        "description": "Why an early revision of the EU CO2 standards for truckmakers is not justified and would endanger Europe’s automotive future. First introduced in 2019, and then revised in 2024, the EU CO2 standards for heavy-duty vehicles (HDVs) set specific emissions reduction targets for manufacturers selling HDV",
+        "title_cn": "电动卡车成为欧洲主流"
+      },
+      {
+        "title": "E-SAF Made in Europe — A Source of Jobs, Growth, and Energy Security",
+        "link": "https://cleantechnica.com/2026/04/08/e-saf-made-in-europe-a-source-of-jobs-growth-and-energy-security/",
+        "pubDate": "Thu, 09 Apr 2026 03:40:33 +0000",
+        "description": "E-SAF can play a key role in reducing European aviation emissions. While the climate benefits of e-SAF are well understood, much less attention has been paid to what scaling up European production could mean for Europe’s economic growth, jobs and energy security. Currently, the EU relies on imports ",
+        "title_cn": "欧洲制造的E-SAF —就业、增长和能源安全的源泉"
+      },
+      {
+        "title": "South Carolinians Fret Over Price Tag of Proposed Gas Plant at PSC Hearing",
+        "link": "https://cleantechnica.com/2026/04/08/south-carolinians-fret-over-price-tag-of-proposed-gas-plant-at-psc-hearing/",
+        "pubDate": "Thu, 09 Apr 2026 03:39:37 +0000",
+        "description": "As volatile fracked gas prices and energy demand rises, customers worry about paying more for less. COLUMBIA, S.C. — Last night, dozens of South Carolinians testified before the state Public Service Commission at two back-to-back hearings, expressing concerns that the proposed Canadys gas power plan",
+        "title_cn": "南卡罗来纳州人在PSC听证会上对拟议天然气厂的价格标签感到担忧"
+      },
+      {
+        "title": "Good News: A Bunch Of AI Data Centers In Limbo",
+        "link": "https://cleantechnica.com/2026/04/08/good-news-a-bunch-of-ai-data-centers-in-limbo/",
+        "pubDate": "Thu, 09 Apr 2026 02:44:30 +0000",
+        "description": "AI data centers have become a major problem for cutting greenhouse gas emissions. They need soooooo much power. Some people like to claim that they can all be powered with cheap, clean renewable energy from the sun and the wind, but the fact is, that&#8217;s not how it&#8217;s always happening ... [",
+        "title_cn": "好消息：一群人工智能数据中心陷入困境"
+      },
       {
         "title": "Tesla’s Price-to-Earnings Ratio Is Nuts",
         "link": "https://cleantechnica.com/2026/04/08/teslas-price-to-earnings-ratio-is-nuts/",
@@ -144,38 +172,10 @@
         "pubDate": "Wed, 08 Apr 2026 17:21:27 +0000",
         "description": "Once upon a time, renewables were nice to have but not essential. The war on Iran is changing that calculus. The post Fossil Fuels &#038; The Maslow Hierarchy Of Needs appeared first on CleanTechnica .",
         "title_cn": "化石燃料和马斯洛需求层次结构"
-      },
-      {
-        "title": "VinFast Rolls Out EV Rental Program For Drivers In Indonesia & The Philippines",
-        "link": "https://cleantechnica.com/2026/04/08/vinfast-rolls-out-ev-rental-program-for-drivers-in-indonesia-the-philippines/",
-        "pubDate": "Wed, 08 Apr 2026 15:24:14 +0000",
-        "description": "VinFast is introducing a new vehicle access program for transport and ride-hailing drivers in Indonesia and the Philippines, adding a rental option alongside its existing vehicle purchase model. The program allows drivers to rent vehicles from VinFast’s Green lineup through authorized dealerships in",
-        "title_cn": "VinFast为印度尼西亚和菲律宾的司机推出电动汽车租赁计划"
-      },
-      {
-        "title": "What KOKO’s Collapse Reveals about Carbon Market Infrastructure and Why Africa’s Carbon Future Depends on Integrity, Not Discounts",
-        "link": "https://cleantechnica.com/2026/04/08/what-kokos-collapse-reveals-about-carbon-market-infrastructure-and-why-africas-carbon-future-depends-on-integrity-not-discounts/",
-        "pubDate": "Wed, 08 Apr 2026 14:58:27 +0000",
-        "description": "Earlier this year, 1.5 million Kenyan households received a text message reading: “Samahani KOKO customer. We regret to inform you that KOKO is closing operations today.” Within hours, KOKO Networks, one of Africa’s most celebrated clean-energy startups, laid off 700 staff, shut 3,000 fuel stations,",
-        "title_cn": "科科的崩溃揭示了碳市场基础设施以及为什么非洲的碳未来取决于完整性，而不是折扣"
-      },
-      {
-        "title": "First Electric Buses Launch In Puerto Vallarta",
-        "link": "https://cleantechnica.com/2026/04/08/first-electric-buses-launch-in-puerto-vallarta/",
-        "pubDate": "Wed, 08 Apr 2026 14:35:09 +0000",
-        "description": "Puerto Vallarta is getting electric buses now. The first seven of the new fully electric buses were recently delivered in Puerto Vallarta, Mexico, but many more are to come. &#8220;The 38 new buses will primarily operate along the city’s main thoroughfare, Avenida Francisco Medina Ascencio, connecti",
-        "title_cn": "巴亚尔塔港推出首批电动公交车"
-      },
-      {
-        "title": "Why Are We Bombing Iran, Again?",
-        "link": "https://cleantechnica.com/2026/04/08/why-are-we-bombing-iran-again/",
-        "pubDate": "Wed, 08 Apr 2026 14:00:07 +0000",
-        "description": "By pretty much all accounts, the US starting another war in the Middle East, this time in Iran, is not going well. At least 13 Americans have died while around 300–750 have been injured, and for those of us who care (I do) countless Iranian children and civilians have been ... [continued] The post W",
-        "title_cn": "我们为什么要再次轰炸伊朗？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,10 +248,10 @@
         "description": "浙江省经济信息中心 &nbsp;&nbsp; 浙江省经济信息中心"
       },
       {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
-        "pubDate": "Thu, 02 Apr 2026 20:00:14 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DZ1N4V0Z4bDY5a1hKLVppdGx4bXN0Y0xJZFFLSndDaU56VnFwVllHaG54MTFHbmo5WnJ6dU80V1JyOFNIa1c3cldrRm4taDNDdklJTnhnZnN2Zw?oc=5",
+        "pubDate": "Thu, 02 Apr 2026 20:01:55 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -272,12 +272,6 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 - 财富号",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcWRYUTFJaXF5UE1NTTlSZEFldl9kNUJ6SzI0eVVnbXNaWlQ2YVM0QzlGZ0g0dVktWnRLMktNUEc1bmNtYWx0bDlWQlplekJJUEhfZ3BRLUtjVE93dzg5U3FzMzczWXhxaUZv?oc=5",
-        "pubDate": "Tue, 31 Mar 2026 12:04:00 GMT",
-        "description": "在电力能源（数据中心、SOFC）、新能源（重卡、氢能）及智能物流等领域具备显著成 &nbsp;&nbsp; 财富号"
-      },
-      {
         "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
@@ -288,13 +282,26 @@
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcmJNZ0QtMTR3ZlBBWXdUOUZNZXhfbVlpRXlXVTk2VW9ENjhvVjEzdWFBWmlhTUFVdnBXX2dTWnlkT0U1YzRPTVZjWDRLTkhMcG5haVJ3M1RNRHhuaThmYUVlQV9aWnZReWtvNmpBRF81V2h6QlNDb0loM1A1aFExQmpwRQ?oc=5",
         "pubDate": "Tue, 30 Dec 2025 08:00:00 GMT",
         "description": "看，风光变绿氢 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "欧洲大力发展氢能，导致非洲的太阳能和风能潜力被转移。 - Global Energy Monitor",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeFFaVXhwbjZWWi03c1NRdDlhaDlkX0l3REFuN2RqbnRwUEtpQVotNTNKdVV2UExjbi0zdFZfTmd0WWU1UlA3YWpGOGcySWRFeWdKeVdlS21sUmxUckNKa2NXV01tdTNYYXVwSTQta2hrMFFlV0pma3E0TzQtUzFaZ29ab3BtRU1laWpDc1ZrajQ1cElGQlBqb2laNG9fUFRYUlE5V0hvODVkSDl1eDdkbC1zQTJleDQ?oc=5",
+        "pubDate": "Thu, 20 Nov 2025 08:00:00 GMT",
+        "description": "欧洲大力发展氢能，导致非洲的太阳能和风能潜力被转移。 &nbsp;&nbsp; Global Energy Monitor"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "ARENA Funds InterContinental Energy to Develop Digital Twin for Power-to-Hydrogen Node",
+        "link": "https://fuelcellsworks.com/2026/04/08/green-hydrogen/arena-funds-intercontinental-energy-to-develop-digital-twin-for-power-to-hydrogen-node",
+        "pubDate": "Wed, 08 Apr 2026 15:48:59 GMT",
+        "description": "",
+        "title_cn": "ARENA为洲际能源公司提供资金，用于开发用于电力氢能节点的数字双胞胎"
+      },
       {
         "title": "Blue FC Signs Distribution Deal With H2V2 to Supply Hydrogen Fuel Cell Systems in Mexico",
         "link": "https://fuelcellsworks.com/2026/04/01/fuel-cells/blue-fc-signs-distribution-deal-with-h2v2-to-supply-hydrogen-fuel-cell-systems-in-mexico",
@@ -343,93 +350,86 @@
         "pubDate": "Wed, 08 Apr 2026 14:18:24 GMT",
         "description": "",
         "title_cn": "全球最大的绿色氢耦合煤化工项目位于新疆"
-      },
-      {
-        "title": "Kabar Becomes Exclusive Partner for HYTING Hydrogen Technologies",
-        "link": "https://fuelcellsworks.com/2026/04/08/clean-energy/kabar-becomes-exclusive-partner-for-hyting-hydrogen-technologies",
-        "pubDate": "Wed, 08 Apr 2026 14:14:38 GMT",
-        "description": "",
-        "title_cn": "Kabar成为HYTING Hydrogen Technologies的独家合作伙伴"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Solving the Peierls-Boltzmann transport equation with matrix product states",
-        "link": "https://arxiv.org/abs/2604.06153v1",
-        "pubDate": "2026-04-07T17:53:10Z",
-        "description": "The Peierls-Boltzmann transport equation (PBE), which governs non-equilibrium phonon transport, suffers from the curse of dimensionality due to its high-dimensional phase space including both real and modal spaces. We explore the use of matrix product states (MPS) for numerical simulation of the PBE",
-        "title_cn": "用矩阵乘积状态求解Peierls-Boltzmann传输方程"
+        "title": "Temporal Structure Mediates the Robustness and Collapse of Plant-Pollinator Networks",
+        "link": "https://arxiv.org/abs/2604.07347v1",
+        "pubDate": "2026-04-08T17:58:37Z",
+        "description": "Mutualistic networks provide a powerful way to describe and analyse plant-pollinator communities and their structure over time. While these networks capture the complex interdependencies that link population fates across the season, they can be hard to untangle, preventing us from understanding the ",
+        "title_cn": "时间结构介导植物传粉媒介网络的稳健性和崩溃"
       },
       {
-        "title": "Testing the 3-equation Kuhfuss Convection Model using the Sun",
-        "link": "https://arxiv.org/abs/2604.06151v1",
-        "pubDate": "2026-04-07T17:52:32Z",
-        "description": "Simplified, one-dimensional models are necessary to model convection in the context of stellar evolution. By including the non-local effects of convection, turbulent convection models describe convection in a more physical way compared to mixing length theory, which is typically used in one-dimensio",
-        "title_cn": "使用太阳测试3方程Kuhfuss对流模型"
+        "title": "SL-FAC: A Communication-Efficient Split Learning Framework with Frequency-Aware Compression",
+        "link": "https://arxiv.org/abs/2604.07316v1",
+        "pubDate": "2026-04-08T17:25:22Z",
+        "description": "The growing complexity of neural networks hinders the deployment of distributed machine learning on resource-constrained devices. Split learning (SL) offers a promising solution by partitioning the large model and offloading the primary training workload from edge devices to an edge server. However,",
+        "title_cn": "SL-FAC ：一种具有频率感知压缩的高效通信分割学习框架"
       },
       {
-        "title": "Nonvariational quantum optimisation approaches to pangenome-guided sequence assembly",
-        "link": "https://arxiv.org/abs/2604.06106v1",
-        "pubDate": "2026-04-07T17:17:34Z",
-        "description": "Assembling genomes from short-read sequencing data remains difficult in repetitive regions, where reference bias and combinatorial complexity limit existing methods. Pangenome-guided sequence assembly (PGSA) mitigates reference bias by reconstructing an individual genome as a walk through a populati",
-        "title_cn": "泛基因组引导序列装配的非变异量子优化方法"
+        "title": "Generation time in a discrete epidemic model with asymptomatic carriers: beyond geometric waiting times",
+        "link": "https://arxiv.org/abs/2604.07309v1",
+        "pubDate": "2026-04-08T17:20:39Z",
+        "description": "We study the random times between successive cases in a transmission chain of infectious diseases with asymptomatic carriers. We derive the probability distribution of this generation time (in days) from a discrete-time epidemic model with variable infectiousness both along elapsed times and across ",
+        "title_cn": "无症状携带者离散流行病模型中的生成时间：超出几何等待时间"
       },
       {
-        "title": "Masking or Mitigating? Deconstructing the Impact of Query Rewriting on Retriever Biases in RAG",
-        "link": "https://arxiv.org/abs/2604.06097v1",
-        "pubDate": "2026-04-07T17:10:15Z",
-        "description": "Dense retrievers in retrieval-augmented generation (RAG) systems exhibit systematic biases -- including brevity, position, literal matching, and repetition biases -- that can compromise retrieval quality. Query rewriting techniques are now standard in RAG pipelines, yet their impact on these biases ",
-        "title_cn": "掩蔽还是缓解？解构查询重写对RAG中检索器偏差的影响"
+        "title": "Symmetry-protected four double-Weyl fermions and their topological phase transitions in nonmagnetic crystals",
+        "link": "https://arxiv.org/abs/2604.07301v1",
+        "pubDate": "2026-04-08T17:09:58Z",
+        "description": "Realizing Weyl semimetals (WSMs) with the minimal number of Weyl points (WPs) fundamentally simplifies extracting intrinsic topological responses. While a minimum of four conventional ($|C|=1$) WPs in nonmagnetic crystals is well-established, the exact symmetry requirements and material realization ",
+        "title_cn": "对称保护的四个双维尔费米子及其在非磁性晶体中的拓扑相变"
       },
       {
-        "title": "Simulating Thermal Properties of Bose-Hubbard Models on a Quantum Computer",
-        "link": "https://arxiv.org/abs/2604.06077v1",
-        "pubDate": "2026-04-07T16:56:56Z",
-        "description": "While recent advances have established efficient quantum algorithms for preparing Gibbs states of finite-dimensional systems, comparable complexity results for bosonic and other infinite-dimensional models remain unexplored. We introduce the first general rigorous Gibbs sampling framework for bosoni",
-        "title_cn": "在量子计算机上模拟Bose-Hubbard模型的热性质"
+        "title": "CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency",
+        "link": "https://arxiv.org/abs/2604.07286v1",
+        "pubDate": "2026-04-08T16:49:30Z",
+        "description": "Autonomous vehicles deployed in remote environments typically rely on embedded processors, compact batteries, and lightweight sensors. These hardware limitations conflict with the need to derive robust representations of the environment, which often requires executing computationally intensive deep ",
+        "title_cn": "CADENCE ：导航和计算效率的上下文适应深度估计"
       },
       {
-        "title": "Value Mirror Descent for Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2604.06039v1",
-        "pubDate": "2026-04-07T16:34:16Z",
-        "description": "Value iteration-type methods have been extensively studied for computing a nearly optimal value function in reinforcement learning (RL). Under a generative sampling model, these methods can achieve sharper sample complexity than policy optimization approaches, particularly in their dependence on the",
-        "title_cn": "强化学习的价值镜像下降"
+        "title": "Designing Safe and Accountable GenAI as a Learning Companion with Women Banned from Formal Education",
+        "link": "https://arxiv.org/abs/2604.07253v1",
+        "pubDate": "2026-04-08T16:14:26Z",
+        "description": "In gender-restrictive and surveilled contexts, where access to formal education may be restricted for women, pursuing education involves safety and privacy risks. When women are excluded from schools and universities, they often turn to online self-learning and generative AI (GenAI) to pursue their ",
+        "title_cn": "将安全和负责任的GenAI设计为被禁止接受正规教育的女性的学习伴侣"
       },
       {
-        "title": "Lyman-$α$ Forest Signatures of Mixed Fuzzy and Cold Dark Matter",
-        "link": "https://arxiv.org/abs/2604.06038v1",
-        "pubDate": "2026-04-07T16:33:48Z",
-        "description": "We investigate Lyman-alpha forest flux statistics in mixed fuzzy dark matter (FDM) and cold dark matter (CDM) cosmologies using the Fluctuating Gunn-Peterson Approximation (FGPA) applied to hybrid Schrödinger-Poisson and N-body simulations. We evolve the dark matter distribution from z = 120 to z = ",
-        "title_cn": "Lyman- $ α $混合模糊和寒冷黑暗物质的森林特征"
+        "title": "TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization",
+        "link": "https://arxiv.org/abs/2604.07248v1",
+        "pubDate": "2026-04-08T16:12:02Z",
+        "description": "Developing optical systems for free-space applications requires simulation tools that accurately capture turbulence-induced wavefront distortions and support gradient-based optimization. Here we introduce TurPy, a GPU-accelerated, fully differentiable wave optics turbulence simulator to bridge high ",
+        "title_cn": "TurPy ：一种基于物理的可微分光学湍流模拟器，用于算法开发和系统优化"
       },
       {
-        "title": "CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics",
-        "link": "https://arxiv.org/abs/2604.06036v1",
-        "pubDate": "2026-04-07T16:31:45Z",
-        "description": "Video streaming analytics is a crucial workload for vision-language model serving, but the high cost of multimodal inference limits scalability. Prior systems reduce inference cost by exploiting temporal and spatial redundancy in video streams, but they target either the vision transformer (ViT) or ",
-        "title_cn": "CoStream ：视频流分析的编解码引导资源效率系统"
+        "title": "Emergence of cooperation in nonlinear higher-order public goods games",
+        "link": "https://arxiv.org/abs/2604.07228v1",
+        "pubDate": "2026-04-08T15:51:03Z",
+        "description": "Evolutionary game theory has provided substantial contributions to explain the emergence of cooperation under unfavourable conditions in ecology, economics, and the social sciences. Recently, inspired by newly available empirical evidence on group interactions, higher-order networks have emerged as ",
+        "title_cn": "非线性高阶公共产品博弈中合作的出现"
       },
       {
-        "title": "A Co-Design Framework for High-Performance Jumping of a Five-Bar Monoped with Actuator Optimization",
-        "link": "https://arxiv.org/abs/2604.06025v1",
-        "pubDate": "2026-04-07T16:21:53Z",
-        "description": "The performance of legged robots depends strongly on both mechanical design and control, motivating co-design approaches that jointly optimize these parameters. However, most existing co-design studies focus on optimizing link dimensions and transmission ratios while neglecting detailed actuator des",
-        "title_cn": "通过执行器优化实现五杆单片机高性能跳跃的共同设计框架"
+        "title": "Improving Feasibility in Quantum Approximate Optimization Algorithm for Vehicle Routing via Constraint-Aware Initialization and Hybrid XY-X Mixing",
+        "link": "https://arxiv.org/abs/2604.07218v1",
+        "pubDate": "2026-04-08T15:39:22Z",
+        "description": "The Quantum Approximate Optimization Algorithm (QAOA) is a leading framework for quantum combinatorial optimization. The Vehicle Routing Problem (VRP), a core problem in logistics and transportation, is a natural application target, but it poses a major feasibility challenge for standard QAOA becaus",
+        "title_cn": "通过约束感知初始化和混合XY-X混合提高车辆路由的量子近似优化算法的可行性"
       },
       {
-        "title": "Rf spectra and pseudogap in ultracold Fermi gases across the BCS-BEC crossover from pairing fluctuation theory",
-        "link": "https://arxiv.org/abs/2604.06004v1",
-        "pubDate": "2026-04-07T15:38:39Z",
-        "description": "The pseudogap phenomenon is a hallmark of strongly interacting Fermi systems, from high-temperature superconductors to ultracold atomic gases, yet its precise origin remains debated. Here we calculate the spectral function and rf spectra of ultracold atomic gases across the BCS-BEC crossover to quan",
-        "title_cn": "来自配对波动理论的BCS-BEC交叉中超冷费米气体的Rf光谱和伪间隙"
+        "title": "Quantum Gibbs sampling through the detectability lemma",
+        "link": "https://arxiv.org/abs/2604.07214v1",
+        "pubDate": "2026-04-08T15:34:49Z",
+        "description": "Gibbs state preparation is an important subroutine in quantum computing. In this work we use the detectability lemma to improve Gibbs state preparation. Specifically, we design new Gibbs state preparation methods that do not rely on simulating Lindbladian evolution, thus avoiding the overhead from i",
+        "title_cn": "通过可探测性引理进行量子吉布斯采样"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "policy_nea": {
     "items": [
@@ -450,6 +450,12 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
         "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "国网、中国电建、中车株洲所、三一氢能、英特利等！湖北省公布四大氢能重大技术装备 - 国际氢能网",
@@ -474,16 +480,10 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
         "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
         "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "绿色燃料上升为国家能源安全战略，绿色氢氨醇要起飞！ - 低碳网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFaUFWVC1MYV9YNnVwc0NMdUdRTzVkNEhsNDZvcWxoMzZGZGVpU1NJV21XMnZiTEtlV0Etb2hqUGJ6YUJ6bHNTcXdpQS1xVF9CRThxN1I0V0pzOVMy?oc=5",
-        "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
-        "description": "绿色燃料上升为国家能源安全战略，绿色氢氨醇要起飞！ &nbsp;&nbsp; 低碳网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
-        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -506,10 +506,10 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ - 国际风力发电网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Zi1NM0hDeVgzNjB5TnJaVlF6NnRteXBlcGZjTW1Ea2o2UlpEcEliMTNPRVV3eVNhMTN3emxuVThrWFQxeldtMzl6WktTOVhLeS0tVTJseHFMdkk?oc=5",
+        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+        "description": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ &nbsp;&nbsp; 国际风力发电网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -518,10 +518,10 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ - 国际风力发电网",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Zi1NM0hDeVgzNjB5TnJaVlF6NnRteXBlcGZjTW1Ea2o2UlpEcEliMTNPRVV3eVNhMTN3emxuVThrWFQxeldtMzl6WktTOVhLeS0tVTJseHFMdkk?oc=5",
-        "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
-        "description": "绿电直连 | 政策图谱+17 省市布局+5大核心问题，一文讲透！ &nbsp;&nbsp; 国际风力发电网"
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-08 22:33 UTC"
+    "updated": "2026-04-09 04:28 UTC"
   }
 }
