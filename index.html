@@ -2001,6 +2001,25 @@
     const _newsCache = {};
     let _currentFeed = 'tech';
     let _allNewsData  = null;   // 整个 news.json 只加载一次
+    
+    // 调试：监控news-content元素的变化
+    (function() {
+        const targetNode = document.getElementById('news-content');
+        if (targetNode) {
+            const config = { attributes: true, childList: true, subtree: true };
+            const callback = function(mutationsList, observer) {
+                for (let mutation of mutationsList) {
+                    if (mutation.type === 'childList') {
+                        console.log('[News] DOM changed, added:', mutation.addedNodes.length, 'removed:', mutation.removedNodes.length);
+                        console.log('[News] New content:', targetNode.innerHTML.substring(0, 200));
+                    }
+                }
+            };
+            const observer = new MutationObserver(callback);
+            observer.observe(targetNode, config);
+            console.log('[News] MutationObserver started');
+        }
+    })();
 
     function _renderNews(items, feedKey, source, updatedAt) {
         const el = document.getElementById('news-content');
@@ -2016,9 +2035,13 @@
             let desc = (item.description || '').replace(/<[^>]+>/g,'').trim();
             if (desc.length > 130) desc = desc.slice(0,130) + '…';
             const titleCn = (item.title_cn || '').trim();
+            // 调试日志
+            if (titleCn) {
+                console.log('[News] 找到中文翻译:', titleCn.substring(0, 30) + '...');
+            }
             return '<div class="news-item">' +
                 '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
-                (titleCn ? '<div class="news-item-title-cn">' + titleCn + '</div>' : '') +
+                (titleCn ? '<div class="news-item-title-cn" data-translation="true">' + titleCn + '</div>' : '') +
                 '<div class="news-item-meta">' +
                 (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
                 '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + source + '</span>' +
@@ -2027,28 +2050,42 @@
                 '</div>';
         }).join('');
         el.innerHTML = '<div class="news-items">' + html + '</div>';
+        // 调试日志
+        console.log('[News] 渲染完成，feed:', feedKey, 'items:', items.length, 'translations:', items.filter(i => i.title_cn).length);
     }
 
     function _showFeed(feedKey) {
+        console.log('[News] _showFeed called, feedKey:', feedKey, '_allNewsData:', !!_allNewsData);
         if (!_allNewsData) return;
         const data = _allNewsData[feedKey];
-        if (!data) return;
+        if (!data) {
+            console.log('[News] No data for feed:', feedKey);
+            return;
+        }
+        console.log('[News] Rendering feed:', feedKey, 'items:', data.items?.length, 'source:', data.source);
         _renderNews(data.items, feedKey, data.source || _NEWS_SOURCES[feedKey], data.updated);
     }
 
     async function _loadNewsJSON(force) {
+        console.log('[News] _loadNewsJSON called, force:', force, '_allNewsData:', !!_allNewsData, '_currentFeed:', _currentFeed);
         const el = document.getElementById('news-content');
         const timeEl = document.getElementById('news-update-time');
         // 内存缓存（15分钟）
-        if (!force && _allNewsData) { _showFeed(_currentFeed); return; }
+        if (!force && _allNewsData) { 
+            console.log('[News] Using cached data');
+            _showFeed(_currentFeed); 
+            return; 
+        }
         el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
         if (timeEl) timeEl.textContent = '加载中...';
         try {
             const res = await fetch('/data/news.json?_=' + Date.now(), { signal: fetchSignal(8000) });
             if (!res.ok) throw new Error('HTTP ' + res.status);
             _allNewsData = await res.json();
+            console.log('[News] Data loaded successfully, keys:', Object.keys(_allNewsData));
             _showFeed(_currentFeed);
         } catch(err) {
+            console.error('[News] Error loading data:', err);
             el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据加载失败，请刷新页面重试</div>';
             if (timeEl) timeEl.textContent = '加载失败';
         }
