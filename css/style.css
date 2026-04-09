@@ -362,11 +362,11 @@ button {
     margin-bottom: 18px;
     letter-spacing: -1.5px;
     line-height: 1.1;
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 30%, #cbd5e1 60%, var(--primary-light) 100%);
+    background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 25%, #e2e8f0 50%, #cbd5e1 75%, var(--primary-light) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+    text-shadow: 0 4px 20px rgba(0, 0, 0, 0.3), 0 0 30px rgba(59, 130, 246, 0.2);
 }
 
 .banner-subtitle {
@@ -2197,19 +2197,20 @@ select.qr-field { cursor: pointer; }
 }
 .news-status { text-align: center; padding: 24px; font-size: 13px; color: var(--text-light); }
 .news-item-title-cn { 
-    font-size: 15px; 
+    font-size: 16px; 
     font-weight: 600; 
     color: var(--primary-color); 
-    opacity: .95; 
-    margin-top: 8px; 
+    opacity: 1; 
+    margin-top: 10px; 
     line-height: 1.6; 
     border-left: 4px solid var(--primary-color); 
-    padding-left: 12px; 
-    margin-left: 0;
-    background: rgba(37, 99, 235, 0.05);
-    padding-top: 6px;
-    padding-bottom: 6px;
-    border-radius: 0 6px 6px 0;
+    padding-left: 14px; 
+    background: rgba(37, 99, 235, 0.08);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
 /* 相关链接子分类 */
