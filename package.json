@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chokidar": "^5.0.0",
+    "fs-extra": "^11.3.4",
+    "gray-matter": "^4.0.3",
+    "highlight.js": "^11.11.1",
+    "marked": "^18.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
