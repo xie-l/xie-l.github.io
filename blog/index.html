@@ -198,6 +198,67 @@
             <p>&copy; 2026 谢亮. All rights reserved.</p>
         </div>
     </footer>
+
+    <!-- 写博客悬浮按钮 -->
+    <button class="quick-record-fab" id="qrFab" title="写博客 (Ctrl+Shift+N)">
+        <i class="fas fa-pen"></i>
+    </button>
+
+    <!-- 博客编辑器模态框 -->
+    <div class="qr-overlay" id="qrOverlay">
+        <div class="qr-modal">
+            <!-- 顶栏 -->
+            <div class="qr-head">
+                <span class="qr-head-title">✏️ 写博客</span>
+                <span style="font-size:11.5px;color:var(--text-light)">Ctrl+Shift+N</span>
+                <button class="qr-head-btn" id="qrSaveDraft"><i class="fas fa-save"></i> 存草稿</button>
+                <button class="qr-head-btn danger" id="qrClose"><i class="fas fa-times"></i> 关闭</button>
+            </div>
+            <!-- 草稿提示（有草稿时显示） -->
+            <div class="qr-draft-banner" id="qrDraftBanner" style="display:none">
+                <span>📝 检测到未发布的草稿</span>
+                <div style="display:flex;gap:12px">
+                    <button class="qr-draft-restore" id="qrRestoreDraft">恢复草稿</button>
+                    <button class="qr-draft-restore" id="qrDiscardDraft" style="color:#e74c3c">丢弃</button>
+                </div>
+            </div>
+            <!-- 元信息：标题 / 分类 / 标签 -->
+            <div class="qr-meta">
+                <input class="qr-field" id="qrTitle" type="text" placeholder="文章标题（随笔思考可选）" style="grid-column:1/-1">
+                <select class="qr-field" id="qrCategory">
+                    <option value="life">📅 生活日记</option>
+                    <option value="books">📚 书籍阅读</option>
+                    <option value="tech">💻 技术思考</option>
+                    <option value="analysis">📊 数据分析</option>
+                    <option value="quotes">❝ 摘录记录</option>
+                    <option value="thoughts">💡 随笔思考（标题可选）</option>
+                </select>
+                <input class="qr-field" id="qrTags" type="text" placeholder="标签（逗号分隔，如：读书笔记,成长）" style="grid-column:2/-1">
+            </div>
+            <!-- 摘录来源（仅 quotes 分类显示） -->
+            <div id="qrSourceRow" style="display:none;margin:-8px 0 0;padding:0 20px 10px">
+                <input class="qr-field" id="qrSource" type="text" placeholder="来源链接或出处（可选，如：https://... 或「作者/书名」）" style="width:100%;box-sizing:border-box">
+            </div>
+            <!-- 正文 -->
+            <div class="qr-body-wrap">
+                <textarea id="qrBody" placeholder="开始写作……
+
+支持多段落，每行自动排版为独立段落。
+可以写日记、读书感悟、工作思考、数据分析……
+
+写完后点右下角「发布」，文章将直接出现在对应分类的博客页面。"></textarea>
+            </div>
+            <!-- 底栏 -->
+            <div class="qr-foot">
+                <span class="qr-foot-status" id="qrStatus"></span>
+                <span class="qr-char-count" id="qrCharCount">0 字</span>
+                <button class="qr-publish-btn" id="qrPublish">
+                    <i class="fas fa-paper-plane"></i> 发布到博客
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- Pagefind 搜索 JS -->
     <script src="../pagefind/pagefind-ui.js"></script>
     <script>
@@ -218,5 +279,8 @@
             if (saved === 'dark') document.documentElement.classList.add('dark');
         })();
     </script>
+    
+    <!-- 博客编辑器 JS -->
+    <script src="../js/main.js"></script>
 </body>
 </html>
