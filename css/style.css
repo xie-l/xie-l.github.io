@@ -362,11 +362,11 @@ button {
     margin-bottom: 18px;
     letter-spacing: -1.5px;
     line-height: 1.1;
-    background: linear-gradient(135deg, rgba(248, 250, 252, 0.98) 0%, rgba(191, 219, 254, 0.9) 50%, var(--primary-light) 100%);
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 30%, #cbd5e1 60%, var(--primary-light) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
 }
 
 .banner-subtitle {
@@ -2197,15 +2197,19 @@ select.qr-field { cursor: pointer; }
 }
 .news-status { text-align: center; padding: 24px; font-size: 13px; color: var(--text-light); }
 .news-item-title-cn { 
-    font-size: 14px; 
+    font-size: 15px; 
     font-weight: 600; 
     color: var(--primary-color); 
-    opacity: .9; 
-    margin-top: 6px; 
-    line-height: 1.5; 
-    border-left: 3px solid var(--primary-color); 
-    padding-left: 10px; 
+    opacity: .95; 
+    margin-top: 8px; 
+    line-height: 1.6; 
+    border-left: 4px solid var(--primary-color); 
+    padding-left: 12px; 
     margin-left: 0;
+    background: rgba(37, 99, 235, 0.05);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 0 6px 6px 0;
 }
 
 /* 相关链接子分类 */

@@ -1632,7 +1632,9 @@
                     if (placeholder) {
                         const img = document.createElement('img');
                         img.className = 'wr-cover';
-                        img.src = r.cover;
+                        // 使用图片代理绕过豆瓣防盗链
+                        const proxyUrl = 'https://images.weserv.nl/?url=' + encodeURIComponent(r.cover) + '&w=80&h=120&fit=cover';
+                        img.src = proxyUrl;
                         img.alt = r.title;
                         img.onerror = () => {
                             // 图片加载失败时，显示回退图标
