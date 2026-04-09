@@ -669,7 +669,8 @@ document.addEventListener('DOMContentLoaded', function() {
             
             container.innerHTML = items.map(item => {
                 // 适配RSS标准字段
-                const title = item.title || item.title_cn || '无标题';
+                const title = item.title || '无标题';
+                const titleCn = item.title_cn || '';
                 const link = item.link || '#';
                 const source = item.source || getFeedName(feedType);
                 const time = item.time || item.pubDate || '未知时间';
@@ -677,14 +678,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 return `
                     <div class="news-item">
-                        <div class="news-title">
-                            <a href="${link}" target="_blank" rel="noopener">${title}</a>
+                        <div class="news-item-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
+                        ${titleCn ? `<div class="news-item-title-cn">${titleCn}</div>` : ''}
+                        <div class="news-item-meta">
+                            <span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>${time}</span>
+                            <span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>${source}</span>
                         </div>
-                        <div class="news-meta">
-                            <span class="news-source">${source}</span>
-                            <span class="news-time">${time}</span>
-                        </div>
-                        ${summary ? `<div class="news-summary">${summary}</div>` : ''}
+                        ${summary ? `<div class="news-item-desc">${summary}</div>` : ''}
                     </div>
                 `;
             }).join('');
