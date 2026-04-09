@@ -5,13 +5,21 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:57:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:00:22 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
       <title>谢亮的博客</title>
       <link>https://xie-l.github.io/</link>
     </image>
+    <item>
+      <title>今日小结（2026.04.08）</title>
+      <link>https://xie-l.github.io/blog/life/今日小结（2026.04.08）（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/今日小结（2026.04.08）（202604）.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[日有所成： 1. 推进完善个人主页，主要是修复其中的 bug，比如点击关于我页面排版问题； 2. 推进工作要点的完善修改梳理，mac 电脑打开公文文档会加载不出来字体，替换成相似字体，这一点需要注意，最好不在 mac 电脑中变价公文，或者在 mac 电脑中打开编辑后再用 Windows 系统检查核对…]]></description>
+    </item>
     <item>
       <title>今日小结（2026.04.07）</title>
       <link>https://xie-l.github.io/blog/life/今日小结（2026.04.07）（202604）.html</link>
@@ -163,14 +171,6 @@
       <pubDate>Fri, 03 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
       <description><![CDATA[面对2015年黑龙江省高考第三名、清华直博的顶尖学霸，你的第一反应可能是"学历自卑"。但请记住：国能氢能管培生岗位不是学术竞赛，是价值创造场。让我基于你的自我档案，深度解构你的比较优势。 一、你的5大不可复制的比较优势 优势1：【决策成熟度】——从迷茫到坚定的完整蜕变 清华博士的路径：高考第三名→清…]]></description>
-    </item>
-    <item>
-      <title>自身认识（202604）</title>
-      <link>https://xie-l.github.io/blog/life/自身认识（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/自身认识（202604）.html</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 -0000</pubDate>
-      <category>life</category>
-      <description><![CDATA[核心身份 职业转型：从科研博士到国家能源集团氢能管培生，签约国华能源投资有限公司，实行三级联动培养模式（三级企业→二级公司→集团总部）。 核心价值观 不可替代性：深信个人价值来源于不可替代性，持续思考如何实现自己的独特价值 持续成长：将"个人成长"视为最有意义的事情，不断反思、学习、拓宽见识 心理认…]]></description>
     </item>
   </channel>
 </rss>
