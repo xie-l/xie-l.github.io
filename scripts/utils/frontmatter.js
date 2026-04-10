@@ -5,6 +5,17 @@ const fs = require('fs-extra');
 function parseFrontmatter(content) {
   try {
     const result = matter(content);
+    
+    // 处理日期：gray-matter 会自动解析日期为 Date 对象
+    // 我们需要将其转换回 YYYY-MM-DD 字符串
+    if (result.data.date && result.data.date instanceof Date) {
+      const date = result.data.date;
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      result.data.date = `${year}-${month}-${day}`;
+    }
+    
     return {
       data: result.data || {},
       content: result.content || '',
@@ -24,13 +35,19 @@ function validateFrontmatter(data, requiredFields = []) {
     }
   }
   
+  // 验证日期格式
   if (data.date) {
-    const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
-    if (!dateRegex.test(data.date)) {
-      errors.push('日期格式错误，应为 YYYY-MM-DD');
+    if (typeof data.date !== 'string') {
+      errors.push(`日期必须是字符串格式`);
+    } else {
+      const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
+      if (!dateRegex.test(data.date)) {
+        errors.push('日期格式错误，应为 YYYY-MM-DD');
+      }
     }
   }
   
+  // 验证分类
   if (data.category) {
     const validCategories = ['quotes', 'thoughts', 'tech', 'life', 'books', 'analysis'];
     if (!validCategories.includes(data.category)) {
@@ -38,6 +55,7 @@ function validateFrontmatter(data, requiredFields = []) {
     }
   }
   
+  // 验证状态
   if (data.status) {
     const validStatuses = ['draft', 'published'];
     if (!validStatuses.includes(data.status)) {
