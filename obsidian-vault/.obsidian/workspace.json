@@ -161,8 +161,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "c4781d24d36a231d",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "icon": "opencode-logo",
+              "title": "OpenCode"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,12 +189,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "204c36c1879414ec",
+  "active": "040b0fed2dcb701d",
   "lastOpenFiles": [
-    "生活日记/“attachments”/ac505c581f950ca08fcab18fb0190299.jpg",
+    "attachments/今日小结",
+    "attachments/今日小结/冬虫夏草鉴别会.jpg",
+    "attachments/ac505c581f950ca08fcab18fb0190299.jpg",
     "生活日记/今日小结（2026.04.09）.md",
     "欢迎.md",
     "创建链接.md",
