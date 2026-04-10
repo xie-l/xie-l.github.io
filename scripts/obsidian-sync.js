@@ -484,6 +484,37 @@ if (require.main === module) {
           console.error(`失败: ${result.error}`);
           process.exit(1);
         }
+      } else if (direction === 'blog-to-obsidian') {
+        const result = await sync.syncBlogToObsidian({ filePath });
+        
+        if (result.success) {
+          if (result.skipped) {
+            console.log(`跳过: ${filePath || '所有草稿文件'}`);
+          } else {
+            console.log(`成功: ${result.source} -> ${result.target}`);
+          }
+        } else {
+          console.error(`失败: ${result.error}`);
+          process.exit(1);
+        }
+      } else if (direction === 'both') {
+        // 先执行obsidian-to-blog
+        console.log('=== 第一阶段: Obsidian → Blog ===');
+        const result1 = await sync.syncObsidianToBlog({ filePath });
+        
+        if (result1.success && !result1.skipped) {
+          console.log(`Obsidian → Blog: ${result1.source} -> ${result1.target}`);
+        }
+        
+        // 再执行blog-to-obsidian
+        console.log('=== 第二阶段: Blog → Obsidian ===');
+        const result2 = await sync.syncBlogToObsidian({ filePath });
+        
+        if (result2.success && !result2.skipped) {
+          console.log(`Blog → Obsidian: ${result2.source} -> ${result2.target}`);
+        }
+        
+        console.log('=== 双向同步完成 ===');
       } else {
         console.log('暂不支持的方向');
         process.exit(1);

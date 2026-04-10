@@ -3,3 +3,5 @@
 {"timestamp":"2026-04-10T04:12:29.840Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"pad is not defined"}
 {"timestamp":"2026-04-10T04:38:38.241Z","level":"ERROR","message":"同步失败: 生活日记/测试图片同步.md","error":"Front Matter 验证失败: 缺少必填字段: status"}
 {"timestamp":"2026-04-10T05:01:02.657Z","level":"ERROR","message":"同步失败: 生活日记/完整功能测试.md","error":"Front Matter 验证失败: 缺少必填字段: status, 无效的分类: 生活日记"}
+{"timestamp":"2026-04-10T06:17:01.079Z","level":"ERROR","message":"同步失败: 生活日记/测试双向同步.md","error":"文件不存在: obsidian-vault/生活日记/测试双向同步.md"}
+{"timestamp":"2026-04-10T06:17:01.079Z","level":"ERROR","message":"同步失败: 博客文件不存在: blog/生活日记/测试双向同步.md"}
