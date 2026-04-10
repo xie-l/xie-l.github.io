@@ -2,3 +2,5 @@
 {"timestamp":"2026-04-10T02:12:44.650Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 验证失败: 日期格式错误，应为 YYYY-MM-DD"}
 {"timestamp":"2026-04-10T02:23:29.199Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
 {"timestamp":"2026-04-10T02:23:29.209Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 验证失败: 日期格式错误，应为 YYYY-MM-DD"}
+{"timestamp":"2026-04-10T02:29:48.836Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T02:29:48.845Z","level":"INFO","message":"跳过草稿文件: 生活日记/今日小结（2026.04.09）.md"}
