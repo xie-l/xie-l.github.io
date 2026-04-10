@@ -5,7 +5,7 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Apr 2026 09:21:30 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:30:53 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
@@ -43,6 +43,14 @@
       <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
       <category>thoughts</category>
       <description><![CDATA[不能习惯性反驳，这可能是由于反驳会获得一种自我价值感，所以在说话（尤其是反驳）前，要先停顿自问反问自己，真的是这样吗，这样说出去好吗，想了一下后再做决定。]]></description>
+    </item>
+    <item>
+      <title>index-optimized</title>
+      <link>https://xie-l.github.io/blog/thoughts/index-optimized.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/thoughts/index-optimized.html</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <category>thoughts</category>
+      <description><![CDATA[]]></description>
     </item>
     <item>
       <title>今日小结（2026.04.08）</title>
@@ -163,14 +171,6 @@
       <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
       <description><![CDATA[1.整理优化个人网页； 2.整理打扫房间。 日记]]></description>
-    </item>
-    <item>
-      <title>每日小结（2026.04.04-05）</title>
-      <link>https://xie-l.github.io/blog/life/每日小结（2026.04.04-05）（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/每日小结（2026.04.04-05）（202604）.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
-      <category>life</category>
-      <description><![CDATA[1.优化完善个人 GitHub 主页； 2.整理打扫房间，清洁整理衣服物品。 日记]]></description>
     </item>
   </channel>
 </rss>
