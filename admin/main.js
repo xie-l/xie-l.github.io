@@ -100,7 +100,12 @@ async function createOrUpdateFile(path, content, message, sha = null) {
     
     if (sha) {
         body.sha = sha; // 更新时需要提供sha
+        console.log('[DEBUG] 提供 SHA 参数:', sha);
+    } else {
+        console.log('[DEBUG] 未提供 SHA 参数，将创建新文件');
     }
+    
+    console.log('[DEBUG] 请求体:', JSON.stringify(body, null, 2));
     
     return await githubAPI(
         `/repos/${creds.owner}/${creds.repo}/contents/${path}`,
@@ -923,18 +928,26 @@ async function publishThought() {
         // 检查文件是否已存在，如果存在则获取其 SHA
         const filePath = `blog/thoughts/${filename}`;
         let fileSha = null;
+        console.log('[DEBUG] 准备检查文件:', filePath);
         try {
             const existingFile = await getFileContent(filePath);
+            console.log('[DEBUG] existingFile 结果:', existingFile);
             if (existingFile && existingFile.sha) {
                 fileSha = existingFile.sha;
+                console.log('[DEBUG] 获取到 SHA:', fileSha);
+            } else {
+                console.log('[DEBUG] 文件不存在或没有 SHA');
             }
         } catch (error) {
             // 文件不存在是正常现象，继续执行
             if (!error.message.includes('404')) {
                 console.warn('检查文件存在性时出错:', error);
+            } else {
+                console.log('[DEBUG] 文件不存在 (404)，将创建新文件');
             }
         }
         
+        console.log('[DEBUG] 准备调用 createOrUpdateFile，fileSha =', fileSha);
         // 创建或更新文件
         await createOrUpdateFile(
             filePath,
