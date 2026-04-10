@@ -1,3 +1,24 @@
 node_modules/
 .DS_Store
 blog/.DS_Store
+
+# Temporary files
+*.backup
+*.backup.*
+test-*.html
+test-*.js
+debug-*.js
+*.log
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+Desktop.ini
