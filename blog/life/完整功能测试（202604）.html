@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>完整功能测试 - 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}
+        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}
+        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}
+        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}
+        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
+        .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
+        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
+        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回生活日记</a>
+        <article class="post-header">
+            <h1 class="post-title">完整功能测试</h1>
+            <div class="post-meta">
+                <span><i class="fas fa-calendar"></i> 2026年4月10日</span>
+                <span><i class="fas fa-folder"></i> 生活日记</span>
+                <span><i class="fas fa-tags"></i> 测试 / 功能验证 / obsidian同步</span>
+            </div>
+        </article>
+        <div class="post-content">
+<h1>完整功能测试</h1>
+<p>这是一个用于测试 Obsidian 同步功能的完整示例文件。本文档包含了各种 Markdown 格式元素，用于验证同步脚本是否能正确处理所有内容。</p>
+<h2>1. 基础文本格式</h2>
+<h3>1.1 标题层级测试</h3>
+<p>这是 H3 标题下的内容。</p>
+<h4>H4 标题</h4>
+<p>这是 H4 标题下的内容。</p>
+<h5>H5 标题</h5>
+<p>这是 H5 标题下的内容。</p>
+<h6>H6 标题</h6>
+<p>这是 H6 标题下的内容。</p>
+<h3>1.2 文本样式</h3>
+<p><strong>加粗文本</strong> 应该被正确处理。</p>
+<p><em>斜体文本</em> 也应该被正确处理。</p>
+<p><em><strong>加粗斜体文本</strong></em> 需要同时支持。</p>
+<p><del>删除线文本</del> 用于表示过时内容。</p>
+<p><code>行内代码</code> 用于代码片段。</p>
+<h3>1.3 链接测试</h3>
+<p>这是一个 <a href="https://github.com/xie-l">外部链接</a> 的示例。</p>
+<p>这是一个 <a href="#1-%E5%9F%BA%E7%A1%80%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F">内部链接</a> 的示例。</p>
+<p>自动链接：<a href="https://github.com/xie-l.github.io">https://github.com/xie-l.github.io</a></p>
+<h2>2. 列表测试</h2>
+<h3>2.1 无序列表</h3>
+<ul>
+<li>第一项</li>
+<li>第二项<ul>
+<li>嵌套项 1</li>
+<li>嵌套项 2</li>
+</ul>
+</li>
+<li>第三项</li>
+</ul>
+<h3>2.2 有序列表</h3>
+<ol>
+<li>第一步</li>
+<li>第二步<ol>
+<li>子步骤 1</li>
+<li>子步骤 2</li>
+</ol>
+</li>
+<li>第三步</li>
+</ol>
+<h3>2.3 任务列表</h3>
+<ul>
+<li><input type="checkbox" checked disabled> 已完成的任务</li>
+<li><input type="checkbox" disabled> 未完成的任务</li>
+<li><input type="checkbox" disabled> 另一个未完成的任务</li>
+</ul>
+<h2>3. 引用与代码</h2>
+<h3>3.1 引用块</h3>
+<blockquote>
+<p>这是一个引用块。<br>可以包含多行内容。</p>
+<blockquote>
+<p>嵌套引用块也应该正常工作。</p>
+</blockquote>
+</blockquote>
+<h3>3.2 代码块</h3>
+<h4>行内代码</h4>
+<p>使用 <code>console.log(&#39;Hello World&#39;)</code> 输出日志。</p>
+<h4>多行代码块</h4>
+<pre><code class="language-javascript">function greet(name) {
+  console.log(`Hello, ${name}!`);
+  return `Welcome, ${name}`;
+}
+
+greet(&#39;Obsidian&#39;);
+</code></pre>
+<h4>带语法高亮的代码块</h4>
+<pre><code class="language-python">def fibonacci(n):
+    if n &lt;= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+
+print(fibonacci(10))
+</code></pre>
+<h2>4. 表格测试</h2>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th>状态</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>标题</td>
+<td>✅</td>
+<td>正常</td>
+</tr>
+<tr>
+<td>列表</td>
+<td>✅</td>
+<td>正常</td>
+</tr>
+<tr>
+<td>代码块</td>
+<td>✅</td>
+<td>正常</td>
+</tr>
+<tr>
+<td>表格</td>
+<td>✅</td>
+<td>正常</td>
+</tr>
+<tr>
+<td>图片</td>
+<td>⏳</td>
+<td>待验证</td>
+</tr>
+</tbody></table>
+<h2>5. 图片测试</h2>
+<h3>5.1 单个图片</h3>
+<p><img src="../../img/blog/life/%E5%AE%8C%E6%95%B4%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/test-image.jpg" alt="测试图片"></p>
+<h3>5.2 带标题的图片</h3>
+<p><img src="../../img/blog/life/%E5%AE%8C%E6%95%B4%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/image1.jpg" alt="示例图片"><br><em>这是图片的说明文字</em></p>
+<h3>5.3 多个图片</h3>
+<p><img src="../../img/blog/life/%E5%AE%8C%E6%95%B4%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/image2.png" alt="图片2"></p>
+<h2>6. 分割线</h2>
+<hr>
+<p>以上内容被分割线分隔。</p>
+<h2>7. HTML 嵌入</h2>
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <p>这是一个 HTML 嵌入示例。</p>
+</div><h2>8. 特殊字符</h2>
+<h3>8.1 转义字符</h3>
+<p>*这不是斜体*<br>`这不是代码`<br>[这不是链接]</p>
+<h3>8.2 符号</h3>
+<p>→ ← ↑ ↓ ↔ ⇄</p>
+<p>© ® ™</p>
+<h2>9. 数学公式（如果支持）</h2>
+<p>行内公式：$E = mc^2$</p>
+<p>块级公式：<br>$$<br>\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}<br>$$</p>
+<h2>10. 脚注</h2>
+<p>这是一个脚注示例<a href="%E8%BF%99%E6%98%AF%E8%84%9A%E6%B3%A8%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82">^1</a>。</p>
+<h2>11. 长文本测试</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>结论</h2>
+<p>本文档包含了 Obsidian 中常用的所有 Markdown 格式元素。如果同步脚本能正确处理本文档，说明同步功能基本完整。</p>
+<hr>
+<p><em>最后更新：2026-04-10</em></p>
+
+            <div class="post-tags"><span class="tag">测试</span>
+            <span class="tag">功能验证</span>
+            <span class="tag">obsidian同步</span></div>
+        </div>
+    </div>
+<script>
+document.querySelectorAll('.tag').forEach(function(el){el.style.cursor='pointer';el.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());});});
+</script>
+</body>
+</html>
