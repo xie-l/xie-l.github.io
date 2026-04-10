@@ -3,6 +3,7 @@
 
 const fs = require('fs-extra');
 const path = require('path');
+const cheerio = require('cheerio');
 const { loadConfig } = require('./utils/config');
 const { validateFrontmatter, parseFrontmatter } = require('./utils/frontmatter');
 const { convertMarkdownToHtml } = require('./utils/markdown-converter');
@@ -12,6 +13,30 @@ const { createBackup } = require('./utils/backup');
 const { updateCategoryIndex } = require('./utils/category-index');
 const { htmlToMarkdown } = require('./utils/html-to-markdown');
 const Logger = require('./utils/logger');
+const { pad, safeHtml, sanitizeFilename, isValidPath, getFileKey } = require('./utils/string-helpers');
+
+// 常量配置
+const CATEGORY_CONFIG = {
+  NAMES: {
+    life: '生活日记',
+    books: '书籍阅读',
+    tech: '技术思考',
+    analysis: '数据分析',
+    quotes: '摘录记录',
+    thoughts: '随笔思考'
+  },
+  ICONS: {
+    life: '📅',
+    books: '📚',
+    tech: '💻',
+    analysis: '📊',
+    quotes: '❝',
+    thoughts: '💡'
+  }
+};
+
+const BLOG_CATEGORIES = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
+const CONCURRENT_LIMIT = 5; // 并行处理限制
 
 class ObsidianSync {
   constructor(options = {}) {
@@ -32,6 +57,11 @@ class ObsidianSync {
 
   async syncSingleFile(filePath) {
     try {
+      // 验证文件路径安全性
+      if (!isValidPath(filePath)) {
+        throw new Error(`非法文件路径: ${filePath}`);
+      }
+      
       this.logger.info(`开始同步文件: ${filePath}`);
       
       const fullPath = path.join(this.config.obsidian.vaultPath, filePath);
@@ -75,13 +105,12 @@ class ObsidianSync {
       const blogCategory = getBlogCategory(path.dirname(filePath));
       const now = new Date(frontmatter.date);
       
-      function pad(n) { return String(n).padStart(2, '0'); }
       const stamp = now.getFullYear() + pad(now.getMonth() + 1);
       
       // 生成文件名：有标题用标题，无标题用日期
       let filename;
       if (frontmatter.title) {
-        const safeTitle = frontmatter.title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 30);
+        const safeTitle = sanitizeFilename(frontmatter.title, 30);
         filename = `${safeTitle}（${stamp}）.html`;
       } else {
         filename = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}（${stamp}）.html`;
@@ -131,7 +160,9 @@ class ObsidianSync {
   async syncAllFiles() {
     const results = [];
     const categories = Object.keys(require('./utils/category-map').categoryMap);
+    const filePromises = [];
     
+    // 收集所有待处理文件
     for (const category of categories) {
       const categoryPath = path.join(this.config.obsidian.vaultPath, category);
       
@@ -144,9 +175,31 @@ class ObsidianSync {
       
       for (const file of markdownFiles) {
         const filePath = path.join(category, file);
-        const result = await this.syncSingleFile(filePath);
-        results.push(result);
+        filePromises.push({ filePath, category });
       }
+    }
+    
+    this.logger.info(`找到 ${filePromises.length} 个待处理文件，使用并发限制: ${CONCURRENT_LIMIT}`);
+    
+    // 使用并发限制处理文件
+    const processBatch = async (batch) => {
+      const batchResults = [];
+      
+      for (const { filePath } of batch) {
+        const result = await this.syncSingleFile(filePath);
+        batchResults.push(result);
+      }
+      
+      return batchResults;
+    };
+    
+    // 分批处理
+    for (let i = 0; i < filePromises.length; i += CONCURRENT_LIMIT) {
+      const batch = filePromises.slice(i, i + CONCURRENT_LIMIT);
+      this.logger.info(`处理批次 ${Math.floor(i / CONCURRENT_LIMIT) + 1}/${Math.ceil(filePromises.length / CONCURRENT_LIMIT)}`);
+      
+      const batchResults = await processBatch(batch);
+      results.push(...batchResults);
     }
     
     return results;
@@ -160,91 +213,110 @@ class ObsidianSync {
   }
 
   generateHtmlTemplate(content, frontmatter, blogCategory) {
-    const CAT_NAMES = { 
-      life: '生活日记', 
-      books: '书籍阅读', 
-      tech: '技术思考', 
-      analysis: '数据分析', 
-      quotes: '摘录记录', 
-      thoughts: '随笔思考' 
-    };
-    const CAT_ICONS = { 
-      life: '📅', 
-      books: '📚', 
-      tech: '💻', 
-      analysis: '📊', 
-      quotes: '❝', 
-      thoughts: '💡' 
-    };
-    
-    function pad(n) { return String(n).padStart(2, '0'); }
-    function safe(s) { return String(s || '').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
-    
     const title = frontmatter.title;
     const cat = blogCategory;
     const tagList = frontmatter.tags || [];
     const source = frontmatter.source;
     const now = new Date(frontmatter.date);
     
-    const catName = CAT_NAMES[cat] || '随笔';
-    const catIcon = CAT_ICONS[cat] || '✏️';
+    const catName = CATEGORY_CONFIG.NAMES[cat] || '随笔';
+    const catIcon = CATEGORY_CONFIG.ICONS[cat] || '✏️';
     const dateStr = now.getFullYear() + '年' + (now.getMonth() + 1) + '月' + now.getDate() + '日';
     
-    const tagsHtml = tagList.map(function(t) { 
-      return '<span class="tag">' + safe(t) + '</span>'; 
-    }).join('\n            ');
+    const tagsHtml = tagList.map(t => 
+      `<span class="tag">${safeHtml(t)}</span>`
+    ).join('\n            ');
     
-    const tagClickScript = '<script>\ndocument.querySelectorAll(\'.tag\').forEach(function(el){el.style.cursor=\'pointer\';el.addEventListener(\'click\',function(e){e.preventDefault();e.stopPropagation();location.href=\'../tags.html?tag=\'+encodeURIComponent(el.textContent.trim());});});\n<\/script>';
+    const tagClickScript = `<script>
+document.querySelectorAll('.tag').forEach(function(el){
+  el.style.cursor='pointer';
+  el.addEventListener('click',function(e){
+    e.preventDefault();
+    e.stopPropagation();
+    location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
+  });
+});
+<\/script>`;
     
-    var sourceHtml = '';
-    if (cat === 'quotes' && source && source.trim()) {
-      var src = source.trim();
-      var isUrl = /^https?:\/\//i.test(src);
-      sourceHtml = '\n        <div class="post-source" data-source="' + safe(src) + '">' +
-        '<i class="fas fa-link"></i> 来源：' +
-        (isUrl ? '<a href="' + safe(src) + '" target="_blank" rel="noopener">' + safe(src) + '</a>' : safe(src)) +
-        '</div>';
+    const sourceHtml = this.generateSourceHtml(cat, source);
+    const headerHtml = this.generateHeaderHtml(cat, title, dateStr, catName, tagList);
+    
+    return `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${safeHtml(title || dateStr)} - 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>${catIcon}</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}
+        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}
+        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}
+        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}
+        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
+        .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
+        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
+        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回${catName}</a>
+        ${headerHtml}
+        ${sourceHtml}
+        <div class="post-content">
+            ${content}
+            <div class="post-tags">${tagsHtml}</div>
+        </div>
+    </div>
+    ${tagClickScript}
+</body>
+</html>`;
+  }
+  
+  /**
+   * 生成来源HTML
+   */
+  generateSourceHtml(cat, source) {
+    if (cat !== 'quotes' || !source || !source.trim()) {
+      return '';
     }
     
-    var headerHtml = (cat === 'thoughts' && !title) ?
-      '        <div class="post-meta" style="margin-bottom:24px;justify-content:center;display:flex;gap:16px;color:var(--text-light);font-size:14px">' +
-      '<span><i class="fas fa-calendar"></i> ' + dateStr + '</span>' +
-      '<span><i class="fas fa-folder"></i> ' + catName + '</span>' +
-      (tagList.length ? '<span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>' : '') +
-      '</div>' :
-      '        <article class="post-header">\n' +
-      '            <h1 class="post-title">' + safe(title) + '</h1>\n' +
-      '            <div class="post-meta">\n' +
-      '                <span><i class="fas fa-calendar"></i> ' + dateStr + '</span>\n' +
-      '                <span><i class="fas fa-folder"></i> ' + catName + '</span>\n' +
-      (tagList.length ? '                <span><i class="fas fa-tags"></i> ' + tagList.join(' / ') + '</span>\n' : '') +
-      '            </div>\n        </article>';
+    const src = source.trim();
+    const isUrl = /^https?:\/\//i.test(src);
     
-    return '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n' +
-      '    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
-      '    <title>' + safe(title || dateStr) + ' - 谢亮</title>\n' +
-      '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>' + catIcon + '</text></svg>">\n' +
-      '    <link rel="stylesheet" href="../../css/style.css">\n' +
-      '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">\n' +
-      '    <style>\n' +
-      '        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}\n' +
-      '        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}\n' +
-      '        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}\n' +
-      '        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}\n' +
-      '        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}\n' +
-      '        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}\n' +
-      '        .post-content p{margin-bottom:20px;text-align:justify}\n' +
-      '        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}\n' +
-      '        .post-source a{color:var(--secondary-color);word-break:break-all}\n' +
-      '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}\n' +
-      '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
-       '    </style>\n</head>\n<body>\n' +
-       '    <div class="blog-container">\n' +
-       '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回' + catName + '</a>\n' +
-       headerHtml + '\n' + sourceHtml +
-       '        <div class="post-content">\n' + content + '\n' +
-       '            <div class="post-tags">' + tagsHtml + '</div>\n' +
-       '        </div>\n    </div>\n' + tagClickScript + '\n</body>\n</html>';
+    return `
+        <div class="post-source" data-source="${safeHtml(src)}">
+            <i class="fas fa-link"></i> 来源：
+            ${isUrl ? `<a href="${safeHtml(src)}" target="_blank" rel="noopener">${safeHtml(src)}</a>` : safeHtml(src)}
+        </div>`;
+  }
+  
+  /**
+   * 生成头部HTML
+   */
+  generateHeaderHtml(cat, title, dateStr, catName, tagList) {
+    if (cat === 'thoughts' && !title) {
+      return `        <div class="post-meta" style="margin-bottom:24px;justify-content:center;display:flex;gap:16px;color:var(--text-light);font-size:14px">
+            <span><i class="fas fa-calendar"></i> ${dateStr}</span>
+            <span><i class="fas fa-folder"></i> ${catName}</span>
+            ${tagList.length ? `<span><i class="fas fa-tags"></i> ${tagList.join(' / ')}</span>` : ''}
+        </div>`;
+    }
+    
+    return `        <article class="post-header">
+            <h1 class="post-title">${safeHtml(title)}</h1>
+            <div class="post-meta">
+                <span><i class="fas fa-calendar"></i> ${dateStr}</span>
+                <span><i class="fas fa-folder"></i> ${catName}</span>
+                ${tagList.length ? `<span><i class="fas fa-tags"></i> ${tagList.join(' / ')}</span>` : ''}
+            </div>
+        </article>`;
   }
   
   /**
@@ -268,6 +340,11 @@ class ObsidianSync {
    */
   async syncSingleHtmlToMd(filePath) {
     try {
+      // 验证文件路径安全性
+      if (!isValidPath(filePath)) {
+        throw new Error(`非法文件路径: ${filePath}`);
+      }
+      
       this.logger.info(`开始同步博客文件到Obsidian: ${filePath}`);
       
       const fullPath = path.join(this.config.blog.blogPath, filePath);
@@ -341,35 +418,45 @@ class ObsidianSync {
   extractFrontmatterFromHtml(htmlContent) {
     const frontmatter = {};
     
-    // 提取标题
-    const titleMatch = htmlContent.match(/<h1 class="post-title">(.+?)<\/h1>/);
-    frontmatter.title = titleMatch ? titleMatch[1].trim() : '';
-    
-    // 提取日期
-    const dateMatch = htmlContent.match(/<i class="fas fa-calendar"><\/i>\s*([^<]+)<\/span>/);
-    if (dateMatch) {
-      frontmatter.date = this.parseChineseDate(dateMatch[1].trim());
-    }
-    
-    // 提取分类
-    const categoryMatch = htmlContent.match(/<i class="fas fa-folder"><\/i>\s*([^<]+)<\/span>/);
-    if (categoryMatch) {
-      frontmatter.category = this.mapCategoryName(categoryMatch[1].trim());
-    }
-    
-    // 提取标签
-    const tagsMatch = htmlContent.match(/<i class="fas fa-tags"><\/i>\s*([^<]+)<\/span>/);
-    if (tagsMatch) {
-      frontmatter.tags = tagsMatch[1].trim().split('/').map(tag => tag.trim()).filter(tag => tag);
-    }
-    
-    // 提取来源（如果是quotes分类）
-    if (frontmatter.category === 'quotes') {
-      const sourceMatch = htmlContent.match(/<div class="post-source"[^>]*>([\s\S]*?)<\/div>/);
-      if (sourceMatch) {
-        const sourceText = sourceMatch[1].replace(/<[^>]+>/g, '').replace('来源：', '').trim();
-        frontmatter.source = sourceText;
+    try {
+      const $ = cheerio.load(htmlContent);
+      
+      // 提取标题
+      const titleEl = $('h1.post-title');
+      frontmatter.title = titleEl.length ? titleEl.text().trim() : '';
+      
+      // 提取日期
+      const dateEl = $('.post-meta').find('span').first();
+      if (dateEl.length) {
+        const dateText = dateEl.text().replace(/[^\u4e00-\u9fa5\d]/g, '').trim();
+        frontmatter.date = this.parseChineseDate(dateText);
       }
+      
+      // 提取分类
+      const folderIcon = $('.post-meta').find('span').eq(1);
+      if (folderIcon.length) {
+        const categoryText = folderIcon.text().trim();
+        frontmatter.category = this.mapCategoryName(categoryText);
+      }
+      
+      // 提取标签
+      const tagsIcon = $('.post-meta').find('span').eq(2);
+      if (tagsIcon.length) {
+        const tagsText = tagsIcon.text().trim();
+        frontmatter.tags = tagsText.split('/').map(tag => tag.trim()).filter(tag => tag);
+      }
+      
+      // 提取来源（如果是quotes分类）
+      if (frontmatter.category === 'quotes') {
+        const sourceEl = $('.post-source');
+        if (sourceEl.length) {
+          const sourceText = sourceEl.text().replace('来源：', '').trim();
+          frontmatter.source = sourceText;
+        }
+      }
+    } catch (error) {
+      this.logger.error('提取Frontmatter失败', { error: error.message });
+      throw error;
     }
     
     return frontmatter;
@@ -383,12 +470,11 @@ class ObsidianSync {
     
     if (frontmatter.title) {
       // 清理标题中的特殊字符
-      const safeTitle = frontmatter.title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 50);
+      const safeTitle = sanitizeFilename(frontmatter.title, 50);
       filename = `${safeTitle}.md`;
     } else {
       // 使用日期
       const now = new Date(frontmatter.date || Date.now());
-      const pad = (n) => String(n).padStart(2, '0');
       filename = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}.md`;
     }
     
@@ -425,7 +511,7 @@ class ObsidianSync {
   }
   
   /**
-   * 同步所有HTML文件到Obsidian
+   * 同步所有HTML文件到Obsidian（带并发控制）
    */
   async syncAllHtmlToMd() {
     const results = [];
@@ -433,10 +519,10 @@ class ObsidianSync {
     try {
       this.logger.info('开始同步所有博客文件到Obsidian');
       
-      // 获取所有分类目录
-      const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
+      // 获取所有待处理的文件
+      const filePromises = [];
       
-      for (const category of categories) {
+      for (const category of BLOG_CATEGORIES) {
         const categoryDir = path.join(this.config.blog.blogPath, category);
         
         if (!await fs.pathExists(categoryDir)) {
@@ -450,19 +536,40 @@ class ObsidianSync {
         
         for (const htmlFile of htmlFiles) {
           const filePath = path.join(category, htmlFile);
-          
+          filePromises.push({ filePath, category });
+        }
+      }
+      
+      this.logger.info(`找到 ${filePromises.length} 个待处理文件，使用并发限制: ${CONCURRENT_LIMIT}`);
+      
+      // 使用并发限制处理文件
+      const processBatch = async (batch) => {
+        const batchResults = [];
+        
+        for (const { filePath } of batch) {
           try {
             const result = await this.syncSingleHtmlToMd(filePath);
-            results.push(result);
+            batchResults.push(result);
           } catch (error) {
             this.logger.error(`同步异常: ${filePath} - ${error.message}`);
-            results.push({
+            batchResults.push({
               success: false,
               error: error.message,
               source: filePath
             });
           }
         }
+        
+        return batchResults;
+      };
+      
+      // 分批处理
+      for (let i = 0; i < filePromises.length; i += CONCURRENT_LIMIT) {
+        const batch = filePromises.slice(i, i + CONCURRENT_LIMIT);
+        this.logger.info(`处理批次 ${Math.floor(i / CONCURRENT_LIMIT) + 1}/${Math.ceil(filePromises.length / CONCURRENT_LIMIT)}`);
+        
+        const batchResults = await processBatch(batch);
+        results.push(...batchResults);
       }
       
       const successful = results.filter(r => r.success).length;
@@ -493,45 +600,41 @@ class ObsidianSync {
    * 检测冲突
    * @param {string} targetPath - 目标文件路径
    * @param {Object} frontmatter - Frontmatter数据
+   * @throws {Error} 当冲突检测失败时抛出错误
    */
   async detectConflict(targetPath, frontmatter) {
-    try {
-      if (!await fs.pathExists(targetPath)) {
-        return { hasConflict: false };
-      }
-      
-      const existingContent = await fs.readFile(targetPath, 'utf8');
-      const { data: existingFrontmatter } = parseFrontmatter(existingContent);
-      
-      // 检查标题是否不同
-      if (existingFrontmatter.title !== frontmatter.title) {
-        return {
-          hasConflict: true,
-          reason: `标题不匹配: "${existingFrontmatter.title}" vs "${frontmatter.title}"`
-        };
-      }
-      
-      // 检查日期是否不同
-      if (existingFrontmatter.date !== frontmatter.date) {
-        return {
-          hasConflict: true,
-          reason: `日期不匹配: ${existingFrontmatter.date} vs ${frontmatter.date}`
-        };
-      }
-      
-      // 检查分类是否不同
-      if (existingFrontmatter.category !== frontmatter.category) {
-        return {
-          hasConflict: true,
-          reason: `分类不匹配: ${existingFrontmatter.category} vs ${frontmatter.category}`
-        };
-      }
-      
-      return { hasConflict: false };
-    } catch (error) {
-      this.logger.warn(`冲突检测失败: ${error.message}`);
+    if (!await fs.pathExists(targetPath)) {
       return { hasConflict: false };
     }
+    
+    const existingContent = await fs.readFile(targetPath, 'utf8');
+    const { data: existingFrontmatter } = parseFrontmatter(existingContent);
+    
+    // 检查标题是否不同
+    if (existingFrontmatter.title !== frontmatter.title) {
+      return {
+        hasConflict: true,
+        reason: `标题不匹配: "${existingFrontmatter.title}" vs "${frontmatter.title}"`
+      };
+    }
+    
+    // 检查日期是否不同
+    if (existingFrontmatter.date !== frontmatter.date) {
+      return {
+        hasConflict: true,
+        reason: `日期不匹配: ${existingFrontmatter.date} vs ${frontmatter.date}`
+      };
+    }
+    
+    // 检查分类是否不同
+    if (existingFrontmatter.category !== frontmatter.category) {
+      return {
+        hasConflict: true,
+        reason: `分类不匹配: ${existingFrontmatter.category} vs ${frontmatter.category}`
+      };
+    }
+    
+    return { hasConflict: false };
   }
   
   /**
@@ -637,9 +740,8 @@ class ObsidianSync {
    */
   async scanHtmlFiles() {
     const files = [];
-    const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
     
-    for (const category of categories) {
+    for (const category of BLOG_CATEGORIES) {
       const categoryPath = path.join(this.config.blog.blogPath, category);
       
       if (await fs.pathExists(categoryPath)) {
@@ -706,14 +808,10 @@ class ObsidianSync {
   
   /**
    * 获取文件键名（用于匹配）
+   * @deprecated 请使用 string-helpers.js 中的 getFileKey 函数
    */
   getFileKey(filename) {
-    // 移除扩展名和时间戳，只保留标题部分
-    return filename
-      .replace(/\.(md|html)$/, '')
-      .replace(/\（\d{6}\）$/, '') // 移除时间戳如（202604）
-      .replace(/\(\d{6}\)$/, '')  // 移除时间戳如(202604)
-      .trim();
+    return getFileKey(filename);
   }
   
   /**
@@ -722,9 +820,7 @@ class ObsidianSync {
   async updateAllIndexes() {
     this.logger.info('开始更新所有分类索引');
     
-    const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
-    
-    for (const category of categories) {
+    for (const category of BLOG_CATEGORIES) {
       try {
         await updateCategoryIndex(
           this.config.blog.blogPath,
