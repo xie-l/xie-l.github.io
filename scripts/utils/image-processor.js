@@ -3,10 +3,12 @@ const fs = require('fs-extra');
 const path = require('path');
 
 async function processImagePaths(content, articlePath, frontmatter) {
+  // 匹配 Markdown 图片语法: ![alt](./attachments/filename.jpg)
   const imageRegex = /!\[([^\]]*)\]\((\.\/attachments\/[^)]+)\)/g;
   
   let match;
   let processedContent = content;
+  let imageCount = 0;
   
   while ((match = imageRegex.exec(content)) !== null) {
     const [fullMatch, altText, imagePath] = match;
@@ -26,10 +28,21 @@ async function processImagePaths(content, articlePath, frontmatter) {
       const newPath = path.join('..', '..', targetPath);
       processedContent = processedContent.replace(fullMatch, `![${altText}](${newPath})`);
       
+      imageCount++;
       console.log(`✓ 复制图片: ${filename}`);
     } else {
       console.warn(`⚠️  图片不存在: ${sourcePath}`);
     }
+  }
+  
+  // 检查是否有未处理的图片（没有使用 ./attachments/ 路径的）
+  const simpleImageRegex = /!\[[^\]]*\]\([^)]+\)/g;
+  const allImages = processedContent.match(simpleImageRegex) || [];
+  const processedImages = processedContent.match(/!\[[^\]]*\]\(\.\.\/img\/blog\//g) || [];
+  
+  if (allImages.length > processedImages.length) {
+    console.warn(`⚠️  发现 ${allImages.length - processedImages.length} 张图片未使用 ./attachments/ 路径`);
+    console.warn('   提示：请将图片放在 obsidian-vault/attachments/ 文件夹，并使用 ![描述](./attachments/图片.jpg) 格式');
   }
   
   return processedContent;
