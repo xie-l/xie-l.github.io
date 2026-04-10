@@ -4,123 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>随笔思考 - 谢亮的博客</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        .blog-container { max-width: 900px; margin: 100px auto 60px; padding: 0 20px; }
-        .back-link { display:inline-block; margin-bottom:20px; color:var(--secondary-color); text-decoration:none; font-size:14px; transition:var(--transition); }
-        .back-link:hover { color:var(--primary-color); }
-        .page-header { text-align:center; margin-bottom:40px; padding-bottom:30px; border-bottom:1px solid var(--border-color); }
-        .page-title { font-size:28px; color:var(--primary-color); margin-bottom:8px; }
-        .page-subtitle { color:var(--text-light); font-size:15px; }
-        .post-list { display:flex; flex-direction:column; gap:0; }
-        .post-item { display:block; text-decoration:none; color:inherit; padding:22px 0; border-bottom:1px solid var(--border-color); transition:var(--transition); }
-        .post-item:last-child { border-bottom:none; }
-        .post-item:hover .post-title { color:var(--secondary-color); }
-        .post-date { font-size:12px; color:var(--text-light); margin-bottom:6px; }
-        .post-title { font-size:17px; font-weight:600; color:var(--primary-color); line-height:1.45; margin-bottom:6px; }
-        .post-excerpt { font-size:14px; color:var(--text-light); line-height:1.65; margin-bottom:8px; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
-        .post-tags { display:flex; gap:6px; flex-wrap:wrap; }
-        .tag { font-size:12px; background:var(--secondary-color); color:#fff; padding:3px 10px; border-radius:15px; }
-        .empty-state { text-align:center; padding:60px 20px; color:var(--text-light); }
-        .empty-state i { font-size:48px; margin-bottom:16px; opacity:.4; display:block; }
-        .empty-state h3 { font-size:18px; margin-bottom:8px; }
-        .empty-state p { font-size:14px; max-width:380px; margin:0 auto; line-height:1.7; }
-        @media(max-width:768px){ .blog-container{ margin-top:80px; } }
-    </style>
 </head>
 <body>
     <div class="blog-container">
         <a href="../" class="back-link"><i class="fas fa-arrow-left"></i> 返回博客首页</a>
-        <div class="page-header">
-            <h1 class="page-title"><i class="fas fa-lightbulb"></i> 随笔思考</h1>
-            <p class="page-subtitle">深度思考与感悟，随时记录</p>
-        </div>
-        <div class="post-list" id="post-list">
-            <div class="empty-state"><i class="fas fa-spinner fa-spin"></i><h3>加载中…</h3></div>
+        <h1 class="page-title">📝 随笔思考</h1>
+        <div class="post-list">
+            <a href="2026-04-10（202604）.html" class="post-item">
+                <div class="post-date">2026年4月10日</div>
+                <h3 class="post-title">不能习惯性反驳，这可能是由于反驳会获得一种自我价值感，所以在说话（尤其是反驳）前，要先停顿自问反问自...</h3>
+                <p class="post-excerpt"></p>
+            </a>
+            <a href="2026-04-09（202604）.html" class="post-item">
+                <div class="post-date">2026年4月9日</div>
+                <h3 class="post-title">组织参加会议需要准备的事情：桌签（桌签的排布）、…</h3>
+                <p class="post-excerpt"></p>
+            </a>
+            <a href="2026-04-07（202604）.html" class="post-item">
+                <div class="post-date">2026年4月7日</div>
+                <h3 class="post-title">做事情，很多时候不是这个事情本身，而是要...</h3>
+                <p class="post-excerpt"></p>
+            </a>
         </div>
     </div>
-    <script src="../../js/lazy-load.js"></script>
-    <script>
-    (function(){
-        var token = localStorage.getItem('github_token');
-        var owner = localStorage.getItem('github_owner');
-        var repo  = localStorage.getItem('github_repo');
-
-        function renderEmpty(msg) {
-            document.getElementById('post-list').innerHTML =
-                '<div class="empty-state"><i class="fas fa-lightbulb"></i>' +
-                '<h3>' + msg + '</h3>' +
-                '<p>在主页悬浮的写作入口选择「随笔思考」，记录你的深度思考。</p></div>';
-        }
-
-        if (!token || !owner || !repo) {
-            renderEmpty('请先登录以查看随笔');
-            return;
-        }
-
-        var apiBase = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/blog/thoughts';
-        fetch(apiBase, { headers: { 'Authorization': 'token ' + token } })
-        .then(function(r){ return r.json(); })
-        .then(function(files) {
-            if (!Array.isArray(files)) { renderEmpty('暂无随笔记录'); return; }
-            var htmlFiles = files.filter(function(f){ return f.type==='file' && f.name.endsWith('.html') && f.name!=='index.html'; });
-            if (htmlFiles.length === 0) { renderEmpty('暂无随笔记录'); return; }
-
-            // 按文件名排序（最新在前）
-            htmlFiles.sort(function(a,b){ return b.name.localeCompare(a.name); });
-
-            // 批量获取文件内容（最多30条）
-            var fetches = htmlFiles.slice(0,30).map(function(f){
-                return fetch(f.download_url).then(function(r){ return r.text(); }).then(function(html){ return { name: f.name, html: html }; }).catch(function(){ return null; });
-            });
-
-            return Promise.all(fetches).then(function(results) {
-                var posts = [];
-                results.forEach(function(item) {
-                    if (!item) return;
-                    var html = item.html;
-                    // 提取标题
-                    var titleM = html.match(/<h1 class="post-title">(.+?)<\/h1>/);
-                    var title = titleM ? titleM[1].trim() : '';
-                    // 提取日期
-                    var dateM = html.match(/<span><i class="fas fa-calendar"><\/i>\s*([^<]+)<\/span>/);
-                    var date = dateM ? dateM[1].trim() : '';
-                    // 提取摘要
-                    var excerptM = html.match(/<p class="post-excerpt">(.+?)<\/p>/);
-                    var excerpt = excerptM ? excerptM[1].trim().substring(0, 150) : '';
-                    // 提取标签
-                    var tags = [];
-                    var tagsM = html.match(/<div class="post-tags">([\s\S]*?)<\/div>/);
-                    if (tagsM) {
-                        var tagMatches = tagsM[1].match(/<span class="tag">(.+?)<\/span>/g);
-                        if (tagMatches) tags = tagMatches.map(function(t){ return t.replace(/<[^>]+>/g,''); });
-                    }
-                    posts.push({ name: item.name, title: title, date: date, excerpt: excerpt, tags: tags });
-                });
-
-                var html = '';
-                posts.forEach(function(p){
-                    html += '<a href="' + p.name + '" class="post-item">';
-                    html += '<div class="post-date">' + (p.date || '') + '</div>';
-                    html += '<h3 class="post-title">' + (p.title || p.name) + '</h3>';
-                    if (p.excerpt) html += '<p class="post-excerpt">' + p.excerpt + '</p>';
-                    if (p.tags && p.tags.length > 0) {
-                        html += '<div class="post-tags">';
-                        p.tags.forEach(function(t){ html += '<span class="tag">' + t + '</span>'; });
-                        html += '</div>';
-                    }
-                    html += '</a>';
-                });
-                document.getElementById('post-list').innerHTML = html;
-            });
-        })
-        .catch(function(err) {
-            renderEmpty('加载失败，请稍后重试');
-            console.error('加载错误:', err);
-        });
-    })();
-    </script>
 </body>
 </html>

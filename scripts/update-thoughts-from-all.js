@@ -11,7 +11,7 @@ async function updateThoughtsFromAll() {
   const blogIndex = await fs.readJson(blogIndexPath);
   
   // 筛选thoughts分类的文章
-  const thoughtsPosts = blogIndex.filter(p => p.category === 'thoughts');
+  const thoughtsPosts = blogIndex.posts.filter(p => p.category === 'thoughts');
   
   console.log(`找到 ${thoughtsPosts.length} 篇thoughts文章`);
   

@@ -13,7 +13,7 @@ async function updateThoughtsIndex() {
   // 获取所有thoughts HTML文件
   const files = await fs.readdir(thoughtsPath);
   const htmlFiles = files
-    .filter(f => f.endsWith('.html') && f !== 'index.html')
+    .filter(f => f.endsWith('.html') && f !== 'index.html' && !f.startsWith('index-'))
     .map(f => path.join(thoughtsPath, f));
   
   // 按修改时间排序（最新的在前）
