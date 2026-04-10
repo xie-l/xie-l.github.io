@@ -901,13 +901,14 @@ async function publishThought() {
         // 如果标题为空，使用内容前20字作为显示标题
         const displayTitle = title || content.substring(0, 20).replace(/\n/g, ' ') + '...';
         
-        // 生成文件名
+        // 生成文件名（添加时间戳避免冲突）
         let filename;
+        const timeStamp = now.toTimeString().split(' ')[0].replace(/:/g, ''); // HHMMSS格式
         if (title) {
             const slug = title.substring(0, 30).replace(/[^a-zA-Z0-9\u4e00-\u9fa5]/g, '-');
-            filename = `${dateStr}-${slug}.md`;
+            filename = `${dateStr}-${timeStamp}-${slug}.md`;
         } else {
-            filename = `${dateStr}.md`;
+            filename = `${dateStr}-${timeStamp}.md`;
         }
         
         // 处理标签
@@ -919,11 +920,27 @@ async function publishThought() {
         if (tagsStr) fileContent += `tags: [${tagsStr}]\n`;
         fileContent += `---\n\n${content}\n`;
         
-        // 创建文件
+        // 检查文件是否已存在，如果存在则获取其 SHA
+        const filePath = `blog/thoughts/${filename}`;
+        let fileSha = null;
+        try {
+            const existingFile = await getFileContent(filePath);
+            if (existingFile && existingFile.sha) {
+                fileSha = existingFile.sha;
+            }
+        } catch (error) {
+            // 文件不存在是正常现象，继续执行
+            if (!error.message.includes('404')) {
+                console.warn('检查文件存在性时出错:', error);
+            }
+        }
+        
+        // 创建或更新文件
         await createOrUpdateFile(
-            `blog/thoughts/${filename}`,
+            filePath,
             fileContent,
-            `添加随笔: ${displayTitle}`
+            `添加随笔: ${displayTitle}`,
+            fileSha
         );
         
         showAlert('quick-capture', '✓ 随笔发布成功！约1分钟后可见。', 'success');
