@@ -5,21 +5,13 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:18:25 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 06:18:45 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
       <title>谢亮的博客</title>
       <link>https://xie-l.github.io/</link>
     </image>
-    <item>
-      <title>test-publish</title>
-      <link>https://xie-l.github.io/blog/life/test-publish.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/test-publish.html</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
-      <category>life</category>
-      <description><![CDATA[]]></description>
-    </item>
     <item>
       <title>完整功能测试</title>
       <link>https://xie-l.github.io/blog/life/完整功能测试（202604）.html</link>
@@ -171,6 +163,14 @@
       <pubDate>Sat, 04 Apr 2026 00:00:00 -0000</pubDate>
       <category>books</category>
       <description><![CDATA[为什么在入职第一周读这本书：这是一本我应该在博士第一年就读的书，但我拖到了管培生第一周。讽刺的是，书的第一个习惯，就是在讲我这种拖法。 引子：这不是一本关于效率技巧的书 柯维（Stephen Covey）在《高效能人士的七个习惯》里开门见山地说：真正的效能，不是技巧的堆叠，而是人格的成熟。他提出了一…]]></description>
+    </item>
+    <item>
+      <title>刘强东三大工作方法-氢能管培生的执行革命（2026.04）</title>
+      <link>https://xie-l.github.io/blog/tech/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/tech/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.html</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 -0000</pubDate>
+      <category>tech</category>
+      <description><![CDATA[刘强东三大工作方法核心内容： 1. Pre-thinking（提前思考/预判）：做任何事之前，提前想清楚、规划周全、准备到位，把风险和问题消灭在萌芽状态。刘强东出差前不仅准备证件、资料，还要预判对接人、楼层、天气、甚至当地小费、零钱等细节；工作中开会、谈判、见客户前，提前准备所有材料，预判对方10个…]]></description>
     </item>
   </channel>
 </rss>
