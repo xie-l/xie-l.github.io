@@ -2360,11 +2360,28 @@
             const token = localStorage.getItem('github_token');
             const owner = localStorage.getItem('github_owner');
             const repo  = localStorage.getItem('github_repo');
+            
+            // 诊断日志
+            console.log('[DIAGNOSE] ===== 发布功能诊断开始 =====');
+            console.log('[DIAGNOSE] Token存在:', !!token);
+            console.log('[DIAGNOSE] Token长度:', token ? token.length : 'null');
+            if (token) {
+                console.log('[DIAGNOSE] Token前10位:', token.substring(0, 10));
+                console.log('[DIAGNOSE] Token后10位:', token.substring(token.length - 10));
+                console.log('[DIAGNOSE] Token格式-ghp_:', token.startsWith('ghp_'));
+                console.log('[DIAGNOSE] Token格式-github_pat_:', token.startsWith('github_pat_'));
+            }
+            console.log('[DIAGNOSE] Owner:', owner);
+            console.log('[DIAGNOSE] Repo:', repo);
+            
             if (!token || !owner || !repo) {
+                console.error('[DIAGNOSE] ❌ 缺少必要信息:', {token: !!token, owner: !!owner, repo: !!repo});
                 statusEl.textContent = '请先登录管理员面板';
                 setTimeout(function(){ window.open('/admin/login.html','_blank'); }, 800);
                 return;
             }
+            
+            console.log('[DIAGNOSE] ✓ 所有必要信息已获取');
 
             const tagList  = tagsEl.value.split(/[,，、;\s]+/).map(function(t){ return t.trim(); }).filter(Boolean);
             const source   = (sourceEl && cat === 'quotes') ? sourceEl.value.trim() : '';
@@ -2393,37 +2410,63 @@
 
             try {
                 const apiBase = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+                console.log('[DIAGNOSE] API Base URL:', apiBase);
+                console.log('[DIAGNOSE] 请求路径:', path);
+                console.log('[DIAGNOSE] 完整URL:', apiBase + encodeURIComponent(path));
                 
                 // 检查文件是否已存在，获取 SHA
                 let fileSha = null;
                 try {
+                    console.log('[DIAGNOSE] 开始检查文件是否存在...');
                     const checkResp = await fetch(apiBase + encodeURIComponent(path), {
                         method: 'GET',
                         headers: {'Authorization':'token '+token}
                     });
+                    
+                    console.log('[DIAGNOSE] 检查响应状态码:', checkResp.status);
+                    
                     if (checkResp.ok) {
+                        console.log('[DIAGNOSE] ✓ 文件已存在，获取SHA中...');
                         const fileData = await checkResp.json();
                         fileSha = fileData.sha;
+                        console.log('[DIAGNOSE] ✓ SHA获取成功:', fileSha ? fileSha.substring(0, 10) + '...' : 'null');
+                    } else if (checkResp.status === 404) {
+                        console.log('[DIAGNOSE] ✓ 文件不存在（正常，将创建新文件）');
+                    } else {
+                        console.warn('[DIAGNOSE] ⚠ 检查文件时返回非预期状态码:', checkResp.status);
                     }
                 } catch(e) {
-                    // 文件不存在是正常现象
+                    console.log('[DIAGNOSE] ✓ 文件不存在（异常被捕获，继续执行）');
                 }
                 
                 const body = { message:'发布博客：'+title, content:encoded };
                 if (fileSha) {
                     body.sha = fileSha; // 更新时需要提供 SHA
+                    console.log('[DIAGNOSE] ✓ 提供SHA参数（更新模式）');
+                } else {
+                    console.log('[DIAGNOSE] ✓ 不提供SHA参数（创建模式）');
                 }
+                
+                console.log('[DIAGNOSE] 准备发送PUT请求...');
+                console.log('[DIAGNOSE] 请求Headers中的Authorization:', 'token ' + token.substring(0, 10) + '...');
                 
                 const resp = await fetch(apiBase + encodeURIComponent(path), {
                     method: 'PUT',
                     headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
                     body: JSON.stringify(body)
                 });
+                
+                console.log('[DIAGNOSE] PUT请求完成，状态码:', resp.status);
+                
                 if (!resp.ok) {
+                    console.error('[DIAGNOSE] ❌ 请求失败，状态码:', resp.status);
                     const err = await resp.json().catch(function(){ return {}; });
+                    console.error('[DIAGNOSE] 错误详情:', err);
                     statusEl.textContent = '发布失败：' + (err.message || resp.status);
                     pubBtn.disabled = false; return;
                 }
+                
+                console.log('[DIAGNOSE] ✓ 文件创建/更新成功');
                 statusEl.textContent = '更新目录（2/2）……';
                 await updateCategoryIndex(owner, repo, token, cat, filename, title, tagList, raw, source);
                 localStorage.removeItem(DRAFT_KEY);
