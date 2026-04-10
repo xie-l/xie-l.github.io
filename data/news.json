@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "How the butterfly got its name: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-01160-0",
+        "pubDate": "2026-04-10",
+        "description": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01160-0 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "蝴蝶是如何得名的：书籍简介"
+      },
+      {
         "title": "Ambiphilic cross-coupling with aryl-bismuth reagents",
         "link": "https://www.nature.com/articles/s41586-026-10486-8",
         "pubDate": "2026-04-09",
@@ -49,17 +56,10 @@
         "pubDate": "2026-04-09",
         "description": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01120-8 Small changes in the non-coding part of the genome have a key role in sex determination.",
         "title_cn": "雌性小鼠在此单一DNA调整后生长睾丸"
-      },
-      {
-        "title": "Should academic misconduct be catalogued? Proposed US database sparks debate",
-        "link": "https://www.nature.com/articles/d41586-026-01147-x",
-        "pubDate": "2026-04-09",
-        "description": "Nature, Published online: 09 April 2026; doi:10.1038/d41586-026-01147-x Repository would require US universities to register research fraud and workplace harassment.",
-        "title_cn": "是否应该对学术不端行为进行分类？拟议的美国数据库引发了辩论"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Merino Energy Comes Out Of Stealth With $3,800 Heat Pump System",
+        "link": "https://cleantechnica.com/2026/04/10/merino-energy-comes-out-of-stealth-with-3800-heat-pump-system/",
+        "pubDate": "Fri, 10 Apr 2026 05:36:45 +0000",
+        "description": "Merino Energy is a new &#8220;climate hardware company&#8221; (I like that phrasing) based out of San Francisco that just came out of stealth mode this week. The company notes that it is &#8220;building a new category of professional-grade home heat pumps,&#8221; and it launched its first product, t",
+        "title_cn": "美利奴能源凭借$ 3,800的热泵系统脱颖而出"
+      },
       {
         "title": "GOTRAX Elo Electric Bike: A Simple, No-Stress Way To Get Around",
         "link": "https://cleantechnica.com/2026/04/09/gotrax-elo-electric-bike-a-simple-no-stress-way-to-get-around/",
@@ -165,17 +172,10 @@
         "pubDate": "Thu, 09 Apr 2026 23:25:00 +0000",
         "description": "The claim that nuclear power uses less land than renewables is making the rounds again, usually presented as if it settles a complex debate with one clean visual. A nuclear plant fits inside a compact fenced site. Wind turbines are spread across plains and ridgelines. Solar arrays cover visible surf",
         "title_cn": "核土地利用鸭子的回归"
-      },
-      {
-        "title": "Tesla Is Reportedly Working On A New, Smaller Electric Car After All",
-        "link": "https://cleantechnica.com/2026/04/09/tesla-is-reportedly-working-on-a-new-smaller-electric-car-after-all/",
-        "pubDate": "Thu, 09 Apr 2026 22:32:55 +0000",
-        "description": "Hmm &#8230; curiouser and curiouser. In a saga that has gone on for several years, Tesla was not going to develop an electric car smaller and cheaper than the Model 3, and then it was, and then it wasn&#8217;t, and then it might be, and then it wasn&#8217;t, and now ... [continued] The post Tesla Is",
-        "title_cn": "据报道，特斯拉正在研发一款新的、更小的电动汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,16 +446,16 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
-      },
-      {
         "title": "国网、中国电建、中车株洲所、三一氢能、英特利等！湖北省公布四大氢能重大技术装备 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wZllaYThFY3MtVzUxRC0weDRfTmd6bjM5NkZRRGtSTUwwcmFoR1pvd2o4bzA3MVhheDE5bVNha3hTQ1ZlNEdNVE5tQkxQeE9xOTNGX19B?oc=5",
         "pubDate": "Fri, 03 Apr 2026 00:41:22 GMT",
         "description": "国网、中国电建、中车株洲所、三一氢能、英特利等！湖北省公布四大氢能重大技术装备 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "新能源板块表现活跃_新浪新闻 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtS1dMdTQweU9rNXl5TFdsb3I4MHhXdUxiZzdYNHB1dDBOcnl5YkxUUXg0Ni1ZYjVSeWlMQ3duRElzcGg0X1VZQm4zOGs0MktPSXNXN19zN3ZUVW84NXdoVXRVMA?oc=5",
+        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "description": "新能源板块表现活跃_新浪新闻 &nbsp;&nbsp; 手机新浪网"
       },
       {
         "title": "氢能产业再迎政策“春风” 港股相关概念股逆市活跃 - 财联社",
@@ -470,20 +470,20 @@
         "description": "国家能源局：“十五五”期间将推进氢能试点，大力培育未来产业 &nbsp;&nbsp; 新浪网"
       },
       {
-        "title": "国家能源局11个司长同时发声，背后蕴含什么信号？ - 36kr.com",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82LWdGZXVGNDRyVEJHNEFhd0l6ZG5ESzdZUmJGbjR6NlJpX2lkVVVGcG9LcWN1cXRJMHdydzJNYTJnNjJ4cy1xTjZxUEJsQQ?oc=5",
-        "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
-        "description": "国家能源局11个司长同时发声，背后蕴含什么信号？ &nbsp;&nbsp; 36kr.com"
+        "title": "氢能万亿新赛道开启：绿色氢基能源有望站上爆发风口 | 前瞻十五五㉖ - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QdUpvY19TM2E1bDRNOHlSaWc3NUVBeGFHTXQ1QXE0UXpBTDZOS3hRMEo1dm9oNmNQU1pBcTBIVUNvMjhWalZvNXhUUktFQUVLbDluVW40ZDJldXdz?oc=5",
+        "pubDate": "Fri, 05 Dec 2025 08:00:00 GMT",
+        "description": "氢能万亿新赛道开启：绿色氢基能源有望站上爆发风口 | 前瞻十五五㉖ &nbsp;&nbsp; 证券时报"
       },
       {
-        "title": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfaDN5OHphTEZxRHJzcmllQ0tkWjVZdDNrSmd1N3dsX3hNbTJTcWtDRU1fWWFmb0x5elRCQTVTclI5SzExNUtKaVVYY1VtMWpEWHc3X3JfYnJ0SUtHQjdBck92VkQ4ajhNN1FFZ2JqYw?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 &nbsp;&nbsp; 新浪财经"
+        "title": "国家能源局：发展绿色燃料，有利于替代石油、保障能源安全！ - 雪球",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16UVhMY2hNR3B5NktlbXU0MmdFUFh5MkhCaGUxVFhKREQtY1dycGhpQ3VSN0RSNFZ1RHhoVjBUaTF2OHFFU3ZQTXg1WlNpWGVV?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 01:50:23 GMT",
+        "description": "国家能源局：发展绿色燃料，有利于替代石油、保障能源安全！ &nbsp;&nbsp; 雪球"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -530,13 +530,13 @@
         "description": "国家发改委：优化收费公路政策 健全自动驾驶有关法规 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
-        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
-        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
+        "title": "氢氨醇与能源安全分析_新浪新闻 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRN055cEQ0VS1ITFFXcTFKQVAwTVhsWV9NUmc4aGZMVS04YXZ1Ul85SUdEVzhrTVNLXzBYWF9pQ20yaG1ReXYzLW53UXhZS3c1eU4xMzJtZVVIaUZWa0ljM2NBdw?oc=5",
+        "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+        "description": "氢氨醇与能源安全分析_新浪新闻 &nbsp;&nbsp; 手机新浪网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-10 04:42 UTC"
+    "updated": "2026-04-10 08:18 UTC"
   }
 }
