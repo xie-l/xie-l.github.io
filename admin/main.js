@@ -187,8 +187,28 @@ class BlogManager {
             const tagList = tags ? tags.split(',').map(t => t.trim()).filter(t => t) : [];
             const htmlContent = this.generateBlogHTML(title, category, tagList, content, date);
 
-            // 创建博文文件
-            await createOrUpdateFile(path, htmlContent, `发布博客: ${title}`);
+            // 检查文件是否已存在，获取 SHA
+            let fileSha = null;
+            try {
+                const existingFile = await getFileContent(path);
+                if (existingFile && existingFile.sha) {
+                    fileSha = existingFile.sha;
+                    console.log('[DEBUG] 获取到文件 SHA:', fileSha);
+                }
+            } catch (error) {
+                // 文件不存在是正常现象
+                if (!error.message.includes('404')) {
+                    console.warn('检查文件存在性时出错:', error);
+                }
+            }
+
+            // 创建或更新博文文件
+            await createOrUpdateFile(
+                path,
+                htmlContent,
+                `发布博客: ${title}`,
+                fileSha
+            );
 
             // 更新分类索引页
             await this.updateCategoryIndex(category, title, filename, tagList, content);
@@ -853,11 +873,28 @@ async function publishQuote() {
             fileContent += `**摘录感悟**: ${reflection}\n`;
         }
         
-        // 创建文件
+        // 检查文件是否已存在，获取 SHA
+        const filePath = `blog/quotes/${filename}`;
+        let fileSha = null;
+        try {
+            const existingFile = await getFileContent(filePath);
+            if (existingFile && existingFile.sha) {
+                fileSha = existingFile.sha;
+                console.log('[DEBUG] 获取到文件 SHA:', fileSha);
+            }
+        } catch (error) {
+            // 文件不存在是正常现象
+            if (!error.message.includes('404')) {
+                console.warn('检查文件存在性时出错:', error);
+            }
+        }
+
+        // 创建或更新文件
         await createOrUpdateFile(
-            `blog/quotes/${filename}`,
+            filePath,
             fileContent,
-            `添加摘录: ${title}`
+            `添加摘录: ${title}`,
+            fileSha
         );
         
         showAlert('quick-capture', '✓ 摘录发布成功！约1分钟后可见。', 'success');
