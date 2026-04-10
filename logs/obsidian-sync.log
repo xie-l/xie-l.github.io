@@ -8,3 +8,8 @@
 {"timestamp":"2026-04-10T02:58:51.340Z","level":"INFO","message":"跳过草稿文件: 生活日记/今日小结（2026.04.09）.md"}
 {"timestamp":"2026-04-10T03:10:32.602Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
 {"timestamp":"2026-04-10T03:10:32.622Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结-2026-04-09.html"}
+{"timestamp":"2026-04-10T04:12:29.823Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:12:29.840Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"pad is not defined"}
+{"timestamp":"2026-04-10T04:12:48.597Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:12:52.663Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:12:52.679Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
