@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "210ec60938634e91",
+        "id": "c9129ea8b2504310",
         "type": "tabs",
         "children": [
           {
-            "id": "14f8a7f3b1451616",
+            "id": "204c36c1879414ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "生活日记/今日小结（2026.04.09）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "今日小结（2026.04.09）"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5
   },
   "right": {
     "id": "ad7e7292b667b362",
@@ -173,9 +177,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "14f8a7f3b1451616",
-  "lastOpenFiles": []
+  "active": "204c36c1879414ec",
+  "lastOpenFiles": [
+    "生活日记/“attachments”/ac505c581f950ca08fcab18fb0190299.jpg",
+    "生活日记/“attachments”",
+    "生活日记/今日小结（2026.04.09）.md",
+    "未命名.md",
+    "欢迎.md"
+  ]
 }
