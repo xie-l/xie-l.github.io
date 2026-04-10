@@ -5,3 +5,7 @@
 {"timestamp":"2026-04-10T05:01:02.657Z","level":"ERROR","message":"同步失败: 生活日记/完整功能测试.md","error":"Front Matter 验证失败: 缺少必填字段: status, 无效的分类: 生活日记"}
 {"timestamp":"2026-04-10T06:17:01.079Z","level":"ERROR","message":"同步失败: 生活日记/测试双向同步.md","error":"文件不存在: obsidian-vault/生活日记/测试双向同步.md"}
 {"timestamp":"2026-04-10T06:17:01.079Z","level":"ERROR","message":"同步失败: 博客文件不存在: blog/生活日记/测试双向同步.md"}
+{"timestamp":"2026-04-10T06:26:12.444Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 解析失败: can not read a block mapping entry; a multiline key may not be an implicit key at line 36, column 1:\n    \n    ^"}
+{"timestamp":"2026-04-10T06:26:12.681Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 解析失败: can not read a block mapping entry; a multiline key may not be an implicit key at line 36, column 1:\n    \n    ^"}
+{"timestamp":"2026-04-10T06:27:45.278Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 解析失败: can not read a block mapping entry; a multiline key may not be an implicit key at line 36, column 1:\n    \n    ^"}
+{"timestamp":"2026-04-10T06:28:37.833Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.09）.md","error":"Front Matter 解析失败: can not read a block mapping entry; a multiline key may not be an implicit key at line 36, column 1:\n    \n    ^"}

@@ -1600,6 +1600,29 @@
             if (grid) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
         }
     })();
+    
+    // 每5分钟自动刷新能源数据
+    setInterval(() => {
+        const grid = document.getElementById('em-grid');
+        if (grid) {
+            // 显示加载状态
+            grid.innerHTML = '<div class="em-loading">正在刷新能源数据...</div>';
+            // 重新加载数据
+            (async function() {
+                try {
+                    const res = await fetch('/data/energy.json?_=' + Date.now(), {
+                        signal: fetchSignal(8000)
+                    });
+                    if (!res.ok) throw new Error('HTTP ' + res.status);
+                    const d = await res.json();
+                    // 重新渲染逻辑（简化版）
+                    location.reload(); // 简单刷新页面
+                } catch (e) {
+                    if (grid) grid.innerHTML = '<div class="em-loading">刷新失败，请稍后重试</div>';
+                }
+            })();
+        }
+    }, 300000);
 
     // ========== 写作统计 ==========
     (async function loadBlogStats() {

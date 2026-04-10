@@ -439,6 +439,72 @@ class ObsidianSync {
     };
     return nameMap[catName] || 'life';
   }
+  
+  /**
+   * 同步所有博客文件到Obsidian
+   */
+  async syncAllBlogFiles() {
+    const results = [];
+    
+    try {
+      this.logger.info('开始同步所有博客文件到Obsidian');
+      
+      // 获取所有分类目录
+      const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
+      
+      for (const category of categories) {
+        const categoryDir = path.join(this.config.blog.blogPath, category);
+        
+        if (!await fs.pathExists(categoryDir)) {
+          this.logger.warn(`分类目录不存在: ${categoryDir}`);
+          continue;
+        }
+        
+        // 读取目录中的所有HTML文件
+        const files = await fs.readdir(categoryDir);
+        const htmlFiles = files.filter(f => f.endsWith('.html') && !f.startsWith('index'));
+        
+        for (const htmlFile of htmlFiles) {
+          const filePath = path.join(category, htmlFile);
+          
+          try {
+            const result = await this.syncSingleBlogFile(filePath);
+            results.push(result);
+            
+            if (result.success) {
+              this.logger.info(`同步成功: ${filePath}`);
+            } else {
+              this.logger.error(`同步失败: ${filePath} - ${result.error}`);
+            }
+          } catch (error) {
+            this.logger.error(`同步异常: ${filePath} - ${error.message}`);
+            results.push({
+              success: false,
+              error: error.message,
+              source: filePath
+            });
+          }
+        }
+      }
+      
+      this.logger.info(`所有博客文件同步完成，共处理 ${results.length} 个文件`);
+      
+      return {
+        success: true,
+        results: results,
+        total: results.length,
+        successful: results.filter(r => r.success).length,
+        failed: results.filter(r => !r.success).length
+      };
+    } catch (error) {
+      this.logger.error(`批量同步失败: ${error.message}`);
+      return {
+        success: false,
+        error: error.message,
+        results: results
+      };
+    }
+  }
 }
 
 module.exports = ObsidianSync;

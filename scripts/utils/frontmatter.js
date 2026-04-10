@@ -4,7 +4,23 @@ const fs = require('fs-extra');
 
 function parseFrontmatter(content) {
   try {
-    const result = matter(content);
+    // 预处理：修复常见的Front Matter格式问题
+    let processedContent = content;
+    
+    // 问题: tags: [...]---（结束标记前没有换行符）
+    // 将 ]--- 或 ]\n--- 替换为 ]\n---\n
+    processedContent = processedContent.replace(/\](\r?\n)?---(\r?\n)?/g, ']\n---\n');
+    
+    // 问题2: Obsidian的Markdown标记（**）干扰YAML解析
+    // 在Front Matter区域内移除**标记
+    const frontmatterMatch = processedContent.match(/^(---\n[\s\S]*?\n)---\n/);
+    if (frontmatterMatch) {
+      const frontmatter = frontmatterMatch[1];
+      const cleanedFrontmatter = frontmatter.replace(/\*\*/g, '');
+      processedContent = processedContent.replace(frontmatter, cleanedFrontmatter);
+    }
+    
+    const result = matter(processedContent);
     
     // 处理日期：gray-matter 会自动解析日期为 Date 对象
     // 我们需要将其转换回 YYYY-MM-DD 字符串
