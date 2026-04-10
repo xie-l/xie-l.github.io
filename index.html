@@ -1398,6 +1398,9 @@
     }
 
     loadWeather();
+    
+    // 每5分钟自动刷新天气数据
+    setInterval(loadWeather, 300000);
 
     // ========== 能源市场数据 ==========
     (async function loadEnergyData() {
