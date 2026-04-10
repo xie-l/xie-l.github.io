@@ -15,6 +15,8 @@
         .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
         .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
         .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
         .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
         .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
     </style>
@@ -22,7 +24,7 @@
 <body>
     <div class="blog-container">
         <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回生活日记</a>
-        <article class="post-header">
+                <article class="post-header">
             <h1 class="post-title">今日小结（2026.04.05）</h1>
             <div class="post-meta">
                 <span><i class="fas fa-calendar"></i> 2026年4月6日</span>
@@ -30,58 +32,27 @@
                 <span><i class="fas fa-tags"></i> 日小结 / 记录 / GitHub / 主页</span>
             </div>
         </article>
+        
         <div class="post-content">
             <p>- 1. 继续完善优化个人主页。主要是对主页呈现部分进行了修改，包括添加政府等部门的资讯动态、能源市场数据（油、煤、氢等）、添加微信阅读记录统计、字数统计等。在这个过程中，还处理了不满意的地方，如更新周期、报错等。</p>
-            <p>- 2. 周末推进 pubg、cs2等游戏。这个过程中主要是娱乐为主，并未过多的去关注如何提升技巧能力等。</p>
+<p>- 2. 周末推进 pubg、cs2等游戏。这个过程中主要是娱乐为主，并未过多的去关注如何提升技巧能力等。</p>
+<p>日小结 记录 GitHub 主页</p>
+
             <div class="post-tags"><span class="tag">日小结</span>
             <span class="tag">记录</span>
             <span class="tag">GitHub</span>
             <span class="tag">主页</span></div>
         </div>
     </div>
-<script>
-document.querySelectorAll('.tag').forEach(function(el){el.style.cursor='pointer';el.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());});});
-</script>
-
-<!-- Giscus 评论系统 -->
-<!-- 配置步骤（一次性）：
-     1. 在仓库 Settings → Features 中启用 Discussions
-     2. 访问 https://giscus.app → 输入 xie-l/xie-l.github.io → 获取 repo-id 与 category-id
-     3. 将下方 YOUR_REPO_ID 和 YOUR_CATEGORY_ID 替换为实际值
-     配置完成后此注释可删除 -->
-<div class="giscus-wrap" style="max-width:860px;margin:40px auto 60px;padding:0 20px">
-    <script src="https://giscus.app/client.js"
-        data-repo="xie-l/xie-l.github.io"
-        data-repo-id="R_kgDOJxjSOA"
-        data-category="General"
-        data-category-id="DIC_kwDOJxjSOM4C6RGA"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-    </script>
     <script>
-        // 与站点暗色模式同步
-        (function() {
-            const giscusFrame = () => document.querySelector('.giscus-frame');
-            const theme = localStorage.getItem('theme') ||
-                (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-            const sendTheme = () => {
-                const frame = giscusFrame();
-                if (!frame) return;
-                frame.contentWindow.postMessage(
-                    { giscus: { setConfig: { theme: theme === 'dark' ? 'dark' : 'light' } } },
-                    'https://giscus.app'
-                );
-            };
-            setTimeout(sendTheme, 1500);
-        })();
-    </script>
-</div>
+document.querySelectorAll('.tag').forEach(function(el){
+  el.style.cursor='pointer';
+  el.addEventListener('click',function(e){
+    e.preventDefault();
+    e.stopPropagation();
+    location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
+  });
+});
+</script>
 </body>
 </html>

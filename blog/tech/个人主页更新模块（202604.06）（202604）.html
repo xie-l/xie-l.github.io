@@ -15,6 +15,8 @@
         .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
         .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
         .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
         .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
         .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
     </style>
@@ -22,7 +24,7 @@
 <body>
     <div class="blog-container">
         <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回技术思考</a>
-        <article class="post-header">
+                <article class="post-header">
             <h1 class="post-title">个人主页更新模块（202604.06）</h1>
             <div class="post-meta">
                 <span><i class="fas fa-calendar"></i> 2026年4月6日</span>
@@ -30,58 +32,27 @@
                 <span><i class="fas fa-tags"></i> 更新，学习</span>
             </div>
         </article>
+        
         <div class="post-content">
             <p>添加了下面几个模块：</p>
-            <p>- 今日三问：帮助自己每天进行思考；</p>
-            <p>- 每日五词：帮助自己每天掌握学习；</p>
-            <p>- 今日数感：帮助提升自身数据敏感性；</p>
-            <p>- 资讯动态：帮助及时了解前沿动态。</p>
+<p>- 今日三问：帮助自己每天进行思考；</p>
+<p>- 每日五词：帮助自己每天掌握学习；</p>
+<p>- 今日数感：帮助提升自身数据敏感性；</p>
+<p>- 资讯动态：帮助及时了解前沿动态。</p>
+<p>更新，学习</p>
+
             <div class="post-tags"><span class="tag">更新，学习</span></div>
         </div>
     </div>
-<script>
-document.querySelectorAll('.tag').forEach(function(el){el.style.cursor='pointer';el.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());});});
-</script>
-
-<!-- Giscus 评论系统 -->
-<!-- 配置步骤（一次性）：
-     1. 在仓库 Settings → Features 中启用 Discussions
-     2. 访问 https://giscus.app → 输入 xie-l/xie-l.github.io → 获取 repo-id 与 category-id
-     3. 将下方 YOUR_REPO_ID 和 YOUR_CATEGORY_ID 替换为实际值
-     配置完成后此注释可删除 -->
-<div class="giscus-wrap" style="max-width:860px;margin:40px auto 60px;padding:0 20px">
-    <script src="https://giscus.app/client.js"
-        data-repo="xie-l/xie-l.github.io"
-        data-repo-id="R_kgDOJxjSOA"
-        data-category="General"
-        data-category-id="DIC_kwDOJxjSOM4C6RGA"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-    </script>
     <script>
-        // 与站点暗色模式同步
-        (function() {
-            const giscusFrame = () => document.querySelector('.giscus-frame');
-            const theme = localStorage.getItem('theme') ||
-                (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-            const sendTheme = () => {
-                const frame = giscusFrame();
-                if (!frame) return;
-                frame.contentWindow.postMessage(
-                    { giscus: { setConfig: { theme: theme === 'dark' ? 'dark' : 'light' } } },
-                    'https://giscus.app'
-                );
-            };
-            setTimeout(sendTheme, 1500);
-        })();
-    </script>
-</div>
+document.querySelectorAll('.tag').forEach(function(el){
+  el.style.cursor='pointer';
+  el.addEventListener('click',function(e){
+    e.preventDefault();
+    e.stopPropagation();
+    location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
+  });
+});
+</script>
 </body>
 </html>

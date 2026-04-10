@@ -1111,6 +1111,15 @@ async function runBidirectionalSync(dryRun) {
         return;
     }
     
+    // 1. Get GitHub token
+    const token = localStorage.getItem('github_token');
+    if (!token) {
+        resultDiv.style.display = 'block';
+        resultDiv.className = 'alert alert-error show';
+        outputPre.textContent = '✗ 错误: 未找到 GitHub token，请先登录';
+        return;
+    }
+    
     // 显示结果区域
     resultDiv.style.display = 'block';
     resultDiv.className = 'alert alert-info show';
@@ -1122,37 +1131,59 @@ async function runBidirectionalSync(dryRun) {
     if (btnBidirectional) btnBidirectional.disabled = true;
     if (btnDryRun) btnDryRun.disabled = true;
     
+    // 3. Call GitHub Actions API
     try {
-        // 调用 API
-        const response = await fetch('/api/run-sync', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-                command: 'bidirectional',
-                dryRun: dryRun
-            })
-        });
+        const response = await fetch(
+            'https://api.github.com/repos/xie-l/xie-l.github.io/actions/workflows/sync-obsidian.yml/dispatches',
+            {
+                method: 'POST',
+                headers: {
+                    'Authorization': `token ${token}`,
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/vnd.github.v3+json'
+                },
+                body: JSON.stringify({
+                    ref: 'main',
+                    inputs: {
+                        sync_type: dryRun ? 'dry-run' : 'full-sync'
+                    }
+                })
+            }
+        );
         
-        const result = await response.json();
+        // 4. Check response status
+        if (!response.ok) {
+            // 恢复按钮
+            if (btnBidirectional) btnBidirectional.disabled = false;
+            if (btnDryRun) btnDryRun.disabled = false;
+            
+            if (response.status === 401) {
+                throw new Error('GitHub token 无效或已过期');
+            } else if (response.status === 404) {
+                throw new Error('工作流未找到');
+            } else if (response.status === 422) {
+                throw new Error('请求参数无效');
+            } else {
+                throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+            }
+        }
         
+        // 5. Success - workflow triggered
         // 恢复按钮
         if (btnBidirectional) btnBidirectional.disabled = false;
         if (btnDryRun) btnDryRun.disabled = false;
         
-        if (result.success) {
-            resultDiv.className = 'alert alert-success show';
-            outputPre.textContent = `✓ 同步完成！\n\n已同步: ${result.synced || 0} 个文件\n冲突: ${result.conflicts || 0} 个（已自动解决）\n跳过: ${result.skipped || 0} 个（已最新）`;
-        } else {
-            resultDiv.className = 'alert alert-error show';
-            outputPre.textContent = `✗ 同步失败: ${result.error || '未知错误'}`;
-        }
+        resultDiv.className = 'alert alert-success show';
+        outputPre.textContent = `✓ 同步工作流已触发！\n\n工作流正在 GitHub Actions 中运行。\n请前往 GitHub 查看详细进度。\n\n约1-2分钟后同步完成。`;
+        
     } catch (error) {
+        // 6. Error handling
         // 恢复按钮
         if (btnBidirectional) btnBidirectional.disabled = false;
         if (btnDryRun) btnDryRun.disabled = false;
         
         resultDiv.className = 'alert alert-error show';
-        outputPre.textContent = `✗ 错误: ${error.message}`;
+        outputPre.textContent = `✗ 错误: ${error.message}\n\n请检查:\n1. GitHub token 是否有效\n2. 网络连接是否正常\n3. 工作流文件是否存在`;
     }
 }
 
