@@ -168,3 +168,14 @@
 {"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
 {"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 测试图片路径格式.md -> 测试图片路径格式（202401）.html"}
 {"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"========== 同步完成 (耗时: 0.04s) =========="}
+{"timestamp":"2026-04-10T06:13:20.973Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T06:13:20.984Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T06:13:20.984Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T06:13:25.316Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T06:13:25.319Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T06:13:25.319Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T06:13:33.234Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T06:13:33.240Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T06:13:33.240Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T06:13:33.250Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T06:13:33.250Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}

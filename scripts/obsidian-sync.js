@@ -96,7 +96,7 @@ class ObsidianSync {
         await fs.writeFile(targetPath, htmlTemplate, 'utf8');
         
         // 更新分类索引
-        await updateCategoryIndex(
+        const result = await updateCategoryIndex(
           this.config.blog.blogPath,
           blogCategory,
           filename,
@@ -105,6 +105,12 @@ class ObsidianSync {
           processedContent,
           frontmatter.source
         );
+        
+        if (result.skipped && result.reason === 'already_exists') {
+          this.logger.info(`文件已在索引中，跳过更新: ${filename}`);
+        } else if (result.success) {
+          this.logger.info(`成功更新分类索引: ${blogCategory}`);
+        }
         
         this.logger.info(`同步完成: ${filePath} -> ${targetPath}`);
       }

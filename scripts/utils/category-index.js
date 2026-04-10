@@ -84,4 +84,4 @@ async function updateCategoryIndex(blogPath, category, filename, title, tagList,
   return { success: true, skipped: false };
 }
 
-module.exports = { updateCategoryIndex };
+module.exports = { updateCategoryIndex, checkFileExistsInIndex };
