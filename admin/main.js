@@ -1079,3 +1079,81 @@ async function loadRecentCaptures(type) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════════
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// Obsidian 双向同步控制
+// ═══════════════════════════════════════════════════════════════════════════════
+
+document.addEventListener('DOMContentLoaded', function() {
+    // 双向同步按钮事件处理
+    const btnBidirectional = document.getElementById('btn-bidirectional');
+    const btnDryRun = document.getElementById('btn-dry-run');
+    
+    if (btnBidirectional) {
+        btnBidirectional.addEventListener('click', async () => {
+            await runBidirectionalSync(false);
+        });
+    }
+    
+    if (btnDryRun) {
+        btnDryRun.addEventListener('click', async () => {
+            await runBidirectionalSync(true);
+        });
+    }
+});
+
+async function runBidirectionalSync(dryRun) {
+    const resultDiv = document.getElementById('sync-result');
+    const outputPre = document.getElementById('sync-output');
+    
+    if (!resultDiv || !outputPre) {
+        console.error('同步结果元素未找到');
+        return;
+    }
+    
+    // 显示结果区域
+    resultDiv.style.display = 'block';
+    resultDiv.className = 'alert alert-info show';
+    outputPre.textContent = '正在执行同步，请稍候...';
+    
+    // 禁用按钮
+    const btnBidirectional = document.getElementById('btn-bidirectional');
+    const btnDryRun = document.getElementById('btn-dry-run');
+    if (btnBidirectional) btnBidirectional.disabled = true;
+    if (btnDryRun) btnDryRun.disabled = true;
+    
+    try {
+        // 调用 API
+        const response = await fetch('/api/run-sync', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                command: 'bidirectional',
+                dryRun: dryRun
+            })
+        });
+        
+        const result = await response.json();
+        
+        // 恢复按钮
+        if (btnBidirectional) btnBidirectional.disabled = false;
+        if (btnDryRun) btnDryRun.disabled = false;
+        
+        if (result.success) {
+            resultDiv.className = 'alert alert-success show';
+            outputPre.textContent = `✓ 同步完成！\n\n已同步: ${result.synced || 0} 个文件\n冲突: ${result.conflicts || 0} 个（已自动解决）\n跳过: ${result.skipped || 0} 个（已最新）`;
+        } else {
+            resultDiv.className = 'alert alert-error show';
+            outputPre.textContent = `✗ 同步失败: ${result.error || '未知错误'}`;
+        }
+    } catch (error) {
+        // 恢复按钮
+        if (btnBidirectional) btnBidirectional.disabled = false;
+        if (btnDryRun) btnDryRun.disabled = false;
+        
+        resultDiv.className = 'alert alert-error show';
+        outputPre.textContent = `✗ 错误: ${error.message}`;
+    }
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════
