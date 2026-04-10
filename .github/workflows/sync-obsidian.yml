@@ -1,0 +1,99 @@
+name: Sync Obsidian to Blog
+
+on:
+  # 手动触发
+  workflow_dispatch:
+    inputs:
+      sync_type:
+        description: '同步类型'
+        required: true
+        default: 'dry-run'
+        type: choice
+        options:
+          - dry-run
+          - full-sync
+      
+  # 当 obsidian-vault 目录有变更时自动触发
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'obsidian-vault/**/*.md'
+      - 'obsidian-vault/attachments/**'
+      - 'config/obsidian-sync.config.json'
+  
+  # 定时触发（每天凌晨3点）
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  sync-obsidian:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Run dry-run sync
+        if: github.event.inputs.sync_type == 'dry-run' || github.event_name == 'push'
+        run: npm run sync:obsidian:dry-run
+      
+      - name: Run full sync
+        if: github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule'
+        run: npm run sync:obsidian
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.changes.outputs.changes == 'true' && (github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule')
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Auto-sync Obsidian files [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Upload sync logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sync-logs-${{ github.run_number }}
+          path: logs/obsidian-sync-*.log
+          retention-days: 7
+      
+      - name: Sync summary
+        run: |
+          echo "## Obsidian Sync Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Event**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Sync Type**: ${{ github.event.inputs.sync_type || 'auto' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [[ -f logs/obsidian-sync-*.log ]]; then
+            echo "### Sync Log" >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+            tail -50 logs/obsidian-sync-*.log >> $GITHUB_STEP_SUMMARY
+            echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          fi

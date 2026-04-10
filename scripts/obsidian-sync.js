@@ -59,6 +59,13 @@ class ObsidianSync {
       
       const processedContent = await processImagePaths(markdownContent, fullPath, frontmatter);
       
+      // 验证图片处理结果
+      const hasUnprocessedImages = /!\[[^\]]*\]\((?!https?:\/\/)(?!\.\.\/\.\.\/img\/blog\/)[^)]+\)/.test(processedContent);
+      if (hasUnprocessedImages) {
+        this.logger.warn('发现未处理的本地图片，请检查图片路径格式');
+        this.logger.warn('支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg');
+      }
+      
       const htmlContent = convertMarkdownToHtml(processedContent, {
         articlePath: fullPath,
         ...this.config.conversion
@@ -176,12 +183,6 @@ class ObsidianSync {
     const catIcon = CAT_ICONS[cat] || '✏️';
     const dateStr = now.getFullYear() + '年' + (now.getMonth() + 1) + '月' + now.getDate() + '日';
     
-    const paras = content.split('\n')
-      .map(function(l) { return l.trim(); })
-      .filter(Boolean)
-      .map(function(l) { return '            <p>' + safe(l) + '</p>'; })
-      .join('\n');
-    
     const tagsHtml = tagList.map(function(t) { 
       return '<span class="tag">' + safe(t) + '</span>'; 
     }).join('\n            ');
@@ -231,11 +232,11 @@ class ObsidianSync {
       '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}\n' +
       '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
       '    </style>\n</head>\n<body>\n' +
-      '    <div class="blog-container">\n' +
-      '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回' + catName + '</a>\n' +
+      '    <div class=\"blog-container\">\n' +
+      '        <a href=\"./\" class=\"back-link\"><i class=\"fas fa-arrow-left\"></i> 返回' + catName + '</a>\n' +
       headerHtml + '\n' + sourceHtml +
-      '        <div class="post-content">\n' + paras + '\n' +
-      '            <div class="post-tags">' + tagsHtml + '</div>\n' +
+      '        <div class=\"post-content\">\n' + content + '\n' +
+      '            <div class=\"post-tags\">' + tagsHtml + '</div>\n' +
       '        </div>\n    </div>\n' + tagClickScript + '\n</body>\n</html>';
   }
 }

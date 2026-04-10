@@ -13,3 +13,158 @@
 {"timestamp":"2026-04-10T04:12:48.597Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
 {"timestamp":"2026-04-10T04:12:52.663Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
 {"timestamp":"2026-04-10T04:12:52.679Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T04:38:38.232Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:38:38.241Z","level":"ERROR","message":"同步失败: 生活日记/测试图片同步.md","error":"Front Matter 验证失败: 缺少必填字段: status"}
+{"timestamp":"2026-04-10T04:38:50.748Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:38:50.752Z","level":"INFO","message":"跳过草稿文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:38:57.837Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:38:57.853Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:41:57.446Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:41:57.466Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:44:34.532Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:44:34.544Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:44:40.723Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-10T04:44:40.725Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-10T04:44:40.725Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:44:40.739Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T04:44:40.739Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:44:40.743Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:44:40.743Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-10T04:44:40.743Z","level":"INFO","message":"总计: 2 个文件"}
+{"timestamp":"2026-04-10T04:44:40.743Z","level":"INFO","message":"成功: 2 个文件"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"同步成功的文件:"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"  ✓ 今日小结（2026.04.09）.md -> 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:44:40.744Z","level":"INFO","message":"========== 同步完成 (耗时: 0.02s) =========="}
+{"timestamp":"2026-04-10T04:45:34.936Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:45:34.947Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:45:45.502Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-10T04:45:45.503Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-10T04:45:45.505Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:45:45.517Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T04:45:45.517Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:45:45.521Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:45:45.521Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-10T04:45:45.521Z","level":"INFO","message":"总计: 2 个文件"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"成功: 2 个文件"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"同步成功的文件:"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"  ✓ 今日小结（2026.04.09）.md -> 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:45:45.522Z","level":"INFO","message":"========== 同步完成 (耗时: 0.02s) =========="}
+{"timestamp":"2026-04-10T04:48:36.430Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:48:36.437Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:48:36.437Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:48:36.447Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T04:48:52.717Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:48:52.725Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:48:52.725Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:48:52.735Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T04:49:18.246Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:49:18.254Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:49:18.254Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:49:18.265Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T04:49:34.305Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:49:34.320Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T04:55:40.648Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:55:40.653Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:55:40.653Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:55:40.661Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:55:40.666Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:55:40.669Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:55:40.669Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:55:49.996Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:55:49.999Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:55:49.999Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:55:50.007Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:55:50.011Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:55:50.012Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:55:50.012Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:56:35.972Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T04:56:35.976Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:56:35.976Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T04:56:35.984Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T04:56:35.988Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T04:56:35.990Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T04:56:35.990Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:02.639Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-10T05:01:02.641Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-10T05:01:02.642Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T05:01:02.645Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:02.645Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:02.656Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:02.656Z","level":"INFO","message":"开始同步文件: 生活日记/完整功能测试.md"}
+{"timestamp":"2026-04-10T05:01:02.657Z","level":"ERROR","message":"同步失败: 生活日记/完整功能测试.md","error":"Front Matter 验证失败: 缺少必填字段: status, 无效的分类: 生活日记"}
+{"timestamp":"2026-04-10T05:01:02.657Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T05:01:02.663Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:02.663Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T05:01:02.666Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:02.666Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:02.668Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:02.668Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-10T05:01:02.668Z","level":"INFO","message":"总计: 4 个文件"}
+{"timestamp":"2026-04-10T05:01:02.668Z","level":"INFO","message":"成功: 3 个文件"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"失败: 1 个文件"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"WARN","message":"失败的文件:"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"WARN","message":"  - Front Matter 验证失败: 缺少必填字段: status, 无效的分类: 生活日记"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"同步成功的文件:"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"  ✓ 今日小结（2026.04.09）.md -> 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"  ✓ 测试图片路径格式.md -> 测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:02.669Z","level":"INFO","message":"========== 同步完成 (耗时: 0.03s) =========="}
+{"timestamp":"2026-04-10T05:01:26.309Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-10T05:01:26.311Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-10T05:01:26.312Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T05:01:26.316Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:26.316Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:26.327Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.327Z","level":"INFO","message":"开始同步文件: 生活日记/完整功能测试.md"}
+{"timestamp":"2026-04-10T05:01:26.329Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:26.329Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:26.338Z","level":"INFO","message":"同步完成: 生活日记/完整功能测试.md -> blog/life/完整功能测试（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.338Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T05:01:26.341Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.341Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T05:01:26.344Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:26.344Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"总计: 4 个文件"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"成功: 4 个文件"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"同步成功的文件:"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"  ✓ 今日小结（2026.04.09）.md -> 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"  ✓ 完整功能测试.md -> 完整功能测试（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"  ✓ 测试图片路径格式.md -> 测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:26.345Z","level":"INFO","message":"========== 同步完成 (耗时: 0.04s) =========="}
+{"timestamp":"2026-04-10T05:01:45.229Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-10T05:01:45.231Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-10T05:01:45.232Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-10T05:01:45.236Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:45.236Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:45.245Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.245Z","level":"INFO","message":"开始同步文件: 生活日记/完整功能测试.md"}
+{"timestamp":"2026-04-10T05:01:45.257Z","level":"INFO","message":"同步完成: 生活日记/完整功能测试.md -> blog/life/完整功能测试（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.257Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-10T05:01:45.260Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.260Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-10T05:01:45.263Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-10T05:01:45.263Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"总计: 4 个文件"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"成功: 4 个文件"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"同步成功的文件:"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 今日小结（2026.04.09）.md -> 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 完整功能测试.md -> 完整功能测试（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 测试图片同步.md -> 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"  ✓ 测试图片路径格式.md -> 测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-10T05:01:45.264Z","level":"INFO","message":"========== 同步完成 (耗时: 0.04s) =========="}

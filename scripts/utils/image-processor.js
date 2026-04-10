@@ -3,8 +3,12 @@ const fs = require('fs-extra');
 const path = require('path');
 
 async function processImagePaths(content, articlePath, frontmatter, vaultPath = 'obsidian-vault') {
-  // 匹配 Markdown 图片语法: ![alt](./attachments/...)
-  const imageRegex = /!\[([^\]]*)\]\((\.\/attachments\/[^)]+)\)/g;
+  // 匹配 Markdown 图片语法，支持多种路径格式:
+  // - ![alt](./attachments/image.jpg) - 推荐格式
+  // - ![alt](../attachments/image.jpg) - 兼容格式
+  // - ![alt](image.jpg) - 同一目录
+  // 排除网络图片 (http:// 或 https://)
+  const imageRegex = /!\[([^\]]*)\]\((?!https?:\/\/)(\.{0,2}\/?[^)]+)\)/g;
   
   let match;
   let processedContent = content;
@@ -16,8 +20,21 @@ async function processImagePaths(content, articlePath, frontmatter, vaultPath = 
     const category = frontmatter.category;
     const slug = frontmatter.slug || generateSlug(frontmatter.title);
     
-    // 图片路径是相对于 vault 根目录，不是相对于笔记所在目录
-    const sourcePath = path.join(vaultPath, imagePath);
+    // 根据图片路径格式确定源路径
+    let sourcePath;
+    const noteDir = path.dirname(articlePath.replace(vaultPath + path.sep, ''));
+    
+    if (imagePath.startsWith('./')) {
+      // ./attachments/image.jpg - 相对于 vault 根目录
+      sourcePath = path.join(vaultPath, imagePath);
+    } else if (imagePath.startsWith('../')) {
+      // ../attachments/image.jpg - 相对于笔记所在目录的父目录
+      sourcePath = path.join(vaultPath, noteDir, imagePath);
+    } else {
+      // image.jpg - 相对于笔记所在目录
+      sourcePath = path.join(vaultPath, noteDir, imagePath);
+    }
+    
     const targetDir = path.join('img', 'blog', category, slug);
     const targetPath = path.join(targetDir, filename);
     
@@ -30,23 +47,39 @@ async function processImagePaths(content, articlePath, frontmatter, vaultPath = 
       processedContent = processedContent.replace(fullMatch, `![${altText}](${newPath})`);
       
       imageCount++;
-      console.log(`✓ 复制图片: ${filename}`);
+      console.log(`✓ 复制图片: ${filename} (从: ${imagePath})`);
     } else {
       console.warn(`⚠️  图片不存在: ${sourcePath}`);
-      console.warn(`   请检查: obsidian-vault/attachments/ 目录下是否有该文件`);
+      console.warn(`   原始路径: ${imagePath}`);
     }
   }
   
-  // 检查是否有未处理的图片（没有使用 ./attachments/ 路径的）
+  // 检查是否有未处理的本地图片
   const simpleImageRegex = /!\[[^\]]*\]\([^)]+\)/g;
   const allImages = processedContent.match(simpleImageRegex) || [];
-  const processedImages = processedContent.match(/!\[[^\]]*\]\(\.\.\/img\/blog\//g) || [];
+  const processedImages = processedContent.match(/!\[[^\]]*\]\(\.\.\/\.\.\/img\/blog\//g) || [];
   const unprocessedImages = allImages.length - processedImages.length;
   
   if (unprocessedImages > 0) {
-    console.warn(`⚠️  发现 ${unprocessedImages} 张图片未使用 ./attachments/ 路径`);
-    console.warn('   提示：请将图片放在 obsidian-vault/attachments/ 文件夹');
-    console.warn('   并使用格式: ![描述](./attachments/图片.jpg)');
+    console.warn(`⚠️  发现 ${unprocessedImages} 张本地图片未被处理`);
+    console.warn('   支持的图片路径格式:');
+    console.warn('   - ![描述](./attachments/图片.jpg) - 推荐 (相对于 vault 根目录)');
+    console.warn('   - ![描述](../attachments/图片.jpg) - 兼容 (相对于 vault 根目录)');
+    console.warn('   - ![描述](图片.jpg) - 同一目录 (相对于笔记所在目录)');
+    console.warn('   - 网络图片不会被处理，保持原样');
+    
+    // 显示具体的未处理图片路径
+    const unprocessedMatches = processedContent.match(simpleImageRegex) || [];
+    const processedMatches = processedContent.match(/!\[[^\]]*\]\(\.\.\/\.\.\/img\/blog\//g) || [];
+    
+    unprocessedMatches.forEach(img => {
+      if (!processedMatches.some(p => img.includes(p))) {
+        const pathMatch = img.match(/!\[[^\]]*\]\(([^)]+)\)/);
+        if (pathMatch && !pathMatch[1].startsWith('http')) {
+          console.warn(`   - ${img}`);
+        }
+      }
+    });
   }
   
   return processedContent;

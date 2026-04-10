@@ -14,15 +14,34 @@ function pad(n) {
   return String(n).padStart(2, '0');
 }
 
+/**
+ * 检查索引中是否已存在指定文件的链接
+ * @param {string} indexHtml - 索引HTML内容
+ * @param {string} filename - 文件名（如"今日小结（2026.04.09）（202604）.html"）
+ * @returns {boolean} - 是否已存在
+ */
+function checkFileExistsInIndex(indexHtml, filename) {
+  // 构建匹配模式：href="filename" 或 href='filename'
+  const escapedFilename = filename.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const regex = new RegExp(`href=["']${escapedFilename}["']`);
+  return regex.test(indexHtml);
+}
+
 async function updateCategoryIndex(blogPath, category, filename, title, tagList, raw, source) {
   const indexPath = path.join(blogPath, category, 'index.html');
   
   if (!await fs.pathExists(indexPath)) {
     console.warn(`索引文件不存在: ${indexPath}`);
-    return false;
+    return { success: false, error: 'index_not_found' };
   }
   
   const currentHTML = await fs.readFile(indexPath, 'utf8');
+  
+  // 检查是否已存在该文件
+  if (checkFileExistsInIndex(currentHTML, filename)) {
+    console.warn(`索引中已存在文件: ${filename}，跳过添加`);
+    return { success: true, skipped: true, reason: 'already_exists' };
+  }
   
   const now = new Date();
   const dateStr = now.getFullYear() + '-' + pad(now.getMonth() + 1) + '-' + pad(now.getDate());
@@ -55,14 +74,14 @@ async function updateCategoryIndex(blogPath, category, filename, title, tagList,
   const marker = '<div class="post-list">';
   if (!currentHTML.includes(marker)) {
     console.warn(`无法找到插入点: ${marker}`);
-    return false;
+    return { success: false, error: 'marker_not_found' };
   }
   
   const updatedHTML = currentHTML.replace(marker, marker + newCard);
   await fs.writeFile(indexPath, updatedHTML, 'utf8');
   
   console.log(`更新索引成功: ${indexPath}`);
-  return true;
+  return { success: true, skipped: false };
 }
 
 module.exports = { updateCategoryIndex };
