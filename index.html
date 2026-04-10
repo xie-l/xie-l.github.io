@@ -2367,10 +2367,31 @@
 
             try {
                 const apiBase = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+                
+                // 检查文件是否已存在，获取 SHA
+                let fileSha = null;
+                try {
+                    const checkResp = await fetch(apiBase + encodeURIComponent(path), {
+                        method: 'GET',
+                        headers: {'Authorization':'token '+token}
+                    });
+                    if (checkResp.ok) {
+                        const fileData = await checkResp.json();
+                        fileSha = fileData.sha;
+                    }
+                } catch(e) {
+                    // 文件不存在是正常现象
+                }
+                
+                const body = { message:'发布博客：'+title, content:encoded };
+                if (fileSha) {
+                    body.sha = fileSha; // 更新时需要提供 SHA
+                }
+                
                 const resp = await fetch(apiBase + encodeURIComponent(path), {
                     method: 'PUT',
                     headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
-                    body: JSON.stringify({ message:'发布博客：'+title, content:encoded })
+                    body: JSON.stringify(body)
                 });
                 if (!resp.ok) {
                     const err = await resp.json().catch(function(){ return {}; });
