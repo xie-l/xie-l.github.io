@@ -29,7 +29,7 @@ function validateCategory(category) {
   const validCategories = ['quotes', 'thoughts', 'tech', 'life', 'books', 'analysis'];
   
   if (!validCategories.includes(category)) {
-    throw new Error(`无效的分类: "${category"。可用值: ${validCategories.join(', ')}}`);
+    throw new Error(`无效的分类: "${category}"。可用值: ${validCategories.join(', ')}`);
   }
   
   return true;
