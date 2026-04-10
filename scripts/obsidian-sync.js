@@ -7,9 +7,10 @@ const { loadConfig } = require('./utils/config');
 const { validateFrontmatter, parseFrontmatter } = require('./utils/frontmatter');
 const { convertMarkdownToHtml } = require('./utils/markdown-converter');
 const { processImagePaths } = require('./utils/image-processor');
-const { getBlogCategory } = require('./utils/category-map');
+const { getBlogCategory, getObsidianFolder } = require('./utils/category-map');
 const { createBackup } = require('./utils/backup');
 const { updateCategoryIndex } = require('./utils/category-index');
+const { htmlToMarkdown } = require('./utils/html-to-markdown');
 const Logger = require('./utils/logger');
 
 class ObsidianSync {
@@ -255,13 +256,17 @@ class ObsidianSync {
     const { filePath } = options;
     
     if (filePath) {
-      return await this.syncSingleBlogFile(filePath);
+      return await this.syncSingleHtmlToMd(filePath);
     } else {
-      return await this.syncAllBlogFiles();
+      return await this.syncAllHtmlToMd();
     }
   }
   
-  async syncSingleBlogFile(filePath) {
+  /**
+   * 同步单个HTML文件到Obsidian
+   * @param {string} filePath - 博客文件路径（如"life/xxx.html"）
+   */
+  async syncSingleHtmlToMd(filePath) {
     try {
       this.logger.info(`开始同步博客文件到Obsidian: ${filePath}`);
       
@@ -274,41 +279,41 @@ class ObsidianSync {
       // 读取HTML文件
       const htmlContent = await fs.readFile(fullPath, 'utf8');
       
-      // 从HTML中提取内容（反向解析）
-      const extracted = this.extractFromHtml(htmlContent);
+      // 使用htmlToMarkdown模块转换
+      let markdownContent = htmlToMarkdown(htmlContent);
       
-      if (!extracted) {
-        throw new Error('无法从HTML中提取有效内容');
+      if (!markdownContent) {
+        throw new Error('无法将HTML转换为Markdown');
       }
       
-      // 转换为Markdown
-      const markdownContent = this.convertHtmlToMarkdown(extracted);
+      // 提取Frontmatter信息
+      const frontmatter = this.extractFrontmatterFromHtml(htmlContent);
       
-      // 构建Frontmatter
-      const frontmatter = this.buildFrontmatter(extracted);
-      
-      // 构建完整的Markdown内容
-      const fullMarkdown = `---\n${frontmatter}---\n\n${markdownContent}`;
+      // 确保status字段存在（默认为published）
+      if (!markdownContent.includes('status:')) {
+        // 在frontmatter中添加status字段
+        markdownContent = markdownContent.replace(/^---\n/, `---\nstatus: published\n`);
+      }
       
       // 确定目标路径
-      const vaultCategory = this.getVaultCategory(extracted.category);
+      const vaultCategory = getObsidianFolder(frontmatter.category || 'life');
       const targetDir = path.join(this.config.obsidian.vaultPath, vaultCategory);
       
-      // 生成文件名（使用原始标题或日期）
-      let filename;
-      if (extracted.title) {
-        filename = `${extracted.title}.md`;
-      } else {
-        const now = new Date(extracted.date);
-        const pad = (n) => String(n).padStart(2, '0');
-        filename = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}.md`;
-      }
-      
+      // 生成文件名（使用标题或日期）
+      const filename = this.generateMarkdownFilename(frontmatter, filePath);
       const targetPath = path.join(targetDir, filename);
+      
+      // 检查冲突
+      const conflict = await this.detectConflict(targetPath, frontmatter);
+      
+      if (conflict.hasConflict && !this.dryRun) {
+        this.logger.warn(`检测到冲突: ${conflict.reason}`);
+        await createBackup(targetPath, this.config.sync.backupPath);
+      }
       
       if (!this.dryRun) {
         await fs.ensureDir(targetDir);
-        await fs.writeFile(targetPath, fullMarkdown, 'utf8');
+        await fs.writeFile(targetPath, markdownContent, 'utf8');
       }
       
       this.logger.info(`成功同步到Obsidian: ${targetPath}`);
@@ -317,118 +322,97 @@ class ObsidianSync {
         success: true,
         source: fullPath,
         target: targetPath,
-        skipped: false
+        skipped: false,
+        conflict: conflict.hasConflict
       };
     } catch (error) {
-      this.logger.error(`同步失败: ${error.message}`);
+      this.logger.error(`同步失败: ${filePath}`, { error: error.message });
       return {
         success: false,
-        error: error.message
+        error: error.message,
+        source: filePath
       };
     }
   }
   
   /**
-   * 从HTML中提取标题、日期、分类、标签和内容
+   * 从HTML中提取Frontmatter信息
    */
-  extractFromHtml(html) {
-    const result = {};
+  extractFrontmatterFromHtml(htmlContent) {
+    const frontmatter = {};
     
     // 提取标题
-    const titleMatch = html.match(/<h1 class="post-title">(.+?)<\/h1>/);
-    result.title = titleMatch ? titleMatch[1] : '';
+    const titleMatch = htmlContent.match(/<h1 class="post-title">(.+?)<\/h1>/);
+    frontmatter.title = titleMatch ? titleMatch[1].trim() : '';
     
     // 提取日期
-    const dateMatch = html.match(/<span><i class="fas fa-calendar"><\/i> (.+?)<\/span>/);
+    const dateMatch = htmlContent.match(/<i class="fas fa-calendar"><\/i>\s*([^<]+)<\/span>/);
     if (dateMatch) {
-      // 将"2026年4月10日"转换为"2026-04-10"
-      const dateStr = dateMatch[1];
-      const dateParts = dateStr.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
-      if (dateParts) {
-        result.date = `${dateParts[1]}-${String(dateParts[2]).padStart(2, '0')}-${String(dateParts[3]).padStart(2, '0')}`;
-      }
+      frontmatter.date = this.parseChineseDate(dateMatch[1].trim());
     }
     
     // 提取分类
-    const catMatch = html.match(/返回(.+?)<\/a>/);
-    result.category = this.getBlogCategoryFromName(catMatch ? catMatch[1] : '');
+    const categoryMatch = htmlContent.match(/<i class="fas fa-folder"><\/i>\s*([^<]+)<\/span>/);
+    if (categoryMatch) {
+      frontmatter.category = this.mapCategoryName(categoryMatch[1].trim());
+    }
     
     // 提取标签
-    const tagsMatch = html.match(/<div class="post-tags">([\s\S]*?)<\/div>/);
+    const tagsMatch = htmlContent.match(/<i class="fas fa-tags"><\/i>\s*([^<]+)<\/span>/);
     if (tagsMatch) {
-      const tagMatches = tagsMatch[1].match(/<span class="tag">(.+?)<\/span>/g);
-      result.tags = tagMatches ? tagMatches.map(tag => tag.replace(/<[^>]+>/g, '')) : [];
+      frontmatter.tags = tagsMatch[1].trim().split('/').map(tag => tag.trim()).filter(tag => tag);
+    }
+    
+    // 提取来源（如果是quotes分类）
+    if (frontmatter.category === 'quotes') {
+      const sourceMatch = htmlContent.match(/<div class="post-source"[^>]*>([\s\S]*?)<\/div>/);
+      if (sourceMatch) {
+        const sourceText = sourceMatch[1].replace(/<[^>]+>/g, '').replace('来源：', '').trim();
+        frontmatter.source = sourceText;
+      }
+    }
+    
+    return frontmatter;
+  }
+  
+  /**
+   * 生成Markdown文件名
+   */
+  generateMarkdownFilename(frontmatter, originalFilePath) {
+    let filename;
+    
+    if (frontmatter.title) {
+      // 清理标题中的特殊字符
+      const safeTitle = frontmatter.title.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, 50);
+      filename = `${safeTitle}.md`;
     } else {
-      result.tags = [];
+      // 使用日期
+      const now = new Date(frontmatter.date || Date.now());
+      const pad = (n) => String(n).padStart(2, '0');
+      filename = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}.md`;
     }
     
-    // 提取内容（移除HTML标签）
-    const contentMatch = html.match(/<div class="post-content">([\s\S]*?)<\/div>\s*<script>/);
-    if (contentMatch) {
-      // 简单移除HTML标签（实际项目中可使用更完善的HTML解析器）
-      result.content = contentMatch[1]
-        .replace(/<p>/g, '')
-        .replace(/<\/p>/g, '\n\n')
-        .replace(/<[^>]+>/g, '')
-        .trim();
-    } else {
-      result.content = '';
+    return filename;
+  }
+  
+  /**
+   * 解析中文日期格式
+   */
+  parseChineseDate(chineseDate) {
+    const match = chineseDate.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
+    if (match) {
+      const year = match[1];
+      const month = match[2].padStart(2, '0');
+      const day = match[3].padStart(2, '0');
+      return `${year}-${month}-${day}`;
     }
-    
-    return result;
+    return new Date().toISOString().split('T')[0];
   }
   
   /**
-   * 将HTML内容转换为Markdown（简化版）
+   * 将中文分类名映射为blog分类
    */
-  convertHtmlToMarkdown(extracted) {
-    let markdown = extracted.content;
-    
-    // 简单的转换规则
-    markdown = markdown
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&amp;/g, '&');
-    
-    return markdown.trim();
-  }
-  
-  /**
-   * 构建Frontmatter
-   */
-  buildFrontmatter(extracted) {
-    const lines = [];
-    lines.push(`title: ${extracted.title || ''}`);
-    lines.push(`date: ${extracted.date || new Date().toISOString().split('T')[0]}`);
-    lines.push(`category: ${extracted.category || 'life'}`);
-    lines.push(`status: published`);
-    
-    if (extracted.tags && extracted.tags.length > 0) {
-      lines.push(`tags: [${extracted.tags.join(', ')}]`);
-    }
-    
-    return lines.join('\n');
-  }
-  
-  /**
-   * 根据分类名称获取vault目录
-   */
-  getVaultCategory(blogCategory) {
-    const categoryMap = {
-      'tech': '技术思考',
-      'life': '生活日记',
-      'books': '读书笔记',
-      'quotes': '摘录收藏',
-      'analysis': '分析文章',
-      'thoughts': '随笔思考'
-    };
-    return categoryMap[blogCategory] || '生活日记';
-  }
-  
-  /**
-   * 根据中文分类名获取blog分类
-   */
-  getBlogCategoryFromName(catName) {
+  mapCategoryName(categoryName) {
     const nameMap = {
       '生活日记': 'life',
       '书籍阅读': 'books',
@@ -437,13 +421,13 @@ class ObsidianSync {
       '摘录记录': 'quotes',
       '随笔思考': 'thoughts'
     };
-    return nameMap[catName] || 'life';
+    return nameMap[categoryName] || 'life';
   }
   
   /**
-   * 同步所有博客文件到Obsidian
+   * 同步所有HTML文件到Obsidian
    */
-  async syncAllBlogFiles() {
+  async syncAllHtmlToMd() {
     const results = [];
     
     try {
@@ -468,14 +452,8 @@ class ObsidianSync {
           const filePath = path.join(category, htmlFile);
           
           try {
-            const result = await this.syncSingleBlogFile(filePath);
+            const result = await this.syncSingleHtmlToMd(filePath);
             results.push(result);
-            
-            if (result.success) {
-              this.logger.info(`同步成功: ${filePath}`);
-            } else {
-              this.logger.error(`同步失败: ${filePath} - ${result.error}`);
-            }
           } catch (error) {
             this.logger.error(`同步异常: ${filePath} - ${error.message}`);
             results.push({
@@ -487,14 +465,19 @@ class ObsidianSync {
         }
       }
       
-      this.logger.info(`所有博客文件同步完成，共处理 ${results.length} 个文件`);
+      const successful = results.filter(r => r.success).length;
+      const failed = results.filter(r => !r.success).length;
+      const conflicts = results.filter(r => r.conflict).length;
+      
+      this.logger.info(`所有博客文件同步完成，共处理 ${results.length} 个文件，成功 ${successful} 个，失败 ${failed} 个，冲突 ${conflicts} 个`);
       
       return {
         success: true,
         results: results,
         total: results.length,
-        successful: results.filter(r => r.success).length,
-        failed: results.filter(r => !r.success).length
+        successful: successful,
+        failed: failed,
+        conflicts: conflicts
       };
     } catch (error) {
       this.logger.error(`批量同步失败: ${error.message}`);
@@ -504,6 +487,261 @@ class ObsidianSync {
         results: results
       };
     }
+  }
+  
+  /**
+   * 检测冲突
+   * @param {string} targetPath - 目标文件路径
+   * @param {Object} frontmatter - Frontmatter数据
+   */
+  async detectConflict(targetPath, frontmatter) {
+    try {
+      if (!await fs.pathExists(targetPath)) {
+        return { hasConflict: false };
+      }
+      
+      const existingContent = await fs.readFile(targetPath, 'utf8');
+      const { data: existingFrontmatter } = parseFrontmatter(existingContent);
+      
+      // 检查标题是否不同
+      if (existingFrontmatter.title !== frontmatter.title) {
+        return {
+          hasConflict: true,
+          reason: `标题不匹配: "${existingFrontmatter.title}" vs "${frontmatter.title}"`
+        };
+      }
+      
+      // 检查日期是否不同
+      if (existingFrontmatter.date !== frontmatter.date) {
+        return {
+          hasConflict: true,
+          reason: `日期不匹配: ${existingFrontmatter.date} vs ${frontmatter.date}`
+        };
+      }
+      
+      // 检查分类是否不同
+      if (existingFrontmatter.category !== frontmatter.category) {
+        return {
+          hasConflict: true,
+          reason: `分类不匹配: ${existingFrontmatter.category} vs ${frontmatter.category}`
+        };
+      }
+      
+      return { hasConflict: false };
+    } catch (error) {
+      this.logger.warn(`冲突检测失败: ${error.message}`);
+      return { hasConflict: false };
+    }
+  }
+  
+  /**
+   * 双向同步主方法
+   * @param {Object} options - 选项
+   * @param {string} options.filePath - 指定文件路径（可选）
+   */
+  async syncBidirectional(options = {}) {
+    const { filePath } = options;
+    const results = {
+      obsidianToBlog: null,
+      blogToObsidian: null,
+      conflicts: [],
+      success: true
+    };
+    
+    try {
+      this.logger.info('开始双向同步');
+      
+      // 第一阶段: Obsidian → Blog
+      this.logger.info('=== 第一阶段: Obsidian → Blog ===');
+      results.obsidianToBlog = await this.syncObsidianToBlog({ filePath });
+      
+      // 检查Obsidian → Blog是否成功
+      // 如果是数组（批量同步），检查是否有成功项
+      // 如果是对象（单个文件），检查success属性
+      const obsidianSuccess = Array.isArray(results.obsidianToBlog) 
+        ? results.obsidianToBlog.some(r => r.success)
+        : results.obsidianToBlog.success;
+      
+      if (obsidianSuccess) {
+        this.logger.info('Obsidian → Blog 同步成功');
+      } else {
+        this.logger.error('Obsidian → Blog 同步失败');
+        results.success = false;
+      }
+      
+      // 第二阶段: Blog → Obsidian
+      this.logger.info('=== 第二阶段: Blog → Obsidian ===');
+      results.blogToObsidian = await this.syncBlogToObsidian({ filePath });
+      
+      if (results.blogToObsidian.success) {
+        this.logger.info('Blog → Obsidian 同步成功');
+      } else {
+        this.logger.error('Blog → Obsidian 同步失败');
+        results.success = false;
+      }
+      
+      // 收集冲突信息
+      if (results.blogToObsidian.results) {
+        results.conflicts = results.blogToObsidian.results.filter(r => r.conflict);
+      }
+      
+      // 更新所有索引
+      if (results.success) {
+        await this.updateAllIndexes();
+      }
+      
+      this.logger.info('双向同步完成');
+      
+      return results;
+    } catch (error) {
+      this.logger.error(`双向同步失败: ${error.message}`);
+      return {
+        success: false,
+        error: error.message,
+        obsidianToBlog: results.obsidianToBlog,
+        blogToObsidian: results.blogToObsidian
+      };
+    }
+  }
+  
+  /**
+   * 扫描所有Markdown文件
+   */
+  async scanMarkdownFiles() {
+    const files = [];
+    const categories = Object.keys(require('./utils/category-map').categoryMap);
+    
+    for (const category of categories) {
+      const categoryPath = path.join(this.config.obsidian.vaultPath, category);
+      
+      if (await fs.pathExists(categoryPath)) {
+        const categoryFiles = await fs.readdir(categoryPath);
+        const markdownFiles = categoryFiles
+          .filter(f => f.endsWith('.md'))
+          .map(f => ({
+            path: path.join(category, f),
+            fullPath: path.join(categoryPath, f),
+            category: category,
+            filename: f
+          }));
+        
+        files.push(...markdownFiles);
+      }
+    }
+    
+    return files;
+  }
+  
+  /**
+   * 扫描所有HTML文件
+   */
+  async scanHtmlFiles() {
+    const files = [];
+    const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
+    
+    for (const category of categories) {
+      const categoryPath = path.join(this.config.blog.blogPath, category);
+      
+      if (await fs.pathExists(categoryPath)) {
+        const categoryFiles = await fs.readdir(categoryPath);
+        const htmlFiles = categoryFiles
+          .filter(f => f.endsWith('.html') && !f.startsWith('index'))
+          .map(f => ({
+            path: path.join(category, f),
+            fullPath: path.join(categoryPath, f),
+            category: category,
+            filename: f
+          }));
+        
+        files.push(...htmlFiles);
+      }
+    }
+    
+    return files;
+  }
+  
+  /**
+   * 匹配Obsidian和Blog文件
+   */
+  async matchFiles(markdownFiles, htmlFiles) {
+    const matches = [];
+    
+    // 创建索引以便快速查找
+    const htmlIndex = new Map();
+    for (const htmlFile of htmlFiles) {
+      const key = this.getFileKey(htmlFile.filename);
+      htmlIndex.set(key, htmlFile);
+    }
+    
+    // 匹配Markdown文件
+    for (const mdFile of markdownFiles) {
+      const key = this.getFileKey(mdFile.filename);
+      const htmlFile = htmlIndex.get(key);
+      
+      if (htmlFile) {
+        matches.push({
+          type: 'both',
+          markdown: mdFile,
+          html: htmlFile
+        });
+        htmlIndex.delete(key); // 移除已匹配的
+      } else {
+        matches.push({
+          type: 'markdown_only',
+          markdown: mdFile
+        });
+      }
+    }
+    
+    // 剩余的HTML文件
+    for (const htmlFile of htmlIndex.values()) {
+      matches.push({
+        type: 'html_only',
+        html: htmlFile
+      });
+    }
+    
+    return matches;
+  }
+  
+  /**
+   * 获取文件键名（用于匹配）
+   */
+  getFileKey(filename) {
+    // 移除扩展名和时间戳，只保留标题部分
+    return filename
+      .replace(/\.(md|html)$/, '')
+      .replace(/\（\d{6}\）$/, '') // 移除时间戳如（202604）
+      .replace(/\(\d{6}\)$/, '')  // 移除时间戳如(202604)
+      .trim();
+  }
+  
+  /**
+   * 更新所有分类索引
+   */
+  async updateAllIndexes() {
+    this.logger.info('开始更新所有分类索引');
+    
+    const categories = ['life', 'tech', 'books', 'quotes', 'analysis', 'thoughts'];
+    
+    for (const category of categories) {
+      try {
+        await updateCategoryIndex(
+          this.config.blog.blogPath,
+          category,
+          null, // 不指定文件，更新整个分类
+          null,
+          [],
+          '',
+          ''
+        );
+        this.logger.info(`更新分类索引成功: ${category}`);
+      } catch (error) {
+        this.logger.error(`更新分类索引失败: ${category} - ${error.message}`);
+      }
+    }
+    
+    this.logger.info('所有分类索引更新完成');
   }
 }
 
@@ -540,9 +778,23 @@ if (require.main === module) {
       if (direction === 'obsidian-to-blog') {
         const result = await sync.syncObsidianToBlog({ filePath });
         
-        if (result.success) {
+        // 处理批量结果（数组）或单个结果（对象）
+        if (Array.isArray(result)) {
+          const successful = result.filter(r => r.success).length;
+          const failed = result.filter(r => !r.success).length;
+          const skipped = result.filter(r => r.skipped).length;
+          
+          console.log(`批量同步完成: 总共 ${result.length} 个文件，成功 ${successful} 个，失败 ${failed} 个，跳过 ${skipped} 个`);
+          
+          if (failed > 0) {
+            console.log('\n失败的文件:');
+            result.filter(r => !r.success).forEach(r => {
+              console.log(`  - ${r.source || r.error}`);
+            });
+          }
+        } else if (result.success) {
           if (result.skipped) {
-            console.log(`跳过: ${filePath || '所有草稿文件'}`);
+            console.log(`跳过: ${filePath}`);
           } else {
             console.log(`成功: ${result.source} -> ${result.target}`);
           }
@@ -553,9 +805,23 @@ if (require.main === module) {
       } else if (direction === 'blog-to-obsidian') {
         const result = await sync.syncBlogToObsidian({ filePath });
         
-        if (result.success) {
+        // 处理批量结果（数组）或单个结果（对象）
+        if (result.results && Array.isArray(result.results)) {
+          const successful = result.results.filter(r => r.success).length;
+          const failed = result.results.filter(r => !r.success).length;
+          const conflicts = result.results.filter(r => r.conflict).length;
+          
+          console.log(`批量同步完成: 总共 ${result.results.length} 个文件，成功 ${successful} 个，失败 ${failed} 个，冲突 ${conflicts} 个`);
+          
+          if (failed > 0) {
+            console.log('\n失败的文件:');
+            result.results.filter(r => !r.success).forEach(r => {
+              console.log(`  - ${r.source || r.error}`);
+            });
+          }
+        } else if (result.success) {
           if (result.skipped) {
-            console.log(`跳过: ${filePath || '所有草稿文件'}`);
+            console.log(`跳过: ${filePath}`);
           } else {
             console.log(`成功: ${result.source} -> ${result.target}`);
           }
@@ -564,20 +830,41 @@ if (require.main === module) {
           process.exit(1);
         }
       } else if (direction === 'both') {
-        // 先执行obsidian-to-blog
-        console.log('=== 第一阶段: Obsidian → Blog ===');
-        const result1 = await sync.syncObsidianToBlog({ filePath });
-        
-        if (result1.success && !result1.skipped) {
-          console.log(`Obsidian → Blog: ${result1.source} -> ${result1.target}`);
+        if (filePath) {
+          console.log('注意: 双向同步不支持指定单个文件，将执行全量同步');
+          console.log('原因: Obsidian和Blog的文件路径格式不同，无法直接映射');
         }
         
-        // 再执行blog-to-obsidian
-        console.log('=== 第二阶段: Blog → Obsidian ===');
-        const result2 = await sync.syncBlogToObsidian({ filePath });
+        // 使用双向同步方法
+        console.log('=== 开始双向同步 ===');
+        const result = await sync.syncBidirectional({});
         
-        if (result2.success && !result2.skipped) {
-          console.log(`Blog → Obsidian: ${result2.source} -> ${result2.target}`);
+        if (result.success) {
+          console.log('双向同步成功完成');
+          
+          if (result.conflicts && result.conflicts.length > 0) {
+            console.log(`\n检测到 ${result.conflicts.length} 个冲突:`);
+            result.conflicts.forEach(conflict => {
+              console.log(`  - ${conflict.source}: ${conflict.reason}`);
+            });
+          }
+          
+          const obsidianResults = result.obsidianToBlog;
+          const blogResults = result.blogToObsidian;
+          
+          if (obsidianResults && obsidianResults.results) {
+            const successful = obsidianResults.results.filter(r => r.success && !r.skipped).length;
+            console.log(`Obsidian → Blog: 成功 ${successful} 个文件`);
+          }
+          
+          if (blogResults && blogResults.results) {
+            const successful = blogResults.results.filter(r => r.success && !r.skipped).length;
+            const conflicts = blogResults.results.filter(r => r.conflict).length;
+            console.log(`Blog → Obsidian: 成功 ${successful} 个文件，冲突 ${conflicts} 个`);
+          }
+        } else {
+          console.error(`双向同步失败: ${result.error}`);
+          process.exit(1);
         }
         
         console.log('=== 双向同步完成 ===');
