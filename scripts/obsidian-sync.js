@@ -237,13 +237,207 @@ class ObsidianSync {
       '        .post-source a{color:var(--secondary-color);word-break:break-all}\n' +
       '        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}\n' +
       '        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}\n' +
-      '    </style>\n</head>\n<body>\n' +
-      '    <div class=\"blog-container\">\n' +
-      '        <a href=\"./\" class=\"back-link\"><i class=\"fas fa-arrow-left\"></i> 返回' + catName + '</a>\n' +
-      headerHtml + '\n' + sourceHtml +
-      '        <div class=\"post-content\">\n' + content + '\n' +
-      '            <div class=\"post-tags\">' + tagsHtml + '</div>\n' +
-      '        </div>\n    </div>\n' + tagClickScript + '\n</body>\n</html>';
+       '    </style>\n</head>\n<body>\n' +
+       '    <div class="blog-container">\n' +
+       '        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回' + catName + '</a>\n' +
+       headerHtml + '\n' + sourceHtml +
+       '        <div class="post-content">\n' + content + '\n' +
+       '            <div class="post-tags">' + tagsHtml + '</div>\n' +
+       '        </div>\n    </div>\n' + tagClickScript + '\n</body>\n</html>';
+  }
+  
+  /**
+   * 将博客文件同步到Obsidian
+   * @param {Object} options - 选项
+   * @param {string} options.filePath - 博客文件路径（如"blog/life/xxx.html"）
+   */
+  async syncBlogToObsidian(options = {}) {
+    const { filePath } = options;
+    
+    if (filePath) {
+      return await this.syncSingleBlogFile(filePath);
+    } else {
+      return await this.syncAllBlogFiles();
+    }
+  }
+  
+  async syncSingleBlogFile(filePath) {
+    try {
+      this.logger.info(`开始同步博客文件到Obsidian: ${filePath}`);
+      
+      const fullPath = path.join(this.config.blog.blogPath, filePath);
+      
+      if (!await fs.pathExists(fullPath)) {
+        throw new Error(`博客文件不存在: ${fullPath}`);
+      }
+      
+      // 读取HTML文件
+      const htmlContent = await fs.readFile(fullPath, 'utf8');
+      
+      // 从HTML中提取内容（反向解析）
+      const extracted = this.extractFromHtml(htmlContent);
+      
+      if (!extracted) {
+        throw new Error('无法从HTML中提取有效内容');
+      }
+      
+      // 转换为Markdown
+      const markdownContent = this.convertHtmlToMarkdown(extracted);
+      
+      // 构建Frontmatter
+      const frontmatter = this.buildFrontmatter(extracted);
+      
+      // 构建完整的Markdown内容
+      const fullMarkdown = `---\n${frontmatter}---\n\n${markdownContent}`;
+      
+      // 确定目标路径
+      const vaultCategory = this.getVaultCategory(extracted.category);
+      const targetDir = path.join(this.config.obsidian.vaultPath, vaultCategory);
+      
+      // 生成文件名（使用原始标题或日期）
+      let filename;
+      if (extracted.title) {
+        filename = `${extracted.title}.md`;
+      } else {
+        const now = new Date(extracted.date);
+        const pad = (n) => String(n).padStart(2, '0');
+        filename = `${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}.md`;
+      }
+      
+      const targetPath = path.join(targetDir, filename);
+      
+      if (!this.dryRun) {
+        await fs.ensureDir(targetDir);
+        await fs.writeFile(targetPath, fullMarkdown, 'utf8');
+      }
+      
+      this.logger.info(`成功同步到Obsidian: ${targetPath}`);
+      
+      return {
+        success: true,
+        source: fullPath,
+        target: targetPath,
+        skipped: false
+      };
+    } catch (error) {
+      this.logger.error(`同步失败: ${error.message}`);
+      return {
+        success: false,
+        error: error.message
+      };
+    }
+  }
+  
+  /**
+   * 从HTML中提取标题、日期、分类、标签和内容
+   */
+  extractFromHtml(html) {
+    const result = {};
+    
+    // 提取标题
+    const titleMatch = html.match(/<h1 class="post-title">(.+?)<\/h1>/);
+    result.title = titleMatch ? titleMatch[1] : '';
+    
+    // 提取日期
+    const dateMatch = html.match(/<span><i class="fas fa-calendar"><\/i> (.+?)<\/span>/);
+    if (dateMatch) {
+      // 将"2026年4月10日"转换为"2026-04-10"
+      const dateStr = dateMatch[1];
+      const dateParts = dateStr.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
+      if (dateParts) {
+        result.date = `${dateParts[1]}-${String(dateParts[2]).padStart(2, '0')}-${String(dateParts[3]).padStart(2, '0')}`;
+      }
+    }
+    
+    // 提取分类
+    const catMatch = html.match(/返回(.+?)<\/a>/);
+    result.category = this.getBlogCategoryFromName(catMatch ? catMatch[1] : '');
+    
+    // 提取标签
+    const tagsMatch = html.match(/<div class="post-tags">([\s\S]*?)<\/div>/);
+    if (tagsMatch) {
+      const tagMatches = tagsMatch[1].match(/<span class="tag">(.+?)<\/span>/g);
+      result.tags = tagMatches ? tagMatches.map(tag => tag.replace(/<[^>]+>/g, '')) : [];
+    } else {
+      result.tags = [];
+    }
+    
+    // 提取内容（移除HTML标签）
+    const contentMatch = html.match(/<div class="post-content">([\s\S]*?)<\/div>\s*<script>/);
+    if (contentMatch) {
+      // 简单移除HTML标签（实际项目中可使用更完善的HTML解析器）
+      result.content = contentMatch[1]
+        .replace(/<p>/g, '')
+        .replace(/<\/p>/g, '\n\n')
+        .replace(/<[^>]+>/g, '')
+        .trim();
+    } else {
+      result.content = '';
+    }
+    
+    return result;
+  }
+  
+  /**
+   * 将HTML内容转换为Markdown（简化版）
+   */
+  convertHtmlToMarkdown(extracted) {
+    let markdown = extracted.content;
+    
+    // 简单的转换规则
+    markdown = markdown
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&amp;/g, '&');
+    
+    return markdown.trim();
+  }
+  
+  /**
+   * 构建Frontmatter
+   */
+  buildFrontmatter(extracted) {
+    const lines = [];
+    lines.push(`title: ${extracted.title || ''}`);
+    lines.push(`date: ${extracted.date || new Date().toISOString().split('T')[0]}`);
+    lines.push(`category: ${extracted.category || 'life'}`);
+    lines.push(`status: published`);
+    
+    if (extracted.tags && extracted.tags.length > 0) {
+      lines.push(`tags: [${extracted.tags.join(', ')}]`);
+    }
+    
+    return lines.join('\n');
+  }
+  
+  /**
+   * 根据分类名称获取vault目录
+   */
+  getVaultCategory(blogCategory) {
+    const categoryMap = {
+      'tech': '技术思考',
+      'life': '生活日记',
+      'books': '读书笔记',
+      'quotes': '摘录收藏',
+      'analysis': '分析文章',
+      'thoughts': '随笔思考'
+    };
+    return categoryMap[blogCategory] || '生活日记';
+  }
+  
+  /**
+   * 根据中文分类名获取blog分类
+   */
+  getBlogCategoryFromName(catName) {
+    const nameMap = {
+      '生活日记': 'life',
+      '书籍阅读': 'books',
+      '技术思考': 'tech',
+      '数据分析': 'analysis',
+      '摘录记录': 'quotes',
+      '随笔思考': 'thoughts'
+    };
+    return nameMap[catName] || 'life';
   }
 }
 
