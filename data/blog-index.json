@@ -1,6 +1,15 @@
 {
   "posts": [
     {
+      "title": "test-publish",
+      "date": "2026-04-10",
+      "category": "life",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/life/test-publish.html"
+    },
+    {
       "title": "完整功能测试",
       "date": "2026-04-10",
       "category": "life",
@@ -355,5 +364,5 @@
       "path": "blog/tech/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.html"
     }
   ],
-  "updated": "2026-04-10 05:02 UTC"
+  "updated": "2026-04-10 06:18 UTC"
 }
