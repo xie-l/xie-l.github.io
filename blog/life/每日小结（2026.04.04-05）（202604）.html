@@ -4,88 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>每日小结（2026.04.04-05） - 谢亮</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✏️</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        .blog-container{max-width:800px;margin:100px auto 50px;padding:0 20px}
+        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}
         .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}
         .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}
-        .post-title{font-size:26px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}
+        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}
         .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
         .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
-        .post-content p{margin-bottom:18px;text-align:justify}
-        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px}
+        .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
+        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
         .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
     </style>
 </head>
 <body>
     <div class="blog-container">
-        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回</a>
-        <article class="post-header">
+        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回生活日记</a>
+                <article class="post-header">
             <h1 class="post-title">每日小结（2026.04.04-05）</h1>
             <div class="post-meta">
                 <span><i class="fas fa-calendar"></i> 2026年4月5日</span>
-                <span><i class="fas fa-tag"></i> 日记</span>
+                <span><i class="fas fa-folder"></i> 生活日记</span>
+                
             </div>
         </article>
+        
         <div class="post-content">
             <p>1.优化完善个人 GitHub 主页；</p>
-            <p>2.整理打扫房间，清洁整理衣服物品。</p>
-            <div class="post-tags"><span class="tag">日记</span></div>
+<p>2.整理打扫房间，清洁整理衣服物品。</p>
+<p>日记</p>
+
+            <div class="post-tags"></div>
         </div>
     </div>
-
-<script>
-/* 标签点击跳转到标签聚合页 */
+    <script>
 document.querySelectorAll('.tag').forEach(function(el){
-    el.style.cursor='pointer';
-    el.addEventListener('click',function(e){
-        e.preventDefault(); e.stopPropagation();
-        location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
-    });
+  el.style.cursor='pointer';
+  el.addEventListener('click',function(e){
+    e.preventDefault();
+    e.stopPropagation();
+    location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());
+  });
 });
 </script>
-
-<!-- Giscus 评论系统 -->
-<!-- 配置步骤（一次性）：
-     1. 在仓库 Settings → Features 中启用 Discussions
-     2. 访问 https://giscus.app → 输入 xie-l/xie-l.github.io → 获取 repo-id 与 category-id
-     3. 将下方 YOUR_REPO_ID 和 YOUR_CATEGORY_ID 替换为实际值
-     配置完成后此注释可删除 -->
-<div class="giscus-wrap" style="max-width:860px;margin:40px auto 60px;padding:0 20px">
-    <script src="https://giscus.app/client.js"
-        data-repo="xie-l/xie-l.github.io"
-        data-repo-id="R_kgDOJxjSOA"
-        data-category="General"
-        data-category-id="DIC_kwDOJxjSOM4C6RGA"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-    </script>
-    <script>
-        // 与站点暗色模式同步
-        (function() {
-            const giscusFrame = () => document.querySelector('.giscus-frame');
-            const theme = localStorage.getItem('theme') ||
-                (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-            const sendTheme = () => {
-                const frame = giscusFrame();
-                if (!frame) return;
-                frame.contentWindow.postMessage(
-                    { giscus: { setConfig: { theme: theme === 'dark' ? 'dark' : 'light' } } },
-                    'https://giscus.app'
-                );
-            };
-            setTimeout(sendTheme, 1500);
-        })();
-    </script>
-</div>
 </body>
 </html>
