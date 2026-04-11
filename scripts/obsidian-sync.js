@@ -9,9 +9,9 @@ const { validateFrontmatter, parseFrontmatter } = require('./utils/frontmatter')
 const { convertMarkdownToHtml } = require('./utils/markdown-converter');
 const { processImagePaths } = require('./utils/image-processor');
 const { getBlogCategory, getObsidianFolder } = require('./utils/category-map');
-const { createBackup } = require('./utils/backup');
 const { updateCategoryIndex } = require('./utils/category-index');
 const { htmlToMarkdown } = require('./utils/html-to-markdown');
+const { isSourceNewer } = require('./utils/file-compare');
 const Logger = require('./utils/logger');
 const { pad, safeHtml, sanitizeFilename, isValidPath, getFileKey } = require('./utils/string-helpers');
 
@@ -84,10 +84,6 @@ class ObsidianSync {
         return { success: true, skipped: true };
       }
       
-      if (!this.dryRun) {
-        await createBackup(fullPath, this.config.sync.backupPath);
-      }
-      
       const processedContent = await processImagePaths(markdownContent, fullPath, frontmatter);
       
       // 验证图片处理结果
@@ -119,7 +115,22 @@ class ObsidianSync {
       const targetDir = path.join(this.config.blog.blogPath, blogCategory);
       const targetPath = path.join(targetDir, filename);
       
+      // 比较文件时间戳，只同步更新的文件
       if (!this.dryRun) {
+        const timeCompare = await isSourceNewer(fullPath, targetPath);
+        
+        if (!timeCompare.isNewer) {
+          this.logger.info(`目标文件已是最新，跳过同步: ${filename} (目标: ${timeCompare.targetTime}, 源: ${timeCompare.sourceTime})`);
+          return {
+            success: true,
+            source: fullPath,
+            target: targetPath,
+            frontmatter,
+            skipped: true,
+            reason: 'target_is_newer'
+          };
+        }
+        
         await fs.ensureDir(targetDir);
         
         const htmlTemplate = this.generateHtmlTemplate(htmlContent, frontmatter, blogCategory);
@@ -385,10 +396,24 @@ document.querySelectorAll('.tag').forEach(function(el){
       
       if (conflict.hasConflict && !this.dryRun) {
         this.logger.warn(`检测到冲突: ${conflict.reason}`);
-        await createBackup(targetPath, this.config.sync.backupPath);
       }
       
+      // 比较文件时间戳，只同步更新的文件
       if (!this.dryRun) {
+        const timeCompare = await isSourceNewer(fullPath, targetPath);
+        
+        if (!timeCompare.isNewer) {
+          this.logger.info(`目标文件已是最新，跳过同步: ${filename} (目标: ${timeCompare.targetTime}, 源: ${timeCompare.sourceTime})`);
+          return {
+            success: true,
+            source: fullPath,
+            target: targetPath,
+            skipped: true,
+            reason: 'target_is_newer',
+            conflict: conflict.hasConflict
+          };
+        }
+        
         await fs.ensureDir(targetDir);
         await fs.writeFile(targetPath, markdownContent, 'utf8');
       }
