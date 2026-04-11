@@ -156,3 +156,87 @@
 {"timestamp":"2026-04-11T00:29:20.906Z","level":"ERROR","message":"更新分类索引失败: quotes - Cannot read properties of null (reading 'replace')"}
 {"timestamp":"2026-04-11T00:29:20.907Z","level":"ERROR","message":"更新分类索引失败: analysis - Cannot read properties of null (reading 'replace')"}
 {"timestamp":"2026-04-11T00:29:20.907Z","level":"ERROR","message":"更新分类索引失败: thoughts - Cannot read properties of null (reading 'replace')"}
+{"timestamp":"2026-04-11T00:31:30.944Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:31:30.953Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.953Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.953Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.954Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.954Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.965Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.965Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.965Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.966Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.974Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.974Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.979Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:30.980Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.841Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:31:40.848Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.848Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.848Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.849Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.849Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.856Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.856Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.857Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.857Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.865Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.865Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.870Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:40.870Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.399Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:31:44.407Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.407Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.407Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.408Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.409Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.416Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.416Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.416Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.416Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.424Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.424Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.428Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:44.428Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.635Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:31:45.643Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.644Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.644Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.645Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.645Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.653Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.653Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.654Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.654Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.663Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.663Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.667Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:45.668Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.286Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:31:49.291Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.291Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.292Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.292Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.292Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.301Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.301Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.302Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.302Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.310Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.310Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.314Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:31:49.315Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.019Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T00:32:44.028Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.029Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.030Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.032Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.034Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.046Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.047Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.047Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.048Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.056Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.056Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.062Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T00:32:44.064Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}

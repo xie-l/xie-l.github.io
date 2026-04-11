@@ -21,6 +21,11 @@ function pad(n) {
  * @returns {boolean} - 是否已存在
  */
 function checkFileExistsInIndex(indexHtml, filename) {
+  // 如果文件名为null/undefined，返回false（不存在）
+  if (!filename) {
+    return false;
+  }
+  
   // 构建匹配模式：href="filename" 或 href='filename'
   const escapedFilename = filename.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const regex = new RegExp(`href=["']${escapedFilename}["']`);
