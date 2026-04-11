@@ -11,10 +11,14 @@
             "id": "398b299a3f6e8511",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "生活日记/今日小结（2026.04.10）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "今日小结（2026.04.10）"
             }
           }
         ]
@@ -190,9 +194,10 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "398b299a3f6e8511",
+  "active": "040b0fed2dcb701d",
   "lastOpenFiles": [
     "生活日记/今日小结（2026.04.10）.md",
+    "生活日记/未命名.md",
     "生活日记/今日小结（2026.04.09）.md",
     "生活日记/个人主页更新模块（202604.06）.md",
     "生活日记/今日小结（2026.04.04-05）.md",
