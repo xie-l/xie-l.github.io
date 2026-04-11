@@ -5,7 +5,7 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Apr 2026 01:48:40 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 02:04:05 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
@@ -42,7 +42,15 @@
       <guid isPermaLink="true">https://xie-l.github.io/blog/life/测试图片同步（202604）.html</guid>
       <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
-      <description><![CDATA[测试图片同步 这是测试图片同步功能的文档。 测试图片1 测试图片2 结束 测试完成。 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片]]></description>
+      <description><![CDATA[测试图片同步 这是测试图片同步功能的文档。 测试图片1 测试图片2 结束 测试完成。 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片 测试 图片…]]></description>
+    </item>
+    <item>
+      <title>要注意很多细节，包括茶叶不能太碎，换一个，还有就…</title>
+      <link>https://xie-l.github.io/blog/life/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[要注意很多细节，包括茶叶不能太碎，换一个，还有就是回复领导，不能“校对”，而是“审阅”。这些细节要自己设身处地，但是很多时候都没去反应过来，但是有些人会特别在意，因为会触动神经。]]></description>
     </item>
     <item>
       <title>要注意很多细节，包括茶叶不能太碎，换一个，还有就…</title>
@@ -67,6 +75,14 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
       <description><![CDATA[日有所成： 1. 推进完善个人主页，主要是修复其中的 bug，比如点击关于我页面排版问题； 2. 推进工作要点的完善修改梳理，mac 电脑打开公文文档会加载不出来字体，替换成相似字体，这一点需要注意，最好不在 mac 电脑中变价公文，或者在 mac 电脑中打开编辑后再用 Windows 系统检查核对…]]></description>
+    </item>
+    <item>
+      <title>组织参加会议需要准备的事情：桌签（桌签的排布）、…</title>
+      <link>https://xie-l.github.io/blog/life/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[组织参加会议需要准备的事情：桌签（桌签的排布）、签到表、屏幕（PPT 写个会议名字、信息中心相关）、会议通知、茶水（茶叶、杯子、开水）、会议要及时记录（录音笔）、及时倒水等等。 会议 组织 准备 会议 组织 准备 会议 组织 准备 会议 组织 准备]]></description>
     </item>
     <item>
       <title>组织参加会议需要准备的事情：桌签（桌签的排布）、…</title>
@@ -102,11 +118,27 @@
     </item>
     <item>
       <title>十个顶级 Claude Code Skills，装上就不想卸</title>
+      <link>https://xie-l.github.io/blog/life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[用 Claude Code 大半年了，Skills 和 Plugin 装了几十个，删了一半，留下来的都是真正改变了我工作方式的。这篇就挑十个我用得最多、也觉得最值得推荐的，每个都附安装命令，拿去直接用。 先简单说下 Skill 和 Plugin 的区别。Skill 是一个包含 SKILL.md 的文…]]></description>
+    </item>
+    <item>
+      <title>十个顶级 Claude Code Skills，装上就不想卸</title>
       <link>https://xie-l.github.io/blog/quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</link>
       <guid isPermaLink="true">https://xie-l.github.io/blog/quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
       <category>quotes</category>
       <description><![CDATA[用 Claude Code 大半年了，Skills 和 Plugin 装了几十个，删了一半，留下来的都是真正改变了我工作方式的。这篇就挑十个我用得最多、也觉得最值得推荐的，每个都附安装命令，拿去直接用。 先简单说下 Skill 和 Plugin 的区别。Skill 是一个包含 SKILL.md 的文…]]></description>
+    </item>
+    <item>
+      <title>中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议</title>
+      <link>https://xie-l.github.io/blog/life/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 -0000</pubDate>
+      <category>life</category>
+      <description><![CDATA[# 中共青海省委关于制定国民经济和社会发展"十五五"规划的建议 中国共产党青海省第十四届委员会第十次全体会议，深入学习贯彻党的二十届四中全会精神，紧密结合青海实际，就制定国民经济和社会发展"十五五"规划提出以下建议。 ## 一、"十五五"时期是青海与全国同步基本实现社会主义现代化的关键时期 ### …]]></description>
     </item>
     <item>
       <title>今日规划（2025.04.07）</title>
@@ -133,44 +165,12 @@
       <description><![CDATA[做事情，很多时候不是这个事情本身，而是要让某些人认为这个事情可以了。]]></description>
     </item>
     <item>
-      <title>今日小结（2026.04.05）</title>
-      <link>https://xie-l.github.io/blog/life/今日小结（2026.04.05）（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/今日小结（2026.04.05）（202604）.html</guid>
+      <title>个人主页更新模块（202604.06）</title>
+      <link>https://xie-l.github.io/blog/life/个人主页更新模块（202604.06）（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/life/个人主页更新模块（202604.06）（202604）.html</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
-      <description><![CDATA[- 1. 继续完善优化个人主页。主要是对主页呈现部分进行了修改，包括添加政府等部门的资讯动态、能源市场数据（油、煤、氢等）、添加微信阅读记录统计、字数统计等。在这个过程中，还处理了不满意的地方，如更新周期、报错等。 - 2. 周末推进 pubg、cs2等游戏。这个过程中主要是娱乐为主，并未过多的去关…]]></description>
-    </item>
-    <item>
-      <title>个人主页更新模块（202604.06）</title>
-      <link>https://xie-l.github.io/blog/tech/个人主页更新模块（202604.06）（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/tech/个人主页更新模块（202604.06）（202604）.html</guid>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 -0000</pubDate>
-      <category>tech</category>
       <description><![CDATA[添加了下面几个模块： - 今日三问：帮助自己每天进行思考； - 每日五词：帮助自己每天掌握学习； - 今日数感：帮助提升自身数据敏感性； - 资讯动态：帮助及时了解前沿动态。 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新，学习 更新…]]></description>
-    </item>
-    <item>
-      <title>《新闻联播》2026 年 4 月 5 日</title>
-      <link>https://xie-l.github.io/blog/analysis/2026-4-5-（2026.04）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/analysis/2026-4-5-（2026.04）.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
-      <category>analysis</category>
-      <description><![CDATA[一、国内新闻板块（按重要性+类别分层摘录） （一）主题报道与节日相关 核心主题报道：【新思想引领新征程】清明祭英烈 奋进新征程 节气专题：二十四节气·清明（结合清明节日民俗与自然节气特点展开） 公祭活动：丙午年清明公祭轩辕黄帝典礼在陕西举行（农历干支：丙午年；地点：陕西） （二）经济与民生保障 文旅…]]></description>
-    </item>
-    <item>
-      <title>《当下的力量》：一个焦虑型学者的止战手册</title>
-      <link>https://xie-l.github.io/blog/books/当下的力量-一个焦虑型学者的止战手册（2026.04）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/books/当下的力量-一个焦虑型学者的止战手册（2026.04）.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
-      <category>books</category>
-      <description><![CDATA["我无法与自己共处。" 托利29岁那年，长期抑郁的他冒出这个念头，紧接着一个追问劈开了他的世界："如果'我'无法忍受'自己'，那一定有两个我——到底哪个才是真的？" 这个问题让他的思维停转了。停转的瞬间，痛苦消失了。他发现：痛苦不是生活给的，是思维造的。这本书就是他用余生写的那份"诊断报告"。 一、…]]></description>
-    </item>
-    <item>
-      <title>《认知觉醒》：一个博士生的自我重启手册</title>
-      <link>https://xie-l.github.io/blog/books/认知觉醒-一个博士生的自我重启手册（2026.04）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/books/认知觉醒-一个博士生的自我重启手册（2026.04）.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:00:00 -0000</pubDate>
-      <category>books</category>
-      <description><![CDATA["人有两次生命，一次是出生，一次是觉醒。" 周岭在《认知觉醒》的扉页这样写道。我在博士毕业前一个月读到这本书，发现自己过去六年所有的焦虑、拖延、低效努力，都能在书中找到神经科学层面的解释。这不是一本鸡汤，而是一张大脑使用说明书。 一、全书框架：两条路径，八个章节 《认知觉醒》分为上下两篇。上篇"内观…]]></description>
     </item>
   </channel>
 </rss>
