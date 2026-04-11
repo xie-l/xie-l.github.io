@@ -2,7 +2,7 @@
 status: published
 title: 十个顶级 Claude Code Skills，装上就不想卸
 date: 2026-04-08
-category: quotes
+category: life
 tags: [Claude, Code, Skill, Superpower]
 ---
 
@@ -161,6 +161,8 @@ GitHub: [https://github.com/anthropics/claude-plugins-official/tree/main/plugins
 • Claude Code Skills 文档：[https://code.claude.com/docs/en/skills](https://code.claude.com/docs/en/skills)
 
 • Skills 市场：[https://skillsmp.com/](https://skillsmp.com/)
+
+Claude Code Skill Superpower
 
 Claude Code Skill Superpower
 

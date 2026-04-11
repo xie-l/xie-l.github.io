@@ -375,7 +375,7 @@ document.querySelectorAll('.tag').forEach(function(el){
       }
       
       // 提取Frontmatter信息
-      const frontmatter = this.extractFrontmatterFromHtml(htmlContent);
+      const frontmatter = this.extractFrontmatterFromHtml(htmlContent, fullPath);
       
       // 确保status字段存在（默认为published）
       if (!markdownContent.includes('status:')) {
@@ -440,7 +440,7 @@ document.querySelectorAll('.tag').forEach(function(el){
   /**
    * 从HTML中提取Frontmatter信息
    */
-  extractFrontmatterFromHtml(htmlContent) {
+  extractFrontmatterFromHtml(htmlContent, filePath) {
     const frontmatter = {};
     
     try {
@@ -450,25 +450,38 @@ document.querySelectorAll('.tag').forEach(function(el){
       const titleEl = $('h1.post-title');
       frontmatter.title = titleEl.length ? titleEl.text().trim() : '';
       
-      // 提取日期
-      const dateEl = $('.post-meta').find('span').first();
-      if (dateEl.length) {
-        const dateText = dateEl.text().replace(/[^\u4e00-\u9fa5\d]/g, '').trim();
+      // 提取所有meta信息
+      const metaSpans = $('.post-meta span');
+      
+      // 提取日期（找到日历图标）
+      const dateSpan = metaSpans.filter((i, el) => {
+        return $(el).html().includes('fa-calendar');
+      });
+      if (dateSpan.length) {
+        const dateText = dateSpan.text().replace(/[^\u4e00-\u9fa5\d]/g, '').trim();
         frontmatter.date = this.parseChineseDate(dateText);
       }
       
-      // 提取分类
-      const folderIcon = $('.post-meta').find('span').eq(1);
-      if (folderIcon.length) {
-        const categoryText = folderIcon.text().trim();
-        frontmatter.category = this.mapCategoryName(categoryText);
-      }
+      // 提取分类和标签（找到标签图标）
+      const tagSpans = metaSpans.filter((i, el) => {
+        const html = $(el).html();
+        return html.includes('fa-tag') || html.includes('fa-tags');
+      });
       
-      // 提取标签
-      const tagsIcon = $('.post-meta').find('span').eq(2);
-      if (tagsIcon.length) {
-        const tagsText = tagsIcon.text().trim();
-        frontmatter.tags = tagsText.split('/').map(tag => tag.trim()).filter(tag => tag);
+      if (tagSpans.length) {
+        const tagTexts = tagSpans.map((i, el) => $(el).text().trim()).get();
+        
+        // 第一个不包含 / 的是分类
+        const categoryText = tagTexts.find(text => !text.includes('/'));
+        if (categoryText) {
+          frontmatter.category = this.mapCategoryName(categoryText);
+        }
+        
+        // 包含 / 的是标签
+        const tagsText = tagTexts.find(text => text.includes('/'));
+        if (tagsText) {
+          frontmatter.tags = tagsText.split('/').map(tag => tag.trim()).filter(tag => tag);
+        }
       }
       
       // 提取来源（如果是quotes分类）
@@ -477,6 +490,14 @@ document.querySelectorAll('.tag').forEach(function(el){
         if (sourceEl.length) {
           const sourceText = sourceEl.text().replace('来源：', '').trim();
           frontmatter.source = sourceText;
+        }
+      }
+      
+      // 如果无法从HTML中提取分类，使用文件路径推断
+      if (!frontmatter.category || frontmatter.category === 'life') {
+        const inferredCategory = this.inferCategoryFromPath(filePath);
+        if (inferredCategory) {
+          frontmatter.category = inferredCategory;
         }
       }
     } catch (error) {
@@ -538,6 +559,26 @@ document.querySelectorAll('.tag').forEach(function(el){
       '随笔思考': 'thoughts'
     };
     return nameMap[categoryName] || 'life';
+  }
+  
+  /**
+   * 从文件路径推断分类
+   */
+  inferCategoryFromPath(filePath) {
+    const path = require('path');
+    const dir = path.dirname(filePath);
+    const folder = path.basename(dir);
+    
+    const folderToCategory = {
+      'books': 'books',
+      'life': 'life',
+      'tech': 'tech',
+      'analysis': 'analysis',
+      'quotes': 'quotes',
+      'thoughts': 'thoughts'
+    };
+    
+    return folderToCategory[folder];
   }
   
   /**
