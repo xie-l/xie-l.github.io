@@ -459,6 +459,11 @@ document.querySelectorAll('.tag').forEach(function(el){
       throw error;
     }
     
+    // 设置默认值
+    if (!frontmatter.category) {
+      frontmatter.category = 'life'; // 默认分类
+    }
+    
     return frontmatter;
   }
   

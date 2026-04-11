@@ -29,7 +29,7 @@ function safeHtml(str) {
  * @returns {string} 清理后的文件名
  */
 function sanitizeFilename(filename, maxLength = 50) {
-  return filename.replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, maxLength);
+  return String(filename || '').replace(/[<>:"/\\|?*\u0000-\u001f]/g, '').slice(0, maxLength);
 }
 
 /**

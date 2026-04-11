@@ -71,12 +71,16 @@ async function updateCategoryIndex(blogPath, category, filename, title, tagList,
     '                <div class="post-tags">' + tagsHtml + '</div>\n' +
     '            </a>';
   
-  const marker = '<div class="post-list">';
-  if (!currentHTML.includes(marker)) {
-    console.warn(`无法找到插入点: ${marker}`);
+  // 使用正则表达式匹配<div class="post-list">，允许有其他属性
+  const markerRegex = /<div\s+class="post-list"[^>]*>/;
+  const markerMatch = currentHTML.match(markerRegex);
+  
+  if (!markerMatch) {
+    console.warn(`无法找到插入点: <div class="post-list">`);
     return { success: false, error: 'marker_not_found' };
   }
   
+  const marker = markerMatch[0];
   const updatedHTML = currentHTML.replace(marker, marker + newCard);
   await fs.writeFile(indexPath, updatedHTML, 'utf8');
   
