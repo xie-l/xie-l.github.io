@@ -165,5 +165,3 @@ GitHub: [https://github.com/anthropics/claude-plugins-official/tree/main/plugins
 Claude Code Skill Superpower
 
 Claude Code Skill Superpower
-
-Claude Code Skill Superpower
