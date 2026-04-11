@@ -5797,3 +5797,235 @@
 {"timestamp":"2026-04-11T02:07:38.357Z","level":"INFO","message":"更新分类索引成功: thoughts"}
 {"timestamp":"2026-04-11T02:07:38.357Z","level":"INFO","message":"所有分类索引更新完成"}
 {"timestamp":"2026-04-11T02:07:38.357Z","level":"INFO","message":"双向同步完成"}
+{"timestamp":"2026-04-11T02:23:53.244Z","level":"INFO","message":"开始双向同步"}
+{"timestamp":"2026-04-11T02:23:53.251Z","level":"INFO","message":"=== 第一阶段: Obsidian → Blog ==="}
+{"timestamp":"2026-04-11T02:23:53.253Z","level":"INFO","message":"找到 42 个待处理文件，使用并发限制: 5"}
+{"timestamp":"2026-04-11T02:23:53.253Z","level":"INFO","message":"处理批次 1/9"}
+{"timestamp":"2026-04-11T02:23:53.253Z","level":"INFO","message":"开始同步文件: 摘录记录/十个顶级 Claude Code Skills，装上就不想卸.md"}
+{"timestamp":"2026-04-11T02:23:53.265Z","level":"INFO","message":"成功更新分类索引: quotes"}
+{"timestamp":"2026-04-11T02:23:53.265Z","level":"INFO","message":"同步完成: 摘录记录/十个顶级 Claude Code Skills，装上就不想卸.md -> blog/quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.265Z","level":"ERROR","message":"同步失败: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 随笔思考/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T02:23:53.265Z","level":"INFO","message":"开始同步文件: 随笔思考/组织参加会议需要准备的事情：桌签（桌签的排布）、….md"}
+{"timestamp":"2026-04-11T02:23:53.267Z","level":"INFO","message":"文件已在索引中，跳过更新: 组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.267Z","level":"INFO","message":"同步完成: 随笔思考/组织参加会议需要准备的事情：桌签（桌签的排布）、….md -> blog/thoughts/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.267Z","level":"INFO","message":"开始同步文件: 随笔思考/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md"}
+{"timestamp":"2026-04-11T02:23:53.268Z","level":"INFO","message":"文件已在索引中，跳过更新: 要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.269Z","level":"INFO","message":"同步完成: 随笔思考/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md -> blog/thoughts/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.269Z","level":"INFO","message":"开始同步文件: 技术思考/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T02:23:53.270Z","level":"INFO","message":"文件已在索引中，跳过更新: 个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.271Z","level":"INFO","message":"同步完成: 技术思考/个人主页更新模块（202604.06）.md -> blog/tech/个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.271Z","level":"INFO","message":"处理批次 2/9"}
+{"timestamp":"2026-04-11T02:23:53.271Z","level":"INFO","message":"开始同步文件: 技术思考/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T02:23:53.273Z","level":"INFO","message":"文件已在索引中，跳过更新: 中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.273Z","level":"INFO","message":"同步完成: 技术思考/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md -> blog/tech/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.273Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.273Z","level":"ERROR","message":"同步失败: 技术思考/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.273Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.274Z","level":"ERROR","message":"同步失败: 技术思考/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.274Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.274Z","level":"ERROR","message":"同步失败: 技术思考/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.274Z","level":"INFO","message":"开始同步文件: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md"}
+{"timestamp":"2026-04-11T02:23:53.275Z","level":"ERROR","message":"同步失败: 生活日记/《当下的力量》：一个焦虑型学者的止战手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.275Z","level":"INFO","message":"处理批次 3/9"}
+{"timestamp":"2026-04-11T02:23:53.276Z","level":"INFO","message":"开始同步文件: 生活日记/《新闻联播》2026 年 4 月 5 日.md"}
+{"timestamp":"2026-04-11T02:23:53.276Z","level":"ERROR","message":"同步失败: 生活日记/《新闻联播》2026 年 4 月 5 日.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.276Z","level":"INFO","message":"开始同步文件: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md"}
+{"timestamp":"2026-04-11T02:23:53.277Z","level":"ERROR","message":"同步失败: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.277Z","level":"INFO","message":"开始同步文件: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md"}
+{"timestamp":"2026-04-11T02:23:53.277Z","level":"ERROR","message":"同步失败: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.277Z","level":"INFO","message":"开始同步文件: 生活日记/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T02:23:53.278Z","level":"INFO","message":"文件已在索引中，跳过更新: 个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.278Z","level":"INFO","message":"同步完成: 生活日记/个人主页更新模块（202604.06）.md -> blog/life/个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.278Z","level":"INFO","message":"开始同步文件: 生活日记/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T02:23:53.281Z","level":"INFO","message":"文件已在索引中，跳过更新: 中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.281Z","level":"INFO","message":"同步完成: 生活日记/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md -> blog/life/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.281Z","level":"INFO","message":"处理批次 4/9"}
+{"timestamp":"2026-04-11T02:23:53.281Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.04-05）.md"}
+{"timestamp":"2026-04-11T02:23:53.282Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.282Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.05）.md"}
+{"timestamp":"2026-04-11T02:23:53.284Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日小结（2026.04.05）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.284Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.05）.md -> blog/life/今日小结（2026.04.05）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.284Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.07）.md"}
+{"timestamp":"2026-04-11T02:23:53.285Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日小结（2026.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.285Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.07）.md -> blog/life/今日小结（2026.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.286Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.08）.md"}
+{"timestamp":"2026-04-11T02:23:53.286Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日小结（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.286Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.08）.md -> blog/life/今日小结（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.287Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-11T02:23:53.288Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.288Z","level":"INFO","message":"同步完成: 生活日记/今日小结（2026.04.09）.md -> blog/life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.288Z","level":"INFO","message":"处理批次 5/9"}
+{"timestamp":"2026-04-11T02:23:53.288Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.10）.md"}
+{"timestamp":"2026-04-11T02:23:53.289Z","level":"ERROR","message":"同步失败: 生活日记/今日小结（2026.04.10）.md","error":"Front Matter 验证失败: 缺少必填字段: title, 缺少必填字段: date, 缺少必填字段: category, 缺少必填字段: status"}
+{"timestamp":"2026-04-11T02:23:53.289Z","level":"INFO","message":"开始同步文件: 生活日记/今日规划（2025.04.07）.md"}
+{"timestamp":"2026-04-11T02:23:53.290Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日规划（2025.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.290Z","level":"INFO","message":"同步完成: 生活日记/今日规划（2025.04.07）.md -> blog/life/今日规划（2025.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.290Z","level":"INFO","message":"开始同步文件: 生活日记/今日规划（2026.04.08）.md"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"INFO","message":"文件已在索引中，跳过更新: 今日规划（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"INFO","message":"同步完成: 生活日记/今日规划（2026.04.08）.md -> blog/life/今日规划（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"ERROR","message":"同步失败: 生活日记/做事情，很多时候不是这个事情本身，而是要....md","error":"非法文件路径: 生活日记/做事情，很多时候不是这个事情本身，而是要....md"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"INFO","message":"开始同步文件: 生活日记/关键词（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"ERROR","message":"同步失败: 生活日记/关键词（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"INFO","message":"处理批次 6/9"}
+{"timestamp":"2026-04-11T02:23:53.291Z","level":"INFO","message":"开始同步文件: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.292Z","level":"ERROR","message":"同步失败: 生活日记/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.292Z","level":"INFO","message":"开始同步文件: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.292Z","level":"ERROR","message":"同步失败: 生活日记/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.292Z","level":"INFO","message":"开始同步文件: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.293Z","level":"ERROR","message":"同步失败: 生活日记/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.293Z","level":"INFO","message":"开始同步文件: 生活日记/十个顶级 Claude Code Skills，装上就不想卸.md"}
+{"timestamp":"2026-04-11T02:23:53.294Z","level":"INFO","message":"文件已在索引中，跳过更新: 十个顶级 Claude Code Skills，装上就不想卸（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.294Z","level":"INFO","message":"同步完成: 生活日记/十个顶级 Claude Code Skills，装上就不想卸.md -> blog/life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.294Z","level":"INFO","message":"开始同步文件: 生活日记/完整功能测试.md"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"INFO","message":"文件已在索引中，跳过更新: 完整功能测试（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"INFO","message":"同步完成: 生活日记/完整功能测试.md -> blog/life/完整功能测试（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"INFO","message":"处理批次 7/9"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"INFO","message":"开始同步文件: 生活日记/每日小结（2026.04.04-05）.md"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"ERROR","message":"同步失败: 生活日记/每日小结（2026.04.04-05）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.302Z","level":"INFO","message":"开始同步文件: 生活日记/比较优势和比较能力（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.303Z","level":"ERROR","message":"同步失败: 生活日记/比较优势和比较能力（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.303Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-11T02:23:53.304Z","level":"INFO","message":"文件已在索引中，跳过更新: 测试图片同步（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.304Z","level":"INFO","message":"同步完成: 生活日记/测试图片同步.md -> blog/life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.304Z","level":"INFO","message":"开始同步文件: 生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-11T02:23:53.304Z","level":"WARN","message":"发现未处理的本地图片，请检查图片路径格式"}
+{"timestamp":"2026-04-11T02:23:53.304Z","level":"WARN","message":"支持的格式: ./attachments/图片.jpg, ../attachments/图片.jpg, 或 图片.jpg"}
+{"timestamp":"2026-04-11T02:23:53.307Z","level":"INFO","message":"文件已在索引中，跳过更新: 测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-11T02:23:53.307Z","level":"INFO","message":"同步完成: 生活日记/测试图片路径格式.md -> blog/life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-11T02:23:53.307Z","level":"INFO","message":"开始同步文件: 生活日记/组织参加会议需要准备的事情：桌签（桌签的排布）、….md"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"INFO","message":"文件已在索引中，跳过更新: 组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"INFO","message":"同步完成: 生活日记/组织参加会议需要准备的事情：桌签（桌签的排布）、….md -> blog/life/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"INFO","message":"处理批次 8/9"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"INFO","message":"开始同步文件: 生活日记/自身认识（202604）.md"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"ERROR","message":"同步失败: 生活日记/自身认识（202604）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.308Z","level":"INFO","message":"开始同步文件: 生活日记/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md"}
+{"timestamp":"2026-04-11T02:23:53.309Z","level":"INFO","message":"文件已在索引中，跳过更新: 要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.309Z","level":"INFO","message":"同步完成: 生活日记/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md -> blog/life/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.309Z","level":"INFO","message":"开始同步文件: 生活日记/规划认识（2026.04）.md"}
+{"timestamp":"2026-04-11T02:23:53.309Z","level":"ERROR","message":"同步失败: 生活日记/规划认识（2026.04）.md","error":"Front Matter 验证失败: 缺少必填字段: category"}
+{"timestamp":"2026-04-11T02:23:53.309Z","level":"INFO","message":"开始同步文件: 书籍阅读/《当下的力量》：一个焦虑型学者的止战手册.md"}
+{"timestamp":"2026-04-11T02:23:53.311Z","level":"INFO","message":"文件已在索引中，跳过更新: 《当下的力量》：一个焦虑型学者的止战手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.311Z","level":"INFO","message":"同步完成: 书籍阅读/《当下的力量》：一个焦虑型学者的止战手册.md -> blog/books/《当下的力量》：一个焦虑型学者的止战手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.311Z","level":"INFO","message":"开始同步文件: 书籍阅读/《认知觉醒》：一个博士生的自我重启手册.md"}
+{"timestamp":"2026-04-11T02:23:53.312Z","level":"INFO","message":"文件已在索引中，跳过更新: 《认知觉醒》：一个博士生的自我重启手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.312Z","level":"INFO","message":"同步完成: 书籍阅读/《认知觉醒》：一个博士生的自我重启手册.md -> blog/books/《认知觉醒》：一个博士生的自我重启手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.312Z","level":"INFO","message":"处理批次 9/9"}
+{"timestamp":"2026-04-11T02:23:53.312Z","level":"INFO","message":"开始同步文件: 书籍阅读/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md"}
+{"timestamp":"2026-04-11T02:23:53.313Z","level":"INFO","message":"文件已在索引中，跳过更新: 《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.313Z","level":"INFO","message":"同步完成: 书籍阅读/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md -> blog/books/《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.313Z","level":"INFO","message":"开始同步文件: 数据分析/《新闻联播》2026 年 4 月 5 日.md"}
+{"timestamp":"2026-04-11T02:23:53.314Z","level":"INFO","message":"文件已在索引中，跳过更新: 《新闻联播》2026 年 4 月 5 日（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.314Z","level":"INFO","message":"同步完成: 数据分析/《新闻联播》2026 年 4 月 5 日.md -> blog/analysis/《新闻联播》2026 年 4 月 5 日（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.314Z","level":"INFO","message":"Obsidian → Blog 同步成功"}
+{"timestamp":"2026-04-11T02:23:53.314Z","level":"INFO","message":"=== 第二阶段: Blog → Obsidian ==="}
+{"timestamp":"2026-04-11T02:23:53.314Z","level":"INFO","message":"开始同步所有博客文件到Obsidian"}
+{"timestamp":"2026-04-11T02:23:53.315Z","level":"INFO","message":"找到 40 个待处理文件，使用并发限制: 5"}
+{"timestamp":"2026-04-11T02:23:53.315Z","level":"INFO","message":"处理批次 1/8"}
+{"timestamp":"2026-04-11T02:23:53.315Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/20260404-05（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.325Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.325Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.04-05）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.325Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.330Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T02:23:53.330Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.353Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T02:23:53.353Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日小结（2026.04.04-05）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.354Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.354Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.04-05）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.355Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日小结（2026.04.05）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.356Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日小结（2026.04.05）.md"}
+{"timestamp":"2026-04-11T02:23:53.356Z","level":"INFO","message":"处理批次 2/8"}
+{"timestamp":"2026-04-11T02:23:53.356Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日小结（2026.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.357Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日小结（2026.04.07）.md"}
+{"timestamp":"2026-04-11T02:23:53.357Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日小结（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.360Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日小结（2026.04.08）.md"}
+{"timestamp":"2026-04-11T02:23:53.360Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日小结（2026.04.09）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.362Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-11T02:23:53.362Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日规划（2025.04.07）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.364Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日规划（2025.04.07）.md"}
+{"timestamp":"2026-04-11T02:23:53.364Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/今日规划（2026.04.08）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.364Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/今日规划（2026.04.08）.md"}
+{"timestamp":"2026-04-11T02:23:53.365Z","level":"INFO","message":"处理批次 3/8"}
+{"timestamp":"2026-04-11T02:23:53.365Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/关键词（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.369Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.370Z","level":"INFO","message":"目标文件已是最新，跳过同步: 关键词（2026.04）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.370Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.372Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/十个顶级 Claude Code Skills，装上就不想卸.md"}
+{"timestamp":"2026-04-11T02:23:53.372Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/完整功能测试（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.376Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/完整功能测试.md"}
+{"timestamp":"2026-04-11T02:23:53.376Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/每日小结（2026.04.04-05）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.377Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.377Z","level":"INFO","message":"目标文件已是最新，跳过同步: 每日小结（2026.04.04-05）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.377Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/比较优势和比较能力（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.380Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.380Z","level":"INFO","message":"目标文件已是最新，跳过同步: 比较优势和比较能力（2026.04）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.380Z","level":"INFO","message":"处理批次 4/8"}
+{"timestamp":"2026-04-11T02:23:53.380Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/测试图片同步（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.381Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/测试图片同步.md"}
+{"timestamp":"2026-04-11T02:23:53.381Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/测试图片路径格式（202401）.html"}
+{"timestamp":"2026-04-11T02:23:53.384Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/测试图片路径格式.md"}
+{"timestamp":"2026-04-11T02:23:53.384Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.385Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/组织参加会议需要准备的事情：桌签（桌签的排布）、….md"}
+{"timestamp":"2026-04-11T02:23:53.385Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/自身认识（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.386Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.386Z","level":"INFO","message":"目标文件已是最新，跳过同步: 自身认识（202604）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.386Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.387Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/生活日记/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md"}
+{"timestamp":"2026-04-11T02:23:53.387Z","level":"INFO","message":"处理批次 5/8"}
+{"timestamp":"2026-04-11T02:23:53.387Z","level":"INFO","message":"开始同步博客文件到Obsidian: life/规划认识（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.390Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs life"}
+{"timestamp":"2026-04-11T02:23:53.390Z","level":"INFO","message":"目标文件已是最新，跳过同步: 规划认识（2026.04）.md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.390Z","level":"INFO","message":"开始同步博客文件到Obsidian: tech/个人主页更新模块（202604.06）（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.391Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/技术思考/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T02:23:53.391Z","level":"INFO","message":"开始同步博客文件到Obsidian: tech/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.394Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/技术思考/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T02:23:53.394Z","level":"INFO","message":"开始同步博客文件到Obsidian: tech/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.396Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs tech"}
+{"timestamp":"2026-04-11T02:23:53.396Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md (目标: Sat Apr 11 2026 09:59:37 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.396Z","level":"INFO","message":"开始同步博客文件到Obsidian: tech/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.398Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs tech"}
+{"timestamp":"2026-04-11T02:23:53.398Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md (目标: Sat Apr 11 2026 09:59:37 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.398Z","level":"INFO","message":"处理批次 6/8"}
+{"timestamp":"2026-04-11T02:23:53.398Z","level":"INFO","message":"开始同步博客文件到Obsidian: tech/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.400Z","level":"WARN","message":"检测到冲突: 分类不匹配: undefined vs tech"}
+{"timestamp":"2026-04-11T02:23:53.400Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md (目标: Sat Apr 11 2026 09:59:37 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.400Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/《当下的力量》：一个焦虑型学者的止战手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.402Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/书籍阅读/《当下的力量》：一个焦虑型学者的止战手册.md"}
+{"timestamp":"2026-04-11T02:23:53.402Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/《认知觉醒》：一个博士生的自我重启手册（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.407Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/书籍阅读/《认知觉醒》：一个博士生的自我重启手册.md"}
+{"timestamp":"2026-04-11T02:23:53.408Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.412Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/书籍阅读/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md"}
+{"timestamp":"2026-04-11T02:23:53.412Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/当下的力量-一个焦虑型学者的止战手册（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.415Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《当下的力量》：一个焦虑型学者的止战手册.md (目标: Sat Apr 11 2026 10:23:53 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.416Z","level":"INFO","message":"处理批次 7/8"}
+{"timestamp":"2026-04-11T02:23:53.416Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/认知觉醒-一个博士生的自我重启手册（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.419Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《认知觉醒》：一个博士生的自我重启手册.md (目标: Sat Apr 11 2026 10:23:53 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.420Z","level":"INFO","message":"开始同步博客文件到Obsidian: books/高效能人士的七个习惯-从博士到管培生的效能觉醒（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.422Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md (目标: Sat Apr 11 2026 10:23:53 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 12:39:38 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.422Z","level":"INFO","message":"开始同步博客文件到Obsidian: quotes/十个顶级 Claude Code Skills，装上就不想卸（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.424Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/摘录记录/十个顶级 Claude Code Skills，装上就不想卸.md"}
+{"timestamp":"2026-04-11T02:23:53.424Z","level":"INFO","message":"开始同步博客文件到Obsidian: analysis/2026-4-5-（2026.04）.html"}
+{"timestamp":"2026-04-11T02:23:53.427Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《新闻联播》2026 年 4 月 5 日.md (目标: Sat Apr 11 2026 10:07:38 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 15:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.427Z","level":"INFO","message":"开始同步博客文件到Obsidian: analysis/《新闻联播》2026 年 4 月 5 日（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.428Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/数据分析/《新闻联播》2026 年 4 月 5 日.md"}
+{"timestamp":"2026-04-11T02:23:53.428Z","level":"INFO","message":"处理批次 8/8"}
+{"timestamp":"2026-04-11T02:23:53.428Z","level":"INFO","message":"开始同步博客文件到Obsidian: thoughts/2026-04-07（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.429Z","level":"INFO","message":"目标文件已是最新，跳过同步: 做事情，很多时候不是这个事情本身，而是要....md (目标: Sat Apr 11 2026 08:44:00 GMT+0800 (China Standard Time), 源: Tue Apr 07 2026 22:43:14 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.429Z","level":"INFO","message":"开始同步博客文件到Obsidian: thoughts/2026-04-09（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.430Z","level":"INFO","message":"目标文件已是最新，跳过同步: 组织参加会议需要准备的事情：桌签（桌签的排布）、….md (目标: Sat Apr 11 2026 10:07:38 GMT+0800 (China Standard Time), 源: Thu Apr 09 2026 16:29:55 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.430Z","level":"INFO","message":"开始同步博客文件到Obsidian: thoughts/2026-04-10（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.431Z","level":"INFO","message":"目标文件已是最新，跳过同步: 要注意很多细节，包括茶叶不能太碎，换一个，还有就….md (目标: Sat Apr 11 2026 10:07:38 GMT+0800 (China Standard Time), 源: Fri Apr 10 2026 20:44:25 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T02:23:53.431Z","level":"INFO","message":"开始同步博客文件到Obsidian: thoughts/组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.431Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/随笔思考/组织参加会议需要准备的事情：桌签（桌签的排布）、….md"}
+{"timestamp":"2026-04-11T02:23:53.432Z","level":"INFO","message":"开始同步博客文件到Obsidian: thoughts/要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html"}
+{"timestamp":"2026-04-11T02:23:53.432Z","level":"INFO","message":"成功同步到Obsidian: obsidian-vault/随笔思考/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md"}
+{"timestamp":"2026-04-11T02:23:53.432Z","level":"INFO","message":"所有博客文件同步完成，共处理 40 个文件，成功 40 个，失败 0 个，冲突 10 个"}
+{"timestamp":"2026-04-11T02:23:53.432Z","level":"INFO","message":"Blog → Obsidian 同步成功"}
+{"timestamp":"2026-04-11T02:23:53.432Z","level":"INFO","message":"开始更新所有分类索引"}
+{"timestamp":"2026-04-11T02:23:53.436Z","level":"INFO","message":"更新分类索引成功: life"}
+{"timestamp":"2026-04-11T02:23:53.438Z","level":"INFO","message":"更新分类索引成功: tech"}
+{"timestamp":"2026-04-11T02:23:53.440Z","level":"INFO","message":"更新分类索引成功: books"}
+{"timestamp":"2026-04-11T02:23:53.440Z","level":"INFO","message":"更新分类索引成功: quotes"}
+{"timestamp":"2026-04-11T02:23:53.441Z","level":"INFO","message":"更新分类索引成功: analysis"}
+{"timestamp":"2026-04-11T02:23:53.443Z","level":"INFO","message":"更新分类索引成功: thoughts"}
+{"timestamp":"2026-04-11T02:23:53.443Z","level":"INFO","message":"所有分类索引更新完成"}
+{"timestamp":"2026-04-11T02:23:53.443Z","level":"INFO","message":"双向同步完成"}
