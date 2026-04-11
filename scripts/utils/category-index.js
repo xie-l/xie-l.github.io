@@ -15,10 +15,44 @@ function pad(n) {
 }
 
 /**
+ * 解析中文日期格式为时间戳
+ * @param {string} chineseDate - 中文日期格式，如 "2026年4月10日" 或 "2026年04月10日"
+ * @returns {number} - 时间戳（毫秒）
+ */
+function parseChineseDateToTimestamp(chineseDate) {
+  try {
+    // 移除所有非数字和年月日字符，替换为分隔符
+    const cleaned = chineseDate
+      .replace(/[年月]/g, '-')  // 将年月替换为 -
+      .replace(/日/g, '')       // 移除日
+      .replace(/\s+/g, '');     // 移除空白
+    
+    // 解析日期
+    const date = new Date(cleaned);
+    
+    if (isNaN(date.getTime())) {
+      // 如果解析失败，尝试手动解析
+      const match = chineseDate.match(/(\d{4})年\s*(\d{1,2})月\s*(\d{1,2})日?/);
+      if (match) {
+        const year = parseInt(match[1]);
+        const month = parseInt(match[2]) - 1; // JS月份从0开始
+        const day = parseInt(match[3]);
+        return new Date(year, month, day).getTime();
+      }
+      
+      // 如果还是失败，返回当前时间
+      return Date.now();
+    }
+    
+    return date.getTime();
+  } catch (error) {
+    console.warn(`日期解析失败: ${chineseDate}, 使用当前时间`);
+    return Date.now();
+  }
+}
+
+/**
  * 检查索引中是否已存在指定文件的链接
- * @param {string} indexHtml - 索引HTML内容
- * @param {string} filename - 文件名（如"今日小结（2026.04.09）（202604）.html"）
- * @returns {boolean} - 是否已存在
  */
 function checkFileExistsInIndex(indexHtml, filename) {
   // 如果文件名为null/undefined，返回false（不存在）
@@ -148,26 +182,39 @@ async function regenerateCategoryIndex(blogPath, category) {
   const files = await fs.readdir(categoryDir);
   const htmlFiles = files.filter(f => f.endsWith('.html') && !f.startsWith('index'));
   
-  // 为每个文件提取信息并生成卡片
-  const cards = [];
+  // 为每个文件提取信息并生成卡片（按日期降序排序）
+  const posts = [];
   for (const filename of htmlFiles) {
     const filePath = path.join(categoryDir, filename);
     const postInfo = await extractPostInfo(filePath, filename);
     
-    const cardTitle = postInfo.title || (
+    posts.push({
+      filename,
+      info: postInfo,
+      timestamp: parseChineseDateToTimestamp(postInfo.date)
+    });
+  }
+  
+  // 按日期降序排序（最新的在前）
+  posts.sort((a, b) => b.timestamp - a.timestamp);
+  
+  // 生成排序后的卡片
+  const cards = [];
+  for (const post of posts) {
+    const cardTitle = post.info.title || (
       '<span style="color:var(--text-light);font-style:italic">' +
-      (postInfo.excerpt || '').slice(0, 30) +
-      ((postInfo.excerpt || '').length > 30 ? '…' : '') +
+      (post.info.excerpt || '').slice(0, 30) +
+      ((post.info.excerpt || '').length > 30 ? '…' : '') +
       '</span>'
     );
     
     const card =
-      '\n            <a href="' + filename + '" class="post-item">\n' +
-      '                <div class="post-date">' + postInfo.date + '</div>\n' +
+      '\n            <a href="' + post.filename + '" class="post-item">\n' +
+      '                <div class="post-date">' + post.info.date + '</div>\n' +
       '                <h3 class="post-title">' + cardTitle + '</h3>\n' +
-      postInfo.sourceHtml +
-      '                <p class="post-excerpt">' + postInfo.excerpt + '</p>\n' +
-      '                <div class="post-tags">' + postInfo.tagsHtml + '</div>\n' +
+      post.info.sourceHtml +
+      '                <p class="post-excerpt">' + post.info.excerpt + '</p>\n' +
+      '                <div class="post-tags">' + post.info.tagsHtml + '</div>\n' +
       '            </a>';
     
     cards.push(card);
