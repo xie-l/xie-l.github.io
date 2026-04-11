@@ -6605,3 +6605,56 @@
 {"timestamp":"2026-04-11T03:04:02.558Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
 {"timestamp":"2026-04-11T03:04:02.558Z","level":"INFO","message":"开始同步文件: 数据分析/《新闻联播》2026 年 4 月 5 日.md"}
 {"timestamp":"2026-04-11T03:04:02.558Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《新闻联播》2026 年 4 月 5 日（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.261Z","level":"INFO","message":"找到 41 个待处理文件，使用并发限制: 5"}
+{"timestamp":"2026-04-11T03:18:58.266Z","level":"INFO","message":"处理批次 1/9"}
+{"timestamp":"2026-04-11T03:18:58.266Z","level":"INFO","message":"开始同步文件: 摘录记录/十个顶级 Claude Code Skills，装上就不想卸.md"}
+{"timestamp":"2026-04-11T03:18:58.276Z","level":"INFO","message":"目标文件已是最新，跳过同步: 十个顶级 Claude Code Skills，装上就不想卸（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.276Z","level":"INFO","message":"开始同步文件: 随笔思考/做事情，很多时候不是这个事情本身，而是要.md"}
+{"timestamp":"2026-04-11T03:18:58.276Z","level":"INFO","message":"目标文件已是最新，跳过同步: 做事情，很多时候不是这个事情本身，而是要...（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:52 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.277Z","level":"INFO","message":"开始同步文件: 随笔思考/组织参加会议需要准备的事情：桌签（桌签的排布）、….md"}
+{"timestamp":"2026-04-11T03:18:58.277Z","level":"INFO","message":"目标文件已是最新，跳过同步: 组织参加会议需要准备的事情：桌签（桌签的排布）、…（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.277Z","level":"INFO","message":"开始同步文件: 随笔思考/要注意很多细节，包括茶叶不能太碎，换一个，还有就….md"}
+{"timestamp":"2026-04-11T03:18:58.278Z","level":"INFO","message":"目标文件已是最新，跳过同步: 要注意很多细节，包括茶叶不能太碎，换一个，还有就…（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.278Z","level":"INFO","message":"开始同步文件: 技术思考/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T03:18:58.279Z","level":"INFO","message":"目标文件已是最新，跳过同步: 个人主页更新模块（202604.06）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.279Z","level":"INFO","message":"处理批次 2/9"}
+{"timestamp":"2026-04-11T03:18:58.279Z","level":"INFO","message":"开始同步文件: 技术思考/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T03:18:58.280Z","level":"INFO","message":"目标文件已是最新，跳过同步: 中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.280Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东三大工作方法-氢能管培生的执行革命（2026.04）.md"}
+{"timestamp":"2026-04-11T03:18:58.284Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东三大工作方法-氢能管培生的执行革命（2026.04）（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:31 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.284Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.04）.md"}
+{"timestamp":"2026-04-11T03:18:58.285Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东人事管理八项规定-氢能管培生的组织生存指南（2026.（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:31 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.285Z","level":"INFO","message":"开始同步文件: 技术思考/刘强东自我管理-对我这个氢能管培生的启示（2026.04）.md"}
+{"timestamp":"2026-04-11T03:18:58.286Z","level":"INFO","message":"目标文件已是最新，跳过同步: 刘强东自我管理-对我这个氢能管培生的启示（2026.04）（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:31 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.286Z","level":"INFO","message":"开始同步文件: 生活日记/《新闻联播》2026 年 4 月 5 日.md"}
+{"timestamp":"2026-04-11T03:18:58.288Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《新闻联播》2026 年 4 月 5 日（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:34 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.288Z","level":"INFO","message":"处理批次 3/9"}
+{"timestamp":"2026-04-11T03:18:58.288Z","level":"INFO","message":"开始同步文件: 生活日记/《认知觉醒》：一个博士生的自我重启手册.md"}
+{"timestamp":"2026-04-11T03:18:58.289Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《认知觉醒》：一个博士生的自我重启手册（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:34 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.289Z","level":"INFO","message":"开始同步文件: 生活日记/《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md"}
+{"timestamp":"2026-04-11T03:18:58.290Z","level":"INFO","message":"目标文件已是最新，跳过同步: 《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:34 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.290Z","level":"INFO","message":"开始同步文件: 生活日记/个人主页更新模块（202604.06）.md"}
+{"timestamp":"2026-04-11T03:18:58.290Z","level":"INFO","message":"目标文件已是最新，跳过同步: 个人主页更新模块（202604.06）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.290Z","level":"INFO","message":"开始同步文件: 生活日记/中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议.md"}
+{"timestamp":"2026-04-11T03:18:58.292Z","level":"INFO","message":"目标文件已是最新，跳过同步: 中共青海省委关于制定国民经济和社会发展第十五个五年规划的建议（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.293Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.04-05）.md"}
+{"timestamp":"2026-04-11T03:18:58.293Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.04-05）（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:34 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.293Z","level":"INFO","message":"处理批次 4/9"}
+{"timestamp":"2026-04-11T03:18:58.293Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.05）.md"}
+{"timestamp":"2026-04-11T03:18:58.294Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.05）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.294Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.07）.md"}
+{"timestamp":"2026-04-11T03:18:58.294Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.07）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.294Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.08）.md"}
+{"timestamp":"2026-04-11T03:18:58.295Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.08）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.295Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.09）.md"}
+{"timestamp":"2026-04-11T03:18:58.296Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.09）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.296Z","level":"INFO","message":"开始同步文件: 生活日记/今日小结（2026.04.10）.md"}
+{"timestamp":"2026-04-11T03:18:58.296Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日小结（2026.04.10）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.297Z","level":"INFO","message":"处理批次 5/9"}
+{"timestamp":"2026-04-11T03:18:58.297Z","level":"INFO","message":"开始同步文件: 生活日记/今日规划（2025.04.07）.md"}
+{"timestamp":"2026-04-11T03:18:58.297Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日规划（2025.04.07）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.297Z","level":"INFO","message":"开始同步文件: 生活日记/今日规划（2026.04.08）.md"}
+{"timestamp":"2026-04-11T03:18:58.298Z","level":"INFO","message":"目标文件已是最新，跳过同步: 今日规划（2026.04.08）（202604）.html (目标: Sat Apr 11 2026 10:50:40 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 10:41:35 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.299Z","level":"INFO","message":"开始同步文件: 生活日记/做事情，很多时候不是这个事情本身，而是要.md"}
+{"timestamp":"2026-04-11T03:18:58.299Z","level":"INFO","message":"目标文件已是最新，跳过同步: 做事情，很多时候不是这个事情本身，而是要...（202604）.html (目标: Sat Apr 11 2026 11:00:59 GMT+0800 (China Standard Time), 源: Sat Apr 11 2026 11:00:52 GMT+0800 (China Standard Time))"}
+{"timestamp":"2026-04-11T03:18:58.299Z","level":"INFO","message":"开始同步文件: 生活日记/关键词（2026.04）.md"}
