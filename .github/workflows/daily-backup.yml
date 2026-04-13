@@ -20,9 +20,7 @@ jobs:
           node-version: '18'
           
       - name: Run backup script
-        run: |
-          cd /Users/liang/Documents/GitHub/xie-l.github.io
-          node scripts/backup-data.js
+        run: node scripts/backup-data.js
           
       - name: Commit backups
         run: |
