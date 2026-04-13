@@ -6843,3 +6843,12 @@
 {"timestamp":"2026-04-11T05:01:46.184Z","level":"INFO","message":"  ✓ 《高效能人士的七个习惯》：从博士到管培生的效能觉醒.md -> 《高效能人士的七个习惯》：从博士到管培生的效能觉醒（202604）.html"}
 {"timestamp":"2026-04-11T05:01:46.184Z","level":"INFO","message":"  ✓ 《新闻联播》2026 年 4 月 5 日.md -> 《新闻联播》2026 年 4 月 5 日（202604）.html"}
 {"timestamp":"2026-04-11T05:01:46.184Z","level":"INFO","message":"========== 同步完成 (耗时: 0.13s) =========="}
+{"timestamp":"2026-04-12T05:29:10.719Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-04-12T05:29:10.720Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-04-12T05:29:10.722Z","level":"INFO","message":"找到 0 个待处理文件，使用并发限制: 5"}
+{"timestamp":"2026-04-12T05:29:10.722Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-04-12T05:29:10.723Z","level":"INFO","message":"总计: 0 个文件"}
+{"timestamp":"2026-04-12T05:29:10.723Z","level":"INFO","message":"成功: 0 个文件"}
+{"timestamp":"2026-04-12T05:29:10.723Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-04-12T05:29:10.723Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-04-12T05:29:10.723Z","level":"INFO","message":"========== 同步完成 (耗时: 0.01s) =========="}
