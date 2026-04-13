@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "title": "今日小结（2026.04.13）",
+      "date": "2026-04-13",
+      "category": "life",
+      "tags": [
+        "日小结",
+        "记录",
+        "规划"
+      ],
+      "summary": "日有所成： 1. 休息，恢复身体。 2. 继续推进 PUBG 和 CS2； 3.规划接下来工作。近几日工作：完成建议汇总、要点发布；近几周工作：推进博士论文意见回复、推进小论文 cover letter 撰写、完成相关博士论文修改、PPT 答辩、梳理博士答辩流程及相关准备。 日小结 记录 规划",
+      "word_count": 95,
+      "path": "blog/life/今日小结（2026.04.13）（202604）.html"
+    },
+    {
+      "title": "index-optimized",
+      "date": "2026-04-13",
+      "category": "thoughts",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/thoughts/index-optimized.html"
+    },
+    {
       "title": "今日小结（2026.04.11）",
       "date": "2026-04-12",
       "category": "life",
@@ -13,15 +35,6 @@
       "summary": "日有所成： 1. 继续推进晚上Obsidian与GitHub个人主页联动，主要是解决其中的问题，包括同步出错、文件重复等； 2.思考自身对于GitHub与Obsidian的需求，发觉如果本地部署太麻烦了，我希望的其实是方便自己随时随地都能，都能云端同步，而不是收到地点的限制。因此目前发觉Obsidi…",
       "word_count": 191,
       "path": "blog/life/今日小结（2026.04.11）（202604）.html"
-    },
-    {
-      "title": "index-optimized",
-      "date": "2026-04-12",
-      "category": "thoughts",
-      "tags": [],
-      "summary": "",
-      "word_count": 0,
-      "path": "blog/thoughts/index-optimized.html"
     },
     {
       "title": "今日小结（2026.04.10）",
@@ -670,5 +683,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-12 04:13 UTC"
+  "updated": "2026-04-13 01:12 UTC"
 }
