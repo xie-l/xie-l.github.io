@@ -22,3 +22,6 @@ debug-*.js
 # OS files
 Thumbs.db
 Desktop.ini
+
+# Pagefind search index fragments (auto-generated)
+pagefind/fragment/

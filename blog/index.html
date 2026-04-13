@@ -567,10 +567,40 @@
 
                 try {
                     const apiBase = 'https://api.github.com/repos/' + owner + '/' + repo + '/contents/';
+                    
+                    // 检查文件是否已存在，获取 SHA
+                    let fileSha = null;
+                    try {
+                        const checkResp = await fetch(apiBase + encodeURIComponent(path), {
+                            method: 'GET',
+                            headers: {'Authorization':'token '+token}
+                        });
+                        if (checkResp.ok) {
+                            const fileData = await checkResp.json();
+                            fileSha = fileData.sha;
+                            console.log('[DEBUG] 获取到文件 SHA:', fileSha);
+                        } else if (checkResp.status === 404) {
+                            console.log('[DEBUG] 文件不存在，将创建新文件');
+                        } else {
+                            console.warn('检查文件时返回状态:', checkResp.status);
+                        }
+                    } catch (error) {
+                        console.warn('检查文件存在性时出错:', error);
+                    }
+                    
+                    // 构建请求体
+                    const requestBody = {
+                        message: '发布博客：' + (title || displayTitle),
+                        content: encoded
+                    };
+                    if (fileSha) {
+                        requestBody.sha = fileSha;
+                    }
+                    
                     const resp = await fetch(apiBase + encodeURIComponent(path), {
                         method: 'PUT',
                         headers: {'Authorization':'token '+token,'Content-Type':'application/json'},
-                        body: JSON.stringify({ message:'发布博客：'+title, content:encoded })
+                        body: JSON.stringify(requestBody)
                     });
                     if (!resp.ok) {
                         const err = await resp.json().catch(function(){ return {}; });
