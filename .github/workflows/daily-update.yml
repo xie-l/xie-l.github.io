@@ -28,7 +28,7 @@ jobs:
 
       - name: 运行每日更新脚本
         run: |
-          python scripts/daily_update.py
+          python scripts/archive/daily_update.py
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
           # 和风天气API密钥，需要在GitHub仓库Settings > Secrets and variables > Actions中设置
