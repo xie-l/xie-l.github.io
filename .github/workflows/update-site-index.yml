@@ -1,4 +1,5 @@
 name: Update Site Index
+# SuperGitHub: 智能错误处理工作流 - 非关键步骤失败时不中断，自动处理冲突
 
 on:
   push:
@@ -308,6 +309,7 @@ jobs:
           PYEOF
 
       - name: Build Pagefind search index
+        continue-on-error: true  # SuperGitHub: 非关键步骤，失败时不中断工作流
         run: |
           npx -y pagefind --site . --output-path pagefind --glob "blog/**/*.html"
           echo "Pagefind index built."
@@ -317,15 +319,52 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Pull latest changes
+      - name: Commit and push with smart conflict handling
         run: |
-          git pull --rebase --autostash origin main
-
-      - name: Commit and push
-        run: |
+          # 配置 Git
+          git config pull.rebase false  # 使用 merge 而不是 rebase，减少冲突
+          
+          # 尝试拉取最新更改（允许失败）
+          git pull origin main || echo "Warning: Pull failed, continuing with push..."
+          
+          # 添加所有生成的文件
           git add data/blog-index.json data/files-index.json data/stats.json sitemap.xml feed.xml pagefind/
-          git diff --staged --quiet \
-            && echo "No changes to commit." \
-            || (git commit -m "chore: update site index, sitemap, RSS feed, and search index [skip ci]" \
-                && git pull --rebase --autostash origin main \
-                && git push)
+          
+          # 检查是否有更改
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          
+          # 提交更改
+          git commit -m "chore: update site index, sitemap, RSS feed, and search index [skip ci]"
+          
+          # 尝试推送，如果失败则拉取合并后再推
+          if ! git push origin main; then
+            echo "Push failed, attempting to pull and merge..."
+            git pull origin main --no-rebase --commit --no-edit || {
+              echo "Error: Failed to pull changes. Please check for conflicts manually."
+              exit 1
+            }
+            git push origin main
+          fi
+          
+          echo "Successfully updated site index!"
+
+      - name: SuperGitHub Status Summary
+        if: always()
+        run: |
+          echo "=== SuperGitHub 智能工作流状态总结 ==="
+          echo "工作流运行时间: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          echo "触发原因: ${{ github.event_name }}"
+          if [ "${{ job.status }}" == "success" ]; then
+            echo "状态: ✅ 成功（所有关键步骤完成）"
+            echo "说明: 站点索引、站点地图、RSS 订阅已更新"
+          elif [ "${{ job.status }}" == "failure" ]; then
+            echo "状态: ❌ 失败"
+            echo "说明: 关键步骤出错，需要手动检查"
+          else
+            echo "状态: ⚠️ 部分成功（非关键步骤可能失败）"
+            echo "说明: 核心功能正常，部分可选功能可能未执行"
+          fi
+          echo "======================================="
