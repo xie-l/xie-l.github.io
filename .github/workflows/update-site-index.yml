@@ -220,7 +220,7 @@ jobs:
 
           # ── 4. Sitemap ────────────────────────────────────────────────────
           BASE = 'https://xie-l.github.io'
-          EXCLUDE_DIRS = {'admin'}
+          EXCLUDE_DIRS = {'admin', 'node_modules'}
 
           def html_priority(path):
               if path == 'index.html': return '1.0'
