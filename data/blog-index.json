@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "title": "骑自行车不要打电话！",
+      "date": "2026-04-14",
+      "category": "thoughts",
+      "tags": [
+        "记录",
+        "注意"
+      ],
+      "summary": "骑自行车不要打电话！ 记录 注意",
+      "word_count": 13,
+      "path": "blog/thoughts/2026-04-14（202604）.html"
+    },
+    {
+      "title": "index-optimized",
+      "date": "2026-04-14",
+      "category": "thoughts",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/thoughts/index-optimized.html"
+    },
+    {
       "title": "今日小结（2026.04.13）",
       "date": "2026-04-13",
       "category": "life",
@@ -21,15 +42,6 @@
       "summary": "要用好目前文字撰写的平台进行输出（如 GitHub 主页、Verse），注意区分其不同功能（如想法、结论等），提高利用率。",
       "word_count": 41,
       "path": "blog/thoughts/2026-04-13（202604）.html"
-    },
-    {
-      "title": "index-optimized",
-      "date": "2026-04-13",
-      "category": "thoughts",
-      "tags": [],
-      "summary": "",
-      "word_count": 0,
-      "path": "blog/thoughts/index-optimized.html"
     },
     {
       "title": "今日小结（2026.04.11）",
@@ -692,5 +704,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-13 09:44 UTC"
+  "updated": "2026-04-14 01:10 UTC"
 }
