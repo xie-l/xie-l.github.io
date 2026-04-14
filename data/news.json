@@ -59,10 +59,28 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+        "link": "https://36kr.com/p/3765986197684736?f=rss",
+        "pubDate": "2026-04-14 09:20:20  +0800",
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下，算力芯片与内存带宽之间的瓶颈问题愈发突出，业内通常将其称为“内存墙”。 HBM通过多层DRAM裸片堆叠及TSV（硅通孔）互连，实现较传统DDR更高的带宽与单位面积容量"
+      },
+      {
+        "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+        "link": "https://36kr.com/p/3764953900990977?f=rss",
+        "pubDate": "2026-04-14 09:10:00  +0800",
+        "description": "作者｜黄楠 编辑｜袁斯来 如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。 张海波很早就精通乒乓球，他是国内最早一批将强化学习用于乒乓球对打的工程师。早年在上市公司任职期间，他就做出了一套能与人进行“人机对战”的具身机械臂方案。这套系统成本高达20多万元，曾为国家队提供数"
+      },
+      {
+        "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+        "link": "https://36kr.com/p/3765932138103554?f=rss",
+        "pubDate": "2026-04-14 08:26:45  +0800",
+        "description": "今日热点导览 张雪回应机车新手禁令 西班牙首相桑切斯参观小米科技园 中央网信办：加强网络直播打赏规范管理 小红书跨境电商平台Redshop将于今年6月正式上线 A股景气度投资或回归主线 TOP3大新闻 “马斯克版微信”或在4月17日上线 美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，旨在构建集聊天、支付、AI于一体的超级应用生态。XChat无需手机号注册，支持音视频通话、阅后即焚及防截图，并深度集成了AI助手Grok。 然而，尽管马斯克宣称其采用“比特币式加密”，但安全专"
+      },
       {
         "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
         "link": "https://36kr.com/p/3765331768967686?f=rss",
@@ -85,38 +103,48 @@
         "title": "野人先生崔渐为：“网红”标签对我们不公平丨厚雪专访",
         "link": "https://36kr.com/p/3765076875117314?f=rss",
         "pubDate": "2026-04-13 17:58:36  +0800",
-        "description": "作者&nbsp;|&nbsp;钟艺璇 编辑&nbsp;|&nbsp;乔芊 如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。 16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。 目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波比冰淇淋（原波比艾斯）乃至蜜雪冰城为代表的软冰（Soft Serve）以规模化"
+        "description": "作者&nbsp;|&nbsp;钟艺璇 编辑&nbsp;|&nbsp;��芊 如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。 16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。 目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波比冰淇淋（原波比艾斯）乃至蜜雪冰城为代表的软冰（Soft Serve）以规模"
       },
       {
         "title": "包容 探索 求真 守正｜2026光幕计划终审阵容与年度面孔公布",
         "link": "https://36kr.com/p/3764886161048323?f=rss",
         "pubDate": "2026-04-13 14:59:19  +0800",
         "description": "&nbsp; 当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧”与媒介的“快”之外，那些源于血肉之躯的、笨拙而恳切的“真”，是否依然拥有抵达人心的力量？ 辨识这份真实，需要深耕岁月、敬畏专业的目光。为此，我们荣幸地邀请到李少红导演担任第十六届北京国际电影节BE SEEN 光幕计划终评审主席，赵小丁、吴刚、俞白眉、魏钦涛担任终审评委。他们以多年的创作生命为标尺，为这份最终的年度面孔入选演员名单注入了厚重的公信力与深远的期待。 “表演有无数个高山要翻跃。”终审现场，评委俞白眉的这句"
-      },
-      {
-        "title": "这届留学生，用AI看病省出一辆特斯拉",
-        "link": "https://36kr.com/p/3764892434711049?f=rss",
-        "pubDate": "2026-04-13 14:50:56  +0800",
-        "description": "01. 用AI硬扛20天，省出一辆特斯拉 回国做完四颗牙的根管治疗后，英国留学生土土盯着一万多的账单算了算， 发现自己回国这一趟，竟然省下了一辆二手“特斯拉”。 就在20天前，土土的牙痛又犯了，连吃饭都变成了一种酷刑。他迫切需要找点缓解的办法，但脑海里闪过之前在国外的看牙经历—— 之前一次，同样是牙疼，土土挂了当地的一家私人医院的牙医号。一套检查下来，医生给出的治疗方案是根管治疗，要先磨牙、清洗，价格1900磅，还要做牙冠，1500磅，再加上4、500磅的手术费，治一颗牙至少要花4000磅，折合人民币近40000块。 花了天价不说，效果也一言难尽。治完没多久，土土的牙冠就掉了，技术完全不值这个"
-      },
-      {
-        "title": "对话雅诗兰黛集团总裁兼CEO司泰峰：让一家公司变得更敏捷，这是他的第一年｜New Look专访",
-        "link": "https://36kr.com/p/3756542711120640?f=rss",
-        "pubDate": "2026-04-13 13:19:17  +0800",
-        "description": "文｜贺哲馨 编辑｜乔芊 从外表看，司泰峰（Stéphane de La Faverie）并不是那类锋芒毕露的“改革派”。 他多数时候带着温和的笑意，步伐与语速都偏慢——或许带着一点法国人特有的松弛感。你也很难想象，在成为父亲之前，司泰峰是“狂热的风帆冲浪和跳伞爱好者”。 当下消费环境的惊险程度可能不亚于任何冒险运动。但在日前与36氪的专访中，司泰峰展现出一种从容： “我们是一家80年历史的公司，30多年前就进入中国市场，波动对我们来说不是什么新鲜事，我们的应对思路始终是一个——尽可能贴近消费者。 ” “而且你知道吗，”他接着说，“雅诗兰黛是第一个用中国人作为广告模特的外国美妆品牌。”这句话透露"
-      },
-      {
-        "title": "早期项目 | 前大疆工程师创业陪伴机器人，李泽湘连投三轮，产品即将登陆众筹",
-        "link": "https://36kr.com/p/3764777930621705?f=rss",
-        "pubDate": "2026-04-13 12:53:44  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 陪伴机器人走向同质化的当下，什么样的产品能吸引人？ 今年年初的CES 2026上，一款身着橙色连体衣的小型机器人COCOMO，意外成为外媒镜头频频捕捉的对象。 略带“异质感”的外星宠物气质，37度接近人体的温度，创新的分体式设计既可被抱起，又能主动跟随，吸引了不少现场观众在展台前试玩体验。 同一展台上，团队还带来了另一款更轻量的桌面陪伴机器人INU。INU被定义为一款“桌面外星小狗”，通过尾巴摇摆和身体扭动作出反馈，是一个为工作环境打造的更小、更固定的桌面伴侣。 这两款产品，均来自陪伴机器人公司Ludens AI。 L"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Leaked: Car Industry’s Latest Demands Could Cost EU Extra €74 Billion In Oil Imports",
+        "link": "https://cleantechnica.com/2026/04/13/leaked-car-industrys-latest-demands-could-cost-eu-extra-e74-billion-in-oil-imports/",
+        "pubDate": "Tue, 14 Apr 2026 03:49:19 +0000",
+        "description": "ACEA document told Environment Ministers to slash car CO2 targets, depriving motorists of more affordable EV models. The European car industry’s latest demands for weaker climate targets could result in an extra €74bn of oil imports — just as interest in buying EVs reaches new peaks. That’s accordin",
+        "title_cn": "泄露：汽车行业的最新需求可能会使欧盟额外损失740亿欧元的石油进口"
+      },
+      {
+        "title": "Shawnee County “Open for Business” in 3-0 Vote on Utility Solar & Batteries",
+        "link": "https://cleantechnica.com/2026/04/13/shawnee-county-open-for-business-in-3-0-vote-on-utility-solar-batteries/",
+        "pubDate": "Tue, 14 Apr 2026 03:25:49 +0000",
+        "description": "Advocates celebrate public engagement and clean energy benefits of jobs, health, and affordability. TOPEKA, Kansas — Today, the Shawnee County Commission voted 3-0 to approve an ordinance for utility-scale solar that moves beyond their initial moratorium toward a comprehensive, permitting framework,",
+        "title_cn": "肖尼县“开放营业”公用事业太阳能和电池3-0投票"
+      },
+      {
+        "title": "Tesla Full Self-Driving Europe — Initial Impressions Review",
+        "link": "https://cleantechnica.com/2026/04/13/tesla-full-self-driving-europe-initial-impressions-review/",
+        "pubDate": "Tue, 14 Apr 2026 00:39:59 +0000",
+        "description": "On April 10th, quite literally at the 11th hour before Tesla’s self-imposed deadline, the Dutch road authority (the RDW) posted a press release that they have finally granted Tesla approval for Full Self Driving in the Netherlands. However, no one knew when the update would start rolling out. The pi",
+        "title_cn": "特斯拉全自动驾驶欧洲—初步印象回顾"
+      },
+      {
+        "title": "Is XPENG Building A Better “Tesla”?",
+        "link": "https://cleantechnica.com/2026/04/13/is-xpeng-building-a-better-tesla/",
+        "pubDate": "Mon, 13 Apr 2026 23:01:26 +0000",
+        "description": "Last week, reports indicated that Tesla was working on a smaller, more affordable model again. Even though it is reportedly in the initial stages of development, people got excited at the prospect of a more affordable Tesla. The share price was up for the week. Also last week, China’s Ministry ... [",
+        "title_cn": "XPENG正在打造更好的“特斯拉”吗？"
+      },
       {
         "title": "A Startup Enters The Heat Pump Water Heater Space Focused On A Smart Water Heater",
         "link": "https://cleantechnica.com/2026/04/13/a-startup-enters-the-heat-pump-water-heater-space-focused-on-a-smart-water-heater/",
@@ -144,38 +172,10 @@
         "pubDate": "Mon, 13 Apr 2026 16:03:46 +0000",
         "description": "The Puritan settlers of New England, steeped in the Old Testament biblical worldview, believed it was their God-ordained destiny to transform the dismal American wilderness into an earthly paradise. Seventeenth century Puritan writing is full of the idea of wild country as the environment of evil, a",
         "title_cn": "如何拯救美国森林免遭砍伐？正义保护基金"
-      },
-      {
-        "title": "Hormuz, Trump, & The Carbon Paradox",
-        "link": "https://cleantechnica.com/2026/04/13/hormuz-trump-the-carbon-paradox/",
-        "pubDate": "Mon, 13 Apr 2026 15:16:13 +0000",
-        "description": "The idea that Donald Trump might be an accidental climate warrior rests on a narrow and uncomfortable observation. Wars, price shocks, and trade disruptions can suppress fossil fuel demand in the short term. That suppression shows up as lower emissions in the ledger. It does not come from better sys",
-        "title_cn": "霍尔木兹、特朗普和碳悖论"
-      },
-      {
-        "title": "Zwitterions Are The Key To New Solid-State Batteries",
-        "link": "https://cleantechnica.com/2026/04/13/zwitterions-are-the-key-to-new-solid-state-batteries/",
-        "pubDate": "Mon, 13 Apr 2026 15:11:40 +0000",
-        "description": "They sound like something straight out of Star Trek fan fiction, but they&#8217;re not. Zwitterions are the building blocks of a new electrolyte created by a team of scientists at Oak Ridge National Laboratory, a branch of the US Department of Energy located in Tennessee. The new electrolyte is earm",
-        "title_cn": "两性离子是新型固态电池的关键"
-      },
-      {
-        "title": "AI Keeps Claiming To Know Stuff It Doesn’t … And Maybe Sam Altman Does, Too",
-        "link": "https://cleantechnica.com/2026/04/13/ai-keeps-claiming-to-know-stuff-it-doesnt-and-maybe-sam-altman-does-too/",
-        "pubDate": "Mon, 13 Apr 2026 15:03:44 +0000",
-        "description": "Artificial intelligence (AI) is all the rage. It&#8217;s almost given god-like praise by a lot of people in tech world. It&#8217;s going to solve all our problems and bring everlasting prosperity to all, or and it will do so almost magically. The more information we feed it, the more it ... [continu",
-        "title_cn": "人工智能不断声称知道它不知道的东西……也许山姆·奥尔特曼也知道"
-      },
-      {
-        "title": "Toyota bZ Sales Surge To Over 10,000 In First Part Of Year",
-        "link": "https://cleantechnica.com/2026/04/13/toyota-bz-sales-surge-to-over-10000-in-first-part-of-year/",
-        "pubDate": "Mon, 13 Apr 2026 14:35:50 +0000",
-        "description": "Much of the news about EV model sales is about declines, with a few articles about some positive sales results. Zach has been covering most of the sales stories recently, but I&#8217;ve found another. The Toyota bZ, the former bZ4X, reportedly has seen quite an uptick in sales in the ... [continued]",
-        "title_cn": "丰田bZ上半年销量激增至1万辆以上"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "energy": {
     "items": [
@@ -237,15 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "“氢”装上阵打开产业新空间 - 中国经济网",
+        "title": "“氢”装上阵打开产业新空间 - 经济日报",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSXdtT2lMcGNpU1ZoMERZVDQwMkxCNTVSZ0sxY0VGU19GazJLLWlMUWg3NExWSThhZHg3QnlYb2xnR0JMSXFNVjRfME1PZHByNHVmRUNmZGIxZUQyejBvMG1kNzkxa3dud013?oc=5",
         "pubDate": "Wed, 08 Apr 2026 02:09:48 GMT",
-        "description": "“氢”装上阵打开产业新空间 &nbsp;&nbsp; 中国经济网"
+        "description": "“氢”装上阵打开产业新空间 &nbsp;&nbsp; 经济日报"
+      },
+      {
+        "title": "重磅签约！中俄携手共建氢能走廊！ - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IcWs0ekdRakZfVDB6WUd6MnMzOVg5N2s0bm50VTNxM0FCbnN6a2JISWZMMWNyQ29RWGxYS1Q5dTAzU1FHZGRJQUpoNjFnOWpOQlJYQw?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 01:16:16 GMT",
+        "description": "重磅签约！中俄携手共建氢能走廊！ &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -254,28 +260,22 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "焦点访谈｜向“绿”向“智”！我国能源产业迎来全方位转型升级 - chinanews.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNjlXcmR0N0tkWVh5MWdWQWpOYkNSZXNsMXFDT2VoY2JVbS1ISlctMGUzR1JRVXA0OWE2VUJfRDY1MGRfM3hqdktQVVZsWFlNT1lKd3NWWFR0eHZWY0t2anNJUGtwcHZI?oc=5",
-        "pubDate": "Sun, 12 Apr 2026 10:51:52 GMT",
-        "description": "焦点访谈｜向“绿”向“智”！我国能源产业迎来全方位转型升级 &nbsp;&nbsp; chinanews.com.cn"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "中国能建（算电协同+氢能投产） - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZIOXFzV29DaVpkZmRYTTRZN3pBb2I4NS1Jci0yZDBndklFOXo5TUYwNGRmX01QLXhWMl9ySW9jeFl6WFQ4RWdqLWE3MDNYX2thMm91NS1pR1NUcmRQamU5ajdIZ19OVDBFTmVXcF9ORXFJMlh1VTRpUWR3TDBNLXNUVnByenVfRVFuRzA1eWszVkdyMm1EbUdvc0trR0ZmMU5mWGtvX3NaY1NpOThLVHVnSQ?oc=5",
-        "pubDate": "Sat, 11 Apr 2026 01:31:13 GMT",
-        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富"
-      },
-      {
         "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
         "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
+      },
+      {
+        "title": "中国能建（算电协同+氢能投产） - 东方财富网",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZIOXFzV29DaVpkZmRYTTRZN3pBb2I4NS1Jci0yZDBndklFOXo5TUYwNGRmX01QLXhWMl9ySW9jeFl6WFQ4RWdqLWE3MDNYX2thMm91NS1pR1NUcmRQamU5ajdIZ19OVDBFTmVXcF9ORXFJMlh1VTRpUWR3TDBNLXNUVnByenVfRVFuRzA1eWszVkdyMm1EbUdvc0trR0ZmMU5mWGtvX3NaY1NpOThLVHVnSQ?oc=5",
+        "pubDate": "Sat, 11 Apr 2026 01:31:13 GMT",
+        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富网"
       },
       {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,83 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Black Hole Dynamics at Fifth Post-Newtonian Order",
-        "link": "https://arxiv.org/abs/2604.09545v1",
-        "pubDate": "2026-04-10T17:58:53Z",
-        "description": "Using the worldline action in [2409.05860], we derive the total even-in-velocity (relative) impulse, scattering angle, and time delay at fifth post-Newtonian (5PN) order, including radiation-reaction and hereditary contributions at ${\\cal O}(G^5ν^2)$ and ${\\cal O}(G^6ν^2)$. We introduce an isotropic",
-        "title_cn": "第五后牛顿阶的黑洞动力学"
+        "title": "GenTac: Generative Modeling and Forecasting of Soccer Tactics",
+        "link": "https://arxiv.org/abs/2604.11786v1",
+        "pubDate": "2026-04-13T17:53:49Z",
+        "description": "Modeling open-play soccer tactics is a formidable challenge due to the stochastic, multi-agent nature of the game. Existing computational approaches typically produce single, deterministic trajectory forecasts or focus on highly structured set-pieces, fundamentally failing to capture the inherent va",
+        "title_cn": "GenTac ：足球战术的生成建模和预测"
       },
       {
-        "title": "ANTIC: Adaptive Neural Temporal In-situ Compressor",
-        "link": "https://arxiv.org/abs/2604.09543v1",
-        "pubDate": "2026-04-10T17:58:16Z",
-        "description": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-to-exabyte scale. Transient simulations modeling Navier-Stokes equations, magnetohydrodynamics, plasm",
-        "title_cn": "ANTIC ：自适应神经时间原位压缩机"
+        "title": "Extraction of Effective Electromagnetic Material Properties for Rydberg Electrometer Vapor Cells from 10-300 MHz",
+        "link": "https://arxiv.org/abs/2604.11785v1",
+        "pubDate": "2026-04-13T17:52:16Z",
+        "description": "Quantum sensors often consist of packaging, such as dielectric-based vapor cells and metallic electrodes, that reduces and spatially alters the locally observed electromagnetic fields. These effects have been well studied in the optical regime, and even in the RF regime over a few GHz. However, ther",
+        "title_cn": "从10-300 MHz提取Rydberg静电计蒸汽电池的有效电磁材料特性"
       },
       {
-        "title": "Modular curves and bad reduction",
-        "link": "https://arxiv.org/abs/2604.09536v1",
-        "pubDate": "2026-04-10T17:54:49Z",
-        "description": "We prove results that imply, under various hypotheses, that every elliptic curve over a number field $k$ corresponding to a point on a modular curve has bad reduction at a certain prime $p$ of $\\mathcal{O}_k$. For example, every elliptic curve with a cyclic torsion subgroup of order 20 defined over ",
-        "title_cn": "模块化曲线和减速不良"
+        "title": "Origin and characterization of super-Earths and sub-Neptunes",
+        "link": "https://arxiv.org/abs/2604.11779v1",
+        "pubDate": "2026-04-13T17:45:26Z",
+        "description": "Super-Earths and sub-Neptunes represent the most common class of exoplanets discovered to date in our galaxy, yet they have no direct analogues in the Solar System. Since 2014, researchers within the NCCR PlanetS have made significant contributions to understanding the origin and nature of these sma",
+        "title_cn": "超级地球和亚海王星的起源和表征"
       },
       {
-        "title": "The four-loop non-singlet splitting functions in QCD",
-        "link": "https://arxiv.org/abs/2604.09534v1",
-        "pubDate": "2026-04-10T17:52:46Z",
-        "description": "The scale evolution of parton distributions is governed by splitting functions. We compute the four-loop splitting functions in perturbative QCD that control the evolution of quark non-singlet distributions. We confirm previous partial results and obtain, for the first time, fully analytic expressio",
-        "title_cn": "QCD中的四环非单线分裂功能"
+        "title": "Hybrid Quantum-Classical Optimization Workflows for the Shipment Selection Problem",
+        "link": "https://arxiv.org/abs/2604.11758v1",
+        "pubDate": "2026-04-13T17:30:49Z",
+        "description": "We present a quantum optimization framework for the Shipment Selection Problem (SSP) in electric freight logistics, developed jointly by IonQ and Einride. Idle gaps arising from stochastic shipment cancellations reduce fleet utilization and revenue; filling them optimally requires solving a combinat",
+        "title_cn": "针对发货选择问题的混合量子-经典优化工作流程"
       },
       {
-        "title": "High-Contrast Imaging of Forming Protoplanets: VLTs, JWST, and the Promise of ELT",
-        "link": "https://arxiv.org/abs/2604.09526v1",
-        "pubDate": "2026-04-10T17:46:01Z",
-        "description": "Planet formation remains a fundamentally important yet poorly understood process. Protoplanetary disks, the birthplaces of planetary systems, exhibit a wide range of substructures that are increasingly interpreted as signatures of interactions with forming planets. However, the direct detection rate",
-        "title_cn": "形成原行星的高对比度成像： VLT、JWST和ELT的承诺"
+        "title": "Magnetic switching of self-hybridized exciton-polaritons in CrSBr photonic crystal slabs",
+        "link": "https://arxiv.org/abs/2604.11750v1",
+        "pubDate": "2026-04-13T17:23:20Z",
+        "description": "Layered van der Waals antiferromagnet CrSBr supports strong light--matter coupling and formation of magnetically tunable exciton-polaritons, yet active magnetic control over polariton propagation direction has remained elusive. Here, we investigate self-hybridized exciton-polaritons in photonic crys",
+        "title_cn": "CrSBr光子晶体板中自杂化激子极性子的磁开关"
       },
       {
-        "title": "The k-MENDEL sample of local analogs to reionization galaxies. Spectral identification of EELGs and properties of green peas in DESI",
-        "link": "https://arxiv.org/abs/2604.09516v1",
-        "pubDate": "2026-04-10T17:37:50Z",
-        "description": "Low-mass galaxies with intense starbursts exhibit spectra dominated by extreme nebular emission and faint stellar continua. These extreme emission-line galaxies (EELGs) are key laboratories to study star formation, feedback, and ionizing photon escape in low-metallicity environments. We exploit the ",
-        "title_cn": "再电离星系的局部类似物的k-MENDEL样本。德西绿豌豆EELGs和特性的光谱鉴定"
+        "title": "HistLens: Mapping Idea Change across Concepts and Corpora",
+        "link": "https://arxiv.org/abs/2604.11749v1",
+        "pubDate": "2026-04-13T17:22:02Z",
+        "description": "Language change both reflects and shapes social processes, and the semantic evolution of foundational concepts provides a measurable trace of historical and social transformation. Despite recent advances in diachronic semantics and discourse analysis, existing computational approaches often (i) conc",
+        "title_cn": "HistLens ：跨概念和语料库映射创意变革"
       },
       {
-        "title": "When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation",
-        "link": "https://arxiv.org/abs/2604.09515v1",
-        "pubDate": "2026-04-10T17:37:26Z",
-        "description": "The rapid evolution of software libraries creates a significant challenge for Large Language Models (LLMs), whose static parametric knowledge often becomes stale post-training. While retrieval-augmented generation (RAG) is commonly used to provide up-to-date API specifications, \"context-memory confl",
-        "title_cn": "LLM落后时：代码生成中不断发展的API带来的知识冲突"
+        "title": "Data-driven oscillator model for multi-frequency turbulent flows",
+        "link": "https://arxiv.org/abs/2604.11745v1",
+        "pubDate": "2026-04-13T17:20:24Z",
+        "description": "The complex dynamics of high-dimensional oscillatory flows can be simplified using phase-reduction analysis, providing a deeper understanding of the flow response to external perturbations. Although phase-based modeling and analysis have been utilized in recent studies on oscillatory fluid flows, th",
+        "title_cn": "多频湍流的数据驱动振荡器模型"
       },
       {
-        "title": "On the Methodology for Assessing Vegetation Impacts on the Atmospheric Branch of the Hydrological Cycle",
-        "link": "https://arxiv.org/abs/2604.09510v1",
-        "pubDate": "2026-04-10T17:28:49Z",
-        "description": "China has undertaken unprecedented, state-driven vegetation restoration on a continental scale. This large-scale land-surface intervention offers a rare opportunity to assess how deliberate biospheric change influences climate-relevant processes, especially the hydrological cycle. Of particular inte",
-        "title_cn": "水文循环大气分支植被影响评价方法论"
+        "title": "Reduced pair breaking from extended disorder in unconventional superconductors: implications to 4Hb-TaS$_2$",
+        "link": "https://arxiv.org/abs/2604.11738v1",
+        "pubDate": "2026-04-13T17:15:16Z",
+        "description": "Unconventional superconductivity is generally expected to be strongly suppressed by nonmagnetic disorder, as captured by Abrikosov--Gor'kov (AG) theory. However, several materials, including transition metal dichalcogenides, exhibit signatures of unconventional pairing despite relatively high resist",
+        "title_cn": "减少非常规超导体中延伸性疾病的配对断裂：对4Hb-TaS的影响$_2 $"
       },
       {
-        "title": "An Improved Bipartition Cover Bound for the Multispecies Coalescent Model",
-        "link": "https://arxiv.org/abs/2604.09509v1",
-        "pubDate": "2026-04-10T17:26:58Z",
-        "description": "Bipartition cover probabilities quantify whether a collection of gene trees contains every bipartition of the underlying species tree, a condition that underlies finite-sample guarantees for summary methods such as ASTRAL. We study this problem under the multispecies coalescent (MSC) model and deriv",
-        "title_cn": "适用于多物种聚结模型的改进型双隔板封面"
+        "title": "An analogue of irreducible cuspidal representations for the group $PGL(2)$ over a two-dimensional local field",
+        "link": "https://arxiv.org/abs/2604.11735v1",
+        "pubDate": "2026-04-13T17:13:56Z",
+        "description": "Let $F$ be a local non-archimedian field of odd residue characteristic and let $G=PGL(2)$. In this paper we study an analog of irreducible cuspidal representations of the group $G(F)$ when $F$ is replaced by the field $K=F((t))$. The story turns out to be similar to the classical case, but also with",
+        "title_cn": "在二维局部场上群$ PGL (2) $的不可约的尖端表示的模拟"
       },
       {
-        "title": "A nonlocal curve evolution for an immersed elastic filament: global existence and convergence to resistive force theory",
-        "link": "https://arxiv.org/abs/2604.09496v1",
-        "pubDate": "2026-04-10T17:08:04Z",
-        "description": "We consider a nonlocal curve evolution belonging to a hierarchy of models for the dynamics of an inextensible elastic filament in a 3D Stokes fluid. This model captures the principal part of a full free boundary problem for an elastic filament in Stokes flow. The fluid effects on the filament evolut",
-        "title_cn": "浸入式弹性长丝的非局部曲线演化：全局存在与电阻力理论的收敛"
+        "title": "The GAPS Programme at TNG. LXXIII. Confirmation of the hot sub-Neptune TOI-4602 b (HD 25295 b), a key target for future atmospheric characterization",
+        "link": "https://arxiv.org/abs/2604.11728v1",
+        "pubDate": "2026-04-13T17:03:18Z",
+        "description": "Precise mass and radius measurements of small, transitional exoplanets, such as super-Earths and sub-Neptunes, are essential to constrain their bulk density and formation history, serving as prerequisites for atmospheric characterization. The ArMS Large Programme, carried out within GAPS using the H",
+        "title_cn": "TNG的GAPS计划。LXXIII.确认热亚海王星TOI-4602 b （ HD 25295 b ） ，这是未来大气表征的关键目标"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "policy_nea": {
     "items": [
@@ -470,10 +470,10 @@
         "description": "氢能产业政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "国网、中国电建、中车株洲所、三一氢能、英特利等！湖北省公布四大氢能重大技术装备 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wZllaYThFY3MtVzUxRC0weDRfTmd6bjM5NkZRRGtSTUwwcmFoR1pvd2o4bzA3MVhheDE5bVNha3hTQ1ZlNEdNVE5tQkxQeE9xOTNGX19B?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 00:41:22 GMT",
-        "description": "国网、中国电建、中车株洲所、三一氢能、英特利等！湖北省公布四大氢能重大技术装备 &nbsp;&nbsp; 国际氢能网"
+        "title": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNG5ZS1A5cWN1YloyNGd6T0hHVmJjVGp3ekx2a2xDanE3aWV1akp1RzNiZnZqMnlDRDRVbXhUcjg3aHFVZF9VNk96clhrbERaTXBCR3hn?oc=5",
+        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+        "description": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "【快讯】国家能源局正式公布第一批能源领域氢能试点名单 - 新浪网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -518,6 +518,12 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
         "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
         "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
         "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
-      },
-      {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-13 22:37 UTC"
+    "updated": "2026-04-14 04:41 UTC"
   }
 }
