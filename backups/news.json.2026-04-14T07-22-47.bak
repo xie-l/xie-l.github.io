@@ -1,0 +1,542 @@
+{
+  "tech": {
+    "items": [
+      {
+        "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+        "link": "https://www.nature.com/articles/d41586-026-01211-6",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01211-6 The missing samples — reported to include chikungunya and dengue viruses — have been recovered, but questions linger over motive.",
+        "title_cn": "据称从高安全实验室被盗的病毒在巴西引起轰动"
+      },
+      {
+        "title": "14 things our PhD supervisors got right and why it mattered",
+        "link": "https://www.nature.com/articles/d41586-026-00853-w",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00853-w PhD students reflect on how their supervisors made a meaningful difference — from quiet acts of kindness to career-shaping guidance.",
+        "title_cn": "我们的博士生导师正确的14件事及其重要性"
+      },
+      {
+        "title": "The ‘crazy rule-defying’ genes that determine sex",
+        "link": "https://www.nature.com/articles/d41586-026-01101-x",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01101-x A gripping account reveals the workings of the remarkable chromosomes that specify male or female development.",
+        "title_cn": "决定性别的“疯狂违规”基因"
+      },
+      {
+        "title": "Human scientists trounce the best AI agents on complex tasks",
+        "link": "https://www.nature.com/articles/d41586-026-01199-z",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-01199-z State-of-the-industry report finds that, despite the limitations of artificial-intelligence systems, researchers have embraced them.",
+        "title_cn": "人类科学家在复杂任务上击败最优秀的人工智能代理"
+      },
+      {
+        "title": "How I harness research to inform humanitarian relief efforts",
+        "link": "https://www.nature.com/articles/d41586-026-00197-5",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00197-5 As a social scientist at Médecins Sans Frontières, Beverley Stringer researches the many non-medical factors that affect health during emergencies.",
+        "title_cn": "我如何利用研究来为人道主义救援工作提供信息"
+      },
+      {
+        "title": "Huge analysis of 320,000 careers suggests that productive researchers stay that way",
+        "link": "https://www.nature.com/articles/d41586-026-00744-0",
+        "pubDate": "2026-04-13",
+        "description": "Nature, Published online: 13 April 2026; doi:10.1038/d41586-026-00744-0 Early publishing success, team size and international collaborations are some of the best predictors of future publication rates.",
+        "title_cn": "对32万份职业的大量分析表明，富有成效的研究人员会保持这种状态"
+      },
+      {
+        "title": "Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+        "link": "https://www.nature.com/articles/s41586-026-10484-w",
+        "pubDate": "2026-04-10",
+        "description": "Nature, Published online: 10 April 2026; doi:10.1038/s41586-026-10484-w Author Correction: Multi-omic profiling reveals age-related immune dynamics in healthy adults",
+        "title_cn": "作者更正：多组学分析揭示了健康成年人与年龄相关的免疫动态"
+      },
+      {
+        "title": "How the butterfly got its name: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-01160-0",
+        "pubDate": "2026-04-10",
+        "description": "Nature, Published online: 10 April 2026; doi:10.1038/d41586-026-01160-0 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "蝴蝶是如何得名的：书籍简介"
+      }
+    ],
+    "source": "Nature",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "tech_cn": {
+    "items": [
+      {
+        "title": "最前线 | 远见智存发布HBM3/3e高带宽存储芯片，带宽迈入800GB/s级别",
+        "link": "https://36kr.com/p/3765986197684736?f=rss",
+        "pubDate": "2026-04-14 09:20:20  +0800",
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 近期，深圳远见智存科技有限公司发布其HBM3/3e高带宽存储芯片产品，提供12GB与24GB两种容量规格，带宽达819GB/s，对标JEDEC国际标准体系。 远见智存HBM3/3e产品规格（图源/企业） HBM（High Bandwidth Memory，高带宽存储）被视为当前AI算力体系中的关键组件之一。在大模型规模持续扩大、训练与推理负载提升的背景下，算力芯片与内存带宽之间的瓶颈问题愈发突出，业内通常将其称为“内存墙”。 HBM通过多层DRAM裸片堆叠及TSV（硅通孔）互连，实现较传统DDR更高的带宽与单位面积容量"
+      },
+      {
+        "title": "半年融资近2亿，他要用AI发球机器人解决全球1亿人的训练难题｜硬氪专访",
+        "link": "https://36kr.com/p/3764953900990977?f=rss",
+        "pubDate": "2026-04-14 09:10:00  +0800",
+        "description": "作者｜黄楠 编辑｜袁斯来 如果你想找庞伯特创始人张海波，大概率得去公司附近的各种球场。 张海波早把自己训练成了各种球类的高手。 2025年10月，公司网球场刚建成不久，他就拎着自家的发球机器人，从零开始学球。见到张海波时，他告诉硬氪，经过半年训练，现在已经打到了NTRP 3.0——相当于普通用户通常要练一两年才能达到的进阶水平。他没请私教，也没有陪练，唯一的老师，就是那台被自己反复击打的发球机器人。 张海波很早就精通乒乓球，他是国内最早一批将强化学习用于乒乓球对打的工程师。早年在上市公司任职期间，他就做出了一套能与人进行“人机对战”的具身机械臂方案。这套系统成本高达20多万元，曾为国家队提供数"
+      },
+      {
+        "title": "8点1氪丨“马斯克版微信”将于4月17日上线；美军开始拦截进出霍尔木兹海峡船只；字节与荣耀合作“豆包手机”细节尚未达成一致",
+        "link": "https://36kr.com/p/3765932138103554?f=rss",
+        "pubDate": "2026-04-14 08:26:45  +0800",
+        "description": "今日热点导览 张雪回应机车新手禁令 西班牙首相桑切斯参观小米科技园 中央网信办：加强网络直播打赏规范管理 小红书跨境电商平台Redshop将于今年6月正式上线 A股景气度投资或回归主线 TOP3大新闻 “马斯克版微信”或在4月17日上线 美国当地时间4月11日，X平台宣布旗下独立社交应用XChat将于4月17日正式登陆App Store。这款被外界视为“西方版微信”的应用，主打端到端加密、无广告及无追踪，旨在构建集聊天、支付、AI于一体的超级应用生态。XChat无需手机号注册，支持音视频通话、阅后即焚及防截图，并深度集成了AI助手Grok。 然而，尽管马斯克宣称其采用“比特币式加密”，但安全专"
+      },
+      {
+        "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+        "link": "https://36kr.com/p/3765331768967686?f=rss",
+        "pubDate": "2026-04-13 23:56:59  +0800",
+        "description": "4月13日，荣耀正式发布自研终端侧“龙虾”AI智能体YOYO Claw，并宣布其将首发搭载于被称作“养虾本”的荣耀MagicBook系列轻薄本中。 此前，荣耀曾在Magic V6旗舰新品发布会宣布要带来龙虾宇宙，支持YOYO控虾、生态养虾、安全养虾三大能力。 YOYO Claw，是荣耀龙虾宇宙的第一步。YOYO Claw于3月27日开启封测，用户可以选择不同设备，在PC端、Pad端进行接入使用。 不过，这次荣耀直接把YOYO Claw封进了PC端，成为笔记本出厂即带的能力。荣耀PC产品总经理朱臣才分享道：“今年我们希望PC（Personal Computer）能升级为Partner Creat"
+      },
+      {
+        "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+        "link": "https://36kr.com/p/3765207394009602?f=rss",
+        "pubDate": "2026-04-13 20:07:37  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 在AI+制造 新时代到来的开局之年，工业打磨这一长期依赖人工经验的“隐形工序”，正在迎来技术拐点。 4月10日，图速自动化科技（上海）有限公司正式发布砺眸®LumiSander具身智能平台与图御™|RouteMind 2.0在线路径规划系统，同步亮相的还有图匠® LumiCraft具身打磨机器人。 三款新品同时推出，标志着这家成立十年的自动化企业正加速向具身智能表面处理技术平台转型。 打磨是工业生产中的极为关键的工艺环节，下游应用广泛。硬氪了解到，工业打磨广泛应用于轨道交通、航空航天、风力发电、汽车制造等领域。长期以来，打磨环节工艺高度依赖经验，劳动强度大、作业环境恶"
+      },
+      {
+        "title": "氪星晚报｜“马斯克版微信”或在本周五上线；Meta押注AI数字人，正打造AI版扎克伯格；AI潮玩品牌“MOMOTOY”完成数千万元融资",
+        "link": "https://36kr.com/p/3765146768376326?f=rss",
+        "pubDate": "2026-04-13 19:09:12  +0800",
+        "description": "大公司： 金山办公：一季度净利同比预增402%-473% 36氪获悉，金山办公公告，预计2026年第一季度实现归属于上市公司股东的净利润20.22亿元-23.07亿元，同比增长401.89%-472.81%。 沪电股份：一季度净利同比预增54.76%-65.25% 36氪获悉，沪电股份公告，预计2026年第一季度归属于上市公司股东的净利润为11.8亿元-12.6亿元，比上年同期增长54.76%-65.25%。 Meta押注AI数字人，正打造AI版扎克伯格 Meta正在打造人工智能版马克・扎克伯格，可代他与员工互动，这是这家科技巨头全面向AI转型的重要举措之一。据四位知情人士透露，这家市值1.6"
+      },
+      {
+        "title": "野人先生崔渐为：“网红”标签对我们不公平丨厚雪专访",
+        "link": "https://36kr.com/p/3765076875117314?f=rss",
+        "pubDate": "2026-04-13 17:58:36  +0800",
+        "description": "作者&nbsp;|&nbsp;钟艺璇 编辑&nbsp;|&nbsp;��芊 如果你在一个意大利人面前，把Gelato等同于ice cream，他一定会难过。 16世纪，Gelato诞生于文艺复兴时期的佛罗伦萨，传说中一名炼金术师创造了它。在意大利语中，Gelato本就译为冰淇淋。但它和美式冰淇淋ice cream口感大有不同，Gelato使用口感更密实，也更新鲜、低脂和健康。 目前中国冰淇淋市场中，夫妻老婆店冷柜里卖的预制冰淇淋占据75%以上的市场份额，这个品类中的高端玩家是哈根达斯。现制冰淇淋只占约25%，以DQ、波比冰淇淋（原波比艾斯）乃至蜜雪冰城为代表的软冰（Soft Serve）以规模"
+      },
+      {
+        "title": "包容 探索 求真 守正｜2026光幕计划终审阵容与年度面孔公布",
+        "link": "https://36kr.com/p/3764886161048323?f=rss",
+        "pubDate": "2026-04-13 14:59:19  +0800",
+        "description": "&nbsp; 当短剧成为当下备受关注的叙事形态，当AI不断拓展表达的边界，表演这门古老的艺术，也站在了新的岔路口。效率与流量构筑了可见的赛道，而真正的叩问始终沉在深处：在技术的“巧”与媒介的“快”之外，那些源于血肉之躯的、笨拙而恳切的“真”，是否依然拥有抵达人心的力量？ 辨识这份真实，需要深耕岁月、敬畏专业的目光。为此，我们荣幸地邀请到李少红导演担任第十六届北京国际电影节BE SEEN 光幕计划终评审主席，赵小丁、吴刚、俞白眉、魏钦涛担任终审评委。他们以多年的创作生命为标尺，为这份最终的年度面孔入选演员名单注入了厚重的公信力与深远的期待。 “表演有无数个高山要翻跃。”终审现场，评委俞白眉的这句"
+      }
+    ],
+    "source": "36氪",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "energy_intl": {
+    "items": [
+      {
+        "title": "Leaked: Car Industry’s Latest Demands Could Cost EU Extra €74 Billion In Oil Imports",
+        "link": "https://cleantechnica.com/2026/04/13/leaked-car-industrys-latest-demands-could-cost-eu-extra-e74-billion-in-oil-imports/",
+        "pubDate": "Tue, 14 Apr 2026 03:49:19 +0000",
+        "description": "ACEA document told Environment Ministers to slash car CO2 targets, depriving motorists of more affordable EV models. The European car industry’s latest demands for weaker climate targets could result in an extra €74bn of oil imports — just as interest in buying EVs reaches new peaks. That’s accordin",
+        "title_cn": "泄露：汽车行业的最新需求可能会使欧盟额外损失740亿欧元的石油进口"
+      },
+      {
+        "title": "Shawnee County “Open for Business” in 3-0 Vote on Utility Solar & Batteries",
+        "link": "https://cleantechnica.com/2026/04/13/shawnee-county-open-for-business-in-3-0-vote-on-utility-solar-batteries/",
+        "pubDate": "Tue, 14 Apr 2026 03:25:49 +0000",
+        "description": "Advocates celebrate public engagement and clean energy benefits of jobs, health, and affordability. TOPEKA, Kansas — Today, the Shawnee County Commission voted 3-0 to approve an ordinance for utility-scale solar that moves beyond their initial moratorium toward a comprehensive, permitting framework,",
+        "title_cn": "肖尼县“开放营业”公用事业太阳能和电池3-0投票"
+      },
+      {
+        "title": "Tesla Full Self-Driving Europe — Initial Impressions Review",
+        "link": "https://cleantechnica.com/2026/04/13/tesla-full-self-driving-europe-initial-impressions-review/",
+        "pubDate": "Tue, 14 Apr 2026 00:39:59 +0000",
+        "description": "On April 10th, quite literally at the 11th hour before Tesla’s self-imposed deadline, the Dutch road authority (the RDW) posted a press release that they have finally granted Tesla approval for Full Self Driving in the Netherlands. However, no one knew when the update would start rolling out. The pi",
+        "title_cn": "特斯拉全自动驾驶欧洲—初步印象回顾"
+      },
+      {
+        "title": "Is XPENG Building A Better “Tesla”?",
+        "link": "https://cleantechnica.com/2026/04/13/is-xpeng-building-a-better-tesla/",
+        "pubDate": "Mon, 13 Apr 2026 23:01:26 +0000",
+        "description": "Last week, reports indicated that Tesla was working on a smaller, more affordable model again. Even though it is reportedly in the initial stages of development, people got excited at the prospect of a more affordable Tesla. The share price was up for the week. Also last week, China’s Ministry ... [",
+        "title_cn": "XPENG正在打造更好的“特斯拉”吗？"
+      },
+      {
+        "title": "A Startup Enters The Heat Pump Water Heater Space Focused On A Smart Water Heater",
+        "link": "https://cleantechnica.com/2026/04/13/a-startup-enters-the-heat-pump-water-heater-space-focused-on-a-smart-water-heater/",
+        "pubDate": "Mon, 13 Apr 2026 22:09:22 +0000",
+        "description": "There are a lot of heat pump water heaters (HPWH) that have come to market recently. At the beginning of this decade, only a handful of manufacturers were making this hyper-efficient water heating product, and now we count 13 different brands of just tanked water heaters with more brands and ... [co",
+        "title_cn": "一家初创公司进入热泵热水器领域，专注于智能热水器"
+      },
+      {
+        "title": "Cleaning Up Lake Erie Begins With A Network Of Digital Sensors",
+        "link": "https://cleantechnica.com/2026/04/13/cleaning-up-lake-erie-begins-with-a-network-of-digital-sensors/",
+        "pubDate": "Mon, 13 Apr 2026 22:03:31 +0000",
+        "description": "Lake Erie is the shallowest of the Great Lakes and the most polluted. Now digital technology will help restore it to health. The post Cleaning Up Lake Erie Begins With A Network Of Digital Sensors appeared first on CleanTechnica .",
+        "title_cn": "伊利湖的清理始于数字传感器网络"
+      },
+      {
+        "title": "France Moved First, But Markets Everywhere Are Signaling Electrification",
+        "link": "https://cleantechnica.com/2026/04/13/france-moved-first-but-markets-everywhere-are-signaling-electrification/",
+        "pubDate": "Mon, 13 Apr 2026 19:49:28 +0000",
+        "description": "France has made the first national push for increased electrification tied to the Strait of Hormuz-related energy crisis. Reuters reported that Paris will raise annual state support for electrification from €5.5 billion to €10 billion through 2030, while Le Monde summarized the package as including ",
+        "title_cn": "法国率先采取行动，但世界各地的市场都在发出电气化的信号"
+      },
+      {
+        "title": "What Does It Take To Save US Forests From Logging? A Justice Conservation Fund",
+        "link": "https://cleantechnica.com/2026/04/13/what-does-it-take-to-save-us-forests-from-logging-a-justice-conservation-fund/",
+        "pubDate": "Mon, 13 Apr 2026 16:03:46 +0000",
+        "description": "The Puritan settlers of New England, steeped in the Old Testament biblical worldview, believed it was their God-ordained destiny to transform the dismal American wilderness into an earthly paradise. Seventeenth century Puritan writing is full of the idea of wild country as the environment of evil, a",
+        "title_cn": "如何拯救美国森林免遭砍伐？正义保护基金"
+      }
+    ],
+    "source": "CleanTechnica",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "energy": {
+    "items": [
+      {
+        "title": "Unlocking the potential of the insulator–metal transition for photocatalysis",
+        "link": "https://www.nature.com/articles/s41560-026-02036-3",
+        "pubDate": "2026-04-13",
+        "description": "Nature Energy, Published online: 13 April 2026; doi:10.1038/s41560-026-02036-3 Designing photocatalysts typically demands complex engineering of junctions. Vanadium dioxide (VO2), however, can spontaneously form homogeneous junctions upon undergoing an insulator–metal transition. This transition in ",
+        "title_cn": "释放绝缘体-金属过渡的光催化潜力"
+      },
+      {
+        "title": "One-step-processed bilayer ethyl cellulose for full-colour sub-ambient daytime radiative cooling",
+        "link": "https://www.nature.com/articles/s41560-026-02039-0",
+        "pubDate": "2026-04-13",
+        "description": "Nature Energy, Published online: 13 April 2026; doi:10.1038/s41560-026-02039-0 Fabricating coloured radiative cooling coatings that are easy to produce and do not compromise cooling performance is challenging. Ying Liu et al. develop a one-step fabrication method that yields coloured ethyl cellulose",
+        "title_cn": "一步法处理的双层乙基纤维素，用于全彩亚环境日间辐射冷却"
+      },
+      {
+        "title": "Calendar ageing of micro-sized silicon",
+        "link": "https://www.nature.com/articles/s41560-026-02028-3",
+        "pubDate": "2026-04-08",
+        "description": "Nature Energy, Published online: 08 April 2026; doi:10.1038/s41560-026-02028-3 Silicon anodes promise far higher capacity than graphite but suffer from rapid decay at rest. Researchers evaluate cycling stability and calendar life of micron-sized silicon anodes after tuning electrolytes to form a LiF",
+        "title_cn": "微尺寸硅的日历老化"
+      },
+      {
+        "title": "Addressing the challenge of carbon dioxide in anion-exchange membrane fuel cells",
+        "link": "https://www.nature.com/articles/s41560-026-01999-7",
+        "pubDate": "2026-04-08",
+        "description": "Nature Energy, Published online: 08 April 2026; doi:10.1038/s41560-026-01999-7 Anion-exchange membrane fuel cells (AEMFCs) face performance challenges due to CO2 in ambient air, which forms carbonate ions that reduce ionic conductivity. In this Perspective, the authors explore CO2 management strateg",
+        "title_cn": "应对阴离子交换膜燃料电池中的二氧化碳挑战"
+      },
+      {
+        "title": "Governance challenges preventing better integration of the electrical grid in the USA",
+        "link": "https://www.nature.com/articles/s41560-026-02020-x",
+        "pubDate": "2026-04-06",
+        "description": "Nature Energy, Published online: 06 April 2026; doi:10.1038/s41560-026-02020-x The USA’s electricity network remains underdeveloped and fragmented in ways that threaten the reliability, resilience and affordability of electricity as well as clean energy goals. The design of its grid governance is la",
+        "title_cn": "治理挑战妨碍美国更好地整合电网"
+      },
+      {
+        "title": "Thermal runaway-free ampere-hour-level Na-ion battery via polymerizable non-flammable electrolyte",
+        "link": "https://www.nature.com/articles/s41560-026-02032-7",
+        "pubDate": "2026-04-06",
+        "description": "Nature Energy, Published online: 06 April 2026; doi:10.1038/s41560-026-02032-7 The safe operation of large-scale batteries remains challenging, as thermal runaway in ampere-hour-level cells is still unresolved and the link between electrolyte flame retardancy and battery safety is unclear. Here the ",
+        "title_cn": "通过可聚合非易燃电解质的无热失控安培-小时级钠离子电池"
+      },
+      {
+        "title": "Fusion power unlikely to become competitive",
+        "link": "https://www.nature.com/articles/s41560-026-02022-9",
+        "pubDate": "2026-04-01",
+        "description": "Nature Energy, Published online: 01 April 2026; doi:10.1038/s41560-026-02022-9 While nuclear fusion power is often hailed as a future source of abundant, clean energy, current dominant fusion designs, magnetic and laser inertial, are unlikely to become competitive due to their expected low experienc",
+        "title_cn": "聚变电源不太可能变得具有竞争力"
+      },
+      {
+        "title": "Degradation pathways of FA x Cs 1− x PbI 3 perovskite solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02012-x",
+        "pubDate": "2026-03-31",
+        "description": "Nature Energy, Published online: 31 March 2026; doi:10.1038/s41560-026-02012-x The upper stability limit of formamidinium–caesium (FACs) lead iodide perovskite solar cells (PSCs) under thermal and light stress is poorly understood. Now, analysis of the photothermal stability of hundreds of FACs PSCs",
+        "title_cn": "FA x Cs 1 − x PbI 3钙钛矿太阳能电池的降解途径"
+      }
+    ],
+    "source": "Nature Energy",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "energy_cn": {
+    "items": [
+      {
+        "title": "“氢”装上阵打开产业新空间 - 经济日报",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSXdtT2lMcGNpU1ZoMERZVDQwMkxCNTVSZ0sxY0VGU19GazJLLWlMUWg3NExWSThhZHg3QnlYb2xnR0JMSXFNVjRfME1PZHByNHVmRUNmZGIxZUQyejBvMG1kNzkxa3dud013?oc=5",
+        "pubDate": "Wed, 08 Apr 2026 02:09:48 GMT",
+        "description": "“氢”装上阵打开产业新空间 &nbsp;&nbsp; 经济日报"
+      },
+      {
+        "title": "重磅签约！中俄携手共建氢能走廊！ - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IcWs0ekdRakZfVDB6WUd6MnMzOVg5N2s0bm50VTNxM0FCbnN6a2JISWZMMWNyQ29RWGxYS1Q5dTAzU1FHZGRJQUpoNjFnOWpOQlJYQw?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 01:16:16 GMT",
+        "description": "重磅签约！中俄携手共建氢能走廊！ &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
+        "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
+      },
+      {
+        "title": "中国能建（算电协同+氢能投产） - 东方财富网",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZIOXFzV29DaVpkZmRYTTRZN3pBb2I4NS1Jci0yZDBndklFOXo5TUYwNGRmX01QLXhWMl9ySW9jeFl6WFQ4RWdqLWE3MDNYX2thMm91NS1pR1NUcmRQamU5ajdIZ19OVDBFTmVXcF9ORXFJMlh1VTRpUWR3TDBNLXNUVnByenVfRVFuRzA1eWszVkdyMm1EbUdvc0trR0ZmMU5mWGtvX3NaY1NpOThLVHVnSQ?oc=5",
+        "pubDate": "Sat, 11 Apr 2026 01:31:13 GMT",
+        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富网"
+      },
+      {
+        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
+        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
+        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      }
+    ],
+    "source": "Google新闻·能源",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "hydrogen": {
+    "items": [
+      {
+        "title": "Resounding Success for the Closing of the Green Hydrogen Awareness Pilot Program in Mauritanian Schools",
+        "link": "https://fuelcellsworks.com/2026/04/12/education/resounding-success-for-the-closing-of-the-green-hydrogen-awareness-pilot-program-in-mauritanian-schools",
+        "pubDate": "Mon, 13 Apr 2026 16:01:18 GMT",
+        "description": "",
+        "title_cn": "毛里塔尼亚学校绿色氢意识试点项目圆满结束"
+      },
+      {
+        "title": "Amogy and GS E&C Sign Joint Venture Agreement to Advance Green Ammonia-Based Distributed Power",
+        "link": "https://fuelcellsworks.com/2026/04/13/news/amogy-and-gs-e-and-c-sign-joint-venture-agreement-to-advance-green-ammonia-based-distributed-power",
+        "pubDate": "Mon, 13 Apr 2026 15:56:13 GMT",
+        "description": "",
+        "title_cn": "Amogy与GS E&C签署合资协议，推进绿色氨基分布式电力"
+      },
+      {
+        "title": "Fuel Cell and Hydrogen News Highlights From China: April 6-April 11 2026",
+        "link": "https://fuelcellsworks.com/2026/04/11/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-april-6-april-11-2026",
+        "pubDate": "Mon, 13 Apr 2026 15:35:00 GMT",
+        "description": "",
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年4月6日至4月11日"
+      },
+      {
+        "title": "Uzbekistan Backs Giant 2.4GW E-Fuels Scheme with Tax Breaks as $6.08Bn Project Chases Scale",
+        "link": "https://fuelcellsworks.com/2026/04/13/news/uzbekistan-backs-giant-2-4gw-e-fuels-scheme-with-tax-breaks-as-6-08bn-project-chases-scale",
+        "pubDate": "Mon, 13 Apr 2026 15:29:38 GMT",
+        "description": "",
+        "title_cn": "乌兹别克斯坦支持巨型2.4GW电子燃料计划，减税60.8亿美元的项目追逐规模"
+      },
+      {
+        "title": "SASA and Alperia Form Joint Venture for Hydrogen Adige Valley Project in Bolzano",
+        "link": "https://fuelcellsworks.com/2026/04/13/clean-energy/sasa-and-alperia-form-joint-venture-for-hydrogen-adige-valley-project-in-bolzano",
+        "pubDate": "Mon, 13 Apr 2026 15:16:20 GMT",
+        "description": "",
+        "title_cn": "SASA和Alperia在博尔扎诺成立Hydrogen Adige Valley项目合资企业"
+      },
+      {
+        "title": "Federal District to Have Brazil's First Green Hydrogen Bus on Tourist Route",
+        "link": "https://fuelcellsworks.com/2026/04/13/news/federal-district-to-have-brazil-s-first-green-hydrogen-bus-on-tourist-route",
+        "pubDate": "Mon, 13 Apr 2026 15:11:59 GMT",
+        "description": "",
+        "title_cn": "联邦区将在旅游线路上推出巴西首辆绿色氢气公交车"
+      },
+      {
+        "title": "Where Hydrogen Makes Sense: Experts Clarify Role in Energy Transition",
+        "link": "https://fuelcellsworks.com/2026/04/12/h2/where-hydrogen-makes-sense-experts-clarify-role-in-energy-transition",
+        "pubDate": "Mon, 13 Apr 2026 15:06:24 GMT",
+        "description": "",
+        "title_cn": "氢能有意义的地方：专家阐明了在能源转型中的作用"
+      },
+      {
+        "title": "Boosting Water Electrolysis Catalyst Performance via Simultaneous Control of Lattice Distortion and Oxygen Vacancies!",
+        "link": "https://fuelcellsworks.com/2026/04/13/h2/boosting-water-electrolysis-catalyst-performance-via-simultaneous-control-of-lattice-distortion-and-oxygen-vacancies",
+        "pubDate": "Mon, 13 Apr 2026 15:01:17 GMT",
+        "description": "",
+        "title_cn": "通过同时控制晶格畸变和氧空位来提高水电解催化剂的性能！"
+      }
+    ],
+    "source": "Fuel Cells Works",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "papers": {
+    "items": [
+      {
+        "title": "GenTac: Generative Modeling and Forecasting of Soccer Tactics",
+        "link": "https://arxiv.org/abs/2604.11786v1",
+        "pubDate": "2026-04-13T17:53:49Z",
+        "description": "Modeling open-play soccer tactics is a formidable challenge due to the stochastic, multi-agent nature of the game. Existing computational approaches typically produce single, deterministic trajectory forecasts or focus on highly structured set-pieces, fundamentally failing to capture the inherent va",
+        "title_cn": "GenTac ：足球战术的生成建模和预测"
+      },
+      {
+        "title": "Extraction of Effective Electromagnetic Material Properties for Rydberg Electrometer Vapor Cells from 10-300 MHz",
+        "link": "https://arxiv.org/abs/2604.11785v1",
+        "pubDate": "2026-04-13T17:52:16Z",
+        "description": "Quantum sensors often consist of packaging, such as dielectric-based vapor cells and metallic electrodes, that reduces and spatially alters the locally observed electromagnetic fields. These effects have been well studied in the optical regime, and even in the RF regime over a few GHz. However, ther",
+        "title_cn": "从10-300 MHz提取Rydberg静电计蒸汽电池的有效电磁材料特性"
+      },
+      {
+        "title": "Origin and characterization of super-Earths and sub-Neptunes",
+        "link": "https://arxiv.org/abs/2604.11779v1",
+        "pubDate": "2026-04-13T17:45:26Z",
+        "description": "Super-Earths and sub-Neptunes represent the most common class of exoplanets discovered to date in our galaxy, yet they have no direct analogues in the Solar System. Since 2014, researchers within the NCCR PlanetS have made significant contributions to understanding the origin and nature of these sma",
+        "title_cn": "超级地球和亚海王星的起源和表征"
+      },
+      {
+        "title": "Hybrid Quantum-Classical Optimization Workflows for the Shipment Selection Problem",
+        "link": "https://arxiv.org/abs/2604.11758v1",
+        "pubDate": "2026-04-13T17:30:49Z",
+        "description": "We present a quantum optimization framework for the Shipment Selection Problem (SSP) in electric freight logistics, developed jointly by IonQ and Einride. Idle gaps arising from stochastic shipment cancellations reduce fleet utilization and revenue; filling them optimally requires solving a combinat",
+        "title_cn": "针对发货选择问题的混合量子-经典优化工作流程"
+      },
+      {
+        "title": "Magnetic switching of self-hybridized exciton-polaritons in CrSBr photonic crystal slabs",
+        "link": "https://arxiv.org/abs/2604.11750v1",
+        "pubDate": "2026-04-13T17:23:20Z",
+        "description": "Layered van der Waals antiferromagnet CrSBr supports strong light--matter coupling and formation of magnetically tunable exciton-polaritons, yet active magnetic control over polariton propagation direction has remained elusive. Here, we investigate self-hybridized exciton-polaritons in photonic crys",
+        "title_cn": "CrSBr光子晶体板中自杂化激子极性子的磁开关"
+      },
+      {
+        "title": "HistLens: Mapping Idea Change across Concepts and Corpora",
+        "link": "https://arxiv.org/abs/2604.11749v1",
+        "pubDate": "2026-04-13T17:22:02Z",
+        "description": "Language change both reflects and shapes social processes, and the semantic evolution of foundational concepts provides a measurable trace of historical and social transformation. Despite recent advances in diachronic semantics and discourse analysis, existing computational approaches often (i) conc",
+        "title_cn": "HistLens ：跨概念和语料库映射创意变革"
+      },
+      {
+        "title": "Data-driven oscillator model for multi-frequency turbulent flows",
+        "link": "https://arxiv.org/abs/2604.11745v1",
+        "pubDate": "2026-04-13T17:20:24Z",
+        "description": "The complex dynamics of high-dimensional oscillatory flows can be simplified using phase-reduction analysis, providing a deeper understanding of the flow response to external perturbations. Although phase-based modeling and analysis have been utilized in recent studies on oscillatory fluid flows, th",
+        "title_cn": "多频湍流的数据驱动振荡器模型"
+      },
+      {
+        "title": "Reduced pair breaking from extended disorder in unconventional superconductors: implications to 4Hb-TaS$_2$",
+        "link": "https://arxiv.org/abs/2604.11738v1",
+        "pubDate": "2026-04-13T17:15:16Z",
+        "description": "Unconventional superconductivity is generally expected to be strongly suppressed by nonmagnetic disorder, as captured by Abrikosov--Gor'kov (AG) theory. However, several materials, including transition metal dichalcogenides, exhibit signatures of unconventional pairing despite relatively high resist",
+        "title_cn": "减少非常规超导体中延伸性疾病的配对断裂：对4Hb-TaS的影响$_2 $"
+      },
+      {
+        "title": "An analogue of irreducible cuspidal representations for the group $PGL(2)$ over a two-dimensional local field",
+        "link": "https://arxiv.org/abs/2604.11735v1",
+        "pubDate": "2026-04-13T17:13:56Z",
+        "description": "Let $F$ be a local non-archimedian field of odd residue characteristic and let $G=PGL(2)$. In this paper we study an analog of irreducible cuspidal representations of the group $G(F)$ when $F$ is replaced by the field $K=F((t))$. The story turns out to be similar to the classical case, but also with",
+        "title_cn": "在二维局部场上群$ PGL (2) $的不可约的尖端表示的模拟"
+      },
+      {
+        "title": "The GAPS Programme at TNG. LXXIII. Confirmation of the hot sub-Neptune TOI-4602 b (HD 25295 b), a key target for future atmospheric characterization",
+        "link": "https://arxiv.org/abs/2604.11728v1",
+        "pubDate": "2026-04-13T17:03:18Z",
+        "description": "Precise mass and radius measurements of small, transitional exoplanets, such as super-Earths and sub-Neptunes, are essential to constrain their bulk density and formation history, serving as prerequisites for atmospheric characterization. The ArMS Large Programme, carried out within GAPS using the H",
+        "title_cn": "TNG的GAPS计划。LXXIII.确认热亚海王星TOI-4602 b （ HD 25295 b ） ，这是未来大气表征的关键目标"
+      }
+    ],
+    "source": "arXiv",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "policy_nea": {
+    "items": [
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VMWU1SjFUME9WelJJVUFzMjNXSGdkUUtJcERsWVpiS0ZySXZHTjZWVGFJcC1OVnFRNXMxOGt6NjVrVHAyanc?oc=5",
+        "pubDate": "Sat, 04 Apr 2026 11:16:38 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
+        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+      },
+      {
+        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxNb3cySUpna2g0RUptblMwNUxiYldiWjExVWpHbFFvbWhYZFRISUpsWjRFLTBUUFZoR3RtbXRWa3JGb3VzNkVhZjRMR29CdGlnYmhHdF85cENHTTFSQ2N0emswTkdBaVZnVDR2S2l1c2xzbXYxQ2NWNWEyUmNaMi1BZTdQSW9KQ29jMUhseEtIZUFvRHJXajNNNzNkXzhKV0tPdjNxakNzTC1Fd0JnMm5UMkJFeWhFQTQ5YmpqMDFkWDY0V0U2SzJjZnBsdUl3ZE9BWjRrc0R1VUlKVFVPVnBiaV9BandoSWRncTNMYjR0RUplUTZlWWR6Mzg3SDNjcWxoQTZEa2lRUkVfNUZGRkszalU0NWdtM0VrclU5TmdwM215cXBxLVl2ekVGQ21lTVl0aXh1a0NybDdWNjJfSnNlaEtRZThxeUIzQlhEQTl0cWs4UnZCOEhIdUEzQWNNMWRKWHNkNWh3OF80Ynk4SENjSi0zM3FWVUhEWkpsZ2xXWlRNNjZKQXZrX1ZBYjJNeTlVaVpxVXNjSVNNdmN5YWZBN2FYMGhoVXNpTlVYX1BVaU0za1ZFVHRQV01feXJhZmFzODU0UFZjVmNYd0lMZld4SmcwVkFTYnlDenV4YTdvY21FSkNzT24wYWcyeGI2U1o0THhMbkhaakJaV0pzTWFfZ3lELXp4WnRyMEl6VW13Y0hnU2N2MGFIcC0weEJzN3d0UVY0U3p6RnhkQ3hqbTFRZzlCSFM?oc=5",
+        "pubDate": "Thu, 09 Apr 2026 03:56:16 GMT",
+        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "氢能产业政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1LTFnTDE2MGFObndZZWlPOGhocGNCSDlxNWh4SW10MHRqV1BOQzhKdEtBeUltUWlEbUFpOUFiRjg5VUQ4OHdFdHNFdDFTMDlHRnpQTjlLZ1lvUHdXdmJqdzlacFlrMmNEYjZpMzNIUUptaVRjNnJidA?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 04:01:54 GMT",
+        "description": "氢能产业政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
+        "title": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNG5ZS1A5cWN1YloyNGd6T0hHVmJjVGp3ekx2a2xDanE3aWV1akp1RzNiZnZqMnlDRDRVbXhUcjg3aHFVZF9VNk96clhrbERaTXBCR3hn?oc=5",
+        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+        "description": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "【快讯】国家能源局正式公布第一批能源领域氢能试点名单 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3JkQzE4YkVtVzVwVlJQQUQ1eHRnWjFWYTBmMDJTaGpTVDhOMkc5UmhnaFRMc0gxRXg3TFROR1BEYkZsdUJMYUJoX1FrX3VkOThWS2thRFJzQ0pEWVpGRUx4bXdpUDlqY2dSTjhINklVeXFYZW41TW8zMXdPRUtIWGxLaXpYVjA?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "description": "【快讯】国家能源局正式公布第一批能源领域氢能试点名单 &nbsp;&nbsp; 新浪网"
+      }
+    ],
+    "source": "国家能源局",
+    "updated": "2026-04-14 04:41 UTC"
+  },
+  "policy_ndrc": {
+    "items": [
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWFlmRGtvMlZYbWR1dHlGODZldVFhNklLblo0TE1HT3U4eThOdE9vT0lyNWVIa2dxeEROXzZjcjAwSDM5SC1CU3BxTVY2Uk5zeXZxS19oOFJNa3ZsNkV0Tjc0bl81Sk10?oc=5",
+        "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+        "description": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
+        "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
+      }
+    ],
+    "source": "发改委政策",
+    "updated": "2026-04-14 04:41 UTC"
+  }
+}
