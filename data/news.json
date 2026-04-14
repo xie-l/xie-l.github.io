@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+        "link": "https://www.nature.com/articles/s41586-026-10493-9",
+        "pubDate": "2026-04-14",
+        "description": "Nature, Published online: 14 April 2026; doi:10.1038/s41586-026-10493-9 Polyclonal selection of immune checkpoint mutations in thyroid autoimmunity",
+        "title_cn": "甲状腺自身免疫免疫检查点突变的多克隆选择"
+      },
+      {
+        "title": "Autonomous closed-loop framework for reproducible perovskite solar cells",
+        "link": "https://www.nature.com/articles/s41586-026-10482-y",
+        "pubDate": "2026-04-14",
+        "description": "Nature, Published online: 14 April 2026; doi:10.1038/s41586-026-10482-y Autonomous closed-loop framework for reproducible perovskite solar cells",
+        "title_cn": "用于可再现钙钛矿太阳能电池的自主闭环框架"
+      },
+      {
         "title": "The striking history of safety matches",
         "link": "https://www.nature.com/articles/d41586-026-00914-0",
         "pubDate": "2026-04-14",
@@ -30,36 +44,22 @@
         "title_cn": "人工智能代理在几天内复制人类社交动态"
       },
       {
+        "title": "Marine heatwaves can supercharge cyclones",
+        "link": "https://www.nature.com/articles/d41586-026-01201-8",
+        "pubDate": "2026-04-14",
+        "description": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01201-8 Storms that cross exceptionally warm ocean waters intensify more quickly and do more damage than storms that do not.",
+        "title_cn": "海洋热浪可以为旋风增压"
+      },
+      {
         "title": "China discontinues prominent journal ranking list",
         "link": "https://www.nature.com/articles/d41586-026-01216-1",
         "pubDate": "2026-04-14",
         "description": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01216-1 China discontinues prominent journal ranking list",
         "title_cn": "中国终止重要期刊排行榜"
-      },
-      {
-        "title": "Researchers: here’s how to audit your fragmented digital identity",
-        "link": "https://www.nature.com/articles/d41586-025-04132-y",
-        "pubDate": "2026-04-14",
-        "description": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-025-04132-y Services that track researcher profiles can splinter people’s online identities — but there are ways to keep them consistent.",
-        "title_cn": "研究人员：以下是如何审核碎片化数字身份的方法"
-      },
-      {
-        "title": "The air is full of DNA — here’s what scientists are using it for",
-        "link": "https://www.nature.com/articles/d41586-026-01099-2",
-        "pubDate": "2026-04-14",
-        "description": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01099-2 Airborne genetic material can be used to paint a picture of ecosystem health, watch for invasive species and even identify humans.",
-        "title_cn": "空气中充满了DNA —这就是科学家们使用它的目的"
-      },
-      {
-        "title": "AI needs solid botanical data more than ever",
-        "link": "https://www.nature.com/articles/d41586-026-01196-2",
-        "pubDate": "2026-04-14",
-        "description": "Nature, Published online: 14 April 2026; doi:10.1038/d41586-026-01196-2 An artificial-intelligence revolution in biotechnology won’t get far without human taxonomic expertise — and that’s under threat.",
-        "title_cn": "人工智能比以往任何时候都更需要可靠的植物数据"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Balance Of Power In The World Is Shifting, & The US Will Be The Biggest Loser",
+        "link": "https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/",
+        "pubDate": "Tue, 14 Apr 2026 17:48:52 +0000",
+        "description": "The US has precipitated a dramatic shift in the global balance of power, one that will see it marginalized and ostracized by other nations. The post The Balance Of Power In The World Is Shifting, &#038; The US Will Be The Biggest Loser appeared first on CleanTechnica .",
+        "title_cn": "世界的力量平衡正在发生变化，美国将成为最大的输家"
+      },
+      {
+        "title": "Lexus RZ Sales Surged In 1st Quarter In USA",
+        "link": "https://cleantechnica.com/2026/04/14/lexus-rz-sales-surged-in-1st-quarter-in-usa/",
+        "pubDate": "Tue, 14 Apr 2026 17:39:22 +0000",
+        "description": "Electric vehicle sales in the USA were not good in the first quarter of the year, down significantly from the first quarter of last year. That&#8217;s what happens when you tell people you&#8217;re going to take away a $7,500 tax credit for EVs and then take it away. I&#8217;ll get ... [continued] T",
+        "title_cn": "雷克萨斯RZ美国第一季度销量激增"
+      },
+      {
+        "title": "$200 Million Heat Pump Program Somehow Slips Through Trump Chopper",
+        "link": "https://cleantechnica.com/2026/04/14/200-million-heat-pump-program-somehow-slips-through-trump-chopper/",
+        "pubDate": "Tue, 14 Apr 2026 15:37:51 +0000",
+        "description": "Heat pumps have emerged as a key building block in the electrification movement, and there is plenty of room to grow. The energy-saving appliances &#8212; which can cool as well as heat &#8212; have undergone a technology makeover in recent years, enabling them to operate efficiently in colder parts",
+        "title_cn": "2亿美元的热泵计划以某种方式通过特朗普直升机"
+      },
       {
         "title": "Over 200 New EV Chargers Coming To Ohio",
         "link": "https://cleantechnica.com/2026/04/14/over-200-new-ev-chargers-coming-to-ohio/",
@@ -151,31 +172,10 @@
         "pubDate": "Tue, 14 Apr 2026 03:25:49 +0000",
         "description": "Advocates celebrate public engagement and clean energy benefits of jobs, health, and affordability. TOPEKA, Kansas — Today, the Shawnee County Commission voted 3-0 to approve an ordinance for utility-scale solar that moves beyond their initial moratorium toward a comprehensive, permitting framework,",
         "title_cn": "肖尼县“开放营业”公用事业太阳能和电池3-0投票"
-      },
-      {
-        "title": "Tesla Full Self-Driving Europe — Initial Impressions Review",
-        "link": "https://cleantechnica.com/2026/04/13/tesla-full-self-driving-europe-initial-impressions-review/",
-        "pubDate": "Tue, 14 Apr 2026 00:39:59 +0000",
-        "description": "On April 10th, quite literally at the 11th hour before Tesla’s self-imposed deadline, the Dutch road authority (the RDW) posted a press release that they have finally granted Tesla approval for Full Self Driving in the Netherlands. However, no one knew when the update would start rolling out. The pi",
-        "title_cn": "特斯拉全自动驾驶欧洲—初步印象回顾"
-      },
-      {
-        "title": "Is XPENG Building A Better “Tesla”?",
-        "link": "https://cleantechnica.com/2026/04/13/is-xpeng-building-a-better-tesla/",
-        "pubDate": "Mon, 13 Apr 2026 23:01:26 +0000",
-        "description": "Last week, reports indicated that Tesla was working on a smaller, more affordable model again. Even though it is reportedly in the initial stages of development, people got excited at the prospect of a more affordable Tesla. The share price was up for the week. Also last week, China’s Ministry ... [",
-        "title_cn": "XPENG正在打造更好的“特斯拉”吗？"
-      },
-      {
-        "title": "A Startup Enters The Heat Pump Water Heater Space Focused On A Smart Water Heater",
-        "link": "https://cleantechnica.com/2026/04/13/a-startup-enters-the-heat-pump-water-heater-space-focused-on-a-smart-water-heater/",
-        "pubDate": "Mon, 13 Apr 2026 22:09:22 +0000",
-        "description": "There are a lot of heat pump water heaters (HPWH) that have come to market recently. At the beginning of this decade, only a handful of manufacturers were making this hyper-efficient water heating product, and now we count 13 different brands of just tanked water heaters with more brands and ... [co",
-        "title_cn": "一家初创公司进入热泵热水器领域，专注于智能热水器"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,16 +254,16 @@
         "description": "“氢”装上阵打开产业新空间 &nbsp;&nbsp; 经济日报"
       },
       {
-        "title": "重磅签约！中俄携手共建氢能走廊！ - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IcWs0ekdRakZfVDB6WUd6MnMzOVg5N2s0bm50VTNxM0FCbnN6a2JISWZMMWNyQ29RWGxYS1Q5dTAzU1FHZGRJQUpoNjFnOWpOQlJYQw?oc=5",
-        "pubDate": "Tue, 14 Apr 2026 01:16:16 GMT",
-        "description": "重磅签约！中俄携手共建氢能走廊！ &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "重磅签约！中俄携手共建氢能走廊！ - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IcWs0ekdRakZfVDB6WUd6MnMzOVg5N2s0bm50VTNxM0FCbnN6a2JISWZMMWNyQ29RWGxYS1Q5dTAzU1FHZGRJQUpoNjFnOWpOQlJYQw?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 01:16:16 GMT",
+        "description": "重磅签约！中俄携手共建氢能走廊！ &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -278,10 +278,10 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "中国能建（算电协同+氢能投产） - 东方财富",
+        "title": "中国能建（算电协同+氢能投产） - 东方财富网",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejZIOXFzV29DaVpkZmRYTTRZN3pBb2I4NS1Jci0yZDBndklFOXo5TUYwNGRmX01QLXhWMl9ySW9jeFl6WFQ4RWdqLWE3MDNYX2thMm91NS1pR1NUcmRQamU5ajdIZ19OVDBFTmVXcF9ORXFJMlh1VTRpUWR3TDBNLXNUVnByenVfRVFuRzA1eWszVkdyMm1EbUdvc0trR0ZmMU5mWGtvX3NaY1NpOThLVHVnSQ?oc=5",
         "pubDate": "Sat, 11 Apr 2026 01:31:13 GMT",
-        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富"
+        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富网"
       },
       {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Resounding Success for the Closing of the Green Hydrogen Awareness Pilot Program in Mauritanian Schools",
-        "link": "https://fuelcellsworks.com/2026/04/12/education/resounding-success-for-the-closing-of-the-green-hydrogen-awareness-pilot-program-in-mauritanian-schools",
-        "pubDate": "Mon, 13 Apr 2026 16:01:18 GMT",
+        "title": "Bloom Energy and Oracle Expand Strategic Partnership to Deploy up to 2.8 GW to Accelerate AI Infrastructure Build-Out",
+        "link": "https://fuelcellsworks.com/2026/04/14/fuel-cells/bloom-energy-and-oracle-expand-strategic-partnership-to-deploy-up-to-2-8-gw-to-accelerate-ai-infrastructure-build-out",
+        "pubDate": "Tue, 14 Apr 2026 16:10:51 GMT",
         "description": "",
-        "title_cn": "毛里塔尼亚学校绿色氢意识试点项目圆满结束"
+        "title_cn": "Bloom Energy和甲骨文扩大战略合作伙伴关系，部署高达2.8吉瓦的装机容量，以加速人工智能基础设施的扩建"
       },
       {
-        "title": "Amogy and GS E&C Sign Joint Venture Agreement to Advance Green Ammonia-Based Distributed Power",
-        "link": "https://fuelcellsworks.com/2026/04/13/news/amogy-and-gs-e-and-c-sign-joint-venture-agreement-to-advance-green-ammonia-based-distributed-power",
-        "pubDate": "Mon, 13 Apr 2026 15:56:13 GMT",
+        "title": "KELAG Has Opened Carinthia's First Electrolysis Plant in Arnoldstein",
+        "link": "https://fuelcellsworks.com/2026/04/13/clean-energy/kelag-has-opened-carinthia-s-first-electrolysis-plant-in-arnoldstein",
+        "pubDate": "Tue, 14 Apr 2026 16:03:37 GMT",
         "description": "",
-        "title_cn": "Amogy与GS E&C签署合资协议，推进绿色氨基分布式电力"
+        "title_cn": "KELAG在Arnoldstein开设了Carinthia的第一家电解工厂"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: April 6-April 11 2026",
-        "link": "https://fuelcellsworks.com/2026/04/11/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-april-6-april-11-2026",
-        "pubDate": "Mon, 13 Apr 2026 15:35:00 GMT",
+        "title": "Beyond Aero and Luxaviation Partner to Prepare Hydrogen-Electric Business Aviation Operations",
+        "link": "https://fuelcellsworks.com/2026/04/14/energy-innovation/beyond-aero-and-luxaviation-partner-to-prepare-hydrogen-electric-business-aviation-operations",
+        "pubDate": "Tue, 14 Apr 2026 15:58:32 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年4月6日至4月11日"
+        "title_cn": "Beyond Aero与Luxaviation合作，为氢电公务航空运营做准备"
       },
       {
-        "title": "Uzbekistan Backs Giant 2.4GW E-Fuels Scheme with Tax Breaks as $6.08Bn Project Chases Scale",
-        "link": "https://fuelcellsworks.com/2026/04/13/news/uzbekistan-backs-giant-2-4gw-e-fuels-scheme-with-tax-breaks-as-6-08bn-project-chases-scale",
-        "pubDate": "Mon, 13 Apr 2026 15:29:38 GMT",
+        "title": "Government of Minas Gerais Launches Low-Emission Hydrogen State Plan",
+        "link": "https://fuelcellsworks.com/2026/04/12/h2/government-of-minas-gerais-launches-low-emission-hydrogen-state-plan",
+        "pubDate": "Tue, 14 Apr 2026 15:49:31 GMT",
         "description": "",
-        "title_cn": "乌兹别克斯坦支持巨型2.4GW电子燃料计划，减税60.8亿美元的项目追逐规模"
+        "title_cn": "米纳斯吉拉斯州政府启动低排放氢能国家计划"
       },
       {
-        "title": "SASA and Alperia Form Joint Venture for Hydrogen Adige Valley Project in Bolzano",
-        "link": "https://fuelcellsworks.com/2026/04/13/clean-energy/sasa-and-alperia-form-joint-venture-for-hydrogen-adige-valley-project-in-bolzano",
-        "pubDate": "Mon, 13 Apr 2026 15:16:20 GMT",
+        "title": "Element One Advances Patent-Pending Technology for Real-Time Hydrogen Production From Naturally Occuring Rock Systems",
+        "link": "https://fuelcellsworks.com/2026/04/14/hydrogen/element-one-advances-patent-pending-technology-for-real-time-hydrogen-production-from-naturally-occuring-rock-systems",
+        "pubDate": "Tue, 14 Apr 2026 15:49:31 GMT",
         "description": "",
-        "title_cn": "SASA和Alperia在博尔扎诺成立Hydrogen Adige Valley项目合资企业"
+        "title_cn": "Element One推进专利申请中技术，利用天然岩石系统实时制氢"
       },
       {
-        "title": "Federal District to Have Brazil's First Green Hydrogen Bus on Tourist Route",
-        "link": "https://fuelcellsworks.com/2026/04/13/news/federal-district-to-have-brazil-s-first-green-hydrogen-bus-on-tourist-route",
-        "pubDate": "Mon, 13 Apr 2026 15:11:59 GMT",
+        "title": "Delphy Joins China’s Hydrogen Momentum",
+        "link": "https://fuelcellsworks.com/2026/04/14/energy-innovation/delphy-joins-china-s-hydrogen-momentum",
+        "pubDate": "Tue, 14 Apr 2026 15:41:01 GMT",
         "description": "",
-        "title_cn": "联邦区将在旅游线路上推出巴西首辆绿色氢气公交车"
+        "title_cn": "Delphy加入中国氢动力"
       },
       {
-        "title": "Where Hydrogen Makes Sense: Experts Clarify Role in Energy Transition",
-        "link": "https://fuelcellsworks.com/2026/04/12/h2/where-hydrogen-makes-sense-experts-clarify-role-in-energy-transition",
-        "pubDate": "Mon, 13 Apr 2026 15:06:24 GMT",
+        "title": "Zhongke Launches Green Hydrogen and Zero-Carbon Methanol Project in Xinjiang",
+        "link": "https://fuelcellsworks.com/2026/04/03/h2/zhongke-launches-green-hydrogen-and-zero-carbon-methanol-project-in-xinjiang",
+        "pubDate": "Tue, 14 Apr 2026 15:34:42 GMT",
         "description": "",
-        "title_cn": "氢能有意义的地方：专家阐明了在能源转型中的作用"
+        "title_cn": "中科在新疆启动绿色氢气和零碳甲醇项目"
       },
       {
-        "title": "Boosting Water Electrolysis Catalyst Performance via Simultaneous Control of Lattice Distortion and Oxygen Vacancies!",
-        "link": "https://fuelcellsworks.com/2026/04/13/h2/boosting-water-electrolysis-catalyst-performance-via-simultaneous-control-of-lattice-distortion-and-oxygen-vacancies",
-        "pubDate": "Mon, 13 Apr 2026 15:01:17 GMT",
+        "title": "Kelluu Raises €15M to Develop Autonomous Hydrogen-Powered Surveillance Airships",
+        "link": "https://fuelcellsworks.com/2026/04/14/clean-energy/kelluu-raises-15m-to-develop-autonomous-hydrogen-powered-surveillance-airships",
+        "pubDate": "Tue, 14 Apr 2026 15:32:59 GMT",
         "description": "",
-        "title_cn": "通过同时控制晶格畸变和氧空位来提高水电解催化剂的性能！"
+        "title_cn": "Kelluu筹集了1500万欧元用于开发自主氢动力监视飞艇"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -476,41 +476,17 @@
         "description": "国家能源局：“十五五”期间将推进氢能试点，大力培育未来产业 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNG5ZS1A5cWN1YloyNGd6T0hHVmJjVGp3ekx2a2xDanE3aWV1akp1RzNiZnZqMnlDRDRVbXhUcjg3aHFVZF9VNk96clhrbERaTXBCR3hn?oc=5",
+        "pubDate": "Wed, 25 Mar 2026 07:00:00 GMT",
+        "description": "刚刚！国家能源局：氢能和绿色燃料纳入2026年能源行业标准立项重点方向 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
-        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWFlmRGtvMlZYbWR1dHlGODZldVFhNklLblo0TE1HT3U4eThOdE9vT0lyNWVIa2dxeEROXzZjcjAwSDM5SC1CU3BxTVY2Uk5zeXZxS19oOFJNa3ZsNkV0Tjc0bl81Sk10?oc=5",
-        "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
-        "description": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% &nbsp;&nbsp; 国际新能源网"
-      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
@@ -524,10 +500,34 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
+        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
+        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
+      },
+      {
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-14 15:09 UTC"
+    "updated": "2026-04-14 22:39 UTC"
   }
 }
