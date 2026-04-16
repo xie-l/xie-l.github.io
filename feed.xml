@@ -5,7 +5,7 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Apr 2026 02:03:19 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:44:39 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
@@ -13,20 +13,28 @@
       <link>https://xie-l.github.io/</link>
     </image>
     <item>
+      <title>注意每月 25 日收集本月工作进展及下周规划。</title>
+      <link>https://xie-l.github.io/blog/thoughts/2026-04-16（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/thoughts/2026-04-16（202604）.html</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
+      <category>thoughts</category>
+      <description><![CDATA[注意每月 25 日收集本月工作进展及下周规划。 记录]]></description>
+    </item>
+    <item>
+      <title>index-optimized</title>
+      <link>https://xie-l.github.io/blog/thoughts/index-optimized.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/thoughts/index-optimized.html</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
+      <category>thoughts</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
       <title>今日小结（2026.04.14）</title>
       <link>https://xie-l.github.io/blog/life/今日小结（2026.04.14）（202604）.html</link>
       <guid isPermaLink="true">https://xie-l.github.io/blog/life/今日小结（2026.04.14）（202604）.html</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
       <description><![CDATA[1. 参照博士论文意见，进行初步浏览，对简单问题进行回复修改。 2.剩余复杂问题，主要包括参考文献的选取、具体博士论文相应位置的添加内容、还有各个意见回复的重新撰写（学术严谨性、表达通俗度）。 3.查阅文件，参照要点内容进行一一回复解决。]]></description>
-    </item>
-    <item>
-      <title>index-optimized</title>
-      <link>https://xie-l.github.io/blog/thoughts/index-optimized.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/thoughts/index-optimized.html</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 -0000</pubDate>
-      <category>thoughts</category>
-      <description><![CDATA[]]></description>
     </item>
     <item>
       <title>自己给别人交差，很重要的一点是，要有依据可循，否…</title>
@@ -163,14 +171,6 @@
       <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
       <category>life</category>
       <description><![CDATA[1.完成优秀团员答辩 PPT 制作及视频录制； 2.完成 2026 年度工作要点征求意见发布； 3.继续完善个人主页，并随时记录打开个人主页，用好个人主页； 4.思考 Obsidian、印象笔记、Verse 三种不同软件分工； 5.梳理博士论文、小论文等内容，梳理毕业图像采集时间； 6.周三，pub…]]></description>
-    </item>
-    <item>
-      <title>十个顶级 Claude Code Skills，装上就不想卸</title>
-      <link>https://xie-l.github.io/blog/life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/十个顶级 Claude Code Skills，装上就不想卸（202604）.html</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
-      <category>life</category>
-      <description><![CDATA[用 Claude Code 大半年了，Skills 和 Plugin 装了几十个，删了一半，留下来的都是真正改变了我工作方式的。这篇就挑十个我用得最多、也觉得最值得推荐的，每个都附安装命令，拿去直接用。 先简单说下 Skill 和 Plugin 的区别。Skill 是一个包含 SKILL.md 的文…]]></description>
     </item>
   </channel>
 </rss>
