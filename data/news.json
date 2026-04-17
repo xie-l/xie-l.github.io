@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: Penguins pick up PFAS pollution",
+        "link": "https://www.nature.com/articles/d41586-026-01263-8",
+        "pubDate": "2026-04-17",
+        "description": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01263-8 Nature staff discuss some of the week's top science news.",
+        "title_cn": "简报聊天：企鹅发现PFAS污染"
+      },
+      {
+        "title": "New year, old me",
+        "link": "https://www.nature.com/articles/d41586-026-01067-w",
+        "pubDate": "2026-04-17",
+        "description": "Nature, Published online: 17 April 2026; doi:10.1038/d41586-026-01067-w A welcome change.",
+        "title_cn": "新年，老我"
+      },
+      {
         "title": "Venus’s impenetrable haze could be made of cosmic dust",
         "link": "https://www.nature.com/articles/d41586-026-01212-5",
         "pubDate": "2026-04-16",
@@ -37,32 +51,54 @@
         "title_cn": "朝九晚五的博士学位：仅仅是神话还是可实现的目标？"
       },
       {
-        "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest",
+        "title": "Quantum computers take on health care: light-sensitive cancer drugs win US$2-million contest",
         "link": "https://www.nature.com/articles/d41586-026-01236-x",
         "pubDate": "2026-04-16",
-        "description": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01236-x Quantum machines are making inroads into biology, but have no ‘advantage’ over classical machines yet.",
+        "description": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01236-x Quantum machines are making inroads into biology but have no ‘advantage’ over classical machines yet.",
         "title_cn": "量子计算机承担医疗保健：光敏抗癌药物赢得200万美元的竞赛"
-      },
-      {
-        "title": "Revealed: how male and female brain cells differ in gene activity",
-        "link": "https://www.nature.com/articles/d41586-026-01227-y",
-        "pubDate": "2026-04-16",
-        "description": "Nature, Published online: 16 April 2026; doi:10.1038/d41586-026-01227-y Variations in gene expression could help to explain why brain-disease risks differ according to sex.",
-        "title_cn": "揭示：男性和女性脑细胞在基因活性方面的差异"
-      },
-      {
-        "title": "Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
-        "link": "https://www.nature.com/articles/s41586-026-10513-8",
-        "pubDate": "2026-04-15",
-        "description": "Nature, Published online: 15 April 2026; doi:10.1038/s41586-026-10513-8 Cytoplasmic lattices are megadalton storage complexes in mammalian oocytes",
-        "title_cn": "细胞质网格是哺乳动物卵母细胞中的巨道尔顿储存复合物"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家",
+        "link": "https://36kr.com/p/3770688595214857?f=rss",
+        "pubDate": "2026-04-17 19:23:40  +0800",
+        "description": "36 氪从多个独立信源获悉，4月17日，小米集团通过内部邮件宣布：胡峥楠出任小米集团副总裁、汽车部 CTO；宋钢出任小米集团汽车部副总裁、参谋长。这是小米汽车自 2021 年宣布成立以来首次设立 CTO 岗位。 据 36 氪了解，两位新任高管在汽车行业均有超过二十年的从业积累，履历横跨传统车企与新能源赛道。 截至目前，小米汽车研发人员接近万人。一大批各有所长的汽车行业专家的加入，小米汽车正加快形成覆盖研发、设计、制造、安全、供应链等全链条人才体系。 顶尖人才也渴望更大舞台 胡峥楠加入小米，是一个经过长期观察与验证的双向选择。 胡峥楠 1997 年进入汽车行业，至今已有近三十年从业积累，是中国汽"
+      },
+      {
+        "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
+        "link": "https://36kr.com/p/3770819743728131?f=rss",
+        "pubDate": "2026-04-17 19:17:58  +0800",
+        "description": "文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。 到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。 尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。 而此前在2025年，在全球AI浪潮下，荣耀已发起了一场转型，从一"
+      },
+      {
+        "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
+        "link": "https://36kr.com/p/3770787623404293?f=rss",
+        "pubDate": "2026-04-17 19:02:56  +0800",
+        "description": "文｜王欣逸 编辑｜苏建勋 龙虾热还在继续。 4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。 即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。 不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。 据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研龙虾YOYO CLAW，荣耀MagicBook 14 | 16 2026款售价5949.15元起。 作为一家终端厂商，荣耀一直在AI PC有所布局。 2026年"
+      },
+      {
+        "title": "求购长征火箭老股份额；求购多家机器人公司老股份额｜资情留言板第182期",
+        "link": "https://36kr.com/p/3770718127964928?f=rss",
+        "pubDate": "2026-04-17 17:34:38  +0800",
+        "description": "资产交易市场，信息瞬息万变，消息真假难辨，即使买卖双方花费大量的时间、精力，推动成交往往困难重重。为了能够帮助买卖双方更快速链接市场信息和潜在交易对手，避免不必要的投入与浪费，我们特地打造了这样一档栏目。 本文是这个栏目的第182期。如果你对本文提到的相关的交易线索感兴趣，希望接触这些潜在的交易对手，或者如果你手中直接握有希望交易的资金或者资产，欢迎与我们联系。（邮箱：zcjy@36kr.com）&nbsp; 一、本月新增 1、求购长征火箭老股份额（预期估值面议） 交易价格：预期估值面议 资产规模：约5000万-1亿人民币 交易方式：直接老股交易，可以接受进入结构 联系方式：zcjy@36kr"
+      },
+      {
+        "title": "「日清」换高周转，钱大妈筑牢生鲜护城河",
+        "link": "https://36kr.com/p/3770699297800707?f=rss",
+        "pubDate": "2026-04-17 17:19:53  +0800",
+        "description": "零售业的风向，正在从线上狂奔转向线下深耕。 从沃尔玛试水社区店、东方甄选宣布开设实体店，到盒马、七鲜、小象持续加码线下门店，再到春节期间线下零售额增速一举反超线上，实体门店的价值正在被全面重估。 这背后是底层商业逻辑的回归。一方面，完善的物流基建已逐渐缩窄线上线下的价格鸿沟；另一方面，在追求质价比的同时，当下的消费者愈发注重体验式消费。 聚焦到生鲜行业，这种转变尤为显著。一度被视为颠覆者的纯线上生鲜电商，在经历高速扩张后，不少正陷入高昂履约成本与盈利艰难的现实泥潭。反观扎根社区的线下生鲜店，凭借无可替代的临场体验与健康的盈利模型，重获青睐。 而在这条价值回归之路上，早已深耕社区多年的钱大妈，无"
+      },
+      {
+        "title": "科氪 | 享刻智能：不追人形机器人，深耕餐饮场景做具身智能落地派",
+        "link": "https://36kr.com/p/3770651778761481?f=rss",
+        "pubDate": "2026-04-17 16:25:30  +0800",
+        "description": "36氪于日前与享刻智能创始人陈震进行了一次深入的沟通。在多数具身智能企业仍聚焦实验室打磨通用技术、扎堆布局人形机器人赛道的当下，成立仅3年的享刻智能走出了一条差异化发展路径，以场景落地为核心，推动具身智能技术的商业化落地。 享刻智能创始人-陈震 2026年4月14日，享刻智能技术（北京）有限公司正式宣布完成1.5亿元A轮融资，本轮融资由九号公司战略领投，长沙东方私募基金、江苏国晟资本等多家产业机构跟投。截至目前，公司累计融资规模已超2.5亿元。借助本次融资所获的资本与产业资源支持，这家聚焦餐饮酒店场景的具身智能企业，正加速推进战略升级，从“厨房创新”向“全场景智能”延伸，在万亿级新科技消费赛道"
+      },
       {
         "title": "玩腻了AI的年轻人，爱上桔子酒店的「手搓」生活？",
         "link": "https://36kr.com/p/3770578424676866?f=rss",
@@ -74,49 +110,27 @@
         "link": "https://36kr.com/p/3770363954954755?f=rss",
         "pubDate": "2026-04-17 11:33:56  +0800",
         "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，国内全自研GPGPU创新企业「北京行云集成电路有限公司」（以下简称“行云”）宣布连续完成Pre-A及Pre-A+多轮融资，融资金额超4亿元人民币。五源资本、赛富投资基金、春华资本联合领投，以及北京、江苏等地方国资、佰维存储（688525）、金沙江联合带动知名GPU企业创始人家办、创维资本等产业资本跟投。云岫资本连续多轮服务并担任下一轮独家融资财务顾问。 北京行云集成电路有限公司成立于2023年8月，专注针对大模型的新一代推理芯片，致力于使用非3D DRAM架构打造超大显存规格、CUDA兼容的全自研GPGPU产"
-      },
-      {
-        "title": "最前线｜大疆发布 Pocket 4 并预告双摄版本，起售价下调500元",
-        "link": "https://36kr.com/p/3769604011885316?f=rss",
-        "pubDate": "2026-04-17 09:00:53  +0800",
-        "description": "文｜张子怡 编辑｜袁斯来 4月16日，大疆正式发布全新一英寸口袋云台相机Osmo Pocket 4。 作为大疆影像产品线中的现象级单品，本代产品在维持便携形态的基础上，通过提升影像规格并降低售价，以应对日益激烈的短视频硬件市场竞争。 影像性能是此次升级的核心。Pocket 4搭载了全新一英寸CMOS，动态范围提升至14级，并支持10-bit D-Log专业色彩模式。 最显著的性能跨越体现在高帧率拍摄上，设备支持4K/240fps慢动作录制，这一指标已媲美万元级专业影像设备。针对人像拍摄这一核心场景，Pocket 4优化了肤色调校算法，并新增内置美肤滤镜以及支持三级色温调节的外置补光灯配件。 此"
-      },
-      {
-        "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
-        "link": "https://36kr.com/p/3770155029398018?f=rss",
-        "pubDate": "2026-04-17 08:02:44  +0800",
-        "description": "今日热点导览 丝芭传媒：创始人王子杰去世，享年63岁 国家统计局：日均词元调用量突破140万亿，较上年末增长40% 京东发布机器人产业服务全景图 为加速重塑Siri，苹果安排近200名工程师培训AI编程 特朗普签发多项输油管道许可，以促进美加之间的石油运输 TOP3大新闻 全季大连某酒店账号公开多名客人特殊订单备注，华住集团客服回应 近日，一则题为“全季客人备注大赏”的帖文在社交平台引发争议。涉事账号“全季大连xx酒店”将多名客人的特殊订单备注公开发布，配文称“每天被客人备注笑到捶桌”“前台已笑晕在系统里”。有网友发帖表示：“一个酒店官方账号，私自将客人订单备注发到网上，评论区引起网友无谓的猜"
-      },
-      {
-        "title": "智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线",
-        "link": "https://36kr.com/p/3769501816439555?f=rss",
-        "pubDate": "2026-04-16 22:13:14  +0800",
-        "description": "2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。 4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。 “GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只"
-      },
-      {
-        "title": "氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型",
-        "link": "https://36kr.com/p/3769360179298818?f=rss",
-        "pubDate": "2026-04-16 18:55:48  +0800",
-        "description": "大公司： 亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放 36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。 京东发布机器人产业服务全景图 36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 200家品牌，目标2026年销售破百亿；依托超级供应链，建全球最大具身数据采集中心、京东机器人售后维修服务3年覆盖50余城；基于JoyAI大模型加速开放JoyI"
-      },
-      {
-        "title": "新加坡的AI征途：孕育下一个“硅谷”",
-        "link": "https://36kr.com/p/3768997634130434?f=rss",
-        "pubDate": "2026-04-16 14:59:53  +0800",
-        "description": "“Punggol”，是一个位于新加坡东北部的新区，它有一个可爱的中文名：“榜鹅”，读起来，确实像某种动物的叫声。 Punggol其实是马来语，翻译过来，是指用木棍敲打果树，把果子打下来。 而现实中的榜鹅镇，相当长一段时间，都被大片大片森林覆盖。当新加坡乌节路的写字楼一栋栋拔地而起时，榜鹅还是一片蛮荒之地，即使现在，新加坡本地人告诉我，“有人在丛林中看到过狮子”。 不过，如今的榜鹅，有的不仅是密林与野兽的传说，设在此地的榜鹅数码园区(Punggol Digital District, PDD) 是新加坡新晋的科技创新聚集地。 就在4月初，中国自动驾驶科技公司文远知行与Grab宣布，在新加坡榜鹅地"
-      },
-      {
-        "title": "找100个被资本选中的答案｜2026“最受关注”企业名册评选启动",
-        "link": "https://36kr.com/p/3768967684096521?f=rss",
-        "pubDate": "2026-04-16 14:26:14  +0800",
-        "description": "出品｜ 36氪创投研究院 文｜ 罗婧、杜梦 当资本褪去浮躁、回归理性，当概念让位于落地、实效成为行业硬通货，当AI深度重构产业格局、硬科技筑牢行业发展底色， 2026年的一级市场，已然迈入真实价值主导的全新创投时代。 又一波浪潮袭来，谁在被看见，谁在被押注？ 市场逻辑已然彻底迭代：从盲目追逐风口，转向审慎布局长期；从为资本故事买单，转向为技术壁垒、商业增长、成熟商业化路径下注。行业用最直白的规则印证：能赢得市场认可、能穿越经济周期的，从来不是虚无的资本泡沫，而是扎实的核心技术、清晰的商业闭环、可验证的稳健成长。 从技术趋势看，AI早已跳出实验室范畴，深度融入产业底座，大模型、智能体、具身智能、"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "2,926 New Public EV Chargers To Be Installed In Belgium",
+        "link": "https://cleantechnica.com/2026/04/17/2926-new-public-ev-chargers-to-be-installed-in-belgium/",
+        "pubDate": "Fri, 17 Apr 2026 13:43:09 +0000",
+        "description": "Sometimes story pitches are sent to my personal email address, and some are not at all appropriate. Recently, someone sent some nonsensical information about how the transition to electric vehicles from gas and diesel vehicles will take 100 years or more because installing public EV chargers takes t",
+        "title_cn": "比利时将新安装2926个公共电动汽车充电器"
+      },
+      {
+        "title": "Rivian EV Batteries To Be Used For Stationary Energy Storage At Rivian Factory",
+        "link": "https://cleantechnica.com/2026/04/17/rivian-ev-batteries-to-be-used-for-stationary-energy-storage-at-rivian-factory/",
+        "pubDate": "Fri, 17 Apr 2026 13:36:26 +0000",
+        "description": "One of the benefits electric vehicles have that gas and diesel vehicles do not is that EV battery packs can be used again for a second life as stationary energy storage. It’s been 10 years since I wrote this article, and since then EV battery packs have been repurposed for ... [continued] The post R",
+        "title_cn": "Rivian电动汽车电池将用于Rivian工厂的固定储能"
+      },
       {
         "title": "Waymo Takes On London",
         "link": "https://cleantechnica.com/2026/04/16/waymo-takes-on-london/",
@@ -158,27 +172,27 @@
         "pubDate": "Fri, 17 Apr 2026 02:49:02 +0000",
         "description": "For all the damage US President Donald Trump has done to the domestic wind and solar industries, they just keep persisting. The latest example is the massive, 550-mile, 3-gigawatt SunZia SouthWest Transmission Project linking renewable energy assets in sunny (and windy) New Mexico with Arizona and C",
         "title_cn": "更多证据表明特朗普的可再生能源战争正在失败"
-      },
-      {
-        "title": "U.S. Senate Disapproves Mining Ban in Boundary Waters",
-        "link": "https://cleantechnica.com/2026/04/16/u-s-senate-disapproves-mining-ban-in-boundary-waters/",
-        "pubDate": "Fri, 17 Apr 2026 02:36:09 +0000",
-        "description": "WASHINGTON, D.C. — The U.S. Senate voted to approve a controversial proposal, backed by the Trump Administration, to allow toxic sulfide mining in the watershed of one of the country’s most visited wilderness areas. In a 50-49 vote, Senate Republicans utilized a baseless interpretation of the Congre",
-        "title_cn": "美国参议院否决边界水域采矿禁令"
-      },
-      {
-        "title": "Health, Environmental Groups Ask EPA to Reconsider Flawed, Unlawful Decision to Repeal the Endangerment Finding",
-        "link": "https://cleantechnica.com/2026/04/16/health-environmental-groups-ask-epa-to-reconsider-flawed-unlawful-decision-to-repeal-the-endangerment-finding/",
-        "pubDate": "Fri, 17 Apr 2026 02:15:27 +0000",
-        "description": "Petition Identifies Multiple, Serious Problems with New Information and Analysis in Final Rule Washington, DC — Sixteen health and environmental groups have filed a petition with the U.S. Environmental Protection Agency outlining severe flaws in its rule to repeal the Endangerment Finding and motor ",
-        "title_cn": "健康、环保团体要求美国环保署重新考虑有缺陷的非法决定，以撤销濒危调查结果"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Reactive CO 2 capture via controlled amine speciation in non-aqueous electrolytes",
+        "link": "https://www.nature.com/articles/s41560-026-02035-4",
+        "pubDate": "2026-04-17",
+        "description": "Nature Energy, Published online: 17 April 2026; doi:10.1038/s41560-026-02035-4 The integration of carbon capture and electrochemical conversion is an emerging strategy to valorize CO2. Here the authors demonstrate that altering CO2–amine speciation in aprotic media enhances CO2 uptake and suppresses",
+        "title_cn": "通过控制非水电解质中的胺形态进行反应性CO 2捕获"
+      },
+      {
+        "title": "A scalable, biopolymer-based microenvironment for electrochemical CO 2 conversion to multicarbon products with current densities over 2 A cm − 2",
+        "link": "https://www.nature.com/articles/s41560-026-02040-7",
+        "pubDate": "2026-04-17",
+        "description": "Nature Energy, Published online: 17 April 2026; doi:10.1038/s41560-026-02040-7 Electrochemical CO2 reduction to multicarbon products is hindered by difficulties in microenvironment control at high current densities. Here the authors demonstrate that biopolymer coatings on electrocatalysts enhance lo",
+        "title_cn": "一种可扩展的基于生物聚合物的微环境，用于将电化学CO 2转化为电流密度超过2 A cm − 2的多碳产品"
+      },
       {
         "title": "Grid access and electricity for refugees",
         "link": "https://www.nature.com/articles/s41560-026-02033-6",
@@ -220,24 +234,10 @@
         "pubDate": "2026-04-13",
         "description": "Nature Energy, Published online: 13 April 2026; doi:10.1038/s41560-026-02039-0 Fabricating coloured radiative cooling coatings that are easy to produce and do not compromise cooling performance is challenging. Ying Liu et al. develop a one-step fabrication method that yields coloured ethyl cellulose",
         "title_cn": "一步法处理的双层乙基纤维素，用于全彩亚环境日间辐射冷却"
-      },
-      {
-        "title": "Calendar ageing of micro-sized silicon",
-        "link": "https://www.nature.com/articles/s41560-026-02028-3",
-        "pubDate": "2026-04-08",
-        "description": "Nature Energy, Published online: 08 April 2026; doi:10.1038/s41560-026-02028-3 Silicon anodes promise far higher capacity than graphite but suffer from rapid decay at rest. Researchers evaluate cycling stability and calendar life of micron-sized silicon anodes after tuning electrolytes to form a LiF",
-        "title_cn": "微尺寸硅的日历老化"
-      },
-      {
-        "title": "Addressing the challenge of carbon dioxide in anion-exchange membrane fuel cells",
-        "link": "https://www.nature.com/articles/s41560-026-01999-7",
-        "pubDate": "2026-04-08",
-        "description": "Nature Energy, Published online: 08 April 2026; doi:10.1038/s41560-026-01999-7 Anion-exchange membrane fuel cells (AEMFCs) face performance challenges due to CO2 in ambient air, which forms carbonate ions that reduce ionic conductivity. In this Perspective, the authors explore CO2 management strateg",
-        "title_cn": "应对阴离子交换膜燃料电池中的二氧化碳挑战"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,28 +248,22 @@
         "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
-        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
-      },
-      {
         "title": "陕西“十五五”规划：推进陕蒙30GW新能源制绿氢及输氢管道项目前期工作 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYMnFoZWowek94U2tzbDR0VzdGUmlJSko1RXdHdlFSbmY2SW90Rm02WVdTbFhFVTQ0TjlxWFB4TDFnZjZwQmFLZVlyR2wwcXlDRklibVBn?oc=5",
         "pubDate": "Wed, 15 Apr 2026 01:15:08 GMT",
         "description": "陕西“十五五”规划：推进陕蒙30GW新能源制绿氢及输氢管道项目前期工作 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZnU1NmxZN0RSeVNSSkRJbkMySHVNN1YyT0I1d1FrYVo5NkFiZTdGaW5rZ2VCcUZqTVJoTlc1ckVNalNVUHJZQXNVR3EwcFhET3lDYTRDUnIzQjh3dHlOV2ZuYkZYYkVMT2tNcS1WYjE?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 09:44:59 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
         "title": "“氢”装上阵打开产业新空间 - 经济日报",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RSXdtT2lMcGNpU1ZoMERZVDQwMkxCNTVSZ0sxY0VGU19GazJLLWlMUWg3NExWSThhZHg3QnlYb2xnR0JMSXFNVjRfME1PZHByNHVmRUNmZGIxZUQyejBvMG1kNzkxa3dud013?oc=5",
         "pubDate": "Wed, 08 Apr 2026 02:09:48 GMT",
         "description": "“氢”装上阵打开产业新空间 &nbsp;&nbsp; 经济日报"
+      },
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZnU1NmxZN0RSeVNSSkRJbkMySHVNN1YyT0I1d1FrYVo5NkFiZTdGaW5rZ2VCcUZqTVJoTlc1ckVNalNVUHJZQXNVR3EwcFhET3lDYTRDUnIzQjh3dHlOV2ZuYkZYYkVMT2tNcS1WYjE?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 09:44:59 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -284,6 +278,12 @@
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
       },
       {
+        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
+        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
+        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
@@ -291,10 +291,17 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "Hydrogen and Ammonia as a Structural Response to the Hormuz Shock. Warsaw, Budapest, and Tokyo Sign Two Agreements on the Same Day",
+        "link": "https://fuelcellsworks.com/2026/04/16/clean-energy/hydrogen-and-ammonia-as-a-structural-response-to-the-hormuz-shock-warsaw-budapest-and-tokyo-sign-two-agreements-on-the-same-day",
+        "pubDate": "Thu, 16 Apr 2026 15:56:35 GMT",
+        "description": "",
+        "title_cn": "氢和氨作为对Hormuz冲击的结构反应。华沙、布达佩斯和东京当天签署两项协议"
+      },
       {
         "title": "Over 100 Hydrogen Projects Registered Across China in Q1",
         "link": "https://fuelcellsworks.com/2026/04/13/green-investment/over-100-hydrogen-projects-registered-across-china-in-q1",
@@ -343,17 +350,10 @@
         "pubDate": "Thu, 16 Apr 2026 14:20:57 GMT",
         "description": "",
         "title_cn": "中国开始建设50万吨风能-太阳能-氢能生物质绿色燃料项目"
-      },
-      {
-        "title": "Throwback Thursday Story: Toyota Pressing Ahead with Hydrogen Fuel Cell Plans",
-        "link": "https://fuelcellsworks.com/2026/04/16/green-technology/throwback-thursday-story-toyota-pressing-ahead-with-hydrogen-fuel-cell-plans",
-        "pubDate": "Thu, 16 Apr 2026 14:15:17 GMT",
-        "description": "",
-        "title_cn": "回顾周四的故事：丰田推出氢燃料电池计划"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "papers": {
     "items": [
@@ -429,16 +429,10 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "重磅！国家能源局：大胆推进氢能交易、绿色认证等机制创新！ - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sd1dySDhPU0NUZ3hsQU1wbzA3a1NSRFZuNlNOb19Qc0thUUhtTjhETjFQYzJJMGp1UWpnVmhKTmxZT3NzaXIxWk44dEkzZlNFemxlYQ?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 01:42:17 GMT",
-        "description": "重磅！国家能源局：大胆推进氢能交易、绿色认证等机制创新！ &nbsp;&nbsp; 世纪新能源网"
-      },
       {
         "title": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHUndhTUhYNEdoQ0l3MDJFVWFJVWxWS1pPeFBxYXVBTzEySU5iVGdUQVhWSE54d0dFQ0hNSTROQTVrSnlSYTQ4Yg?oc=5",
@@ -452,22 +446,16 @@
         "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
       },
       {
-        "title": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 - 同花顺",
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 加快培育氢能未来产业 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxORGlSWlZTYnRBZTRNY0JlNTdKbjNWN3UxWG5fdzNVanRncExYNUNXU3J1bTFLUktrOEZDNXM5ck9hMXRuQnFlUVlQNUxmcTdrSGxvcHZtX0NGVUpwdkVEN25jMnprTVFYWkJ0NG1LSjJfZlQ1OGZWWDJocUtoQU1QWFB4aWg5aEVPXzlCNkZwRDlZRjc0SzhWdm5QcGhidjB3cUNwYnUtUFZzM2phLXhBTV9MQVhmQUh4enVyZU9RaXduZ0JJdVpiVzcxb2tsRHZHQ1NmbURSdU52ekx3cVVjY0s0bG0zSldBbVBUby1uMnJQSmVyUVEybVhiQUNfN0pZVldPczdWVm1UeEI1MlpEM1pfN2ZPanFHRUloTnFzNXhoU0hOaTBNRXlsd2JOSjFOcktoNW5nZ2poaFU?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 21:30:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 加快培育氢能未来产业 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 - 同花顺财经",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tVGNmZUhUYkNBX0ZsV1llaGI1NzVVaVc4SDQxREFhQlE5bGxqaHJOTnBSWVVKb1VWaVZGOFlFYUlvQlNaQ3NJeXNvWEF6VzF6ZldORUFtZThYUHBCaWc?oc=5",
         "pubDate": "Thu, 16 Apr 2026 19:58:41 GMT",
-        "description": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 &nbsp;&nbsp; 同花顺"
-      },
-      {
-        "title": "反转已至 “宁王”大涨带动电池板块涨停潮 | 权益市场日报 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pRC13QS1pRTBJOEVfbFJJUFc0aVRxYmhNdzRuR1BHMlBNYzlQaW9CQjdtZGpvc3c0OHJ2QWZBc3JRLU5fRXBWdGV6VFdqWmNmWUMzdVhQUnlfeGpISktxeHRYOXFUZw?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 01:01:15 GMT",
-        "description": "反转已至 “宁王”大涨带动电池板块涨停潮 | 权益市场日报 &nbsp;&nbsp; 东方财富"
-      },
-      {
-        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGcFNUTlJqcmdiRlpiUVJfSk1aX1pjd0s3a1UwajF5bk1kZUF6V0NHdFY3WU5YajU4cllVYzRYX0F0d0V2QXk3M2xIN2hpS2FjbXhNM09DcWtyVTRkY3hJV3czSlVEVFFTeXk3cGRud0dtWEpMcExLcQ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 08:54:00 GMT",
-        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 新浪财经"
+        "description": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 &nbsp;&nbsp; 同花顺财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -476,17 +464,35 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "重要部署！国家能源局“力推”氢能未来产业融资客提前布局这些票2026年04月16 - 财富号",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wNGFqaHpZZGcxVlBUYUFUQ0pkRWdZR2dkcXV3Y21iczROR2JNcE9wa3dfM09SYmI3VVJRelFFSzNRNDV6SmFtOERvYlZQSHlOTkJvNS1jbENXZEwydWh1V1czNWtvTDNzNFhB?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 01:01:00 GMT",
+        "description": "重要部署！国家能源局“力推”氢能未来产业融资客提前布局这些票2026年04月16 &nbsp;&nbsp; 财富号"
+      },
+      {
         "title": "和众汇富研究手记：国家能源局发力氢能产业加速突围_产业资讯 - 中金在线",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5taG1Sa2FzeDV1dHZ0ZHpuZFA1RW93czlia083X0dVcDk0QkdMQ3dXZUhsOVRTdkUtZkR6ZXU3UjZCNFFWZWNiVm44eTdQaVR1VDhiaXdOeFlvNVlxNHpnNVZEUE02X18yMEhoOW42bC0?oc=5",
         "pubDate": "Thu, 16 Apr 2026 03:47:03 GMT",
         "description": "和众汇富研究手记：国家能源局发力氢能产业加速突围_产业资讯 &nbsp;&nbsp; 中金在线"
+      },
+      {
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JYTNJWU1BdlJFN0lhYWpNQ2FmVlJZa0k0c0VZNUpqWElzZGM0TXJoYkFabE51WFRyU01faUltdmVhendzUDRTZHZQako3a09vLUE?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 08:55:25 GMT",
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 01:08:13 GMT",
+        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
+      },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
@@ -498,12 +504,6 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
         "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
         "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWFlmRGtvMlZYbWR1dHlGODZldVFhNklLblo0TE1HT3U4eThOdE9vT0lyNWVIa2dxeEROXzZjcjAwSDM5SC1CU3BxTVY2Uk5zeXZxS19oOFJNa3ZsNkV0Tjc0bl81Sk10?oc=5",
-        "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
-        "description": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -518,6 +518,12 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
+        "title": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWFlmRGtvMlZYbWR1dHlGODZldVFhNklLblo0TE1HT3U4eThOdE9vT0lyNWVIa2dxeEROXzZjcjAwSDM5SC1CU3BxTVY2Uk5zeXZxS19oOFJNa3ZsNkV0Tjc0bl81Sk10?oc=5",
+        "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+        "description": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% &nbsp;&nbsp; 国际新能源网"
+      },
+      {
         "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
         "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lVU1ZY0k2WW8wZ2w2X2MtSlh1dnhfWGYxNnFUcTJ2VHB6bElFMy1PanpXT2tucVJiQlNRaUoxOHBSVDI5VkJiUXJHbjdiX3RIbWlOMWtTT243TmpyenJmamFaNF9HSGdNR0xHNnBpWk1LQQ?oc=5",
         "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
         "description": "全国首个城市绿证绿电碳业务服务中心在杭成立，能给我们带来什么 &nbsp;&nbsp; 浙江省经济信息中心"
-      },
-      {
-        "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
-        "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
-        "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-17 08:24 UTC"
+    "updated": "2026-04-17 14:50 UTC"
   }
 }
