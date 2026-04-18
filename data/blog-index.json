@@ -1,6 +1,24 @@
 {
   "posts": [
     {
+      "title": "今日小结（2026.04.15-17）",
+      "date": "2026-04-18",
+      "category": "life",
+      "tags": [],
+      "summary": "1. 继续推进博士论文意见回复及相应修改，过程中遇到些棘手问题，需要费些功夫，让自己速度慢了下来。 2.阅读《凡人修仙传》；",
+      "word_count": 49,
+      "path": "blog/life/今日小结（2026.04.15-17）（202604）.html"
+    },
+    {
+      "title": "index-optimized",
+      "date": "2026-04-18",
+      "category": "thoughts",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/thoughts/index-optimized.html"
+    },
+    {
       "title": "注意每月 25 日收集本月工作进展及下周规划。",
       "date": "2026-04-16",
       "category": "thoughts",
@@ -10,15 +28,6 @@
       "summary": "注意每月 25 日收集本月工作进展及下周规划。 记录",
       "word_count": 20,
       "path": "blog/thoughts/2026-04-16（202604）.html"
-    },
-    {
-      "title": "index-optimized",
-      "date": "2026-04-16",
-      "category": "thoughts",
-      "tags": [],
-      "summary": "",
-      "word_count": 0,
-      "path": "blog/thoughts/index-optimized.html"
     },
     {
       "title": "今日小结（2026.04.14）",
@@ -725,5 +734,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-16 06:44 UTC"
+  "updated": "2026-04-18 04:58 UTC"
 }
