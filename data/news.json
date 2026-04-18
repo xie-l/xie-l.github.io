@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "tech_cn": {
     "items": [
@@ -85,7 +85,7 @@
         "title": "专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体",
         "link": "https://36kr.com/p/3770819743728131?f=rss",
         "pubDate": "2026-04-17 19:17:58  +0800",
-        "description": "文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。 到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。 尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。 而此前在2025年，在全球AI浪潮下，荣耀已发起了一场转型，从一"
+        "description": "文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。 到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。 尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。 而此前在2025年，在全球AI��潮下，荣耀已发起了一场转型，从"
       },
       {
         "title": "AI PC下半场，荣耀想让所有人先用上消费级龙虾",
@@ -113,10 +113,38 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Pope: “World is being ravaged by a handful of tyrants”",
+        "link": "https://cleantechnica.com/2026/04/17/the-pope-world-is-being-ravaged-by-a-handful-of-tyrants/",
+        "pubDate": "Sat, 18 Apr 2026 03:59:49 +0000",
+        "description": "It&#8217;s long been one of the most enigmatic things about this political era we&#8217;re in here in the United States. Well, since 2016 at least. How can someone who has such an immoral and sinful record get the votes of people who claim to vote based on Christian religious values ... [continued] ",
+        "title_cn": "教皇： “世界正被少数暴君蹂躏”"
+      },
+      {
+        "title": "BYD Shark 6 Is A Predator, Now More Than Ready To Eat The Philippine Pickup Market",
+        "link": "https://cleantechnica.com/2026/04/17/byd-shark-6-is-a-predator-now-more-than-ready-to-eat-the-philippine-pickup-market/",
+        "pubDate": "Sat, 18 Apr 2026 03:58:11 +0000",
+        "description": "This will be my first test drive report for CleanTechnica. Since I started off with that statement, let me say that I am nervous writing a test drive report for the US market, knowing how much knowledge and experience there is out there regarding EVs. I don’t even have one. ... [continued] The post ",
+        "title_cn": "比亚迪Shark 6是捕食者，现已准备好进入菲律宾皮卡市场"
+      },
+      {
+        "title": "U.S. Coal-Fired Generating Capacity Retired in 2025 Was the Least in 15 Years",
+        "link": "https://cleantechnica.com/2026/04/17/u-s-coal-fired-generating-capacity-retired-in-2025-was-the-least-in-15-years/",
+        "pubDate": "Sat, 18 Apr 2026 03:57:07 +0000",
+        "description": "During 2025, the U.S. electric power sector retired 2.6 gigawatts (GW) of coal-fired generating capacity at four power plants, the least since 2010. At the beginning of 2025, coal plant operators had planned to retire 8.5 GW of capacity; however, 4.8 GW of planned retirements were delayed to a futur",
+        "title_cn": "美国2025年退役的燃煤发电能力是15年来的最低水平"
+      },
+      {
+        "title": "Hydropower Generation Expected to Recover Despite Snow Drought in the West",
+        "link": "https://cleantechnica.com/2026/04/17/hydropower-generation-expected-to-recover-despite-snow-drought-in-the-west/",
+        "pubDate": "Sat, 18 Apr 2026 03:53:15 +0000",
+        "description": "In our April Short-Term Energy Outlook (STEO), we expect U.S. hydropower generation will increase by 5% in 2026 but remain 1.8% below the 10-year average following snow drought conditions in some states. Hydropower generation in 2025 increased to 245 billion kilowatthours (BkWh), about 4 BkWh more t",
+        "title_cn": "尽管西部出现降雪干旱，但水力发电有望恢复"
+      },
       {
         "title": "China Plans To Double Renewable Energy By 2035. That’s The Good News.",
         "link": "https://cleantechnica.com/2026/04/17/china-plans-to-double-renewable-energy-by-2035-thats-the-good-news/",
@@ -144,38 +172,10 @@
         "pubDate": "Fri, 17 Apr 2026 17:51:40 +0000",
         "description": "The useful way to understand U.S. wind energy in 2026 is to start with a contradiction. In physical terms, it remains one of the largest and most important wind markets in the world. In policy terms, it has become less stable and less predictable in a short period. The dichotomy ... [continued] The ",
         "title_cn": "美国风电市场在政策压力下不断发展"
-      },
-      {
-        "title": "BLUETTI Brings Its Portable Power Stations To Hawaii Electric Home Show, RE+ Mexico",
-        "link": "https://cleantechnica.com/2026/04/17/bluetti-portable-power-stations-to-hawaii-electric-home-show-re-mexico/",
-        "pubDate": "Fri, 17 Apr 2026 17:18:06 +0000",
-        "description": "If you actually head over to the BLUETTI website, there&#8217;s an enormous range of portable power products you can buy, for all sorts of needs and all sorts of people. One thing that hit me recently is how much these really do cut the use of polluting fossil fuels. In ... [continued] The post BLUE",
-        "title_cn": "BLUETTI将其便携式电站带到夏威夷电力家居展， RE +墨西哥"
-      },
-      {
-        "title": "Trump Makes The Case For SAF Stronger Than Ever Before",
-        "link": "https://cleantechnica.com/2026/04/17/trump-makes-the-case-for-saf-stronger-than-ever-before/",
-        "pubDate": "Fri, 17 Apr 2026 15:20:41 +0000",
-        "description": "A new demonstration facility in Iceland aims to validate a new, energy efficient process that slashes the cost of electrolysis-derived sustainable aviation fuel (SAF) by 70%. The post Trump Makes The Case For SAF Stronger Than Ever Before appeared first on CleanTechnica .",
-        "title_cn": "特朗普为苏丹武装部队辩护比以往任何时候都更强大"
-      },
-      {
-        "title": "PH–China Energy Partnership Flagged As Key To Accelerating Renewable Transition",
-        "link": "https://cleantechnica.com/2026/04/17/ph-china-energy-partnership-flagged-as-key-to-accelerating-renewable-transition/",
-        "pubDate": "Fri, 17 Apr 2026 15:14:13 +0000",
-        "description": "A newly released study by People of Asia for Climate Solutions (PACS) and New Energy Nexus (NEX) underscores the potential of deeper Philippines–China cooperation to speed up the country’s shift to renewable energy, while unlocking economic and technological gains for both sides. Titled “Bridging Op",
-        "title_cn": "PH-CHINA能源合作伙伴关系被标记为加速可再生能源转型的关键"
-      },
-      {
-        "title": "Surprise! New York Scores Another Offshore Wind Victory",
-        "link": "https://cleantechnica.com/2026/04/17/surprise-new-york-scores-another-offshore-wind-victory/",
-        "pubDate": "Fri, 17 Apr 2026 15:12:25 +0000",
-        "description": "In yet another symbol of defeat for Trump's war on offshore wind, the first turbine has been installed at the 924-megawatt Sunrise Wind project in New York. The post Surprise! New York Scores Another Offshore Wind Victory appeared first on CleanTechnica .",
-        "title_cn": "惊喜！纽约又一次获得海上风电胜利"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,28 +260,28 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "中国能建（算电协同+氢能投产） - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2tnQVI0eGEya0FteElNaG15cmRYbkp3T1JYNDA5V2o0d2U3dlV5TWZDOWVuTXlwSmROUXR0T3FuYU4yZGhUQzZGRDdKa3RNLV9LbEluR3cwRXF3dkgyTnVHaktOckcwQkFPX1VhaFpPOHlTTnEyT0FWY25Hd0djWG9GTDZobjdNNTI3TG14LWpBNUdBc1kzM2thV1A2QjEwNXFMY0o0aElaOUhzWUd3RVQ0SQ?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:02:08 GMT",
-        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
-        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
-      },
-      {
         "title": "浙江省经济信息中心 - 浙江省经济信息中心",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zdzlwbkE0aFZDbG5JcjZJbUVOcEdmamhPamFhZjhPdDk1ckJFUE8tZGNDYjBpRm91WGN5MV92YUNWSmlJSTZJT3R1RndjT3AycXNCTGI3Z0RlQTA5QXk1T3BGVnl5ZDY5dE1HRWRQYzV6dw?oc=5",
         "pubDate": "Wed, 08 Apr 2026 09:10:34 GMT",
         "description": "浙江省经济信息中心 &nbsp;&nbsp; 浙江省经济信息中心"
+      },
+      {
+        "title": "中国能建（算电协同+氢能投产） - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2tnQVI0eGEya0FteElNaG15cmRYbkp3T1JYNDA5V2o0d2U3dlV5TWZDOWVuTXlwSmROUXR0T3FuYU4yZGhUQzZGRDdKa3RNLV9LbEluR3cwRXF3dkgyTnVHaktOckcwQkFPX1VhaFpPOHlTTnEyT0FWY25Hd0djWG9GTDZobjdNNTI3TG14LWpBNUdBc1kzM2thV1A2QjEwNXFMY0o0aElaOUhzWUd3RVQ0SQ?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:02:08 GMT",
+        "description": "中国能建（算电协同+氢能投产） &nbsp;&nbsp; 东方财富"
+      },
+      {
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -291,17 +291,10 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "Arequipa Sets Its Sights on 5% of Global Green Hydrogen Demand",
-        "link": "https://fuelcellsworks.com/2026/04/16/h2/arequipa-sets-its-sights-on-5-percent-of-global-green-hydrogen-demand",
-        "pubDate": "Fri, 17 Apr 2026 16:02:55 GMT",
-        "description": "",
-        "title_cn": "阿雷基帕将目光投向全球5%的绿色氢需求"
-      },
       {
         "title": "FPH2 Expands California Renewable Hydrogen Supply Partnerships to Support Public Fleets, Data Infrastructure, and Energy Resilience",
         "link": "https://fuelcellsworks.com/2026/04/17/h2/fph2-expands-california-renewable-hydrogen-supply-partnerships-to-support-public-fleets-data-infrastructure-and-energy-resilience",
@@ -350,10 +343,17 @@
         "pubDate": "Fri, 17 Apr 2026 15:19:19 GMT",
         "description": "",
         "title_cn": "Teledyne Energy Systems通过现场制氢推进低碳工业基础设施"
+      },
+      {
+        "title": "Hydrogen Motorcycle Prototype Kawasaki Ninja H2 HySE Showcased at 24 Hours of Le Mans",
+        "link": "https://fuelcellsworks.com/2026/04/16/fuel-cells/hydrogen-motorcycle-prototype-kawasaki-ninja-h2-hyse-showcased-at-24-hours-of-le-mans",
+        "pubDate": "Fri, 17 Apr 2026 15:12:58 GMT",
+        "description": "",
+        "title_cn": "氢能摩托车原型川崎忍者H2 HySE亮相勒芒24小时耐力赛"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,10 +452,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 加快培育氢能未来产业 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGcFNUTlJqcmdiRlpiUVJfSk1aX1pjd0s3a1UwajF5bk1kZUF6V0NHdFY3WU5YajU4cllVYzRYX0F0d0V2QXk3M2xIN2hpS2FjbXhNM09DcWtyVTRkY3hJV3czSlVEVFFTeXk3cGRud0dtWEpMcExLcQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 08:54:00 GMT",
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 新浪网"
       },
       {
         "title": "重要部署！国家能源局“力推”氢能未来产业融资客提前布局这些票2026年04月16 - 财富号",
@@ -470,20 +470,20 @@
         "description": "和众汇富研究手记：国家能源局发力氢能产业加速突围_产业资讯 &nbsp;&nbsp; 中金在线"
       },
       {
-        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JYTNJWU1BdlJFN0lhYWpNQ2FmVlJZa0k0c0VZNUpqWElzZGM0TXJoYkFabE51WFRyU01faUltdmVhendzUDRTZHZQako3a09vLUE?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 08:55:25 GMT",
-        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 - 同花顺财经",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tVGNmZUhUYkNBX0ZsV1llaGI1NzVVaVc4SDQxREFhQlE5bGxqaHJOTnBSWVVKb1VWaVZGOFlFYUlvQlNaQ3NJeXNvWEF6VzF6ZldORUFtZThYUHBCaWc?oc=5",
         "pubDate": "Thu, 16 Apr 2026 19:58:41 GMT",
         "description": "中华工商时报_2026-04-17_四版_氢能产业驶入规模化发展快车道 &nbsp;&nbsp; 同花顺财经"
+      },
+      {
+        "title": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZcHROT3dmLXlNY1ZYX0ZiWno5TjFOVkwxM084eF9FQTZfb1BjR1lkVWhwVzVlMTh1dTM3Y2pHMlZRZzJvN21VSg?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 09:51:00 GMT",
+        "description": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” &nbsp;&nbsp; 财联社"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -492,6 +492,18 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
         "pubDate": "Fri, 17 Apr 2026 01:08:13 GMT",
         "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
+        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
+        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -506,37 +518,25 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "云南十五条措施促进绿电消纳 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Rnk2VWlTUENWc2RPYXU4WXVBMl9JTVRiY2U0T19nak1FV1Z0OGpHQW0xTFZtZjlSZk93WkQ4Zi1EbDMzYVZoSUhpLUF4NzBqaGtBREVpcHNtOWpVaUZZTE00d21MNnhH?oc=5",
-        "pubDate": "Mon, 02 Mar 2026 08:00:00 GMT",
-        "description": "云南十五条措施促进绿电消纳 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
-        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
-        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
-      },
-      {
-        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
-        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
+        "title": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNWFlmRGtvMlZYbWR1dHlGODZldVFhNklLblo0TE1HT3U4eThOdE9vT0lyNWVIa2dxeEROXzZjcjAwSDM5SC1CU3BxTVY2Uk5zeXZxS19oOFJNa3ZsNkV0Tjc0bl81Sk10?oc=5",
+        "pubDate": "Fri, 09 Jan 2026 08:00:00 GMT",
+        "description": "工信部、发改委、能源局等五部门：工业绿色微电网就近消纳比例不低于60% &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
         "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
         "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
+      },
+      {
+        "title": "郑栅洁主任出席中共中央新闻发布会 介绍和解读党的二十届四中全会精神并答记者问 - ndrc.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95RHJ0dFFaN29PejFGWHhqbHl1NFRLS0hZQVFUQnF2LThjVUM3YlJvMndPallUTVRRT0tqTmdBTkVDQVdwZm95dTJEcDloa3VnRkNLNkZmVXpyME1EMS15RXpVQlRveDNjZGFWamo1ZnlnTEJ1YUpjR3RtOUc?oc=5",
+        "pubDate": "Fri, 24 Oct 2025 07:00:00 GMT",
+        "description": "郑栅洁主任出席中共中央新闻发布会 介绍和解读党的二十届四中全会精神并答记者问 &nbsp;&nbsp; ndrc.gov.cn"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-18 04:27 UTC"
+    "updated": "2026-04-18 07:56 UTC"
   }
 }
