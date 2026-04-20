@@ -1,48 +1,12 @@
 {
-  "updated": "2026-04-13 05:47 UTC",
+  "updated": "2026-04-20 05:46 UTC",
   "source": "Semantic Scholar",
   "author": {
-    "name": "Liangliang Xie",
-    "paper_count": 5,
-    "citation_count": 79,
-    "h_index": 4
+    "name": "Liang Xie",
+    "paper_count": 0,
+    "citation_count": 0,
+    "h_index": 0
   },
-  "top_papers": [
-    {
-      "title": "A rapid rice blast detection and identification method based on crop disease spores' diffraction fingerprint texture.",
-      "year": 2020,
-      "citations": 32,
-      "venue": "The Journal of the Science of Food and Agriculture",
-      "doi": "10.1002/jsfa.10383"
-    },
-    {
-      "title": "A novel on‐chip solution enabling rapid analysis of melamine and chloramphenicol in milk by smartphones",
-      "year": 2019,
-      "citations": 26,
-      "venue": "Journal of food process engineering",
-      "doi": "10.1111/JFPE.12976"
-    },
-    {
-      "title": "Pesticide Residues Identification by Optical Spectrum in the Time-Sequence of Enzyme Inhibitors Performed on Microfluidic Paper-Based Analytical Devices (µPADs)",
-      "year": 2019,
-      "citations": 17,
-      "venue": "Molecules",
-      "doi": "10.3390/molecules24132428"
-    },
-    {
-      "title": "A New 3D Cultured Liver Chip and Real-Time Monitoring System Based on Microfluidic Technology",
-      "year": 2020,
-      "citations": 5,
-      "venue": "Micromachines",
-      "doi": "10.3390/mi11121118"
-    },
-    {
-      "title": "Compensation method of error caused from maladjustment of optical path based on microfluidic chip",
-      "year": 2018,
-      "citations": 2,
-      "venue": "Modern physics letters B",
-      "doi": "10.1142/S021798491840081X"
-    }
-  ],
+  "top_papers": [],
   "note": "数据来自 Semantic Scholar，每周自动更新。"
 }
