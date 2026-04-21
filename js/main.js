@@ -89,7 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
             if (targetSection) {
                 const offsetTop = targetSection.offsetTop - 80;
                 window.scrollTo({
-                    top: offsetTop,
                     behavior: 'smooth'
                 });
                 
@@ -153,7 +152,6 @@ document.addEventListener('DOMContentLoaded', function() {
         
         backToTopButton.addEventListener('click', function() {
             window.scrollTo({
-                top: 0,
                 behavior: 'smooth'
             });
         });
@@ -259,15 +257,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // 复制邮箱功能
     // ====================
     
-                    top: 20px;
-                    right: 20px;
-                    background: #10b981;
-                    color: white;
-                    padding: 12px 20px;
-                    border-radius: 8px;
-                    z-index: 9999;
-                    font-size: 14px;
-                    animation: fadeInUp 0.3s ease;
                 `;
                 document.body.appendChild(toast);
                 
@@ -291,15 +280,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 successToast.textContent = '消息发送成功！我会尽快回复您。';
                 successToast.style.cssText = `
                     position: fixed;
-                    top: 20px;
-                    right: 20px;
-                    background: #10b981;
-                    color: white;
-                    padding: 12px 20px;
-                    border-radius: 8px;
-                    z-index: 9999;
-                    font-size: 14px;
-                    animation: fadeInUp 0.3s ease;
                 `;
                 document.body.appendChild(successToast);
                 
