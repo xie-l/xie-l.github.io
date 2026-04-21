@@ -153,25 +153,6 @@ document.addEventListener('DOMContentLoaded', function() {
         rootMargin: '0px 0px -100px 0px'
     };
     
-    const skillObserver = new IntersectionObserver(function(entries) {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                const skillBars = entry.target.querySelectorAll('.skill-progress');
-                skillBars.forEach(bar => {
-                    const skillLevel = bar.getAttribute('data-skill');
-                    setTimeout(() => {
-                        bar.style.width = skillLevel + '%';
-                    }, 100);
-                });
-                skillObserver.unobserve(entry.target);
-            }
-        });
-    }, observerOptions);
-    
-    const skillsSection = document.querySelector('#skills');
-    if (skillsSection) {
-        skillObserver.observe(skillsSection);
-    }
     
     // ====================
     // 滚动时显示元素动画
