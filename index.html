@@ -71,10 +71,6 @@
             <div class="container">
                 <h1 class="banner-title">氢能驱动未来</h1>
                 <p class="banner-subtitle">碳基电催化 · 机器学习 · 能源转化</p>
-                <div class="banner-meta" style="display:none;">
-                    <span><i class="fas fa-graduation-cap"></i> 哈尔滨工业大学 · 工学博士</span>
-                    <span><i class="fas fa-building"></i> 国家能源集团 · 氢能管培生</span>
-                </div>
             </div>
         </div>
     </section>
@@ -289,43 +285,6 @@
                                         <div class="project-tech">
                                             <span class="tech-tag">制氢机制</span>
                                             <span class="tech-tag">机器学习</span>
-                                            <span class="tech-tag">催化剂筛选</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="project-item">
-                                    <div class="project-header">
-                                        <h3>低阶煤·OH可控氧化与电制H2O2原位协同机制</h3>
-                                        <span class="project-date">2022-2023</span>
-                                    </div>
-                                    <div class="project-body">
-                                        <p><strong>项目来源：</strong>国家自然科学基金面上项目（51776055）</p>
-                                        <div class="project-tech">
-                                            <span class="tech-tag">电化学</span>
-                                            <span class="tech-tag">DFT计算</span>
-                                            <span class="tech-tag">机制分析</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="project-item">
-                                    <div class="project-header">
-                                        <h3>O2电还原合成H2O2的跨尺度调控机制及方法</h3>
-                                        <span class="project-date">2021-2023</span>
-                                    </div>
-                                    <div class="project-body">
-                                        <p><strong>项目来源：</strong>城市水资源与水环境国家重点实验室开放课题（QG202229）</p>
-                                        <div class="project-tech">
-                                            <span class="tech-tag">电化学特性</span>
-                                            <span class="tech-tag">机制分析</span>
-                                            <span class="tech-tag">脉冲电解</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="project-item">
-                                    <div class="project-header">
-                                        <h3>高稳定低电耗盐湖苦咸水电解制氢关键技术及10kW系统研发</h3>
-                                        <span class="project-date">2026.1-2027.12</span>
-                                    </div>
                                     <div class="project-body">
                                         <p><strong>项目来源：</strong>中国大唐集团科技创新有限公司技术开发项目</p>
                                         <p><strong>[2]</strong> Y Ding, W Zhou, <u>L Xie</u>, S Chen, J Gao, F Sun, G Zhao, Y Qin. Pulsed electrocatalysis enables an efficient 2-electron oxygen reduction reaction for H2O2 production. <em>Journal of Materials Chemistry A</em>, 2021, 9(29): 15948–15954. (IF=10.7, 中科院二区, 他引81次)</p>
@@ -665,24 +624,6 @@
             const updEl = document.getElementById('wr-updated');
             if (updEl && d.updated) updEl.textContent = '更新于 ' + fmtBJ(d.updated) + '（北京时间）';
         } catch(e) { /* 静默失败 */ }
-    })();
-
-    // ========== 今日数感 / 每日五词 / 今日三问 ==========
-    // 从外部 JSON 数据池加载，使用 LCG 穷举循环（全部展示后才重复）
-    (function () {
-        // LCG 确定性洗牌
-        function lcgShuffle(items, seed) {
-            var arr = items.slice();
-            var s = ((seed ^ 0x1A2B3C4D) >>> 0);
-            for (var i = arr.length - 1; i > 0; i--) {
-                s = (Math.imul(1664525, s) + 1013904223) >>> 0;
-                var j = s % (i + 1);
-                var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
-            }
-            return arr;
-        }
-        // 穷举循环抽取：全部展示后才重复
-        function pickExhaustive(pool, count, utcDay, seedOffset) {
             var n = pool.length;
             if (!n) return [];
             var daysPerCycle = Math.ceil(n / count);
@@ -716,24 +657,6 @@
 
         // ── 今日数感 ──
         fetch('/data/pool-data.json?_v=1', {signal: fetchSignal(8000)})
-        .then(function(r){ return r.json(); })
-        .then(function(pool) {
-            var chosen = pickExhaustive(pool, 3, utcDay, 0x57A9C31F);
-            document.getElementById('ds-grid').innerHTML = chosen.map(function(d) {
-                var clr = DOMAIN_CLR_DS[d.domain] || 'var(--secondary-color)';
-                return '<div class="ds-card" style="border-top-color:'+clr+'">' +
-                    '<div class="ds-head">' +
-                        '<div class="ds-topic">'+(d.topic||d.topic)+'</div>' +
-                        '<span class="ds-domain-badge" style="color:'+clr+';background:'+clr+'18;border-color:'+clr+'30">'+(d.domain||'')+'</span>' +
-                    '</div>' +
-                    '<div class="ds-num-box"><div class="ds-num">'+(d.num||d.number||'')+'</div><div class="ds-num-label">'+(d.label||d.unit||'')+'</div></div>' +
-                    '<div><div class="ds-section-label">📊 参照对比</div><div class="ds-ctx">'+(d.ctx||d.context||'')+'</div></div>' +
-                    '<div class="ds-sense"><strong>💡 数感训练：</strong>'+(d.sense||d.insight||'')+'</div>' +
-                    '</div>';
-            }).join('');
-            var dsDate = document.getElementById('ds-date');
-            if (dsDate) dsDate.textContent = bjDateStr;
-        }).catch(function(){
             var dsDate = document.getElementById('ds-date');
             if (dsDate) dsDate.textContent = bjDateStr;
         });
@@ -753,30 +676,6 @@
                     '</div>' +
                     '<div class="kw-right">' +
                         '<div class="kw-term">' + (kw.term||'') + '</div>' +
-                        '<div class="kw-def">' + (kw.def||kw.definition||'') + '</div>' +
-                        '<div class="kw-eg">' + (kw.eg||kw.example||'') + '</div>' +
-                    '</div></div>';
-            }).join('');
-            var kwDate = document.getElementById('kw-date');
-            if (kwDate) kwDate.textContent = bjDateStr;
-        }).catch(function(){
-            var kwDate = document.getElementById('kw-date');
-            if (kwDate) kwDate.textContent = bjDateStr;
-        });
-
-        // ── 今日三问 ──
-        fetch('/data/pool-questions.json?_v=1', {signal: fetchSignal(8000)})
-        .then(function(r){ return r.json(); })
-        .then(function(pool) {
-            var chosen = pickExhaustive(pool, 3, utcDay, 0x00000000);
-            var nums = ['01', '02', '03'];
-            document.getElementById('dq-grid').innerHTML = chosen.map(function(q, i) {
-                return '<div class="dq-card"><div class="dq-num">' + nums[i] + '</div><div class="dq-text">' + q + '</div></div>';
-            }).join('');
-            var dqDate = document.getElementById('dq-date');
-            if (dqDate) dqDate.textContent = bjDateStr;
-        }).catch(function(){
-            var dqDate = document.getElementById('dq-date');
             if (dqDate) dqDate.textContent = bjDateStr;
         });
     })();
@@ -1245,7 +1144,7 @@
                   '            </div>\n        </article>';
             return '<!DOCTYPE html>\n<html lang="zh-CN">\n<head>\n' +
                 '    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
-                '    <title>' + safe(title || dateStr) + ' - 谢亮</title>\n' +
+                '    <title>' + safe(title || dateStr) + ' - 个人主页</title>\n' +
                 '    <link rel="icon" href="data:image/svg+xml,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><text y=\'.9em\' font-size=\'90\'>' + catIcon + '</text></svg>">\n' +
                 '    <link rel="stylesheet" href="../../css/style.css">\n' +
                 '    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">\n' +
