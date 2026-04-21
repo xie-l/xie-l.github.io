@@ -9,21 +9,6 @@
 
 // 等待DOM加载完成
 document.addEventListener('DOMContentLoaded', function() {
-    // 初始化数据加载
-    loadDailyQuestions();
-    loadDailyKeywords();
-    loadDailyData();
-    loadNewsFeed();
-    loadDailyAnalogies();
-    loadDailySignals();
-    loadDailyBiases();
-    loadDailyInversions();
-    loadDailyHistorical();
-    loadDailyPersons();
-    loadDailyWriting();
-    loadWeeklyPredictions();
-    loadEnergyMarket();
-
 
     // ====================
     // 暗色模式切换按钮
@@ -89,6 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
             if (targetSection) {
                 const offsetTop = targetSection.offsetTop - 80;
                 window.scrollTo({
+                    top: offsetTop,
                     behavior: 'smooth'
                 });
                 
@@ -152,6 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         backToTopButton.addEventListener('click', function() {
             window.scrollTo({
+                top: 0,
                 behavior: 'smooth'
             });
         });
@@ -166,6 +153,25 @@ document.addEventListener('DOMContentLoaded', function() {
         rootMargin: '0px 0px -100px 0px'
     };
     
+    const skillObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const skillBars = entry.target.querySelectorAll('.skill-progress');
+                skillBars.forEach(bar => {
+                    const skillLevel = bar.getAttribute('data-skill');
+                    setTimeout(() => {
+                        bar.style.width = skillLevel + '%';
+                    }, 100);
+                });
+                skillObserver.unobserve(entry.target);
+            }
+        });
+    }, observerOptions);
+    
+    const skillsSection = document.querySelector('#skills');
+    if (skillsSection) {
+        skillObserver.observe(skillsSection);
+    }
     
     // ====================
     // 滚动时显示元素动画
@@ -197,14 +203,36 @@ document.addEventListener('DOMContentLoaded', function() {
     // 个人资料卡片动画
     // ====================
     
+    const profileCard = document.querySelector('.profile-card');
+    if (profileCard) {
+        profileCard.style.opacity = '0';
+        profileCard.style.transform = 'translateY(40px)';
+        profileCard.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        
+        setTimeout(() => {
+            profileCard.style.opacity = '1';
+            profileCard.style.transform = 'translateY(0)';
+        }, 300);
+    }
+    
+    // ====================
     // 横幅文字动画
     // ====================
     
     const bannerTitle = document.querySelector('.banner-title');
     const bannerSubtitle = document.querySelector('.banner-subtitle');
+    const bannerMeta = document.querySelector('.banner-meta');
+    
+    if (bannerTitle) {
+        bannerTitle.style.opacity = '0';
+        bannerTitle.style.transform = 'translateY(20px)';
+        bannerTitle.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
+        
+        setTimeout(() => {
             bannerTitle.style.opacity = '1';
             bannerTitle.style.transform = 'translateY(0)';
         }, 500);
+    }
     
     if (bannerSubtitle) {
         bannerSubtitle.style.opacity = '0';
@@ -257,6 +285,25 @@ document.addEventListener('DOMContentLoaded', function() {
     // 复制邮箱功能
     // ====================
     
+    const copyEmailBtn = document.querySelector('.btnCopy');
+    if (copyEmailBtn) {
+        copyEmailBtn.addEventListener('click', function() {
+            const email = 'your.email@example.com';
+            navigator.clipboard.writeText(email).then(function() {
+                // 创建提示
+                const toast = document.createElement('div');
+                toast.textContent = '邮箱已复制到剪贴板！';
+                toast.style.cssText = `
+                    position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background: #10b981;
+                    color: white;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    z-index: 9999;
+                    font-size: 14px;
+                    animation: fadeInUp 0.3s ease;
                 `;
                 document.body.appendChild(toast);
                 
@@ -273,6 +320,17 @@ document.addEventListener('DOMContentLoaded', function() {
     // 表单提交（如果有）
     // ====================
     
+    const contactForm = document.querySelector('.contact-form');
+    if (contactForm) {
+        contactForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const submitBtn = this.querySelector('button[type="submit"]');
+            const originalText = submitBtn.textContent;
+            
+            submitBtn.textContent = '发送中...';
+            submitBtn.disabled = true;
+            
             // 模拟异步提交
             setTimeout(() => {
                 // 创建成功提示
@@ -280,6 +338,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 successToast.textContent = '消息发送成功！我会尽快回复您。';
                 successToast.style.cssText = `
                     position: fixed;
+                    top: 20px;
+                    right: 20px;
+                    background: #10b981;
+                    color: white;
+                    padding: 12px 20px;
+                    border-radius: 8px;
+                    z-index: 9999;
+                    font-size: 14px;
+                    animation: fadeInUp 0.3s ease;
                 `;
                 document.body.appendChild(successToast);
                 
@@ -335,7 +402,15 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         return date.toISOString().split('T')[0];
     }
-
+    
+    /**
+     * 通用数据加载器（带错误处理和加载状态）
+     * @param {string} widgetName - 组件名称（用于日志和错误提示）
+     * @param {string} dataUrl - JSON数据文件路径
+     * @param {Function} renderer - 渲染函数(data, container)
+     * @param {Object} options - 配置选项
+     * @returns {Promise<Object>} {success: boolean, data?: any, error?: string}
+     */
     async function loadWidgetData(widgetName, dataUrl, renderer, options = {}) {
         const containerId = options.containerId || widgetName.replace(/([A-Z])/g, '-$1').toLowerCase();
         const container = document.getElementById(containerId);
@@ -421,9 +496,6 @@ document.addEventListener('DOMContentLoaded', function() {
             return { success: false, error: error.message };
         }
     }
-
-
-async function loadWidgetData(widgetName, dataUrl, renderer, options = {}
     
     // ====================
     // 今日三问加载器
@@ -597,8 +669,7 @@ async function loadWidgetData(widgetName, dataUrl, renderer, options = {}
             
             container.innerHTML = items.map(item => {
                 // 适配RSS标准字段
-                const title = item.title || '无标题';
-                const titleCn = item.title_cn || '';
+                const title = item.title || item.title_cn || '无标题';
                 const link = item.link || '#';
                 const source = item.source || getFeedName(feedType);
                 const time = item.time || item.pubDate || '未知时间';
@@ -606,13 +677,14 @@ async function loadWidgetData(widgetName, dataUrl, renderer, options = {}
                 
                 return `
                     <div class="news-item">
-                        <div class="news-item-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
-                        ${titleCn ? `<div class="news-item-title-cn">${titleCn}</div>` : ''}
-                        <div class="news-item-meta">
-                            <span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>${time}</span>
-                            <span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>${source}</span>
+                        <div class="news-title">
+                            <a href="${link}" target="_blank" rel="noopener">${title}</a>
                         </div>
-                        ${summary ? `<div class="news-item-desc">${summary}</div>` : ''}
+                        <div class="news-meta">
+                            <span class="news-source">${source}</span>
+                            <span class="news-time">${time}</span>
+                        </div>
+                        ${summary ? `<div class="news-summary">${summary}</div>` : ''}
                     </div>
                 `;
             }).join('');
@@ -861,7 +933,7 @@ function initThreeJSBackground() {
         
         // 创建粒子
         const particlesGeometry = new THREE.BufferGeometry();
-        const particlesCount = 5000; // 增加粒子数量提升视觉效果
+        const particlesCount = 3000; // 优化：从5000减少到3000
         const posArray = new Float32Array(particlesCount * 3);
         
         for (let i = 0; i < particlesCount * 3; i++) {
@@ -871,10 +943,10 @@ function initThreeJSBackground() {
         particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
         
         const particlesMaterial = new THREE.PointsMaterial({
-            size: 0.015, // 显著增大粒子尺寸，确保效果明显可见
-            color: '#00ffff', // 更亮的青色提高对比度
+            size: 0.005,
+            color: '#64ffda',
             transparent: true,
-            opacity: 1.0, // 完全不透明，效果更明显
+            opacity: 0.6, // 优化：降低透明度以减少GPU负担
             blending: THREE.AdditiveBlending
         });
         
@@ -901,30 +973,13 @@ function initThreeJSBackground() {
     }
 }
 
-// 鼠标交互变量
-let mouseX = 0, mouseY = 0;
-let targetMouseX = 0, targetMouseY = 0;
-
-// 监听鼠标移动（仅在非移动端）
-if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-    document.addEventListener('mousemove', (e) => {
-        targetMouseX = (e.clientX / window.innerWidth) * 2 - 1;
-        targetMouseY = -(e.clientY / window.innerHeight) * 2 + 1;
-    });
-}
-
 function animateBackground() {
     if (!backgroundInitialized || !particles) return;
     
     requestAnimationFrame(animateBackground);
     
-    // 平滑鼠标移动
-    mouseX += (targetMouseX - mouseX) * 0.05;
-    mouseY += (targetMouseY - mouseY) * 0.05;
-    
-    // 基础旋转 + 鼠标影响（加快旋转速度使效果更明显）
-    particles.rotation.x += 0.0008 + mouseY * 0.0002;
-    particles.rotation.y += 0.0008 + mouseX * 0.0002;
+    particles.rotation.x += 0.0003; // 减慢旋转速度
+    particles.rotation.y += 0.0003;
     
     renderer.render(scene, camera);
 }
@@ -953,10 +1008,10 @@ document.addEventListener('visibilitychange', () => {
     }
 });
 
-    // 初始化背景（延迟执行，确保DOM加载完成）
-    setTimeout(() => {
-        initThreeJSBackground();
-    }, 100);
+// 初始化背景（延迟执行，确保DOM加载完成）
+setTimeout(() => {
+    initThreeJSBackground();
+}, 100);
 
     // 初始化完成
     // ====================
@@ -964,7 +1019,8 @@ document.addEventListener('visibilitychange', () => {
     console.log('个人主页已加载完成！');
     console.log('Designed by 谢亮');
     console.log('GitHub: https://github.com/xie-l');
-});
+    
+}
 
 // ====================
 // 数组索引映射工具函数
@@ -1007,7 +1063,7 @@ function getTodayItems(array, count, date = new Date()) {
     return result;
 }
 
-// ====================
+// ====================);
 
 // 页面卸载时的清理
 window.addEventListener('beforeunload', function() {
@@ -1023,39 +1079,3 @@ window.addEventListener('error', function(e) {
 window.addEventListener('unhandledrejection', function(e) {
     console.error('未处理的Promise拒绝:', e.reason);
 });
-
-
-// 别名函数 - 兼容HTML调用
-async function loadDailyAnalogies() {
-    return loadDailyAnalogy();
-}
-
-
-// 别名函数 - 兼容HTML调用
-async function loadDailySignals() {
-    return loadDailySignal();
-}
-
-
-// 别名函数 - 兼容HTML调用
-async function loadDailyBiases() {
-    return loadDailyBias();
-}
-
-
-// 别名函数 - 兼容HTML调用
-async function loadDailyInversions() {
-    return loadDailyInversion();
-}
-
-
-// 别名函数 - 兼容HTML调用
-async function loadDailyPersons() {
-    return loadDailyPerson();
-}
-
-
-// 别名函数 - 兼容HTML调用
-async function loadWeeklyPredictions() {
-    return loadPredictions();
-}
