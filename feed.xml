@@ -5,7 +5,7 @@
     <link>https://xie-l.github.io/</link>
     <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 19 Apr 2026 04:17:26 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:16:13 -0000</lastBuildDate>
     <atom:link href="https://xie-l.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://xie-l.github.io/img/avatar.jpg</url>
@@ -13,10 +13,18 @@
       <link>https://xie-l.github.io/</link>
     </image>
     <item>
+      <title>如何锻炼、启用、发挥元认知</title>
+      <link>https://xie-l.github.io/blog/quotes/如何锻炼、启用、发挥元认知（202604）.html</link>
+      <guid isPermaLink="true">https://xie-l.github.io/blog/quotes/如何锻炼、启用、发挥元认知（202604）.html</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 -0000</pubDate>
+      <category>quotes</category>
+      <description><![CDATA[元认知（Metacognition）由美国心理学家弗拉维尔于1976年正式提出，核心是**对自身认知活动的觉察、评估、调控与优化**，通俗来讲就是“对思考的思考”——你不仅在思考，更能跳出自身，以旁观者的视角审视“自己为什么这么想、这么想对不对、怎么想得更好”。 它的核心由三部分构成，也是启用、锻炼…]]></description>
+    </item>
+    <item>
       <title>index-optimized</title>
       <link>https://xie-l.github.io/blog/thoughts/index-optimized.html</link>
       <guid isPermaLink="true">https://xie-l.github.io/blog/thoughts/index-optimized.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 -0000</pubDate>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 -0000</pubDate>
       <category>thoughts</category>
       <description><![CDATA[]]></description>
     </item>
@@ -163,14 +171,6 @@
       <pubDate>Thu, 09 Apr 2026 00:00:00 -0000</pubDate>
       <category>thoughts</category>
       <description><![CDATA[组织参加会议需要准备的事情：桌签（桌签的排布）、签到表、屏幕（PPT 写个会议名字、信息中心相关）、会议通知、茶水（茶叶、杯子、开水）、会议要及时记录（录音笔）、及时倒水等等。 会议 组织 准备 会议 组织 准备 会议 组织 准备 会议 组织 准备 会议 组织 准备 会议 组织 准备 会议 组织 准…]]></description>
-    </item>
-    <item>
-      <title>今日小结（2026.04.07）</title>
-      <link>https://xie-l.github.io/blog/life/今日小结（2026.04.07）（202604）.html</link>
-      <guid isPermaLink="true">https://xie-l.github.io/blog/life/今日小结（2026.04.07）（202604）.html</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 -0000</pubDate>
-      <category>life</category>
-      <description><![CDATA[日有所成： 1. 推进完善个人博客，主要是丰富了个人词汇，添加了其他模块（每日跨域类比、信号 vs 噪声、认知偏误觉察、逆向·钢人论证、历史类比、每日一人、每日微写作）、在博客分类那里添加了两个模块（摘录记录、随笔记录）部分。这里需要注意借助 Claudecode 编写文件需要注意的事项。 2.推进…]]></description>
     </item>
   </channel>
 </rss>
