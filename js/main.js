@@ -207,7 +207,6 @@ document.addEventListener('DOMContentLoaded', function() {
             bannerTitle.style.opacity = '1';
             bannerTitle.style.transform = 'translateY(0)';
         }, 500);
-    }
     
     if (bannerSubtitle) {
         bannerSubtitle.style.opacity = '0';
