@@ -840,38 +840,77 @@ async function publishQuote() {
         
         // 生成文件名
         let filename;
+        let pageTitle;
         if (source) {
             try {
                 const url = new URL(source);
                 const domain = url.hostname.replace(/[^a-zA-Z0-9]/g, '-');
-                filename = `${dateStr}-${domain}.md`;
+                filename = `${dateStr}-${domain}.html`;
+                pageTitle = `来自 ${url.hostname} 的摘录`;
             } catch {
-                filename = `${dateStr}-quote.md`;
+                filename = `${dateStr}-quote.html`;
+                pageTitle = '精彩摘录';
             }
         } else {
-            filename = `${dateStr}-quote.md`;
+            filename = `${dateStr}-quote.html`;
+            pageTitle = '精彩摘录';
         }
-        
-        // 生成标题
-        const title = source ? `来自 ${new URL(source).hostname} 的摘录` : '精彩摘录';
         
         // 处理标签
         const tagList = tags ? tags.split(/[,，\s]+/).filter(t => t.trim()) : [];
         const tagsStr = tagList.length > 0 ? tagList.join(', ') : '';
+        const tagsDisplay = tagList.length > 0 ? tagList.join(' / ') : '';
         
-        // 生成文件内容
-        let fileContent = `---\ntitle: "${title}"\ndate: ${now.toISOString()}\ncategory: quotes\n`;
-        if (source) fileContent += `source: "${source}"\n`;
-        if (tagsStr) fileContent += `tags: [${tagsStr}]\n`;
-        fileContent += `---\n\n`;
+        // 生成HTML文件内容
+        const dateDisplay = now.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' });
         
-        // 添加引用内容
-        fileContent += `> ${content.replace(/\n/g, '\n> ')}\n\n`;
+        let fileContent = `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${pageTitle} - 谢亮</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>❝</text></svg>">
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .blog-container{max-width:860px;margin:100px auto 60px;padding:0 20px}
+        .back-link{display:inline-block;margin-bottom:20px;color:var(--secondary-color);text-decoration:none}
+        .post-header{text-align:center;margin-bottom:40px;padding-bottom:30px;border-bottom:1px solid var(--border-color)}
+        .post-title{font-size:27px;color:var(--primary-color);margin-bottom:15px;line-height:1.4}
+        .post-meta{color:var(--text-light);font-size:14px;display:flex;justify-content:center;gap:20px;flex-wrap:wrap}
+        .post-content{background:var(--card-bg,#fff);border-radius:15px;padding:40px;box-shadow:var(--shadow-md);line-height:1.9;font-size:16px}
+        .post-content p{margin-bottom:20px;text-align:justify}
+        .post-source{font-size:13px;color:var(--text-light);margin-bottom:20px;padding:10px 14px;background:var(--bg-secondary,#f8f9fa);border-radius:8px;border-left:3px solid var(--secondary-color)}
+        .post-source a{color:var(--secondary-color);word-break:break-all}
+        .post-tags{margin-top:30px;padding-top:20px;border-top:1px solid var(--border-color);display:flex;gap:8px;flex-wrap:wrap}
+        .tag{font-size:12px;background:var(--secondary-color);color:#fff;padding:4px 12px;border-radius:20px}
+    </style>
+</head>
+<body>
+    <div class="blog-container">
+        <a href="./" class="back-link"><i class="fas fa-arrow-left"></i> 返回摘录记录</a>
+        <article class="post-header">
+            <h1 class="post-title">${pageTitle}</h1>
+            <div class="post-meta">
+                <span><i class="fas fa-calendar"></i> ${dateDisplay}</span>
+                <span><i class="fas fa-folder"></i> 摘录记录</span>
+                ${tagsDisplay ? `<span><i class="fas fa-tags"></i> ${tagsDisplay}</span>` : ''}
+            </div>
+        </article>
         
-        // 添加感悟
-        if (reflection) {
-            fileContent += `**摘录感悟**: ${reflection}\n`;
-        }
+        ${source ? `<div class="post-source" data-source="${source}"><i class="fas fa-link"></i> 来源：<a href="${source}" target="_blank" rel="noopener noreferrer">${source}</a></div>` : ''}
+        <div class="post-content">
+            <blockquote><p>${content.replace(/\n/g, '</p>\n<p>')}</p></blockquote>
+            ${reflection ? `<p><strong>摘录感悟</strong>: ${reflection}</p>` : ''}
+            ${tagList.length > 0 ? `<div class="post-tags">${tagList.map(tag => `<span class="tag">${tag}</span>`).join('')}</div>` : ''}
+        </div>
+    </div>
+<script>
+document.querySelectorAll('.tag').forEach(function(el){el.style.cursor='pointer';el.addEventListener('click',function(e){e.preventDefault();e.stopPropagation();location.href='../tags.html?tag='+encodeURIComponent(el.textContent.trim());});});
+</script>
+</body>
+</html>`;
         
         // 检查文件是否已存在，获取 SHA
         const filePath = `blog/quotes/${filename}`;
@@ -893,7 +932,7 @@ async function publishQuote() {
         await createOrUpdateFile(
             filePath,
             fileContent,
-            `添加摘录: ${title}`,
+            `添加摘录: ${pageTitle}`,
             fileSha
         );
         
