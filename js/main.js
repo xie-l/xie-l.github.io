@@ -9,6 +9,21 @@
 
 // 等待DOM加载完成
 document.addEventListener('DOMContentLoaded', function() {
+    // 初始化数据加载
+    loadDailyQuestions();
+    loadDailyKeywords();
+    loadDailyData();
+    loadNewsFeed();
+    loadDailyAnalogies();
+    loadDailySignals();
+    loadDailyBiases();
+    loadDailyInversions();
+    loadDailyHistorical();
+    loadDailyPersons();
+    loadDailyWriting();
+    loadWeeklyPredictions();
+    loadEnergyMarket();
+
 
     // ====================
     // 暗色模式切换按钮
@@ -1034,3 +1049,39 @@ window.addEventListener('error', function(e) {
 window.addEventListener('unhandledrejection', function(e) {
     console.error('未处理的Promise拒绝:', e.reason);
 });
+
+
+// 别名函数 - 兼容HTML调用
+async function loadDailyAnalogies() {
+    return loadDailyAnalogy();
+}
+
+
+// 别名函数 - 兼容HTML调用
+async function loadDailySignals() {
+    return loadDailySignal();
+}
+
+
+// 别名函数 - 兼容HTML调用
+async function loadDailyBiases() {
+    return loadDailyBias();
+}
+
+
+// 别名函数 - 兼容HTML调用
+async function loadDailyInversions() {
+    return loadDailyInversion();
+}
+
+
+// 别名函数 - 兼容HTML调用
+async function loadDailyPersons() {
+    return loadDailyPerson();
+}
+
+
+// 别名函数 - 兼容HTML调用
+async function loadWeeklyPredictions() {
+    return loadPredictions();
+}
