@@ -184,32 +184,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // 个人资料卡片动画
     // ====================
     
-    const profileCard = document.querySelector('.profile-card');
-    if (profileCard) {
-        profileCard.style.opacity = '0';
-        profileCard.style.transform = 'translateY(40px)';
-        profileCard.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
-        
-        setTimeout(() => {
-            profileCard.style.opacity = '1';
-            profileCard.style.transform = 'translateY(0)';
-        }, 300);
-    }
-    
-    // ====================
     // 横幅文字动画
     // ====================
     
     const bannerTitle = document.querySelector('.banner-title');
     const bannerSubtitle = document.querySelector('.banner-subtitle');
-    const bannerMeta = document.querySelector('.banner-meta');
-    
-    if (bannerTitle) {
-        bannerTitle.style.opacity = '0';
-        bannerTitle.style.transform = 'translateY(20px)';
-        bannerTitle.style.transition = 'opacity 0.8s ease, transform 0.8s ease';
-        
-        setTimeout(() => {
             bannerTitle.style.opacity = '1';
             bannerTitle.style.transform = 'translateY(0)';
         }, 500);
@@ -266,16 +245,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // 复制邮箱功能
     // ====================
     
-    const copyEmailBtn = document.querySelector('.btnCopy');
-    if (copyEmailBtn) {
-        copyEmailBtn.addEventListener('click', function() {
-            const email = 'your.email@example.com';
-            navigator.clipboard.writeText(email).then(function() {
-                // 创建提示
-                const toast = document.createElement('div');
-                toast.textContent = '邮箱已复制到剪贴板！';
-                toast.style.cssText = `
-                    position: fixed;
                     top: 20px;
                     right: 20px;
                     background: #10b981;
@@ -301,17 +270,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // 表单提交（如果有）
     // ====================
     
-    const contactForm = document.querySelector('.contact-form');
-    if (contactForm) {
-        contactForm.addEventListener('submit', function(e) {
-            e.preventDefault();
-            
-            const submitBtn = this.querySelector('button[type="submit"]');
-            const originalText = submitBtn.textContent;
-            
-            submitBtn.textContent = '发送中...';
-            submitBtn.disabled = true;
-            
             // 模拟异步提交
             setTimeout(() => {
                 // 创建成功提示
