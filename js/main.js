@@ -10,7 +10,14 @@
 // 等待DOM加载完成
 document.addEventListener('DOMContentLoaded', function() {
     // 初始化数据加载
-    loadDailyQuestions();
+    
+    loadDailyAnalogy();
+    loadDailySignal();
+    loadDailyBias();
+    loadDailyInversion();
+    loadDailyPerson();
+    loadPredictions();
+loadDailyQuestions();
     loadDailyKeywords();
     loadDailyData();
     loadNewsFeed();
