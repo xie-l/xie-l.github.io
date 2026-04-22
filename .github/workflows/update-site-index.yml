@@ -342,7 +342,7 @@ jobs:
           # 尝试推送，如果失败则拉取合并后再推
           if ! git push origin main; then
             echo "Push failed, attempting to pull and merge..."
-            git pull origin main --no-rebase --commit --no-edit || {
+            git pull origin main --no-rebase --no-edit || {
               echo "Error: Failed to pull changes. Please check for conflicts manually."
               exit 1
             }
