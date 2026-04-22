@@ -322,10 +322,7 @@ jobs:
       - name: Commit and push with smart conflict handling
         run: |
           # 配置 Git
-          git config pull.rebase false  # 使用 merge 而不是 rebase，减少冲突
-          
-          # 尝试拉取最新更改（允许失败）
-          git pull origin main || echo "Warning: Pull failed, continuing with push..."
+          git config pull.rebase false
           
           # 添加所有生成的文件
           git add data/blog-index.json data/files-index.json data/stats.json sitemap.xml feed.xml pagefind/
@@ -336,14 +333,14 @@ jobs:
             exit 0
           fi
           
-          # 提交更改
+          # 提交更改（先在本地提交）
           git commit -m "chore: update site index, sitemap, RSS feed, and search index [skip ci]"
           
-          # 尝试推送，如果失败则拉取合并后再推
+          # 尝试推送，如果失败则拉取远程更改并合并
           if ! git push origin main; then
-            echo "Push failed, attempting to pull and merge..."
-            git pull origin main --no-rebase --no-edit || {
-              echo "Error: Failed to pull changes. Please check for conflicts manually."
+            echo "Remote has updates, pulling and merging..."
+            git pull origin main --no-edit --strategy=recursive --strategy-option=theirs || {
+              echo "Error: Failed to pull and merge changes. Please check for conflicts manually."
               exit 1
             }
             git push origin main
