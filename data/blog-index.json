@@ -28,15 +28,6 @@
       "path": "blog/quotes/造成人类内心痛苦的五大认知设计缺陷（202604）.html"
     },
     {
-      "title": "index-optimized",
-      "date": "2026-04-21",
-      "category": "thoughts",
-      "tags": [],
-      "summary": "",
-      "word_count": 0,
-      "path": "blog/thoughts/index-optimized.html"
-    },
-    {
       "title": "今日小结（2026.04.15-17）",
       "date": "2026-04-18",
       "category": "life",
@@ -180,6 +171,15 @@
       "summary": "要注意很多细节，包括茶叶不能太碎，换一个，还有就是回复领导，不能“校对”，而是“审阅”。这些细节要自己设身处地，但是很多时候都没去反应过来，但是有些人会特别在意，因为会触动神经。",
       "word_count": 75,
       "path": "blog/thoughts/2026-04-10（202604）.html"
+    },
+    {
+      "title": "index-optimized",
+      "date": "2026-04-10",
+      "category": "thoughts",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/thoughts/index-optimized.html"
     },
     {
       "title": "要注意很多细节，包括茶叶不能太碎，换一个，还有就…",
@@ -761,5 +761,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-21 04:03 UTC"
+  "updated": "2026-04-22 01:12 UTC"
 }
