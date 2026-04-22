@@ -1,6 +1,28 @@
 {
   "posts": [
     {
+      "title": "今日小结（2026.04.21）",
+      "date": "2026-04-22",
+      "category": "life",
+      "tags": [
+        "日小结",
+        "记录",
+        "书籍"
+      ],
+      "summary": "1.阅读书籍《超越元认知：五大认知缺陷及应对策略》前三章节，了解何为终极自由，应激与反应之间的间歇，五大认知缺陷，情绪刺激及复杂工作两大反应； 2.轻度推进博士论文意见 PPT 回复，尝试拆分步骤，先下载相关文献，后续再基于此撰写内容及统一进行文献引用； 3.回家早点休息，在床上进行稍作拉伸，早点休…",
+      "word_count": 136,
+      "path": "blog/life/今日小结（2026.04.21）（202604）.html"
+    },
+    {
+      "title": "index-optimized",
+      "date": "2026-04-22",
+      "category": "thoughts",
+      "tags": [],
+      "summary": "",
+      "word_count": 0,
+      "path": "blog/thoughts/index-optimized.html"
+    },
+    {
       "title": "如何锻炼、启用、发挥元认知",
       "date": "2026-04-21",
       "category": "quotes",
@@ -171,15 +193,6 @@
       "summary": "要注意很多细节，包括茶叶不能太碎，换一个，还有就是回复领导，不能“校对”，而是“审阅”。这些细节要自己设身处地，但是很多时候都没去反应过来，但是有些人会特别在意，因为会触动神经。",
       "word_count": 75,
       "path": "blog/thoughts/2026-04-10（202604）.html"
-    },
-    {
-      "title": "index-optimized",
-      "date": "2026-04-10",
-      "category": "thoughts",
-      "tags": [],
-      "summary": "",
-      "word_count": 0,
-      "path": "blog/thoughts/index-optimized.html"
     },
     {
       "title": "要注意很多细节，包括茶叶不能太碎，换一个，还有就…",
@@ -761,5 +774,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-22 01:12 UTC"
+  "updated": "2026-04-22 01:02 UTC"
 }
