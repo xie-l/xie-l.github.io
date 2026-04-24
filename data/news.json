@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Hit a glitch in your research? Some ‘night science’ thinking could move it forward",
+        "link": "https://www.nature.com/articles/d41586-026-01294-1",
+        "pubDate": "2026-04-24",
+        "description": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01294-1 Itai Yanai and Martin Lercher outline a creative thinking strategy to liberate you from the daily grind of the lab.",
+        "title_cn": "在研究中遇到故障？一些“夜间科学”思维可以推动它向前发展"
+      },
+      {
         "title": "Closure of China’s influential journal ranking leaves academics reeling — what will take its place?",
         "link": "https://www.nature.com/articles/d41586-026-01277-2",
         "pubDate": "2026-04-24",
@@ -49,20 +56,31 @@
         "pubDate": "2026-04-23",
         "description": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-00980-4 Researchers mined the online encyclopedia to find the innovations that are gaining momentum fastest in science and industry.",
         "title_cn": "基于维基百科的人工智能模型揭示了值得关注的100项技术"
-      },
-      {
-        "title": "We need to talk about failure in science",
-        "link": "https://www.nature.com/articles/d41586-026-01254-9",
-        "pubDate": "2026-04-23",
-        "description": "Nature, Published online: 23 April 2026; doi:10.1038/d41586-026-01254-9 Failure is part and parcel of research, but discussing it sometimes seems to be taboo in science. It doesn’t need to be.",
-        "title_cn": "我们需要谈谈科学的失败"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战",
+        "link": "https://36kr.com/p/3780556402531330?f=rss",
+        "pubDate": "2026-04-24 16:21:20  +0800",
+        "description": "文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。 在技术架构层面，微盟将其升级为“Agent+Skills”。这一转变的底层逻辑在于：将原本复杂的Saa"
+      },
+      {
+        "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
+        "link": "https://36kr.com/p/3780375304312072?f=rss",
+        "pubDate": "2026-04-24 13:20:31  +0800",
+        "description": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾上有关，也与DeepSeek内部的决策变动有关。我们得知，2025年年中，DeepSeek曾面临一次较为严重的训练失败。 “当时，DeepSeek面临重新适配芯"
+      },
+      {
+        "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
+        "link": "https://36kr.com/p/3780352721851397?f=rss",
+        "pubDate": "2026-04-24 12:58:37  +0800",
+        "description": "文｜周鑫雨 编辑｜杨轩 一句话介绍 Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。 好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。 团队介绍 “感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。 在苹果期间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理"
+      },
       {
         "title": "茅台向经销商「要利润」",
         "link": "https://36kr.com/p/3780191213229314?f=rss",
@@ -92,31 +110,55 @@
         "link": "https://36kr.com/p/3778831119897600?f=rss",
         "pubDate": "2026-04-24 08:00:00  +0800",
         "description": "36氪获悉，AI for Science公司「奥明星程」近日完成超亿元A轮战略融资。本轮投资方包括深创投、复星医药（复健资本）、太平股权、广东中医药大健康基金、杭实集团等多家头部投资机构、产业链龙头企业及多地国资。同时，公司也与包括深圳湾实验室在内的多家国际顶尖科研机构建立了深度成果转化合作机制，形成覆盖技术研发、临床应用及产业生态赋能的全链条布局。 2025年被视作AI4S发展的分水岭。随着通用科研引擎的出现，以及英伟达GTC大会将AI4S与大语言模型、具身智能并列为人工智能三大核心方向，全球资本与技术资源正加速向该领域聚集。然而，当前多数AI在科学探索中仍停留在“结果拟合”层面，在机制理解"
-      },
-      {
-        "title": "美国百年太妃糖易手，Roca乐家被全资收购",
-        "link": "https://36kr.com/p/3779468716938499?f=rss",
-        "pubDate": "2026-04-23 22:01:47  +0800",
-        "description": "作者&nbsp;|&nbsp;钟艺璇 编辑&nbsp;|&nbsp;乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown &amp; Haley公司的全资收购，Brown &amp; Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown &amp; Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。 据悉，孟一烽（Sam Meng）将会出任Brown &amp; Haley全球CEO，他同时也是Brown &amp; Haley"
-      },
-      {
-        "title": "破局“智驾双雄”，千里科技如何以AI之力重塑行业格局",
-        "link": "https://36kr.com/p/3779369343144965?f=rss",
-        "pubDate": "2026-04-23 20:14:28  +0800",
-        "description": "智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。 在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。 从品牌发布到方案规模化量产，并达成46万装车量，千里科技仅用时半年多。在行业普遍认为智驾格局趋于稳定的当下，这一扩张速度史无前例。 这种“非常规速度”的背后，是增长逻辑本身发生了变化。本质上千里速度就是AI速度，这种高增长成为华为之外的第二极，形成了AI时代“智驾双雄”新行业格局。 传统智驾公司的增长依赖于“工程复制”， 开发周期长，适配成本高。而千里"
-      },
-      {
-        "title": "氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件",
-        "link": "https://36kr.com/p/3774776226923272?f=rss",
-        "pubDate": "2026-04-23 18:28:15  +0800",
-        "description": "大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部确认，正式获得“过半工会”地位，可单独行使集体谈判权等权利。（财联社） 闪送开源CLI，为同城即时速递行业首家 36氪获悉，近日，一对一急送平台闪送宣布正式开源"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Could a New Kind of Power Supply Help Make Data Centers Grid-Friendly?",
+        "link": "https://cleantechnica.com/2026/04/23/could-a-new-kind-of-power-supply-help-make-data-centers-grid-friendly/",
+        "pubDate": "Fri, 24 Apr 2026 03:59:59 +0000",
+        "description": "Inside the First Data Center–Grid Simulator Built To Test the Promising New Technology As demand for data centers continues to rise, many center operators, utilities, and American communities are asking: Can the U.S. power grid handle these energy elephants? The answer depends on just how many eleph",
+        "title_cn": "新型电源能否帮助数据中心实现电网友好？"
+      },
+      {
+        "title": "The Fast Lane: 3 Ways To Get More Critical Minerals, Now",
+        "link": "https://cleantechnica.com/2026/04/23/the-fast-lane-3-ways-to-get-more-critical-minerals-now/",
+        "pubDate": "Fri, 24 Apr 2026 03:57:31 +0000",
+        "description": "Companies Need Critical Minerals for Electronics, Medical Equipment, Crops, and More. These 3 Techniques (and Others) Could Make Some Easier To Get. “The Fast Lane” series zooms in on some of the thousands of technologies born in national laboratories that companies can license today. This iteration",
+        "title_cn": "快车道：立即获取更多关键矿物质的3种方法"
+      },
+      {
+        "title": "Put a (Roof) Coat on—It Is Hot Out There",
+        "link": "https://cleantechnica.com/2026/04/23/put-a-roof-coat-on-it-is-hot-out-there/",
+        "pubDate": "Fri, 24 Apr 2026 03:55:49 +0000",
+        "description": "In First Rooftop Demo, Startup, Investors, and Researchers Test Roof Coating’s Potential To Cool, Protect, and Lower Energy Bills for a New Jersey Warehouse What do a Texas data center, a New Jersey warehouse, and a police academy in Arizona have in common? They all have roofs. OK, not surprising. .",
+        "title_cn": "穿上（屋顶）大衣-外面很热"
+      },
+      {
+        "title": "2026 Nissan LEAF Named Winner in U.S. News 2026 Best Hybrid & Electric Car Awards",
+        "link": "https://cleantechnica.com/2026/04/23/2026-nissan-leaf-named-winner-in-u-s-news-2026-best-hybrid-electric-car-awards/",
+        "pubDate": "Fri, 24 Apr 2026 03:53:22 +0000",
+        "description": "Third-generation LEAF is recognized for the best combination of quality, efficiency and value in its segment. NASHVILLE, Tennessee — The all-new 2026 Nissan LEAF has been named as the Best Subcompact Electric SUV for 2026 in U.S. News 2026 Best Hybrid and Electric Car Awards. The U.S. News Best Hybr",
+        "title_cn": "2026年日产LEAF荣获《美国新闻》2026年最佳混合动力和电动汽车奖"
+      },
+      {
+        "title": "Sierra Club Joins Hundreds of Orgs. Calling on Governments to End ISDS System",
+        "link": "https://cleantechnica.com/2026/04/23/sierra-club-joins-hundreds-of-orgs-calling-on-governments-to-end-isds-system/",
+        "pubDate": "Fri, 24 Apr 2026 03:51:11 +0000",
+        "description": "Joint Statement Highlights How These Secretive Tribunals Prop Up Intl. Fossil Fuel Industry. Washington, DC — Sierra Club has joined over 340 civil society organizations in signing an open statement calling on governments around the world to disengage from investor-state dispute settlements, or ISDS",
+        "title_cn": "Sierra Club加入了数百个组织。呼吁各国政府终止ISDS系统"
+      },
+      {
+        "title": "Denza Starts Distribution of Luxury EVs in the Philippines",
+        "link": "https://cleantechnica.com/2026/04/23/denza-starts-distribution-of-luxury-evs-in-the-philippines/",
+        "pubDate": "Fri, 24 Apr 2026 03:50:17 +0000",
+        "description": "Denza Philippines began the official rollout of its B5 and B8 plug-in hybrid SUVs today (April 23, Philippine time) following the brand&#8217;s local debut at the Manila International Auto Show 2026. The move marks a formal entry into the premium new energy vehicle segment with a focus on off-road c",
+        "title_cn": "Denza开始在菲律宾销售豪华电动汽车"
+      },
       {
         "title": "Driving A Car On HVO Is 79% More Expensive Than An Electric Car — New Analysis",
         "link": "https://cleantechnica.com/2026/04/23/driving-a-car-on-hvo-is-79-more-expensive-than-an-electric-car-new-analysis/",
@@ -130,52 +172,10 @@
         "pubDate": "Fri, 24 Apr 2026 02:44:11 +0000",
         "description": "Mercedes has introduced two new electric car models, an undated EQS and an all new C Class Electric. Both are impressive. The post Mercedes Adds New EQS &#038; C-Class Electric To Line Up appeared first on CleanTechnica .",
         "title_cn": "梅赛德斯新增EQS和C级电动车"
-      },
-      {
-        "title": "Solar Grazing Is Not Just For Sheep Any More",
-        "link": "https://cleantechnica.com/2026/04/23/solar-grazing-is-not-just-for-sheep-any-more/",
-        "pubDate": "Fri, 24 Apr 2026 01:51:17 +0000",
-        "description": "The US solar developer Silicon Ranch is exploring a new solar grazing model optimized for cattle ranching, carbon sequestration, water conservation, and land restoration all in the same space. The post Solar Grazing Is Not Just For Sheep Any More appeared first on CleanTechnica .",
-        "title_cn": "太阳放牧不再局限于绵羊"
-      },
-      {
-        "title": "Uber Isn’t Buying Hydrogen Economics In Paris. It’s Buying Access To Business Taxi",
-        "link": "https://cleantechnica.com/2026/04/23/uber-isnt-buying-hydrogen-economics-in-paris-its-buying-access-to-business-taxi/",
-        "pubDate": "Fri, 24 Apr 2026 00:50:37 +0000",
-        "description": "Uber has invested in HysetCo, the Paris-region company that leases hydrogen taxis and operates much of the refueling network that supports them, with the stated goal of adding nearly 2,000 hydrogen taxis to Uber’s platform over five years. The official story is cleaner zero-emission business travel ",
-        "title_cn": "优步不会在巴黎收购Hydrogen Economics。它正在购买商务出租车"
-      },
-      {
-        "title": "3,000 Fast EV Chargers Were Installed In The US In Q1",
-        "link": "https://cleantechnica.com/2026/04/23/3000-fast-ev-chargers-were-installed-in-the-us-in-q1/",
-        "pubDate": "Thu, 23 Apr 2026 14:58:35 +0000",
-        "description": "A new report from Parens states that US fast chargers were installed in the US at a healthy rate of over 3,000 in the first quarter of 2026, saying, &#8220;Deployment remains elevated, with ~3,300 new ports added in Q1, in line with seasonal patterns. Utilization held at ~15.6%, only slightly ... [c",
-        "title_cn": "第一季度在美国安装了3,000个快速电动汽车充电器"
-      },
-      {
-        "title": "IEA Says World Has Entered The “Age Of Electricity”",
-        "link": "https://cleantechnica.com/2026/04/23/iea-says-world-has-entered-the-age-of-electricity/",
-        "pubDate": "Thu, 23 Apr 2026 14:55:49 +0000",
-        "description": "The latest IEA energy report for 2025 shows solar and energy storage are rapidly displacing fossil fuels for energy generation. The post IEA Says World Has Entered The &#8220;Age Of Electricity&#8221; appeared first on CleanTechnica .",
-        "title_cn": "IEA称世界已进入“电力时代”"
-      },
-      {
-        "title": "Solar Power + Energy Storage Transform Church Into Resilience Hub",
-        "link": "https://cleantechnica.com/2026/04/23/solar-power-energy-storage-transform-church-into-resilience-hub/",
-        "pubDate": "Thu, 23 Apr 2026 14:52:31 +0000",
-        "description": "A church in Georgia has a new 70.11-kW solar system and a 41-kWh battery storage system which could generate and store enough electricity to save about $15,000 a year on its utility bills. There was no up-front cost to the congregation because of support from Hive Fund, Black Voters Matter, ... [con",
-        "title_cn": "太阳能+储能将教堂转变为复原力中心"
-      },
-      {
-        "title": "Coal Mines, Landfills, & The Persistence Of Solar Power",
-        "link": "https://cleantechnica.com/2026/04/23/coal-mines-landfills-the-persistence-of-solar-power/",
-        "pubDate": "Thu, 23 Apr 2026 14:49:48 +0000",
-        "description": "Despite the sharp U-turn in federal energy policy, the smart money is steering over to landfills, derelict coal mines, and other industrial sites for conversion into solar power plants. The post Coal Mines, Landfills, &#038; The Persistence Of Solar Power appeared first on CleanTechnica .",
-        "title_cn": "煤矿、垃圾填埋场和太阳能的持久性"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,34 +248,10 @@
         "description": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 14:18:00 GMT",
-        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
-      },
-      {
         "title": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zMjJWaktCTGNTX195VXYxLXRYT0htRV9VY1VpYjgxS2lEMDZTMXpWQldhYkgwd3ZrU0dDWGFhTm5ZSE92STY2U2NfZ296ZnJNTFowTTJB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wOXJSa3IyWVI5cEczNkg1VE53SGxiLWwwTFhjRTlrUnZ1WlI2Y2NoWldJazFobVpJb3EtQ2p0SXBrX0Z4Wmcxb29xWllsaUsteDJqSA?oc=5",
         "pubDate": "Wed, 22 Apr 2026 00:55:04 GMT",
         "description": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
-        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
-        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
-      },
-      {
-        "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbFRYTG9MWkFaT2Z6YnFWbnNYNEhGdVdjUUFHNlVoaHFPb1diVVJoMHJIa01rcDdkVWpPZzdXNnU3Ykl2Ukt2Y2tab0lCc0FOaWR2VFhEUXo5RXgwTzFrZ0JFR0pZZw?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 12:30:01 GMT",
-        "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 东方财富"
-      },
-      {
-        "title": "张掖：加快布局“绿氢+”产业链 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zOERSMDVvMlNwbWQzbzJWMDRITmpGVVQtNHJROG5kQmk4TURZU21qazRWSk5iSE5TZUhaRmthQ0NvSjRBSEhRbWFrTGRzYW1lSzdtSDd3?oc=5",
-        "pubDate": "Tue, 14 Apr 2026 09:52:04 GMT",
-        "description": "张掖：加快布局“绿氢+”产业链 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -288,10 +264,34 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
+        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
+        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
+        "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
+      },
+      {
+        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbFRYTG9MWkFaT2Z6YnFWbnNYNEhGdVdjUUFHNlVoaHFPb1diVVJoMHJIa01rcDdkVWpPZzdXNnU3Ykl2Ukt2Y2tab0lCc0FOaWR2VFhEUXo5RXgwTzFrZ0JFR0pZZw?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 12:30:01 GMT",
+        "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 东方财富"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "hydrogen": {
     "items": [
@@ -328,7 +328,7 @@
         "link": "https://fuelcellsworks.com/2026/04/23/green-hydrogen/throwback-thursday-story-wienerberger-secures-funding-to-deliver-the-world-s-first-commercial-scale-hydrogen-fired-brick-kiln",
         "pubDate": "Thu, 23 Apr 2026 14:34:54 GMT",
         "description": "",
-        "title_cn": "回顾周四的故事： Wienerberger获得资金交付全球首个商业规模的氢气砖窑"
+        "title_cn": "回顾周四的故事： Wienerberger获得资金交付全球首个商业规模的氢气烧成砖窑"
       },
       {
         "title": "Japan Launches Ammonia and Hydrogen Energy Demonstration Project",
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -464,26 +464,26 @@
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
       },
       {
-        "title": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZcHROT3dmLXlNY1ZYX0ZiWno5TjFOVkwxM084eF9FQTZfb1BjR1lkVWhwVzVlMTh1dTM3Y2pHMlZRZzJvN21VSg?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 10:10:00 GMT",
-        "description": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "重要部署！国家能源局“力推”氢能未来产业 融资客提前布局这些票 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5MjlSV3dUT1NLV2ZyTEs4eUJaOXZqeDlXLWlVQXNBdE5ZcGlvSXdTYjhrYXViNjhaclludjBka3hiVy1HTUJiNmlyQUlzY1RiRGlRb2xjYVM2UlhsZ2ljeTl2UDhpRW8?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 23:57:08 GMT",
-        "description": "重要部署！国家能源局“力推”氢能未来产业 融资客提前布局这些票 &nbsp;&nbsp; 东方财富"
+        "title": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZcHROT3dmLXlNY1ZYX0ZiWno5TjFOVkwxM084eF9FQTZfb1BjR1lkVWhwVzVlMTh1dTM3Y2pHMlZRZzJvN21VSg?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 10:10:00 GMT",
+        "description": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,6 +512,12 @@
         "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
       },
       {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
         "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
         "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
-        "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
-        "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-24 04:50 UTC"
+    "updated": "2026-04-24 08:56 UTC"
   }
 }
