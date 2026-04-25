@@ -59,10 +59,16 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+        "link": "https://36kr.com/p/3782137908403457?f=rss",
+        "pubDate": "2026-04-25 19:15:26  +0800",
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。 20"
+      },
       {
         "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
         "link": "https://36kr.com/p/3781548853533959?f=rss",
@@ -85,7 +91,7 @@
         "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
         "link": "https://36kr.com/p/3780910411193602?f=rss",
         "pubDate": "2026-04-24 22:21:58  +0800",
-        "description": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速��、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经"
+        "description": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理"
       },
       {
         "title": "氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法",
@@ -104,25 +110,47 @@
         "link": "https://36kr.com/p/3780556402531330?f=rss",
         "pubDate": "2026-04-24 16:21:20  +0800",
         "description": "文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。 在技术架构层面，微盟将其升级为“Agent+Skills”。这一转变的底层逻辑在于：将原本复杂的Saa"
-      },
-      {
-        "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-        "link": "https://36kr.com/p/3780375304312072?f=rss",
-        "pubDate": "2026-04-24 13:20:31  +0800",
-        "description": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾上有关，也与DeepSeek内部的决策变动有关。我们得知，2025年年中，DeepSeek曾面临一次较为严重的训练失败。 “当时，DeepSeek面临重新适配芯"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Was Carlos Ghosn Truly An EV Visionary?",
+        "link": "https://cleantechnica.com/2026/04/25/was-carlos-ghosn-truly-an-ev-visionary/",
+        "pubDate": "Sat, 25 Apr 2026 11:00:57 +0000",
+        "description": "I am writing this story because today, April 25, marks seven years since Ghosn walked out of a Japanese jail for a second time after posting bail of ¥500 million (about $4.5 million at the time). He had been arrested in 2018 and charged with multiple counts of financial misconduct, ... [continued] T",
+        "title_cn": "卡洛斯·戈恩真的是一个电动汽车有远见的人吗？"
+      },
+      {
+        "title": "Solar & Storage Industry Statement on U.S. Court Order Blocking Interior Memo Slowing Permitting of Solar & Storage Projects",
+        "link": "https://cleantechnica.com/2026/04/24/solar-storage-industry-statement-on-u-s-court-order-blocking-interior-memo-slowing-permitting-of-solar-storage-projects/",
+        "pubDate": "Sat, 25 Apr 2026 03:58:32 +0000",
+        "description": "WASHINGTON, D.C. — Following is a statement from Darren Van’t Hof, interim president and CEO of the Solar Energy Industries Association (SEIA), after a federal court blocked enforcement of the Department of the Interior’s memo that has slowed permitting of solar and storage projects for months: “Thi",
+        "title_cn": "太阳能和储能行业关于美国法院命令阻止内部备忘录放缓太阳能和储能项目许可的声明"
+      },
+      {
+        "title": "Hyundai Motor Reaffirms China Commitment at Auto China 2026, Unveils IONIQ V as First Step in New Product Offensive",
+        "link": "https://cleantechnica.com/2026/04/24/hyundai-motor-reaffirms-china-commitment-at-auto-china-2026-unveils-ioniq-v-as-first-step-in-new-product-offensive/",
+        "pubDate": "Sat, 25 Apr 2026 03:57:40 +0000",
+        "description": "Hyundai Motor advances a renewed China strategy anchored in its ‘In China, For China, To Global’ approach IONIQ V debuts as the first dedicated IONIQ production model for China, tailored to local customer needs and expectations China positioned as a strategic hub for EV innovation and global competi",
+        "title_cn": "现代汽车在中国2026汽车展重申中国承诺，推出IONIQ V作为新产品攻势的第一步"
+      },
+      {
+        "title": "Lynk & Co Unveils First‑Ever GT Concept “Time To Shine” At Beijing Auto Show",
+        "link": "https://cleantechnica.com/2026/04/24/lynk-co-unveils-first-ever-gt-concept-time-to-shine-at-beijing-auto-show/",
+        "pubDate": "Sat, 25 Apr 2026 03:53:36 +0000",
+        "description": "Lynk &#38; Co today unveiled its first‑ever GT concept car, “Time to Shine,” at the 2026 Beijing Auto Show. The two‑door Gran Turismo concept marks a major milestone for the brand as it celebrates its 10th anniversary, bringing together a decade of design evolution, motorsport experience and perform",
+        "title_cn": "Lynk & Co在北京车展上首次推出GT概念车“Time To Shine”"
+      },
       {
         "title": "The Link Between Whales In The Andes & Climate Change",
         "link": "https://cleantechnica.com/2026/04/24/the-link-between-whales-in-the-andes-climate-change/",
         "pubDate": "Sat, 25 Apr 2026 03:50:26 +0000",
         "description": "The discovery of fossilized whales in Chile led scientists to reconsider the effect volcanic eruptions have on the environment. The post The Link Between Whales In The Andes &#038; Climate Change appeared first on CleanTechnica .",
-        "title_cn": "安第斯山脉的鲸鱼与气候变化之间的联系"
+        "title_cn": "安第斯山脉鲸鱼与气候变化之间的联系"
       },
       {
         "title": "Gulf States Foresee Green Hydrogen Replacing Stranded Oil & Gas Assets",
@@ -144,38 +172,10 @@
         "pubDate": "Fri, 24 Apr 2026 19:05:02 +0000",
         "description": "Hyundai invited CleanTechnica into its brand new automotive factory where it is building the IONIQ 5 and IONIQ 9 for US customers. It&#8217;s located a few minutes outside of Savannah in Ellabell, Georgia. Disclaimer: Hyundai paid for the author&#8217;s travel and accommodations to attend this event",
         "title_cn": "现代Metaplant内幕"
-      },
-      {
-        "title": "Big Ferries Are Becoming Battery-First Systems",
-        "link": "https://cleantechnica.com/2026/04/24/big-ferries-are-becoming-battery-first-systems/",
-        "pubDate": "Fri, 24 Apr 2026 18:56:26 +0000",
-        "description": "Ferries are public infrastructure that happen to float. They are marine buses, freight bridges, medical access routes, school links, tourism arteries, repair crew shuttles, food supply chains, and island lifelines. When they fail, communities notice at once. When fuel costs rise, farepayers and taxp",
-        "title_cn": "大型渡轮正在成为以电池为先的系统"
-      },
-      {
-        "title": "Hyundai Partners With Waymo To Produce An IONIQ 5 Robotaxi — Field Trip",
-        "link": "https://cleantechnica.com/2026/04/24/hyundai-partners-with-waymo-to-produce-an-ioniq-5-robotaxi-field-trip/",
-        "pubDate": "Fri, 24 Apr 2026 18:47:27 +0000",
-        "description": "Hyundai opened up to us this week about its partnership with Waymo to produce a robotaxi based on the IONIQ 5 with Waymo that could see Waymo purchasing 50,000 of the EVs over the next few years. Initially, they stated that they would be building the first robotaxi to be ... [continued] The post Hyu",
-        "title_cn": "现代与Waymo合作生产IONIQ 5机器人出租车—实地考察"
-      },
-      {
-        "title": "Bill McKibben Speaking at Our Hawaii Electric Home Show on Sunday!",
-        "link": "https://cleantechnica.com/2026/04/24/bill-mckibben-speaking-at-our-hawaii-electric-home-show-on-sunday/",
-        "pubDate": "Fri, 24 Apr 2026 18:34:47 +0000",
-        "description": "One of the best climate and environmental communicators of the last few decades, Bill McKibben, will be speaking at our Electric Home Show in Hawaii this weekend. To be honest, I wasn&#8217;t keen on promoting this much in advance, because the event is focused on helping people who live in ... [cont",
-        "title_cn": "Bill McKibben周日在我们的夏威夷电动家居展上发表演讲！"
-      },
-      {
-        "title": "$30 Million In EV Incentives Approved In New York",
-        "link": "https://cleantechnica.com/2026/04/24/30-million-in-ev-incentives-approved-in-new-york/",
-        "pubDate": "Fri, 24 Apr 2026 15:21:43 +0000",
-        "description": "When the federal EV incentives were removed because of the efforts of some Republicans, it was predicted that US EV sales would plunge. They did go into slumps for many, but not all, electric vehicles. There was a little boost for EV sales still remaining in the form of state ... [continued] The pos",
-        "title_cn": "3000万美元的电动汽车激励措施在纽约获得批准"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,17 +284,24 @@
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "张掖：加快布局“绿氢+”产业链 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zOERSMDVvMlNwbWQzbzJWMDRITmpGVVQtNHJROG5kQmk4TURZU21qazRWSk5iSE5TZUhaRmthQ0NvSjRBSEhRbWFrTGRzYW1lSzdtSDd3?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 09:52:04 GMT",
+        "description": "张掖：加快布局“绿氢+”产业链 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "Official Opening and Commissioning of the New Logistics Area in Bernau for Hydrogen Mobility",
+        "link": "https://fuelcellsworks.com/2026/04/24/h2/official-opening-and-commissioning-of-the-new-logistics-area-in-bernau-for-hydrogen-mobility",
+        "pubDate": "Fri, 24 Apr 2026 15:44:32 GMT",
+        "description": "",
+        "title_cn": "贝尔瑙氢能运输新物流区正式启用和调试"
+      },
       {
         "title": "Qair Opens Its First Renewable Hydrogen Station in Béziers",
         "link": "https://fuelcellsworks.com/2026/04/24/fuel-cells/qair-opens-its-first-renewable-hydrogen-station-in-beziers",
@@ -343,17 +350,10 @@
         "pubDate": "Fri, 24 Apr 2026 14:19:21 GMT",
         "description": "",
         "title_cn": "Robinson在氢动力R66首飞前改进燃料电池系统"
-      },
-      {
-        "title": "Turning Waste Biomass Into Hydrogen and Value-Added Chemicals!",
-        "link": "https://fuelcellsworks.com/2026/04/24/news/turning-waste-biomass-into-hydrogen-and-value-added-chemicals",
-        "pubDate": "Fri, 24 Apr 2026 14:14:50 GMT",
-        "description": "",
-        "title_cn": "将废弃生物质转化为氢气和增值化学品！"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,16 +452,16 @@
         "description": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
-        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
-      },
-      {
         "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
+      },
+      {
+        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
+        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
+        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
@@ -512,6 +512,12 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
         "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
         "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
@@ -524,12 +530,6 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
-      },
-      {
         "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
         "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-25 08:02 UTC"
+    "updated": "2026-04-25 14:37 UTC"
   }
 }
