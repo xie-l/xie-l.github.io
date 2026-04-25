@@ -59,10 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+        "link": "https://36kr.com/p/3781548853533959?f=rss",
+        "pubDate": "2026-04-25 09:10:38  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为AI可解析、可执行的逻辑，降低AI在工业场景的落地门槛。 硬氪获悉，智用开物的核"
+      },
+      {
+        "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+        "link": "https://36kr.com/p/3781532841581576?f=rss",
+        "pubDate": "2026-04-25 09:01:05  +0800",
+        "description": "整理 ｜孟孟&nbsp; 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应&nbsp; 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 马斯克花4000多亿买下00后公司，SpaceX锁定Cursor补齐AI编程短板&nbsp; 近日，SpaceX与AI编程初创公司Cursor达成一项收购协议：SpaceX获得以600亿美元（约合人民币4000多亿元）收购Cursor的选择权。Cursor由四名麻省理工学院辍学的“00后”学生于四"
+      },
       {
         "title": "低头是日常，抬头是阅读",
         "link": "https://36kr.com/p/3780986341153798?f=rss",
@@ -70,7 +82,7 @@
         "description": "建筑设计师陈敏的手机里有一份极其多元的“阅读清单”。清晨通勤的地铁上，她习惯戴上降噪耳机，在播客节目中了解行业前沿信息；午休时的餐厅里，她会利用等餐的碎片时间，快速翻阅手机上关注的几篇建筑美学推文。而在工作间隙，她喜欢走出办公室，在上海的街道上散步，观察那些历史建筑的肌理与城市空间的流动。对她而言，这同样是一种深度阅读。到了深夜临睡前，她又会回归那种更传统的体验，在平板电脑上追更一章连载网文。 事实上，如今的阅读早已不是一种需要正襟危坐的特定仪式，而是像空气一样，自然地渗入了生活的每一处缝隙。 这种“随时随地”的阅读状态，在研究数据中得到了有力印证。新近发布的《2025年度中国数字阅读报告》显"
       },
       {
-        "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三���跨越",
+        "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
         "link": "https://36kr.com/p/3780910411193602?f=rss",
         "pubDate": "2026-04-24 22:21:58  +0800",
         "description": "随着全球卫星星座计划加速部署，在轨卫星数量激增，太空交通安全问题正在从理论风险变成现实问题。 有数据显示，过去半年，全球最大的卫星星座仅半年内就实施了超过5万次主动避碰操作。而当未来星座建设规模达到数万颗、甚至百万颗体量，传统依靠地面站24小时人工监测管控的模式将会面临管理难度陡增、成本高企、传输受限等难题，高速率、高稳定、高安全的星间通信与智能化在轨管理成为技术趋势。 要实现这一目标，既需要高可靠的激光通信终端，也需要AI大模型自主分析、自主决策能力的加持。 在4月24日举办的“2026中国航天日”商业航天产业高质量发展论坛上，中科天塔正式发布了公司新一代星载激光通信终端。 中科天塔副总经理"
@@ -98,25 +110,27 @@
         "link": "https://36kr.com/p/3780375304312072?f=rss",
         "pubDate": "2026-04-24 13:20:31  +0800",
         "description": "文｜周鑫雨 资料整理｜钟楚笛 编辑｜苏建勋 杨轩 靴子终于落地。 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。 DeepSeek V4性能测评结果。 姗姗来迟的原由，与V4将训练框架从英伟达迁移到华为昇腾上有关，也与DeepSeek内部的决策变动有关。我们得知，2025年年中，DeepSeek曾面临一次较为严重的训练失败。 “当时，DeepSeek面临重新适配芯"
-      },
-      {
-        "title": "融了2000万美金，这家2000万美金ARR的AI公司，推出“视频版Photoshop”「Buzzy」",
-        "link": "https://36kr.com/p/3780352721851397?f=rss",
-        "pubDate": "2026-04-24 12:58:37  +0800",
-        "description": "文｜周鑫雨 编辑｜杨轩 一句话介绍 Buzzy（https://www.buzzy.now/）是AI内容创作公司“感知阶跃”旗下的视频编辑Agent平台，主要面向C端内容创作者和中小型商家。 好比“视频版的PhotoShop”，用户只需下达自然语言指令，就能驱动Agent对视频进行背景去除、光线修正、产品替换、背景/视角更改等编辑操作。 团队介绍 “感知阶跃”创始人兼CEO Ella Zhang（张诗莹），曾在苹果、Oculus VR、Google负责核心产品。 在苹果期间，她曾为AirPods产品线创始团队核心成员，负责产品的系统集成和全周期设计落地，包括音频产品的架构设计、元器件选型、原理"
-      },
-      {
-        "title": "茅台向经销商「要利润」",
-        "link": "https://36kr.com/p/3780191213229314?f=rss",
-        "pubDate": "2026-04-24 12:25:05  +0800",
-        "description": "作者 | &nbsp;谢芸子 编辑 |&nbsp; 张帆&nbsp; 蹲守在A股市场的投资人们可能被“吓了一跳”。 4月16日晚间，贵州茅台发布了2025年财报数据，营收达到1720.54亿元，同比下降1.2%；归母净利润为823.2亿元，同比下降4.53%。这是茅台自2001年上市以来的首次“双降”，至此终结了此前二十余年持续的正增长纪录。 受此影响，贵州茅台股价次日开盘一度跌破1400元大关，最终收跌3.8%，市值单日蒸发近700亿元。 简单拆分财报，公司的核心产品“飞天茅台”算是稳住了基本盘。上一年度，茅台酒营收为1465亿元，同比增加0.39%。 一度被寄予厚望，被视作“第二增长曲线”"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Gulf States Foresee Green Hydrogen Replacing Stranded Oil & Gas Assets",
+        "link": "https://cleantechnica.com/2026/04/24/gulf-states-foresee-green-hydrogen-replacing-stranded-oil-gas-assets/",
+        "pubDate": "Sat, 25 Apr 2026 03:03:12 +0000",
+        "description": "A new multi-state research and demonstration program aims to repurpose offshore oil and gas infrastructure for green hydrogen, among other uses. The post Gulf States Foresee Green Hydrogen Replacing Stranded Oil &#038; Gas Assets appeared first on CleanTechnica .",
+        "title_cn": "海湾国家预计绿色氢能将取代搁浅的石油和天然气资产"
+      },
+      {
+        "title": "A Big National Security Secret Lurks Beneath The $1 Billion TotalEnergies Payoff",
+        "link": "https://cleantechnica.com/2026/04/24/a-big-national-security-secret-lurks-beneath-the-1-billion-totalenergies-payoff/",
+        "pubDate": "Sat, 25 Apr 2026 03:01:29 +0000",
+        "description": "The French energy firm TotalEnergies drops plans for two wind farms in the US, picks up lots more activity elsewhere around the world. The post A Big National Security Secret Lurks Beneath The $1 Billion TotalEnergies Payoff appeared first on CleanTechnica .",
+        "title_cn": "$ 10亿TotalEnergies回报背后隐藏着一个巨大的国家安全秘密"
+      },
       {
         "title": "A Look Inside Hyundai’s Metaplant",
         "link": "https://cleantechnica.com/2026/04/24/a-look-inside-hyundais-metaplant/",
@@ -158,24 +172,10 @@
         "pubDate": "Fri, 24 Apr 2026 15:16:26 +0000",
         "description": "In my flat Florida community I all-too-often see people exercising with a podcast playing in their ears. Earbuds allow non-stop entertainment, of course. I get that. It assuages boredom. Then again, listening to others&#8217; thoughts removes us from awareness of the world around us. How do we enhan",
         "title_cn": "取出耳塞，欣赏周围的大自然！"
-      },
-      {
-        "title": "Formula E Unveils GEN4 Car As Series Eyes Berlin Double-Header",
-        "link": "https://cleantechnica.com/2026/04/24/formula-e-unveils-gen4-car-as-series-eyes-berlin-double-header/",
-        "pubDate": "Fri, 24 Apr 2026 15:14:38 +0000",
-        "description": "The most powerful single-seater in Formula E history made its public track debut this week at Circuit Paul Ricard, where the series&#8217; incoming GEN4 machine gave onlookers their first unfiltered look at a car that former champion Jake Dennis has already described as an &#8220;absolute beast.&#82",
-        "title_cn": "Formula E推出GEN4 Car As Series Eyes柏林双头赛车"
-      },
-      {
-        "title": "VinFast Launches The Limo Green In India, Renames It The MPV7",
-        "link": "https://cleantechnica.com/2026/04/24/vinfast-launches-the-limo-green-in-india-renames-it-the-mpv7/",
-        "pubDate": "Fri, 24 Apr 2026 10:09:02 +0000",
-        "description": "Vietnamese electric vehicle maker VinFast has begun reshaping its lineup in India by positioning the fleet-focused Limo Green as a more luxurious product under a new name: MPV7. But VinFast tells CleanTechnica this is not the Limo Green. Not even a rebadge, because the MP7 is a premium vehicle in th",
-        "title_cn": "VinFast在印度推出豪华轿车绿色，将其更名为MPV7"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "energy_cn": {
     "items": [
@@ -258,6 +258,12 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
         "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "张掖：加快布局“绿氢+”产业链 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zOERSMDVvMlNwbWQzbzJWMDRITmpGVVQtNHJROG5kQmk4TURZU21qazRWSk5iSE5TZUhaRmthQ0NvSjRBSEhRbWFrTGRzYW1lSzdtSDd3?oc=5",
+        "pubDate": "Tue, 14 Apr 2026 09:52:04 GMT",
+        "description": "张掖：加快布局“绿氢+”产业链 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -282,26 +288,13 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
         "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
-      },
-      {
-        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "Official Opening and Commissioning of the New Logistics Area in Bernau for Hydrogen Mobility",
-        "link": "https://fuelcellsworks.com/2026/04/24/h2/official-opening-and-commissioning-of-the-new-logistics-area-in-bernau-for-hydrogen-mobility",
-        "pubDate": "Fri, 24 Apr 2026 15:44:32 GMT",
-        "description": "",
-        "title_cn": "贝尔瑙氢能运输新物流区正式启用和调试"
-      },
       {
         "title": "Qair Opens Its First Renewable Hydrogen Station in Béziers",
         "link": "https://fuelcellsworks.com/2026/04/24/fuel-cells/qair-opens-its-first-renewable-hydrogen-station-in-beziers",
@@ -350,10 +343,17 @@
         "pubDate": "Fri, 24 Apr 2026 14:19:21 GMT",
         "description": "",
         "title_cn": "Robinson在氢动力R66首飞前改进燃料电池系统"
+      },
+      {
+        "title": "Turning Waste Biomass Into Hydrogen and Value-Added Chemicals!",
+        "link": "https://fuelcellsworks.com/2026/04/24/news/turning-waste-biomass-into-hydrogen-and-value-added-chemicals",
+        "pubDate": "Fri, 24 Apr 2026 14:14:50 GMT",
+        "description": "",
+        "title_cn": "将废弃生物质转化为氢气和增值化学品！"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,10 +483,40 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
       {
         "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
@@ -500,43 +530,13 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
-      },
-      {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
-      },
-      {
-        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
-        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
-        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
+        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
+        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-24 22:34 UTC"
+    "updated": "2026-04-25 04:31 UTC"
   }
 }
