@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Our Electrified Home",
+        "link": "https://cleantechnica.com/2026/04/25/our-electrified-home/",
+        "pubDate": "Sun, 26 Apr 2026 03:50:33 +0000",
+        "description": "Earlier today (April 25, 2026), I attended the Electric Home Show at the Blaisdell Center in downtown Honolulu, where I met Scott Cooney and Zachary Shahan of this august publication. It was a blast meeting them, test driving a Kia EV9, and talking to many of the vendors there. I ... [continued] The",
+        "title_cn": "我们的电气化住宅"
+      },
       {
         "title": "Should We Dam The Bering Strait To Keep The AMOC From Collapsing?",
         "link": "https://cleantechnica.com/2026/04/25/should-we-dam-the-bering-strait-to-keep-the-amoc-from-collapsing/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 25 Apr 2026 03:58:32 +0000",
         "description": "WASHINGTON, D.C. — Following is a statement from Darren Van’t Hof, interim president and CEO of the Solar Energy Industries Association (SEIA), after a federal court blocked enforcement of the Department of the Interior’s memo that has slowed permitting of solar and storage projects for months: “Thi",
         "title_cn": "太阳能和储能行业关于美国法院命令阻止内部备忘录放缓太阳能和储能项目许可的声明"
-      },
-      {
-        "title": "Hyundai Motor Reaffirms China Commitment at Auto China 2026, Unveils IONIQ V as First Step in New Product Offensive",
-        "link": "https://cleantechnica.com/2026/04/24/hyundai-motor-reaffirms-china-commitment-at-auto-china-2026-unveils-ioniq-v-as-first-step-in-new-product-offensive/",
-        "pubDate": "Sat, 25 Apr 2026 03:57:40 +0000",
-        "description": "Hyundai Motor advances a renewed China strategy anchored in its ‘In China, For China, To Global’ approach IONIQ V debuts as the first dedicated IONIQ production model for China, tailored to local customer needs and expectations China positioned as a strategic hub for EV innovation and global competi",
-        "title_cn": "现代汽车在中国2026汽车展重申中国承诺，推出IONIQ V作为新产品攻势的第一步"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "energy": {
     "items": [
@@ -237,15 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "energy_cn": {
     "items": [
       {
         "title": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 - 东方财富",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQ0RLcDJsRDdwVXY5SmYxVU1iSVVlTWFERHo4RjVjQjlOZGpZaGlCWG5kNGpmdVpuVHNqM3d5dWdIZ2gwMjQ0SnFlaGQ1STJNV3V1akNmQmJUY1VIYVNmRg?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 12:41:58 GMT",
+        "pubDate": "Wed, 22 Apr 2026 14:41:59 GMT",
         "description": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 &nbsp;&nbsp; 东方财富"
+      },
+      {
+        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 14:18:00 GMT",
+        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
       },
       {
         "title": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 - 国际氢能网",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -498,6 +498,12 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
         "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
         "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -524,19 +530,13 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
-        "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
-        "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
-      },
-      {
-        "title": "全国首个城市绿证绿电碳业务服务中心在杭成立，能给我们带来什么 - 浙江省经济信息中心",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lVU1ZY0k2WW8wZ2w2X2MtSlh1dnhfWGYxNnFUcTJ2VHB6bElFMy1PanpXT2tucVJiQlNRaUoxOHBSVDI5VkJiUXJHbjdiX3RIbWlOMWtTT243TmpyenJmamFaNF9HSGdNR0xHNnBpWk1LQQ?oc=5",
-        "pubDate": "Wed, 16 Apr 2025 07:00:00 GMT",
-        "description": "全国首个城市绿证绿电碳业务服务中心在杭成立，能给我们带来什么 &nbsp;&nbsp; 浙江省经济信息中心"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-26 08:13 UTC"
+    "updated": "2026-04-26 14:38 UTC"
   }
 }
