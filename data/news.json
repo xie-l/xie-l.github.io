@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The National Science Board Purge Is A Warning About American Decline",
+        "link": "https://cleantechnica.com/2026/04/26/the-national-science-board-purge-is-a-warning-about-american-decline/",
+        "pubDate": "Mon, 27 Apr 2026 03:50:03 +0000",
+        "description": "The members of the National Science Board were not removed after hearings, evidence of misconduct, or a public argument about science policy. They were dismissed by email. No explanation. No transition. No apparent respect for institutional memory, earned authority, or the basic idea that the nation",
+        "title_cn": "国家科学委员会的清洗是对美国衰落的警告"
+      },
       {
         "title": "It’s The Affordability, Stupid! Crafting Climate Strategies That Work",
         "link": "https://cleantechnica.com/2026/04/26/its-the-affordability-stupid-crafting-climate-strategies-that-work/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 25 Apr 2026 18:26:51 +0000",
         "description": "The electric garbage truck is not the poster child for vehicle electrification. It does not have the consumer glamour of an electric pickup, the political visibility of an electric bus, or the freight-sector drama of battery-electric and hydrogen tractor-trailers fighting for long-haul mindshare (ba",
         "title_cn": "电动垃圾车是隐藏在视线中的重型电动汽车故事"
-      },
-      {
-        "title": "Do-Over! Republicans Cry Uncle On Federal Tax Incentives",
-        "link": "https://cleantechnica.com/2026/04/25/do-over-republicans-cry-uncle-on-federal-tax-incentives/",
-        "pubDate": "Sat, 25 Apr 2026 18:26:20 +0000",
-        "description": "In an open admission that Trump's beloved \"One Big Beautiful Bill Act\" is a massive failure, four Republican members of the US House of Representatives propose preserving and extending key tax incentives for energy efficiency and clean energy. The post Do-Over! Republicans Cry Uncle On Federal Tax I",
-        "title_cn": "改过自新！共和党人因联邦税收优惠而哭叔叔"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,12 +260,6 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wOXJSa3IyWVI5cEczNkg1VE53SGxiLWwwTFhjRTlrUnZ1WlI2Y2NoWldJazFobVpJb3EtQ2p0SXBrX0Z4Wmcxb29xWllsaUsteDJqSA?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 00:55:04 GMT",
-        "description": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
@@ -278,20 +272,26 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
+        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
         "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
       },
       {
-        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "papers": {
     "items": [
@@ -418,7 +418,7 @@
         "link": "https://arxiv.org/abs/2604.22710v1",
         "pubDate": "2026-04-24T16:46:41Z",
         "description": "Spatial domain exploitation through 3D beamforming serves as a critical technology enabler for performance enhancement in the Fifth Generation New Radio (5G NR) specification. This is realized at the gNodeB (gNB) through the integration of massive antenna element arrays that facilitates 3D spatial m",
-        "title_cn": "评估3GPP特定波束成形和信道估计对5G gNB 3D EIRP轮廓的影响"
+        "title_cn": "评估3GPP特定波束成形和信道估计对5G gNB 3D EIRP剖面的影响"
       },
       {
         "title": "Reionization, UV Luminosity and 21$\\,$cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses",
@@ -429,15 +429,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEekhOME5fekZJSlRIUS1XSjdfNVp0N1BHRi02MUlKOHR3WExxb1gzTXlmYlMwSUR1d09MbFdpZnhHNTFDYnMxWmN5X01IQ0MwMG1idVZSSXZOLVpWcms1NnNoalJPTDEzelVqa3ZTakJHSGlPVDBnMlJR?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 05:09:22 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 06:16:06 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 - 新浪财经",
@@ -452,22 +458,10 @@
         "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
         "title": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHUndhTUhYNEdoQ0l3MDJFVWFJVWxWS1pPeFBxYXVBTzEySU5iVGdUQVhWSE54d0dFQ0hNSTROQTVrSnlSYTQ4Yg?oc=5",
         "pubDate": "Wed, 15 Apr 2026 05:02:49 GMT",
         "description": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业 &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
-        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
       },
       {
         "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
@@ -476,14 +470,20 @@
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
+        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
+        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
+      },
+      {
+        "title": "沪深两指窄幅震荡，科创50指数半日大涨3.46% - mrjjxw.com",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcEF4dktfRTJhU2dmN3l5cS1uWVZ3SEZRQzVlTkxkZFNPR3Z2cFNLUUNQV3lQeG9aWUxGRW55b3B4N1NBQXYtWDBFaUUyUUtXaEh1UkxSUFpyM2JxWi1ZVWNmbmRjZw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 05:29:00 GMT",
+        "description": "沪深两指窄幅震荡，科创50指数半日大涨3.46% &nbsp;&nbsp; mrjjxw.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,6 +500,12 @@
         "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
       },
       {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
@@ -512,31 +518,25 @@
         "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
-        "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
-        "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "国家发展改革委发布碳达峰碳中和重大宣示三周年重要成果 - ndrc.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWTRKY0JUY09mYnpfSmxQLWNpWDZ0OWNFUEpMaVlMLWF6U1h0V20tS1BxX1k5U2s2YkEtaTNTVVVxRmtTVEdXZGtEeERTN1pkQk9Mb0JkdHFoQUtQYmhwOXMzTm51SU1RTkRldXYxNW5ObTJzNGU2R0RPYklVV0VIdg?oc=5",
-        "pubDate": "Thu, 17 Aug 2023 07:00:00 GMT",
-        "description": "国家发展改革委发布碳达峰碳中和重大宣示三周年重要成果 &nbsp;&nbsp; ndrc.gov.cn"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-27 05:18 UTC"
+    "updated": "2026-04-27 09:14 UTC"
   }
 }
