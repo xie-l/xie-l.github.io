@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+        "link": "https://www.nature.com/articles/s41586-026-10563-y",
+        "pubDate": "2026-04-27",
+        "description": "Nature, Published online: 27 April 2026; doi:10.1038/s41586-026-10563-y Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
+        "title_cn": "使用HERRO校正的单纯形纳米孔读数进行端粒到端粒的组装"
+      },
+      {
         "title": "#ScientistAtWork 2026: Nature seeks striking photographs that capture researchers at work",
         "link": "https://www.nature.com/articles/d41586-026-01266-5",
         "pubDate": "2026-04-27",
@@ -23,6 +30,20 @@
         "title_cn": "代理人工智能会推翻补助金资助系统吗？"
       },
       {
+        "title": "Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved",
+        "link": "https://www.nature.com/articles/d41586-026-01295-0",
+        "pubDate": "2026-04-27",
+        "description": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01295-0 Discovery bolsters theory that ancient mitochondria formed brand-new, specialized ‘sacs’ in cells by shedding their outer membranes.",
+        "title_cn": "线粒体可以产生新的“细胞器” --暗示现代细胞是如何进化的"
+      },
+      {
+        "title": "‘The job description is changing’: mathematician Terence Tao on the rise of AI",
+        "link": "https://www.nature.com/articles/d41586-026-01246-9",
+        "pubDate": "2026-04-27",
+        "description": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01246-9 The Fields medallist discusses how ever-evolving technology is transforming mathematicians’ work.",
+        "title_cn": "“工作描述正在发生变化” ：数学家Terence Tao谈人工智能的崛起"
+      },
+      {
         "title": "Why cosmology is more than a theory",
         "link": "https://www.nature.com/articles/d41586-026-01303-3",
         "pubDate": "2026-04-27",
@@ -35,39 +56,24 @@
         "pubDate": "2026-04-26",
         "description": "Nature, Published online: 26 April 2026; doi:10.1038/d41586-026-01361-7 Members of the National Science Board, which the US Congress founded in 1950, were given no explanation for their termination.",
         "title_cn": "特朗普政府解雇了整个NSF科学顾问委员会"
-      },
-      {
-        "title": "Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
-        "link": "https://www.nature.com/articles/s41586-026-10518-3",
-        "pubDate": "2026-04-24",
-        "description": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10518-3 Author Correction: Commensal yeast promotes Salmonella Typhimurium virulence",
-        "title_cn": "作者更正：共生酵母促进鼠伤寒沙门氏菌毒力"
-      },
-      {
-        "title": "Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
-        "link": "https://www.nature.com/articles/s41586-026-10552-1",
-        "pubDate": "2026-04-24",
-        "description": "Nature, Published online: 24 April 2026; doi:10.1038/s41586-026-10552-1 Author Correction: A µ-opioid receptor superagonist analgesic with minimal adverse effects",
-        "title_cn": "作者更正：一种具有最小副作用的µ-阿片受体超级激动剂镇痛药"
-      },
-      {
-        "title": "Cosmic-ray detection heralds era of mega-observatories for neutrinos",
-        "link": "https://www.nature.com/articles/d41586-026-01282-5",
-        "pubDate": "2026-04-24",
-        "description": "Nature, Published online: 24 April 2026; doi:10.1038/d41586-026-01282-5 Radio sensors at South Pole suggest arrays could record neutrinos of unprecedented energies over hundreds of cubic kilometres of ice.",
-        "title_cn": "宇宙射线探测预示着中微子的巨型天文台时代"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "tech_cn": {
     "items": [
       {
+        "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
+        "link": "https://36kr.com/p/3784806758243587?f=rss",
+        "pubDate": "2026-04-28 00:27:19  +0800",
+        "description": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。 仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我"
+      },
+      {
         "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
         "link": "https://36kr.com/p/3784879395134465?f=rss",
         "pubDate": "2026-04-27 19:41:44  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。 在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。 未岚大陆第100万台智能割草机器人下线 曲线增长背后是是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，202"
+        "description": "作者｜黄楠 编辑｜袁斯来 近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。 在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。 未岚大陆第100万台智能割草机器人下线 曲线增长背后是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，2025"
       },
       {
         "title": "氪星晚报｜五一假期约600万人次进出香港；谷歌将在韩国新建人工智能园区，韩国总统府证实；英国大型企业普遍不清楚自身数据在海外被人工智能如何使用",
@@ -104,19 +110,34 @@
         "link": "https://36kr.com/p/3784365164322055?f=rss",
         "pubDate": "2026-04-27 09:00:00  +0800",
         "description": "文｜邱晓芬 编辑｜苏建勋 2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。 点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头—— 先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%； 随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推出Umi手套数据采集方案，还直接将机器人Memo送进家庭做家务（收拾餐做、冲咖啡、叠衣服），因此吸引了大量的资本押注。 在大洋彼岸的中国，近期闯入家庭机器人领域的创"
-      },
-      {
-        "title": "8点1氪丨豆包提前查到2026山东事业编成绩？最新回应；东方甄选主播集体离职，俞敏洪回应；花呗白条月付等面临重大调整",
-        "link": "https://36kr.com/p/3784311487945735?f=rss",
-        "pubDate": "2026-04-27 08:03:45  +0800",
-        "description": "今日热点导览 美国白宫记者晚宴大厅发生枪击事件 王传福夫妇坐地铁参加北京车展被偶遇 DeepSeekV4成OpenClaw默认模型 2025年全国大型演唱会票房295.58亿 OpenAI首席执行官就未通报枪击案嫌疑人道歉 TOP3大新闻 豆包提前查到2026山东事业编成绩？最新回应 4月23日晚间，有网友发帖称，“豆包查到2026山东事业编成绩了”，并附上一张成绩单，但成绩部分涂掉了。“不过好像只有济南槐荫区的能查，是不是属实咱也不知道，到底啥情况呀？”4月24日，记者联系上该网友了解到，帖子内容来自其他网友，但目前原帖网友已经删除了帖子。有网友表示，AI搜集信息的能力很强大，“链接做好了还"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Taking the Hyundai IONIQ 5 XRT Out to Play in the Dirt",
+        "link": "https://cleantechnica.com/2026/04/27/taking-the-hyundai-ioniq-5-xrt-out-to-play-in-the-dirt/",
+        "pubDate": "Mon, 27 Apr 2026 22:37:05 +0000",
+        "description": "Hyundai invited CleanTechnica out to their factory near Savannah, Georgia, and while we were there, we had an opportunity to take their new Hyundai IONIQ 5 XRT out to play in the dirt. Disclaimer: Hyundai paid for the author&#8217;s travel and accommodations to attend this event in Savannah, Georgia",
+        "title_cn": "带着现代IONIQ 5 XRT在泥土中玩耍"
+      },
+      {
+        "title": "Critical Minerals: China’s Grip, America’s Volatility, Europe’s Choice",
+        "link": "https://cleantechnica.com/2026/04/27/critical-minerals-chinas-grip-americas-volatility-europes-choice/",
+        "pubDate": "Mon, 27 Apr 2026 20:14:11 +0000",
+        "description": "The energy transition will not fail because the world runs out of useful minerals. It can be slowed, made more expensive, and made more fragile because the industrial systems that turn minerals into batteries, motors, power electronics, grid equipment, and vehicles are concentrated, politically expo",
+        "title_cn": "关键矿物：中国的抓地力、美国的波动性、欧洲的选择"
+      },
+      {
+        "title": "Swapping Out Diesel For Solar & Batteries In The Amazon Rainforest",
+        "link": "https://cleantechnica.com/2026/04/27/swapping-out-diesel-for-solar-batteries-in-the-amazon-rainforest/",
+        "pubDate": "Mon, 27 Apr 2026 17:23:40 +0000",
+        "description": "Many villages in the Amazon basin have no roads, and solar and batteries are replacing diesel generators that are supplied by boat. The post Swapping Out Diesel For Solar &#038; Batteries In The Amazon Rainforest appeared first on CleanTechnica .",
+        "title_cn": "在亚马逊雨林中将柴油换成太阳能和电池"
+      },
       {
         "title": "126 New EV Fast Chargers Are Coming To Oregon",
         "link": "https://cleantechnica.com/2026/04/27/126-new-ev-fast-chargers-are-coming-to-oregon/",
@@ -151,34 +172,27 @@
         "pubDate": "Sun, 26 Apr 2026 17:30:08 +0000",
         "description": "The last time I checked in with this Finnish guy with his solar-powered boat, he was still in Finnish waters or near them. In this more recent video, he is headed toward Spain, having mostly passed through France. In my last article, I included one of his videos from months ... [continued] The post ",
         "title_cn": "太阳能游船行驶数千英里"
-      },
-      {
-        "title": "The City Of Providence, Rhode Island Is Ready To Decarbonize",
-        "link": "https://cleantechnica.com/2026/04/26/the-city-of-providence-rhode-island-is-ready-to-decarbonize/",
-        "pubDate": "Sun, 26 Apr 2026 17:25:40 +0000",
-        "description": "Envision early 20th century Providence, Rhode Island. Over a century of textile manufacturing had dumped industrial toxins &#8212; thousands of per- and polyfluoroalkyl substances, more commonly known as PFAS or “forever chemicals.” Two rivers combine to form the Providence River: the Woonosquatucke",
-        "title_cn": "罗德岛州普罗维登斯市已准备好脱碳"
-      },
-      {
-        "title": "Our Electrified Home",
-        "link": "https://cleantechnica.com/2026/04/25/our-electrified-home/",
-        "pubDate": "Sun, 26 Apr 2026 03:50:33 +0000",
-        "description": "Earlier today (April 25, 2026), I attended the Electric Home Show at the Blaisdell Center in downtown Honolulu, where I met Scott Cooney and Zachary Shahan of this august publication. It was a blast meeting them, test driving a Kia EV9, and talking to many of the vendors there. I ... [continued] The",
-        "title_cn": "我们的电气化住宅"
-      },
-      {
-        "title": "Should We Dam The Bering Strait To Keep The AMOC From Collapsing?",
-        "link": "https://cleantechnica.com/2026/04/25/should-we-dam-the-bering-strait-to-keep-the-amoc-from-collapsing/",
-        "pubDate": "Sat, 25 Apr 2026 18:48:02 +0000",
-        "description": "A study from the Netherlands suggests building a dam across the Bering Strait could stabilize the AMOC. Is that a good idea? The post Should We Dam The Bering Strait To Keep The AMOC From Collapsing? appeared first on CleanTechnica .",
-        "title_cn": "我们是否应该修建白令海峡以防止AMOC崩溃？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Water-based membranes",
+        "link": "https://www.nature.com/articles/s41560-026-02058-x",
+        "pubDate": "2026-04-27",
+        "description": "Nature Energy, Published online: 27 April 2026; doi:10.1038/s41560-026-02058-x Water-based membranes",
+        "title_cn": "水基膜"
+      },
+      {
+        "title": "Sodium is not lithium",
+        "link": "https://www.nature.com/articles/s41560-026-02057-y",
+        "pubDate": "2026-04-27",
+        "description": "Nature Energy, Published online: 27 April 2026; doi:10.1038/s41560-026-02057-y Sodium is not lithium",
+        "title_cn": "钠不是锂"
+      },
       {
         "title": "Mitigating lead toxicity towards safer commercialization of perovskite solar cells",
         "link": "https://www.nature.com/articles/s41560-026-02037-2",
@@ -220,24 +234,10 @@
         "pubDate": "2026-04-17",
         "description": "Nature Energy, Published online: 17 April 2026; doi:10.1038/s41560-026-02035-4 The integration of carbon capture and electrochemical conversion is an emerging strategy to valorize CO2. Here the authors demonstrate that altering CO2–amine speciation in aprotic media enhances CO2 uptake and suppresses",
         "title_cn": "通过控制非水电解质中的胺形态进行反应性CO 2捕获"
-      },
-      {
-        "title": "A scalable, biopolymer-based microenvironment for electrochemical CO 2 conversion to multicarbon products with current densities over 2 A cm − 2",
-        "link": "https://www.nature.com/articles/s41560-026-02040-7",
-        "pubDate": "2026-04-17",
-        "description": "Nature Energy, Published online: 17 April 2026; doi:10.1038/s41560-026-02040-7 Electrochemical CO2 reduction to multicarbon products is hindered by difficulties in microenvironment control at high current densities. Here the authors demonstrate that biopolymer coatings on electrocatalysts enhance lo",
-        "title_cn": "一种可扩展的基于生物聚合物的微环境，用于将电化学CO 2转化为电流密度超过2 A cm − 2的多碳产品"
-      },
-      {
-        "title": "Grid access and electricity for refugees",
-        "link": "https://www.nature.com/articles/s41560-026-02033-6",
-        "pubDate": "2026-04-15",
-        "description": "Nature Energy, Published online: 15 April 2026; doi:10.1038/s41560-026-02033-6 Sarah Rosenberg-Jansen is a senior research fellow at the Stockholm Environment Institute, where she conducts research on UN institutional policies and private-sector practices on sustainable energy and climate within hum",
-        "title_cn": "为难民提供电网接入和电力"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "energy_cn": {
     "items": [
@@ -258,12 +258,6 @@
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wOXJSa3IyWVI5cEczNkg1VE53SGxiLWwwTFhjRTlrUnZ1WlI2Y2NoWldJazFobVpJb3EtQ2p0SXBrX0Z4Wmcxb29xWllsaUsteDJqSA?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 00:55:04 GMT",
-        "description": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -288,72 +282,78 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
         "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
+        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Official Opening and Commissioning of the New Logistics Area in Bernau for Hydrogen Mobility",
-        "link": "https://fuelcellsworks.com/2026/04/24/h2/official-opening-and-commissioning-of-the-new-logistics-area-in-bernau-for-hydrogen-mobility",
-        "pubDate": "Fri, 24 Apr 2026 15:44:32 GMT",
+        "title": "Fuel Cell and Hydrogen News Highlights From China: April 19-April 24 2026",
+        "link": "https://fuelcellsworks.com/2026/04/26/clean-hydrogen/fuel-cell-and-hydrogen-news-highlights-from-china-april-19-april-24-2026",
+        "pubDate": "Mon, 27 Apr 2026 15:57:19 GMT",
         "description": "",
-        "title_cn": "贝尔瑙氢能运输新物流区正式启用和调试"
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年4月19日至4月24日"
       },
       {
-        "title": "Qair Opens Its First Renewable Hydrogen Station in Béziers",
-        "link": "https://fuelcellsworks.com/2026/04/24/fuel-cells/qair-opens-its-first-renewable-hydrogen-station-in-beziers",
-        "pubDate": "Fri, 24 Apr 2026 15:35:17 GMT",
+        "title": "Pasadena Transit Zero-Emission Bus Rollout Faces Real-World Range Challenges as Hydrogen Strategy Advances",
+        "link": "https://fuelcellsworks.com/2026/04/27/fuel-cells/pasadena-transit-zero-emission-bus-rollout-faces-real-world-range-challenges-as-hydrogen-strategy-advances",
+        "pubDate": "Mon, 27 Apr 2026 15:51:34 GMT",
         "description": "",
-        "title_cn": "Qair在贝济耶开设首个可再生氢气站"
+        "title_cn": "随着氢能战略的进步，帕萨迪纳公交零排放公交车的推出面临着现实世界的挑战"
       },
       {
-        "title": "Hydrogen Costs Stable Week on Week but Volatility Elevated Amid Middle East Tensions",
-        "link": "https://fuelcellsworks.com/2026/04/22/h2/hydrogen-costs-stable-week-on-week-but-volatility-elevated-amid-middle-east-tensions",
-        "pubDate": "Fri, 24 Apr 2026 15:32:14 GMT",
+        "title": "Advancing the Global Green Hydrogen Economy",
+        "link": "https://fuelcellsworks.com/2026/04/27/electrolyzer/advancing-the-global-green-hydrogen-economy",
+        "pubDate": "Mon, 27 Apr 2026 15:42:04 GMT",
         "description": "",
-        "title_cn": "氢成本一周比一周稳定，但在中东紧张局势下波动性加剧"
+        "title_cn": "推进全球绿色氢经济"
       },
       {
-        "title": "ABS, Marinteknik, Seatech, and VINSSEN Launch Hydrogen Fuel Cell Harbor Craft Pilot Study in Singapore",
-        "link": "https://fuelcellsworks.com/2026/04/24/energy-innovation/abs-marinteknik-seatech-and-vinssen-launch-hydrogen-fuel-cell-harbor-craft-pilot-study-in-singapore",
-        "pubDate": "Fri, 24 Apr 2026 15:27:49 GMT",
+        "title": "Researchers Design Membrane That Increases Hydrogen Purification Efficiency 10X",
+        "link": "https://fuelcellsworks.com/2026/04/26/fuel-cells/researchers-design-membrane-that-increases-hydrogen-purification-efficiency-10x",
+        "pubDate": "Mon, 27 Apr 2026 15:21:08 GMT",
         "description": "",
-        "title_cn": "ABS、Marinteknik、Seatech和VINSSEN在新加坡启动氢燃料电池港口工艺试点研究"
+        "title_cn": "研究人员设计的膜可将氢气净化效率提高10倍"
       },
       {
-        "title": "Tokyo Launches Japan's First Government-Operated Hydrogen Fuel Cell Ships",
-        "link": "https://fuelcellsworks.com/2026/04/22/news/tokyo-launches-japan-s-first-government-operated-hydrogen-fuel-cell-ships",
-        "pubDate": "Fri, 24 Apr 2026 15:06:23 GMT",
+        "title": "Mine Scars Healed with Green Technology",
+        "link": "https://fuelcellsworks.com/2026/04/27/clean-energy/mine-scars-healed-with-green-technology",
+        "pubDate": "Mon, 27 Apr 2026 15:19:14 GMT",
         "description": "",
-        "title_cn": "东京推出日本首艘政府运营的氢燃料电池船"
+        "title_cn": "用绿色技术治愈地雷伤疤"
       },
       {
-        "title": "Abdul Latif Jameel Motors and Toyota Motor Corporation Launch Public Hydrogen Bus Trial in Yanbu",
-        "link": "https://fuelcellsworks.com/2026/04/24/energy-innovation/abdul-latif-jameel-motors-and-toyota-motor-corporation-launch-public-hydrogen-bus-trial-in-yanbu",
-        "pubDate": "Fri, 24 Apr 2026 15:00:50 GMT",
+        "title": "Aichi Launches Hydrogen Model Town in Chita City to Advance Low-Carbon Living",
+        "link": "https://fuelcellsworks.com/2026/04/26/h2/aichi-launches-hydrogen-model-town-in-chita-city-to-advance-low-carbon-living",
+        "pubDate": "Mon, 27 Apr 2026 14:55:39 GMT",
         "description": "",
-        "title_cn": "Abdul Latif Jameel Motors和丰田汽车公司在延布启动公共氢能巴士试验"
+        "title_cn": "爱知县在知多市推出氢能示范小镇，推进低碳生活"
       },
       {
-        "title": "China Reports 10 Hydrogen Vehicle Deals Covering 2,100+ Units in March–April",
-        "link": "https://fuelcellsworks.com/2026/04/22/clean-energy/china-sees-10-hydrogen-vehicle-announcements-covering-over-2-131-units-in-march-and-april",
-        "pubDate": "Fri, 24 Apr 2026 14:22:24 GMT",
+        "title": "Cavendish Hydrogen ASA: Contract Award for Hydrogen Fueling Station in North-West Europe",
+        "link": "https://fuelcellsworks.com/2026/04/27/fuel-cells/cavendish-hydrogen-asa-contract-award-for-hydrogen-fueling-station-in-north-west-europe",
+        "pubDate": "Mon, 27 Apr 2026 14:50:15 GMT",
         "description": "",
-        "title_cn": "中国在3月至4月期间报告了10笔氢能汽车交易，涵盖2,100多辆"
+        "title_cn": "Cavendish Hydrogen ASA ：西北欧加氢站合同授予"
       },
       {
-        "title": "Robinson Refines Fuel Cell System Ahead of Hydrogen-Powered R66’s First Flight",
-        "link": "https://fuelcellsworks.com/2026/04/24/clean-energy/robinson-refines-fuel-cell-system-ahead-of-hydrogen-powered-r66-s-first-flight",
-        "pubDate": "Fri, 24 Apr 2026 14:19:21 GMT",
+        "title": "Baden-Württemberg Publishes Hydrogen Supply Roadmap",
+        "link": "https://fuelcellsworks.com/2026/04/21/news/baden-wurttemberg-publishes-hydrogen-supply-roadmap",
+        "pubDate": "Mon, 27 Apr 2026 14:18:28 GMT",
         "description": "",
-        "title_cn": "Robinson在氢动力R66首飞前改进燃料电池系统"
+        "title_cn": "巴登-符腾堡州发布氢气供应路线图"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "papers": {
     "items": [
@@ -383,7 +383,7 @@
         "link": "https://arxiv.org/abs/2604.22732v1",
         "pubDate": "2026-04-24T17:28:14Z",
         "description": "Component Mode Synthesis methods, such as the Craig-Bampton (CB) approach, are widely used in structural dynamics due to their modularity and compatibility with substructuring workflows. While highly effective for linear systems, extending these methods to geometrically nonlinear structures remains ",
-        "title_cn": "基于Craig-Bampton的非线性子结构二次流形"
+        "title_cn": "用于非线性子结构化的基于Craig-Bampton的二次流形"
       },
       {
         "title": "Gauge-independent approach to inflation in quadratic gravity",
@@ -418,7 +418,7 @@
         "link": "https://arxiv.org/abs/2604.22710v1",
         "pubDate": "2026-04-24T16:46:41Z",
         "description": "Spatial domain exploitation through 3D beamforming serves as a critical technology enabler for performance enhancement in the Fifth Generation New Radio (5G NR) specification. This is realized at the gNodeB (gNB) through the integration of massive antenna element arrays that facilitates 3D spatial m",
-        "title_cn": "评估3GPP特定波束成形和信道估计对5G gNB 3D EIRP剖面的影响"
+        "title_cn": "评估3GPP特定波束成形和信道估计对5G gNB 3D EIRP轮廓的影响"
       },
       {
         "title": "Reionization, UV Luminosity and 21$\\,$cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses",
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,16 +446,10 @@
         "description": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 10:11:23 GMT",
-        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
-      },
-      {
-        "title": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0M3F2VGtOSzhWczM2Q0pkVUlCVDRwSk1YVWlQbWZHc1RqbmVlQVQ2VlN6UUt6OVNVU1loZ1oya0k2NzRSTi1LLXZOOEZRR0E?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 03:11:12 GMT",
-        "description": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 &nbsp;&nbsp; 新浪财经"
+        "title": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ - 财富号",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBT0V1a2lIcThDdjRnYzJZLWM5aDNaTTl5SG5ncU0yTDM0SmFBT2NONkRWZENLcXoxS2dZYlhBZVo3amNVT2ZMVUdwQl9tZDQ3MkpCTnZINm15ZWp5V2ZkNC1CRy15d0xFX0FN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 05:02:00 GMT",
+        "description": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ &nbsp;&nbsp; 财富号"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
@@ -476,14 +470,20 @@
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
       },
       {
-        "title": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oODNkM0VqMDlmb18xaTdyeGU0NUE5bGZMSzNIY1IwOW9jMkpGbFF2Tlg5aDBIamJfM20wMUVZdDdnWEI5d2JwRXNiaG1TQU85bEE?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 03:40:00 GMT",
-        "description": "国家能源局召开氢能试点推进会：定下“生死状”，三年跑不通就出局 &nbsp;&nbsp; 维科号"
+        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 10:11:23 GMT",
+        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-27 15:43 UTC"
+    "updated": "2026-04-27 22:43 UTC"
   }
 }
