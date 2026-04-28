@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "China’s latest push to commercialize research: match 680,000 innovators with companies",
+        "link": "https://www.nature.com/articles/d41586-026-01202-7",
+        "pubDate": "2026-04-28",
+        "description": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01202-7 The nation’s top-down approach contrasts with that of countries such as the United States, where market forces drive innovation.",
+        "title_cn": "中国推动研究商业化的最新举措：匹配68万创新者与企业"
+      },
+      {
         "title": "Telomere-to-Telomere Assembly Using HERRO-Corrected Simplex Nanopore Reads",
         "link": "https://www.nature.com/articles/s41586-026-10563-y",
         "pubDate": "2026-04-27",
@@ -49,20 +56,37 @@
         "pubDate": "2026-04-27",
         "description": "Nature, Published online: 27 April 2026; doi:10.1038/d41586-026-01303-3 A philosophical take on the history of the Universe that is inspiring but incomplete.",
         "title_cn": "为什么宇宙学不仅仅是一个理论"
-      },
-      {
-        "title": "Entire NSF science advisory board fired by Trump administration",
-        "link": "https://www.nature.com/articles/d41586-026-01361-7",
-        "pubDate": "2026-04-26",
-        "description": "Nature, Published online: 26 April 2026; doi:10.1038/d41586-026-01361-7 Members of the National Science Board, which the US Congress founded in 1950, were given no explanation for their termination.",
-        "title_cn": "特朗普政府解雇了整个NSF科学顾问委员会"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
+        "link": "https://36kr.com/p/3785955616152839?f=rss",
+        "pubDate": "2026-04-28 11:53:31  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈"
+      },
+      {
+        "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
+        "link": "https://36kr.com/p/3785730095127817?f=rss",
+        "pubDate": "2026-04-28 08:04:02  +0800",
+        "description": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提"
+      },
+      {
+        "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
+        "link": "https://36kr.com/p/3784697499786503?f=rss",
+        "pubDate": "2026-04-28 08:00:00  +0800",
+        "description": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。 资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是"
+      },
+      {
+        "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
+        "link": "https://36kr.com/p/3784480103455748?f=rss",
+        "pubDate": "2026-04-28 08:00:00  +0800",
+        "description": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的 A轮融资 。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。 2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研"
+      },
       {
         "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
         "link": "https://36kr.com/p/3784806758243587?f=rss",
@@ -86,96 +110,72 @@
         "link": "https://36kr.com/p/3784867361381633?f=rss",
         "pubDate": "2026-04-27 17:27:52  +0800",
         "description": "撰文｜锅包柚 封面来源｜Unsplash&nbsp; 年轻人，开始在小红书上“找颜色” 前些日子，我刷到了或许是这个春天最有生命力的一组照片。 小红书博主 @里维斯 Lewis做了一次奇妙的尝试，把相机交给了一对清晨劳作的环卫阿姨和叔叔，邀请他们开启了一场属于自己的colorwalk。 他们不懂构图的镜头，却捕捉到了春天最容易被忽略的角落 ——那些被风摇落的粉色花瓣，被细心地摆成了爱心，阿姨拉着叔叔与树上的初绽的花朵合了影，叔叔也定格下了阿姨抛起花瓣时的笑脸。 图源小红书@里维斯Lewis 在叔叔阿姨的心里，“春天是树梢掉落的粉色”。在一旁见证着他们的@里维斯 Lewis也不禁感叹， “他们不"
-      },
-      {
-        "title": "12款产品入选，2026春季「焦点」产品计划重磅发布",
-        "link": "https://36kr.com/p/3784491394784519?f=rss",
-        "pubDate": "2026-04-27 11:05:52  +0800",
-        "description": "【点音Divoom桌搭全家桶评测视频】 &amp;amp;amp;nbsp; 本文来自微信公众号 “36氪” ，36氪经授权发布。"
-      },
-      {
-        "title": "前苹果工程师做了款体感游戏机，销量拳打Xbox，营收数亿美元",
-        "link": "https://36kr.com/p/3783828639571203?f=rss",
-        "pubDate": "2026-04-27 09:15:00  +0800",
-        "description": "作者丨欧雪&nbsp; 编辑丨袁斯来 2025年黑五，美国游戏主机市场有些不同寻常。 根据追踪美国游戏主机与软件销售的Circana统计数据，在黑色星期五当周，PS5以47%的市场份额领跑，任天堂Switch2占据24%，而一款名为Nex Playground的体感游戏机，则以14%的市占率冲上第三名——将Xbox挤出了前三位置。 当游戏主机市场固化多年后，没人想到还会有年轻公司杀出重围。 更让人意外的是，这家公司诞生于香港。其创始人李景辉（David Lee）曾在苹果工作8年，2017年离职创立了NEX Team Inc.。 Nex成立最初几年并无太大声量，主要是做了一款篮球体感应用Home"
-      },
-      {
-        "title": "早期项目 | 前地平线产品负责人死磕“拿放”动作，轮式机器人今年锁定百台出货",
-        "link": "https://36kr.com/p/3783824870317312?f=rss",
-        "pubDate": "2026-04-27 09:10:00  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 在具身智能行业普遍沉迷双足人形和仿真训练的当下，有一家公司选择了一条不太一样的路径：聚焦仓储物流场景，用“轮式底盘+双臂”死磕占人力成本60%的“拿放”动作。这是一家由中科南京软件技术研究院孵化出来的具身智能企业——智往未来。 智往未来2025年11月成立于南京，创始人孙浚凯曾在地平线担任智能座舱产品线总经理，推动百万终端量产，具备从0到1的产品设计与量产经验。公司早期以“具身智能课题组”在中科系旗下孵化两年，2025年底独立注册。 具身智能在真实环境中的泛化难题，核心在于Sim2Real鸿沟。传统离线强化学习依赖仿真数据，部署成功率低；在线强化学习精度高，但学习周期"
-      },
-      {
-        "title": "「破壳机器人」许华哲：两年内，中国将出现可用的家庭机器人",
-        "link": "https://36kr.com/p/3784365164322055?f=rss",
-        "pubDate": "2026-04-27 09:00:00  +0800",
-        "description": "文｜邱晓芬 编辑｜苏建勋 2026年，全球的具身智能机器人创业者不约而同将目光方向调转向深水区：家庭。 点燃这份热情的，是近期行业里闪烁着的一丝丝Scaling Law苗头—— 先是硅谷具身智能公司Generalist AI在GEN-1模型上验证了确定性，当他们给机器人喂进海量数据后，精细操作任务成功率竟从64%提升到了惊人的99%； 随后，硅谷当红的具身智能独角兽公司Sunday Robotics也试图解决家庭场景数据难关，不仅推出Umi手套数据采集方案，还直接将机器人Memo送进家庭做家务（收拾餐做、冲咖啡、叠衣服），因此吸引了大量的资本押注。 在大洋彼岸的中国，近期闯入家庭机器人领域的创"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "Taking the Hyundai IONIQ 5 XRT Out to Play in the Dirt",
-        "link": "https://cleantechnica.com/2026/04/27/taking-the-hyundai-ioniq-5-xrt-out-to-play-in-the-dirt/",
-        "pubDate": "Mon, 27 Apr 2026 22:37:05 +0000",
-        "description": "Hyundai invited CleanTechnica out to their factory near Savannah, Georgia, and while we were there, we had an opportunity to take their new Hyundai IONIQ 5 XRT out to play in the dirt. Disclaimer: Hyundai paid for the author&#8217;s travel and accommodations to attend this event in Savannah, Georgia",
-        "title_cn": "带着现代IONIQ 5 XRT在泥土中玩耍"
+        "title": "3rd US State Allows Plug & Play Solar Power",
+        "link": "https://cleantechnica.com/2026/04/27/3rd-us-state-allows-plug-play-solar-power/",
+        "pubDate": "Tue, 28 Apr 2026 03:57:22 +0000",
+        "description": "There&#8217;s no doubt about it — solar power has already revolutionized the electricity industry. Solar power accounts for the majority of new power capacity around the world and around the US. That said, there are still significant barriers to residential solar adoption, and we are nowhere close t",
+        "title_cn": "美国第三州允许即插即用太阳能"
       },
       {
-        "title": "Critical Minerals: China’s Grip, America’s Volatility, Europe’s Choice",
-        "link": "https://cleantechnica.com/2026/04/27/critical-minerals-chinas-grip-americas-volatility-europes-choice/",
-        "pubDate": "Mon, 27 Apr 2026 20:14:11 +0000",
-        "description": "The energy transition will not fail because the world runs out of useful minerals. It can be slowed, made more expensive, and made more fragile because the industrial systems that turn minerals into batteries, motors, power electronics, grid equipment, and vehicles are concentrated, politically expo",
-        "title_cn": "关键矿物：中国的抓地力、美国的波动性、欧洲的选择"
+        "title": "Leapmotor Launches Lafa5 Ultra at Auto China 2026",
+        "link": "https://cleantechnica.com/2026/04/27/leapmotor-launches-lafa5-ultra-at-auto-china-2026/",
+        "pubDate": "Tue, 28 Apr 2026 03:54:45 +0000",
+        "description": "We have journalists at the Beijing Auto Show (Auto China 2026), but it takes time to collect and then share all of the great EV announcements happening there. In the meantime, below is one notable announcement from Leapmotor &#38; Stellantis that was shared on Friday when the show launched. Leapmoto",
+        "title_cn": "Leapmotor在Auto China 2026上推出Lafa5 Ultra"
       },
       {
-        "title": "Swapping Out Diesel For Solar & Batteries In The Amazon Rainforest",
-        "link": "https://cleantechnica.com/2026/04/27/swapping-out-diesel-for-solar-batteries-in-the-amazon-rainforest/",
-        "pubDate": "Mon, 27 Apr 2026 17:23:40 +0000",
-        "description": "Many villages in the Amazon basin have no roads, and solar and batteries are replacing diesel generators that are supplied by boat. The post Swapping Out Diesel For Solar &#038; Batteries In The Amazon Rainforest appeared first on CleanTechnica .",
-        "title_cn": "在亚马逊雨林中将柴油换成太阳能和电池"
+        "title": "Hardware 3 Tesla Vehicles Will Get Unsupervised Full Self Driving Via Hardware Updates? Who’s Most Pissed?",
+        "link": "https://cleantechnica.com/2026/04/27/hardware-3-tesla-vehicles-will-get-unsupervised-full-self-driving-via-hardware-updates-whos-most-pissed/",
+        "pubDate": "Tue, 28 Apr 2026 03:53:24 +0000",
+        "description": "Many of us who bought Tesla&#8217;s Full Self Driving (FSD) package several years ago have been highly disappointed with its slow progress, and also repeatedly false claims about the technology. The thing is: Tesla cars produced with &#8220;Hardware 3&#8221; computers, sensors, etc. were supposed to",
+        "title_cn": "硬件3特斯拉汽车将通过硬件更新获得无人监督的全自动驾驶？谁最生气？"
       },
       {
-        "title": "126 New EV Fast Chargers Are Coming To Oregon",
-        "link": "https://cleantechnica.com/2026/04/27/126-new-ev-fast-chargers-are-coming-to-oregon/",
-        "pubDate": "Mon, 27 Apr 2026 14:51:16 +0000",
-        "description": "The new public fast charger installations are rolling out steadily &#8212; just several days ago it was reported that over 3,000 were installed in the US in the first quarter. The total number of public fast chargers in the US is over 71,000. Now comes news of 126 fast chargers ... [continued] The p",
-        "title_cn": "俄勒冈州即将推出126款新型电动汽车快速充电器"
+        "title": "AI Transforms the World: XPENG Showcases Its Full-Stack Physical AI Ecosystem at Auto China 2026",
+        "link": "https://cleantechnica.com/2026/04/27/ai-transforms-the-world-xpeng-showcases-its-full-stack-physical-ai-ecosystem-at-auto-china-2026/",
+        "pubDate": "Tue, 28 Apr 2026 03:51:09 +0000",
+        "description": "We have journalists at the Beijing Auto Show (Auto China 2026), but it takes time to collect and then share all of the great EV announcements happening there. In the meantime, below is one notable announcement from XPENG that was shared on Friday when the show launched. The 19th Beijing ... [continu",
+        "title_cn": "人工智能改变世界： XPENG在汽车中国2026上展示其全栈物理AI生态系统"
       },
       {
-        "title": "The National Science Board Purge Is A Warning About American Decline",
-        "link": "https://cleantechnica.com/2026/04/26/the-national-science-board-purge-is-a-warning-about-american-decline/",
-        "pubDate": "Mon, 27 Apr 2026 03:50:03 +0000",
-        "description": "The members of the National Science Board were not removed after hearings, evidence of misconduct, or a public argument about science policy. They were dismissed by email. No explanation. No transition. No apparent respect for institutional memory, earned authority, or the basic idea that the nation",
-        "title_cn": "国家科学委员会的清洗是对美国衰落的警告"
+        "title": "NIO: 3 Auto Brands, 11 Models at Auto China",
+        "link": "https://cleantechnica.com/2026/04/27/nio-3-auto-brands-11-models-at-auto-china/",
+        "pubDate": "Tue, 28 Apr 2026 03:50:58 +0000",
+        "description": "We have journalists at the Beijing Auto Show (Auto China 2026), but it takes time to collect and then share all of the great EV announcements happening there. In the meantime, below is one notable announcement from NIO that was shared on Friday when the show launched. The Beijing International ... [",
+        "title_cn": "蔚来汽车中国： 3个汽车品牌， 11款车型"
       },
       {
-        "title": "It’s The Affordability, Stupid! Crafting Climate Strategies That Work",
-        "link": "https://cleantechnica.com/2026/04/26/its-the-affordability-stupid-crafting-climate-strategies-that-work/",
-        "pubDate": "Sun, 26 Apr 2026 19:24:31 +0000",
-        "description": "As prices soar in the wake of the war on Iran, some suggest shifting the conversation to affordability is a winning strategy. The post It&#8217;s The Affordability, Stupid! Crafting Climate Strategies That Work appeared first on CleanTechnica .",
-        "title_cn": "这是经济实惠，笨蛋！制定有效的气候战略"
+        "title": "Will Sodium-Ion Batteries Revolutionize Electric Ships?",
+        "link": "https://cleantechnica.com/2026/04/27/will-sodium-ion-batteries-revolutionize-electric-ships/",
+        "pubDate": "Tue, 28 Apr 2026 02:47:49 +0000",
+        "description": "Advancements in sodium-ion batteries have come from a new generation of cells from CATL, BYD, and others, bringing the possibility of lower cells costs at higher volume in the near future. CATL has stated it expects oceanic electric ships to be possible in the next three years. Could $20/kWh Naxtra ",
+        "title_cn": "钠离子电池将彻底改变电动船舶吗？"
       },
       {
-        "title": "Taiwan’s Scooter Capital Taipei To Go Fully Electric",
-        "link": "https://cleantechnica.com/2026/04/26/taiwans-scooter-capital-taipei-to-go-fully-electric/",
-        "pubDate": "Sun, 26 Apr 2026 18:49:38 +0000",
-        "description": "Taiwan has long functioned as the world’s most intense proving ground for two-wheeled mobility. With more than 14 million scooters serving a population of roughly 23 million, the shift from combustion engines to electric drivetrains is unfolding in real time across its cities. By early 2026, that tr",
-        "title_cn": "台湾滑板车之都台北将实现全电动化"
+        "title": "Ford Customers Are Saving Even More On Home Charging With TXU Energy Free EV Miles Program",
+        "link": "https://cleantechnica.com/2026/04/27/ford-customers-are-saving-even-more-on-home-charging-with-txu-energy-free-ev-miles-program/",
+        "pubDate": "Tue, 28 Apr 2026 01:17:40 +0000",
+        "description": "What if the best time to fill up your car was while you were fast asleep — and it saved you money? For Ford electric vehicle (EV) and plug-in hybrid owners in Texas, that’s not a dream; it’s a nightly reality with home charging. Through a partnership between Ford and ... [continued] The post Ford Cu",
+        "title_cn": "福特客户通过TXU无能源电动汽车里程计划节省更多家庭充电费用"
       },
       {
-        "title": "Solar-Powered Boat Travels Thousands Of Miles",
-        "link": "https://cleantechnica.com/2026/04/26/solar-powered-boat-travels-thousands-of-miles/",
-        "pubDate": "Sun, 26 Apr 2026 17:30:08 +0000",
-        "description": "The last time I checked in with this Finnish guy with his solar-powered boat, he was still in Finnish waters or near them. In this more recent video, he is headed toward Spain, having mostly passed through France. In my last article, I included one of his videos from months ... [continued] The post ",
-        "title_cn": "太阳能游船行驶数千英里"
+        "title": "Trump Approves Toxic Mining on Doorstep of Boundary Waters",
+        "link": "https://cleantechnica.com/2026/04/27/trump-approves-toxic-mining-on-doorstep-of-boundary-waters/",
+        "pubDate": "Tue, 28 Apr 2026 00:57:00 +0000",
+        "description": "WASHINGTON, D.C. — Today, Donald Trump signed off on a controversial proposal to allow toxic sulfide mining in the watershed of one of the country’s most visited wilderness areas. Trump signed a Congressional Review Act Resolution overturning a 20-year ban on mining in the Superior National Forest i",
+        "title_cn": "特朗普批准在边界水域门口进行有毒采矿"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "新疆氢能展暨氢能发展大会将于26年10月举办 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pS1M2amF5c09nOHp3WnRzOFluLW5UQmJvZmllVzlRYUZ2bkNZNzNCOWxjSTF0UzQ4NU94ZldZdURCS2xsZVNCYVlhbWdjLVBmTy1KSnBGR0otV1E?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 00:30:00 GMT",
+        "description": "新疆氢能展暨氢能发展大会将于26年10月举办 &nbsp;&nbsp; 能源界"
+      },
       {
         "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 东方财富",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbFRYTG9MWkFaT2Z6YnFWbnNYNEhGdVdjUUFHNlVoaHFPb1diVVJoMHJIa01rcDdkVWpPZzdXNnU3Ykl2Ukt2Y2tab0lCc0FOaWR2VFhEUXo5RXgwTzFrZ0JFR0pZZw?oc=5",
@@ -248,16 +254,16 @@
         "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 14:18:00 GMT",
-        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 14:18:00 GMT",
+        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -278,12 +284,6 @@
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
-        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
-        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
-      },
-      {
         "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
         "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,83 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "On the redshift evolution of the spin parameter in cosmological simulations",
-        "link": "https://arxiv.org/abs/2604.22738v1",
-        "pubDate": "2026-04-24T17:37:04Z",
-        "description": "Although the spin parameter of dark matter halos is well known to follow a log-normal distribution at fixed epoch, its quantitative redshift evolution - encompassing both the mean and the dispersion - remains only partially explored. Prior studies either lack the mass resolution required to establis",
-        "title_cn": "宇宙学模拟中自旋参数的红移演化"
+        "title": "Non-Abelian Particle-Loop, Fracton, and Planon Condensation in Cage-Net Models",
+        "link": "https://arxiv.org/abs/2604.24755v1",
+        "pubDate": "2026-04-27T17:55:47Z",
+        "description": "We present a framework for non-Abelian p-loop, fracton, and planon condensation in 3+1 dimensions by constructing extended cage-net fracton models using decoupled layers of the Hu-Geer-Wu (HGW) string-net model. These cage-net models extend the conventional cage-net models based on the Levin-Wen (LW",
+        "title_cn": "笼网模型中的非阿贝尔粒子环、分形和平面子凝聚"
       },
       {
-        "title": "Non-linear geometry of multiple zeta values",
-        "link": "https://arxiv.org/abs/2604.22735v1",
-        "pubDate": "2026-04-24T17:29:40Z",
-        "description": "Since their rediscovery in the 1990s, multiple zeta values have become ubiquitous in many areas of mathematics and physics. Their standard integral and sum representations can usually be traced back to a single source, namely the iterated integrals on the Riemann sphere with three punctures. We refe",
-        "title_cn": "多个zeta值的非线性几何"
+        "title": "Connecting the dusty dots: dust depletion and extinction of local interstellar clouds",
+        "link": "https://arxiv.org/abs/2604.24752v1",
+        "pubDate": "2026-04-27T17:55:01Z",
+        "description": "Investigating the chemical complexity of the interstellar medium (ISM) is key for understanding its physical nature and evolution. In this work, we study parsec-scale interstellar dust clouds in the neutral ISM of the Milky Way using two different probes: dust depletion and dust extinction. We exami",
+        "title_cn": "连接尘埃点：尘埃耗尽和局部星际云的灭绝"
       },
       {
-        "title": "Radiation outer boundary conditions and near-to-far field signal transformations for the Bardeen-Press equation",
-        "link": "https://arxiv.org/abs/2604.22734v1",
-        "pubDate": "2026-04-24T17:29:36Z",
-        "description": "Several theoretical and astrophysical problems - including gravitational-wave modeling for extreme mass-ratio inspirals - require accurate time-domain solutions of the spin-weight $s=-2$ Teukolsky equation in Boyer-Lindquist coordinates. Because such simulations are performed on finite computational",
-        "title_cn": "Bardeen-Press方程的辐射外边界条件和近远场信号转换"
+        "title": "Operating a contextual Stern-Gerlach apparatus",
+        "link": "https://arxiv.org/abs/2604.24727v1",
+        "pubDate": "2026-04-27T17:37:17Z",
+        "description": "We propose a contextual cavity/circuit QED analogue and extension of the Stern-Gerlach experiment, where the pseudo-spin of a two-state `atomic' transition plays the role of the ``spin'', while the resonant field driving the transition stands for the ``magnetic field''. A phase-sensitive continuous ",
+        "title_cn": "操作上下文Stern-Gerlach仪器"
       },
       {
-        "title": "Craig-Bampton-based Quadratic Manifold for Nonlinear Substructuring",
-        "link": "https://arxiv.org/abs/2604.22732v1",
-        "pubDate": "2026-04-24T17:28:14Z",
-        "description": "Component Mode Synthesis methods, such as the Craig-Bampton (CB) approach, are widely used in structural dynamics due to their modularity and compatibility with substructuring workflows. While highly effective for linear systems, extending these methods to geometrically nonlinear structures remains ",
-        "title_cn": "用于非线性子结构化的基于Craig-Bampton的二次流形"
+        "title": "Physics-driven innovations toward the democratization of proton therapy",
+        "link": "https://arxiv.org/abs/2604.24704v1",
+        "pubDate": "2026-04-27T17:08:09Z",
+        "description": "Proton therapy exploits the finite range of charged particles in tissue to achieve dose distributions no photon based modality can replicate. Yet the modality reaches fewer than 1 percent of patients who might benefit a gap rooted in cost and complexity rather than clinical evidence. This Review ref",
+        "title_cn": "质子治疗民主化的物理驱动创新"
       },
       {
-        "title": "Gauge-independent approach to inflation in quadratic gravity",
-        "link": "https://arxiv.org/abs/2604.22725v1",
-        "pubDate": "2026-04-24T17:23:52Z",
-        "description": "We investigate the scalar sector of linear cosmological perturbations in quadratic gravity. Working in the Einstein frame, we derive the equations of motion in a gauge-independent manner and express them in terms of three sets of gauge-invariant variables. This approach allows us to distinguish genu",
-        "title_cn": "二次重力下与规范无关的通货膨胀方法"
+        "title": "Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges",
+        "link": "https://arxiv.org/abs/2604.24694v1",
+        "pubDate": "2026-04-27T16:54:46Z",
+        "description": "Quantum computing has emerged as a powerful potential accelerator for computational fluid dynamics (CFD), but whether this promise can be realized in practice depends on how fluid information is encoded on quantum hardware. This review provides an architecture-agnostic assessment of encoding strateg",
+        "title_cn": "量子增强流体模拟的编码策略：机遇与挑战"
       },
       {
-        "title": "Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation",
-        "link": "https://arxiv.org/abs/2604.22722v1",
-        "pubDate": "2026-04-24T17:18:56Z",
-        "description": "Dense vector retrieval is the practical backbone of Retrieval- Augmented Generation (RAG), but similarity search can suffer from precision limitations. Conversely, utility-based approaches leveraging LLM re-ranking often achieve superior performance but are computationally prohibitive and prone to n",
-        "title_cn": "通过蒸馏将密集捕获器与LLM实用程序对齐通过蒸馏将密集捕获器与LLM实用程序对齐"
+        "title": "Machine-Checked Cardinality Bounds for Masked Barrett Reduction: A 1-Bit Side-Channel Leakage Barrier in Post-Quantum Cryptographic Hardware",
+        "link": "https://arxiv.org/abs/2604.24670v1",
+        "pubDate": "2026-04-27T16:27:33Z",
+        "description": "Barrett reduction is the nonlinear core of every practical NTT-based post-quantum cryptography implementation. Existing composition frameworks (ISW, t-SNI, PINI, DOM) address Boolean masking over GF(2); none provides a machine-checked characterization of Barrett's leakage under first-order arithmeti",
+        "title_cn": "掩蔽Barrett减少的机器检查基数界限：后量子加密硬件中的1位侧通道泄漏屏障"
       },
       {
-        "title": "What are the functions of primary visual cortex (V1)?",
-        "link": "https://arxiv.org/abs/2604.22716v1",
-        "pubDate": "2026-04-24T16:58:45Z",
-        "description": "Although Hubel and Wiesel established decades ago how individual V1 neurons transform retinal inputs, functions of V1 as a whole are being discovered only recently. First, V1 acts as a motor cortex for exogenously guiding saccades by constructing a bottom-up saliency map of the visual field. Second,",
-        "title_cn": "初级视觉皮层（ V1 ）的功能是什么？"
+        "title": "Microstructure engineering of Ti-6Al-4V in laser powder bed fusion via 1D thermal modeling and supporting experiments",
+        "link": "https://arxiv.org/abs/2604.24669v1",
+        "pubDate": "2026-04-27T16:27:16Z",
+        "description": "The microstructure of Ti-6Al-4V has a decisive impact on its mechanical performance; however, controlling phase composition during Laser Powder Bed Fusion (LPBF) remains difficult because of the inherent localized and cyclic thermal history. To fully leverage the design flexibility of LPBF while mai",
+        "title_cn": "Ti-6Al-4V激光粉末床融合微观组织工程一维热建模及配套实验"
       },
       {
-        "title": "Asymptotic behaviour of analytic torsion and cohomological torsion for $\\mathbb{Q}$-rank $1$ arithmetic groups",
-        "link": "https://arxiv.org/abs/2604.22711v1",
-        "pubDate": "2026-04-24T16:48:30Z",
-        "description": "We extend the refined asymptotics of analytic torsion associated to congruence subgroups of $\\operatorname{SL}(n)$ in previous work, to congruence subgroups in a large family of reductive groups. This is applied to give new asymptotics and bounds on the growth of torsion in the cohomology of congrue",
-        "title_cn": "$\\ mathbb {Q} $ -rank $ 1 $算术组的分析扭转和上同调扭转的渐近行为"
+        "title": "Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control",
+        "link": "https://arxiv.org/abs/2604.24663v1",
+        "pubDate": "2026-04-27T16:25:55Z",
+        "description": "We study finite-horizon quadratic control of linear systems with bilinear observations, in which the control input affects not only the state dynamics but also the partial observations of the state. In this setting, the separation principle can fail because control inputs influence the future qualit",
+        "title_cn": "基于信念空间模型预测控制的双线性观测的线性系统双重控制"
       },
       {
-        "title": "Evaluation of the effects of 3GPP-specific beamforming and channel estimation on the 3D EIRP profile of a 5G gNB",
-        "link": "https://arxiv.org/abs/2604.22710v1",
-        "pubDate": "2026-04-24T16:46:41Z",
-        "description": "Spatial domain exploitation through 3D beamforming serves as a critical technology enabler for performance enhancement in the Fifth Generation New Radio (5G NR) specification. This is realized at the gNodeB (gNB) through the integration of massive antenna element arrays that facilitates 3D spatial m",
-        "title_cn": "评估3GPP特定波束成形和信道估计对5G gNB 3D EIRP轮廓的影响"
+        "title": "Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization",
+        "link": "https://arxiv.org/abs/2604.24649v1",
+        "pubDate": "2026-04-27T16:16:40Z",
+        "description": "Implementing a digital circuit on an FPGA fabric requires clustering technology-mapped netlist primitives into coarser-granularity blocks that can be directly mapped to the physical resources available on the FPGA. As the architecture of FPGA logic blocks (LBs) has grown in complexity, with sophisti",
+        "title_cn": "似曾相识打包：通过模式记忆优化FPGA逻辑群集运行时"
       },
       {
-        "title": "Reionization, UV Luminosity and 21$\\,$cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses",
-        "link": "https://arxiv.org/abs/2604.22703v1",
-        "pubDate": "2026-04-24T16:35:44Z",
-        "description": "Magnetic fields with field strengths between $10^{-17}\\,$G and a few Nanogauss are expected to exist today in the intergalactic medium (IGM). Their origin is unknown, but may be of primordial nature, in which case they would have influenced the thermal and ionization history of the IGM as well as th",
-        "title_cn": "再电离、紫外线光度和21 $\\, $ cm对原始磁场的敏感性：能量损失的影响"
+        "title": "Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application",
+        "link": "https://arxiv.org/abs/2604.24636v1",
+        "pubDate": "2026-04-27T16:05:39Z",
+        "description": "On-device Small Language Models (SLMs) promise fully offline, private AI experiences for mobile users (no cloud dependency, no data leaving the device). But is this promise achievable in practice? This paper presents a longitudinal practitioner case study documenting the engineering challenges of in",
+        "title_cn": "少即是多：移动应用中设备上小语言模型集成的工程挑战"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "policy_nea": {
     "items": [
@@ -440,16 +440,16 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tRl95eG9fdnVSU1pIQ2JBRDZjVERpZUNIdTNkMUE2ek1Nc0N0MzFHcW0tWXBMcEctcFNkb2tSTmNFUG1MY1BIRUNsTXBwMnpGUFhNUg?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 06:36:24 GMT",
-        "description": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 &nbsp;&nbsp; 国际氢能网"
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUExPMnFvdkNvZ2swTGpmZG9Xc2hUTVlGVEtYdVBVSkw4Wm1uMy1sMUQ4SVZKNkJvUldlbmFnczNDRGV6ZnlaSWpERWxMUzFfUmhxQ2xIaTNFaFE1RWc?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ - 财富号",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBT0V1a2lIcThDdjRnYzJZLWM5aDNaTTl5SG5ncU0yTDM0SmFBT2NONkRWZENLcXoxS2dZYlhBZVo3amNVT2ZMVUdwQl9tZDQ3MkpCTnZINm15ZWp5V2ZkNC1CRy15d0xFX0FN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 05:02:00 GMT",
-        "description": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ &nbsp;&nbsp; 财富号"
+        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
+        "pubDate": "Sat, 25 Apr 2026 10:11:23 GMT",
+        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
@@ -464,16 +464,16 @@
         "description": "“大胆推进机制创新”！国家能源局加快培育氢能未来产业 &nbsp;&nbsp; 财联社"
       },
       {
+        "title": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0M3F2VGtOSzhWczM2Q0pkVUlCVDRwSk1YVWlQbWZHc1RqbmVlQVQ2VlN6UUt6OVNVU1loZ1oya0k2NzRSTi1LLXZOOEZRR0E?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 03:11:12 GMT",
+        "description": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
         "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
-      },
-      {
-        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
-        "pubDate": "Sat, 25 Apr 2026 10:11:23 GMT",
-        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -530,13 +530,13 @@
         "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
       },
       {
-        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-27 22:43 UTC"
+    "updated": "2026-04-28 05:25 UTC"
   }
 }
