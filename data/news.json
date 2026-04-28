@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,24 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Nuclear Scaling Requires Discipline. SMRs Deliver Fragmentation",
+        "link": "https://cleantechnica.com/2026/04/28/nuclear-scaling-requires-discipline-smrs-deliver-fragmentation/",
+        "pubDate": "Tue, 28 Apr 2026 22:30:23 +0000",
+        "description": "When I wrote in 2021 that small modular reactors were mostly bad policy (peer reviewed version, CleanTechnica version), the argument was not that nuclear fission could not produce useful low-carbon electricity. It was already doing so every day. The United States had about 98 GW of operating nuclear",
+        "title_cn": "核扩展需要纪律。SMR提供碎片化"
+      },
+      {
+        "title": "Urban Wetlands & Waterways Need Nature-Inspired Solutions",
+        "link": "https://cleantechnica.com/2026/04/28/urban-wetlands-waterways-need-nature-inspired-solutions/",
+        "pubDate": "Tue, 28 Apr 2026 18:48:08 +0000",
+        "description": "I remember traveling to Sydney, Australia, a couple of years ago. In nearly every city block there was a green gathering space, usually a fountain, where kids could play and spray and adults could lounge comfortably. Back in the US, I started to admire other city water refuges like artificial ... [c",
+        "title_cn": "城市湿地和水道需要以自然为灵感的解决方案"
+      },
       {
         "title": "Chinese Iron Flow Storage Battery Is 80 Times Cheaper Than Lithium",
         "link": "https://cleantechnica.com/2026/04/28/chinese-iron-flow-storage-battery-is-80-times-cheaper-than-lithium/",
@@ -158,24 +172,10 @@
         "pubDate": "Tue, 28 Apr 2026 03:58:09 +0000",
         "description": "Elon Musk said on the latest quarterly Tesla conference call, last week, that the first production line for the company&#8217;s Optimus robot would go online this year — this quarter even — and that this production line would be able to produce 1 million robots a year. This Optimus production ... [c",
         "title_cn": "伊隆·马斯克（ Elon Musk ）对美国国债和机器人的Nutso评论"
-      },
-      {
-        "title": "3rd US State Allows Plug & Play Solar Power",
-        "link": "https://cleantechnica.com/2026/04/27/3rd-us-state-allows-plug-play-solar-power/",
-        "pubDate": "Tue, 28 Apr 2026 03:57:22 +0000",
-        "description": "There&#8217;s no doubt about it — solar power has already revolutionized the electricity industry. Solar power accounts for the majority of new power capacity around the world and around the US. That said, there are still significant barriers to residential solar adoption, and we are nowhere close t",
-        "title_cn": "美国第三州允许即插即用太阳能"
-      },
-      {
-        "title": "Leapmotor Launches Lafa5 Ultra at Auto China 2026",
-        "link": "https://cleantechnica.com/2026/04/27/leapmotor-launches-lafa5-ultra-at-auto-china-2026/",
-        "pubDate": "Tue, 28 Apr 2026 03:54:45 +0000",
-        "description": "We have journalists at the Beijing Auto Show (Auto China 2026), but it takes time to collect and then share all of the great EV announcements happening there. In the meantime, below is one notable announcement from Leapmotor &#38; Stellantis that was shared on Friday when the show launched. Leapmoto",
-        "title_cn": "Leapmotor在Auto China 2026上推出Lafa5 Ultra"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "energy_cn": {
     "items": [
@@ -278,87 +278,158 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
+        "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
+        "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
+        "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
+      },
+      {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Gascade Opens Scoping Process for HYBOR Hydrogen Pipeline Project in Germany",
-        "link": "https://fuelcellsworks.com/2026/04/27/energy-innovation/gascade-opens-scoping-process-for-hybor-hydrogen-pipeline-project-in-germany",
-        "pubDate": "Mon, 27 Apr 2026 15:59:30 GMT",
+        "title": "Clean Hydrogen Facility to Be Built in Yongin Eco-Town With Operations Starting in First Half of 2028",
+        "link": "https://fuelcellsworks.com/2026/04/27/h2/clean-hydrogen-facility-to-be-built-in-yongin-eco-town-with-operations-starting-in-first-half-of-2028",
+        "pubDate": "Tue, 28 Apr 2026 15:45:39 GMT",
         "description": "",
-        "title_cn": "Gascade开启德国HYBOR氢气管道项目范围界定流程"
+        "title_cn": "在龙仁生态城建造清洁氢设施， 2028年上半年开始运营"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: April 19-April 24 2026",
-        "link": "https://fuelcellsworks.com/2026/04/26/clean-hydrogen/fuel-cell-and-hydrogen-news-highlights-from-china-april-19-april-24-2026",
-        "pubDate": "Mon, 27 Apr 2026 15:57:19 GMT",
+        "title": "Valencian Government Backs Ignis’ 860,000 Mt Green Ammonia Plant in Castellón",
+        "link": "https://fuelcellsworks.com/2026/04/28/clean-energy/valencian-government-backs-ignis-860-000-mt-green-ammonia-plant-in-castellon",
+        "pubDate": "Tue, 28 Apr 2026 15:43:44 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年4月19日至4月24日"
+        "title_cn": "巴伦西亚政府支持Ignis在卡斯特利翁的86万吨绿氨工厂"
       },
       {
-        "title": "Pasadena Transit Zero-Emission Bus Rollout Faces Real-World Range Challenges as Hydrogen Strategy Advances",
-        "link": "https://fuelcellsworks.com/2026/04/27/fuel-cells/pasadena-transit-zero-emission-bus-rollout-faces-real-world-range-challenges-as-hydrogen-strategy-advances",
-        "pubDate": "Mon, 27 Apr 2026 15:51:34 GMT",
+        "title": "France Grants Five-Year Permit to Explore Natural Hydrogen in Comminges Region",
+        "link": "https://fuelcellsworks.com/2026/04/28/h2/france-grants-five-year-permit-to-explore-natural-hydrogen-in-comminges-region",
+        "pubDate": "Tue, 28 Apr 2026 15:25:01 GMT",
         "description": "",
-        "title_cn": "随着氢能战略的进步，帕萨迪纳公交零排放公交车的推出面临着现实世界的挑战"
+        "title_cn": "法国授予Cominges地区勘探天然氢的五年许可证"
       },
       {
-        "title": "Advancing the Global Green Hydrogen Economy",
-        "link": "https://fuelcellsworks.com/2026/04/27/electrolyzer/advancing-the-global-green-hydrogen-economy",
-        "pubDate": "Mon, 27 Apr 2026 15:42:04 GMT",
+        "title": "Odesa Hydrogen Valley Moves Beyond Early Concept Phase, Says Hydrogen Ukraine",
+        "link": "https://fuelcellsworks.com/2026/04/28/h2/odesa-hydrogen-valley-moves-beyond-early-concept-phase-says-hydrogen-ukraine",
+        "pubDate": "Tue, 28 Apr 2026 15:14:27 GMT",
         "description": "",
-        "title_cn": "推进全球绿色氢经济"
+        "title_cn": "Hydrogen Ukraine表示， Odesa Hydrogen Valley超越了早期概念阶段"
       },
       {
-        "title": "Researchers Design Membrane That Increases Hydrogen Purification Efficiency 10X",
-        "link": "https://fuelcellsworks.com/2026/04/26/fuel-cells/researchers-design-membrane-that-increases-hydrogen-purification-efficiency-10x",
-        "pubDate": "Mon, 27 Apr 2026 15:21:08 GMT",
+        "title": "Hyroad Energy and Total Hydrogen Solutions Announce Commercial Fueling Agreement to Support Hydrogen Trucking in Texas",
+        "link": "https://fuelcellsworks.com/2026/04/28/fuel-cells/hyroad-energy-and-total-hydrogen-solutions-announce-commercial-fueling-agreement-to-support-hydrogen-trucking-in-texas",
+        "pubDate": "Tue, 28 Apr 2026 15:13:47 GMT",
         "description": "",
-        "title_cn": "研究人员设计的膜可将氢气净化效率提高10倍"
+        "title_cn": "Hyroad Energy和Total Hydrogen Solutions宣布达成商业加油协议，以支持德克萨斯州的氢气卡车运输"
       },
       {
-        "title": "Mine Scars Healed with Green Technology",
-        "link": "https://fuelcellsworks.com/2026/04/27/clean-energy/mine-scars-healed-with-green-technology",
-        "pubDate": "Mon, 27 Apr 2026 15:19:14 GMT",
+        "title": "Penspen Awarded Research Project on Hydrogen Transition Pathways for UK Industrial Clusters",
+        "link": "https://fuelcellsworks.com/2026/04/28/energy-innovation/penspen-awarded-research-project-on-hydrogen-transition-pathways-for-uk-industrial-clusters",
+        "pubDate": "Tue, 28 Apr 2026 14:59:06 GMT",
         "description": "",
-        "title_cn": "用绿色技术治愈地雷伤疤"
+        "title_cn": "彭斯彭荣获英国产业集群氢转化途径研究项目"
       },
       {
-        "title": "Aichi Launches Hydrogen Model Town in Chita City to Advance Low-Carbon Living",
-        "link": "https://fuelcellsworks.com/2026/04/26/h2/aichi-launches-hydrogen-model-town-in-chita-city-to-advance-low-carbon-living",
-        "pubDate": "Mon, 27 Apr 2026 14:55:39 GMT",
+        "title": "Aiwanger Says Hydrogen Is of Strategic Importance and Praises TÜV Süd Support",
+        "link": "https://fuelcellsworks.com/2026/04/27/h2/aiwanger-says-hydrogen-is-of-strategic-importance-and-praises-tuv-sud-support",
+        "pubDate": "Tue, 28 Apr 2026 14:52:40 GMT",
         "description": "",
-        "title_cn": "爱知县在知多市推出氢能示范小镇，推进低碳生活"
+        "title_cn": "Aiwanger表示氢气具有战略重要性并赞扬TÜV南德意志集团的支持"
       },
       {
-        "title": "Cavendish Hydrogen ASA: Contract Award for Hydrogen Fueling Station in North-West Europe",
-        "link": "https://fuelcellsworks.com/2026/04/27/fuel-cells/cavendish-hydrogen-asa-contract-award-for-hydrogen-fueling-station-in-north-west-europe",
-        "pubDate": "Mon, 27 Apr 2026 14:50:15 GMT",
+        "title": "Italian Hydrogen Valley Moves From Paperwork to Site Work as Enapter-Backed Acerra Project Advances",
+        "link": "https://fuelcellsworks.com/2026/04/27/clean-energy/italian-hydrogen-valley-moves-from-paperwork-to-site-work-as-enapter-backed-acerra-project-advances",
+        "pubDate": "Tue, 28 Apr 2026 14:49:27 GMT",
         "description": "",
-        "title_cn": "Cavendish Hydrogen ASA ：西北欧加氢站合同授予"
+        "title_cn": "随着Enapter支持的Acerra项目的进展，意大利氢谷从文书工作转移到现场工作"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Non-Abelian Particle-Loop, Fracton, and Planon Condensation in Cage-Net Models",
+        "link": "https://arxiv.org/abs/2604.24755v1",
+        "pubDate": "2026-04-27T17:55:47Z",
+        "description": "We present a framework for non-Abelian p-loop, fracton, and planon condensation in 3+1 dimensions by constructing extended cage-net fracton models using decoupled layers of the Hu-Geer-Wu (HGW) string-net model. These cage-net models extend the conventional cage-net models based on the Levin-Wen (LW",
+        "title_cn": "笼网模型中的非阿贝尔粒子环、分形和平面子凝聚"
+      },
+      {
+        "title": "Connecting the dusty dots: dust depletion and extinction of local interstellar clouds",
+        "link": "https://arxiv.org/abs/2604.24752v1",
+        "pubDate": "2026-04-27T17:55:01Z",
+        "description": "Investigating the chemical complexity of the interstellar medium (ISM) is key for understanding its physical nature and evolution. In this work, we study parsec-scale interstellar dust clouds in the neutral ISM of the Milky Way using two different probes: dust depletion and dust extinction. We exami",
+        "title_cn": "连接尘埃点：尘埃耗尽和局部星际云的灭绝"
+      },
+      {
+        "title": "Operating a contextual Stern-Gerlach apparatus",
+        "link": "https://arxiv.org/abs/2604.24727v1",
+        "pubDate": "2026-04-27T17:37:17Z",
+        "description": "We propose a contextual cavity/circuit QED analogue and extension of the Stern-Gerlach experiment, where the pseudo-spin of a two-state `atomic' transition plays the role of the ``spin'', while the resonant field driving the transition stands for the ``magnetic field''. A phase-sensitive continuous ",
+        "title_cn": "操作上下文Stern-Gerlach仪器"
+      },
+      {
+        "title": "Physics-driven innovations toward the democratization of proton therapy",
+        "link": "https://arxiv.org/abs/2604.24704v1",
+        "pubDate": "2026-04-27T17:08:09Z",
+        "description": "Proton therapy exploits the finite range of charged particles in tissue to achieve dose distributions no photon based modality can replicate. Yet the modality reaches fewer than 1 percent of patients who might benefit a gap rooted in cost and complexity rather than clinical evidence. This Review ref",
+        "title_cn": "质子治疗民主化的物理驱动创新"
+      },
+      {
+        "title": "Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges",
+        "link": "https://arxiv.org/abs/2604.24694v1",
+        "pubDate": "2026-04-27T16:54:46Z",
+        "description": "Quantum computing has emerged as a powerful potential accelerator for computational fluid dynamics (CFD), but whether this promise can be realized in practice depends on how fluid information is encoded on quantum hardware. This review provides an architecture-agnostic assessment of encoding strateg",
+        "title_cn": "量子增强流体模拟的编码策略：机遇与挑战"
+      },
+      {
+        "title": "Machine-Checked Cardinality Bounds for Masked Barrett Reduction: A 1-Bit Side-Channel Leakage Barrier in Post-Quantum Cryptographic Hardware",
+        "link": "https://arxiv.org/abs/2604.24670v1",
+        "pubDate": "2026-04-27T16:27:33Z",
+        "description": "Barrett reduction is the nonlinear core of every practical NTT-based post-quantum cryptography implementation. Existing composition frameworks (ISW, t-SNI, PINI, DOM) address Boolean masking over GF(2); none provides a machine-checked characterization of Barrett's leakage under first-order arithmeti",
+        "title_cn": "掩蔽Barrett减少的机器检查基数界限：后量子加密硬件中的1位侧通道泄漏屏障"
+      },
+      {
+        "title": "Microstructure engineering of Ti-6Al-4V in laser powder bed fusion via 1D thermal modeling and supporting experiments",
+        "link": "https://arxiv.org/abs/2604.24669v1",
+        "pubDate": "2026-04-27T16:27:16Z",
+        "description": "The microstructure of Ti-6Al-4V has a decisive impact on its mechanical performance; however, controlling phase composition during Laser Powder Bed Fusion (LPBF) remains difficult because of the inherent localized and cyclic thermal history. To fully leverage the design flexibility of LPBF while mai",
+        "title_cn": "Ti-6Al-4V激光粉末床融合微观组织工程一维热建模及配套实验"
+      },
+      {
+        "title": "Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control",
+        "link": "https://arxiv.org/abs/2604.24663v1",
+        "pubDate": "2026-04-27T16:25:55Z",
+        "description": "We study finite-horizon quadratic control of linear systems with bilinear observations, in which the control input affects not only the state dynamics but also the partial observations of the state. In this setting, the separation principle can fail because control inputs influence the future qualit",
+        "title_cn": "基于信念空间模型预测控制的双线性观测的线性系统双重控制"
+      },
+      {
+        "title": "Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization",
+        "link": "https://arxiv.org/abs/2604.24649v1",
+        "pubDate": "2026-04-27T16:16:40Z",
+        "description": "Implementing a digital circuit on an FPGA fabric requires clustering technology-mapped netlist primitives into coarser-granularity blocks that can be directly mapped to the physical resources available on the FPGA. As the architecture of FPGA logic blocks (LBs) has grown in complexity, with sophisti",
+        "title_cn": "似曾相识打包：通过模式记忆优化FPGA逻辑群集运行时"
+      },
+      {
+        "title": "Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application",
+        "link": "https://arxiv.org/abs/2604.24636v1",
+        "pubDate": "2026-04-27T16:05:39Z",
+        "description": "On-device Small Language Models (SLMs) promise fully offline, private AI experiences for mobile users (no cloud dependency, no data leaving the device). But is this promise achievable in practice? This paper presents a longitudinal practitioner case study documenting the engineering challenges of in",
+        "title_cn": "少即是多：移动应用中设备上小语言模型集成的工程挑战"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "policy_nea": {
     "items": [
@@ -369,10 +440,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+        "title": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tRl95eG9fdnVSU1pIQ2JBRDZjVERpZUNIdTNkMUE2ek1Nc0N0MzFHcW0tWXBMcEctcFNkb2tSTmNFUG1MY1BIRUNsTXBwMnpGUFhNUg?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 06:36:24 GMT",
+        "description": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
@@ -399,58 +470,28 @@
         "description": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 &nbsp;&nbsp; 新浪财经"
       },
       {
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
+      },
+      {
         "title": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZcHROT3dmLXlNY1ZYX0ZiWno5TjFOVkwxM084eF9FQTZfb1BjR1lkVWhwVzVlMTh1dTM3Y2pHMlZRZzJvN21VSg?oc=5",
         "pubDate": "Thu, 16 Apr 2026 10:13:35 GMT",
         "description": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
-      },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
-        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
-        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
       },
       {
         "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
@@ -459,13 +500,43 @@
         "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
-        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-28 16:05 UTC"
+    "updated": "2026-04-28 22:50 UTC"
   }
 }
