@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-29",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "d带理论",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>过渡金属催化活性与其d轨道电子能带中心位置相关的理论模型，是预测和优化催化剂电子结构的重要框架。",
+      "example": "<strong>举例：</strong>d带中心越接近费米能级，与吸附物的结合越强；d带理论帮助解释了Pt族金属为何是优异的HER催化剂。"
+    },
+    {
+      "id": 2,
+      "term": "输出倒逼输入",
+      "category": "成长",
+      "definition": "<strong>含义：</strong>通过承诺“写出来/讲出来”来倒逼自己深度学习，因为只有真正理解才能输出；是费曼学习法的核心逻辑。",
+      "example": "<strong>举例：</strong>读氢能产业链报告后写一篇500字的梳理发在博客，逼出你真正理解的和还没理解的部分，比单纯读三遍有效得多。"
+    },
+    {
+      "id": 3,
+      "term": "科学引文指数",
+      "category": "成长",
+      "definition": "<strong>含义：</strong>SCI（Science Citation Index），收录全球高质量学术期刊并追踪引用数据的检索系统，是衡量科研影响力的重要工具，但不等于科学价值本身。",
+      "example": "<strong>举例：</strong>一篇发在Nature Energy的文章SCI他引200次，说明研究影响广；但引用次数受研究热度影响，冷门但基础性工作的引用数可能被严重低估——不能唯引用数论英雄。"
+    },
+    {
+      "id": 4,
+      "term": "SCADA",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>数据采集与监控系统（Supervisory Control and Data Acquisition），工业控制系统的核心平台，负责工厂/电站的远程监视与控制。",
+      "example": "<strong>举例：</strong>制氢工厂的SCADA系统实时采集数百个传感器数据（温度、压力、流量），自动触发阀门、泵等执行机构，操作人员可在中控室监控全厂状态。"
+    },
+    {
+      "id": 5,
+      "term": "电化学合成",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>利用电能驱动化学反应合成目标分子（氨、乙烯、甲醇等），避免高温高压和大量CO₂排放，是绿色化工的重要技术路径。",
+      "example": "<strong>举例：</strong>CO₂电化学还原（CO₂RR）可以将捕集的CO₂转化为乙烯（化工原料）或一氧化碳（合成燃料），变废为宝的同时实现碳循环。"
+    }
+  ]
+}
