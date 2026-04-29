@@ -26,7 +26,7 @@
         "title": "Immunity gets a boost from a surprising place — breakfast",
         "link": "https://www.nature.com/articles/d41586-026-01406-x",
         "pubDate": "2026-04-29",
-        "description": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, forty years after Chornobyl, how future nuclear calamities can be avoided.",
+        "description": "Nature, Published online: 29 April 2026; doi:10.1038/d41586-026-01406-x Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.",
         "title_cn": "免疫力从一个令人惊讶的地方得到提升—早餐"
       },
       {
@@ -59,10 +59,16 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+        "link": "https://36kr.com/p/3788151000751364?f=rss",
+        "pubDate": "2026-04-30 01:07:22  +0800",
+        "description": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制 （让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样） MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”） 后训练 （模型初步练成后再针对性"
+      },
       {
         "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
         "link": "https://36kr.com/p/3787748082293766?f=rss",
@@ -104,19 +110,34 @@
         "link": "https://36kr.com/p/3769086884528640?f=rss",
         "pubDate": "2026-04-29 11:17:59  +0800",
         "description": "靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。 4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。 两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的电动置换需求。 奥迪Q6L e-tron家族则提供常规版和Sportback溜背版两种车身形态，共计六款配置，限时售价26.98万至41.98万元，还专门新增智"
-      },
-      {
-        "title": "老铺黄金还不是爱马仕",
-        "link": "https://36kr.com/p/3787296465427464?f=rss",
-        "pubDate": "2026-04-29 10:57:01  +0800",
-        "description": "作者 | &nbsp;谢芸子 编辑 |&nbsp; 张帆 老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。 2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。 公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。第三则是门店数量的增加。 上一年度，老铺黄金在16个城市共开设45家自营门店，其中包括在新加坡、中国香港等地的“海外”门店。且对比2024年，去"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Latin America EV Sales Report: Sales in Q1 Grew 74%, Reaching a New Record of Over 115,000 Units!",
+        "link": "https://cleantechnica.com/2026/04/29/latin-america-ev-sales-report-sales-in-q1-grew-74-reaching-a-new-record-of-over-115000-units/",
+        "pubDate": "Wed, 29 Apr 2026 22:12:35 +0000",
+        "description": "A mere quarter ago, we were celebrating the first time ever Latin America had seen more than 100,000 EVs sold in only three months. Now, thanks to significant growth year-on-year (YoY), we’re once again reaching a record, with Q1 surpassing 115,000 EVs sold in the region! This is a deviation ... [co",
+        "title_cn": "拉丁美洲电动汽车销量报告：第一季度销量增长74% ，创下超过115,000辆的新纪录！"
+      },
+      {
+        "title": "Hydrogen Fuel Cell Cars No; Fuel Cell Combat Drones Yes",
+        "link": "https://cleantechnica.com/2026/04/29/hydrogen-fuel-cell-cars-no-fuel-cell-combat-drones-yes/",
+        "pubDate": "Wed, 29 Apr 2026 16:23:57 +0000",
+        "description": "The US drone manufacturer Heven Aerotech has earned a streamlined contract with the US Army for its hydrogen fuel cell UAV and associated hydrogen systems. The post Hydrogen Fuel Cell Cars No; Fuel Cell Combat Drones Yes appeared first on CleanTechnica .",
+        "title_cn": "氢燃料电池汽车否；燃料电池战斗无人机是"
+      },
+      {
+        "title": "CATL Inks Deal For 60 GWh Of Sodium Energy Storage Batteries Over Next Three Years",
+        "link": "https://cleantechnica.com/2026/04/29/catl-inks-deal-for-60-gwh-of-sodium-energy-storage-batteries-over-next-three-years/",
+        "pubDate": "Wed, 29 Apr 2026 16:19:51 +0000",
+        "description": "CATL and HyperStrong have inked a deal for 60 GWh of sodium-ion battery cells for energy storage systems over the next three years. The post CATL Inks Deal For 60 GWh Of Sodium Energy Storage Batteries Over Next Three Years appeared first on CleanTechnica .",
+        "title_cn": "宁德时代油墨在未来三年内达成60GWh钠储能电池交易"
+      },
       {
         "title": "Chinese Brands Project Confidence at the Beijing Auto Show: Large Premium SUVs (Gallery)",
         "link": "https://cleantechnica.com/2026/04/29/chinese-brands-project-confidence-at-the-beijing-auto-show-large-premium-suvs-gallery/",
@@ -151,31 +172,10 @@
         "pubDate": "Wed, 29 Apr 2026 03:59:41 +0000",
         "description": "Guangzhou — XPENG (NYSE: XPEV, HKEX: 9868), a leading China-based high-tech company, recently officially released its X-World Technical Report, providing a comprehensive breakdown of the model&#8217;s construction and deployment across data, architecture, training, validation, and application. X-Wor",
         "title_cn": "XPENG发布世界模型技术报告，推动VLA 2.0模型研发和验证"
-      },
-      {
-        "title": "Chargers Multiply in Australia",
-        "link": "https://cleantechnica.com/2026/04/28/chargers-multiply-in-australia/",
-        "pubDate": "Wed, 29 Apr 2026 03:58:32 +0000",
-        "description": "Amidst a surge in interest in electric vehicles in Australia, it looks like the charging networks are keeping up. We have high-speed chargers in supermarket carparks and airports along with Level 2 pole-mounted chargers in dense inner-city suburbs. Just walking through the local supermarket carpark ",
-        "title_cn": "澳大利亚的充电器倍增"
-      },
-      {
-        "title": "Sierra Club Applauds NYC Pensions for Continued Climate Progress, Calls for Stronger Implementation",
-        "link": "https://cleantechnica.com/2026/04/28/sierra-club-applauds-nyc-pensions-for-continued-climate-progress-calls-for-stronger-implementation/",
-        "pubDate": "Wed, 29 Apr 2026 03:57:20 +0000",
-        "description": "Annual reports show progress toward net-zero goals NEW YORK — The Sierra Club applauds New York City Comptroller Mark Levine and trustees of three of NYC’s public pension systems for releasing new climate reports showing continued progress toward their net-zero by 2040 goals. The reports from NYCERS",
-        "title_cn": "塞拉俱乐部称赞纽约市养老金持续推动气候进展，呼吁加强执行力度"
-      },
-      {
-        "title": "TECO Customers Issue Letters to Utility’s Board Members Addressing Bill Increases",
-        "link": "https://cleantechnica.com/2026/04/28/teco-customers-issue-letters-to-utilitys-board-members-addressing-bill-increases/",
-        "pubDate": "Wed, 29 Apr 2026 03:56:52 +0000",
-        "description": "TAMPA, Fla. &#8211; Tampa Electric Company’s (TECO’s) rising utility bills are forcing Tampa families to choose between essentials like food, rent, and medicine and access to power. In response, TECO customers have written letters to the utility’s Board of Directors detailing their personal experien",
-        "title_cn": "TECO客户致函公用事业公司董事会成员解决账单增加问题"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,16 +272,16 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
+        "title": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wY19LSTNWcm9vUFdiZFhFOTMyOXZudnVldnBBQmt3Yk5rVjNndDctU21IeC1ySThTRWVWS2VjaHVUTmFHWU1OWFNnQkRFUFduQy1uY1Nn?oc=5",
+        "pubDate": "Mon, 13 Apr 2026 01:52:52 GMT",
+        "description": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aN0tvVjViQWdXQ1FaRmoxVXk3dm50UjVadDdpa0Ztb1lVMHNiMnM5cnlTSjJfYWNaUHNMVGFUa0x3UlBLX1BrS3QxQWZHaHpWVFN6emRnV05fUG1S?oc=5",
         "pubDate": "Thu, 02 Apr 2026 01:17:12 GMT",
         "description": "“十五五”非化石能源十年倍增 能源强国之路如何铺就？ &nbsp;&nbsp; 证券时报"
-      },
-      {
-        "title": "陕西“十五五”规划：推进陕蒙30GW新能源制绿氢及输氢管道项目前期工作 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYMnFoZWowek94U2tzbDR0VzdGUmlJSko1RXdHdlFSbmY2SW90Rm02WVdTbFhFVTQ0TjlxWFB4TDFnZjZwQmFLZVlyR2wwcXlDRklibVBn?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 01:15:08 GMT",
-        "description": "陕西“十五五”规划：推进陕蒙30GW新能源制绿氢及输氢管道项目前期工作 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Clean Hydrogen Facility to Be Built in Yongin Eco-Town With Operations Starting in First Half of 2028",
-        "link": "https://fuelcellsworks.com/2026/04/27/h2/clean-hydrogen-facility-to-be-built-in-yongin-eco-town-with-operations-starting-in-first-half-of-2028",
-        "pubDate": "Tue, 28 Apr 2026 15:45:39 GMT",
+        "title": "Pure One Advances Hydrogen Trucks for Heidelberg and Delivers EV Minibus in NSW",
+        "link": "https://fuelcellsworks.com/2026/04/29/fuel-cells/pure-one-advances-hydrogen-trucks-for-heidelberg-and-delivers-ev-minibus-in-nsw",
+        "pubDate": "Wed, 29 Apr 2026 16:41:14 GMT",
         "description": "",
-        "title_cn": "在龙仁生态城建造清洁氢设施， 2028年上半年开始运营"
+        "title_cn": "Pure One为海德堡推出氢能卡车，并在新南威尔士州交付电动小巴"
       },
       {
-        "title": "Valencian Government Backs Ignis’ 860,000 Mt Green Ammonia Plant in Castellón",
-        "link": "https://fuelcellsworks.com/2026/04/28/clean-energy/valencian-government-backs-ignis-860-000-mt-green-ammonia-plant-in-castellon",
-        "pubDate": "Tue, 28 Apr 2026 15:43:44 GMT",
+        "title": "Toyota Hydrogen Solutions Achieves Key Certifications for Commercial Fuel Cell Units",
+        "link": "https://fuelcellsworks.com/2026/04/29/energy-innovation/toyota-hydrogen-solutions-achieves-key-certifications-for-commercial-fuel-cell-units",
+        "pubDate": "Wed, 29 Apr 2026 16:28:53 GMT",
         "description": "",
-        "title_cn": "巴伦西亚政府支持Ignis在卡斯特利翁的86万吨绿氨工厂"
+        "title_cn": "丰田氢气解决方案获得商用燃料电池装置关键认证"
       },
       {
-        "title": "France Grants Five-Year Permit to Explore Natural Hydrogen in Comminges Region",
-        "link": "https://fuelcellsworks.com/2026/04/28/h2/france-grants-five-year-permit-to-explore-natural-hydrogen-in-comminges-region",
-        "pubDate": "Tue, 28 Apr 2026 15:25:01 GMT",
+        "title": "Green Hydrogen Supplier Marks 17 Years with 2028 Push to Become Broader Clean-Energy Solutions Player",
+        "link": "https://fuelcellsworks.com/2026/04/27/electrolyzer/green-hydrogen-supplier-marks-17-years-with-2028-push-to-become-broader-clean-energy-solutions-player",
+        "pubDate": "Wed, 29 Apr 2026 16:20:07 GMT",
         "description": "",
-        "title_cn": "法国授予Cominges地区勘探天然氢的五年许可证"
+        "title_cn": "绿色氢供应商成立17周年， 2028年推动成为更广泛的清洁能源解决方案参与者"
       },
       {
-        "title": "Odesa Hydrogen Valley Moves Beyond Early Concept Phase, Says Hydrogen Ukraine",
-        "link": "https://fuelcellsworks.com/2026/04/28/h2/odesa-hydrogen-valley-moves-beyond-early-concept-phase-says-hydrogen-ukraine",
-        "pubDate": "Tue, 28 Apr 2026 15:14:27 GMT",
+        "title": "Envision Joins AEA Ammonia Certification System Pilot to Accelerate Global Clean Ammonia Trade",
+        "link": "https://fuelcellsworks.com/2026/04/29/clean-energy/envision-joins-aea-ammonia-certification-system-pilot-to-accelerate-global-clean-ammonia-trade",
+        "pubDate": "Wed, 29 Apr 2026 16:18:24 GMT",
         "description": "",
-        "title_cn": "Hydrogen Ukraine表示， Odesa Hydrogen Valley超越了早期概念阶段"
+        "title_cn": "远景加入AEA氨认证体系试点，加快全球清洁氨贸易"
       },
       {
-        "title": "Hyroad Energy and Total Hydrogen Solutions Announce Commercial Fueling Agreement to Support Hydrogen Trucking in Texas",
-        "link": "https://fuelcellsworks.com/2026/04/28/fuel-cells/hyroad-energy-and-total-hydrogen-solutions-announce-commercial-fueling-agreement-to-support-hydrogen-trucking-in-texas",
-        "pubDate": "Tue, 28 Apr 2026 15:13:47 GMT",
+        "title": "Trieste Turns Green Hydrogen Into Port Industry with Integrated Hub for Power, Storage and Electrolysis",
+        "link": "https://fuelcellsworks.com/2026/04/27/h2/trieste-turns-green-hydrogen-into-port-industry-with-integrated-hub-for-power-storage-and-electrolysis",
+        "pubDate": "Wed, 29 Apr 2026 16:16:21 GMT",
         "description": "",
-        "title_cn": "Hyroad Energy和Total Hydrogen Solutions宣布达成商业加油协议，以支持德克萨斯州的氢气卡车运输"
+        "title_cn": "的里雅斯特将绿色氢气转变为港口行业，集成电力、储能和电解枢纽"
       },
       {
-        "title": "Penspen Awarded Research Project on Hydrogen Transition Pathways for UK Industrial Clusters",
-        "link": "https://fuelcellsworks.com/2026/04/28/energy-innovation/penspen-awarded-research-project-on-hydrogen-transition-pathways-for-uk-industrial-clusters",
-        "pubDate": "Tue, 28 Apr 2026 14:59:06 GMT",
+        "title": "Arab Countries Plan 133 Hydrogen Projects",
+        "link": "https://fuelcellsworks.com/2026/04/29/green-investment/arab-countries-plan-133-hydrogen-projects",
+        "pubDate": "Wed, 29 Apr 2026 16:06:27 GMT",
         "description": "",
-        "title_cn": "彭斯彭荣获英国产业集群氢转化途径研究项目"
+        "title_cn": "阿拉伯国家计划133个氢项目"
       },
       {
-        "title": "Aiwanger Says Hydrogen Is of Strategic Importance and Praises TÜV Süd Support",
-        "link": "https://fuelcellsworks.com/2026/04/27/h2/aiwanger-says-hydrogen-is-of-strategic-importance-and-praises-tuv-sud-support",
-        "pubDate": "Tue, 28 Apr 2026 14:52:40 GMT",
+        "title": "Achap Hicare Korea and Hibus Collaborate on Hydrogen Refueling Station Operations",
+        "link": "https://fuelcellsworks.com/2026/04/27/fuel-cells/achap-hicare-korea-and-hibus-collaborate-on-hydrogen-refueling-station-operations",
+        "pubDate": "Wed, 29 Apr 2026 15:56:13 GMT",
         "description": "",
-        "title_cn": "Aiwanger表示氢气具有战略重要性并赞扬TÜV南德意志集团的支持"
+        "title_cn": "Achap Hicare Korea和Hibus合作运营加氢站"
       },
       {
-        "title": "Italian Hydrogen Valley Moves From Paperwork to Site Work as Enapter-Backed Acerra Project Advances",
-        "link": "https://fuelcellsworks.com/2026/04/27/clean-energy/italian-hydrogen-valley-moves-from-paperwork-to-site-work-as-enapter-backed-acerra-project-advances",
-        "pubDate": "Tue, 28 Apr 2026 14:49:27 GMT",
+        "title": "NewHydrogen Announces Strategic Collaboration with NuCube Energy to Explore Nuclear-Powered Clean Hydrogen Production",
+        "link": "https://fuelcellsworks.com/2026/04/29/clean-energy/newhydrogen-announces-strategic-collaboration-with-nucube-energy-to-explore-nuclear-powered-clean-hydrogen-production",
+        "pubDate": "Wed, 29 Apr 2026 15:53:01 GMT",
         "description": "",
-        "title_cn": "随着Enapter支持的Acerra项目的进展，意大利氢谷从文书工作转移到现场工作"
+        "title_cn": "NewHydrogen宣布与NuCube Energy开展战略合作，探索核动力清洁制氢"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,16 +446,16 @@
         "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
       },
       {
-        "title": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fZl9xNWpvU2cxekVYS18tWk1WZGQtbUktdVNuNEVpSWR5VGVPOW5IZ2gyVWFsUnZIM2lVblJDMFczNmJkSG5VaQ?oc=5",
-        "pubDate": "Wed, 29 Apr 2026 03:50:49 GMT",
-        "description": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
         "pubDate": "Mon, 27 Apr 2026 12:44:57 GMT",
         "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
+      },
+      {
+        "title": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5fZl9xNWpvU2cxekVYS18tWk1WZGQtbUktdVNuNEVpSWR5VGVPOW5IZ2gyVWFsUnZIM2lVblJDMFczNmJkSG5VaQ?oc=5",
+        "pubDate": "Wed, 29 Apr 2026 03:50:49 GMT",
+        "description": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% &nbsp;&nbsp; 财联社"
       },
       {
         "title": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 - 国际氢能网",
@@ -470,23 +470,53 @@
         "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZnU1NmxZN0RSeVNSSkRJbkMySHVNN1YyT0I1d1FrYVo5NkFiZTdGaW5rZ2VCcUZqTVJoTlc1ckVNalNVUHJZQXNVR3EwcFhET3lDYTRDUnIzQjh3dHlOV2ZuYkZYYkVMT2tNcS1WYjE?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0M3F2VGtOSzhWczM2Q0pkVUlCVDRwSk1YVWlQbWZHc1RqbmVlQVQ2VlN6UUt6OVNVU1loZ1oya0k2NzRSTi1LLXZOOEZRR0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4teWVGbk56dmVocEdQazI3NFNDTDVRQlduZWFfMkJiajVkWEZhY0s0WmdLUnMzVGZ1OFR3d00wSEg2dUZFQzB1QWQwTQ?oc=5",
         "pubDate": "Mon, 27 Apr 2026 03:11:12 GMT",
         "description": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
+        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
@@ -500,43 +530,13 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
-      },
-      {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-29 15:53 UTC"
+    "updated": "2026-04-29 22:51 UTC"
   }
 }
