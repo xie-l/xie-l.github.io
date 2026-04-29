@@ -30,6 +30,13 @@
         "title_cn": "海湾国家必须从效率转向复原力"
       },
       {
+        "title": "The politics of playful primates",
+        "link": "https://www.nature.com/articles/d41586-026-01352-8",
+        "pubDate": "2026-04-28",
+        "description": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01352-8 Apes, monkeys and their relatives that live in despotic societies are less likely to clown around as adults.",
+        "title_cn": "俏皮灵长类动物的政治"
+      },
+      {
         "title": "Hungarian science has undergone rapid changes",
         "link": "https://www.nature.com/articles/d41586-026-01367-1",
         "pubDate": "2026-04-28",
@@ -49,133 +56,126 @@
         "pubDate": "2026-04-28",
         "description": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-01202-7 The nation’s top-down approach contrasts with that of countries such as the United States, where market forces drive innovation.",
         "title_cn": "中国推动研究商业化的最新举措：匹配68万创新者与企业"
-      },
-      {
-        "title": "‘World models’ are AI’s latest sensation: what are they and what can they do?",
-        "link": "https://www.nature.com/articles/d41586-026-00820-5",
-        "pubDate": "2026-04-28",
-        "description": "Nature, Published online: 28 April 2026; doi:10.1038/d41586-026-00820-5 Training AI world models on data about physical environments could improve their real-world capabilities in technologies such as robotics.",
-        "title_cn": "“世界模型”是人工智能的最新感觉：它们是什么，它们能做什么？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "最前线｜未来宇航发布FX锋行系列空间飞行器，切入卫星组网部署与在轨服务市场",
+        "link": "https://36kr.com/p/3787376553876737?f=rss",
+        "pubDate": "2026-04-29 12:00:21  +0800",
+        "description": "作者｜乔钰杰 编辑｜袁斯来 4月28日，未来宇航在雄安新区举行FX锋行系列空间飞行器发布会，并同步举行商业航天生态供应链合作伙伴签约仪式。 此次发布的FX“锋行”系列，是国内首个服务卫星组网和在轨业务的商业飞行器。面向300kg至4000kg级任务需求，重点突破高精度姿轨控、柔性化承载与快速轨道响应等关键技术，强调低成本、高可靠与快响应能力。其定位不仅是单一飞行器产品，也是支撑在轨服务工程化落地的基础平台，可服务于星座组网、在轨加注及深空探测等场景。 活动现场 企业供图 未来宇航CTO刘春保在接受36氪采访时介绍， 空间飞行器的核心价值在于提升部署效率与降低成本：一方面，通过更高效的轨道转移能"
+      },
+      {
+        "title": "搭载华为智驾，奥迪「6系」电车上市，售价30.98万元起｜最前线",
+        "link": "https://36kr.com/p/3769086884528640?f=rss",
+        "pubDate": "2026-04-29 11:17:59  +0800",
+        "description": "靠着燃油豪华市场稳住基本盘之后，一汽奥迪的电动化节奏开始提速，核心动作就是补齐专属纯电PPE平台的主力车型矩阵。 4月，奥迪正式推出A6L r-tron和Q6L e-tron家族两款新车，分别瞄准中大型豪华纯电轿车和SUV主流市场。主打产品力与用车场景，奥迪这次没有“玩虚的”。 两款新车的定价走的是务实路线。其中，奥迪A6L r-tron纯电轿车推出四款配置，售价区间30.98万至43.98万元，主要承接老款燃油A6L车主换机不换品牌的电动置换需求。 奥迪Q6L e-tron家族则提供常规版和Sportback溜背版两种车身形态，共计六款配置，限时售价26.98万至41.98万元，还专门新增智"
+      },
+      {
+        "title": "老铺黄金还不是爱马仕",
+        "link": "https://36kr.com/p/3787296465427464?f=rss",
+        "pubDate": "2026-04-29 10:57:01  +0800",
+        "description": "作者 | &nbsp;谢芸子 编辑 |&nbsp; 张帆 老铺黄金在同一天披露了两组让同行“艳羡”的财报数据。 2025年全年，老铺黄金销售业绩达到313.75亿元，同比增长220.3%；营收273.03亿元，同比增长221%。按非国际财务报告标准，公司经调整净利润为50.29亿元，同比增长234.9%。 公司将业绩暴增的原因归于三方面：一是品牌影响力的持续扩大，形成了绝对的市场优势；二是产品的推新与优化。这两大原因使公司线上、线下的整体营收大幅增大。第三则是门店数量的增加。 上一年度，老铺黄金在16个城市共开设45家自营门店，其中包括在新加坡、中国香港等地的“海外”门店。且对比2024年，去"
+      },
+      {
+        "title": "比博斯特完成超10亿元B轮融资，智能底盘三轴产品全覆盖｜36氪独家",
+        "link": "https://36kr.com/p/3740907027054600?f=rss",
+        "pubDate": "2026-04-29 09:00:33  +0800",
+        "description": "36氪独家获悉，智能底盘企业比博斯特近日完成B+轮融资，由浙江省新能源汽车产业基金领投，顺创产投、杭资直投基金等联合投资。企业B+轮融资超7亿元，B轮系列融资总额已超10亿元。本轮融资将用于已有产品的规模化增长及前沿产品的开发。 比博斯特成立于2021年，其股东不仅包括主机厂蔚来，还涵盖恒隆、保隆等汽车底盘供应链头部企业。2025年，曾在底盘巨头采埃孚担任高管的巫子平、郁炜陆续加入比博斯特，出任高级副总裁。 目前，比博斯特产品矩阵已覆盖制动、悬架、转向及域控制器等智能底盘全领域。创始人兼总裁刘晓辉向36氪表示，公司当前大批量交付的产品主要包括三类：ESC车身稳定性控制系统，One-Box集成式"
+      },
+      {
+        "title": "前米哈游高管创业，AI 原生增长 Agent LeapMind Growth 获 CMC 资本领投",
+        "link": "https://36kr.com/p/3786123369094405?f=rss",
+        "pubDate": "2026-04-29 09:00:00  +0800",
+        "description": "2026 年 4 月 29&nbsp;日，上海讯 —— AI 原生增长 Agent LeapMind Growth &nbsp;今日宣布完成天使 + 轮融资，由 CMC 资本领投。本轮融资将主要用于核心产品 GrowthGPT 的研发迭代、产研团队扩充及早期市场拓展。 LeapMind Growth 成立于 2025 年 4 月，由前米哈游全球用户增长负责人、前快手增长策略中心负责人 马如平（Rubin） 创立，此前也曾在 TikTok 负责用户增长，累计主导规模超 50 亿美元的用户增长项目。公司核心成员均来自字节跳动、米哈游、快手、美团等企业，核心团队兼具超大规模增长管理、AI 系统工程化"
+      },
+      {
+        "title": "独家对谈｜兴辉时代创始人高兴辉，90后小镇女孩离开教培大厂，三年创造2亿GMV的倔强人生",
+        "link": "https://36kr.com/p/3786265971334150?f=rss",
+        "pubDate": "2026-04-29 08:57:36  +0800",
+        "description": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 兴辉，山西人，三次面试新东方才被录用。 转战高途教育后，她与另外三名男同事一同被封为公司的“三王一后”。 如今她已自己创业近三年。带着对教培行业发展水温的好奇，我们拜访了兴辉的公司。 一进门，同事们喊她“辉哥”——这与她外表精瘦，笑起来有虎牙的形象相比，实在让人难以关联。 但当我们听到在整个教培行业最为混沌迷茫的三年里，她带领团队从0���始， 做到了2个亿的GMV ，这一切就不难理解了。 ●&nbsp;欢迎观看+关注《职场Bonus》旗下原创视频号 &nbsp; 以下为访谈实录，部分措辞经《职场Bonus》编辑调整。 请尽"
+      },
+      {
+        "title": "8点1氪丨百度废除字母职级标签；Meta被曝准备撤销对Manus收购；张雪称曾拒绝了半个亿的商务合作",
+        "link": "https://36kr.com/p/3787150633065728?f=rss",
+        "pubDate": "2026-04-29 08:11:35  +0800",
+        "description": "今日热点导览 阿联酋宣布将退出欧佩克及“欧佩克+” 比亚迪宣布5月1日起涨价 五粮液：延期披露年报、一季报 普通本科高校上新38种专业 全马“破2”跑鞋被炒至近2万元 韩股市值超越英国，成为全球第八大股市 TOP3大新闻 百度职级体系大调整：字母标签改为5级至12级数字职级体系 4月28日，据《科创板日报》，百度发布全员信，通知职级体系大调整，其将中管层以下的专业通道与管理通道全面打通，原有职级字母标签（T、P、E、Band、M）统一为5级至12级的数字职级体系，于2026年5月1日正式生效。通知中称，AI时代需要的恰恰是复合型人才——同时具备专业力和领导力，能独当一面。基于这个判断，公司决定"
+      },
       {
         "title": "氪星晚报｜我国最大规模AI4S集群接入全国一体化算力网；亚马逊低地轨道卫星计划又一批卫星发射升空；我国首款正向设计自转旋翼机完成首飞",
         "link": "https://36kr.com/p/3786324189027332?f=rss",
         "pubDate": "2026-04-28 18:09:31  +0800",
         "description": "大公司： 拒买新闻就交税，澳洲拟向科技巨头征约2%营收税 澳大利亚政府公布法案草案，拟对Meta、谷歌等科技巨头征收新税，除非这些平台自愿与当地新闻机构签署付费协议，以应对传统媒体在数码平台冲击下面临的生存压力。据报道，根据拟议的新法律安排，这些大型数码平台须就分享本地媒体新闻内容所带来的平台流量，向出版商提供经济补偿。澳洲总理阿尔巴尼斯表明，政府将给予Meta、谷歌等公司机会，与本地新闻出版商达成内容交易。 网信部门依法查处“剪映”App等生成合成内容标识违法问题网站平台 36氪获悉，据网信中国，近期网信部门工作中发现，“剪映”“猫箱”App及“即梦AI”网站存在未有效落实人工智能生成合成内"
-      },
-      {
-        "title": "独家对谈｜缘启智慧CEO邓江，一个80后银行码农出身的AI医疗创业者",
-        "link": "https://36kr.com/p/3786252394945795?f=rss",
-        "pubDate": "2026-04-28 17:12:04  +0800",
-        "description": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） 今年三月，《职场Bonus》报道了 前百川智能商业化合伙人 邓江 加入北电数智 的消息。没想到不到半年后，他出来创业了。 如今，他是AI医疗大模型新晋创业者邓江，是 「缘启智慧」公司的创始人兼CEO 邓江。在他低调开张的节骨眼上，我们联系到了这位技术背景的金融老兵，期待他能分享自己 在风口上跨越、历险、不断前进的职业故事 ，以及， 他这次创业要做什么事儿。 ●&nbsp;欢迎观看+关注《职场Bonus》旗下原创视频号 &nbsp; 翻阅他的履历，我们的第一印象是：“挺能熬的。”相较于我过往接触的多数创业者常有的风险偏好，他的"
-      },
-      {
-        "title": "36氪首发 | 韩国现代、微光创投押注焊接机器人，营收预计破数亿，拿下船厂数千万订单",
-        "link": "https://36kr.com/p/3785955616152839?f=rss",
-        "pubDate": "2026-04-28 11:53:31  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，专注于焊接垂直场景的具身智能机器人公司——昇视唯盛已完成数千万元A+轮融资。本轮融资由韩国现代、微光创投联合投资，资金将主要用于“具身大脑”的研发、软硬件产品的迭代以及市场推广。 昇视唯盛成立于2020年，核心团队由来自哈尔滨工业大学、上海交通大学等高校的机器人领域专家，以及拥有多年工业自动化从业经验的资深人员组成。创始人王德钊及核心团队在机器人及自动化领域拥有十余年产业经验，对焊接场景的工艺需求及行业痛点有深刻理解。 昇视唯盛的核心技术优势在于其“AI算法+焊接工艺+机器人本体”三合一的自主核心能力。公司于2022年收购哈工现代机器人有限公司，控股子公司哈"
-      },
-      {
-        "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
-        "link": "https://36kr.com/p/3785730095127817?f=rss",
-        "pubDate": "2026-04-28 08:04:02  +0800",
-        "description": "TOP3大新闻 DeepSeek 输入缓存降价 多家美国廉价航空公司寻求政府资金纾困 东方甄选回应大量用户申请退会员 穿西装开空调太费电，日本东京鼓励公务员穿短裤 印度移动支付平台MobiKwik获央行批准 TOP3大事件 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对外资收购Manus项目作出禁止投资决定，要求当事人撤销该收购交易。 2025年12月30日，全球首款通用人工智能体Manus发布公告称，Manus即将加入美国科技巨头Meta。Manus将继续通过app和网站为用户提"
-      },
-      {
-        "title": "用AI做IP，文娱科技公司星迹互动完成数千万元天使轮融资｜36氪融资首发",
-        "link": "https://36kr.com/p/3784697499786503?f=rss",
-        "pubDate": "2026-04-28 08:00:00  +0800",
-        "description": "近期，数字科技文娱公司星迹互动完成了数千万元的天使轮融资。本轮投资方包括正大集团、北京大融文化传媒、禹牧智能以及麦迈科技等。36氪获悉，此次融资将主要用于公司人员规模的扩张、产能拉升以及平台建设。 星迹互动于2025年成立，以AI为核心驱动力，专注于精品IP的开发与运营。具体来讲，公司的业务包括新老IP的开发与运营、漫剧的承制与出海、儿童原创动画孵化，以及数字人IP与虚拟偶像的打造。 公司创始人张文广是连续创业者，曾是二更联合创始人、微梦传媒高级副总裁，在品牌传播领域积累了丰富的经验。 资方北京大融文化传媒CEO曹柏松如此评价张文广和星迹互动——AI内容赛道中有很多野蛮生长的公司，他们的逻辑是"
-      },
-      {
-        "title": "「寻明生科」完成3500万美元A+轮融资，首个抗体药物即将进入临床｜36氪首发",
-        "link": "https://36kr.com/p/3784480103455748?f=rss",
-        "pubDate": "2026-04-28 08:00:00  +0800",
-        "description": "文｜胡香赟 编辑｜海若镜 36氪获悉，寻明生科（Aureka Biotechnologies）近期已完成3500万美元A+轮融资。本轮融资由红杉中国领投，经纬创投、博远资本跟投，老股东五源资本、启明创投、纽尔利资本等持续加注。 去年底，寻明生科就曾获得一笔数千万美元的 A轮融资 。截至目前，公司A轮次融资的累计金额已接近1亿美元。 寻明生科方面表示，本轮募集资金将用于推动自研创新功能抗体设计平台AuraIDE™建设，加大基座模型与智能体能力建设、完善高通量高内涵实验平台设施，进一步打通智能体从立项、分子设计到转化落地的关键环节。 2023年成立至今的3年间，寻明生科已完成从搭建生成式抗体药物研"
-      },
-      {
-        "title": "最前线｜爱芯元智仇肖莘：大算力芯片将成为企业明年的主要增长引擎",
-        "link": "https://36kr.com/p/3784806758243587?f=rss",
-        "pubDate": "2026-04-28 00:27:19  +0800",
-        "description": "在汽车行业越来越强调降本的今天，车企心中的天平逐渐偏向了更具性价比的国产芯片。爱芯元智看到了这一发展机遇，北京车展前期，爱芯元智与千里科技、阶跃星辰等企业成立“千里联盟”，同时企业将于今年三季度发布M97这颗大算力辅助驾驶芯片。 爱芯元智创始人仇肖莘在北京车展上公开表示，“大算力产品已成功流片，正进入正常的开发周期”，2026年将逐步导入多款车型，成为业绩增长的重要引擎。目前，传统终端计算产品仍占爱芯元智收入的超80%，车载和边缘计算业务的收入占比较低，仇肖莘预计未来三年内，这一局面将被改写。 仇肖莘对M97的性能表现颇为信心，她表示：“当前主流高阶辅助驾驶芯片有比较大的问题，就是带宽不够。我"
-      },
-      {
-        "title": "未岚大陆第100万台智能割草机器人下线，马来西亚产线已完成、全面启动生产｜最前线",
-        "link": "https://36kr.com/p/3784879395134465?f=rss",
-        "pubDate": "2026-04-27 19:41:44  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 近日，智能割草机器人公司未岚大陆第100万台智能割草机器人下线仪式在其常州研发生产基地举办。未岚大陆CEO任冠佼、总裁兼CTO陈子冲、德国莱茵TÜV电子电气产品服务全球高级副总裁郝福来（Frank Holzmann）等出席仪式。 在割草机器人赛道竞争白热化的节点，百万台是对技术路线选择、供应链韧性与全球化布局的一次系统验证。从2021年发布第一款无边界智能割草机器人，到2026年累计量产突破100万台，未岚大陆的路径勾勒了一家中国庭院机器人公司的崛起曲线。 未岚大陆第100万台智能割草机器人下线 曲线增长背后是赛道热度的迅猛攀升。据中国机电产品进出口商会数据，2025"
       }
     ],
     "source": "36氪",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Chargers Multiply in Australia",
+        "link": "https://cleantechnica.com/2026/04/28/chargers-multiply-in-australia/",
+        "pubDate": "Wed, 29 Apr 2026 03:58:32 +0000",
+        "description": "Amidst a surge in interest in electric vehicles in Australia, it looks like the charging networks are keeping up. We have high-speed chargers in supermarket carparks and airports along with Level 2 pole-mounted chargers in dense inner-city suburbs. Just walking through the local supermarket carpark ",
+        "title_cn": "澳大利亚的充电器倍增"
+      },
+      {
+        "title": "Sierra Club Applauds NYC Pensions for Continued Climate Progress, Calls for Stronger Implementation",
+        "link": "https://cleantechnica.com/2026/04/28/sierra-club-applauds-nyc-pensions-for-continued-climate-progress-calls-for-stronger-implementation/",
+        "pubDate": "Wed, 29 Apr 2026 03:57:20 +0000",
+        "description": "Annual reports show progress toward net-zero goals NEW YORK — The Sierra Club applauds New York City Comptroller Mark Levine and trustees of three of NYC’s public pension systems for releasing new climate reports showing continued progress toward their net-zero by 2040 goals. The reports from NYCERS",
+        "title_cn": "塞拉俱乐部称赞纽约市养老金持续推动气候进展，呼吁加强执行力度"
+      },
+      {
+        "title": "TECO Customers Issue Letters to Utility’s Board Members Addressing Bill Increases",
+        "link": "https://cleantechnica.com/2026/04/28/teco-customers-issue-letters-to-utilitys-board-members-addressing-bill-increases/",
+        "pubDate": "Wed, 29 Apr 2026 03:56:52 +0000",
+        "description": "TAMPA, Fla. &#8211; Tampa Electric Company’s (TECO’s) rising utility bills are forcing Tampa families to choose between essentials like food, rent, and medicine and access to power. In response, TECO customers have written letters to the utility’s Board of Directors detailing their personal experien",
+        "title_cn": "TECO客户致函公用事业公司董事会成员解决账单增加问题"
+      },
+      {
+        "title": "Conservation Groups Issue Reply to EPA in West Virginia Regional Haze Lawsuit",
+        "link": "https://cleantechnica.com/2026/04/28/conservation-groups-issue-reply-to-epa-in-west-virginia-regional-haze-lawsuit/",
+        "pubDate": "Wed, 29 Apr 2026 03:55:25 +0000",
+        "description": "The Groups are Challenging the State’s Abysmal EPA-Approved Regional Haze Plan CHARLESTON, W.Va. — A National Parks Conservation Association, Sierra Club, and Earthjustice lawsuit against the Environmental Protection Agency (EPA) challenging the agency’s approval of West Virginia’s Regional Haze Sta",
+        "title_cn": "保护组织在西弗吉尼亚州地区雾霾诉讼中回复美国环保署"
+      },
+      {
+        "title": "NEW: Sierra Club Tool Shows Deadly Impact of Coal on Public Health Across the Country",
+        "link": "https://cleantechnica.com/2026/04/28/new-sierra-club-tool-shows-deadly-impact-of-coal-on-public-health-across-the-country/",
+        "pubDate": "Wed, 29 Apr 2026 03:29:40 +0000",
+        "description": "Washington, D.C. — Today, Sierra Club released a new web tool that shows that every year, approximately 6,500 Americans die prematurely from illnesses linked to coal air pollution. The updated Out of Control: The Deadly Impact of Coal Pollution — 2026 web tool provides county by county, plant by pla",
+        "title_cn": "新： Sierra Club工具显示煤炭对全国公共卫生的致命影响"
+      },
+      {
+        "title": "E-fuels in Cars: Unaffordable for Drivers",
+        "link": "https://cleantechnica.com/2026/04/28/e-fuels-in-cars-unaffordable-for-drivers/",
+        "pubDate": "Wed, 29 Apr 2026 03:12:29 +0000",
+        "description": "An independent study for T&#38;E assesses the near-term cost of e-petrol production for cars. E-fuels have entered the political debate on car CO₂ standards as a decarbonisation alternative to electric vehicles. To establish an up-to-date evidence base that can better inform ongoing policy discussio",
+        "title_cn": "汽车电动燃料：司机负担不起"
+      },
+      {
+        "title": "What Do Steve Bannon & Bernie Sanders Have In Common? Opposition To Artificial Intelligence",
+        "link": "https://cleantechnica.com/2026/04/28/what-do-steve-bannon-bernie-sanders-have-in-common-opposition-to-artificial-intelligence/",
+        "pubDate": "Tue, 28 Apr 2026 22:54:21 +0000",
+        "description": "Steve Bannon and Bernie Sanders are at opposite ends of the political spectrum. It seems there is only one thing they agree on &#8212; artificial intelligence is dangerous. A majority of Americans agree. Quinnipiac University, well known for its polling prowess, summarized the results of a recent po",
+        "title_cn": "史蒂夫·班农和伯尼·桑德斯有什么共同点？反对人工智能"
+      },
       {
         "title": "Nuclear Scaling Requires Discipline. SMRs Deliver Fragmentation",
         "link": "https://cleantechnica.com/2026/04/28/nuclear-scaling-requires-discipline-smrs-deliver-fragmentation/",
         "pubDate": "Tue, 28 Apr 2026 22:30:23 +0000",
         "description": "When I wrote in 2021 that small modular reactors were mostly bad policy (peer reviewed version, CleanTechnica version), the argument was not that nuclear fission could not produce useful low-carbon electricity. It was already doing so every day. The United States had about 98 GW of operating nuclear",
         "title_cn": "核扩展需要纪律。SMR提供碎片化"
-      },
-      {
-        "title": "Urban Wetlands & Waterways Need Nature-Inspired Solutions",
-        "link": "https://cleantechnica.com/2026/04/28/urban-wetlands-waterways-need-nature-inspired-solutions/",
-        "pubDate": "Tue, 28 Apr 2026 18:48:08 +0000",
-        "description": "I remember traveling to Sydney, Australia, a couple of years ago. In nearly every city block there was a green gathering space, usually a fountain, where kids could play and spray and adults could lounge comfortably. Back in the US, I started to admire other city water refuges like artificial ... [c",
-        "title_cn": "城市湿地和水道需要以自然为灵感的解决方案"
-      },
-      {
-        "title": "Chinese Iron Flow Storage Battery Is 80 Times Cheaper Than Lithium",
-        "link": "https://cleantechnica.com/2026/04/28/chinese-iron-flow-storage-battery-is-80-times-cheaper-than-lithium/",
-        "pubDate": "Tue, 28 Apr 2026 15:54:30 +0000",
-        "description": "Scientists in China claim to have solved issues with iron flow batteries., which could lead to cheaper grid scale storage batteries. The post Chinese Iron Flow Storage Battery Is 80 Times Cheaper Than Lithium appeared first on CleanTechnica .",
-        "title_cn": "中国铁流蓄电池比锂电池便宜80倍"
-      },
-      {
-        "title": "Heat Pump Water Heater 2025 State Of The Market Report — Tons Of Great Tech But Policy Headwinds",
-        "link": "https://cleantechnica.com/2026/04/28/heat-pump-water-heater-2025-state-of-the-market-report-tons-of-great-tech-but-policy-headwinds/",
-        "pubDate": "Tue, 28 Apr 2026 15:50:59 +0000",
-        "description": "2025 was a good year for heat pump water heaters (HPWHs). In our annual State of the Heat Pump Water Heater Market report, we talk about how residential and commercial manufacturers released more new and updated products last year than any other year in the product’s history. Five new residential ..",
-        "title_cn": "热泵热水器2025年市场状况报告—大量伟大的技术但政策不利因素"
-      },
-      {
-        "title": "The Amino Acid Glycine Is In Many Plant Foods Too",
-        "link": "https://cleantechnica.com/2026/04/28/the-amino-acid-glycine-is-in-many-plant-foods-too/",
-        "pubDate": "Tue, 28 Apr 2026 15:46:45 +0000",
-        "description": "There is an amino acid called glycine some may know of because it has been theorized to be of some benefit for human sleep. In fact, there are some health supplements combining glycine with other molecules or nutrients for that purpose. How much truth there is to the better sleep ... [continued] The",
-        "title_cn": "氨基酸甘氨酸也存在于许多植物性食物中"
-      },
-      {
-        "title": "Hyundai Unveils 2027 IONIQ 9 AWD Performance Calligraphy Black Ink Model",
-        "link": "https://cleantechnica.com/2026/04/28/hyundai-unveils-2027-ioniq-9-awd-performance-calligraphy-black-ink-model/",
-        "pubDate": "Tue, 28 Apr 2026 15:28:23 +0000",
-        "description": "New Calligraphy Black Ink model: A singularly sleek, sophisticated expression of electric luxury Award-winning three-row EV gains unique Gloss Black and Black Chrome styling touches, plus exclusive black 21-inch wheels Black Ink interior colorway and cabin trim 2027 IONIQ 9 Calligraphy Black Ink thr",
-        "title_cn": "现代推出2027年IONIQ 9 AWD性能书法黑色墨水模型"
-      },
-      {
-        "title": "One Thing Silently Hurting EV Sales",
-        "link": "https://cleantechnica.com/2026/04/28/one-thing-silently-hurting-ev-sales/",
-        "pubDate": "Tue, 28 Apr 2026 14:55:45 +0000",
-        "description": "I&#8217;ve talked with a lot of people this past week at our Electric Home Show, and one thing stood out to me at the end of it all when it comes to shopping for electric vehicles. It&#8217;s not a new thing — in fact, it&#8217;s something we&#8217;ve written about a ... [continued] The post One Thi",
-        "title_cn": "一件事无声无息地伤害电动汽车销售"
-      },
-      {
-        "title": "Elon Musk’s Nutso Comments on US National Debt & Robots",
-        "link": "https://cleantechnica.com/2026/04/27/elon-musks-nutso-comments-on-us-national-debt-robots/",
-        "pubDate": "Tue, 28 Apr 2026 03:58:09 +0000",
-        "description": "Elon Musk said on the latest quarterly Tesla conference call, last week, that the first production line for the company&#8217;s Optimus robot would go online this year — this quarter even — and that this production line would be able to produce 1 million robots a year. This Optimus production ... [c",
-        "title_cn": "伊隆·马斯克（ Elon Musk ）对美国国债和机器人的Nutso评论"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,22 +248,16 @@
         "description": "新疆氢能展暨氢能发展大会将于2026年10月举办 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbFRYTG9MWkFaT2Z6YnFWbnNYNEhGdVdjUUFHNlVoaHFPb1diVVJoMHJIa01rcDdkVWpPZzdXNnU3Ykl2Ukt2Y2tab0lCc0FOaWR2VFhEUXo5RXgwTzFrZ0JFR0pZZw?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 13:29:55 GMT",
-        "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 东方财富"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 14:18:00 GMT",
-        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
+        "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RbFRYTG9MWkFaT2Z6YnFWbnNYNEhGdVdjUUFHNlVoaHFPb1diVVJoMHJIa01rcDdkVWpPZzdXNnU3Ykl2Ukt2Y2tab0lCc0FOaWR2VFhEUXo5RXgwTzFrZ0JFR0pZZw?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 13:29:55 GMT",
+        "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 东方财富"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -288,13 +282,47 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
+        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "EBARA Receives Order for Liquid Hydrogen Booster Pumps and Cryogenic Hydrogen Return Gas Blower for Liquefied Hydrogen Supply Chain Commercialization Demonstration",
+        "link": "https://fuelcellsworks.com/2026/04/28/h2/ebara-receives-order-for-liquid-hydrogen-booster-pumps-and-cryogenic-hydrogen-return-gas-blower-for-liquefied-hydrogen-supply-chain-commercialization-demonstration",
+        "pubDate": "Tue, 28 Apr 2026 17:07:39 GMT",
+        "description": "",
+        "title_cn": "EBARA获得用于液化氢供应链商业化演示的液氢增压泵和低温氢气回流鼓风机的订单"
+      },
+      {
+        "title": "King and Minister Van Veldhoven Present at the World Hydrogen Summit & Exhibition",
+        "link": "https://fuelcellsworks.com/2026/04/28/h2/king-and-minister-van-veldhoven-present-at-the-world-hydrogen-summit-and-exhibition",
+        "pubDate": "Tue, 28 Apr 2026 17:03:22 GMT",
+        "description": "",
+        "title_cn": "King和部长Van Veldhoven出席世界氢能峰会暨展览会"
+      },
+      {
+        "title": "Oracle, BorderPlex, and Bloom Energy to Power Project Jupiter with Cleaner, Water-Efficient Fuel Cell Technology",
+        "link": "https://fuelcellsworks.com/2026/04/28/energy-innovation/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-cleaner-water-efficient-fuel-cell-technology",
+        "pubDate": "Tue, 28 Apr 2026 16:03:18 GMT",
+        "description": "",
+        "title_cn": "Oracle、BorderPlex和Bloom Energy为Jupiter项目提供更清洁、更节水的燃料电池技术"
+      },
+      {
+        "title": "Sunbelt Rentals and GeoPura Team up to Bring Hydrogen Power to the Equipment Rental Market",
+        "link": "https://fuelcellsworks.com/2026/04/28/clean-hydrogen/sunbelt-rentals-and-geopura-team-up-to-bring-hydrogen-power-to-the-equipment-rental-market",
+        "pubDate": "Tue, 28 Apr 2026 15:54:54 GMT",
+        "description": "",
+        "title_cn": "Sunbelt Rentals和GeoPura携手将氢能引入设备租赁市场"
+      },
       {
         "title": "Clean Hydrogen Facility to Be Built in Yongin Eco-Town With Operations Starting in First Half of 2028",
         "link": "https://fuelcellsworks.com/2026/04/27/h2/clean-hydrogen-facility-to-be-built-in-yongin-eco-town-with-operations-starting-in-first-half-of-2028",
@@ -322,114 +350,86 @@
         "pubDate": "Tue, 28 Apr 2026 15:14:27 GMT",
         "description": "",
         "title_cn": "Hydrogen Ukraine表示， Odesa Hydrogen Valley超越了早期概念阶段"
-      },
-      {
-        "title": "Hyroad Energy and Total Hydrogen Solutions Announce Commercial Fueling Agreement to Support Hydrogen Trucking in Texas",
-        "link": "https://fuelcellsworks.com/2026/04/28/fuel-cells/hyroad-energy-and-total-hydrogen-solutions-announce-commercial-fueling-agreement-to-support-hydrogen-trucking-in-texas",
-        "pubDate": "Tue, 28 Apr 2026 15:13:47 GMT",
-        "description": "",
-        "title_cn": "Hyroad Energy和Total Hydrogen Solutions宣布达成商业加油协议，以支持德克萨斯州的氢气卡车运输"
-      },
-      {
-        "title": "Penspen Awarded Research Project on Hydrogen Transition Pathways for UK Industrial Clusters",
-        "link": "https://fuelcellsworks.com/2026/04/28/energy-innovation/penspen-awarded-research-project-on-hydrogen-transition-pathways-for-uk-industrial-clusters",
-        "pubDate": "Tue, 28 Apr 2026 14:59:06 GMT",
-        "description": "",
-        "title_cn": "彭斯彭荣获英国产业集群氢转化途径研究项目"
-      },
-      {
-        "title": "Aiwanger Says Hydrogen Is of Strategic Importance and Praises TÜV Süd Support",
-        "link": "https://fuelcellsworks.com/2026/04/27/h2/aiwanger-says-hydrogen-is-of-strategic-importance-and-praises-tuv-sud-support",
-        "pubDate": "Tue, 28 Apr 2026 14:52:40 GMT",
-        "description": "",
-        "title_cn": "Aiwanger表示氢气具有战略重要性并赞扬TÜV南德意志集团的支持"
-      },
-      {
-        "title": "Italian Hydrogen Valley Moves From Paperwork to Site Work as Enapter-Backed Acerra Project Advances",
-        "link": "https://fuelcellsworks.com/2026/04/27/clean-energy/italian-hydrogen-valley-moves-from-paperwork-to-site-work-as-enapter-backed-acerra-project-advances",
-        "pubDate": "Tue, 28 Apr 2026 14:49:27 GMT",
-        "description": "",
-        "title_cn": "随着Enapter支持的Acerra项目的进展，意大利氢谷从文书工作转移到现场工作"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Non-Abelian Particle-Loop, Fracton, and Planon Condensation in Cage-Net Models",
-        "link": "https://arxiv.org/abs/2604.24755v1",
-        "pubDate": "2026-04-27T17:55:47Z",
-        "description": "We present a framework for non-Abelian p-loop, fracton, and planon condensation in 3+1 dimensions by constructing extended cage-net fracton models using decoupled layers of the Hu-Geer-Wu (HGW) string-net model. These cage-net models extend the conventional cage-net models based on the Levin-Wen (LW",
-        "title_cn": "笼网模型中的非阿贝尔粒子环、分形和平面子凝聚"
+        "title": "Recursive Multi-Agent Systems",
+        "link": "https://arxiv.org/abs/2604.25917v1",
+        "pubDate": "2026-04-28T17:59:34Z",
+        "description": "Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled th",
+        "title_cn": "递归多Agent系统"
       },
       {
-        "title": "Connecting the dusty dots: dust depletion and extinction of local interstellar clouds",
-        "link": "https://arxiv.org/abs/2604.24752v1",
-        "pubDate": "2026-04-27T17:55:01Z",
-        "description": "Investigating the chemical complexity of the interstellar medium (ISM) is key for understanding its physical nature and evolution. In this work, we study parsec-scale interstellar dust clouds in the neutral ISM of the Milky Way using two different probes: dust depletion and dust extinction. We exami",
-        "title_cn": "连接尘埃点：尘埃耗尽和局部星际云的灭绝"
+        "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+        "link": "https://arxiv.org/abs/2604.25914v1",
+        "pubDate": "2026-04-28T17:58:21Z",
+        "description": "Real-world data visualization (DV) requires native environmental grounding, cross-platform evolution, and proactive intent alignment. Yet, existing benchmarks often suffer from code-sandbox confinement, single-language creation-only tasks, and assumption of perfect intent. To bridge these gaps, we i",
+        "title_cn": "DV-World ：在真实场景中对数据可视化代理进行基准测试"
       },
       {
-        "title": "Operating a contextual Stern-Gerlach apparatus",
-        "link": "https://arxiv.org/abs/2604.24727v1",
-        "pubDate": "2026-04-27T17:37:17Z",
-        "description": "We propose a contextual cavity/circuit QED analogue and extension of the Stern-Gerlach experiment, where the pseudo-spin of a two-state `atomic' transition plays the role of the ``spin'', while the resonant field driving the transition stands for the ``magnetic field''. A phase-sensitive continuous ",
-        "title_cn": "操作上下文Stern-Gerlach仪器"
+        "title": "From short-lived to long-lived clouds: impact of star formation models on giant molecular cloud evolution in simulations of an NGC 300-like galaxy",
+        "link": "https://arxiv.org/abs/2604.25911v1",
+        "pubDate": "2026-04-28T17:55:49Z",
+        "description": "Multi-wavelength observations of molecular and ionized gas indicate that GMCs are short-lived, generally dispersing within one or two dynamical timescales. To investigate the physical origin of these short lifetimes and the role of star formation prescriptions, we conduct radiation-hydrodynamic simu",
+        "title_cn": "从短寿命到长寿命云： NGC 300类星系模拟中恒星形成模型对巨型分子云演化的影响"
       },
       {
-        "title": "Physics-driven innovations toward the democratization of proton therapy",
-        "link": "https://arxiv.org/abs/2604.24704v1",
-        "pubDate": "2026-04-27T17:08:09Z",
-        "description": "Proton therapy exploits the finite range of charged particles in tissue to achieve dose distributions no photon based modality can replicate. Yet the modality reaches fewer than 1 percent of patients who might benefit a gap rooted in cost and complexity rather than clinical evidence. This Review ref",
-        "title_cn": "质子治疗民主化的物理驱动创新"
+        "title": "Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models",
+        "link": "https://arxiv.org/abs/2604.25903v1",
+        "pubDate": "2026-04-28T17:48:16Z",
+        "description": "The accelerating adoption of Large Language Models (LLMs) in software engineering (SE) has brought with it a silent crisis: unsustainable computational cost. While these models demonstrate remarkable capabilities in different SE tasks, they are unmanageably large, slow to deploy, memory-intensive, a",
+        "title_cn": "碳税变压器：过度生长的语言模型的绿色压缩管道"
       },
       {
-        "title": "Encoding strategies for quantum enhanced fluid simulations: opportunities and challenges",
-        "link": "https://arxiv.org/abs/2604.24694v1",
-        "pubDate": "2026-04-27T16:54:46Z",
-        "description": "Quantum computing has emerged as a powerful potential accelerator for computational fluid dynamics (CFD), but whether this promise can be realized in practice depends on how fluid information is encoded on quantum hardware. This review provides an architecture-agnostic assessment of encoding strateg",
-        "title_cn": "量子增强流体模拟的编码策略：机遇与挑战"
+        "title": "Prime-Field PINI: Machine-Checked Composition Theorems for Post-Quantum NTT Masking",
+        "link": "https://arxiv.org/abs/2604.25878v1",
+        "pubDate": "2026-04-28T17:21:20Z",
+        "description": "This is Paper 6 of a series of formally-verified analyses of masked NTT hardware for post-quantum cryptography; Paper 1 [1] established structural dependency analysis of the QANARY platform, and Paper 2 [2] quantified security margins under partial NTT masking. Boolean masking composition is well-un",
+        "title_cn": "素场PINI ：后量子NTT掩蔽的机器检查组成定理"
       },
       {
-        "title": "Machine-Checked Cardinality Bounds for Masked Barrett Reduction: A 1-Bit Side-Channel Leakage Barrier in Post-Quantum Cryptographic Hardware",
-        "link": "https://arxiv.org/abs/2604.24670v1",
-        "pubDate": "2026-04-27T16:27:33Z",
-        "description": "Barrett reduction is the nonlinear core of every practical NTT-based post-quantum cryptography implementation. Existing composition frameworks (ISW, t-SNI, PINI, DOM) address Boolean masking over GF(2); none provides a machine-checked characterization of Barrett's leakage under first-order arithmeti",
-        "title_cn": "掩蔽Barrett减少的机器检查基数界限：后量子加密硬件中的1位侧通道泄漏屏障"
+        "title": "Global DIC-based sample-detector geometry refinement for accurate EBSD indexing",
+        "link": "https://arxiv.org/abs/2604.25869v1",
+        "pubDate": "2026-04-28T17:05:56Z",
+        "description": "Electron backscatter diffraction is a powerful tool for mapping crystallographic microstructures. However, the primary crux to improving orientation accuracy and applying the technique to challenging materials lies in the correct calibration of the sample-detector geometry. Many approaches have aime",
+        "title_cn": "基于DIC的全局样品检测器几何细化，实现精确的EBSD索引"
       },
       {
-        "title": "Microstructure engineering of Ti-6Al-4V in laser powder bed fusion via 1D thermal modeling and supporting experiments",
-        "link": "https://arxiv.org/abs/2604.24669v1",
-        "pubDate": "2026-04-27T16:27:16Z",
-        "description": "The microstructure of Ti-6Al-4V has a decisive impact on its mechanical performance; however, controlling phase composition during Laser Powder Bed Fusion (LPBF) remains difficult because of the inherent localized and cyclic thermal history. To fully leverage the design flexibility of LPBF while mai",
-        "title_cn": "Ti-6Al-4V激光粉末床融合微观组织工程一维热建模及配套实验"
+        "title": "Agentic Harness Engineering: Observability-Driven Automatic Evolution of Coding-Agent Harnesses",
+        "link": "https://arxiv.org/abs/2604.25850v1",
+        "pubDate": "2026-04-28T16:55:02Z",
+        "description": "Harnesses have become a central determinant of coding-agent performance, shaping how models interact with repositories, tools, and execution environments. Yet automating harness engineering is hard: a heterogeneous action space, sparse and noisy evaluation signal, multi-million-token trajectories, a",
+        "title_cn": "代理线束工程：编码代理线束的可观察性驱动自动演进"
       },
       {
-        "title": "Dual Control of Linear Systems from Bilinear Observations with Belief Space Model Predictive Control",
-        "link": "https://arxiv.org/abs/2604.24663v1",
-        "pubDate": "2026-04-27T16:25:55Z",
-        "description": "We study finite-horizon quadratic control of linear systems with bilinear observations, in which the control input affects not only the state dynamics but also the partial observations of the state. In this setting, the separation principle can fail because control inputs influence the future qualit",
-        "title_cn": "基于信念空间模型预测控制的双线性观测的线性系统双重控制"
+        "title": "Revealing Laser and Electron Beam Evolution in 10-GeV-class Laser-Plasma Accelerators",
+        "link": "https://arxiv.org/abs/2604.25823v1",
+        "pubDate": "2026-04-28T16:32:12Z",
+        "description": "Guiding relativistically intense laser pulses in low-density plasmas enables extended acceleration lengths in laser-plasma accelerators (LPAs), allowing for the production of multi-GeV electron beams. Quantitative interpretation of such experiments is often limited by substantial uncertainties in ke",
+        "title_cn": "揭示10-GeV级激光等离子体加速器中的激光和电子束演化"
       },
       {
-        "title": "Déjà Vu Packing: Optimizing FPGA Logic Clustering Runtime via Pattern Memoization",
-        "link": "https://arxiv.org/abs/2604.24649v1",
-        "pubDate": "2026-04-27T16:16:40Z",
-        "description": "Implementing a digital circuit on an FPGA fabric requires clustering technology-mapped netlist primitives into coarser-granularity blocks that can be directly mapped to the physical resources available on the FPGA. As the architecture of FPGA logic blocks (LBs) has grown in complexity, with sophisti",
-        "title_cn": "似曾相识打包：通过模式记忆优化FPGA逻辑群集运行时"
+        "title": "Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation",
+        "link": "https://arxiv.org/abs/2604.25819v1",
+        "pubDate": "2026-04-28T16:28:05Z",
+        "description": "In this work, we propose Mutual Forcing, a framework for fast autoregressive audio-video generation with long-horizon audio-video synchronization. Our approach addresses two key challenges: joint audio-video modeling and fast autoregressive generation. To ease joint audio-video optimization, we adop",
+        "title_cn": "相互强迫：双模自进化，实现快速自回归音频-视频字符生成"
       },
       {
-        "title": "Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application",
-        "link": "https://arxiv.org/abs/2604.24636v1",
-        "pubDate": "2026-04-27T16:05:39Z",
-        "description": "On-device Small Language Models (SLMs) promise fully offline, private AI experiences for mobile users (no cloud dependency, no data leaving the device). But is this promise achievable in practice? This paper presents a longitudinal practitioner case study documenting the engineering challenges of in",
-        "title_cn": "少即是多：移动应用中设备上小语言模型集成的工程挑战"
+        "title": "Exploring the conditions for forming planetesimals by the streaming instability and planetary systems by pebble accretion",
+        "link": "https://arxiv.org/abs/2604.25816v1",
+        "pubDate": "2026-04-28T16:25:46Z",
+        "description": "The streaming instability and pebble accretion are two physical mechanisms with demonstrated potentials to drive, respectively, the formation of planetesimals and the growth of planetary systems containing a diverse range of planetary types. Here we explore the protoplanetary disc conditions in term",
+        "title_cn": "探索通过流不稳定和行星系统通过鹅卵石吸积形成行星微粒的条件"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "policy_nea": {
     "items": [
@@ -438,6 +438,12 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 05:09:22 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       },
       {
         "title": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 - 国际氢能网",
@@ -470,53 +476,17 @@
         "description": "国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmtnQ2V4d3NVWDJwRUFQNnFxTWdNRjRUNnZTa3B3bFpOU1pSZXpLaktfeEcyWEg5S21VSGxwNVVhX3hKLWlRNzhQaEdVMjk0QXBJ?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 08:55:33 GMT",
-        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 第一财经"
-      },
-      {
-        "title": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBZcHROT3dmLXlNY1ZYX0ZiWno5TjFOVkwxM084eF9FQTZfb1BjR1lkVWhwVzVlMTh1dTM3Y2pHMlZRZzJvN21VSg?oc=5",
-        "pubDate": "Thu, 16 Apr 2026 10:13:35 GMT",
-        "description": "从示范探索迈向规模化发展？国家能源局加快培育氢能未来产业 氢能应用开始“百花齐放” &nbsp;&nbsp; 财联社"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
-        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
-      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
@@ -530,13 +500,43 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
+        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
+        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
+        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
+        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-04-28 22:50 UTC"
+    "updated": "2026-04-29 05:21 UTC"
   }
 }
