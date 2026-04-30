@@ -1,8 +1,17 @@
 {
   "posts": [
     {
+      "title": "今日小结（2026.04.27-29）",
+      "date": "2026-04-30",
+      "category": "life",
+      "tags": [],
+      "summary": "1.梳理专班相关工作； 2.完成博士论文意见回复及 cover letter 撰写； 3.回家； 4.休息、购买婚庆相关东西。",
+      "word_count": 35,
+      "path": "blog/life/今日小结（2026.04.27-29）（202604）.html"
+    },
+    {
       "title": "index-optimized",
-      "date": "2026-04-26",
+      "date": "2026-04-30",
       "category": "thoughts",
       "tags": [],
       "summary": "",
@@ -795,5 +804,5 @@
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-04-26 04:26 UTC"
+  "updated": "2026-04-30 02:27 UTC"
 }
