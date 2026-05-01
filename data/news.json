@@ -2,11 +2,46 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+        "link": "https://www.nature.com/articles/d41586-026-01439-2",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01439-2 Nature staff discuss some of the week's top science news.",
+        "title_cn": "简报聊天：受压线粒体在细胞中产生新的“细胞器”"
+      },
+      {
+        "title": "The imperfect legacy",
+        "link": "https://www.nature.com/articles/d41586-026-01075-w",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01075-w Not a bug, but a feature.",
+        "title_cn": "不完美的遗产"
+      },
+      {
+        "title": "US faculty members report high levels of anxiety",
+        "link": "https://www.nature.com/articles/d41586-026-01252-x",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01252-x Surveys show the importance of social, familial and structural support in lowering anxiety, particularly for people in health professions.",
+        "title_cn": "美国教职员工报告高度焦虑"
+      },
+      {
         "title": "The exotic particles that could finally break the Standard Model",
         "link": "https://www.nature.com/articles/d41586-026-01387-x",
         "pubDate": "2026-05-01",
         "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x ‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.",
         "title_cn": "最终可能打破标准模型的异国情调粒子"
+      },
+      {
+        "title": "The news is not all bad: five inspiring science stories to lift your mood",
+        "link": "https://www.nature.com/articles/d41586-026-01290-5",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5 Species recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.",
+        "title_cn": "新闻也不全是坏消息：五个鼓舞人心的科学故事来提升你的情绪"
+      },
+      {
+        "title": "European funder must increase capacity to meet the ambition of scientists",
+        "link": "https://www.nature.com/articles/d41586-026-01411-0",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0 To avoid sabotaging science, the European Research Council needs more funding and structural change.",
+        "title_cn": "欧洲资助者必须提高能力，以满足科学家的雄心壮志"
       },
       {
         "title": "This organoid can menstruate — and shows how tissue can repair itself",
@@ -16,53 +51,24 @@
         "title_cn": "这种类器官可以月经—并显示组织如何自我修复"
       },
       {
-        "title": "Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells",
-        "link": "https://www.nature.com/articles/s41586-026-10587-4",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/s41586-026-10587-4 Continuously graded-doped SnO 2 for efficient n–i–p perovskite solar cells",
-        "title_cn": "用于高效n–i–p钙钛矿太阳能电池的连续渐变掺杂SnO 2"
-      },
-      {
-        "title": "Blood test hints at breast-tumour response to treatment",
-        "link": "https://www.nature.com/articles/d41586-026-01353-7",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01353-7 A biomarker shows which people with certain types of breast cancer are more likely to respond to an immune-based therapy.",
-        "title_cn": "血液检测提示乳腺肿瘤对治疗的反应"
-      },
-      {
-        "title": "Forest pests hit trees hard as temperatures rise",
-        "link": "https://www.nature.com/articles/d41586-026-01288-z",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01288-z Damage by certain insects and fungi tends to be greatest in US woodlands where maximum temperatures during the warmest months are increasing.",
-        "title_cn": "随着气温升高，森林害虫对树木造成严重影响"
-      },
-      {
-        "title": "An electrifying test to find a good coffee",
-        "link": "https://www.nature.com/articles/d41586-026-01289-y",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01289-y Technique determines roast level and strength by applying voltage to the brew.",
-        "title_cn": "寻找优质咖啡的激动人心的测试"
-      },
-      {
-        "title": "Wild-meat consumption estimated across Central Africa",
-        "link": "https://www.nature.com/articles/d41586-026-01306-0",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01306-0 A regional analysis brought together data on wild-animal consumption by more than 12,000 households, to investigate trends and drivers of wild-meat use across Central Africa. The study found that consumption has increased over t",
-        "title_cn": "估计整个中部非洲的野生肉类消费量"
-      },
-      {
-        "title": "‘Make Pluto a planet again’? NASA chief revives debate that divides astronomers",
-        "link": "https://www.nature.com/articles/d41586-026-01421-y",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
-        "title_cn": "“让冥王星再次成为行星” ？美国宇航局局长重启分裂天文学家的辩论"
+        "title": "Prestigious European science funder scraps stricter rules after researcher backlash",
+        "link": "https://www.nature.com/articles/d41586-026-01435-6",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01435-6 The tough new policy was introduced to curb submissions, but drew criticism from researchers.",
+        "title_cn": "著名的欧洲科学资助者在研究人员强烈反对后废除了更严格的规则"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "追觅造车，从“火箭”开始",
+        "link": "https://36kr.com/p/3790587098832137?f=rss",
+        "pubDate": "2026-05-01 18:26:42  +0800",
+        "description": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。&nbsp; 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。&nbsp; 这款火箭车搭载专属定制双固体火箭助推系统，可实现150毫秒瞬时响应，最大推力100千牛，与波音737单台发动机的推力接近，车辆零百加速仅需0.9秒。&nbsp; 同时亮相的还有旗舰级激光雷达DHX1、首款可量产全"
+      },
       {
         "title": "36氪首发｜国内首家落地“筷子夹”塔架回收技术的商业航天公司，完成5亿元融资",
         "link": "https://36kr.com/p/3790141500366085?f=rss",
@@ -104,19 +110,27 @@
         "link": "https://36kr.com/p/3789098887077123?f=rss",
         "pubDate": "2026-04-30 17:11:22  +0800",
         "description": "作者&nbsp;|&nbsp;兰杰 编辑&nbsp;|&nbsp;乔芊 4月27日，预热已久的HappyHorse终于开启测试，颇为遗憾的是，它没能像横空出世的Seedance2.0那样掀起巨浪。没有惊喜，对于HappyHorse来讲是一个颇为中肯的评价。&nbsp; HappyHorse是阿里巴巴ATH事业群旗下创新事业部研发的视频模型，于4月27日开启灰测，并接入千问App。 该视频模型饱受关注的原因有二。&nbsp; 一是因为在开放测试前，HappyHorse在未标注厂商的情况下，登顶了以盲测为主要形式的权威AI评测平台Artificial Analysis AI Video Arena"
-      },
-      {
-        "title": "“小长假”前一天北京拍地91.597亿，最贵楼面价超6万",
-        "link": "https://36kr.com/p/3789084813548803?f=rss",
-        "pubDate": "2026-04-30 16:56:58  +0800",
-        "description": "4月最后一天，北京楼市迎来一次春季土拍盛宴，分别位于朝阳东坝、丰台万泉寺、昌平北七家的三宗宅地成交，总价合计91.597亿元。 2026年1-4月，北京合计出让住宅用地13宗（2025年同期成交7宗），总成交价为217.577亿元（2025年同期成交约334.9亿元），相比去年同期有约35%的金额降幅。 但今年1-4月成交宅地规划总建面约83.7万㎡，与去年同期成交总建面82.2万㎡的总量基本相当。 从成交情况来看，今年北京土地市场偏冷。目前最高溢价率为4月21日成交的亦庄新城YZ00-0802街区1401-1地块（瀛海地块），溢价率也只有8.7%。而2025年前4月成交的7宗宅地中，有3宗地"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "XPENG Sales Speed Jumps 44.7% Following VLA 2.0 Release",
+        "link": "https://cleantechnica.com/2026/05/01/xpeng-sales-speed-jumps-44-7-following-vla-2-0-release/",
+        "pubDate": "Fri, 01 May 2026 14:29:34 +0000",
+        "description": "XPENG&#8217;s sales results in April were mixed. There are some strong figures and some weak ones. There&#8217;s also a new figure I&#8217;ve never seen before. First off, total sales in April were 31,011 vehicles. That was a 13.1% increase month over month, but it was also an 11.5% decline year ...",
+        "title_cn": "XPENG销售速度在VLA 2.0发布后跃升44.7%"
+      },
+      {
+        "title": "1,000th Electric Bus Set For Part Of Belgium",
+        "link": "https://cleantechnica.com/2026/05/01/1000th-electric-bus-set-for-part-of-belgium/",
+        "pubDate": "Fri, 01 May 2026 13:25:33 +0000",
+        "description": "Sometimes these electric vehicle developments don’t seem real, but they are. The speed at which transportation is electrifying is almost stunning sometimes. In the Flanders region of Belgium, the transport agency De Lijn commissioned its 1,000th electric bus. Yes, that’s electric bus number 1,000 — ",
+        "title_cn": "比利时部分地区第1000辆电动公交车"
+      },
       {
         "title": "Record Month for EV Sales in Europe!",
         "link": "https://cleantechnica.com/2026/04/30/record-month-for-ev-sales-in-europe/",
@@ -158,24 +172,10 @@
         "pubDate": "Fri, 01 May 2026 03:03:06 +0000",
         "description": "Washington, DC — Today, the nation’s largest and most influential environmental advocacy organization weighed in on the Supreme Court’s 6-3 decision in Louisiana v. Callais that will further erode the landmark Voting Rights Act and dilute the voting power of minorities. In response, Sierra Club Exec",
         "title_cn": "塞拉俱乐部关于最高法院裁定废除《投票权法》的声明"
-      },
-      {
-        "title": "Sierra Club: Nippon Investment in DRI in the South a Good First Step, Must Not Overlook Greening Midwest Steel",
-        "link": "https://cleantechnica.com/2026/04/30/sierra-club-nippon-investment-in-dri-in-the-south-a-good-first-step-must-not-overlook-greening-midwest-steel/",
-        "pubDate": "Fri, 01 May 2026 02:45:13 +0000",
-        "description": "Washington, DC — Yesterday, U.S. Steel announced it will invest nearly $2 billion to build a direct reduced iron (DRI) facility at Big River Steel Works in Osceola, Arkansas. The DRI will provide a cleaner input to feed into the company’s electric arc furnaces that produce steel. Nippon Steel, the p",
-        "title_cn": "Sierra Club ： Nippon对南方DRI的投资迈出了良好的第一步，不容忽视中西部钢铁绿化"
-      },
-      {
-        "title": "The First Toyota Plant to Go Carbon Neutral: “One Tahara”",
-        "link": "https://cleantechnica.com/2026/04/30/the-first-toyota-plant-to-go-carbon-neutral-one-tahara/",
-        "pubDate": "Fri, 01 May 2026 02:02:48 +0000",
-        "description": "In fiscal year 2026, Tahara Plant became the first Toyota plant to attain carbon neutrality. At the genba, a &#8220;One Tahara&#8221; spirit could be seen throughout, from large-scale equipment initiatives to small, on-the-ground improvements. Tahara Plant is located in Tahara City, Aichi. About 9,0",
-        "title_cn": "第一家实现碳中和的丰田工厂： “One Tahara”"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,16 +272,16 @@
         "description": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wY19LSTNWcm9vUFdiZFhFOTMyOXZudnVldnBBQmt3Yk5rVjNndDctU21IeC1ySThTRWVWS2VjaHVUTmFHWU1OWFNnQkRFUFduQy1uY1Nn?oc=5",
-        "pubDate": "Mon, 13 Apr 2026 01:52:52 GMT",
-        "description": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wY19LSTNWcm9vUFdiZFhFOTMyOXZudnVldnBBQmt3Yk5rVjNndDctU21IeC1ySThTRWVWS2VjaHVUTmFHWU1OWFNnQkRFUFduQy1uY1Nn?oc=5",
+        "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
+        "description": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "policy_nea": {
     "items": [
@@ -440,22 +440,22 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 - 低碳网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbl9fbDNJZGxVcmRxSFRYUHNKcENZRDBBem9qaFVvZldwS2NOR040cHVFMFhwRlZLMGFKOFpJcnY2YUJGeS1KTjlGSGN1YjRlMFd6Ng?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 08:42:24 GMT",
+        "description": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 &nbsp;&nbsp; 低碳网"
+      },
+      {
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
         "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:44:57 GMT",
+        "pubDate": "Mon, 27 Apr 2026 12:44:01 GMT",
         "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
-      },
-      {
-        "title": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tRl95eG9fdnVSU1pIQ2JBRDZjVERpZUNIdTNkMUE2ek1Nc0N0MzFHcW0tWXBMcEctcFNkb2tSTmNFUG1MY1BIRUNsTXBwMnpGUFhNUg?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 06:36:24 GMT",
-        "description": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQTExbkd0dm5DVWI2M0N1eE5hbTMxTXNVbVN3YUR5S3JNdHBWV29teEc3dHNuWWY3cDJVNEozRnBUaFB5SG5qTFNFcHNpVUVfcTgxZEcwdw?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
-        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
       },
       {
         "title": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% - 财联社",
@@ -464,26 +464,26 @@
         "description": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "筑牢安全屏障 培育绿色燃料 - 能源发展网",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTGN3blJaejhtaE5WZnNHdW9wcjR1LWgxaE81T1RKRXdtdVQ0aTI2bG5kWWVDSXZ2NWtmR29aV05mTV8xdVIzbWJYZTVaazFKZVdVWUI0T2lVcTh4M1hyX3FtbG1HSi1tTWswQ3A1dmMtM3oy?oc=5",
-        "pubDate": "Wed, 29 Apr 2026 10:02:10 GMT",
-        "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
-      },
-      {
-        "title": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ - 财富号",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBT0V1a2lIcThDdjRnYzJZLWM5aDNaTTl5SG5ncU0yTDM0SmFBT2NONkRWZENLcXoxS2dZYlhBZVo3amNVT2ZMVUdwQl9tZDQ3MkpCTnZINm15ZWp5V2ZkNC1CRy15d0xFX0FN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 05:02:00 GMT",
-        "description": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ &nbsp;&nbsp; 财富号"
+        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQTExbkd0dm5DVWI2M0N1eE5hbTMxTXNVbVN3YUR5S3JNdHBWV29teEc3dHNuWWY3cDJVNEozRnBUaFB5SG5qTFNFcHNpVUVfcTgxZEcwdw?oc=5",
+        "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
+        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "筑牢安全屏障 培育绿色燃料 - 能源发展网",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTGN3blJaejhtaE5WZnNHdW9wcjR1LWgxaE81T1RKRXdtdVQ0aTI2bG5kWWVDSXZ2NWtmR29aV05mTV8xdVIzbWJYZTVaazFKZVdVWUI0T2lVcTh4M1hyX3FtbG1HSi1tTWswQ3A1dmMtM3oy?oc=5",
+        "pubDate": "Wed, 29 Apr 2026 10:02:10 GMT",
+        "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-01 08:55 UTC"
+    "updated": "2026-05-01 14:49 UTC"
   }
 }
