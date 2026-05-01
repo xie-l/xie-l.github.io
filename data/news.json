@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "The exotic particles that could finally break the Standard Model",
+        "link": "https://www.nature.com/articles/d41586-026-01387-x",
+        "pubDate": "2026-05-01",
+        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01387-x ‘Penguin’ decays from CERN’s latest Large Hadron Collider experiment hint at weird new physics.",
+        "title_cn": "最终可能打破标准模型的异国情调粒子"
+      },
+      {
         "title": "This organoid can menstruate — and shows how tissue can repair itself",
         "link": "https://www.nature.com/articles/d41586-026-01428-5",
         "pubDate": "2026-05-01",
@@ -49,17 +56,10 @@
         "pubDate": "2026-04-30",
         "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01421-y Researchers respond to NASA head’s claim to be ready to “escalate” the issue of whether Pluto is a planet.",
         "title_cn": "“让冥王星再次成为行星” ？美国宇航局局长重启分裂天文学家的辩论"
-      },
-      {
-        "title": "Long-lived immune cells show promise against cancer in world-first trial",
-        "link": "https://www.nature.com/articles/d41586-026-01398-8",
-        "pubDate": "2026-04-30",
-        "description": "Nature, Published online: 30 April 2026; doi:10.1038/d41586-026-01398-8 Blood cancer goes into remission for some people treated with a type of T cell that acts like stem cells.",
-        "title_cn": "长寿免疫细胞在世界首个临床试验中显示出对抗癌症的希望"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,38 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Record Month for EV Sales in Europe!",
+        "link": "https://cleantechnica.com/2026/04/30/record-month-for-ev-sales-in-europe/",
+        "pubDate": "Fri, 01 May 2026 03:57:54 +0000",
+        "description": "BEVs reach 22% market share! Thanks to a number of factors (new, cheaper and/or better models, record high gas prices, mass arrival of Chinese models, etc.), EVs have risen to record highs in Europe, with over half a million plugin vehicles being registered in Europe in March, 349,000 of them ... [c",
+        "title_cn": "欧洲电动汽车销量创纪录的月份！"
+      },
+      {
+        "title": "US DOE Has Released 17.5 Million Barrels from the Strategic Petroleum Reserve since March",
+        "link": "https://cleantechnica.com/2026/04/30/us-doe-has-released-17-5-million-barrels-from-the-strategic-petroleum-reserve-since-march/",
+        "pubDate": "Fri, 01 May 2026 03:56:39 +0000",
+        "description": "Between the week ending March 20 and the week ending April 24, the U.S. Department of Energy (DOE) released a total of 17.5 million barrels of crude oil from the U.S. Strategic Petroleum Reserve (SPR), according to data in our Weekly Petroleum Status Report. DOE released 7.1 million barrels in the .",
+        "title_cn": "自3月以来，美国能源部已从战略石油储备中释放了1750万桶"
+      },
+      {
+        "title": "Farmers Are Choosing Solar to Maintain their Farms. Localities Shouldn’t Take Away That Choice.",
+        "link": "https://cleantechnica.com/2026/04/30/farmers-are-choosing-solar-to-maintain-their-farms-localities-shouldnt-take-away-that-choice/",
+        "pubDate": "Fri, 01 May 2026 03:55:09 +0000",
+        "description": "America’s family farmers are facing mounting challenges. Input costs like fertilizer and diesel are going up while international markets recede and commodity prices crater. Despite these challenges, American farmers are resilient and resourceful. They make decisions every day that balance risk, rewa",
+        "title_cn": "农民正在选择太阳能来维护他们的农场。当地人不应该放弃这样的选择。"
+      },
+      {
+        "title": "Riding the Ocean’s Data",
+        "link": "https://cleantechnica.com/2026/04/30/riding-the-oceans-data/",
+        "pubDate": "Fri, 01 May 2026 03:54:09 +0000",
+        "description": "Modeling Advancements Could Help Developers Build More Robust, Seaworthy Devices Wave energy technologies can provide reliable, local power for autonomous underwater vehicles, and at-sea applications across U.S. coastal regions, especially where traditional energy supply is limited or costly. Althou",
+        "title_cn": "乘坐海洋数据"
+      },
       {
         "title": "CPUC Protects Ratepayers, Rejects SoCalGas’ Attempt to Charge Customers for Hydrogen Pipeline",
         "link": "https://cleantechnica.com/2026/04/30/cpuc-protects-ratepayers-rejects-socalgas-attempt-to-charge-customers-for-hydrogen-pipeline/",
@@ -144,38 +172,10 @@
         "pubDate": "Fri, 01 May 2026 02:02:48 +0000",
         "description": "In fiscal year 2026, Tahara Plant became the first Toyota plant to attain carbon neutrality. At the genba, a &#8220;One Tahara&#8221; spirit could be seen throughout, from large-scale equipment initiatives to small, on-the-ground improvements. Tahara Plant is located in Tahara City, Aichi. About 9,0",
         "title_cn": "第一家实现碳中和的丰田工厂： “One Tahara”"
-      },
-      {
-        "title": "XPENG P7 With VLA 2.0: A Sporty Drive That Can Confidently Drive You",
-        "link": "https://cleantechnica.com/2026/04/30/xpeng-p7-with-vla-2-0-a-sporty-drive-that-can-confidently-drive-you/",
-        "pubDate": "Thu, 30 Apr 2026 21:49:07 +0000",
-        "description": "A high point of my recent trip to China was the opportunity to experience XPENG’s VLA 2.0 system on the Next P7 Ultra. I had previously sampled the advanced ADAS system on a P7+ in November, which was already impressive. It can be easy to get caught up in the ... [continued] The post XPENG P7 With V",
-        "title_cn": "XPENG P7搭载VLA 2.0 ：自信驾驶的运动型驾驶"
-      },
-      {
-        "title": "In Colombia, 57 Nations Chart A Path To A Future Without Fossil Fuels",
-        "link": "https://cleantechnica.com/2026/04/30/in-colombia-57-nations-chart-a-path-to-a-future-without-fossil-fuels/",
-        "pubDate": "Thu, 30 Apr 2026 18:44:18 +0000",
-        "description": "The fossil fuel transition moved forward this week at a conference in Colombia that brought nations in search of solutions together. The post In Colombia, 57 Nations Chart A Path To A Future Without Fossil Fuels appeared first on CleanTechnica .",
-        "title_cn": "在哥伦比亚， 57个国家描绘了没有化石燃料的未来之路"
-      },
-      {
-        "title": "We Need To Speak Out Against Policies That Are Exacerbating Climate Change",
-        "link": "https://cleantechnica.com/2026/04/30/we-need-to-speak-out-against-policies-that-are-exacerbating-climate-change/",
-        "pubDate": "Thu, 30 Apr 2026 18:40:32 +0000",
-        "description": "Stabilizing rising global surface temperatures is essential for the long-term health of the planet. Climate change is an existential crisis that affects everyday life, how businesses operate, and the ways that countries acquire materials and regulate systems. Yet we are immersed in a moment in time ",
-        "title_cn": "我们需要大声疾呼反对加剧气候变化的政策"
-      },
-      {
-        "title": "Faster but Not Fast Enough: States’ Rollout of Federal EV Charging Funds Has a Long Way to Go, Per Sierra Club Analysis",
-        "link": "https://cleantechnica.com/2026/04/30/faster-but-not-fast-enough-states-rollout-of-federal-ev-charging-funds-has-a-long-way-to-go-per-sierra-club-analysis/",
-        "pubDate": "Thu, 30 Apr 2026 15:39:38 +0000",
-        "description": "Amid high gas prices and tight state budgets, laggards risk leaving money on the table that could help drivers go electric WASHINGTON — States more than doubled their progress on implementing federal funding for the nation’s EV highway charging network in 2025, according to a new Sierra Club report ",
-        "title_cn": "更快但不够快：根据Sierra Club的分析，各州推出联邦电动汽车充电基金还有很长的路要走"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -440,15 +440,9 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kX3l5X3FoV1VlM1NLcnlQRmtKekdXMGVvUG54LXBhMzYwUUlwRzNwNFV3Sm51TXBIdmNUVEF0TnN0Q09TOVVJLXZpOGJ2N284NjVUT2FBOU9BOTZY?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
-        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
-      },
-      {
         "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "pubDate": "Mon, 27 Apr 2026 12:44:57 GMT",
         "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       },
       {
@@ -456,6 +450,12 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tRl95eG9fdnVSU1pIQ2JBRDZjVERpZUNIdTNkMUE2ek1Nc0N0MzFHcW0tWXBMcEctcFNkb2tSTmNFUG1MY1BIRUNsTXBwMnpGUFhNUg?oc=5",
         "pubDate": "Mon, 27 Apr 2026 06:36:24 GMT",
         "description": "年产能规模超100万吨！国家能源局公布一季度可再生能源制氢发展情况 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQTExbkd0dm5DVWI2M0N1eE5hbTMxTXNVbVN3YUR5S3JNdHBWV29teEc3dHNuWWY3cDJVNEozRnBUaFB5SG5qTFNFcHNpVUVfcTgxZEcwdw?oc=5",
+        "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
+        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
       },
       {
         "title": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% - 财联社",
@@ -470,20 +470,20 @@
         "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
       },
       {
-        "title": "氢能技术突破获政策支持_新浪新闻 - 手机新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MeUtuSG9qSDR5dVM4cnRUYllCSU5RSVV6WVRxZVlnYU5YN3VqS0N3djRPYmZ2bU5FSm1QN094WXVSQ250RXdhZW41eEtzVTVLSTd2WDdXbnFVRExqQl9BNGJjQQ?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 08:05:53 GMT",
-        "description": "氢能技术突破获政策支持_新浪新闻 &nbsp;&nbsp; 手机新浪网"
-      },
-      {
         "title": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ - 财富号",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBT0V1a2lIcThDdjRnYzJZLWM5aDNaTTl5SG5ncU0yTDM0SmFBT2NONkRWZENLcXoxS2dZYlhBZVo3amNVT2ZMVUdwQl9tZDQ3MkpCTnZINm15ZWp5V2ZkNC1CRy15d0xFX0FN?oc=5",
         "pubDate": "Mon, 27 Apr 2026 05:02:00 GMT",
         "description": "重磅消息，国家能源局：将协同国家发展改革委科学谋划氢能产业“十五五”发展目标任务。深圳能源，上车！ &nbsp;&nbsp; 财富号"
+      },
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,16 +500,10 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
-        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -518,10 +512,10 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
@@ -530,13 +524,19 @@
         "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 - 经济形势报告网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByR2FXNGM3Z2d5SEE0SWJRVkNDX3JyLTEyTVNTT2dmQTVOMzZacU5scGtOMEljZkJiQmVaLTVqaWJMWTFNSkF2d2RQSlhiSDdJVHlYak1BSURtWkFHMjhsdXhB?oc=5",
+        "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
+        "description": "国家发改委：推动高耗能的算力产业与绿色低碳发展协同并进 &nbsp;&nbsp; 经济形势报告网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-01 05:37 UTC"
+    "updated": "2026-05-01 08:55 UTC"
   }
 }
