@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "BYD Has Another Tough Month of Sales Decline",
+        "link": "https://cleantechnica.com/2026/05/04/byd-has-another-tough-month-of-sales-decline/",
+        "pubDate": "Mon, 04 May 2026 04:03:19 +0000",
+        "description": "The numbers for the 4th month of the year have come in, and BYD keeps getting into a deeper hole. Its passenger vehicle sales were down significantly year over year — its plugin hybrid sales were down, and its BEV sales were down even more. Its commercial vehicle business wasn&#8217;t ... [continued",
+        "title_cn": "比亚迪经历了又一个艰难的销售下滑月份"
+      },
       {
         "title": "Solid-State EV Batteries Will Crush The Fossil Fuel Fantasy",
         "link": "https://cleantechnica.com/2026/05/03/solid-state-ev-batteries-will-crush-the-fossil-fuel-fantasy/",
@@ -165,17 +172,10 @@
         "pubDate": "Sun, 03 May 2026 14:41:36 +0000",
         "description": "The Minister for Foreign Affairs for Ukraine recently shared on X that five buses were given to Ukraine by Azerbaijan. One news source stated they are electric buses. Here is the full text of his post: &#8220;During this visit, Azerbaijan has provided five passenger buses to Ukraine as humanitarian ",
         "title_cn": "电动公交车被派往乌克兰提供人道主义援助"
-      },
-      {
-        "title": "Top Selling Electric Vehicles in the World — March 2026",
-        "link": "https://cleantechnica.com/2026/05/02/top-selling-electric-vehicles-in-the-world-march-2026/",
-        "pubDate": "Sun, 03 May 2026 00:25:16 +0000",
-        "description": "Tesla wins gold and silver in a market running at different speeds. BEVs vs. PHEVs Plugin vehicle registrations were up 5% year over year (YoY) in March, ending the month at around 1.7 million units. Interestingly, BEVs (+12% YoY) and PHEVs (-8% YoY) behaved very differently, with pure electrics bac",
-        "title_cn": "全球畅销电动汽车— 2026年3月"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "energy": {
     "items": [
@@ -237,21 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "新疆氢能展暨氢能发展大会将于2026年10月举办 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbXZsTDZnRUZILW9FV1JZeGpBQ2E2Q1BZX0F4bjA4cDF5QlNwUXlUX183b1Q5akJsYWoyQk5VR3pUQ0pnOV9KeDVqdXdyR1FCdXV0Vg?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 03:29:46 GMT",
-        "description": "新疆氢能展暨氢能发展大会将于2026年10月举办 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "新疆氢能展暨氢能发展大会将于2026年10月举办 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbXZsTDZnRUZILW9FV1JZeGpBQ2E2Q1BZX0F4bjA4cDF5QlNwUXlUX183b1Q5akJsYWoyQk5VR3pUQ0pnOV9KeDVqdXdyR1FCdXV0Vg?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 03:29:46 GMT",
+        "description": "新疆氢能展暨氢能发展大会将于2026年10月举办 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -266,22 +266,22 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQ0RLcDJsRDdwVXY5SmYxVU1iSVVlTWFERHo4RjVjQjlOZGpZaGlCWG5kNGpmdVpuVHNqM3d5dWdIZ2gwMjQ0SnFlaGQ1STJNV3V1akNmQmJUY1VIYVNmRg?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 14:41:59 GMT",
-        "description": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 &nbsp;&nbsp; 东方财富"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
       },
       {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
       },
       {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - cpnn.com.cn",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,103 +353,97 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
-        "link": "https://arxiv.org/abs/2604.28196v1",
-        "pubDate": "2026-04-30T17:59:58Z",
-        "description": "Driving world models serve as a pivotal technology for autonomous driving by simulating environmental dynamics. However, existing approaches predominantly focus on future scene generation, often overlooking comprehensive 3D scene understanding. Conversely, while Large Language Models (LLMs) demonstr",
-        "title_cn": "Hermès + + ：面向3D场景理解和生成的统一驾驶世界模型"
+        "title": "Oxygen Vacancies at Dislocation Core Modulate Plasticity in Strontium Titanate",
+        "link": "https://arxiv.org/abs/2605.00801v1",
+        "pubDate": "2026-05-01T17:39:50Z",
+        "description": "Dislocation core chemistry in oxides critically influences mechanical behavior and functionality; yet the evolution of core chemistry during the dislocation motion in them has not been directly observed. Here, using SrTiO3 as a model material, we combine aberration-corrected scanning transmission el",
+        "title_cn": "位错芯的氧空位调节钛酸锶的塑性"
       },
       {
-        "title": "Chemical Taxonomy of $ω$~Centauri: Ten Populations Reveal a Multi-Phase Enrichment History",
-        "link": "https://arxiv.org/abs/2604.28195v1",
-        "pubDate": "2026-04-30T17:59:58Z",
-        "description": "$ω$~Centauri, the most massive globular cluster in the Milky Way, exhibits a level of stellar population complexity that has long resisted a unified chemical characterisation. We exploit high-resolution near-infrared spectroscopy from the Milky Way Mapper survey (MWM DR19) to construct one of the la",
-        "title_cn": "半人马座$ ω $ ~的化学分类：十个种群揭示了多阶段富集历史"
+        "title": "Quantum Simulation of Differential-Algebraic Equations with Applications to Unsteady Stokes Flow",
+        "link": "https://arxiv.org/abs/2605.00794v1",
+        "pubDate": "2026-05-01T17:21:52Z",
+        "description": "Differential-algebraic equations (DAEs) arise naturally in constrained dynamical systems, but their algebraic constraints and hidden compatibility conditions make them more subtle than standard ordinary differential equations. This paper initiates a quantum-algorithmic study of constrained linear DA",
+        "title_cn": "微分代数方程的量子模拟与非定常斯托克斯流的应用"
       },
       {
-        "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
-        "link": "https://arxiv.org/abs/2604.28185v1",
-        "pubDate": "2026-04-30T17:59:02Z",
-        "description": "Recent visual generation models have made major progress in photorealism, typography, instruction following, and interactive editing, yet they still struggle with spatial reasoning, persistent state, long-horizon consistency, and causal understanding. We argue that the field should move beyond appea",
-        "title_cn": "新时代的视觉生成：从原子映射到代理世界建模的演变"
+        "title": "Upstream neutrino production and delayed jet emission in the blazar GB6 J1542+6129",
+        "link": "https://arxiv.org/abs/2605.00785v1",
+        "pubDate": "2026-05-01T17:05:00Z",
+        "description": "We investigate the physical origin and location of high-energy neutrino emission in active galactic nuclei (AGN) using the blazar GB6 J1542+6129 as a case study, testing whether neutrinos are produced in compact regions near the black hole or in parsec-scale jets. This question is central to underst",
+        "title_cn": "耀变体的上游中微子产生和延迟射流发射GB6 J1542 +6129"
       },
       {
-        "title": "Uniaxial strain-driven ferroelastic domain control in LaAlO3",
-        "link": "https://arxiv.org/abs/2604.28183v1",
-        "pubDate": "2026-04-30T17:58:51Z",
-        "description": "Multiferroic domain walls in functional oxides exhibit properties distinct from the bulk and are increasingly exploited as active elements in nanoelectronic and photonic devices. Deterministic control of domain populations has typically remained limited to local control, or removal with temperature.",
-        "title_cn": "LaAlO3中的单轴应变驱动铁弹性域控制"
+        "title": "Evaluating the performance of GCM trajectories using Weather Type frequencies for persistence and transitions: the Iberian Peninsula and Lamb classification",
+        "link": "https://arxiv.org/abs/2605.00779v1",
+        "pubDate": "2026-05-01T16:54:20Z",
+        "description": "This study evaluates the performance of 36 historical CMIP6 GCM trajectories (1979-2005) in reproducing atmospheric circulation over the Iberian Peninsula in the summer months (June-September) using the Lamb Weather Type (WT) classification scheme. Using ERA5 reanalysis as the observational referenc",
+        "title_cn": "使用天气类型频率评估GCM轨迹的持久性和过渡性：伊比利亚半岛和兰姆分类"
       },
       {
-        "title": "RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects",
-        "link": "https://arxiv.org/abs/2604.28161v1",
-        "pubDate": "2026-04-30T17:47:44Z",
-        "description": "The robotic manipulation of Deformable Linear Objects (DLOs) is a fundamental challenge due to the high-dimensional, non-linear dynamics of flexible structures and the complexity of maintaining topological integrity during contact-rich tasks. While recent data-driven methods have utilized Recurrent ",
-        "title_cn": "RopeDreamer ：柔性可变形线性物体动力学的运动递归状态空间模型"
+        "title": "Topological protection of local quantum Fisher information",
+        "link": "https://arxiv.org/abs/2605.00770v1",
+        "pubDate": "2026-05-01T16:32:39Z",
+        "description": "In many-body quantum systems, unitary dynamics generically delocalize locally encoded information, causing single-site metrological sensitivity to vanish. We analytically demonstrate that a topological phase can prevent this dispersal. In the open Kitaev chain, a Majorana zero mode fixes the boundar",
+        "title_cn": "局部量子Fisher信息的拓扑保护"
       },
       {
-        "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-        "link": "https://arxiv.org/abs/2604.28158v1",
-        "pubDate": "2026-04-30T17:44:55Z",
-        "description": "Existing research infrastructure is fundamentally document-centric, providing citation links between papers but lacking explicit representations of methodological evolution. In particular, it does not capture the structured relationships that explain how and why research methods emerge, adapt, and b",
-        "title_cn": "Intern-Atlas ：作为人工智能科学家研究基础设施的方法论演变图"
+        "title": "Functional Connectivity-Guided Band Selection for Motor Imagery Brain-Computer Interfaces",
+        "link": "https://arxiv.org/abs/2605.00746v1",
+        "pubDate": "2026-05-01T15:53:32Z",
+        "description": "Reliable control in motor imagery brain-computer interfaces (MI-BCIs) requires the precise decoding of user-specific neural rhythms, which vary significantly across individuals. The Common Spatial Pattern (CSP) algorithm is a cornerstone of MI-BCI decoding, yet its performance depends strongly on th",
+        "title_cn": "用于运动成像脑机接口的功能连通性引导频带选择"
       },
       {
-        "title": "FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption",
-        "link": "https://arxiv.org/abs/2604.28157v1",
-        "pubDate": "2026-04-30T17:43:24Z",
-        "description": "Long-context large language models (LLMs)-for example, Gemini-3.1-Pro and Qwen-3.5-are widely used to empower many real-world applications, such as retrieval-augmented generation, autonomous agents, and AI assistants. However, security remains a major concern for their widespread deployment, with th",
-        "title_cn": "FlashRT ：实现计算和内存高效的红色团队，以实现快速注入和知识腐败"
+        "title": "Quantum simulation of nanographenes and Trotter error cancellation",
+        "link": "https://arxiv.org/abs/2605.00745v1",
+        "pubDate": "2026-05-01T15:49:52Z",
+        "description": "Fault-tolerant quantum computing is a promising tool for simulating molecules and materials, but frequently-considered applications require substantial resources, and the gap between hardware capabilities and requirements remains significant. We propose quantum simulation of nanographene $π$-systems",
+        "title_cn": "纳米苯和Trotter误差消除的量子模拟"
       },
       {
-        "title": "Index-Assisted Stratified Sampling for Online Aggregation",
-        "link": "https://arxiv.org/abs/2604.28141v1",
-        "pubDate": "2026-04-30T17:25:50Z",
-        "description": "Ad-hoc queries over frequently updated data in a flat schema are common in real-time data analysis applications and often require very low latency. Online aggregation can achieve so by providing approximate aggregation answers with confidence bound guarantees. It relies on the ability to draw sample",
-        "title_cn": "用于在线聚合的索引辅助分层抽样"
+        "title": "DESI and Gravitational Wave Constraints Challenge Quintessential α-Attractor Inflation",
+        "link": "https://arxiv.org/abs/2605.00735v1",
+        "pubDate": "2026-05-01T15:35:40Z",
+        "description": "Quintessential inflation models provide a framework that simultaneously describes inflation and dynamical dark energy, the latter of which has recently received growing support from DESI observations. A distinctive feature of these models is the kination phase after inflation, which enhances primord",
+        "title_cn": "DESI和引力波约束挑战典型的α-吸引子膨胀"
       },
       {
-        "title": "Beyond the Separatrix: Analytic Continuation of Darwin Variables for Plunging Geodesics in Schwarzschild Spacetime",
-        "link": "https://arxiv.org/abs/2604.28140v1",
-        "pubDate": "2026-04-30T17:23:32Z",
-        "description": "We study geodesic motion of a test particle in Schwarzschild spacetime. Bound and scattering geodesics are commonly described using Darwin variables, which provide a convenient parametrization of the radial motion. However, this description breaks down at the separatrix and does not extend straightf",
-        "title_cn": "超越分离： Schwarzschild时空中达尔文变量对暴跌测地线的分析延续"
+        "title": "Intermittency induced by long memory under stochastic regime switching",
+        "link": "https://arxiv.org/abs/2605.00729v1",
+        "pubDate": "2026-05-01T15:28:50Z",
+        "description": "We study a fundamental instability mechanism in nonlinear, nonlocal dynamical systems arising from the interaction of long-range memory and stochastic regime switching. The dynamics are governed by network-coupled, operator-valued Volterra evolutions with completely monotone memory kernels whose exc",
+        "title_cn": "随机状态切换下长记忆引起的间歇性"
       },
       {
-        "title": "Weak-to-Strong Measurement Transition with Thermal Instabilities",
-        "link": "https://arxiv.org/abs/2604.28137v1",
-        "pubDate": "2026-04-30T17:19:39Z",
-        "description": "Quantum measurement is physically realized through a finite dynamical interaction between a system and a measuring apparatus, giving rise to a continuous transition from weak to strong regimes. While this crossover is well understood under ideal conditions, the combined role of thermal instabilities",
-        "title_cn": "具有热不稳定性的弱强测量转换"
+        "title": "Exploring the Limits of End-to-End Feature-Affinity Propagation for Single-Point Supervised Infrared Small Target Detection",
+        "link": "https://arxiv.org/abs/2605.00722v1",
+        "pubDate": "2026-05-01T15:08:46Z",
+        "description": "Single-point supervised infrared small target detection (IRSTD) drastically reduces dense annotation costs. Current state-of-the-art (SOTA) methods achieve high precision by recovering mask supervision through explicit, offline pseudo-label construction, such as multi-stage active learning and physi",
+        "title_cn": "探索单点有监督红外小目标检测的端到端特征亲和传播极限"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 05:09:22 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:44:57 GMT",
-        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 05:09:22 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 - 低碳网",
@@ -458,16 +452,16 @@
         "description": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 &nbsp;&nbsp; 低碳网"
       },
       {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
-      },
-      {
         "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQTExbkd0dm5DVWI2M0N1eE5hbTMxTXNVbVN3YUR5S3JNdHBWV29teEc3dHNuWWY3cDJVNEozRnBUaFB5SG5qTFNFcHNpVUVfcTgxZEcwdw?oc=5",
         "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
         "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
       },
       {
         "title": "小K播早报|国家能源局：推进氢能交易等机制创新 特斯拉AI5芯片流片推动股价涨逾7% - 财联社",
@@ -480,10 +474,16 @@
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTGN3blJaejhtaE5WZnNHdW9wcjR1LWgxaE81T1RKRXdtdVQ0aTI2bG5kWWVDSXZ2NWtmR29aV05mTV8xdVIzbWJYZTVaazFKZVdVWUI0T2lVcTh4M1hyX3FtbG1HSi1tTWswQ3A1dmMtM3oy?oc=5",
         "pubDate": "Wed, 29 Apr 2026 10:02:10 GMT",
         "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:44:01 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -518,25 +518,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
-      },
-      {
         "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
         "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
         "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
       },
       {
-        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
+        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
+        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
+      },
+      {
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-03 22:34 UTC"
+    "updated": "2026-05-04 05:28 UTC"
   }
 }
