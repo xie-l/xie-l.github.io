@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Powerful tools are revealing the ‘control knobs’ of the genome",
+        "link": "https://www.nature.com/articles/d41586-026-01410-1",
+        "pubDate": "2026-05-04",
+        "description": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01410-1 By accelerating the identification of DNA sequences that control gene expression, assays are revealing the hidden grammar of the regulatory genome — and giving scientists the means to rewrite it",
+        "title_cn": "强大的工具正在揭示基因组的“控制旋钮”"
+      },
+      {
+        "title": "'Heartbreaking': Iranian scientists on losing labs, libraries and liberty",
+        "link": "https://www.nature.com/articles/d41586-026-01394-y",
+        "pubDate": "2026-05-04",
+        "description": "Nature, Published online: 04 May 2026; doi:10.1038/d41586-026-01394-y Bombing of Iran's civilian infrastructure has damaged universities, destroyed thousands of books and manuscripts, amid a government-imposed Internet blackout, some of the country's researchers have told Nature.",
+        "title_cn": "“令人心碎” ：伊朗科学家失去实验室、图书馆和自由"
+      },
+      {
         "title": "Author Correction: Titration of RAS alters senescent state and influences tumour initiation",
         "link": "https://www.nature.com/articles/s41586-026-10601-9",
         "pubDate": "2026-05-01",
@@ -42,27 +56,25 @@
         "pubDate": "2026-05-01",
         "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01290-5 Species recovery, cancer-preventing vaccines and progress in developing renewable-energy sources are just some of the positive developments that have happened this year so far.",
         "title_cn": "新闻也不全是坏消息：五个鼓舞人心的科学故事来提升你的情绪"
-      },
-      {
-        "title": "European funder must increase capacity to meet the ambition of scientists",
-        "link": "https://www.nature.com/articles/d41586-026-01411-0",
-        "pubDate": "2026-05-01",
-        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01411-0 To avoid sabotaging science, the European Research Council needs more funding and structural change.",
-        "title_cn": "欧洲资助者必须提高能力，以满足科学家的雄心壮志"
-      },
-      {
-        "title": "This organoid can menstruate — and shows how tissue can repair itself",
-        "link": "https://www.nature.com/articles/d41586-026-01428-5",
-        "pubDate": "2026-05-01",
-        "description": "Nature, Published online: 01 May 2026; doi:10.1038/d41586-026-01428-5 Mini models of the uterus lining give insight into mystery of how it is shed without scarring.",
-        "title_cn": "这种类器官可以月经—并显示组织如何自我修复"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "五月，适合想清楚一件事｜幕启",
+        "link": "https://36kr.com/p/3794961189821698?f=rss",
+        "pubDate": "2026-05-04 20:41:30  +0800",
+        "description": "图源：公众号「有三思 &nbsp;U &nbsp;Sense」 5月4日，一个被默认为“青年专属”的日期。 但在我看来，“青年”一词从来不只和年龄挂钩，每一个还在试探人生的节拍与正轨的人，身体里都住着一位渴望力量的青年。 [1] 敲定新品牌命名的那一刻其实很轻。在讨论方案的脑暴会上，我夸了实习生一句“有Sense”，他眼神一亮：“这个词好诶。” 许多年前，我还是一个初入职场的新人，在猎头行业学习如何阅读简历、判断人、理解组织。那时候，我的老板总时不时夸团队里的同学“有Sense”。 “有Sense”是咨询行业爱用的职场黑话，也是一句高度浓缩的赞美。 努力是苦劳，聪明是天赋，而Sense，是前辈"
+      },
+      {
+        "title": "豆包将在免费模式外新增付费订阅，推出三档月包/年包价格｜最前线",
+        "link": "https://36kr.com/p/3794799114476809?f=rss",
+        "pubDate": "2026-05-04 17:49:40  +0800",
+        "description": "近日，豆包App Store页面出现付费版本服务声明。声明称，为更好地服务专业用户，豆包将在免费版的基础上，推出包含更多增值服务的付费版本。同时，该页面还披露了三档订阅价格：标准版连续包月每月68元（连续包年688元）、加强版连续包月每月200元（连续包年2048元）、专业版连续包月每月500元（连续包年5088元）。 &nbsp; 豆包 &nbsp; 目前，尚未在豆包产品中看到相关的付费选项和功能。豆包官方回应称，“豆包始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，以满足不同用户的差异化需求。相关方案细节目前还在测试阶段，正式上线时会通过官方渠道发布完整信息。” 据接近"
+      },
       {
         "title": "科氪 | 张雪机车再夺冠军！荣耀宣布推出张雪机车冠军联名款手表",
         "link": "https://36kr.com/p/3792228036615430?f=rss",
@@ -98,25 +110,27 @@
         "link": "https://36kr.com/p/3791796527602951?f=rss",
         "pubDate": "2026-05-02 15:38:58  +0800",
         "description": "作者丨韦香惠 来源丨东四十条资本 A股即将迎来一只“算力独角兽”，估值已站上500亿元门槛。 主角是来自河南的超聚变数字技术股份有限公司。从今年1月提交上市辅导备案，到IPO辅导工作完成，仅用四个多月时间。 这家公司并非“从零起步”，其前身是华为X86服务器业务，2021年受外部环境影响被整体剥离，并独立运营。随后，河南超聚能科技有限公司成为控股股东，持股31.38%，后者大股东则为河南国资平台豫信电子科技集团。此外，超聚变第二大股东系中国移动旗下中移资本，持股15.14%。成立至今，核聚变已至少完成8轮股权融资，身后VC/PE超过30家。 超聚变之所以受资本青睐，离不开“算力即国运”的时代背"
-      },
-      {
-        "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-        "link": "https://36kr.com/p/3791662444911617?f=rss",
-        "pubDate": "2026-05-02 14:52:34  +0800",
-        "description": "梦晨 发自 凹非寺 苹果大失误！把自用的Claude.md打包到了官方App里。 这下直接被坐实了： 苹果内部在使用Claude Code构建生产级应用 。 这么大的公司，也在Vibe Coding？ 苹果内部在使用Claude Code构建生产级应用 项目级的Claude.md通常用来告诉AI这个项目是什么、怎么构建、要遵循哪些规范、避免哪些雷区…… 这家全球最注重保密的科技公司，还是把自己的秘密泄露了。 事故发生后后， 苹果在24小时内已紧急撤回 ，但部分内容已经曝光。 等一下。 这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的。 该不会这两个事故，罪魁"
-      },
-      {
-        "title": "9.35万, 威马破产大甩卖",
-        "link": "https://36kr.com/p/3791546608049152?f=rss",
-        "pubDate": "2026-05-02 11:24:44  +0800",
-        "description": "作者 |&nbsp;冯晓亭 编辑 | 吾人 来源 |&nbsp;融中财经 4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。 拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主人。 威马对外应收款项拍卖 消息传出，舆论哗然。昔日的造车新势力“四小龙”之一、公开累计融资350亿元的资本宠儿，如今旗下子公司的亿元债权竟被当成“白菜”甩卖。更令人咋舌的是，这1.27"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Volkswagen Pilots New Production Process In Wolfsburg",
+        "link": "https://cleantechnica.com/2026/05/04/volkswagen-pilots-new-production-process-in-wolfsburg/",
+        "pubDate": "Mon, 04 May 2026 15:17:21 +0000",
+        "description": "The word our of Germany is that Volkswagen is considering a radical new production process in Wolfsburg for the ID. Golf. The post Volkswagen Pilots New Production Process In Wolfsburg appeared first on CleanTechnica .",
+        "title_cn": "大众汽车在沃尔夫斯堡试点新生产工艺"
+      },
+      {
+        "title": "18 EV Fast Chargers Running On 100% Renewable Electricity Installed In Germany",
+        "link": "https://cleantechnica.com/2026/05/04/18-ev-fast-chargers-running-on-100-renewable-electricity-installed-in-germany/",
+        "pubDate": "Mon, 04 May 2026 13:58:24 +0000",
+        "description": "Eighteen new EV fast chargers that can charge up to 400 kW have been installed in Germany at these locations: A6 in Landstuhl, Rheinland-Pfalz, and the A7 in Ellwangen Jagst, Bavaria. “Our fast charging parks are ideally suited for short charging stops on long-distance journeys due to their convenie",
+        "title_cn": "18台电动汽车快速充电器使用100%可再生电力在德国安装"
+      },
       {
         "title": "Understanding Anti-EV Myths & Misinformation",
         "link": "https://cleantechnica.com/2026/05/04/understanding-anti-ev-myths-misinformation/",
@@ -158,24 +172,10 @@
         "pubDate": "Sun, 03 May 2026 18:14:35 +0000",
         "description": "The Finnish startup Solar Foods leverages a natural microorganism, renewable energy, and green hydrogen to produce Solein, a protein-rich food supplement produced through gas fermentation. The post EU Green Hydrogen Scheme Embraces High-Tech Solar Foods appeared first on CleanTechnica .",
         "title_cn": "欧盟绿色氢能计划包含高科技太阳能食品"
-      },
-      {
-        "title": "Why Insurance Breaks The Uber-In-The-Air Fantasy",
-        "link": "https://cleantechnica.com/2026/05/03/why-insurance-breaks-the-uber-in-the-air-fantasy/",
-        "pubDate": "Sun, 03 May 2026 14:56:46 +0000",
-        "description": "The most interesting person in the first commercial eVTOL launch may not be the pilot, the regulator, the mayor at the ribbon cutting, or the executive standing beside the aircraft. It may be the underwriter. The aircraft may have completed its test program. The regulator may have signed off. The ..",
-        "title_cn": "保险为何能打破空中优步的幻想"
-      },
-      {
-        "title": "First Tesla Semi At High Production Line Completed",
-        "link": "https://cleantechnica.com/2026/05/03/first-tesla-semi-at-high-production-line-completed/",
-        "pubDate": "Sun, 03 May 2026 14:53:00 +0000",
-        "description": "The above photograph shows a huge number of Tesla employees around their first Tesla Semi completed at the vehicle&#8217;s high-production line. Tesla has an enormous number of employees that are not the CEO. Their work counts more than the activities of one executive. There was a tremendous respons",
-        "title_cn": "首条Tesla Semi高产线竣工"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -266,12 +266,6 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qQ0RLcDJsRDdwVXY5SmYxVU1iSVVlTWFERHo4RjVjQjlOZGpZaGlCWG5kNGpmdVpuVHNqM3d5dWdIZ2gwMjQ0SnFlaGQ1STJNV3V1akNmQmJUY1VIYVNmRg?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 14:41:59 GMT",
-        "description": "中国能建：公司积极布局氢能、新型储能、绿色算力、新能源运营及能源融合新业态 &nbsp;&nbsp; 东方财富"
-      },
-      {
         "title": "国能多家单位获批参与氢能标准化委员会组建工作 - cpnn.com.cn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
         "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
@@ -288,10 +282,16 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+      },
+      {
+        "title": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQZFk3NlJNU3lXQWE2bUlOaF84eVZTSnd6QzkyRFRSREFXQlFjYUNuUHNUQm83UXprTW1nQ0RrNm9VY1B0dUpNZVctV244OE9kY081OFVkRldpUVU5cF9jYm5Fd05uclc5RDdfamxn?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+        "description": "中国能建：公司将围绕“一体化氢能”这一核心模式，整合能源电力领域全产业链 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,16 +446,16 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 - 低碳网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbl9fbDNJZGxVcmRxSFRYUHNKcENZRDBBem9qaFVvZldwS2NOR040cHVFMFhwRlZLMGFKOFpJcnY2YUJGeS1KTjlGSGN1YjRlMFd6Ng?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 08:42:24 GMT",
-        "description": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 &nbsp;&nbsp; 低碳网"
-      },
-      {
         "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LQTExbkd0dm5DVWI2M0N1eE5hbTMxTXNVbVN3YUR5S3JNdHBWV29teEc3dHNuWWY3cDJVNEozRnBUaFB5SG5qTFNFcHNpVUVfcTgxZEcwdw?oc=5",
         "pubDate": "Thu, 30 Apr 2026 10:23:00 GMT",
         "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 - 低碳网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkbl9fbDNJZGxVcmRxSFRYUHNKcENZRDBBem9qaFVvZldwS2NOR040cHVFMFhwRlZLMGFKOFpJcnY2YUJGeS1KTjlGSGN1YjRlMFd6Ng?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 08:42:24 GMT",
+        "description": "国家能源局发布2026年一季度能源形势与可再生能源进展- 要闻 &nbsp;&nbsp; 低碳网"
       },
       {
         "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
@@ -478,15 +478,45 @@
       {
         "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:44:01 GMT",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
         "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
+        "pubDate": "Sun, 03 May 2026 00:59:09 GMT",
+        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
@@ -500,43 +530,13 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
-        "pubDate": "Sun, 03 May 2026 00:59:09 GMT",
-        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
         "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
         "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
         "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-04 09:12 UTC"
+    "updated": "2026-05-04 15:55 UTC"
   }
 }
