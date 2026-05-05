@@ -2,11 +2,25 @@
   "tech": {
     "items": [
       {
+        "title": "Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+        "link": "https://www.nature.com/articles/s41586-026-10594-5",
+        "pubDate": "2026-05-05",
+        "description": "Nature, Published online: 05 May 2026; doi:10.1038/s41586-026-10594-5 Editorial Expression of Concern: Nociceptive neurons promote gastric tumour progression via a CGRP–RAMP1 axis",
+        "title_cn": "关注点编辑表达：伤害感受神经元通过CGRP-RAMP1轴促进胃肿瘤进展"
+      },
+      {
         "title": "Precision medicine without equity is just stratified inequality",
         "link": "https://www.nature.com/articles/d41586-026-01442-7",
         "pubDate": "2026-05-05",
         "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01442-7 Precision medicine without equity is just stratified inequality",
         "title_cn": "没有公平的精准医疗只是分层的不平等"
+      },
+      {
+        "title": "Tumbleweed-style robot can roll across the prairie — no wind needed",
+        "link": "https://www.nature.com/articles/d41586-026-01445-4",
+        "pubDate": "2026-05-05",
+        "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01445-4 Woven from light-responsive strips, a tiny sphere trundles across a variety of surfaces when illuminated.",
+        "title_cn": "Tumbleweed风格的机器人可以在草原上滚动—无需风"
       },
       {
         "title": "AI agents in research: when productivity comes at the cost of apprenticeship",
@@ -37,29 +51,15 @@
         "title_cn": "精美的显微镜在伦敦派对上给参与者留下深刻印象"
       },
       {
-        "title": "Responses to the AI grant flood must prioritize fairness as part of excellence",
-        "link": "https://www.nature.com/articles/d41586-026-01422-x",
+        "title": "To move beyond GDP, don’t ignore environmental economists",
+        "link": "https://www.nature.com/articles/d41586-026-01299-w",
         "pubDate": "2026-05-05",
-        "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01422-x Research funding agencies are battling a wave of AI-assisted applications. Countermeasures should not entrench existing power structures.",
-        "title_cn": "对人工智能资助洪水的响应必须优先考虑公平作为卓越的一部分"
-      },
-      {
-        "title": "Testosterone therapy is trending. Who really needs it, and why?",
-        "link": "https://www.nature.com/articles/d41586-026-01408-9",
-        "pubDate": "2026-05-05",
-        "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01408-9 Some clinicians are pushing to broaden testosterone use, but there is debate about its benefits and risks.",
-        "title_cn": "睾酮疗法正在成为趋势。谁真正需要它，为什么？"
-      },
-      {
-        "title": "Meet the academics refusing to use generative AI",
-        "link": "https://www.nature.com/articles/d41586-026-00508-w",
-        "pubDate": "2026-05-05",
-        "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-00508-w Researchers say they have their reasons for avoiding AI tools — and they’re sick of arguing about it.",
-        "title_cn": "与拒绝使用生成式人工智能的学者见面"
+        "description": "Nature, Published online: 05 May 2026; doi:10.1038/d41586-026-01299-w Sustainable development will only be achieved when governments base decisions on human skills and natural resources, not just gross domestic product.",
+        "title_cn": "为了超越GDP ，不要忽视环境经济学家"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,7 +113,7 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "energy_cn": {
     "items": [
@@ -278,82 +278,82 @@
         "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
       },
       {
-        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - cpnn.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; cpnn.com.cn"
-      },
-      {
         "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+      },
+      {
+        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
+        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Atomic Design for Green Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/05/04/energy-innovation/atomic-design-for-green-hydrogen",
-        "pubDate": "Mon, 04 May 2026 15:15:32 GMT",
+        "title": "Green Hydrogen Powerhouse: How Chile's Atacama Desert Is Rewriting Energy Rules",
+        "link": "https://fuelcellsworks.com/2026/05/04/clean-energy/first-hydrogen-bus-made-in-chile-it-has-a-capacity-for-24-passengers-and-a-maximum-speed-of-90-km-h",
+        "pubDate": "Tue, 05 May 2026 15:31:52 GMT",
         "description": "",
-        "title_cn": "绿色氢的原子设计"
+        "title_cn": "绿色氢能发电厂：智利的阿塔卡马沙漠如何重写能源规则"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: April 20-May 01 2026",
-        "link": "https://fuelcellsworks.com/2026/05/02/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-april-20-may-01-2026",
-        "pubDate": "Mon, 04 May 2026 15:05:22 GMT",
+        "title": "First Hydrogen Assembles Advanced Robotics and Ugv Drone Development Team",
+        "link": "https://fuelcellsworks.com/2026/05/05/fuel-cells/first-hydrogen-assembles-advanced-robotics-and-ugv-drone-development-team",
+        "pubDate": "Tue, 05 May 2026 15:23:00 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年4月20日-5月1日"
+        "title_cn": "First Hydrogen组建先进机器人和Ugv无人机开发团队"
       },
       {
-        "title": "HTEC Recognized at the Canadian Hydrogen Convention for Production and Mobility Projects",
-        "link": "https://fuelcellsworks.com/2026/05/04/h2/htec-recognized-at-the-canadian-hydrogen-convention-for-production-and-mobility-projects",
-        "pubDate": "Mon, 04 May 2026 15:04:09 GMT",
+        "title": "Algeria-Italy Talks Highlight Hydrogen, Industrial Cooperation Push",
+        "link": "https://fuelcellsworks.com/2026/05/05/h2/algeria-italy-talks-highlight-hydrogen-industrial-cooperation-push",
+        "pubDate": "Tue, 05 May 2026 15:13:34 GMT",
         "description": "",
-        "title_cn": "HTEC在加拿大氢气生产和移动项目公约中获得认可"
+        "title_cn": "阿尔及利亚-意大利会谈强调氢能，推动产业合作"
       },
       {
-        "title": "Green Hydrogen: Adjusting Course without Losing Ambition",
-        "link": "https://fuelcellsworks.com/2026/05/04/energy-policy/green-hydrogen-adjusting-course-without-losing-ambition",
-        "pubDate": "Mon, 04 May 2026 14:32:17 GMT",
+        "title": "NewHydrogen Drives Toward Commercial Success",
+        "link": "https://fuelcellsworks.com/2026/05/05/clean-energy/newhydrogen-drives-toward-commercial-success",
+        "pubDate": "Tue, 05 May 2026 15:12:19 GMT",
         "description": "",
-        "title_cn": "绿色氢气：调整路线而不丧失雄心壮志"
+        "title_cn": "NewHydrogen推动商业成功"
       },
       {
-        "title": "Breakthrough in Seawater Hydrogen Production Technology",
-        "link": "https://fuelcellsworks.com/2026/05/03/h2/breakthrough-in-seawater-hydrogen-production-technology",
-        "pubDate": "Mon, 04 May 2026 14:29:18 GMT",
+        "title": "HyOrc Provides Indicative Methanol Production Cost Range and Commercial Positioning Following Technology Validation",
+        "link": "https://fuelcellsworks.com/2026/05/05/clean-energy/hyorc-provides-indicative-methanol-production-cost-range-and-commercial-positioning-following-technology-validation",
+        "pubDate": "Tue, 05 May 2026 15:00:25 GMT",
         "description": "",
-        "title_cn": "海水制氢技术突破"
+        "title_cn": "HyOrc在技术验证后提供指示性甲醇生产成本范围和商业定位"
       },
       {
-        "title": "Honda Shows Off Zero-Emissions Power Tech at ACT Expo 2026",
-        "link": "https://fuelcellsworks.com/2026/05/04/energy-innovation/honda-shows-off-zero-emissions-power-tech-at-act-expo-2026",
-        "pubDate": "Mon, 04 May 2026 14:21:54 GMT",
+        "title": "Peru's Arequipa Advances Hydrogen Hub Plans with International Backing",
+        "link": "https://fuelcellsworks.com/2026/05/05/green-investment/peru-s-arequipa-advances-hydrogen-hub-plans-with-international-backing",
+        "pubDate": "Tue, 05 May 2026 14:51:54 GMT",
         "description": "",
-        "title_cn": "本田在2026年ACT世博会上展示零排放动力技术"
+        "title_cn": "秘鲁阿雷基帕在国际支持下推进氢能中心计划"
       },
       {
-        "title": "Symbio Workers Strike as Stellantis Exit Leaves France's Hydrogen Gigafactory Fighting for Survival",
-        "link": "https://fuelcellsworks.com/2026/05/03/h2/symbio-workers-strike-as-stellantis-exit-leaves-france-s-hydrogen-gigafactory-fighting-for-survival",
-        "pubDate": "Mon, 04 May 2026 13:53:53 GMT",
+        "title": "UT Startup To Scale Hydrogen Fuel Cell Tech With UT Seed Fund Investment",
+        "link": "https://fuelcellsworks.com/2026/05/05/hydrogen/ut-startup-to-scale-hydrogen-fuel-cell-tech-with-ut-seed-fund-investment",
+        "pubDate": "Tue, 05 May 2026 14:49:50 GMT",
         "description": "",
-        "title_cn": "随着Stellantis退出， Symbio工人罢工离开了法国的氢气超级工厂，为生存而战"
+        "title_cn": "UT初创公司通过UT种子基金投资扩大氢燃料电池技术的规模"
       },
       {
-        "title": "PHINIA to Showcase Hydrogen Combustion Innovation at ACT Expo 2026, Including First Homologated H2ICE LCV",
-        "link": "https://fuelcellsworks.com/2026/05/04/fuel-cells/phinia-to-showcase-hydrogen-combustion-innovation-at-act-expo-2026-including-first-homologated-h2ice-lcv",
-        "pubDate": "Mon, 04 May 2026 13:50:07 GMT",
+        "title": "Yanqing Hydrogen-Powered Buses at the Strawberry Music Festival",
+        "link": "https://fuelcellsworks.com/2026/05/04/fuel-cells/yanqing-hydrogen-powered-buses-at-the-strawberry-music-festival",
+        "pubDate": "Tue, 05 May 2026 14:38:16 GMT",
         "description": "",
-        "title_cn": "PHINIA将在2026年ACT世博会上展示氢燃烧创新，包括首款经过认证的H2ICE LCV"
+        "title_cn": "草莓音乐节上的延庆氢动力公交车"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "policy_nea": {
     "items": [
@@ -440,10 +440,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "精心培育氢能未来产业 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUpsQk9BeTdnb2dRUHNtcVpVSE84bmNSV2lOS0gtMmF4TC1ucXhYLW9wbjl0VVl1M09jSmg4akEzbEE3VFVFTDY1ZWtnZC0zRTRQSlVZZVo0ZjNGVG9PbUxrLVhrdV9KTWpIYTV2VTlVWUZYRWdoSGtMc3pqdkNxXzl4SXA?oc=5",
-        "pubDate": "Tue, 05 May 2026 02:04:07 GMT",
-        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 新浪财经"
+        "title": "中信证券研究：电新｜高层密集发声，绿色燃料量价迎利好 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPT3VkSUhBVVI5Vy1icGxYTENJNEY4ckRjOXVUd2RoNXdaOEYxa0dlX25RQTN2M0gwU2J5R1p2aG5DTmd0OWFOS25kTHBBVlR1b0RGSk52VmFLcXY4UHBxV3F2T3lvN1pmTVpqcGZoMFFuemliX0V5SVRwWkRPUWgyZ2JGVjFwU3NjWC1iTGFSZ1BYTXBsNlpvRm03T0tDVHltVjZLRE1hWW55N1Y5MEE1bGpsS3BCUUYzRnpOVGMzYjZRRlRIaUZGRlU4bEZiQ3RPN1VvaTRmQXctY0w5djNlX091eUxKV1Z4VDhWbFFWTHlRMHkxaUxfTmo2U2hIOFBMVUJqdk9mM0hlalhuV0tlbGtPckhRb3hjUTBZZkRBRUEwby1HeWJJSExZUFpIbnBfaEtueGJKYTdNa3JqYUN2NEltTmtqajl4Z2gxVG9TMXhxNnhzcERVU0F0eDJFelVkVzNULVBzWUN6VVRUSlBGUzFqbkpxSWY5R09IRy1oWS1DZzJ0ZDlKb0xWWEhjSzNsb0ZOd1RkTUZxTzRxS3VEM3lKQ0ppN1daa2VINWJPMEc2bGtXMHBzQWZwcGNhemJ2ZE9hSjhfRjBoVlJIYmVtalB5UXRlcjF0ek9odHc5VXdrczc0RzVLTTJScXVCeVBLUnpjS2tseFFyU0VwZG94MER2RE1DYUN3YndwRTJEaVV5VU1La1E?oc=5",
+        "pubDate": "Tue, 05 May 2026 07:18:59 GMT",
+        "description": "中信证券研究：电新｜高层密集发声，绿色燃料量价迎利好 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -483,14 +483,14 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
         "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
-        "pubDate": "Mon, 04 May 2026 10:13:22 GMT",
+        "pubDate": "Sun, 03 May 2026 00:59:09 GMT",
         "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
       },
       {
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-05 15:48 UTC"
+    "updated": "2026-05-05 22:50 UTC"
   }
 }
