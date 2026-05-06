@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: Enteric neurons increase maternal food intake during reproduction",
+        "link": "https://www.nature.com/articles/s41586-026-10201-7",
+        "pubDate": "2026-05-06",
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10201-7 Author Correction: Enteric neurons increase maternal food intake during reproduction",
+        "title_cn": "作者更正：肠神经元在生殖过程中增加母体食物摄入量"
+      },
+      {
         "title": "Author Correction: Multidimensional profiling of heterogeneity in supratentorial ependymomas",
         "link": "https://www.nature.com/articles/s41586-026-10602-8",
         "pubDate": "2026-05-06",
@@ -9,57 +16,50 @@
         "title_cn": "作者更正：幕上室管膜瘤异质性的多维分析"
       },
       {
-        "title": "Origin story",
-        "link": "https://www.nature.com/articles/d41586-026-01077-8",
+        "title": "Anaesthetized brains can still process podcasts",
+        "link": "https://www.nature.com/articles/d41586-026-01480-1",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01077-8 Plans for expansion.",
-        "title_cn": "起源故事"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01480-1 Neuronal recordings taken during surgery reveal that the brain can learn even when unconscious — plus, the electrical test that can determine a cup of coffee’s strength.",
+        "title_cn": "麻醉的大脑仍然可以处理播客"
       },
       {
-        "title": "25 years of chemistry that simply clicks",
-        "link": "https://www.nature.com/articles/d41586-026-01155-x",
+        "title": "Two-qubit logic and teleportation with mobile spin qubits in silicon",
+        "link": "https://www.nature.com/articles/s41586-026-10423-9",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01155-x When the concept of ‘click’ chemistry — highly effective and specific reactions — was first reported, some dismissed it as a gimmick. But it has transformed many fields of research.",
-        "title_cn": "25年的化学反应，只需点击一下"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10423-9 A device architecture comprising silicon-based mobile qubits and the shuttling of two electron spins together demonstrates two-qubit gate fidelity of about 99% as well as quantum state teleportation between qubits separated by 320",
+        "title_cn": "使用硅中的移动自旋量子位的双量子位逻辑和隐形传态"
       },
       {
-        "title": "J. Craig Venter obituary: maverick biotechnologist who sequenced the human genome",
-        "link": "https://www.nature.com/articles/d41586-026-01433-8",
+        "title": "Expanding the human proteome with microproteins and peptideins",
+        "link": "https://www.nature.com/articles/s41586-026-10459-x",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01433-8 The entrepreneur was also a pioneer of synthetic biology.",
-        "title_cn": "J. Craig Venter讣告：对人类基因组进行测序的特立独行的生物技术专家"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10459-x A large-scale proteomics analysis of the dark proteome by the TransCODE Consortium reveals many translated non-canonical open reading frames to encode microproteins and peptideins.",
+        "title_cn": "用微蛋白质和肽扩展人体蛋白质组"
       },
       {
-        "title": "I’m burnt out and leaving academia. How do I finish my PhD?",
-        "link": "https://www.nature.com/articles/d41586-026-00797-1",
+        "title": "RNA-triggered cell killing with CRISPR–Cas12a2",
+        "link": "https://www.nature.com/articles/s41586-026-10466-y",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-00797-1 Burnout is a systemic problem, but individuals can take steps to cope with it and pave a path forward.",
-        "title_cn": "我筋疲力尽，离开了学术界。如何完成博士学位？"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10466-y Cas12a2 enables RNA-triggered, sequence-specific killing of eukaryotic cells via widespread DNA shredding, allowing selective elimination of cells on the basis of gene expression, including virus-infected or mutation-bearing cells",
+        "title_cn": "使用CRISPR-Cas12a2的RNA触发的细胞杀伤"
       },
       {
-        "title": "Engineering resilient food systems in a warming world",
-        "link": "https://www.nature.com/articles/d41586-026-01250-z",
+        "title": "Electrocaloric effects across room temperature in multilayer capacitors",
+        "link": "https://www.nature.com/articles/s41586-026-10492-w",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01250-z Can synthetic biology provide food security in a changing climate?",
-        "title_cn": "在变暖的世界中设计有弹性的粮食系统"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10492-w Multilayer capacitors comprising a solid solution of two electrocaloric materials PbSc0.5Ta0.5O3 and PbMg0.5W0.5O3 are shown to maintain high B-site order and latent heat without needing an energetically expensive anneal, enabling",
+        "title_cn": "多层电容器中跨室温的电热效应"
       },
       {
-        "title": "Are microbes the future of pollution clean-up?",
-        "link": "https://www.nature.com/articles/d41586-026-01420-z",
+        "title": "Foreshock-induced slip transients set mainshock nucleation timing",
+        "link": "https://www.nature.com/articles/s41586-026-10497-5",
         "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01420-z Synthetic biologists are engineering bacteria to feast on oil, plastic and toxic chemicals.",
-        "title_cn": "微生物是污染清理的未来吗？"
-      },
-      {
-        "title": "‘Alternative COP’ must drive real, cooperative change in climate action",
-        "link": "https://www.nature.com/articles/d41586-026-01423-w",
-        "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/d41586-026-01423-w A new climate coalition to steer the transition away from fossil fuels is good news, but it must avoid undermining existing global scientific structures.",
-        "title_cn": "“替代COP”必须在气候行动中推动真正的合作变革"
+        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10497-5 Analysis of laboratory experiments using a rate-and-state-based Griffith-like rupture framework shows that foreshocks can regulate mainshock nucleation timing, with larger foreshocks generating higher transient sliding velocities ",
+        "title_cn": "前震诱导滑移瞬变设定主震成核定时"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "AI Data Centres Need Big Batteries But Lithium Isn’t Fit-For-Purpose",
+        "link": "https://cleantechnica.com/2026/05/06/ai-data-centres-need-big-batteries-but-lithium-isnt-fit-for-purpose/",
+        "pubDate": "Wed, 06 May 2026 22:40:11 +0000",
+        "description": "By Dr. Thomas Nann, CEO and Co-Founder of Allegro The biggest constraint facing AI data centre expansion is not generation. It is storage, and not only storage, but the unique way that AI data centre’s use power. As AI-driven data centres scale, the grid challenge is no longer simply how ... [contin",
+        "title_cn": "人工智能数据中心需要大电池，但锂不适合用途"
+      },
+      {
+        "title": "Vienna’s Hydrogen Bus Failure Is A Warning To Transit Agencies",
+        "link": "https://cleantechnica.com/2026/05/06/viennas-hydrogen-bus-failure-is-a-warning-to-transit-agencies/",
+        "pubDate": "Wed, 06 May 2026 20:37:17 +0000",
+        "description": "Seven of Vienna’s ten new hydrogen buses are sidelined because CaetanoBus cannot supply ordinary spare parts. Not hydrogen tanks. Not fuel-cell stacks. Not high-pressure valves. Door compressors and blind-spot monitoring systems. That is what makes the case important for transit procurement agencies",
+        "title_cn": "维也纳的氢能公交车故障是对运输机构的警告"
+      },
+      {
+        "title": "Better Flight Planning Can Cut Fuel & Contrail Warming",
+        "link": "https://cleantechnica.com/2026/05/06/better-flight-planning-can-cut-fuel-contrail-warming/",
+        "pubDate": "Wed, 06 May 2026 18:48:46 +0000",
+        "description": "Aviation’s decarbonization debate spends most of its time in the fuel tank. Sustainable aviation fuel gets the mandates, hydrogen and synthetic fuels get the hype and VC dollars, and batteries get the short-haul hopes. All of those matter, but they share a problem. They are slow, expensive, infrastr",
+        "title_cn": "更好的飞行规划可以减少燃油和尾迹变暖"
+      },
+      {
+        "title": "The FMC Elektron Is Now Beyond The Prototyping Stage",
+        "link": "https://cleantechnica.com/2026/05/06/the-fmc-elektron-is-now-beyond-the-prototyping-stage/",
+        "pubDate": "Wed, 06 May 2026 17:09:16 +0000",
+        "description": "While much of the public discussion in the Philippines still revolves around jeepney modernization, Francisco Motors Corp (FMC) is working along a different track. Its upcoming vehicle, the FMC Elektron, is positioned as an all-electric crossover, marking a clear break from the company’s long associ",
+        "title_cn": "FMC Elektron现已超越原型阶段"
+      },
+      {
+        "title": "ARIDGE Land Aircraft Carrier: Modular Electrification Takes Flight",
+        "link": "https://cleantechnica.com/2026/05/06/aridge-land-aircraft-carrier-modular-electrification-takes-flight/",
+        "pubDate": "Wed, 06 May 2026 17:05:55 +0000",
+        "description": "XPENG gave us the opportunity to tour its facilities in Guangzhou, prior to traveling to Beijing for Auto China and to test drive VLA 2.0. One of the most interesting parts was the ARIDGE factory tour and flight demonstration. ARIDGE is a division of XPENG dedicated to electrified, highly automated ",
+        "title_cn": "ARIDGE陆地航空母舰：模块化电气化起飞"
+      },
       {
         "title": "Electric Buses Are Over Half Of National Park Site’s Bus Fleet",
         "link": "https://cleantechnica.com/2026/05/06/electric-buses-are-over-half-of-national-park-sites-bus-fleet/",
@@ -137,45 +172,10 @@
         "pubDate": "Wed, 06 May 2026 04:23:53 +0000",
         "description": "Removing clear targets for the use of remote sensing would severely undermine its air quality benefits. Dear TRAN MEPs, In April 2025, the European Commission published its proposal to revise the EU Roadworthiness Package, which introduced binding requirements for Member States to use remote sensing",
         "title_cn": "非政府组织和运输企业呼吁在道路适宜性一揽子计划中保持遥感规定"
-      },
-      {
-        "title": "Truckmaking Giants Favour Shareholder Payouts Over-Investing into the Zero-Emission Transition",
-        "link": "https://cleantechnica.com/2026/05/05/truckmaking-giants-favour-shareholder-payouts-over-investing-into-the-zero-emission-transition/",
-        "pubDate": "Wed, 06 May 2026 03:26:24 +0000",
-        "description": "In the lead-up to the first-ever EU truck CO2 target in 2025, major truckmakers have come to increasingly prioritise their shareholders over making the necessary investments in their own clean transition. In doing so, they risk losing out to new competition. The European Union adopted its first CO2 ",
-        "title_cn": "卡车巨头青睐股东过度投资零排放转型"
-      },
-      {
-        "title": "Advocates Host Press Conference Outside Las Vegas Advanced Clean Transportation Expo, Calling for Faster Transition to Electric Trucks",
-        "link": "https://cleantechnica.com/2026/05/05/advocates-host-press-conference-outside-las-vegas-advanced-clean-transportation-expo-calling-for-faster-transition-to-electric-trucks/",
-        "pubDate": "Wed, 06 May 2026 01:17:09 +0000",
-        "description": "LAS VEGAS — Today, a group of environmental, health, and environmental justice advocates hosted a press conference outside of the Las Vegas Convention Center during the Advanced Clean Transportation (ACT) Expo to highlight the benefits of a rapid transition to electric trucks and call out greenwashi",
-        "title_cn": "倡导在拉斯维加斯先进清洁交通博览会外举办新闻发布会，呼吁加快向电动卡车的过渡"
-      },
-      {
-        "title": "Ford Teases The Affordable EV Of The Future, But Where’s The Beef?",
-        "link": "https://cleantechnica.com/2026/05/05/ford-teases-the-affordable-ev-of-the-future-but-wheres-the-beef/",
-        "pubDate": "Wed, 06 May 2026 00:10:33 +0000",
-        "description": "High tech milling machines are among the tools at work at the Ford Electric Vehicle Development Center in Long Beach, California, where plans for a new, affordable EV are taking shape. The post Ford Teases The Affordable EV Of The Future, But Where&#8217;s The Beef? appeared first on CleanTechnica .",
-        "title_cn": "福特嘲笑未来经济实惠的电动汽车，但牛肉在哪里？"
-      },
-      {
-        "title": "Sierra Club Connecticut Statement on State Senate Passage of S.B. 319",
-        "link": "https://cleantechnica.com/2026/05/05/sierra-club-connecticut-statement-on-state-senate-passage-of-s-b-319/",
-        "pubDate": "Tue, 05 May 2026 23:41:02 +0000",
-        "description": "HARTFORD, Connecticut — The Connecticut Senate has passed S.B. 319, An Act Concerning the Use of Battery-Powered Leaf Blowers and Similar Equipment by the State and Municipalities. In response, Sierra Club Connecticut Organizer Julianna Larue released the following statement: “With half of Connectic",
-        "title_cn": "康涅狄格州塞拉俱乐部关于州参议院通过S.B. 319的声明"
-      },
-      {
-        "title": "To Glyphosate Or Not To Glyphosate — That Is The Question",
-        "link": "https://cleantechnica.com/2026/05/05/to-glyphosate-or-not-to-glyphosate-that-is-the-question/",
-        "pubDate": "Tue, 05 May 2026 23:37:05 +0000",
-        "description": "I supervise the health of our condo community&#8217;s private, half-mile dune. Our dune height ranges anywhere from 12 to 14 feet, and the width varies along the entire dune but averages about 150 feet. Invasive wedelia &#8212; once upon a time, it was the landscaping choice of developers due to ...",
-        "title_cn": "草甘膦或不草甘膦—这就是问题所在"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "energy_cn": {
     "items": [
@@ -249,27 +249,21 @@
       },
       {
         "title": "国富氢能附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOblM5bVFrcU9xb3pxcE1jYWwxMEttRGdBellZd1VrbEhLVFI2RjZYLW9JOUdpTEZsMUdfa25NQ09GbU1rcVhUZ3FaOWczX0NpbE1xcGM2ckdxQk4xNU5RR2FpbVg4a1ExZnlfNEluWGJMY25lVU93QWF3VkpHZWFCcnJ5OVdiS1NyM3A5Mm9BUXctZWY3VlREMG5PdndQangySi10X0RnbjgyS3U3bnNDSFVlem93OXhiZnlKTWRJYm0tTXNVWmJNVnFQcFd5THZGdTlMNllOYzFnYmpldGtWdWJkTEd2alBzajVLbUhoVVZmeGtmLVlaZDRHa3hERVQ3VDVhRzhoUnBITVZOYlVtemJtMA?oc=5",
-        "pubDate": "Wed, 06 May 2026 00:34:08 GMT",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRHR3aEFBb1k5UHdvQlRBQmszUWhTbkR3REJpR1lqc1pJRlo2XzdDWGkxMHhGeUtlV0R6RGF5cjhOU2tDVmtjdmxudnU5enFKU0QyZnFVS3oxZVpaOU1sM3djWF9rMlNtdTE1blFVUjhHNWdUVzluVW5xSnVDUUdsQ2UwN3Y2T3dXczl2c0IySUw0aTN1ZkR1VDUtYmVkdzJycGt2a1AwVkNwaGY4UVNsbHlIeHFPNWNLRnBCTElPeVZsOVd3aDFNSVRQTTVVd3hTMEJfbHRibERYSWZCNl9ScG1LdjF0ci1fbEl6YzU5WVJ1TnZkMlRTc0UxT2ZkcUVxQlEzMGF4NUQwZTlRbjZj?oc=5",
+        "pubDate": "Wed, 06 May 2026 00:24:12 GMT",
         "description": "国富氢能附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "“绿色电力+商业航天”概念：最正宗的6家公司（附名单） - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVVkTlI4SXR1c3lNYkdHODlLYUJYSVpwSTJlX0Y0R3lrbkdYR2pmbkxuUm54MGh6R3RrOW8zUlZ4YlVqenotSndJYlQtQlJzVTZaWWhkblJLUXRxMzFRbk1GTnFscTNxTnlkWkZlREg0VzN2Nk1zVmFEV0oyMHV1S0I1QWk3ODhyZU5WRg?oc=5",
-        "pubDate": "Wed, 06 May 2026 06:30:16 GMT",
-        "description": "“绿色电力+商业航天”概念：最正宗的6家公司（附名单） &nbsp;&nbsp; Sohu"
       },
       {
         "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
@@ -284,6 +278,12 @@
         "description": "新疆氢能展暨氢能发展大会将于2026年10月举办 &nbsp;&nbsp; 国际氢能网"
       },
       {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+      },
+      {
         "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
         "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Green Hydrogen Powerhouse: How Chile's Atacama Desert Is Rewriting Energy Rules",
-        "link": "https://fuelcellsworks.com/2026/05/04/clean-energy/first-hydrogen-bus-made-in-chile-it-has-a-capacity-for-24-passengers-and-a-maximum-speed-of-90-km-h",
-        "pubDate": "Tue, 05 May 2026 15:31:52 GMT",
+        "title": "Van Der Vlist Introduces Its New Hydrogen Truck",
+        "link": "https://fuelcellsworks.com/2026/05/05/h2/van-der-vlist-introduces-its-new-hydrogen-truck",
+        "pubDate": "Wed, 06 May 2026 16:07:42 GMT",
         "description": "",
-        "title_cn": "绿色氢能发电厂：智利的阿塔卡马沙漠如何重写能源规则"
+        "title_cn": "Van Der Vlist推出全新氢能卡车"
       },
       {
-        "title": "First Hydrogen Assembles Advanced Robotics and Ugv Drone Development Team",
-        "link": "https://fuelcellsworks.com/2026/05/05/fuel-cells/first-hydrogen-assembles-advanced-robotics-and-ugv-drone-development-team",
-        "pubDate": "Tue, 05 May 2026 15:23:00 GMT",
+        "title": "OMV's €65M [$70.5M] Austrian Hub Puts Green Hydrogen and CO₂ Tech Front and Centre",
+        "link": "https://fuelcellsworks.com/2026/05/06/green-hydrogen/omv-s-65m-70-5m-austrian-hub-puts-green-hydrogen-and-co-tech-front-and-centre",
+        "pubDate": "Wed, 06 May 2026 16:06:00 GMT",
         "description": "",
-        "title_cn": "First Hydrogen组建先进机器人和Ugv无人机开发团队"
+        "title_cn": "OMV的€ 6500万[$ 7050万]奥地利中心将绿色氢气和二氧化碳技术置于前沿和中心"
       },
       {
-        "title": "Algeria-Italy Talks Highlight Hydrogen, Industrial Cooperation Push",
-        "link": "https://fuelcellsworks.com/2026/05/05/h2/algeria-italy-talks-highlight-hydrogen-industrial-cooperation-push",
-        "pubDate": "Tue, 05 May 2026 15:13:34 GMT",
+        "title": "Rux Energy Wins AU$857,000 [$547K] to Build AI-Driven Hydrogen Storage for Singapore Export",
+        "link": "https://fuelcellsworks.com/2026/05/06/h2/rux-energy-wins-au-857-000-547k-to-build-ai-driven-hydrogen-storage-for-singapore-export",
+        "pubDate": "Wed, 06 May 2026 16:05:00 GMT",
         "description": "",
-        "title_cn": "阿尔及利亚-意大利会谈强调氢能，推动产业合作"
+        "title_cn": "Rux Energy赢得857,000澳元[$ 547K] ，用于为新加坡出口建造人工智能驱动的储氢系统"
       },
       {
-        "title": "NewHydrogen Drives Toward Commercial Success",
-        "link": "https://fuelcellsworks.com/2026/05/05/clean-energy/newhydrogen-drives-toward-commercial-success",
-        "pubDate": "Tue, 05 May 2026 15:12:19 GMT",
+        "title": "Swiss Geo Energy Secures Surface Exploration Permit for Jorat Project in the Canton of Vaud",
+        "link": "https://fuelcellsworks.com/2026/05/06/clean-hydrogen/swiss-geo-energy-secures-surface-exploration-permit-for-jorat-project-in-the-canton-of-vaud",
+        "pubDate": "Wed, 06 May 2026 16:00:52 GMT",
         "description": "",
-        "title_cn": "NewHydrogen推动商业成功"
+        "title_cn": "Swiss Geo Energy获得沃州Jorat项目的地表勘探许可"
       },
       {
-        "title": "HyOrc Provides Indicative Methanol Production Cost Range and Commercial Positioning Following Technology Validation",
-        "link": "https://fuelcellsworks.com/2026/05/05/clean-energy/hyorc-provides-indicative-methanol-production-cost-range-and-commercial-positioning-following-technology-validation",
-        "pubDate": "Tue, 05 May 2026 15:00:25 GMT",
+        "title": "China Advances Underground Hydrogen Storage Projects",
+        "link": "https://fuelcellsworks.com/2026/05/03/h2/china-advances-underground-hydrogen-storage-projects",
+        "pubDate": "Wed, 06 May 2026 15:46:08 GMT",
         "description": "",
-        "title_cn": "HyOrc在技术验证后提供指示性甲醇生产成本范围和商业定位"
+        "title_cn": "中国推进地下储氢项目"
       },
       {
-        "title": "Peru's Arequipa Advances Hydrogen Hub Plans with International Backing",
-        "link": "https://fuelcellsworks.com/2026/05/05/green-investment/peru-s-arequipa-advances-hydrogen-hub-plans-with-international-backing",
-        "pubDate": "Tue, 05 May 2026 14:51:54 GMT",
+        "title": "UL Solutions Launches Certification Services for Hydrogen Fueling Components, Helping to Build Safety Into the Adoption of Hydrogen Power",
+        "link": "https://fuelcellsworks.com/2026/05/06/hydrogen/ul-solutions-launches-certification-services-for-hydrogen-fueling-components-helping-to-build-safety-into-the-adoption-of-hydrogen-power",
+        "pubDate": "Wed, 06 May 2026 15:42:01 GMT",
         "description": "",
-        "title_cn": "秘鲁阿雷基帕在国际支持下推进氢能中心计划"
+        "title_cn": "UL Solutions推出氢燃料组件认证服务，帮助提高采用氢动力的安全性"
       },
       {
-        "title": "UT Startup To Scale Hydrogen Fuel Cell Tech With UT Seed Fund Investment",
-        "link": "https://fuelcellsworks.com/2026/05/05/hydrogen/ut-startup-to-scale-hydrogen-fuel-cell-tech-with-ut-seed-fund-investment",
-        "pubDate": "Tue, 05 May 2026 14:49:50 GMT",
+        "title": "€2.1 Billion Mediterranean Hydrogen Pipeline to Break Russian Energy Dependence",
+        "link": "https://fuelcellsworks.com/2026/05/05/h2/2-1-billion-mediterranean-hydrogen-pipeline-to-break-russian-energy-dependence",
+        "pubDate": "Wed, 06 May 2026 15:35:32 GMT",
         "description": "",
-        "title_cn": "UT初创公司通过UT种子基金投资扩大氢燃料电池技术的规模"
+        "title_cn": "€ 21亿的地中海氢能管道将打破俄罗斯对能源的依赖"
       },
       {
-        "title": "Yanqing Hydrogen-Powered Buses at the Strawberry Music Festival",
-        "link": "https://fuelcellsworks.com/2026/05/04/fuel-cells/yanqing-hydrogen-powered-buses-at-the-strawberry-music-festival",
-        "pubDate": "Tue, 05 May 2026 14:38:16 GMT",
+        "title": "IPC and IIH Joint Venture Launch Green Hydrogen Platform in UAE",
+        "link": "https://fuelcellsworks.com/2026/05/06/green-hydrogen/ipc-and-iih-joint-venture-launch-green-hydrogen-platform-in-uae",
+        "pubDate": "Wed, 06 May 2026 15:31:09 GMT",
         "description": "",
-        "title_cn": "草莓音乐节上的延庆氢动力公交车"
+        "title_cn": "IPC和IIH合资企业在阿联酋推出绿色氢平台"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "papers": {
     "items": [
@@ -429,21 +429,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyRktaM2NTbVY4OENWTmRtbVBqRmIzUW1ORTFLX2NlN21rSDU2TW1GUXZWMnJQMUpneVIzOGpHWWtRTGpycE03UnlKYU5icmhIU0dvNw?oc=5",
-        "pubDate": "Wed, 06 May 2026 01:35:18 GMT",
-        "description": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyRktaM2NTbVY4OENWTmRtbVBqRmIzUW1ORTFLX2NlN21rSDU2TW1GUXZWMnJQMUpneVIzOGpHWWtRTGpycE03UnlKYU5icmhIU0dvNw?oc=5",
+        "pubDate": "Wed, 06 May 2026 01:35:18 GMT",
+        "description": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "“十五五”氢能爆了！万亿赛道休想“野蛮生长”！ - 世纪新能源网",
@@ -478,12 +478,12 @@
       {
         "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 00:04:00 GMT",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
         "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -498,12 +498,6 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
         "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
-        "pubDate": "Sun, 03 May 2026 00:59:09 GMT",
-        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
       },
       {
         "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
@@ -524,19 +518,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
+        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
+        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
       },
       {
         "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
         "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
         "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
+      },
+      {
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-06 15:58 UTC"
+    "updated": "2026-05-06 22:42 UTC"
   }
 }
