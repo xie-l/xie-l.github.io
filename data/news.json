@@ -59,10 +59,16 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "最前线|将彩色打印与激光切割合二为一，xTool发布新品",
+        "link": "https://36kr.com/p/3798845086882820?f=rss",
+        "pubDate": "2026-05-07 14:25:37  +0800",
+        "description": "文｜张子怡 编辑｜袁斯来 36氪获悉，个人创意工具品牌xTool于今日正式发布其新款消费级激光创作工具——xTool M2彩色智能激光雕刻机。 在目前的消费级激光雕刻市场中，用户面临的一个核心痛点在于“机械加工与色彩表现”的脱节：传统的激光雕刻机擅长物理切割与灼烧成痕，但若要制作彩色作品，用户往往需要经历繁琐的手动涂色、转印或多台设备切换对位，过程既复杂又难以保证精度。 xTool M2试图通过硬件层面的深度整合，将喷墨打印、激光雕刻与激光切割三项功能集成在单一设备内，让用户在同一套桌面流程中完成从设计到成品的闭环。 在具体的硬件定义上，xTool M2采用了模块化的设计思路。为了适配不同层级"
+      },
       {
         "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
         "link": "https://36kr.com/p/3797662460419337?f=rss",
@@ -104,19 +110,55 @@
         "link": "https://36kr.com/p/3797276726893569?f=rss",
         "pubDate": "2026-05-06 12:04:59  +0800",
         "description": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600mAh 超巨量「冰川电池」 + 120W 超级闪充组合，首发自研OPPO冰川电池聚能芯片，支持IP66/IP68/IP69/IP69K满级防尘防水，并搭载超流畅更 AI 的新一代ColorOS 16，以"
-      },
-      {
-        "title": "早期项目 | 德国宇航局工程师创业，让硬件开发进入“vibe时代”",
-        "link": "https://36kr.com/p/3797224394284033?f=rss",
-        "pubDate": "2026-05-06 10:57:18  +0800",
-        "description": "“传统工业软件太难用了。” 这是Orthogonal的创始人吉洋和他身边一大批工业界同行的共同感受。 “AI时代，软件开发已经可以用Cursor做vibe coding了，而硬件设计还停留在原始社会”吉洋在接受硬氪采访时表示，达索、ANSYS等巨头构建的，是一个由高昂授权费和极陡学习曲线砌成的“高墙”， Orthogonal想做的，是把“vibe”的方式带入硬件开发。 Orthogonal创始人吉洋曾在德国宇航局（DLR）及工业界深耕了近二十年，参与过达索系统仿真工具核心功能的研发，领导了空客A350宽体客机电气系统的研发，并在库卡、宝马、西门子高速列车、中国商飞、华为、中国航空发动机集团等全"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "LANDKING Makes Electric Trucks Look Inevitable at Auto China",
+        "link": "https://cleantechnica.com/2026/05/06/landking-makes-electric-trucks-look-inevitable-at-auto-china/",
+        "pubDate": "Thu, 07 May 2026 03:59:47 +0000",
+        "description": "When I landed in Guangzhou on my recent trip to China and was heading to my hotel, one of the first things I noticed was significantly more electric trucks on the road than just a few months prior. Sometimes there were older boxes on the back of new truck chassis, ... [continued] The post LANDKING M",
+        "title_cn": "LANDKING使电动卡车在汽车中国看起来不可避免"
+      },
+      {
+        "title": "Sierra Club Endorses Tom Steyer for California Governor",
+        "link": "https://cleantechnica.com/2026/05/06/sierra-club-endorses-tom-steyer-for-california-governor/",
+        "pubDate": "Thu, 07 May 2026 03:58:56 +0000",
+        "description": "Sacramento, CA — Today, Sierra Club announced its endorsement of Tom Steyer for Governor of California, backing a candidate with a long record of investing in climate solutions, taking on Big Oil, and helping build the coalitions needed to win major environmental fights. “Tom Steyer has not just tal",
+        "title_cn": "塞拉俱乐部为加利福尼亚州州长Tom Steyer背书"
+      },
+      {
+        "title": "Coal Distributions for Non-Electric Power Use Decline in the South",
+        "link": "https://cleantechnica.com/2026/05/06/coal-distributions-for-non-electric-power-use-decline-in-the-south/",
+        "pubDate": "Thu, 07 May 2026 03:57:23 +0000",
+        "description": "The volume of coal delivered in the United States for uses other than power generation—primarily, for manufacturing—decreased by about half in the last 15 years. Coal delivered for these purposes in the South decreased the most in percentage terms between 2010 and 2025, falling 75%, or 14.7 million ",
+        "title_cn": "南部非电力使用煤炭分配下降"
+      },
+      {
+        "title": "Commercial Electricity Sales Have Soared in Virginia, Driven by Data Centers",
+        "link": "https://cleantechnica.com/2026/05/06/commercial-electricity-sales-have-soared-in-virginia-driven-by-data-centers/",
+        "pubDate": "Thu, 07 May 2026 03:56:24 +0000",
+        "description": "Commercial electricity sales in Virginia increased by nearly 30.0 million megawatthours (MWh) between 2019 and 2025, much faster growth than in any other state except Texas, a much larger state, according to our Annual Electric Power Industry Report. The growth in sales of electricity in Virginia is",
+        "title_cn": "在数据中心的推动下，弗吉尼亚州的商业电力销售飙升"
+      },
+      {
+        "title": "Insane Stratos Data Center Approval Threatens Great Salt Lake Basin",
+        "link": "https://cleantechnica.com/2026/05/06/insane-stratos-data-center-approval-threatens-great-salt-lake-basin/",
+        "pubDate": "Thu, 07 May 2026 03:47:09 +0000",
+        "description": "Project is expected to double Utah’s power demand, guzzle scarce water resources. Salt Lake City — Box Elder County Commissioners voted on Monday to approve the Stratos Data Center, a massive project set to become one of the largest in the country. The facility will be built in the Great ... [contin",
+        "title_cn": "疯狂的Stratos数据中心批准威胁到大盐湖盆地"
+      },
+      {
+        "title": "Sierra Club Statement on Interior’s Decision to Give Away 1.4 Million Acres of National Public Lands for Mining and Drilling Projects",
+        "link": "https://cleantechnica.com/2026/05/06/sierra-club-statement-on-interiors-decision-to-give-away-1-4-million-acres-of-national-public-lands-for-mining-and-drilling-projects/",
+        "pubDate": "Thu, 07 May 2026 03:44:36 +0000",
+        "description": "WASHINGTON, D.C. — The Department of the Interior announced today that it intends to transfer approximately 1.4 million acres of national public lands in Alaska’s Dalton Utility Corridor to the State of Alaska. The transfer follows the Trump administration’s unlawful earlier decision to revoke prote",
+        "title_cn": "塞拉俱乐部关于内政部决定将140万英亩国家公共土地用于采矿和钻井项目的声明"
+      },
       {
         "title": "New Analysis Reveals Massive Water Use by Texas Power Plants",
         "link": "https://cleantechnica.com/2026/05/06/new-analysis-reveals-massive-water-use-by-texas-power-plants/",
@@ -130,52 +172,10 @@
         "pubDate": "Wed, 06 May 2026 22:40:11 +0000",
         "description": "By Dr. Thomas Nann, CEO and Co-Founder of Allegro The biggest constraint facing AI data centre expansion is not generation. It is storage, and not only storage, but the unique way that AI data centre’s use power. As AI-driven data centres scale, the grid challenge is no longer simply how ... [contin",
         "title_cn": "人工智能数据中心需要大电池，但锂不适合用途"
-      },
-      {
-        "title": "Vienna’s Hydrogen Bus Failure Is A Warning To Transit Agencies",
-        "link": "https://cleantechnica.com/2026/05/06/viennas-hydrogen-bus-failure-is-a-warning-to-transit-agencies/",
-        "pubDate": "Wed, 06 May 2026 20:37:17 +0000",
-        "description": "Seven of Vienna’s ten new hydrogen buses are sidelined because CaetanoBus cannot supply ordinary spare parts. Not hydrogen tanks. Not fuel-cell stacks. Not high-pressure valves. Door compressors and blind-spot monitoring systems. That is what makes the case important for transit procurement agencies",
-        "title_cn": "维也纳的氢能公交车故障是对运输机构的警告"
-      },
-      {
-        "title": "Better Flight Planning Can Cut Fuel & Contrail Warming",
-        "link": "https://cleantechnica.com/2026/05/06/better-flight-planning-can-cut-fuel-contrail-warming/",
-        "pubDate": "Wed, 06 May 2026 18:48:46 +0000",
-        "description": "Aviation’s decarbonization debate spends most of its time in the fuel tank. Sustainable aviation fuel gets the mandates, hydrogen and synthetic fuels get the hype and VC dollars, and batteries get the short-haul hopes. All of those matter, but they share a problem. They are slow, expensive, infrastr",
-        "title_cn": "更好的飞行规划可以减少燃油和尾迹变暖"
-      },
-      {
-        "title": "The FMC Elektron Is Now Beyond The Prototyping Stage",
-        "link": "https://cleantechnica.com/2026/05/06/the-fmc-elektron-is-now-beyond-the-prototyping-stage/",
-        "pubDate": "Wed, 06 May 2026 17:09:16 +0000",
-        "description": "While much of the public discussion in the Philippines still revolves around jeepney modernization, Francisco Motors Corp (FMC) is working along a different track. Its upcoming vehicle, the FMC Elektron, is positioned as an all-electric crossover, marking a clear break from the company’s long associ",
-        "title_cn": "FMC Elektron现已超越原型阶段"
-      },
-      {
-        "title": "ARIDGE Land Aircraft Carrier: Modular Electrification Takes Flight",
-        "link": "https://cleantechnica.com/2026/05/06/aridge-land-aircraft-carrier-modular-electrification-takes-flight/",
-        "pubDate": "Wed, 06 May 2026 17:05:55 +0000",
-        "description": "XPENG gave us the opportunity to tour its facilities in Guangzhou, prior to traveling to Beijing for Auto China and to test drive VLA 2.0. One of the most interesting parts was the ARIDGE factory tour and flight demonstration. ARIDGE is a division of XPENG dedicated to electrified, highly automated ",
-        "title_cn": "ARIDGE陆地航空母舰：模块化电气化起飞"
-      },
-      {
-        "title": "Electric Buses Are Over Half Of National Park Site’s Bus Fleet",
-        "link": "https://cleantechnica.com/2026/05/06/electric-buses-are-over-half-of-national-park-sites-bus-fleet/",
-        "pubDate": "Wed, 06 May 2026 12:43:46 +0000",
-        "description": "The Presidio in San Francisco is something of a gem with its open spaces and great views. For some period in its history, it served as a military base, but now it is home to nonprofit organizations, museums, and restaurants. The entire grounds cover 1,500 acres of land near the ... [continued] The p",
-        "title_cn": "国家公园一半以上的公交车都是电动公交车"
-      },
-      {
-        "title": "Solar Experts Offer a Solution to Satisfy Both Sides in Ivanpah Decommissioning Battle",
-        "link": "https://cleantechnica.com/2026/05/06/solar-experts-offer-a-solution-to-satisfy-both-sides-in-ivanpah-decommissioning-battle/",
-        "pubDate": "Wed, 06 May 2026 11:51:21 +0000",
-        "description": "Two California electric utilities have moved to exit long-term contracts to buy power from Ivanpah, a unique first-of-its-kind utility-scale solar tower project that has delivered only around 70–80% of its projected annual generation since it began operating in 2014. The partners, which included Goo",
-        "title_cn": "太阳能专家提供解决方案以满足伊万帕退役战斗中的双方"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,83 +353,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "A Pinned Local Langlands Correspondence for Depth-Zero Supercuspidal Representations",
-        "link": "https://arxiv.org/abs/2605.05201v1",
-        "pubDate": "2026-05-06T17:58:20Z",
-        "description": "We construct a pinned local Langlands correspondence for depth-zero supercuspidal representations of a connected reductive group over a non-archimedean local field. After fixing a pinned splitting of the quasi-split inner form, we obtain a canonical bijection between irreducible depth-zero supercusp",
-        "title_cn": "深度零超皮层表示的固定局部Langlands对应关系"
-      },
-      {
-        "title": "Field-induced asymmetric band flattening and ideal quantum geometry in rhombohedral graphene",
-        "link": "https://arxiv.org/abs/2605.05199v1",
-        "pubDate": "2026-05-06T17:58:08Z",
-        "description": "Rhombohedral graphene exhibits an exceptionally diverse array of correlated phases that depend sensitively on the displacement field. Compiling reported phases into a unified phase diagram reveals a pronounced field-dependent electron-hole asymmetry: correlated states on the hole-doped side emerge a",
-        "title_cn": "菱形石墨烯中的场致不对称带平坦化和理想量子几何"
-      },
-      {
-        "title": "Frustrated magnetic order in hybrid Kitaev spin-orbital models",
-        "link": "https://arxiv.org/abs/2605.05196v1",
-        "pubDate": "2026-05-06T17:56:19Z",
-        "description": "Spin-orbital generalization of Kitaev model provides a robust extension to the original Kitaev model. However, real materials often exhibit competing interactions that break exact solvability which can give rise to new phases. Motivated by recent microscopic proposals of coexisting Yao-Lee and Kitae",
-        "title_cn": "混合Kitaev自旋轨道模型中的挫折磁序"
-      },
-      {
-        "title": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours",
-        "link": "https://arxiv.org/abs/2605.05170v1",
-        "pubDate": "2026-05-06T17:40:03Z",
-        "description": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec. 2025), we introduced \"Design Conductor\" (or just \"Conductor\"), a system capable of building a 5-stage Linux-capable RISC-V CPU in 12 hours. In this ",
-        "title_cn": "Design Conductor 2.0 ：代理在80小时内构建TurboQuant推理加速器"
-      },
-      {
-        "title": "Deterministic identification for Bernoulli channels and related channels with continuous input",
-        "link": "https://arxiv.org/abs/2605.05168v1",
-        "pubDate": "2026-05-06T17:36:39Z",
-        "description": "For memoryless channels with continuous input alphabets, deterministic identification (DI) typically exhibits a linearithmic ($n\\log n$) message growth. However, the exact DI capacity has long remained open due to a persistent gap between the best known achievability and converse bounds. This gap wa",
-        "title_cn": "具有连续输入的伯努利通道和相关通道的确定性识别"
-      },
-      {
-        "title": "Dynamical correlations in a dissipative XXZ spin chain",
-        "link": "https://arxiv.org/abs/2605.05162v1",
-        "pubDate": "2026-05-06T17:32:49Z",
-        "description": "We study dynamical spin correlations in a dissipative XXZ spin chain subject to uniform local spin-loss and pumping. Starting from a mixed steady state that is featureless albeit possessing finite magnetization, rich dynamics emerges in time-dependent two-point correlators evaluated on top of it. Fo",
-        "title_cn": "耗散XXZ自旋链中的动态相关性"
-      },
-      {
-        "title": "The Saturable Electronic Reluctance Switch: Switchable low-power and low-noise generation of magnetic fields using permanent magnets",
-        "link": "https://arxiv.org/abs/2605.05158v1",
-        "pubDate": "2026-05-06T17:28:54Z",
-        "description": "Across many areas of science, there is a need to generate magnetic fields that are both ultra-stable and switchable on and off. While permanent and superconducting magnets offer exceptionally low-noise fields, they are not readily switchable. Conversely, electromagnets are switchable but are suscept",
-        "title_cn": "可饱和电子磁阻开关：使用永久磁铁可切换的低功耗和低噪声磁场生成"
-      },
-      {
-        "title": "Turbulent damping of fast tidal oscillations by three-dimensional Rayleigh-Bénard convection with a radiating free surface",
-        "link": "https://arxiv.org/abs/2605.05108v1",
-        "pubDate": "2026-05-06T16:41:14Z",
-        "description": "We present three-dimensional Dedalus simulations of Rayleigh-Bénard convection with a blackbody-radiating free upper surface, subject to a low-amplitude oscillatory forcing that mimics tidal perturbations in convective envelopes of stars and planets. The forcing period is 10-100 times shorter than t",
-        "title_cn": "具有辐射自由面的三维瑞利-贝纳德对流对快速潮汐振荡的湍流阻尼"
-      },
-      {
-        "title": "Minimizing the Expected Cost of Synchronization in Lossless Power Networks",
-        "link": "https://arxiv.org/abs/2605.05105v1",
-        "pubDate": "2026-05-06T16:39:22Z",
-        "description": "The reliable operation of large-scale electric power networks is increasingly challenging, particularly with the integration of stochastic renewable generation. In this work, we address the problem of minimizing network transients by optimally modifying the underlying network. We formulate the probl",
-        "title_cn": "最大限度地降低无损电网同步的预期成本"
-      },
-      {
-        "title": "A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry",
-        "link": "https://arxiv.org/abs/2605.05095v1",
-        "pubDate": "2026-05-06T16:32:55Z",
-        "description": "We develop a framework for task-specific active next-best-view selection in 3D reconstruction from point clouds, by casting the problem in the language of Bayesian decision theory. Our framework works by (a) placing a prior distribution over the space of implicit surfaces, (b) using recently-develop",
-        "title_cn": "具有不确定几何的任务特定下一个最佳视图选择的贝叶斯方法"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +412,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -498,6 +427,12 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
         "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
+        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
+        "pubDate": "Sun, 03 May 2026 00:59:09 GMT",
+        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
       },
       {
         "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
@@ -524,12 +459,6 @@
         "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
       },
       {
-        "title": "链上数字｜绿证激活“绿色”链博会 - jwview.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXSEpLaDNRWDZUMkZJcXJfaFNYMldQamZzbTE5ZTNhNDRONzFjMG1oZUtlR1NISkFSenRSODYwV2tkWVpNNG5jVkswSlhEb2lXS1JfS0M0UXI3SXpYNG12cy1Zcm5lSjg?oc=5",
-        "pubDate": "Mon, 21 Jul 2025 07:00:00 GMT",
-        "description": "链上数字｜绿证激活“绿色”链博会 &nbsp;&nbsp; jwview.com"
-      },
-      {
         "title": "新能源消纳迎新政，首次将非电消费纳入考核 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12RVZMT0kyeHdrN0Z1WklPMjRNTDdHNVJHeFNUT3pyRzNuRWRIZWpfc1dzRmdlYjlmUGRLZXdOZlltRTM4ZWZlb2w4NHF2SXJpT3BnSDdqRElWZk0taWtVRTdVMnd1TFRTV3RxdDhPMlRldFVwRDBMUQ?oc=5",
         "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
@@ -537,6 +466,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-07 05:26 UTC"
+    "updated": "2026-05-07 09:27 UTC"
   }
 }
