@@ -2,11 +2,46 @@
   "tech": {
     "items": [
       {
+        "title": "Radioactive rain and proving relativity: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-01500-0",
+        "pubDate": "2026-05-08",
+        "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01500-0 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "放射性雨水和证明相对论：书籍简介"
+      },
+      {
         "title": "Surge in fake citations uncovered by audit of 2.5 million biomedical science papers",
         "link": "https://www.nature.com/articles/d41586-026-00748-w",
         "pubDate": "2026-05-08",
         "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-00748-w An analysis of 97 million citations has found that rates of fabricated citations have climbed steeply since 2023.",
         "title_cn": "通过对250万篇生物医学科学论文的审计发现的虚假引文激增"
+      },
+      {
+        "title": "Matter of taste",
+        "link": "https://www.nature.com/articles/d41586-026-01079-6",
+        "pubDate": "2026-05-08",
+        "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01079-6 It’s hard to swallow.",
+        "title_cn": "品味问题"
+      },
+      {
+        "title": "A life in pictures: celebrating David Attenborough at 100",
+        "link": "https://www.nature.com/articles/d41586-026-01371-5",
+        "pubDate": "2026-05-08",
+        "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01371-5 As the British naturalist marks a milestone birthday, we take a look at how his work has shaped science.",
+        "title_cn": "图片中的生活：庆祝100岁的David Attenborough"
+      },
+      {
+        "title": "How a passion for baking fermented a fresh career move",
+        "link": "https://www.nature.com/articles/d41586-026-01390-2",
+        "pubDate": "2026-05-08",
+        "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01390-2 Chantle Edillor used a fascination with sourdough starters to pivot from studying human diseases to exploring yeast-based cures.",
+        "title_cn": "对烘焙的热情如何发酵出新的职业生涯"
+      },
+      {
+        "title": "Happy 100th birthday David Attenborough! Nature salutes you",
+        "link": "https://www.nature.com/articles/d41586-026-01473-0",
+        "pubDate": "2026-05-08",
+        "description": "Nature, Published online: 08 May 2026; doi:10.1038/d41586-026-01473-0 The science communicator has raised awareness of the natural world andits myriad interconnections on which humans depend.",
+        "title_cn": "大卫·阿滕伯勒（ David Attenborough ） 100岁生日快乐！大"
       },
       {
         "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
@@ -21,48 +56,19 @@
         "pubDate": "2026-05-07",
         "description": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01494-9 Virologist Jay Hooper is developing a vaccine for the rare rodent virus behind an outbreak on a cruise ship.",
         "title_cn": "没有针对致命汉坦病毒的疫苗：这对未来疫情意味着什么"
-      },
-      {
-        "title": "Early-career researchers do more ‘disruptive’ science than veterans",
-        "link": "https://www.nature.com/articles/d41586-026-01466-z",
-        "pubDate": "2026-05-07",
-        "description": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01466-z Analysis of papers from millions of scientists shows that older researchers tend to stick with ideas from their past.",
-        "title_cn": "职业生涯早期的研究人员比退伍军人做更多的“颠覆性”科学"
-      },
-      {
-        "title": "OpenAI is under criminal investigation — why chatbots don’t always follow the law",
-        "link": "https://www.nature.com/articles/d41586-026-01405-y",
-        "pubDate": "2026-05-07",
-        "description": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01405-y A person accused of murder in Florida allegedly sought ChatGPT's advice to plan the crime.",
-        "title_cn": "OpenAI正在接受刑事调查—为什么聊天机器人并不总是遵守法律"
-      },
-      {
-        "title": "My English skills are hurting my chances in academic publishing — how can I improve?",
-        "link": "https://www.nature.com/articles/d41586-026-01350-w",
-        "pubDate": "2026-05-07",
-        "description": "Nature, Published online: 07 May 2026; doi:10.1038/d41586-026-01350-w A non-fluent English speaker struggles to navigate language barriers in academic publishing.",
-        "title_cn": "我的英语技能正在损害我在学术出版领域的机会--我该如何改进？"
-      },
-      {
-        "title": "Author Correction: Enteric neurons increase maternal food intake during reproduction",
-        "link": "https://www.nature.com/articles/s41586-026-10201-7",
-        "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10201-7 Author Correction: Enteric neurons increase maternal food intake during reproduction",
-        "title_cn": "作者更正：肠神经元在生殖过程中增加母体食物摄入量"
-      },
-      {
-        "title": "Author Correction: Multidimensional profiling of heterogeneity in supratentorial ependymomas",
-        "link": "https://www.nature.com/articles/s41586-026-10602-8",
-        "pubDate": "2026-05-06",
-        "description": "Nature, Published online: 06 May 2026; doi:10.1038/s41586-026-10602-8 Author Correction: Multidimensional profiling of heterogeneity in supratentorial ependymomas",
-        "title_cn": "作者更正：幕上室管膜瘤异质性的多维分析"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "「维新宇航」完成数千万元天使+轮融资，7座3吨级eVTOL将于7月进行首飞测试｜36氪首发",
+        "link": "https://36kr.com/p/3800495686163721?f=rss",
+        "pubDate": "2026-05-08 18:25:58  +0800",
+        "description": "文&nbsp;|&nbsp;阿至 36氪获悉， 低空出行产品研制商「维新宇航」已完成数千万元天使+轮融资，本轮融资由策源资本领投、金舵投资跟投， 资金将主要用于加速公司首款主力机型 Vector 5的研发迭代、首飞测试与适航取证进程。 维新宇航成立于2023年，是36氪长期关注的企业，其专注于大载客量、大载重eVTOL/eCTOL产品的研发及制造。 加上6个月前连续完成的种子轮、天使轮，目前维新宇航已完成三轮融资，累计资金交割总额超亿元人民币。 现阶段，维新宇航的 主力机型Vector 5为一款7座3吨级纯电复合翼eVTOL ，该机型专注于应急救援和医疗急救等民生刚需场景，最大起飞重量为318"
+      },
       {
         "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
         "link": "https://36kr.com/p/3800183520091398?f=rss",
@@ -104,19 +110,34 @@
         "link": "https://36kr.com/p/3786528811572481?f=rss",
         "pubDate": "2026-05-07 19:31:32  +0800",
         "description": "文｜王毓婵 周鑫雨 编辑｜杨轩 “看流水（即营收），AI视频类这些项目的表现确实很不错，可以说是AI最赚钱的细分赛道之一。”投资行业人士对36氪说。&nbsp; 中国 AI 视频生成赛道，正在经历大厂模型能力疯狂增长的巨大红利。来自字节跳动的Seedance和来自快手的可灵这两款“超级底座”正在进行一周一小版、两月一大版的高频迭代。阿里巴巴也在4月底，对视频生成模型HappyHorse 1.0开启灰测，720P视频生成刊例价为0.9元/秒。&nbsp; 愿意为此花钱的内容创作者太多了，太急迫了。众多短剧、内容公司排队等待使用Seedance2.0已经成为2026年AI世界的一个奇观。由此，在A"
-      },
-      {
-        "title": "氪星晚报 ｜千问PC端上线AI语音输入；宝马一季度利润降25%，至23亿欧元",
-        "link": "https://36kr.com/p/3799089350712324?f=rss",
-        "pubDate": "2026-05-07 18:47:09  +0800",
-        "description": "大公司： 腾讯等入股机器人灵巧手研发商临界点 36氪获悉，天眼查App显示，近日，上海临界点创新智能科技有限公司发生工商变更，新增腾讯旗下上海启善投资有限公司、百度旗下三亚百川致新私募股权投资基金合伙企业（有限合伙）等为股东，同时，注册资本由约554万人民币增至约597万人民币。 该公司成立于今年1月，法定代表人为王闯，经营范围包括人工智能硬件销售、智能机器人销售、智能机器人的研发等，现由智元创新（上海）科技股份有限公司、上海蓝驰新皓创业投资合伙企业（有限合伙）及上述新增股东等共同持股。公开资料显示，该公司由智元机器人将其灵巧手业务拆分而成立，是一家专注于机器人末端执行器，特别是灵巧手研发与生"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Autonomous Logistics Scaling Rapidly In China",
+        "link": "https://cleantechnica.com/2026/05/08/autonomous-logistics-scaling-rapidly-in-china/",
+        "pubDate": "Fri, 08 May 2026 14:44:44 +0000",
+        "description": "In my recent article on trucks in China, the shift to electrification is increasingly prevalent and seems inevitable. Jake also recently posted on an autonomous freight startup in the US. However, electrified, autonomous logistics is becoming increasingly common in Chinese cities and is rapidly comm",
+        "title_cn": "自主物流在中国快速扩张"
+      },
+      {
+        "title": "240 New Electric Buses Coming To German City",
+        "link": "https://cleantechnica.com/2026/05/08/240-new-electric-buses-coming-to-german-city/",
+        "pubDate": "Fri, 08 May 2026 14:30:22 +0000",
+        "description": "It was only about a month ago it was announced that Copenhagen’s city buses are now 100 percent electric. Other European cities are electrifying their bus fleets too, as we see with a new announcement about 240 electric buses planned for Hamburg, Germany by 2031. The plan for 240 electric ... [conti",
+        "title_cn": "240辆新电动公交车即将进入德国城市"
+      },
+      {
+        "title": "Rivian R2 Extra Features, Other Variants, and In-House Lidar?",
+        "link": "https://cleantechnica.com/2026/05/08/rivian-r2-extra-features-other-variants-and-in-house-lidar/",
+        "pubDate": "Fri, 08 May 2026 13:53:01 +0000",
+        "description": "Rivian is now producing its new, more affordable (semi-affordable), more mass-market model, the R2. We now have a bit more news coming out about it to go along with this launch. The R2 has me both excited and nervous. It&#8217;s a potentially very popular model that could boost the EV ... [continued",
+        "title_cn": "Rivian R2额外功能、其他变体和内部激光雷达？"
+      },
       {
         "title": "EV Penetration Continues to Grow Down Under — April Update",
         "link": "https://cleantechnica.com/2026/05/07/ev-penetration-continues-to-grow-down-under-april-update/",
@@ -151,31 +172,10 @@
         "pubDate": "Fri, 08 May 2026 00:43:39 +0000",
         "description": "Betting against China in space has become one of those comfortable Western assumptions that deserves to be retired. It sits beside earlier assumptions that Chinese solar would remain second tier, Chinese EVs would remain cheap copies, and Chinese batteries would never define global cost curves. The ",
         "title_cn": "太空正在成为气候基础设施，中国知道这一点"
-      },
-      {
-        "title": "Republican Group Pushing to Undo Elon Musk’s USAID Cuts",
-        "link": "https://cleantechnica.com/2026/05/07/republican-group-pushing-to-undo-elon-musks-usaid-cuts/",
-        "pubDate": "Fri, 08 May 2026 00:42:33 +0000",
-        "description": "This was an interesting surprise. Elon Musk has done many big things to help humans and society, but he has also done many big things to hurt them. Of all the things Elon Musk has done that have had a negative effect on humans and society, killing USAID ranks up ... [continued] The post Republican G",
-        "title_cn": "共和党推动取消埃隆·马斯克（ Elon Musk ）的美国国际开发署（ USAID ）削减计划"
-      },
-      {
-        "title": "US Air Force Sets Its Sights On Space Solar Power",
-        "link": "https://cleantechnica.com/2026/05/07/us-air-force-sets-its-sights-on-space-solar-power/",
-        "pubDate": "Thu, 07 May 2026 21:49:59 +0000",
-        "description": "The US startup Overview Energy is developing a space solar solution that will extend the operational hours of existing solar power plants on Earth. The post US Air Force Sets Its Sights On Space Solar Power appeared first on CleanTechnica .",
-        "title_cn": "美国空军将目光投向太空太阳能"
-      },
-      {
-        "title": "What War On EVs? The EV Battery Ecosystem Continues To Grow",
-        "link": "https://cleantechnica.com/2026/05/07/what-war-on-evs-the-ev-battery-ecosystem-continues-to-grow/",
-        "pubDate": "Thu, 07 May 2026 21:48:37 +0000",
-        "description": "The EV battery ecosystem continues to expand in the US, regardless of the sharp U-turn in federal energy policy. The post What War On EVs? The EV Battery Ecosystem Continues To Grow appeared first on CleanTechnica .",
-        "title_cn": "对电动汽车的战争是什么？电动汽车电池生态系统持续增长"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,6 +272,12 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "新疆氢能展暨氢能发展大会将于2026年10月举办 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xbXZsTDZnRUZILW9FV1JZeGpBQ2E2Q1BZX0F4bjA4cDF5QlNwUXlUX183b1Q5akJsYWoyQk5VR3pUQ0pnOV9KeDVqdXdyR1FCdXV0Vg?oc=5",
         "pubDate": "Tue, 28 Apr 2026 03:29:46 GMT",
@@ -282,26 +288,13 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
-      },
-      {
-        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "Hyundai Motor Launches New 2027 Xcient Hydrogen Fuel Cell Truck",
-        "link": "https://fuelcellsworks.com/2026/05/07/fuel-cells/hyundai-motor-launches-new-2027-xcient-hydrogen-fuel-cell-truck",
-        "pubDate": "Thu, 07 May 2026 16:17:39 GMT",
-        "description": "",
-        "title_cn": "现代汽车推出新款2027 Xcient氢燃料电池卡车"
-      },
       {
         "title": "Brazil Bets R$ 9.5M [$1.7M] on Homegrown Green Hydrogen Electrolyzer Technology",
         "link": "https://fuelcellsworks.com/2026/05/05/green-investment/clark-solutions-receives-r-9-5-million-investment-from-finep-for-a-national-electrolyzer",
@@ -350,10 +343,17 @@
         "pubDate": "Thu, 07 May 2026 14:55:24 GMT",
         "description": "",
         "title_cn": "印度金达尔钢铁公司在氨中断触底后瞄准绿色氢"
+      },
+      {
+        "title": "Iberostar and Redexis Commission World's First Green Hydrogen Fuel Cell in a Hotel at Mallorca Resort",
+        "link": "https://fuelcellsworks.com/2026/05/07/energy-innovation/iberostar-and-redexis-commission-world-s-first-green-hydrogen-fuel-cell-in-a-hotel-at-mallorca-resort",
+        "pubDate": "Thu, 07 May 2026 14:49:16 GMT",
+        "description": "",
+        "title_cn": "Iberostar和Redexis Commission在马略卡岛度假村酒店推出全球首款绿色氢燃料电池"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "papers": {
     "items": [
@@ -429,15 +429,15 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 - 国际氢能网",
@@ -446,16 +446,16 @@
         "description": "氢能「周事迹」事关国家能源局/大唐/华电/能建/陕西氢能/阳光绿氢/清能股份/国富氢能/云韬氢能/中集氢能 &nbsp;&nbsp; 国际氢能网"
       },
       {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
         "title": "“十五五”氢能爆了！万亿赛道休想“野蛮生长”！ - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40OTU0SVpkeF9sMjFSTjdFbnBkN25SUGFXMzdBNnlrNWVmX2h5aUtiOWgxdTF4aTVMWlRYQVNUNTNXdFg5cHoxcnVHMktKRW9vOGtLdw?oc=5",
         "pubDate": "Wed, 06 May 2026 01:18:34 GMT",
         "description": "“十五五”氢能爆了！万亿赛道休想“野蛮生长”！ &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "精心培育氢能未来产业 加快推进区域试点工作 - 新浪财经",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,6 +512,12 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
+        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+      },
+      {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
         "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
         "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
-      },
-      {
-        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
-        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
-        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-08 08:18 UTC"
+    "updated": "2026-05-08 15:15 UTC"
   }
 }
