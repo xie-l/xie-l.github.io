@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "tech_cn": {
     "items": [
@@ -85,7 +85,7 @@
         "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
         "link": "https://36kr.com/p/3801398177324550?f=rss",
         "pubDate": "2026-05-09 09:43:25  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互联组"
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;���斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互"
       },
       {
         "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Greenlane Expands Electric Truck Charging, Plans Chargers In Texas",
+        "link": "https://cleantechnica.com/2026/05/10/greenlane-expands-electric-truck-charging-plans-chargers-in-texas/",
+        "pubDate": "Sun, 10 May 2026 13:37:29 +0000",
+        "description": "Last year, Greenlane shared some details with CleanTechnica about its truck charging expansion in southern California and Arizona. In May of this year, Greenlane announced it is expanding its truck charging offerings into the state of Texas, with charging sites planned for Houston and Dallas along I",
+        "title_cn": "Greenlane扩大电动卡车充电，计划在德克萨斯州推出充电器"
+      },
       {
         "title": "Chery EVs Arrive in Canada Ready of Pre-Selling Preparations",
         "link": "https://cleantechnica.com/2026/05/10/chery-evs-arrive-in-canada-ready-of-pre-selling-preparations/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 09 May 2026 15:00:32 +0000",
         "description": "Vauxhall says it will bring an all new electric SUV to market in just two years, based on technology from Leapmotor. The post Vauxhall Plans New Low-Cost Electric SUV — With Assistance From Leapmotor appeared first on CleanTechnica .",
         "title_cn": "沃克斯豪尔计划在Leapmotor的协助下推出新的低成本电动SUV"
-      },
-      {
-        "title": "Why Should You Care About Changes In Atlantic Ocean Currents?",
-        "link": "https://cleantechnica.com/2026/05/09/why-should-you-care-about-changes-in-atlantic-ocean-currents/",
-        "pubDate": "Sat, 09 May 2026 13:20:19 +0000",
-        "description": "What is causing a critical Atlantic Ocean current system to weaken much sooner than generally predicted? You guessed it: global climate change. Data accumulated in an April 2026 study, published in Science Advances, points to likely catastrophic consequences for Europe, Africa, and the Americas as a",
-        "title_cn": "为什么要关心大西洋洋流的变化？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,6 +260,24 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
+        "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
+      },
+      {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "新疆氢能展暨氢能发展大会将于26年10月举办 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pS1M2amF5c09nOHp3WnRzOFluLW5UQmJvZmllVzlRYUZ2bkNZNzNCOWxjSTF0UzQ4NU94ZldZdURCS2xsZVNCYVlhbWdjLVBmTy1KSnBGR0otV1E?oc=5",
         "pubDate": "Tue, 28 Apr 2026 00:30:00 GMT",
@@ -270,28 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
         "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
         "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "加快推进新能源、氢能项目落地！中国能建国际集团林晓丹赴哈萨克斯坦开展系列商务活动 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhempWb1JGTGMwRUZuRXNtTkplNmozMkpFSmFtWjV4clcyYWdSQTJoUEJkZzdQWktkd0VvcTJQemVsRzdLRk50RzRRQ2hXOEVwNjZhSDFaRUxXQWlSUlg0WDRMWlBCVHpM?oc=5",
-        "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
-        "description": "加快推进新能源、氢能项目落地！中国能建国际集团林晓丹赴哈萨克斯坦开展系列商务活动 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "policy_nea": {
     "items": [
@@ -470,29 +470,23 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
+        "title": "“十五五”氢能爆了！万亿赛道休想“野蛮生长”！ - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40OTU0SVpkeF9sMjFSTjdFbnBkN25SUGFXMzdBNnlrNWVmX2h5aUtiOWgxdTF4aTVMWlRYQVNUNTNXdFg5cHoxcnVHMktKRW9vOGtLdw?oc=5",
+        "pubDate": "Wed, 06 May 2026 01:18:34 GMT",
+        "description": "“十五五”氢能爆了！万亿赛道休想“野蛮生长”！ &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
         "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
         "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
         "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 车家号",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
-        "pubDate": "Thu, 07 May 2026 14:49:41 GMT",
-        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 车家号"
-      },
       {
         "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
@@ -534,9 +528,15 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-10 08:49 UTC"
+    "updated": "2026-05-10 14:45 UTC"
   }
 }
