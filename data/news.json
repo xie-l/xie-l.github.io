@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "tech_cn": {
     "items": [
@@ -85,7 +85,7 @@
         "title": "36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一",
         "link": "https://36kr.com/p/3801398177324550?f=rss",
         "pubDate": "2026-05-09 09:43:25  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;���斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互"
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互联组"
       },
       {
         "title": "获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发",
@@ -113,10 +113,38 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Does Chery’s Roster of Brands Provide More Opportunities in Canada?",
+        "link": "https://cleantechnica.com/2026/05/10/does-cherys-roster-of-brands-provide-more-opportunities-in-canada/",
+        "pubDate": "Sun, 10 May 2026 19:37:27 +0000",
+        "description": "Chery Automobile has evolved from a single domestic Chinese automaker into a large multi-brand automotive group with brands targeting mainstream, premium, EV, off-road, export, and luxury segments. Some are global facing, while others remain mostly China focused. Chery increasingly resembles a Chine",
+        "title_cn": "奇瑞的品牌名册是否在加拿大提供更多机会？"
+      },
+      {
+        "title": "250 EV Chargers Installed In Winnipeg",
+        "link": "https://cleantechnica.com/2026/05/10/250-ev-chargers-installed-in-winnipeg/",
+        "pubDate": "Sun, 10 May 2026 18:20:42 +0000",
+        "description": "Two-hundred and fifty EV chargers have been installed at Winnipeg multi-family residential properties by Powertec Electric. “At Powertec Electric, we care deeply about the environment. Our sister company, Powertec Solar, focuses exclusively on solar panel installations because green solutions matter",
+        "title_cn": "温尼伯安装了250个电动汽车充电桩"
+      },
+      {
+        "title": "Lotus Sent Its First Batch Of 18 EVs To Canada. Is It Paving The Way For Geely?",
+        "link": "https://cleantechnica.com/2026/05/10/lotus-sent-its-first-batch-of-18-evs-to-canada-is-it-paving-the-way-for-geely/",
+        "pubDate": "Sun, 10 May 2026 18:11:39 +0000",
+        "description": "Geely may have quietly secured a strategic opening into the Canadian market long before its own badge officially arrives there. Through its ownership of the British performance marque Lotus Cars and its Nasdaq-listed technology arm Lotus Technology, the Chinese automotive giant has now physically de",
+        "title_cn": "Lotus向加拿大发送了第一批18辆电动汽车。它是否为吉利铺平了道路？"
+      },
+      {
+        "title": "More Battery Electric Trucks Take To Australian Roads",
+        "link": "https://cleantechnica.com/2026/05/10/more-battery-electric-trucks-take-to-australian-roads/",
+        "pubDate": "Sun, 10 May 2026 14:57:24 +0000",
+        "description": "Despite our vast distances in Australia, most trucks operate along transport corridors north–south on the east coast. With a will and some investment, this corridor can be electrified. Here are a couple more stories of progress along the route to electrification. It is certainly not China speed and ",
+        "title_cn": "更多电池电动卡车开往澳大利亚公路"
+      },
       {
         "title": "Greenlane Expands Electric Truck Charging, Plans Chargers In Texas",
         "link": "https://cleantechnica.com/2026/05/10/greenlane-expands-electric-truck-charging-plans-chargers-in-texas/",
@@ -144,38 +172,10 @@
         "pubDate": "Sun, 10 May 2026 00:52:16 +0000",
         "description": "Before a single offshore wind turbine rises off Philippine waters, something else has to be built first. Not at sea, but on land. Across San Miguel Bay in Bicol and the Guimaras Strait in Western Visayas, the country’s most advanced offshore wind zones are beginning to reveal a hard truth ... [conti",
         "title_cn": "没有港口，菲律宾的海上风电将不会繁荣"
-      },
-      {
-        "title": "Tesla Model Y L. Why Would You Pick The Y?",
-        "link": "https://cleantechnica.com/2026/05/09/tesla-model-y-l-why-would-you-pick-the-y/",
-        "pubDate": "Sat, 09 May 2026 21:40:29 +0000",
-        "description": "On my recent trip to China, I headed to a BYD dealer to test drive models, but I ended up at the wrong location. NIO, XPENG and Tesla showrooms were next door. As with many parts of my trip, I just went with it, and it turned out for the ... [continued] The post Tesla Model Y L. Why Would You Pick T",
-        "title_cn": "特斯拉Model Y L。您为什么要选择Y ？"
-      },
-      {
-        "title": "Philippines’ First Offshore Wind Zones Could Generate 11 TWh A Year, But When?",
-        "link": "https://cleantechnica.com/2026/05/09/philippines-first-offshore-wind-zones-could-generate-11-twh-a-year-but-when/",
-        "pubDate": "Sat, 09 May 2026 18:12:49 +0000",
-        "description": "The Philippines has always been offshore or onshore wind viable. No one was looking. No one was feeling the breeze. It is asking how quickly it can turn a clearly defined pipeline into actual electricity on the grid. The answer, based on current data, is far from straightforward. San Miguel ... [con",
-        "title_cn": "菲律宾首个海上风电区每年可发电11太瓦时，但什么时候？"
-      },
-      {
-        "title": "Indonesia’s EV Transition Not Just to Cut Emissions, More So to Cut Oil Dependence, Study Says",
-        "link": "https://cleantechnica.com/2026/05/09/indonesias-ev-transition-not-just-to-cut-emissions-more-so-to-cut-oil-dependence-study-says/",
-        "pubDate": "Sat, 09 May 2026 17:33:00 +0000",
-        "description": "For decades, Indonesia built its economic and social stability around subsidized fuel. Cheap gasoline and diesel became embedded in transport habits, logistics systems and household budgets. Even today, fuel prices remain artificially low by regional standards. However, this affordability is sustain",
-        "title_cn": "研究表明，印度尼西亚的电动汽车转型不仅仅是为了减少排放，更是为了减少对石油的依赖"
-      },
-      {
-        "title": "Vauxhall Plans New Low-Cost Electric SUV — With Assistance From Leapmotor",
-        "link": "https://cleantechnica.com/2026/05/09/vauxhall-plans-new-low-cost-electric-suv-with-assistance-from-leapmotor/",
-        "pubDate": "Sat, 09 May 2026 15:00:32 +0000",
-        "description": "Vauxhall says it will bring an all new electric SUV to market in just two years, based on technology from Leapmotor. The post Vauxhall Plans New Low-Cost Electric SUV — With Assistance From Leapmotor appeared first on CleanTechnica .",
-        "title_cn": "沃克斯豪尔计划在Leapmotor的协助下推出新的低成本电动SUV"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,14 +284,14 @@
         "description": "新疆氢能展暨氢能发展大会将于26年10月举办 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "“中国带头投资氢能，印度跟上，西方却悄然退缩” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tLVF2NEN6aXI4UFpGTFpLWEl6RkZFdnJjU1hyTjVJcEljT3Rsa0hqVjVaYnNOSjBqTnJVd2tQaDJIRERZVFNzbjAzOVpYWlJFaWRrazk2bzdWRkh6MEE?oc=5",
-        "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
-        "description": "“中国带头投资氢能，印度跟上，西方却悄然退缩” &nbsp;&nbsp; thepaper.cn"
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -459,7 +459,7 @@
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Q2FiSk9GUHFRLXg0UmJ2WHN6LWhHVWQ5dkNsODVlOHhGSHk5cElfRWhuTUpHS3ZoRjlva0Q2QWpDYUM4c2RkMl9xOWNqUGJtb0p1dXA5VGRUbzk0Um9Hcy0wZDJzTjZzWTVVOHo5b0pjSHRXQ2xJTG9n?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
@@ -483,34 +483,10 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
-      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
@@ -524,19 +500,43 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiUVZPZ0FnaU5ybDdUNFNjMVJJcnpNVFpZS0N0bjN1OFlQLXdxWExjYnpYaDRqNDhMX0kzWjFOcWgtQmd0M2FLb0NIYzdjRDI5dG81MmxJWFk4UGt2?oc=5",
+        "pubDate": "Fri, 30 May 2025 07:00:00 GMT",
+        "description": "国家层面“绿电直连”政策出炉 自发自用比例不低于60% &nbsp;&nbsp; 财新"
+      },
+      {
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-10 14:45 UTC"
+    "updated": "2026-05-10 22:39 UTC"
   }
 }
