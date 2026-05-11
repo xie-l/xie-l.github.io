@@ -7077,3 +7077,12 @@
 {"timestamp":"2026-05-10T06:16:24.461Z","level":"INFO","message":"跳过: 0 个文件"}
 {"timestamp":"2026-05-10T06:16:24.461Z","level":"INFO","message":"失败: 0 个文件"}
 {"timestamp":"2026-05-10T06:16:24.461Z","level":"INFO","message":"========== 同步完成 (耗时: 0.01s) =========="}
+{"timestamp":"2026-05-11T06:45:43.410Z","level":"INFO","message":"========== Obsidian 自动同步开始 =========="}
+{"timestamp":"2026-05-11T06:45:43.412Z","level":"INFO","message":"开始同步所有Obsidian文件到博客..."}
+{"timestamp":"2026-05-11T06:45:43.413Z","level":"INFO","message":"找到 0 个待处理文件，使用并发限制: 5"}
+{"timestamp":"2026-05-11T06:45:43.413Z","level":"INFO","message":"========== 同步结果 =========="}
+{"timestamp":"2026-05-11T06:45:43.413Z","level":"INFO","message":"总计: 0 个文件"}
+{"timestamp":"2026-05-11T06:45:43.413Z","level":"INFO","message":"成功: 0 个文件"}
+{"timestamp":"2026-05-11T06:45:43.413Z","level":"INFO","message":"跳过: 0 个文件"}
+{"timestamp":"2026-05-11T06:45:43.414Z","level":"INFO","message":"失败: 0 个文件"}
+{"timestamp":"2026-05-11T06:45:43.414Z","level":"INFO","message":"========== 同步完成 (耗时: 0.01s) =========="}
