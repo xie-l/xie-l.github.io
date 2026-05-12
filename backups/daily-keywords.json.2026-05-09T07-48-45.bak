@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-09",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "方差分析",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>ANOVA，比较三组及以上数据均值是否存在显著差异的统计方法，广泛用于实验组间比较。",
+      "example": "<strong>举例：</strong>比较三种不同碳载体对HER活性的影响，用单因素ANOVA判断p<0.05即说明载体类型对活性有显著影响，再用post-hoc检验找出两两差异。"
+    },
+    {
+      "id": 2,
+      "term": "MOF",
+      "category": "材料",
+      "definition": "<strong>含义：</strong>金属有机框架（Metal-Organic Framework），多孔晶体材料，比表面积超高（可达7000m²/g），可作储氢材料或催化剂前驱体。",
+      "example": "<strong>举例：</strong>将MOF高温热解可以制备出高密度单原子催化剂；MOF直接用于储氢在-196℃低温下表现优异，但常温储氢能力有限。"
+    },
+    {
+      "id": 3,
+      "term": "电化学活性面积",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>ECSA（Electrochemically Active Surface Area），通过电化学方法测定的催化剂有效工作表面积，比BET更接近真实催化活性面积。",
+      "example": "<strong>举例：</strong>利用Cu欠电位沉积或Pt吸附脱附峰积分，可准确计算ECSA；ECSA归一化的电流密度称为本征活性，是公平比较催化剂的标准。"
+    },
+    {
+      "id": 4,
+      "term": "过拟合",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>机器学习模型在训练数据上性能极佳，但在新数据上泛化能力差的现象，通常源于模型过于复杂或训练数据不足。",
+      "example": "<strong>举例：</strong>用10个特征、10个数据点训练的神经网络几乎可以完美拟合训练集；但预测新材料时误差极大——对催化数据需严格控制模型复杂度。"
+    },
+    {
+      "id": 5,
+      "term": "电解质工程",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>通过优化电解液组成、pH、添加剂等，改善离子传导、提升催化选择性和稳定性的研究方向。",
+      "example": "<strong>举例：</strong>在碱性电解质中加入适量Li⁺，可改变OER中间态吸附构型，将过电位降低30mV，是近年电解质工程的典型成果。"
+    }
+  ]
+}
