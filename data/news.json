@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Issues with Tesla’s Robotaxi “Rollout” in Texas",
+        "link": "https://cleantechnica.com/2026/05/12/issues-with-teslas-robotaxi-rollout-in-texas/",
+        "pubDate": "Tue, 12 May 2026 17:06:34 +0000",
+        "description": "Reuters has an article out titled &#8220;Tesla’s robotaxi rollout features Texas-sized wait times.&#8221; Youch — stinger. Of course, as I&#8217;ve reminded readers in the past, less than a year ago, Tesla CEO Elon Musk predicted that Tesla robotaxis would probably be covering half of the US populat",
+        "title_cn": "德克萨斯州特斯拉机器人出租车“推出”的问题"
+      },
       {
         "title": "Hyundai EVs Get Fun New FIFA World Cup 2026 Themes in Infotainment",
         "link": "https://cleantechnica.com/2026/05/12/hyundai-evs-get-fun-new-fifa-world-cup-2026-themes-in-infotainment/",
@@ -165,17 +172,10 @@
         "pubDate": "Tue, 12 May 2026 02:45:07 +0000",
         "description": "Washington, DC — On Friday, Toyota Motor reported its earnings for the fiscal year ending in March 2026. Toyota sold approximately 9.6 million units globally and touted that over 5 million units were “electrified vehicles.” While the full-year earnings from Tokyo claim “record” sales, Sierra Club is",
         "title_cn": "Sierra Club ：丰田无法为美国家庭提供服务"
-      },
-      {
-        "title": "The Ocean Is Not A Server Rack: Panthalassa, Peter Thiel, And Wave-Powered AI Compute",
-        "link": "https://cleantechnica.com/2026/05/11/the-ocean-is-not-a-server-rack-panthalassa-peter-thiel-and-wave-powered-ai-compute/",
-        "pubDate": "Tue, 12 May 2026 00:30:07 +0000",
-        "description": "I have been seeing LinkedIn posts about Panthalassa’s wave-powered AI data-center concept recently, and the reaction they&#8217;ve been getting is familiar. Big funding round. AI power bottleneck. Ocean energy. No grid connection. No land constraint. Autonomous machines. A new category. It had all t",
-        "title_cn": "海洋不是服务器机架： Panthalassa、Peter Thiel和波浪驱动的人工智能计算"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,10 +254,10 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - news.qq.com",
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - QQ News",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80bGU2WXByYWREZU5ENHRhRmJqckd2aXl6QVZtclNGOUNTdWxZeHd2S2lUS1FiZFJ0RnQ4QzhDbjE5S1VkRkxXQ1lXUjUzZmtyZEtUZk1n?oc=5",
         "pubDate": "Thu, 07 May 2026 13:13:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; news.qq.com"
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; QQ News"
       },
       {
         "title": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 - 潮新闻",
@@ -280,7 +280,7 @@
       {
         "title": "新疆氢能展暨氢能发展大会将于26年10月举办 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pS1M2amF5c09nOHp3WnRzOFluLW5UQmJvZmllVzlRYUZ2bkNZNzNCOWxjSTF0UzQ4NU94ZldZdURCS2xsZVNCYVlhbWdjLVBmTy1KSnBGR0otV1E?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 00:30:00 GMT",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
         "description": "新疆氢能展暨氢能发展大会将于26年10月举办 &nbsp;&nbsp; 能源界"
       },
       {
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "NASA Fuel Cell Tests Pave Way for Energy Storage on Moon",
-        "link": "https://fuelcellsworks.com/2026/05/11/clean-energy/nasa-fuel-cell-tests-pave-way-for-energy-storage-on-moon",
-        "pubDate": "Mon, 11 May 2026 15:51:09 GMT",
+        "title": "Thyssenkrupp Nucera AG & Co. KGaA, Q2 2026 Earnings Call, May 12, 2026",
+        "link": "https://fuelcellsworks.com/2026/05/12/clean-energy/thyssenkrupp-nucera-ag-and-co-kgaa-q2-2026-earnings-call-may-12-2026",
+        "pubDate": "Tue, 12 May 2026 17:46:23 GMT",
         "description": "",
-        "title_cn": "NASA燃料电池测试为月球储能铺平道路"
+        "title_cn": "蒂森克虏伯Nucera AG & Co. KGaA ， 2026年第二季度盈利电话会议， 2026年5月12日"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: May 02-May 08, 2026",
-        "link": "https://fuelcellsworks.com/2026/05/09/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-april-20-may-01-2026-m02174711",
-        "pubDate": "Mon, 11 May 2026 15:39:45 GMT",
+        "title": "Plug Power (PLUG) Q1 2026 Earnings Call",
+        "link": "https://fuelcellsworks.com/2026/05/12/fuel-cells/plug-power-plug-q1-2026-earnings-call",
+        "pubDate": "Tue, 12 May 2026 17:25:24 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年5月2日至5月8日"
+        "title_cn": "Plug Power （插头） 2026年第一季度收入电话"
       },
       {
-        "title": "Purem by Eberspaecher De-Hydrator Reduces Steam Formation in Fuel Cells",
-        "link": "https://fuelcellsworks.com/2026/05/11/fuel-cells/purem-by-eberspaecher-de-hydrator-reduces-steam-formation-in-fuel-cells-m58414005",
-        "pubDate": "Mon, 11 May 2026 15:36:28 GMT",
+        "title": "Australia Cuts Hydrogen Headstart Funding by 50% in 2026–27 Budget",
+        "link": "https://fuelcellsworks.com/2026/05/12/green-investment/australia-cuts-hydrogen-headstart-funding-by-50-percent-in-2026-27-budget",
+        "pubDate": "Tue, 12 May 2026 17:15:19 GMT",
         "description": "",
-        "title_cn": "Purem by Eberspaecher脱水机减少燃料电池中的蒸汽形成"
+        "title_cn": "澳大利亚在2026–27年度预算中将氢能先发资金削减50%"
       },
       {
-        "title": "ISIA Florence, Toyota Material Handling, and Beste: Design Imagines the Hydrogen Service Stations of the Future",
-        "link": "https://fuelcellsworks.com/2026/05/11/education/isia-florence-toyota-material-handling-and-beste-design-imagines-the-hydrogen-service-stations-of-the-future",
-        "pubDate": "Mon, 11 May 2026 15:29:45 GMT",
+        "title": "Toyota and Government Partnership Marks Key Step Forward for Hydrogen Mobility in South Africa",
+        "link": "https://fuelcellsworks.com/2026/05/12/energy-innovation/toyota-and-government-partnership-marks-key-step-forward-for-hydrogen-mobility-in-south-africa",
+        "pubDate": "Tue, 12 May 2026 16:35:27 GMT",
         "description": "",
-        "title_cn": "ISIA佛罗伦萨、丰田物料搬运和Beste ：设计想象未来的氢气服务站"
+        "title_cn": "丰田与政府合作标志着南非氢能运输向前迈出了关键一步"
       },
       {
-        "title": "SFC Energy AG Publishes Its Audited Sustainability Report 2025 – Substantial Progress Towards Sustainability Goals and Enhanced Commitment to Reporting Transparency",
-        "link": "https://fuelcellsworks.com/2026/05/11/fuel-cells/sfc-energy-ag-publishes-its-audited-sustainability-report-2025-substantial-progress-towards-sustainability-goals-and-enhanced-commitment-to-reporting-transparency",
-        "pubDate": "Mon, 11 May 2026 15:24:49 GMT",
+        "title": "InterContinental Energy’s P2(H2)Node™ Integrates AI Data Centre for Low Cost, Ultra-Reliable Green Compute in Asia",
+        "link": "https://fuelcellsworks.com/2026/05/12/h2/intercontinental-energy-s-p2-h2-node-integrates-ai-data-centre-for-low-cost-ultra-reliable-green-compute-in-asia",
+        "pubDate": "Tue, 12 May 2026 16:33:00 GMT",
         "description": "",
-        "title_cn": "证监会能源股份公司发布其经审计的《2025年可持续发展报告》–在实现可持续发展目标方面取得实质性进展，并加强对报告透明度的承诺"
+        "title_cn": "洲际能源的P2 (H2) Node™集成了AI数据中心，在亚洲实现低成本、超可靠的绿色计算"
       },
       {
-        "title": "Idemitsu Kosan Backs MIT Spinout ATOM-X to Commercialize Room-Temperature E-Methanol Production From Water and CO₂",
-        "link": "https://fuelcellsworks.com/2026/05/10/h2/idemitsu-kosan-backs-mit-spinout-atom-x-to-commercialize-room-temperature-e-methanol-production-from-water-and-co",
-        "pubDate": "Mon, 11 May 2026 15:09:38 GMT",
+        "title": "Testing of Hydrogen Trucks in Hamburg",
+        "link": "https://fuelcellsworks.com/2026/05/10/fuel-cells/testing-of-hydrogen-trucks-in-hamburg",
+        "pubDate": "Tue, 12 May 2026 16:15:25 GMT",
         "description": "",
-        "title_cn": "Idemitsu Kosan支持麻省理工学院分拆ATOM-X ，实现水和二氧化碳室温E-甲醇生产的商业化"
+        "title_cn": "在汉堡测试氢能卡车"
       },
       {
-        "title": "Germany Moves E-SAF Project Into Schwedt Refinery as €350M State Backing Lands",
-        "link": "https://fuelcellsworks.com/2026/05/11/green-investment/germany-moves-e-saf-project-into-schwedt-refinery-as-350m-state-backing-lands",
-        "pubDate": "Mon, 11 May 2026 15:05:49 GMT",
+        "title": "First Ammonia Partners with Cox Group USA on Victoria Green Ammonia Project in Texas",
+        "link": "https://fuelcellsworks.com/2026/05/12/clean-energy/first-ammonia-partners-with-cox-group-usa-on-victoria-green-ammonia-project-in-texas",
+        "pubDate": "Tue, 12 May 2026 16:14:01 GMT",
         "description": "",
-        "title_cn": "德国将E-SAF项目移入Schwedt炼油厂，作为3.5亿欧元的国家支持土地"
+        "title_cn": "得克萨斯州维多利亚绿色氨项目首次与Cox Group USA合作"
       },
       {
-        "title": "8-Hour Hydrogen Drone Lands RCMP Contract — Ontario's Web4You Wins Canada R&D Deal",
-        "link": "https://fuelcellsworks.com/2026/05/08/fuel-cells/8-hour-hydrogen-drone-lands-rcmp-contract-ontario-s-web4you-wins-canada-r-and-d-deal",
-        "pubDate": "Mon, 11 May 2026 14:58:01 GMT",
+        "title": "Singaporean Researchers Develop Naval Engine that Generates Its Own Hydrogen From Ammonia and Avoids Storing It on Board",
+        "link": "https://fuelcellsworks.com/2026/05/12/energy-innovation/singaporean-researchers-develop-naval-engine-that-generates-its-own-hydrogen-from-ammonia-and-avoids-storing-it-on-board",
+        "pubDate": "Tue, 12 May 2026 16:06:05 GMT",
         "description": "",
-        "title_cn": "8小时氢能无人机降落RCMP合同—安大略省的Web4You赢得加拿大研发协议"
+        "title_cn": "新加坡研究人员开发了海军发动机，该发动机可以从氨中自行产生氢气，并避免将其储存在船上"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "policy_nea": {
     "items": [
@@ -464,16 +464,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VMWU1SjFUME9WelJJVUFzMjNXSGdkUUtJcERsWVpiS0ZySXZHTjZWVGFJcC1OVnFRNXMxOGt6NjVrVHAyanc?oc=5",
-        "pubDate": "Sat, 04 Apr 2026 11:16:38 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
         "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
         "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9VMWU1SjFUME9WelJJVUFzMjNXSGdkUUtJcERsWVpiS0ZySXZHTjZWVGFJcC1OVnFRNXMxOGt6NjVrVHAyanc?oc=5",
+        "pubDate": "Sat, 04 Apr 2026 11:16:38 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -506,16 +506,16 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
+        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
+        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
+        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
+      },
+      {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
@@ -524,10 +524,10 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-12 16:14 UTC"
+    "updated": "2026-05-12 22:53 UTC"
   }
 }
