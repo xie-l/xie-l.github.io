@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "tech_cn": {
     "items": [
@@ -73,7 +73,7 @@
         "title": "36氪首发｜新加坡博士团队创业获种子轮融资，首款产品做“会飞的家庭管家”",
         "link": "https://36kr.com/p/3805672617959173?f=rss",
         "pubDate": "2026-05-12 10:11:24  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同��立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首款家庭飞行机器人Flyer O1。 （图源/企业） 曾武介绍称：“家庭环境中，地面环境其实是多障碍的，设备活动受限；而"
+        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，深圳熵约智能科技有限公司（下称“熵约科技”）日前完成数百万美元种子轮融资，本轮融资由初心资本独家投资。 熵约科技由新加坡南洋理工大学博士曾武，马来西亚理科大学博士况伟杰，清华智能产业研究院研究员万浩诚共同创立，核心团队成员来自清华大学、华中科技大学，南京航空航天大学，字节跳动，比亚迪等高校和企业，背景覆盖人工智能、理论物理与微型无人机系统。 目前，熵约科技的首款产品针对家庭空间设计，为全球首款家庭飞行机器人Flyer O1。 （图源/企业） 曾武介绍称：“家庭环境中，地面环境其实是多障碍的，设备活动受限；而空"
       },
       {
         "title": "8点1氪丨美国总统特朗普：非常期待中国之行 ；OPPO发布母亲节文案事件问责通告；快手计划分拆可灵AI，融资20亿美元",
@@ -113,7 +113,7 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,83 +353,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models",
-        "link": "https://arxiv.org/abs/2605.10942v1",
-        "pubDate": "2026-05-11T17:59:56Z",
-        "description": "World Action Models (WAMs) have emerged as a promising paradigm for robot control by modeling physical dynamics. Current WAMs generally follow two paradigms: the \"Imagine-then-Execute\" approach, which uses video prediction to infer actions via inverse dynamics, and the \"Joint Modeling\" approach, whi",
-        "title_cn": "HarmoWAM ：通过自适应世界行动模型协调可归纳和精确操纵"
-      },
-      {
-        "title": "Personal Visual Context Learning in Large Multimodal Models",
-        "link": "https://arxiv.org/abs/2605.10936v1",
-        "pubDate": "2026-05-11T17:59:17Z",
-        "description": "As wearable devices like smart glasses integrate Large Multimodal Models (LMMs) into the continuous first-person visual streams of individual users, the evolution of these models into true personal assistants hinges on visual personalization: the ability to reason over visual information unique to t",
-        "title_cn": "大型多模式模型中的个人视觉语境学习"
-      },
-      {
-        "title": "Crystallographic Symmetry Generates Phononic Holonomic Gates with Biased-Erasure Channels",
-        "link": "https://arxiv.org/abs/2605.10932v1",
-        "pubDate": "2026-05-11T17:58:27Z",
-        "description": "Solid-state processors require control layers whose errors are legible to quantum-error-correction decoders. We show that crystallographic symmetry can provide such a layer in strain-active Lambda manifolds. When the projected strain tensor and Lambda-transition operators share a multiplicity-one tw",
-        "title_cn": "晶体对称产生带有偏置擦除通道的声音完整门"
-      },
-      {
-        "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime",
-        "link": "https://arxiv.org/abs/2605.10931v1",
-        "pubDate": "2026-05-11T17:58:14Z",
-        "description": "Transformers with self-attention modules as their core components have become an integral architecture in modern large language and foundation models. In this paper, we study the evolution of tokens in deep encoder-only transformers at inference time which is described in the large-token limit by a ",
-        "title_cn": "量化低温状态下均值场变压器的浓度现象"
-      },
-      {
-        "title": "Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges",
-        "link": "https://arxiv.org/abs/2605.10917v1",
-        "pubDate": "2026-05-11T17:52:15Z",
-        "description": "We consider anonymous multi-agent path finding (MAPF) where a set of robots is tasked to travel to a set of targets on a finite, connected graph. We show that MAPF can be cast as a special class of multi-marginal optimal transport (MMOT) problems with an underlying Markovian structure, under which t",
-        "title_cn": "通过Multi-Marginal Optimal Transport和Schrödinger Bridges的优化和可扩展的MAPF"
-      },
-      {
-        "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
-        "link": "https://arxiv.org/abs/2605.10899v1",
-        "pubDate": "2026-05-11T17:40:38Z",
-        "description": "Training deep research agents, namely systems that plan, search, evaluate evidence, and synthesize long-form reports, pushes reinforcement learning beyond the regime of verifiable rewards. Their outputs lack ground-truth answers, their trajectories span many tool-augmented decisions, and standard po",
-        "title_cn": "RubricEM ：超越可验证奖励的Meta-RL与细则引导的政策分解"
-      },
-      {
-        "title": "Magnetic Evolution of Highly-Sheared Region in Active Region 13842 Producing Large X9.0 Flare",
-        "link": "https://arxiv.org/abs/2605.10892v1",
-        "pubDate": "2026-05-11T17:34:58Z",
-        "description": "Shearing motion and magnetic flux cancellation around the polarity inversion line (PIL) play significant roles in the build-up of free magnetic energy and magnetic flux rope (MFR) in source region of major solar flares. Here we investigate the magnetic evolution of a highly-sheared PIL in active reg",
-        "title_cn": "13842有源区高剪切区磁场演化产生大X9.0耀斑"
-      },
-      {
-        "title": "Neural Weight Norm = Kolmogorov Complexity",
-        "link": "https://arxiv.org/abs/2605.10878v1",
-        "pubDate": "2026-05-11T17:27:31Z",
-        "description": "Why does weight decay work? We prove that, in any fixed-precision regime, the smallest weight norm of a looped neural network outputting a binary string equals the Kolmogorov complexity of that string, up to a logarithmic factor. This implies that weight decay induces a prior matching Solomonoff's u",
-        "title_cn": "神经重量标准=柯尔莫哥洛夫复杂性"
-      },
-      {
-        "title": "Attractor-Vascular Coupling Theory: Formal Grounding and Empirical Validation for AAMI-Standard Cuffless Blood Pressure Estimation from Smartphone Photoplethysmography",
-        "link": "https://arxiv.org/abs/2605.10871v1",
-        "pubDate": "2026-05-11T17:24:42Z",
-        "description": "This work proposes Attractor-Vascular Coupling Theory (AVCT), a mathematical framework showing that cardiac attractor geometry encodes blood pressure (BP) information sufficient for AAMI-standard estimation, and validates the theory through a calibrated cuffless BP model using photoplethysmography (",
-        "title_cn": "吸引子-血管耦合理论： AAMI-智能手机光电容积描记术标准无袖带血压估计的正式接地和实证验证"
-      },
-      {
-        "title": "Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors",
-        "link": "https://arxiv.org/abs/2605.10860v1",
-        "pubDate": "2026-05-11T17:08:29Z",
-        "description": "The RISC-V Vector Extension~(RVV) is a cornerstone for supporting compute throughout in scientific and machine learning workloads. Yet compiler support and performance monitoring on real RVV~1.0 hardware are still evolving. In this work, we design a suite of assembly microbenchmarks to establish per",
-        "title_cn": "缩小差距：在RISC-V矢量处理器上实现便携式性能"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "policy_nea": {
     "items": [
@@ -458,6 +387,12 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -470,12 +405,6 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -483,15 +412,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+        "title": "绿电直连新模式将发布_新浪新闻 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUEFyTUktLWJtcGI4bE5rOGpHN01JdGQ3aFplSGo2bGZkWUNjQTgwc25PRXFCeXhaZE1pSGR6T0dobHBya2JvbzNkYTYwTFB1MnNmUDVYU282MXNjVDQ0UkZ2dw?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+        "description": "绿电直连新模式将发布_新浪新闻 &nbsp;&nbsp; 手机新浪网"
       },
       {
         "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
@@ -500,10 +429,10 @@
         "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "“绿电直连”要特别注重有序推进 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFJUV1VJem9IQ2ZESHhLRGpIVUMxU3ZvV3BmMDZ2bllUMGY1TlJpVENLOE9zSmFOVkxsVThiMEpURkJINU9Wd3huWkR1eUxEMFF4TU43RmlncDEySmVVdm9YaFBDMjFUdHZ5UVQ5ZFhMM0gyWTBoQWpudFRuZVdSVg?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "“绿电直连”要特别注重有序推进 &nbsp;&nbsp; 人民日报"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -512,31 +441,31 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
-        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
-        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "新能源消纳迎新政，首次将非电消费纳入考核 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12RVZMT0kyeHdrN0Z1WklPMjRNTDdHNVJHeFNUT3pyRzNuRWRIZWpfc1dzRmdlYjlmUGRLZXdOZlltRTM4ZWZlb2w4NHF2SXJpT3BnSDdqRElWZk0taWtVRTdVMnd1TFRTV3RxdDhPMlRldFVwRDBMUQ?oc=5",
-        "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
-        "description": "新能源消纳迎新政，首次将非电消费纳入考核 &nbsp;&nbsp; 新浪财经"
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-12 05:33 UTC"
+    "updated": "2026-05-12 09:30 UTC"
   }
 }
