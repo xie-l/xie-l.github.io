@@ -9,6 +9,20 @@
         "title_cn": "作者纠正：餐后脂质代谢持续增强T细胞免疫力"
       },
       {
+        "title": "Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+        "link": "https://www.nature.com/articles/s41586-026-10573-w",
+        "pubDate": "2026-05-14",
+        "description": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
+        "title_cn": "作者更正： AIM2炎性体加重了克隆造血中的动脉粥样硬化"
+      },
+      {
+        "title": "NIH staffing shortage could slash number of new grants issued this year",
+        "link": "https://www.nature.com/articles/d41586-026-01537-1",
+        "pubDate": "2026-05-14",
+        "description": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-01537-1 Some units at the US funding giant are so understaffed, they are focusing on mandated grant renewals rather than new awards.",
+        "title_cn": "NIH人员短缺可能会削减今年发放的新补助金数量"
+      },
+      {
         "title": "Are we really headed for a ‘super’ El Niño? What the science says",
         "link": "https://www.nature.com/articles/d41586-026-01538-0",
         "pubDate": "2026-05-14",
@@ -42,24 +56,10 @@
         "pubDate": "2026-05-14",
         "description": "Nature, Published online: 14 May 2026; doi:10.1038/d41586-026-00895-0 After leaving academia, Bennett Foddy sees connections between games design, creativity and research, as he tells John Tregoning.",
         "title_cn": "拖延、生产力和灵感：研究就像设计视频游戏"
-      },
-      {
-        "title": "Stereoelectronic manipulation of ligands for perovskite solar cells",
-        "link": "https://www.nature.com/articles/s41586-026-10626-0",
-        "pubDate": "2026-05-13",
-        "description": "Nature, Published online: 13 May 2026; doi:10.1038/s41586-026-10626-0 Stereoelectronic manipulation of ligands for perovskite solar cells",
-        "title_cn": "钙钛矿太阳能电池配体的立体电子操纵"
-      },
-      {
-        "title": "The hunt for the next antibiotics",
-        "link": "https://www.nature.com/articles/d41586-026-01424-9",
-        "pubDate": "2026-05-13",
-        "description": "Nature, Published online: 13 May 2026; doi:10.1038/d41586-026-01424-9 To battle antibiotic resistance, researchers are leaving no stone unturned, looking at folk traditions and harnessing AI to find new antibiotics.",
-        "title_cn": "寻找下一种抗生素"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "EU Plans to Boost Rail Passenger Rights but Proposals Will Not Deliver a Huge Increase in International Train Travel",
+        "link": "https://cleantechnica.com/2026/05/14/eu-plans-to-boost-rail-passenger-rights-but-proposals-will-not-deliver-a-huge-increase-in-international-train-travel/",
+        "pubDate": "Thu, 14 May 2026 21:38:53 +0000",
+        "description": "T&#38;E’s reaction to the EU Passenger Package. From 2027, rail travellers missing a connection due to a delay will automatically be able to jump on the next train, according to new EU rules proposed today. They will also have food and accommodation paid for if they miss the last train. ... [continu",
+        "title_cn": "欧盟计划提高铁路乘客的权利，但提案不会大幅增加国际火车旅行"
+      },
+      {
+        "title": "Energy Security & Affordability in a New Geopolitical Era: A Future-Proof Post-2030 EU Energy Framework",
+        "link": "https://cleantechnica.com/2026/05/14/energy-security-affordability-in-a-new-geopolitical-era-a-future-proof-post-2030-eu-energy-framework/",
+        "pubDate": "Thu, 14 May 2026 21:10:38 +0000",
+        "description": "Civil society and industry are calling for a bold binding framework that delivers a fossil fuel exit. Dear President von der Leyen, Dear President Costa, Dear President Metsola, Europe faces an increasingly volatile geopolitical landscape. Russia’s war against Ukraine and rising tensions in the Midd",
+        "title_cn": "新地缘政治时代的能源安全和可负担性：面向未来的2030年后欧盟能源框架"
+      },
+      {
+        "title": "A Hyundai IONIQ 5 Is Much Larger Than A Hyundai Santa Fe From 2001",
+        "link": "https://cleantechnica.com/2026/05/14/a-hyundai-ioniq-5-is-much-larger-than-a-hyundai-santa-fe-from-2001/",
+        "pubDate": "Thu, 14 May 2026 17:43:48 +0000",
+        "description": "I wrote an article yesterday after a real-world situation hit sort of hard after years of writing about, owning, and advocating for electric vehicles. Even when you see issues from a distance and cover them full time, things just hit a bit different when you experience them offline. But then ... [co",
+        "title_cn": "现代Ioniq 5比2001年的现代Santa Fe大得多"
+      },
       {
         "title": "588 Or More New Public EV Chargers Coming To Texas",
         "link": "https://cleantechnica.com/2026/05/14/588-or-more-new-public-ev-chargers-coming-to-texas/",
@@ -151,31 +172,10 @@
         "pubDate": "Wed, 13 May 2026 21:57:15 +0000",
         "description": "After publishing on a wave energy proposal for offshore data centers, I received a useful challenge. A reader pointed to CorPower Ocean as a counterexample. That was worth taking seriously. CorPower is not a render-first startup selling a fantasy of floating artificial intelligence infrastructure in",
         "title_cn": "波浪能量最难的问题不是波浪。这是维护。"
-      },
-      {
-        "title": "BYD Exported More Vehicles In April Than Tesla Sold Worldwide*",
-        "link": "https://cleantechnica.com/2026/05/13/byd-exported-more-vehicles-in-april-than-tesla-sold-worldwide/",
-        "pubDate": "Wed, 13 May 2026 21:54:39 +0000",
-        "description": "One of our readers, &#8220;trackdaze,&#8221; dropped some pretty crazy stats on our lap last week in response to my article about BYD&#8217;s April sales totals and trends. In addition to its sales in China, BYD exported 135,098 vehicles in April — all fully battery electric or plugin hybrid vehicle",
-        "title_cn": "比亚迪4月份汽车出口量超过特斯拉全球销量*"
-      },
-      {
-        "title": "Chinese Companies Cancel Billions In US Investments",
-        "link": "https://cleantechnica.com/2026/05/13/chinese-companies-cancel-billions-in-us-investments/",
-        "pubDate": "Wed, 13 May 2026 21:06:28 +0000",
-        "description": "Chinese companies like Jinko Solar are heading for the exits as US policy determinations make doing business in America unprofitable. The post Chinese Companies Cancel Billions In US Investments appeared first on CleanTechnica .",
-        "title_cn": "中国公司取消数十亿美元的美国投资"
-      },
-      {
-        "title": "15,000 E-Bike Rebates Provided By Ava Community Energy",
-        "link": "https://cleantechnica.com/2026/05/13/15000-e-bike-rebates-provided-by-ava-community-energy/",
-        "pubDate": "Wed, 13 May 2026 21:04:49 +0000",
-        "description": "The other day at a retail store, a man who worked there was standing near the cash registers as I walked by. He was wearing plastic body armor so I asked him why &#8212; he said it was for his e-bike when he rides to and from work. With gas ... [continued] The post 15,000 E-Bike Rebates Provided By ",
-        "title_cn": "AVA Community Energy提供的15,000电动自行车返点"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -246,6 +246,12 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOVg2a3IzQ2JNOUhTVWZyaUZyZkYyQXhvelBRaUgtMUVmcU52eTZwV3NQbUhRQmdYbjdwRm14OGlKM1pVajlpQkdNLVBHUXF3UDZoU09MYw?oc=5",
         "pubDate": "Tue, 05 May 2026 03:16:24 GMT",
         "description": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 &nbsp;&nbsp; 潮新闻"
+      },
+      {
+        "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能，持续提升算力设施绿电占比 - 华尔街见闻",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TZnlTa2huSVZScFBGVC1mQnZKd0JKOFlmNkpldFFHaWpQUGZ0bWF5QV9uQ1M5Sk1UVTNUWmlPQUtJaEtlTmhmNHJGUTNjemJUUkJV?oc=5",
+        "pubDate": "Fri, 08 May 2026 10:25:32 GMT",
+        "description": "四部门：探索核电、氢能等能源以直连方式为算力设施供能，持续提升算力设施绿电占比 &nbsp;&nbsp; 华尔街见闻"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -260,10 +266,10 @@
         "description": "新疆氢能展暨氢能发展大会将于26年10月举办 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - news.qq.com",
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - 腾讯新闻",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80bGU2WXByYWREZU5ENHRhRmJqckd2aXl6QVZtclNGOUNTdWxZeHd2S2lUS1FiZFJ0RnQ4QzhDbjE5S1VkRkxXQ1lXUjUzZmtyZEtUZk1n?oc=5",
         "pubDate": "Thu, 07 May 2026 13:13:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; news.qq.com"
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; 腾讯新闻"
       },
       {
         "title": "国富氢能(02582)附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 - 东方财富",
@@ -282,78 +288,72 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "HydrogenPro ASA, Q1 2026 Earnings Call, May 13, 2026",
-        "link": "https://fuelcellsworks.com/2026/05/13/clean-energy/hydrogenpro-asa-q1-2026-earnings-call-may-13-2026",
-        "pubDate": "Wed, 13 May 2026 16:52:07 GMT",
+        "title": "Uruguay and Argentina Edge Toward Deal on $5 Billion Green Hydrogen Plant as Environmental Concerns Slow Progress",
+        "link": "https://fuelcellsworks.com/2026/05/13/green-hydrogen/uruguay-and-argentina-edge-toward-deal-on-5-billion-green-hydrogen-plant-as-environmental-concerns-slow-progress",
+        "pubDate": "Thu, 14 May 2026 15:52:23 GMT",
         "description": "",
-        "title_cn": "HydrogenPro ASA ， 2026年第一季度盈利电话会议， 2026年5月13日"
+        "title_cn": "由于环境问题进展缓慢，乌拉圭和阿根廷接近达成$ 50亿绿色氢电厂的交易"
       },
       {
-        "title": "H2Terminals Secures 1,000-Unit Hydrogen EVFC Truck Supply Agreement to Accelerate Net Zero HGV Deployment in UK & EU",
-        "link": "https://fuelcellsworks.com/2026/05/13/energy-innovation/h2terminals-secures-1-000-unit-hydrogen-evfc-truck-supply-agreement-to-accelerate-net-zero-hgv-deployment-in-uk-and-eu",
-        "pubDate": "Wed, 13 May 2026 16:42:40 GMT",
+        "title": "Delhi Metro Launches Hydrogen-Powered Shuttle Bus Service in Central Vista",
+        "link": "https://fuelcellsworks.com/2026/05/14/fuel-cells/delhi-metro-launches-hydrogen-powered-shuttle-bus-service-in-central-vista",
+        "pubDate": "Thu, 14 May 2026 15:48:43 GMT",
         "description": "",
-        "title_cn": "H2Terminals获得1000辆氢动力EVFC卡车供应协议，以加速英国和欧盟的净零HGV部署"
+        "title_cn": "德里地铁在Central Vista推出氢动力穿梭巴士服务"
       },
       {
-        "title": "SFC Energy AG Wins Largest Order in Company History and Raises 2026 Forecast – Delivery of Combat-Proven Fuel Cell Systems Worth Approximately EUR 42.7 Million to Ukraine",
-        "link": "https://fuelcellsworks.com/2026/05/13/energy-innovation/sfc-energy-ag-wins-largest-order-in-company-history-and-raises-2026-forecast-delivery-of-combat-proven-fuel-cell-systems-worth-approximately-eur-42-7-million-to-ukraine",
-        "pubDate": "Wed, 13 May 2026 16:29:54 GMT",
+        "title": "Hyundai NEXO Launches in Italy with 826 Km Range as Lombardy Hydrogen Infrastructure Finally Starts to Take Shape",
+        "link": "https://fuelcellsworks.com/2026/05/13/fuel-cells/hyundai-nexo-launches-in-italy-with-826-km-range-as-lombardy-hydrogen-infrastructure-finally-starts-to-take-shape",
+        "pubDate": "Thu, 14 May 2026 15:46:11 GMT",
         "description": "",
-        "title_cn": "SFC Energy AG赢得公司历史上最大的订单并提高2026年预测–向乌克兰交付价值约4270万欧元的经过战斗验证的燃料电池系统"
+        "title_cn": "现代Nexo在意大利推出826公里续航里程，伦巴第氢能基础设施终于开始成形"
       },
       {
-        "title": "Federal Pacific Awarded Bloom Energy Contract Supporting AI Data Center Infrastructure",
-        "link": "https://fuelcellsworks.com/2026/05/13/energy-innovation/federal-pacific-awarded-bloom-energy-contract-supporting-ai-data-center-infrastructure",
-        "pubDate": "Wed, 13 May 2026 16:22:29 GMT",
+        "title": "GeoKiln Signs MOU with Ras Al Khaimah Energy Authority to Advance First-of-Its-Kind Subsurface Hydrogen Development in the UAE",
+        "link": "https://fuelcellsworks.com/2026/05/14/hydrogen/geokiln-signs-mou-with-ras-al-khaimah-energy-authority-to-advance-first-of-its-kind-subsurface-hydrogen-development-in-the-uae",
+        "pubDate": "Thu, 14 May 2026 15:42:52 GMT",
         "description": "",
-        "title_cn": "Federal Pacific获得支持AI数据中心基础设施的Bloom能源合同"
+        "title_cn": "GeoKiln与哈伊马角能源管理局签署谅解备忘录，以推进阿联酋首创的地下氢开发"
       },
       {
-        "title": "Algeria and Germany Deepen Energy Ties Across Gas, Methane, and Green Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/05/12/h2/algeria-and-germany-deepen-energy-ties-across-gas-methane-and-green-hydrogen",
-        "pubDate": "Wed, 13 May 2026 16:16:00 GMT",
+        "title": "France Hydrogen Insights for April 2026",
+        "link": "https://fuelcellsworks.com/2026/05/13/clean-energy/france-hydrogen-insights-for-march-2026",
+        "pubDate": "Thu, 14 May 2026 15:40:13 GMT",
         "description": "",
-        "title_cn": "阿尔及利亚和德国深化天然气、甲烷和绿色氢能之间的能源联系"
+        "title_cn": "2026年4月法国氢能洞察"
       },
       {
-        "title": "Hyundai Translead Announces Commercial Launch of XCIENT Fuel Cell Trucks in Canada",
-        "link": "https://fuelcellsworks.com/2026/05/13/fuel-cells/hyundai-translead-announces-commercial-launch-of-xcient-fuel-cell-trucks-in-canada",
-        "pubDate": "Wed, 13 May 2026 16:13:50 GMT",
+        "title": "South Korean Lawmaker Calls for Halt to Hydrogen Fuel Cell Market Contraction Plans",
+        "link": "https://fuelcellsworks.com/2026/05/14/h2/south-korean-lawmaker-calls-for-halt-to-hydrogen-fuel-cell-market-contraction-plans",
+        "pubDate": "Thu, 14 May 2026 15:33:41 GMT",
         "description": "",
-        "title_cn": "现代Translead宣布在加拿大推出XCIENT燃料电池卡车"
+        "title_cn": "韩国议员呼吁停止氢燃料电池市场收缩计划"
       },
       {
-        "title": "WashU Expert: Scaling up the Circular Economy",
-        "link": "https://fuelcellsworks.com/2026/05/13/clean-energy/washu-expert-scaling-up-the-circular-economy",
-        "pubDate": "Wed, 13 May 2026 16:04:11 GMT",
+        "title": "Yuchai Introduces Its First High-Pressure, Direct-Injection Pure Ammonia Internal Combustion Engine For Heavy-Duty Commercial Vehicles",
+        "link": "https://fuelcellsworks.com/2026/05/14/fuel-cells/yuchai-introduces-its-first-high-pressure-direct-injection-pure-ammonia-internal-combustion-engine-for-heavy-duty-commercial-vehicles",
+        "pubDate": "Thu, 14 May 2026 15:31:27 GMT",
         "description": "",
-        "title_cn": "和树专家：扩大循环经济"
+        "title_cn": "玉柴推出首款重型商用车用高压直喷纯氨内燃机"
       },
       {
-        "title": "Philippines in Talks With France’s HDF on Hydrogen Power Generation",
-        "link": "https://fuelcellsworks.com/2026/05/12/electrolyzer/philippines-in-talks-with-france-s-hdf-on-hydrogen-power-generation",
-        "pubDate": "Wed, 13 May 2026 15:50:27 GMT",
+        "title": "Enaon EDA Prepares Hydrogen-Ready Smart Meter Rollout in Greece",
+        "link": "https://fuelcellsworks.com/2026/05/14/h2/enaon-eda-prepares-hydrogen-ready-smart-meter-rollout-in-greece",
+        "pubDate": "Thu, 14 May 2026 15:10:42 GMT",
         "description": "",
-        "title_cn": "菲律宾与法国HDF就氢能发电进行谈判"
+        "title_cn": "Enaon EDA准备在希腊推出氢能智能电表"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,6 +452,12 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
+        "title": "国家能源局发布充电设施数据_新浪新闻 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6clRUMVVVZ2hLVWwwYW8tdWtnUTNNUnZFZGltVFVYM2hjNmxqcVZVOGh3cWpFN1oyaEdWTGpHdHhYeVNjbTN0UUdkTkZ0UHNkMzF1YmFTbFhjd0ZPVThRQVRzOA?oc=5",
+        "pubDate": "Thu, 14 May 2026 00:34:18 GMT",
+        "description": "国家能源局发布充电设施数据_新浪新闻 &nbsp;&nbsp; 手机新浪网"
+      },
+      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -459,7 +465,7 @@
       },
       {
         "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LUUt0LWVqSk1pck1KOVVKamp1NmkxZ1Utb2FMeGZjRXBCdnZyb3YzMXBSVi1DQ0g3eFJkNkN2Vi0zZFdQQ3ZRSGJldGZrV3hSZFFEZ3BB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUExPMnFvdkNvZ2swTGpmZG9Xc2hUTVlGVEtYdVBVSkw4Wm1uMy1sMUQ4SVZKNkJvUldlbmFnczNDRGV6ZnlaSWpERWxMUzFfUmhxQ2xIaTNFaFE1RWc?oc=5",
         "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
         "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
       },
@@ -474,19 +480,19 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kX3l5X3FoV1VlM1NLcnlQRmtKekdXMGVvUG54LXBhMzYwUUlwRzNwNFV3Sm51TXBIdmNUVEF0TnN0Q09TOVVJLXZpOGJ2N284NjVUT2FBOU9BOTZY?oc=5",
         "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
         "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
-      },
-      {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 汽车之家",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
+        "pubDate": "Thu, 14 May 2026 12:41:54 GMT",
+        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 汽车之家"
+      },
       {
         "title": "绿电直连新模式将发布_新浪新闻 - 手机新浪网",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUEFyTUktLWJtcGI4bE5rOGpHN01JdGQ3aFplSGo2bGZkWUNjQTgwc25PRXFCeXhaZE1pSGR6T0dobHBya2JvbzNkYTYwTFB1MnNmUDVYU282MXNjVDQ0UkZ2dw?oc=5",
@@ -524,19 +530,13 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "新能源消纳迎新政，首次将非电消费纳入考核 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12RVZMT0kyeHdrN0Z1WklPMjRNTDdHNVJHeFNUT3pyRzNuRWRIZWpfc1dzRmdlYjlmUGRLZXdOZlltRTM4ZWZlb2w4NHF2SXJpT3BnSDdqRElWZk0taWtVRTdVMnd1TFRTV3RxdDhPMlRldFVwRDBMUQ?oc=5",
-        "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
-        "description": "新能源消纳迎新政，首次将非电消费纳入考核 &nbsp;&nbsp; Sina finance"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-14 16:07 UTC"
+    "updated": "2026-05-14 22:51 UTC"
   }
 }
