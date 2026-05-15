@@ -23,11 +23,25 @@
         "title_cn": "定制DNA疫苗为治疗臭名昭著的脑癌带来希望"
       },
       {
+        "title": "Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges",
+        "link": "https://www.nature.com/articles/d41586-026-01558-w",
+        "pubDate": "2026-05-15",
+        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01558-w Eight of the top ten officials at the US National Institute of Allergy and Infectious Diseases have now been pushed out since President Donald Trump took office.",
+        "title_cn": "独家：由于新冠肺炎科学家面临美国的指控， NIH罢免了传染病领导者"
+      },
+      {
         "title": "Running a farm, pursuing a research career: what’s the difference?",
         "link": "https://www.nature.com/articles/d41586-026-01391-1",
         "pubDate": "2026-05-15",
         "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.",
         "title_cn": "经营农场，追求研究事业：有什么区别？"
+      },
+      {
+        "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
+        "link": "https://www.nature.com/articles/d41586-026-01559-9",
+        "pubDate": "2026-05-15",
+        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01559-9 Could spinach extracts be the next treatment for dry-eye disease?",
+        "title_cn": "植物-动物移植后小鼠眼睛光合作用"
       },
       {
         "title": "Serebral",
@@ -37,29 +51,15 @@
         "title_cn": ""
       },
       {
-        "title": "Genetic survey exposes flaws in widely used mouse models",
-        "link": "https://www.nature.com/articles/d41586-026-01534-4",
+        "title": "US biology lab locked down for more than a week amid smuggling inquiry",
+        "link": "https://www.nature.com/articles/d41586-026-01590-w",
         "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01534-4 A survey of more than 300 mouse strains has found widespread discrepancies between how mutant mice are reported and their actual genetic make-up.",
-        "title_cn": "基因调查揭示了广泛使用的小鼠模型中的缺陷"
-      },
-      {
-        "title": "Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
-        "link": "https://www.nature.com/articles/s41586-026-10620-6",
-        "pubDate": "2026-05-14",
-        "description": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10620-6 Author Correction: Postprandial lipid metabolism durably enhances T cell immunity",
-        "title_cn": "作者纠正：餐后脂质代谢持续增强T细胞免疫力"
-      },
-      {
-        "title": "Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
-        "link": "https://www.nature.com/articles/s41586-026-10573-w",
-        "pubDate": "2026-05-14",
-        "description": "Nature, Published online: 14 May 2026; doi:10.1038/s41586-026-10573-w Author Correction: The AIM2 inflammasome exacerbates atherosclerosis in clonal haematopoiesis",
-        "title_cn": "作者更正： AIM2炎性体加重了克隆造血中的动脉粥样硬化"
+        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01590-w The Trump administration has spent months investigating the lab after a Chinese postdoc was charged with smuggling biological material into the country.",
+        "title_cn": "在走私调查中，美国生物实验室被封锁了一个多星期"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,69 +113,69 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "New Record For Electric Car Sales In Nordic Countries In April",
+        "link": "https://cleantechnica.com/2026/05/15/new-record-for-electric-car-sales-in-nordic-countries-in-april/",
+        "pubDate": "Fri, 15 May 2026 22:30:46 +0000",
+        "description": "Sales of electric cars in Nordic countries are strong, with Norway and Denmark leading and Sweden and Finland following. The post New Record For Electric Car Sales In Nordic Countries In April appeared first on CleanTechnica .",
+        "title_cn": "4月份北欧国家电动汽车销量创下新纪录"
+      },
+      {
+        "title": "Tesla Full Self Driving (Supervised) Now Permitted in Belgium",
+        "link": "https://cleantechnica.com/2026/05/15/tesla-full-self-driving-supervised-now-permitted-in-belgium/",
+        "pubDate": "Fri, 15 May 2026 22:10:58 +0000",
+        "description": "Following Tesla Full Self Driving (Supervised) approval and deployment in the Netherlands, the driver-assist software is now permitted to use in Belgium, sort of. For now, one Tesla car is allowed to test the technology in Flanders, the northern region of Belgium. Of course, if all goes well, Full S",
+        "title_cn": "特斯拉全自动驾驶（有监督）现已在比利时获得批准"
+      },
+      {
+        "title": "Jones Act Waiver Exposes America’s Shipbuilding Gap",
+        "link": "https://cleantechnica.com/2026/05/15/jones-act-waiver-exposes-americas-shipbuilding-gap/",
+        "pubDate": "Fri, 15 May 2026 21:23:55 +0000",
+        "description": "The Trump administration’s Jones Act waiver is a small policy exception with a much larger lesson. The same administration that says it wants to restore American maritime dominance, rebuild domestic shipbuilding, counter China’s industrial scale, and make U.S. logistics more secure also waived parts",
+        "title_cn": "琼斯法案豁免暴露了美国的造船差距"
+      },
+      {
+        "title": "Tesla Slashing Down Payments & Loan Terms in China Amidst Dropping Sales",
+        "link": "https://cleantechnica.com/2026/05/15/tesla-slashing-down-payments-loan-terms-in-china-amidst-dropping-sales/",
+        "pubDate": "Fri, 15 May 2026 20:12:04 +0000",
+        "description": "Like in other countries, and like other companies in China, Tesla has seen its sales drop in the largest EV market in the world this year. Tesla&#8217;s sales were down 10% year over year there in April, and they were down 15% across the first 4 months of the year. ... [continued] The post Tesla Sla",
+        "title_cn": "在销售下滑之际，特斯拉大幅削减在中国的支付和贷款条款"
+      },
+      {
+        "title": "Canada Needs A Second Golden Spike For Electricity",
+        "link": "https://cleantechnica.com/2026/05/15/canada-needs-a-second-golden-spike-for-electricity/",
+        "pubDate": "Fri, 15 May 2026 18:48:03 +0000",
+        "description": "Canada’s federal government has finally put electricity where it belongs: at the centre of the national economy. That is the most important thing about Mark Carney’s newly announced National Electricity Strategy. This is not just a climate file. It is an industrial strategy, an affordability strateg",
+        "title_cn": "加拿大需要第二个电力黄金峰值"
+      },
+      {
+        "title": "Will Investors Still Love The Tesla Brand If It’s Not An Electric Vehicle Company?",
+        "link": "https://cleantechnica.com/2026/05/15/will-investors-still-love-the-tesla-brand-if-its-not-an-electric-vehicle-company/",
+        "pubDate": "Fri, 15 May 2026 17:51:46 +0000",
+        "description": "Elon Musk departed the White House last year in disgrace, but all is forgotten and forgiven now that he&#8217;s part of the Trump Beijing entourage. Speaking on behalf of US business in China, the mercurial CEO is playing games on both sides of the aisle. He&#8217;s keenly aware how Trump ... [conti",
+        "title_cn": "如果特斯拉不是一家电动汽车公司，投资者还会喜欢特斯拉品牌吗？"
+      },
+      {
+        "title": "BYD May Take Over Stellantis & Other Legacy Auto Factories in Europe",
+        "link": "https://cleantechnica.com/2026/05/15/byd-may-take-over-stellantis-other-legacy-auto-factories-in-europe/",
+        "pubDate": "Fri, 15 May 2026 17:45:55 +0000",
+        "description": "I just wrote an article yesterday about Chinese EV companies probably taking over the global auto market. And then what news do I see this morning? News that BYD is in talks with Stellantis and other European automakers about potentially taking over their underused factories in Europe. &#8220;We are",
+        "title_cn": "比亚迪可能收购欧洲的Stellantis和其他传统汽车工厂"
+      },
       {
         "title": "10th EV Charging Station Launches In Kentucky",
         "link": "https://cleantechnica.com/2026/05/15/10th-ev-charging-station-launches-in-kentucky/",
         "pubDate": "Fri, 15 May 2026 15:11:18 +0000",
         "description": "There are online trolls, haters, and complainers who will try to dismiss Kentucky’s electric vehicle progress by claiming it’s only ten charging stations. However, Kentucky is hanging in there and developing its public charging infrastructure — just slowly. The red states are typically the EV laggar",
         "title_cn": "第10个电动汽车充电站在肯塔基州推出"
-      },
-      {
-        "title": "8th Annual EV Raffle Launches: One Ticket, Three Prizes! Win a Rivian, Lucid, or Porsche. Tickets Support Fight For Clean Energy.",
-        "link": "https://cleantechnica.com/2026/05/15/8th-annual-ev-raffle-launches-one-ticket-three-prizes-win-a-rivian-lucid-or-porsche-tickets-support-fight-for-clean-energy/",
-        "pubDate": "Fri, 15 May 2026 15:00:11 +0000",
-        "description": "By Mike Tidwell, founder and director of CCAN Action Fund Tired of high prices at the gas pump? Want to drive a brand-new electric car instead? Now is your chance. The Chesapeake Climate Action Network Action Fund (CCAN Action Fund) just launched its 8th annual electric car raffle to raise ... [cont",
-        "title_cn": "第八届年度电动汽车抽奖活动：一票三奖！赢得一辆Rivian、Lucid或Porsche。门票支持为清洁能源而战。"
-      },
-      {
-        "title": "Electric School Bus Driver Will Not Go Back To Diesel",
-        "link": "https://cleantechnica.com/2026/05/15/electric-school-bus-driver-will-not-go-back-to-diesel/",
-        "pubDate": "Fri, 15 May 2026 13:05:23 +0000",
-        "description": "Sometimes facts and data are not well understood and there is a personal preference for first-person stories based on personal experiences. While anecdotes do not qualify as scientific evidence, many of us humans may not have much appreciation for the scientific method because we did not study it th",
-        "title_cn": "电动校车司机不会回柴油车"
-      },
-      {
-        "title": "In Some Countries, EVs Are Already Cheaper Than ICEVs. We’re Here To Tell You How That Looks, And Why It Changes Everything.",
-        "link": "https://cleantechnica.com/2026/05/14/in-some-countries-evs-are-already-cheaper-than-icevs-were-here-to-tell-you-how-that-looks-like-and-why-it-changes-everything/",
-        "pubDate": "Fri, 15 May 2026 03:58:47 +0000",
-        "description": "Back in 2019, I read an article on this very site regarding the Osborne effect and the upcoming risks it represented for the auto industry. It remains one of my favorite articles of all time, and it had this very interesting chart that put into perspective what had been the ... [continued] The post ",
-        "title_cn": "在一些国家，电动汽车已经比ICEV便宜。我们在这里告诉您它看起来如何，以及为什么它会改变一切。"
-      },
-      {
-        "title": "Consumer Reports’ List of 5 Least Reliable Midsize SUVs Includes 0 EVs",
-        "link": "https://cleantechnica.com/2026/05/14/consumer-reports-list-of-5-least-reliable-midsize-suvs-includes-0-evs/",
-        "pubDate": "Fri, 15 May 2026 03:57:25 +0000",
-        "description": "Consumer Reports has revealed the five (5) least reliable midsize SUVs in the United States. Interestingly, shockingly &#8230; well, completely unsurprisingly actually, there are no electric vehicles on the list. The five most unreliable midsize SUVs are the following: Jeep Grand Cherokee (29/100 re",
-        "title_cn": "《消费者报告》列出的5款最不可靠的中型SUV包括0辆电动汽车"
-      },
-      {
-        "title": "FSOC’s Proposed Guidance on Nonbank Designations Undermines its Ability to Address Systemic Risk",
-        "link": "https://cleantechnica.com/2026/05/14/fsocs-proposed-guidance-on-nonbank-designations-undermines-its-ability-to-address-systemic-risk/",
-        "pubDate": "Fri, 15 May 2026 03:40:43 +0000",
-        "description": "WASHINGTON, D.C. — If a proposal by the Financial Stability Oversight Council (FSOC) is implemented, the Council will erode its authority to protect the financial system from large nonbank financial companies like insurance companies, nonbank mortgage lenders, and private equity and credit firms, ac",
-        "title_cn": "FSOC拟议的非银行指定指南削弱了其应对系统性风险的能力"
-      },
-      {
-        "title": "EPA to Allow More Coal Plants Off the Hook for Toxic Waste Dumped in U.S. Waterways",
-        "link": "https://cleantechnica.com/2026/05/14/epa-to-allow-more-coal-plants-off-the-hook-for-toxic-waste-dumped-in-u-s-waterways/",
-        "pubDate": "Fri, 15 May 2026 03:35:03 +0000",
-        "description": "Washington, D.C. — Today, the Environmental Protection Agency proposed rolling back protections that stop coal-fired power plants from dumping toxic wastewater—including arsenic, mercury, selenium, and lead—from coal ash waste landfills into U.S. waterways. In September 2025, Donald Trump’s EPA gave",
-        "title_cn": "美国环保署允许更多燃煤电厂摆脱美国水道倾倒有毒废物的困境"
-      },
-      {
-        "title": "The Volkswagen ID. Buzz Is NOT Dead In The US",
-        "link": "https://cleantechnica.com/2026/05/14/the-volkswagen-id-buzz-is-not-dead-in-the-us/",
-        "pubDate": "Fri, 15 May 2026 03:30:16 +0000",
-        "description": "It&#8217;s hard to keep track of what&#8217;s going on in the US electric vehicle market. Several automakers have stopped producing EVs or pulled EV models off the market, while others are in a kind of limbo state. The Volkswagen ID. Buzz is one of those models that has been in ... [continued] The p",
-        "title_cn": "大众ID。Buzz在美国并未消亡"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "energy": {
     "items": [
@@ -237,16 +237,10 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能 - 中国核电网",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56eDJrNlBSM2Y3dHY4d2tVOEtVWnY0MUFhUzNJNFNTVkdkb002ZGRlMldSYnE0eWJkVHVaWXBnbU5mQ2dwVVVxSEdLVVk4NEp1?oc=5",
-        "pubDate": "Mon, 11 May 2026 02:19:00 GMT",
-        "description": "四部门：探索核电、氢能等能源以直连方式为算力设施供能 &nbsp;&nbsp; 中国核电网"
-      },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
@@ -254,16 +248,28 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "佛吉亚潘锋：氢能与纯电、天然气应是互补关系，而非你死我活 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FSVUzWDdDdkFxaXkzQnpybE1STE81UEhlMUlrei0xaWlCTGdsTUJHX0dHTUlPd2VDMTRaMWx6OHVEeVpOQnp1MEVydTN4aVlrVG1mWDd2TTBRYVd2WGxMWXBaY3YxRkoxY3RyMUlvUDB5R0RKQ2FGUUxMdk4?oc=5",
-        "pubDate": "Fri, 15 May 2026 09:20:00 GMT",
-        "description": "佛吉亚潘锋：氢能与纯电、天然气应是互补关系，而非你死我活 &nbsp;&nbsp; 新浪财经"
+        "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能 - 中国核电网",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56eDJrNlBSM2Y3dHY4d2tVOEtVWnY0MUFhUzNJNFNTVkdkb002ZGRlMldSYnE0eWJkVHVaWXBnbU5mQ2dwVVVxSEdLVVk4NEp1?oc=5",
+        "pubDate": "Mon, 11 May 2026 02:19:00 GMT",
+        "description": "四部门：探索核电、氢能等能源以直连方式为算力设施供能 &nbsp;&nbsp; 中国核电网"
+      },
+      {
+        "title": "广州稳坐全国氢能第一梯队 - 广州市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3c3ByTkhUOWhnTjJqbWNvck45ekZlQ2N0LVJySTA0NVpiMDZhNG9Nb1lVMDEtRHBJakd5cE54dV9idFJ4OEp2NjlSV0FXRlhVcHpvV25TQlFuMU5rWll2aU43aVdnWVR5WUdBYmhPVjNHeXZy?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "广州稳坐全国氢能第一梯队 &nbsp;&nbsp; 广州市人民政府"
       },
       {
         "title": "国家能源局：一季度可再生能源装机占比超六成- 要闻 - 低碳网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81TFJEa0dSeDBfVXljZ3ZkbmhvV1EyNHZwcGd5UVZxVGM3c3l1U09UcGRFbG83ZGNxQmV0VVp2Uml6US15TWx4UEw1OG5KRHdTUmxFZg?oc=5",
         "pubDate": "Mon, 11 May 2026 09:41:11 GMT",
         "description": "国家能源局：一季度可再生能源装机占比超六成- 要闻 &nbsp;&nbsp; 低碳网"
+      },
+      {
+        "title": "佛吉亚潘锋：氢能与纯电、天然气应是互补关系，而非你死我活 - Sina finance",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FSVUzWDdDdkFxaXkzQnpybE1STE81UEhlMUlrei0xaWlCTGdsTUJHX0dHTUlPd2VDMTRaMWx6OHVEeVpOQnp1MEVydTN4aVlrVG1mWDd2TTBRYVd2WGxMWXBaY3YxRkoxY3RyMUlvUDB5R0RKQ2FGUUxMdk4?oc=5",
+        "pubDate": "Fri, 15 May 2026 09:20:00 GMT",
+        "description": "佛吉亚潘锋：氢能与纯电、天然气应是互补关系，而非你死我活 &nbsp;&nbsp; Sina finance"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -282,21 +288,72 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "hydrogen": {
-    "items": [],
+    "items": [
+      {
+        "title": "EWE Awards Major Contract to Bilfinger",
+        "link": "https://fuelcellsworks.com/2026/05/15/green-investment/ewe-awards-major-contract-to-bilfinger",
+        "pubDate": "Fri, 15 May 2026 16:05:43 GMT",
+        "description": "",
+        "title_cn": "EWE将主要合同授予Bilfinger"
+      },
+      {
+        "title": "NH3 Clean Energy Becomes Market Pioneer in Ammonia Certification System to Facilitate Clean Ammonia Trade",
+        "link": "https://fuelcellsworks.com/2026/05/15/clean-energy/nh3-clean-energy-becomes-market-pioneer-in-ammonia-certification-system-to-facilitate-clean-ammonia-trade",
+        "pubDate": "Fri, 15 May 2026 15:54:53 GMT",
+        "description": "",
+        "title_cn": "NH3清洁能源成为氨认证体系的市场先锋，以促进清洁氨贸易"
+      },
+      {
+        "title": "Groundbreaking Test Result for PSA Antwerp with Second-Generation Dual-Fuel Hydrogen Straddle Carrier",
+        "link": "https://fuelcellsworks.com/2026/05/15/h2/groundbreaking-test-result-for-psa-antwerp-with-second-generation-dual-fuel-hydrogen-straddle-carrier",
+        "pubDate": "Fri, 15 May 2026 15:44:55 GMT",
+        "description": "",
+        "title_cn": "PSA安特卫普第二代双燃料氢气跨式运输船的突破性测试结果"
+      },
+      {
+        "title": "Torpol Oil & Gas Signs a PLN 75 Million Net Contract with ORLEN for the Construction of a Hydrogen Hub in Szczecin",
+        "link": "https://fuelcellsworks.com/2026/05/15/green-investment/torpol-oil-and-gas-signs-a-pln-75-million-net-contract-with-orlen-for-the-construction-of-a-hydrogen-hub-in-szczecin",
+        "pubDate": "Fri, 15 May 2026 15:42:19 GMT",
+        "description": "",
+        "title_cn": "Torpol Oil & Gas与ORLEN签署净额7500万兹罗提的合同，在什切青建造氢气枢纽"
+      },
+      {
+        "title": "Toagosei Turns Local Hydrogen Production Into Tokushima’s First Integrated Refuelling Station",
+        "link": "https://fuelcellsworks.com/2026/05/12/electrolyzer/toagosei-turns-local-hydrogen-production-into-tokushima-s-first-integrated-refuelling-station",
+        "pubDate": "Fri, 15 May 2026 15:29:47 GMT",
+        "description": "",
+        "title_cn": "Toagosei将本地氢气生产转变为德岛首个综合加氢站"
+      },
+      {
+        "title": "Qair Inaugurates Its Second Hydrogen Station in Occitanie in Narbonne",
+        "link": "https://fuelcellsworks.com/2026/05/13/fuel-cells/qair-inaugurates-its-second-hydrogen-station-in-occitanie-in-narbonne",
+        "pubDate": "Fri, 15 May 2026 15:19:30 GMT",
+        "description": "",
+        "title_cn": "Qair在纳博讷的Occitanie开设第二个加氢站"
+      },
+      {
+        "title": "Cleanly Roasted: Julius Meinl Coffee and Wien Energie Put Austria's First Hydrogen Coffee Roaster Into Operation",
+        "link": "https://fuelcellsworks.com/2026/05/15/news/cleanly-roasted-julius-meinl-coffee-and-wien-energie-put-austria-s-first-hydrogen-coffee-roaster-into-operation",
+        "pubDate": "Fri, 15 May 2026 15:04:52 GMT",
+        "description": "",
+        "title_cn": "清洁烘焙： Julius Meinl Coffee和Wien Energie将奥地利首家氢气咖啡烘焙机投入运营"
+      },
+      {
+        "title": "Galicia-Northern Portugal Hydrogen Valley Targets Industry, Energy Security and Jobs",
+        "link": "https://fuelcellsworks.com/2026/05/13/h2/galicia-northern-portugal-hydrogen-valley-targets-industry-energy-security-and-jobs",
+        "pubDate": "Fri, 15 May 2026 14:46:53 GMT",
+        "description": "",
+        "title_cn": "加利西亚-葡萄牙北部氢谷瞄准工业、能源安全和就业"
+      }
+    ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "papers": {
     "items": [
@@ -372,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "policy_nea": {
     "items": [
@@ -413,20 +470,20 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "筑牢安全屏障 培育绿色燃料 - 能源发展网",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTGN3blJaejhtaE5WZnNHdW9wcjR1LWgxaE81T1RKRXdtdVQ0aTI2bG5kWWVDSXZ2NWtmR29aV05mTV8xdVIzbWJYZTVaazFKZVdVWUI0T2lVcTh4M1hyX3FtbG1HSi1tTWswQ3A1dmMtM3oy?oc=5",
         "pubDate": "Wed, 29 Apr 2026 10:02:10 GMT",
         "description": "筑牢安全屏障 培育绿色燃料 &nbsp;&nbsp; 能源发展网"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -437,22 +494,28 @@
         "description": "敦煌加速能源绿色低碳转型“氢”启未来 &nbsp;&nbsp; gs.chinanews.com.cn"
       },
       {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
         "title": "“绿电直连”要特别注重有序推进 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFJUV1VJem9IQ2ZESHhLRGpIVUMxU3ZvV3BmMDZ2bllUMGY1TlJpVENLOE9zSmFOVkxsVThiMEpURkJINU9Wd3huWkR1eUxEMFF4TU43RmlncDEySmVVdm9YaFBDMjFUdHZ5UVQ5ZFhMM0gyWTBoQWpudFRuZVdSVg?oc=5",
         "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
         "description": "“绿电直连”要特别注重有序推进 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
         "title": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 - 封面新闻",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nN0MxRFYyNUZITjQzX3VvYndJVEp0Z1pONkwyb01lR1c4TWZmSTZjbXNCRzJKemoycmxKQzVyMVZsanpJQlB2b0R5cmZHOE45ZXJDMVJ3Sl9sZ2FESXNoVUlkWjRsZU5Gdkx5RFcwaHcxQ2tWMHBz?oc=5",
         "pubDate": "Fri, 26 Dec 2025 08:00:00 GMT",
         "description": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 &nbsp;&nbsp; 封面新闻"
+      },
+      {
+        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -467,19 +530,13 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfaDN5OHphTEZxRHJzcmllQ0tkWjVZdDNrSmd1N3dsX3hNbTJTcWtDRU1fWWFmb0x5elRCQTVTclI5SzExNUtKaVVYY1VtMWpEWHc3X3JfYnJ0SUtHQjdBck92VkQ4ajhNN1FFZ2JqYw?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 &nbsp;&nbsp; 新浪财经"
-      },
-      {
-        "title": "新能源消纳迎新政，首次将非电消费纳入考核 - 新浪财经",
+        "title": "新能源消纳迎新政，首次将非电消费纳入考核 - Sina finance",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12RVZMT0kyeHdrN0Z1WklPMjRNTDdHNVJHeFNUT3pyRzNuRWRIZWpfc1dzRmdlYjlmUGRLZXdOZlltRTM4ZWZlb2w4NHF2SXJpT3BnSDdqRElWZk0taWtVRTdVMnd1TFRTV3RxdDhPMlRldFVwRDBMUQ?oc=5",
         "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
-        "description": "新能源消纳迎新政，首次将非电消费纳入考核 &nbsp;&nbsp; 新浪财经"
+        "description": "新能源消纳迎新政，首次将非电消费纳入考核 &nbsp;&nbsp; Sina finance"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-15 15:59 UTC"
+    "updated": "2026-05-15 22:48 UTC"
   }
 }
