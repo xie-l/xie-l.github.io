@@ -2,67 +2,73 @@
   "tech": {
     "items": [
       {
+        "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+        "link": "https://www.nature.com/articles/s41586-026-10649-7",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7 Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
+        "title_cn": "出版商更正：微生物群诱导的T细胞可塑性可实现免疫介导的肿瘤控制"
+      },
+      {
+        "title": "Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
+        "link": "https://www.nature.com/articles/s41586-026-10619-z",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-z Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
+        "title_cn": "出版商更正： GLP-1R–GIPR–PPARα/γ/δ五重激动症纠正小鼠肥胖和糖尿病"
+      },
+      {
+        "title": "Do you hate or love AI? Take Nature's poll",
+        "link": "https://www.nature.com/articles/d41586-026-01563-z",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01563-z The backlash against artificial intelligence is growing. Nature wants to know what its readers think about the impact on science.",
+        "title_cn": "你讨厌还是喜欢人工智能？参加Nature's民意调查"
+      },
+      {
+        "title": "A step-by-step guide for scientists who hate conference networking",
+        "link": "https://www.nature.com/articles/d41586-026-00525-9",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9 If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
+        "title_cn": "讨厌会议网络的科学家的分步指南"
+      },
+      {
+        "title": "Criminals are made, not born: how when you live shapes whether you will break the law",
+        "link": "https://www.nature.com/articles/d41586-026-01556-y",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-y An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.",
+        "title_cn": "罪犯是制造出来的，而不是天生的：你活着的时候如何塑造你是否会违法"
+      },
+      {
+        "title": "Ebola outbreak is a global health emergency: what happens next",
+        "link": "https://www.nature.com/articles/d41586-026-01597-3",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01597-3 The outbreak is only the third caused by the rare Bundibugyo virus, for which there are no approved vaccines or therapeutics.",
+        "title_cn": "埃博拉疫情是全球卫生紧急情况：接下来会发生什么"
+      },
+      {
+        "title": "Birds get a bad rap: why we should look up to our feathered friends",
+        "link": "https://www.nature.com/articles/d41586-026-01555-z",
+        "pubDate": "2026-05-18",
+        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01555-z Many avian species are threatened, but conservation efforts and birds’ high intelligence offer hope.",
+        "title_cn": "鸟儿得到不好的说唱：为什么我们应该尊敬我们的羽毛朋友"
+      },
+      {
         "title": "Even mild blows to the head disrupt the microbiome",
         "link": "https://www.nature.com/articles/d41586-026-01504-w",
         "pubDate": "2026-05-15",
         "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01504-w Some bacterial species became less abundant in the guts of American football players as the season progressed.",
         "title_cn": "即使是轻微的头部打击也会破坏微生物组"
-      },
-      {
-        "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
-        "link": "https://www.nature.com/articles/d41586-026-01575-9",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01575-9 Nature staff discuss some of the week's top science news.",
-        "title_cn": "简报聊天：汉坦病毒—这次疫情揭示了这种疾病"
-      },
-      {
-        "title": "Bespoke DNA vaccine offers hope for treatment of notorious brain cancer",
-        "link": "https://www.nature.com/articles/d41586-026-01503-x",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01503-x The personalized treatment encourages the immune system to attack the tumours called glioblastomas.",
-        "title_cn": "定制DNA疫苗为治疗臭名昭著的脑癌带来希望"
-      },
-      {
-        "title": "Exclusive: NIH ousts infectious-disease leaders as COVID scientists face US charges",
-        "link": "https://www.nature.com/articles/d41586-026-01558-w",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01558-w Eight of the top ten officials at the US National Institute of Allergy and Infectious Diseases have now been pushed out since President Donald Trump took office.",
-        "title_cn": "独家：由于新冠肺炎科学家面临美国的指控， NIH罢免了传染病领导者"
-      },
-      {
-        "title": "Running a farm, pursuing a research career: what’s the difference?",
-        "link": "https://www.nature.com/articles/d41586-026-01391-1",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01391-1 Brandon Brown sees parallels between life as an academic and tending a citrus grove following his move to the country.",
-        "title_cn": "经营农场，追求研究事业：有什么区别？"
-      },
-      {
-        "title": "Mouse eyes photosynthesize after plant-to-animal transplant",
-        "link": "https://www.nature.com/articles/d41586-026-01559-9",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01559-9 Could spinach extracts be the next treatment for dry-eye disease?",
-        "title_cn": "植物-动物移植后小鼠眼睛光合作用"
-      },
-      {
-        "title": "Serebral",
-        "link": "https://www.nature.com/articles/d41586-026-01083-w",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01083-w Forging connections.",
-        "title_cn": ""
-      },
-      {
-        "title": "US biology lab locked down for more than a week amid smuggling inquiry",
-        "link": "https://www.nature.com/articles/d41586-026-01590-w",
-        "pubDate": "2026-05-15",
-        "description": "Nature, Published online: 15 May 2026; doi:10.1038/d41586-026-01590-w The Trump administration has spent months investigating the lab after a Chinese postdoc was charged with smuggling biological material into the country.",
-        "title_cn": "在走私调查中，美国生物实验室被封锁了一个多星期"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+        "link": "https://36kr.com/p/3814695536336387?f=rss",
+        "pubDate": "2026-05-18 19:11:14  +0800",
+        "description": "大公司： 索辰科技：物理AI业务目前尚处于布局初期 36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争"
+      },
       {
         "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
         "link": "https://36kr.com/p/3810598875307780?f=rss",
@@ -104,32 +110,47 @@
         "link": "https://36kr.com/p/3814030630084354?f=rss",
         "pubDate": "2026-05-18 07:55:00  +0800",
         "description": "今日热点导览 张雪机车，再夺冠 长安汽车否认与千里科技合作 深圳发布2026年住房发展计划 贵州茅台宣布公斤茅台等四款产品提价 法拉第未来宣布获得2500万美元融资 三星电子会长就公司“内部问题”公开道歉 TOP 3 大新闻 多款燃油车大降价，降幅最高近30% 日前，长安汽车旗下长安逸动经典版正式上市，新车售价6.49万元，限时享23000元购车现金优惠；相较于指导价8.79万元降幅达到26%。该款车型还享有限时的保养礼和流量礼。 其实，近期多家燃油车都开启了降价模式：起亚新狮铂拓界一口价10.99万元，较指导价15.49万元降29%；捷豹路虎5月12日推出限时“新发现”价；奇瑞4月中旬开展促"
-      },
-      {
-        "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
-        "link": "https://36kr.com/p/3813305543794440?f=rss",
-        "pubDate": "2026-05-17 19:57:23  +0800",
-        "description": "从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力 在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。 过去两年，开放式耳机在中国蓝牙耳机市场的整体销售额份额已率先突破30%。这不仅是一次产品形态的更迭，更是一场由韶音引领、正在席卷全球的“品类级替代”风暴。 一、 宏观战略与行业洞察"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Used Electric Vehicles — Is Now The Time To Buy, Or Better To Wait?",
+        "link": "https://cleantechnica.com/2026/05/18/used-electric-vehicles-is-now-the-time-to-buy-or-better-to-wait/",
+        "pubDate": "Mon, 18 May 2026 16:08:19 +0000",
+        "description": "The used electric vehicle market is becoming one of the most interesting for me here in the United States. For years, there was pretty limited supply since not many EVs had been produced and there weren&#8217;t even that many models on the market. However, at the same time, depreciation was ... [con",
+        "title_cn": "二手电动汽车—现在是购买的时候了，还是最好等待？"
+      },
+      {
+        "title": "Neighborhood Battery Combined With Solar & EV Chargers",
+        "link": "https://cleantechnica.com/2026/05/18/neighborhood-battery-combined-with-solar-ev-chargers/",
+        "pubDate": "Mon, 18 May 2026 14:05:09 +0000",
+        "description": "As frequent readers of clean energy news, we all know what community solar power is, and it’s a great source of clean electricity for people who may not be able to afford their own home solar power. Not all people have their own homes to install rooftop or ground-mounted solar ... [continued] The po",
+        "title_cn": "邻里电池结合太阳能和电动汽车充电器"
+      },
+      {
+        "title": "Waymo Reaching 11 Cities & 1,400 Square Miles As World Cup Approaches",
+        "link": "https://cleantechnica.com/2026/05/18/waymo-reaching-11-cities-1400-square-miles-as-world-cup-approaches/",
+        "pubDate": "Mon, 18 May 2026 12:20:12 +0000",
+        "description": "The World Cup is fast approaching, and Waymo has been expanding its service in new cities while also growing its service areas in existing cities in anticipation of the biggest sporting event in the world. &#8220;The world’s largest 24/7 autonomous ride-hailing service just got bigger,&#8221; as the",
+        "title_cn": "随着世界杯的临近， Waymo覆盖11个城市和1,400平方英里"
+      },
+      {
+        "title": "Coal Pollution Hurts Solar Panels, Just Like Your Lungs",
+        "link": "https://cleantechnica.com/2026/05/18/solar-panels-coal-power-pollution-aersols-trump/",
+        "pubDate": "Mon, 18 May 2026 12:01:35 +0000",
+        "description": "Coal power plants produce aerosols that hover above solar panels, diffusing light and reducing the solar conversion efficiency of nearby solar arrays. The post Coal Pollution Hurts Solar Panels, Just Like Your Lungs appeared first on CleanTechnica .",
+        "title_cn": "煤炭污染伤害太阳能电池板，就像你的肺一样"
+      },
       {
         "title": "NEW! Solar Survey Report 2026",
         "link": "https://cleantechnica.com/2026/05/18/new-solar-survey-report-2026/",
         "pubDate": "Mon, 18 May 2026 06:22:29 +0000",
         "description": "Solar power is being installed faster than any other power source in the world. That&#8217;s the case in the United States, and that&#8217;s the case globally. Solar power is booming. But not all is perfect in the solar industry, not all is sunshine and rainbows. (Sorry for the weak puns.) ... [cont",
         "title_cn": "全新！ 2026年太阳调查报告"
-      },
-      {
-        "title": "Waymo Reaching 11 Cities & 1,400 Square Miles As World Cup Approaches",
-        "link": "https://cleantechnica.com/2026/05/18/waymo-reaching-11-cities-1400-square-miles-as-world-cup-approaches/",
-        "pubDate": "Mon, 18 May 2026 05:23:12 +0000",
-        "description": "The World Cup is fast approaching, and Waymo has been expanding its service in new cities while also growing its service areas in existing cities in anticipation of the biggest sporting event in the world. &#8220;The world’s largest 24/7 autonomous ride-hailing service just got bigger,&#8221; as the",
-        "title_cn": "随着世界杯的临近， Waymo覆盖11个城市和1,400平方英里"
       },
       {
         "title": "Judge In Australia Not Happy About Tesla Dragging Its Feet In Class Action Case",
@@ -151,31 +172,10 @@
         "pubDate": "Sun, 17 May 2026 20:12:45 +0000",
         "description": "In this episode of Cleantech Talk, Scott Cooney talks with Britt Zwierzchowski Tisler, COO of the Conservative Energy Network, and Bradley Pischea, National Director of Land &#38; Liberty Coalition (L&#38;LC), a project of CEN. They discuss: Who the Conservative Energy Network is, why they came to t",
         "title_cn": "保守派在清洁能源领域发挥领导作用的重要性"
-      },
-      {
-        "title": "14 New EV Chargers To Be Installed In Aspen, Colorado",
-        "link": "https://cleantechnica.com/2026/05/17/14-new-ev-chargers-to-be-installed-in-aspen-colorado/",
-        "pubDate": "Sun, 17 May 2026 16:15:35 +0000",
-        "description": "It might not seem newsworthy for a site that typically covers national news, but every new public EV charger installation counts. Aspen, Colorado will be getting 14 new public EV chargers at seven new charging sites. The source says Aspen currently has 24 public EV charging &#8220;plugs,&#8221; so a",
-        "title_cn": "14个新的电动汽车充电器将安装在科罗拉多州阿斯彭"
-      },
-      {
-        "title": "Gas Prices Up 56% In USA",
-        "link": "https://cleantechnica.com/2026/05/17/gas-prices-up-56-in-usa/",
-        "pubDate": "Sun, 17 May 2026 14:48:36 +0000",
-        "description": "US gas prices have gone up, and up, and up since the country bombed Iran in late February. In March, I reported that the average price of gas in the country had gone up from $2.89/gallon to $3.48/gallon. Now, the average price of gas in the US is $4.517/gallon. That&#8217;s ... [continued] The post ",
-        "title_cn": "美国天然气价格上涨56%"
-      },
-      {
-        "title": "Attacks On Wind Power Make No Sense — It’s Just Another Form Of Solar Energy",
-        "link": "https://cleantechnica.com/2026/05/17/attacks-on-wind-power-make-no-sense-its-just-another-form-of-solar-energy/",
-        "pubDate": "Sun, 17 May 2026 13:26:45 +0000",
-        "description": "A vast and well-organized campaign is actively underway to suspend global wind energy discourse. The Financial Times calls it the US president’s “crusade against renewable energy.” WindEurope, who describe themselves as “the voice of the wind energy industry,” say attacks on wind power pose a “syste",
-        "title_cn": "攻击风力发电毫无意义—这只是另一种形式的太阳能"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,12 +353,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,7 +412,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -423,16 +423,28 @@
         "description": "敦煌加速能源绿色低碳转型“氢”启未来 &nbsp;&nbsp; gs.chinanews.com.cn"
       },
       {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
+        "title": "四部门发文推动绿色算力_新浪新闻 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
+        "pubDate": "Sun, 10 May 2026 06:12:00 GMT",
+        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 新浪网"
+      },
+      {
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 - 封面新闻",
@@ -441,31 +453,19 @@
         "description": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 &nbsp;&nbsp; 封面新闻"
       },
       {
-        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
-        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+      },
+      {
+        "title": "绿电直连的重大价值、主要障碍及其对策建议 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcm1wemcxTXZad2xFcklWeG12TnRiclFuM3ZYY2ZxYzRLc1VFTkFyQnowZjl4SFd6TTRUY21jMGkwS3ZwTlJIbXJPU3pRb1BfZldHUlJobmx2NURRU0RIMmxKOGpIbV9MVk9FUjZYT2dCQW1vYVl1X2FDam9FUXZqSg?oc=5",
+        "pubDate": "Mon, 28 Jul 2025 07:00:00 GMT",
+        "description": "绿电直连的重大价值、主要障碍及其对策建议 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-18 11:01 UTC"
+    "updated": "2026-05-18 16:44 UTC"
   }
 }
