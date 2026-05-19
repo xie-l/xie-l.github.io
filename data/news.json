@@ -2,6 +2,41 @@
   "tech": {
     "items": [
       {
+        "title": "AI might jeopardize the uncertainty required in science",
+        "link": "https://www.nature.com/articles/d41586-026-01605-6",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01605-6 AI might jeopardize the uncertainty required in science",
+        "title_cn": "人工智能可能会危及科学所需的不确定性"
+      },
+      {
+        "title": "Support academic institutions under attack",
+        "link": "https://www.nature.com/articles/d41586-026-01603-8",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8 Support academic institutions under attack",
+        "title_cn": "支持受攻击的学术机构"
+      },
+      {
+        "title": "France’s research-primate project goes against its own ethics panel",
+        "link": "https://www.nature.com/articles/d41586-026-01606-5",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5 France’s research-primate project goes against its own ethics panel",
+        "title_cn": "法国的研究灵长类项目违背了自己的伦理委员会"
+      },
+      {
+        "title": "Airborne DNA can yield insights with the right techniques",
+        "link": "https://www.nature.com/articles/d41586-026-01604-7",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7 Airborne DNA can yield insights with the right techniques",
+        "title_cn": "空气中的DNA可以通过正确的技术产生见解"
+      },
+      {
+        "title": "The uncritical adoption of AI in science is alarming — we urgently need guard rails",
+        "link": "https://www.nature.com/articles/d41586-026-01557-x",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01557-x Artificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
+        "title_cn": "人工智能在科学中的不加批判的采用令人担忧—我们迫切需要防护栏"
+      },
+      {
         "title": "China moves AI brain implants from trials towards real-world use",
         "link": "https://www.nature.com/articles/d41586-026-01468-x",
         "pubDate": "2026-05-19",
@@ -9,60 +44,37 @@
         "title_cn": "中国将人工智能大脑植入物从试验转向实际应用"
       },
       {
-        "title": "Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-        "link": "https://www.nature.com/articles/s41586-026-10649-7",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10649-7 Publisher Correction: Microbiota-induced T cell plasticity enables immune-mediated tumour control",
-        "title_cn": "出版商更正：微生物群诱导的T细胞可塑性可实现免疫介导的肿瘤控制"
+        "title": "DNA-folding changes block production of self-directed antibodies",
+        "link": "https://www.nature.com/articles/d41586-026-01329-7",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01329-7 DNA rearrangements in immune-system B cells generate diverse antibody-encoding genes and help to avoid producing antibodies that target the body’s own tissues.",
+        "title_cn": "DNA折叠变化阻断自身定向抗体的产生"
       },
       {
-        "title": "Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-        "link": "https://www.nature.com/articles/s41586-026-10619-z",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/s41586-026-10619-z Publisher Correction: GLP-1R–GIPR–PPARα/γ/δ quintuple agonism corrects obesity and diabetes in mice",
-        "title_cn": "出版商更正： GLP-1R–GIPR–PPARα/γ/δ五重激动症纠正小鼠肥胖和糖尿病"
-      },
-      {
-        "title": "Do you hate or love AI? Take Nature's poll",
-        "link": "https://www.nature.com/articles/d41586-026-01563-z",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01563-z The backlash against artificial intelligence is growing. Nature wants to know what its readers think about the impact on science.",
-        "title_cn": "你讨厌还是喜欢人工智能？参加Nature's民意调查"
-      },
-      {
-        "title": "A step-by-step guide for scientists who hate conference networking",
-        "link": "https://www.nature.com/articles/d41586-026-00525-9",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-00525-9 If the thought of ‘working’ a room packed with strangers fills you with dread, academic careers coach Caroline Dunne has some advice.",
-        "title_cn": "讨厌会议网络的科学家的分步指南"
-      },
-      {
-        "title": "Criminals are made, not born: how when you live shapes whether you will break the law",
-        "link": "https://www.nature.com/articles/d41586-026-01556-y",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01556-y An analysis of what makes young people more likely to commit crimes tears down the influential assumption that character is the main factor.",
-        "title_cn": "罪犯是制造出来的，而不是天生的：你活着的时候如何塑造你是否会违法"
-      },
-      {
-        "title": "Ebola outbreak is a global health emergency: what happens next",
-        "link": "https://www.nature.com/articles/d41586-026-01597-3",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01597-3 The outbreak is only the third caused by the rare Bundibugyo virus, for which there are no approved vaccines or therapeutics.",
-        "title_cn": "埃博拉疫情是全球卫生紧急情况：接下来会发生什么"
-      },
-      {
-        "title": "Can the ‘steroid Olympics’ show the sporting community how to support athletes better?",
-        "link": "https://www.nature.com/articles/d41586-026-01552-2",
-        "pubDate": "2026-05-18",
-        "description": "Nature, Published online: 18 May 2026; doi:10.1038/d41586-026-01552-2 The Enhanced Games, which permits the use of performance-enhancing drugs, exposes flaws in the sporting world.",
-        "title_cn": "“类固醇奥运会”能否向体育界展示如何更好地支持运动员？"
+        "title": "‘It is incredible’: How AI is transforming mathematics",
+        "link": "https://www.nature.com/articles/d41586-026-01553-1",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01553-1 Thanks to some surprising advances, mathematicians are starting to realize that artificial intelligence could radically alter their profession.",
+        "title_cn": "“令人难以置信” ：人工智能如何改变数学"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
+        "link": "https://36kr.com/p/3816036564147718?f=rss",
+        "pubDate": "2026-05-19 17:55:09  +0800",
+        "description": "图源：公众号「有三思 U Sense」） 2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。 彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他在那个冬天起跑，完成了一场长达18年的迁徙：从连“VI”是什么意思都要查百度的广告新人，到亚奥理事会特聘专家；从地产广告公司年薪两万的驻场专员，到网络安全企业百万年薪的市场高管；从乙方执行到甲方操盘；从职业经理人再到国际赛事组委会成员…… “懂得切换”是于成龙的逆袭之道。他在广告业黄金期的尾声中入行，在航司市场化改革时转场，在网络安全上升期登顶，在国际赛事复苏期再出"
+      },
+      {
+        "title": "影石：重新定义性价比",
+        "link": "https://36kr.com/p/3815841756028425?f=rss",
+        "pubDate": "2026-05-19 14:58:30  +0800",
+        "description": "作者 | 张帆 坚持做后来者 近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9.29亿元，同比下降了6.62%。 面对这样一份“营收大增、利润下滑”的财报，公司召开了上市后的首次投资者交流会，以回应资本市场的关切。 根据2025年年报显示，报告期内，公司影像业务营收增长了78%，主要得益于销量的大幅提升——2025年实现销量393万台，同比增长76%。另一方面，产品均价相对平稳，约为2169元，同比增长1%。 从ASP趋势来看，公司产品整体呈现"
+      },
       {
         "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
         "link": "https://36kr.com/p/3814860909600261?f=rss",
@@ -98,22 +110,10 @@
         "link": "https://36kr.com/p/3814570248412677?f=rss",
         "pubDate": "2026-05-18 17:35:19  +0800",
         "description": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的性能上限。以下我们将从设计、理论性能释放、以及实际软硬件体验三个维度，对其进行深度拆解。 &amp;amp;nbsp; 一、 外观设计：纯平后盖的内部堆叠与电竞美学 从视觉和握持逻辑来看，红魔11S Pro最显著的特征在于其坚守的 纯平后盖设计 。在行业因大底传感器而集体妥协于镜头凸出的趋势下，这种“反向”设计在工业制造上面临着极高的空间挑战。 产品图片 内"
-      },
-      {
-        "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-        "link": "https://36kr.com/p/3814408307711492?f=rss",
-        "pubDate": "2026-05-18 15:03:20  +0800",
-        "description": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问： 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？ AI创业、AI融资如火如荼，属于我的机会又在哪里？ 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？ …… 到最后，几乎所有问题都会汇成同一个问题： 我，到底该如何用AI？ 如果你对这些问题还很模糊，不妨来第四届中国AIGC产业峰会走一趟——一天时间，把这一年AI产业最值得关注的人、事、判断，一次性讲清楚。 先提前剧透一波。 18位重磅嘉宾，1场Agent主题圆桌，1份年度榜单，1张全景图谱 ——所有内容都已敲定。&nbsp;"
-      },
-      {
-        "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
-        "link": "https://36kr.com/p/3814368445259270?f=rss",
-        "pubDate": "2026-05-18 13:38:42  +0800",
-        "description": "文&nbsp;|&nbsp;阿至 36 氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投 ，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。 本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭首飞及后续规模化运营提供保障。 宇石空间 是我们长期关注的企业，专注于大运力、低成本、快速复用液体火箭的研制。 在过去一年，公司已连续完成4轮融资，加上近期交割完的A轮，其累计融资额已达10亿元。 火箭制造及发"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,10 +272,10 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民网",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民网"
       },
       {
         "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
@@ -291,52 +291,10 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "Hiringa Energy, TR Group and Booth’s Logistics Demonstrate Hydrogen Freight in Action",
-        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/hiringa-energy-tr-group-and-booth-s-logistics-demonstrate-hydrogen-freight-in-action",
-        "pubDate": "Mon, 18 May 2026 16:20:30 GMT",
-        "description": "",
-        "title_cn": "Hiringa Energy、TR Group和Booth的物流展示了氢气货运的实际应用"
-      },
-      {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: May 09-May 14, 2026",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-may-09-may-14-2026",
-        "pubDate": "Mon, 18 May 2026 16:15:24 GMT",
-        "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年5月9日至5月14日"
-      },
-      {
-        "title": "NamX Wins European Patent for Hydrogen Capsule Technology",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-technology/namx-wins-european-patent-for-hydrogen-capsule-technology",
-        "pubDate": "Mon, 18 May 2026 16:11:25 GMT",
-        "description": "",
-        "title_cn": "NamX赢得氢气胶囊技术的欧洲专利"
-      },
-      {
-        "title": "EVREC Files Environmental Impact Statement for One of Canada’s Largest Wind-to-Green Hydrogen and Ammonia Projects",
-        "link": "https://fuelcellsworks.com/2026/05/18/clean-energy/evrec-files-environmental-impact-statement-for-one-of-canada-s-largest-wind-to-green-hydrogen-and-ammonia-projects",
-        "pubDate": "Mon, 18 May 2026 16:09:43 GMT",
-        "description": "",
-        "title_cn": "EVREC为加拿大最大的风电-绿色氢和氨项目之一提交环境影响报告"
-      },
-      {
-        "title": "Turn2X Powers Europe's First Green Synthetic Methane Plant in Spain's Extremadura",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-energy/turn2x-powers-europe-s-first-green-synthetic-methane-plant-in-spain-s-extremadura",
-        "pubDate": "Mon, 18 May 2026 16:03:23 GMT",
-        "description": "",
-        "title_cn": "Turn2X为西班牙埃斯特雷马杜拉的欧洲首家绿色合成甲烷工厂提供动力"
-      },
-      {
-        "title": "H2Accelerate TRUCKS Showcases Hydrogen Fuel Cell Truck at TRA 2026 in Budapest",
-        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/h2accelerate-trucks-showcases-hydrogen-fuel-cell-truck-at-tra-2026-in-budapest",
-        "pubDate": "Mon, 18 May 2026 15:58:50 GMT",
-        "description": "",
-        "title_cn": "H2Accelerate卡车在布达佩斯TRA 2026上展示氢燃料电池卡车"
-      },
       {
         "title": "South Korea's First Hydrogen Specialist Companies Face Their Five-Year Reckoning — Market Slowdown Makes Proportion Targets the Real Tes",
         "link": "https://fuelcellsworks.com/2026/05/17/fuel-cells/south-korea-s-first-hydrogen-specialist-companies-face-their-five-year-reckoning-market-slowdown-makes-proportion-targets-the-real-tes",
@@ -350,15 +308,57 @@
         "pubDate": "Mon, 18 May 2026 15:50:40 GMT",
         "description": "",
         "title_cn": "Karsan E-ATA Hydrogen在意大利特尔尼推出清洁交通转型"
+      },
+      {
+        "title": "ZESTAs Launches Global Liquid Hydrogen Alliance",
+        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/zestas-launches-global-liquid-hydrogen-alliance",
+        "pubDate": "Mon, 18 May 2026 15:41:52 GMT",
+        "description": "",
+        "title_cn": "ZESTA推出全球液氢联盟"
+      },
+      {
+        "title": "Green Hydrogen Science Hub Grows in Jena as Fresh Funding Arrives",
+        "link": "https://fuelcellsworks.com/2026/05/16/green-hydrogen/green-hydrogen-science-hub-grows-in-jena-as-fresh-funding-arrives",
+        "pubDate": "Mon, 18 May 2026 15:33:02 GMT",
+        "description": "",
+        "title_cn": "随着新资金的到来，绿色氢科学中心在耶拿发展壮大"
+      },
+      {
+        "title": "Climate Investor Three Fund Invests in Green eFuels Producers to Develop South Africa’s First Wastewater-to-Green-Methanol Plant",
+        "link": "https://fuelcellsworks.com/2026/05/18/electrolyzer/climate-investor-three-fund-invests-in-green-efuels-producers-to-develop-south-africa-s-first-wastewater-to-green-methanol-plant",
+        "pubDate": "Mon, 18 May 2026 15:28:59 GMT",
+        "description": "",
+        "title_cn": "气候投资者Three Fund投资绿色eFuels生产商开发南非首个废水转绿色甲醇工厂"
+      },
+      {
+        "title": "Construction Begins on Green Hydrogen Pipeline in Stuttgart",
+        "link": "https://fuelcellsworks.com/2026/05/16/h2/german-municipality-is-building-a-hydrogen-pipeline",
+        "pubDate": "Mon, 18 May 2026 15:27:24 GMT",
+        "description": "",
+        "title_cn": "斯图加特绿色氢气管道开始施工"
+      },
+      {
+        "title": "UK-Validated Floating Hydrogen Power Hub Could Save 17,000 Tonnes of CO₂ Per Cruise Season at London Alone",
+        "link": "https://fuelcellsworks.com/2026/05/16/h2/uk-validated-floating-hydrogen-power-hub-could-save-17-000-tonnes-of-co-per-cruise-season-at-london-alone",
+        "pubDate": "Mon, 18 May 2026 14:58:33 GMT",
+        "description": "",
+        "title_cn": "仅在伦敦，英国验证的浮动氢动力枢纽每个邮轮季节就可以节省17,000吨二氧化碳"
+      },
+      {
+        "title": "NEUMAN & ESSER and Graforce to Present Integrated Low-Carbon Hydrogen Plant Solution at PRC Europe 2026 in Amsterdam",
+        "link": "https://fuelcellsworks.com/2026/05/18/green-investment/neuman-and-esser-and-graforce-to-present-integrated-low-carbon-hydrogen-plant-solution-at-prc-europe-2026-in-amsterdam",
+        "pubDate": "Mon, 18 May 2026 14:55:11 GMT",
+        "description": "",
+        "title_cn": "NEUMAN & ESSER和Graforce将在阿姆斯特丹举行的PRC Europe 2026上展示综合低碳氢工厂解决方案"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "policy_nea": {
     "items": [
@@ -381,10 +381,10 @@
         "description": "国家能源局等四部门：探索氢能等能源以直连方式为算力设施供能 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - 碳道",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkFrLUlZWVEwQ0xNU2p1UVhiNW1kWnp4bFNZc185OFA5bDVHTUVFZEpmMHNUemZjN1dsUHZaTF9qZUVhNm1kWVRKR2VDbGM?oc=5",
         "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; 碳道"
       },
       {
         "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
@@ -412,7 +412,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -429,28 +429,10 @@
         "description": "敦煌加速能源绿色低碳转型“氢”启未来 &nbsp;&nbsp; gs.chinanews.com.cn"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "安徽省推动绿电直连发展有关事项（征求意见） - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80NXd1RnV3bjIxdzJYOTJBMnRiOXRWc2hCRHUtLUVvbzJyODZFRDVrQVFZSjdoQXR1VVYwUjl0UUZtYWlYSHRvem1zZmtPaWpkc2dvTERWSjlJWUx6NjVDS0dIU01BYmNm?oc=5",
-        "pubDate": "Mon, 23 Mar 2026 07:00:00 GMT",
-        "description": "安徽省推动绿电直连发展有关事项（征求意见） &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "title": "山西开启绿色能源发展新篇章 - 人民网",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民网"
       },
       {
         "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
@@ -459,13 +441,31 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "四部门发文推动绿色算力_新浪新闻 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
+        "pubDate": "Sun, 10 May 2026 06:12:00 GMT",
+        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 新浪网"
+      },
+      {
+        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
+        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
+        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-19 06:01 UTC"
+    "updated": "2026-05-19 10:34 UTC"
   }
 }
