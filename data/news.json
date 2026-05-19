@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "A multi-agent system for automating scientific discovery",
+        "link": "https://www.nature.com/articles/s41586-026-10652-y",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-y A multi-agent system for automating scientific discovery",
+        "title_cn": "自动化科学发现的多智能体系统"
+      },
+      {
+        "title": "An AI system to help scientists write expert-level empirical software",
+        "link": "https://www.nature.com/articles/s41586-026-10658-6",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10658-6 An AI system to help scientists write expert-level empirical software",
+        "title_cn": "帮助科学家编写专家级经验软件的人工智能系统"
+      },
+      {
+        "title": "Accelerating scientific discovery with Co-Scientist",
+        "link": "https://www.nature.com/articles/s41586-026-10644-y",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10644-y Accelerating scientific discovery with Co-Scientist",
+        "title_cn": "与共同科学家一起加速科学发现"
+      },
+      {
         "title": "AI might jeopardize the uncertainty required in science",
         "link": "https://www.nature.com/articles/d41586-026-01605-6",
         "pubDate": "2026-05-19",
@@ -16,6 +37,13 @@
         "title_cn": "支持受攻击的学术机构"
       },
       {
+        "title": "River oxygen levels are dropping around the world as Earth warms",
+        "link": "https://www.nature.com/articles/d41586-026-01594-6",
+        "pubDate": "2026-05-19",
+        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01594-6 Satellite data on more than 20,000 rivers reveals small but widespread decreases in dissolved oxygen.",
+        "title_cn": "随着地球变暖，世界各地的河流氧气水平正在下降"
+      },
+      {
         "title": "France’s research-primate project goes against its own ethics panel",
         "link": "https://www.nature.com/articles/d41586-026-01606-5",
         "pubDate": "2026-05-19",
@@ -28,38 +56,10 @@
         "pubDate": "2026-05-19",
         "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01335-9 A beautiful and ingenious machine hit the headlines 150 years ago, and a book explores bird migration in this week’s pick from the Nature archive.",
         "title_cn": "在早期打字机设计的正确轨道上"
-      },
-      {
-        "title": "Airborne DNA can yield insights with the right techniques",
-        "link": "https://www.nature.com/articles/d41586-026-01604-7",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01604-7 Airborne DNA can yield insights with the right techniques",
-        "title_cn": "空气中的DNA可以通过正确的技术产生见解"
-      },
-      {
-        "title": "Could this synthetic egg bring back extinct birds? Researchers urge caution",
-        "link": "https://www.nature.com/articles/d41586-026-01535-3",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01535-3 Colossal Biosciences says its artificial egg has de-extinction and conservation potential.",
-        "title_cn": "这种合成卵能否带回已灭绝的鸟类？研究人员敦促谨慎"
-      },
-      {
-        "title": "The uncritical adoption of AI in science is alarming — we urgently need guard rails",
-        "link": "https://www.nature.com/articles/d41586-026-01557-x",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01557-x Artificial intelligence is rapidly accelerating scientific output, but risks narrowing inquiry, weakening judgement and undermining how scientists are trained.",
-        "title_cn": "人工智能在科学中的不加批判的采用令人担忧—我们迫切需要防护栏"
-      },
-      {
-        "title": "China moves AI brain implants from trials towards real-world use",
-        "link": "https://www.nature.com/articles/d41586-026-01468-x",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01468-x Chinese start-up firms are supercharging their efforts to develop algorithms for brain–computer interfaces that help people to walk and talk.",
-        "title_cn": "中国将人工智能大脑植入物从试验转向实际应用"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "tech_cn": {
     "items": [
@@ -67,7 +67,7 @@
         "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
         "link": "https://36kr.com/p/3816109626138119?f=rss",
         "pubDate": "2026-05-19 19:08:52  +0800",
-        "description": "大公司： 圆通速递：4月快递产品收入60.71亿元，同比增长5.49% 36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。 哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿 36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财务报告。 财报显示，B站一季度总营收为74.7亿元人民币。日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。毛��率连续15个季度环比提升至37.1%，调整后净利润5.9亿元，同比增长"
+        "description": "大公司： 圆通速递：4月快递产品收入60.71亿元，同比增长5.49% 36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.21%。 哔哩哔哩：一季度营收74.7亿元，日均活跃用户1.15亿 36氪获悉，哔哩哔哩（以下简称“B站”）公布了截至2026年3月31日第一季度财务报告。 财报显示，B站一季度总营收为74.7亿元人民币。日均活跃用户为1.15亿，同比增长8%；日均使用时长提升至119分钟，创历史新高。毛利率连续15个季度环比提升至37.1%，调整后净利润5.9亿元，同比增长6"
       },
       {
         "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
@@ -100,7 +100,7 @@
         "description": "今日热点导览 瑞幸咖啡正式上线两款含酒精的特调饮品 京张高铁试点推出“自行车随身行”服务 马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术 韩国法院要求三星电子罢工行动不得影响产量 多家理财公司集中提前终止理财产品 TOP 3 大新闻 贾跃亭又拿到7000万美元投资 贾跃亭发布视频，宣布法拉第未来近期完成了7000万美元（现汇率约合4.77亿元人民币）机构投资者募资，并将启动战略、产品技术&amp;业务、财务、资本、AI体系五大变革。贾跃亭表示，其目标包括FFAI市值重回2021年上市水平，2027年第四季度实现经营性现金流为正，五年内在EAI人形与仿生机器人领域成为北美真实场"
       },
       {
-        "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+        "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预���今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
         "link": "https://36kr.com/p/3814695536336387?f=rss",
         "pubDate": "2026-05-18 19:11:14  +0800",
         "description": "大公司： 索辰科技：物理AI业务目前尚处于布局初期 36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段，若出现募集资金投资项目未能顺利实施、新技术开发进度不达预期、研发遭遇技术瓶颈甚至失败，将会对公司经营业绩造成一定影响。公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争"
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla’s Former AI Lead Goes To Anthropic",
+        "link": "https://cleantechnica.com/2026/05/19/teslas-former-ai-lead-goes-to-anthropic/",
+        "pubDate": "Tue, 19 May 2026 22:44:36 +0000",
+        "description": "Andrej Karpathy was Tesla&#8217;s AI lead well before AI was everywhere all the time. At the very early part of the AI hype cycle, he was the only AI guy many people knew. He led Tesla&#8217;s efforts toward Full Self Driving (FSD) for years, and it&#8217;s still not exactly clear ... [continued] Th",
+        "title_cn": "特斯拉前人工智能主管走向人性化"
+      },
+      {
+        "title": "Strait Of Hormuz Sulfur Shock Previews Fertilizer’s Future",
+        "link": "https://cleantechnica.com/2026/05/19/strait-of-hormuz-sulfur-shock-previews-fertilizers-future/",
+        "pubDate": "Tue, 19 May 2026 22:28:08 +0000",
+        "description": "When people think about the Strait of Hormuz, they think about oil tankers, LNG carriers, naval escorts, insurance premiums, and the price of gasoline. They generally do not think about yellow piles of sulfur beside gas plants, phosphate fertilizer complexes, or the acid circuits that keep copper an",
+        "title_cn": "霍尔木兹海峡硫磺冲击预示着肥料的未来"
+      },
+      {
+        "title": "Poland Bought Hydrogen Buses. Then The Fuel Bills Arrived",
+        "link": "https://cleantechnica.com/2026/05/19/poland-bought-hydrogen-buses-then-the-fuel-bills-arrived/",
+        "pubDate": "Tue, 19 May 2026 22:18:04 +0000",
+        "description": "CEE Bankwatch’s May 2026 report, Hydrogen buses in Poland: Where did it all go wrong?, is useful because it moves the hydrogen bus debate out of the brochure and into the depot. It is not another model of what hydrogen might cost in 2035. It is a record of what ... [continued] The post Poland Bought",
+        "title_cn": "波兰购买了氢能公交车。然后燃油账单到达"
+      },
+      {
+        "title": "Charging My Electric Car Is MUCH Cheaper Than Most People Think",
+        "link": "https://cleantechnica.com/2026/05/19/charging-my-electric-car-is-much-cheaper-than-most-people-think/",
+        "pubDate": "Tue, 19 May 2026 19:11:22 +0000",
+        "description": "Most people have no idea how cheap it is to charge an electric car. This hit me this morning while unplugging my car, so I decided I should write an article about it. Ironically, a few hours after I had the idea to write the article, Jake Richardson submitted the ... [continued] The post Charging My",
+        "title_cn": "给我的电动汽车充电比大多数人想象的要便宜得多"
+      },
+      {
+        "title": "EV Owners: How Much Are You Saving?",
+        "link": "https://cleantechnica.com/2026/05/19/ev-owners-how-much-are-you-saving/",
+        "pubDate": "Tue, 19 May 2026 17:43:22 +0000",
+        "description": "After reading some user comments about saving money each month by driving an EV instead of a gas or diesel vehicle, an idea came to write an article asking some of you EV owners how much you are saving each month during this time of extra high fossil fuel prices. ... [continued] The post EV Owners: ",
+        "title_cn": "电动汽车车主：您节省了多少钱？"
+      },
       {
         "title": "If Supply Drops But Demand Does Not, The Price Of Oil Will Soar",
         "link": "https://cleantechnica.com/2026/05/19/if-supply-drops-but-demand-does-not-the-price-of-oil-will-soar/",
@@ -137,45 +172,10 @@
         "pubDate": "Tue, 19 May 2026 14:30:47 +0000",
         "description": "In our most recent Short-Term Energy Outlook (STEO), we forecast that annual electric power generation from utility-scale solar will surpass that from coal for the first time in 2026 within the electricity grid that covers most of Texas. Solar generation is expected to reach 78 billion kilowatthours",
         "title_cn": "2026年ERCOT太阳能发电量可能首次超过煤炭"
-      },
-      {
-        "title": "The Last Gas Station",
-        "link": "https://cleantechnica.com/2026/05/19/the-last-gas-station/",
-        "pubDate": "Tue, 19 May 2026 12:00:12 +0000",
-        "description": "The first dedicated gas station in the US was opened in 1905 in St. Louis, Missouri. Before it came to be, there weren’t any gas stations, and at one point there weren’t even any internal combustion engine vehicles. Before trains, for land travel, there were domesticated animals and people rode ... ",
-        "title_cn": "最后一个加油站"
-      },
-      {
-        "title": "NLR Battery Innovation Awarded NASA’s Invention of the Year",
-        "link": "https://cleantechnica.com/2026/05/18/nlr-battery-innovation-awarded-nasas-invention-of-the-year/",
-        "pubDate": "Tue, 19 May 2026 03:47:17 +0000",
-        "description": "To Shoot for the Moon, Lab Researchers Must First Learn How To Fail on Earth By Rebecca Martineau Weeks ago, four NASA astronauts completed a pioneering journey around the moon. For 10 days, lithium-ion batteries on Artemis II played an important role in powering various communications, navigation, ",
-        "title_cn": "NLR Battery Innovation荣获NASA年度发明奖"
-      },
-      {
-        "title": "The Big ICE Meltdown — April’s China EV Sales Report",
-        "link": "https://cleantechnica.com/2026/05/18/the-big-ice-meltdown-aprils-china-ev-sales-report/",
-        "pubDate": "Tue, 19 May 2026 03:43:04 +0000",
-        "description": "After the December end-of-incentive sales rush (NEVs are no longer exempt from purchase tax this year), and the following sales slump, high gas prices and a never ending wave of new models has allowed April to reach record EV market share, with plugins surpassing the 60% barrier for the first ... [c",
-        "title_cn": "大冰融化--4月份中国电动汽车销量报告"
-      },
-      {
-        "title": "Australia’s Big Miners Show the Way with Renewables",
-        "link": "https://cleantechnica.com/2026/05/18/australias-big-miners-show-the-way-with-renewables/",
-        "pubDate": "Tue, 19 May 2026 03:40:04 +0000",
-        "description": "The Australian government subsidises diesel from primary producers to the tune of AU$11 billion per year. Dr Andrew Forrest of Fortescue Metals has come out swinging, saying that the 18 largest miners receive about one third of this, and don’t need it.As Fortescue heads to real zero, Forrest wants a",
-        "title_cn": "澳大利亚的大型矿工利用可再生能源引领潮流"
-      },
-      {
-        "title": "Scientists Discover Way To Leverage High-Energy Sunlight for Fuel Production",
-        "link": "https://cleantechnica.com/2026/05/18/scientists-discover-way-to-leverage-high-energy-sunlight-for-fuel-production/",
-        "pubDate": "Tue, 19 May 2026 03:33:14 +0000",
-        "description": "Semiconductor-Catalyst Combo Captures Energy To Drive Chemical Reactions By Connor O’Neil Plants and algae make their fuel from sunlight. Perhaps we could do the same using semiconductors. A team of scientists at the National Laboratory of the Rockies (NLR) made strides in that direction. They disco",
-        "title_cn": "科学家探索利用高能量阳光生产燃料的方法"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "energy_cn": {
     "items": [
@@ -266,94 +266,94 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "新疆氢能展暨氢能发展大会将于26年10月举办 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pS1M2amF5c09nOHp3WnRzOFluLW5UQmJvZmllVzlRYUZ2bkNZNzNCOWxjSTF0UzQ4NU94ZldZdURCS2xsZVNCYVlhbWdjLVBmTy1KSnBGR0otV1E?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "description": "新疆氢能展暨氢能发展大会将于26年10月举办 &nbsp;&nbsp; 能源界"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - 腾讯新闻",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80bGU2WXByYWREZU5ENHRhRmJqckd2aXl6QVZtclNGOUNTdWxZeHd2S2lUS1FiZFJ0RnQ4QzhDbjE5S1VkRkxXQ1lXUjUzZmtyZEtUZk1n?oc=5",
-        "pubDate": "Thu, 07 May 2026 13:13:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; 腾讯新闻"
-      },
-      {
-        "title": "国富氢能(02582)附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnNtLUpEVEVwTUwzNVVwaEl4SjJOVVFZOHRhNDRBM3pIZmhOREp5Z1hpLUdGTVFFbWFvSGRWbjZab2E1M29SNkNDQ2hkR1h4dk1VMFl6SDQtbUczMi1WcTJ5NlB2el92ek5wc0swT0dtaG9LUnVkMzhkLUIyT1pmcGhka3NjZDhTelF4ZGh4Si1XeE5ZNGhBV1BJYUZoUC1ZeGRmMU5mOUhRUmtQd0g0VmdRQQ?oc=5",
-        "pubDate": "Wed, 06 May 2026 02:12:19 GMT",
-        "description": "国富氢能(02582)附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 &nbsp;&nbsp; 东方财富"
+        "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
+        "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
+        "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
+      },
+      {
+        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
+        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
+        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Hiringa Energy, TR Group and Booth’s Logistics Demonstrate Hydrogen Freight in Action",
-        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/hiringa-energy-tr-group-and-booth-s-logistics-demonstrate-hydrogen-freight-in-action",
-        "pubDate": "Mon, 18 May 2026 16:20:30 GMT",
+        "title": "White Hydrogen Discovered in Billion-Year-Old Canadian Shield Rock Points to Potential New Energy Source",
+        "link": "https://fuelcellsworks.com/2026/05/19/clean-energy/mannysaraklis-gmail-com-10-54-am-0-minutes-ago-to-me-white-hydrogen-discovered-in-billion-year-old-canadian-shield-rock-points-to-potential-new-energy-source",
+        "pubDate": "Tue, 19 May 2026 16:07:46 GMT",
         "description": "",
-        "title_cn": "Hiringa Energy、TR Group和Booth的物流展示了氢气货运的实际应用"
+        "title_cn": "在拥有数十亿年历史的加拿大盾岩中发现的白氢为潜在的新能源指明了方向"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: May 09-May 14, 2026",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-may-09-may-14-2026",
-        "pubDate": "Mon, 18 May 2026 16:15:24 GMT",
+        "title": "Italy's H-Dual Project Retrofits a Ford Truck to Run on HVO Plus Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/05/16/h2/italy-s-h-dual-project-retrofits-a-ford-truck-to-run-on-hvo-plus-hydrogen",
+        "pubDate": "Tue, 19 May 2026 15:54:49 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年5月9日至5月14日"
+        "title_cn": "意大利的H-Dual项目改造福特卡车以使用HVO Plus氢气"
       },
       {
-        "title": "NamX Wins European Patent for Hydrogen Capsule Technology",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-technology/namx-wins-european-patent-for-hydrogen-capsule-technology",
-        "pubDate": "Mon, 18 May 2026 16:11:25 GMT",
+        "title": "National Highways Pilots Groundbreaking Green Hydrogen on Merseyside Scheme",
+        "link": "https://fuelcellsworks.com/2026/05/19/energy-innovation/national-highways-pilots-groundbreaking-green-hydrogen-on-merseyside-scheme",
+        "pubDate": "Tue, 19 May 2026 15:43:43 GMT",
         "description": "",
-        "title_cn": "NamX赢得氢气胶囊技术的欧洲专利"
+        "title_cn": "国家公路在默西塞德郡试点开创性的绿色氢气计划"
       },
       {
-        "title": "EVREC Files Environmental Impact Statement for One of Canada’s Largest Wind-to-Green Hydrogen and Ammonia Projects",
-        "link": "https://fuelcellsworks.com/2026/05/18/clean-energy/evrec-files-environmental-impact-statement-for-one-of-canada-s-largest-wind-to-green-hydrogen-and-ammonia-projects",
-        "pubDate": "Mon, 18 May 2026 16:09:43 GMT",
+        "title": "Hynet Opens Urban Hydrogen Station in Yongin",
+        "link": "https://fuelcellsworks.com/2026/05/12/electrolyzer/hynet-opens-urban-hydrogen-station-in-yongin",
+        "pubDate": "Tue, 19 May 2026 15:39:02 GMT",
         "description": "",
-        "title_cn": "EVREC为加拿大最大的风电-绿色氢和氨项目之一提交环境影响报告"
+        "title_cn": "Hynet在龙仁开设城市加氢站"
       },
       {
-        "title": "Turn2X Powers Europe's First Green Synthetic Methane Plant in Spain's Extremadura",
-        "link": "https://fuelcellsworks.com/2026/05/16/clean-energy/turn2x-powers-europe-s-first-green-synthetic-methane-plant-in-spain-s-extremadura",
-        "pubDate": "Mon, 18 May 2026 16:03:23 GMT",
+        "title": "Air Liquide and OXEA Lock In 12-Year Syngas and Hydrogen Supply Deal for Oberhausen",
+        "link": "https://fuelcellsworks.com/2026/05/19/clean-energy/air-liquide-and-oxea-lock-in-12-year-syngas-and-hydrogen-supply-deal-for-oberhausen",
+        "pubDate": "Tue, 19 May 2026 15:23:53 GMT",
         "description": "",
-        "title_cn": "Turn2X为西班牙埃斯特雷马杜拉的欧洲首家绿色合成甲烷工厂提供动力"
+        "title_cn": "Oberhausen的Air Liquide和OXEA锁定12年合成气和氢气供应协议"
       },
       {
-        "title": "H2Accelerate TRUCKS Showcases Hydrogen Fuel Cell Truck at TRA 2026 in Budapest",
-        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/h2accelerate-trucks-showcases-hydrogen-fuel-cell-truck-at-tra-2026-in-budapest",
-        "pubDate": "Mon, 18 May 2026 15:58:50 GMT",
+        "title": "World Hydrogen Summit 2026: Europe Has the Technology, the Rules, and the Ambition — But Still Lacks the One Thing That Matters Most",
+        "link": "https://fuelcellsworks.com/2026/05/19/h2/world-hydrogen-summit-2026-europe-has-the-technology-the-rules-and-the-ambition-but-still-lacks-the-one-thing-that-matters-most",
+        "pubDate": "Tue, 19 May 2026 15:17:46 GMT",
         "description": "",
-        "title_cn": "H2Accelerate卡车在布达佩斯TRA 2026上展示氢燃料电池卡车"
+        "title_cn": "2026年世界氢能峰会：欧洲拥有技术、规则和雄心--但仍然缺少一件最重要的事情"
       },
       {
-        "title": "South Korea's First Hydrogen Specialist Companies Face Their Five-Year Reckoning — Market Slowdown Makes Proportion Targets the Real Tes",
-        "link": "https://fuelcellsworks.com/2026/05/17/fuel-cells/south-korea-s-first-hydrogen-specialist-companies-face-their-five-year-reckoning-market-slowdown-makes-proportion-targets-the-real-tes",
-        "pubDate": "Mon, 18 May 2026 15:52:50 GMT",
+        "title": "First Hydrogen Completes Design and IP Protection for Major Performance and Efficiency Optimization Including Amphibous Capabilities to Its Ground Drone Technology Platform",
+        "link": "https://fuelcellsworks.com/2026/05/19/green-investment/first-hydrogen-completes-design-and-ip-protection-for-major-performance-and-efficiency-optimization-including-amphibous-capabilities-to-its-ground-drone-technology-platform",
+        "pubDate": "Tue, 19 May 2026 15:10:14 GMT",
         "description": "",
-        "title_cn": "韩国首家氢能专家公司面临五年清算--市场放缓使比例瞄准真正的TES"
+        "title_cn": "First Hydrogen完成主要性能和效率优化的设计和知识产权保护，包括其地面无人机技术平台的两栖能力"
       },
       {
-        "title": "Karsan E-ATA Hydrogen Launches the Clean Transportation Transition in Terni, Italy",
-        "link": "https://fuelcellsworks.com/2026/05/18/energy-innovation/karsan-e-ata-hydrogen-launches-the-clean-transportation-transition-in-terni-italy",
-        "pubDate": "Mon, 18 May 2026 15:50:40 GMT",
+        "title": "SWISS Teams Up with Metafuels to Further Promote SAF Green Methanol to eSAF",
+        "link": "https://fuelcellsworks.com/2026/05/16/clean-energy/swiss-teams-up-with-metafuels-to-further-promote-saf-green-methanol-to-esaf",
+        "pubDate": "Tue, 19 May 2026 14:55:38 GMT",
         "description": "",
-        "title_cn": "Karsan E-ATA Hydrogen在意大利特尔尼推出清洁交通转型"
+        "title_cn": "瑞士与Metafuels合作，进一步向eSAF推广SAF绿色甲醇"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "policy_nea": {
     "items": [
@@ -458,16 +458,16 @@
         "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; 碳道"
       },
       {
-        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91RTlrOEl6blNvMGFzdGtkLVBBMTQ2YUlXWGx3azM0NmVGeXA2NUpLTUw3Nnd1Nks5UTRWVUFzYVJtcW5lNzk2MlpWS2dFOUZzSUZMVEtPbEUzcUI2?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
-        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
-      },
-      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91RTlrOEl6blNvMGFzdGtkLVBBMTQ2YUlXWGx3azM0NmVGeXA2NUpLTUw3Nnd1Nks5UTRWVUFzYVJtcW5lNzk2MlpWS2dFOUZzSUZMVEtPbEUzcUI2?oc=5",
+        "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
+        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,12 +512,6 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "四部门发文推动绿色算力_新浪新闻 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
-        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 新浪网"
-      },
-      {
         "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
         "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
@@ -534,9 +528,15 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
         "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
         "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-19 16:47 UTC"
+    "updated": "2026-05-19 22:58 UTC"
   }
 }
