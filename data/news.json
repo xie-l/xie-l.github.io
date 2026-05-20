@@ -2,67 +2,73 @@
   "tech": {
     "items": [
       {
-        "title": "The brain’s code seems to be in constant flux. Neuroscientists are baffled",
-        "link": "https://www.nature.com/articles/d41586-026-01554-0",
+        "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+        "link": "https://www.nature.com/articles/s41586-026-10642-0",
         "pubDate": "2026-05-20",
-        "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01554-0 Neurons fire much more erratically than researchers thought. What does that mean for how the brain works?",
-        "title_cn": "大脑的代码似乎在不断变化。神经科学家感到困惑"
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10642-0 Spinal neuromotor rehabilitation using a portable isokinetic training robot",
+        "title_cn": "使用便携式等速运动训练机器人进行脊髓神经运动康复"
       },
       {
-        "title": "A multi-agent system for automating scientific discovery",
-        "link": "https://www.nature.com/articles/s41586-026-10652-y",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10652-y A multi-agent system for automating scientific discovery",
-        "title_cn": "自动化科学发现的多智能体系统"
+        "title": "Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice",
+        "link": "https://www.nature.com/articles/s41586-026-10659-5",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10659-5 Author Correction: Inactivating SnRK1β1A promotes broad-spectrum disease resistance in rice",
+        "title_cn": "作者更正：灭活SnRK1β1A促进水稻的广谱抗病性"
       },
       {
-        "title": "An AI system to help scientists write expert-level empirical software",
-        "link": "https://www.nature.com/articles/s41586-026-10658-6",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10658-6 An AI system to help scientists write expert-level empirical software",
-        "title_cn": "帮助科学家编写专家级经验软件的人工智能系统"
+        "title": "Nearly half of the world’s Nature Index chemistry research is now done in China",
+        "link": "https://www.nature.com/articles/d41586-026-00431-0",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00431-0 A breakdown of leading countries and institutions highlights China’s dominance in the field.",
+        "title_cn": "全球近一半的自然指数化学研究现在都在中国完成"
       },
       {
-        "title": "Accelerating scientific discovery with Co-Scientist",
-        "link": "https://www.nature.com/articles/s41586-026-10644-y",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/s41586-026-10644-y Accelerating scientific discovery with Co-Scientist",
-        "title_cn": "与共同科学家一起加速科学发现"
+        "title": "Red light therapy: the science behind the hype",
+        "link": "https://www.nature.com/articles/d41586-026-01643-0",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01643-0 From glowing red face masks to fibre optic needles, we explore the gap between commercial devices and the field of ‘photobiomodulation’.",
+        "title_cn": "红光疗法：炒作背后的科学"
       },
       {
-        "title": "AI might jeopardize the uncertainty required in science",
-        "link": "https://www.nature.com/articles/d41586-026-01605-6",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01605-6 AI might jeopardize the uncertainty required in science",
-        "title_cn": "人工智能可能会危及科学所需的不确定性"
+        "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
+        "link": "https://www.nature.com/articles/d41586-026-01627-0",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-01627-0 Systems generate hypotheses and ways to test them — plus, how mobile phones might one day be able to see around corners.",
+        "title_cn": "人工智能“科学家”承诺加速研究--它们是如何工作的？"
       },
       {
-        "title": "Support academic institutions under attack",
-        "link": "https://www.nature.com/articles/d41586-026-01603-8",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01603-8 Support academic institutions under attack",
-        "title_cn": "支持受攻击的学术机构"
+        "title": "What China’s rise in chemistry means for the rest of the world",
+        "link": "https://www.nature.com/articles/d41586-026-00428-9",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00428-9 China now produces more than three times the United States’ chemistry output in the Nature Index, underscoring its rapidly growing influence in the field.",
+        "title_cn": "中国在化学领域的崛起对世界其他地区意味着什么"
       },
       {
-        "title": "River oxygen levels are dropping around the world as Earth warms",
-        "link": "https://www.nature.com/articles/d41586-026-01594-6",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01594-6 Satellite data on more than 20,000 rivers reveals small but widespread decreases in dissolved oxygen.",
-        "title_cn": "随着地球变暖，世界各地的河流氧气水平正在下降"
+        "title": "Cusp-singularity-enhanced Coriolis effect for sensitive chip-scale gyroscopes",
+        "link": "https://www.nature.com/articles/s41586-026-10565-w",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10565-w By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory gyroscopes, substantial improvements in signal",
+        "title_cn": "用于灵敏芯片尺度陀螺仪的尖端奇点增强科里奥利效应"
       },
       {
-        "title": "France’s research-primate project goes against its own ethics panel",
-        "link": "https://www.nature.com/articles/d41586-026-01606-5",
-        "pubDate": "2026-05-19",
-        "description": "Nature, Published online: 19 May 2026; doi:10.1038/d41586-026-01606-5 France’s research-primate project goes against its own ethics panel",
-        "title_cn": "法国的研究灵长类项目违背了自己的伦理委员会"
+        "title": "A pathogen lncRNA secreted into rice sequesters a host miRNA for virulence",
+        "link": "https://www.nature.com/articles/s41586-026-10572-x",
+        "pubDate": "2026-05-20",
+        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10572-x A fungal long non-coding RNA from Magnaporthe oryzae translocates into rice cells to sequester a host microRNA that normally represses PKR1, a negative immunity regulator, thereby facilitating infection and revealing a widespread ",
+        "title_cn": "分泌到水稻中的病原体lncRNA隔离宿主miRNA"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
+        "link": "https://36kr.com/p/3816942423000196?f=rss",
+        "pubDate": "2026-05-20 19:40:36  +0800",
+        "description": "大公司： 新加坡加码人工智能布局，英伟达将落地本地研发中心 全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经） 2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选 36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服"
+      },
       {
         "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
         "link": "https://36kr.com/p/3817353357968516?f=rss",
@@ -104,19 +110,41 @@
         "link": "https://36kr.com/p/3816885092910212?f=rss",
         "pubDate": "2026-05-20 08:20:10  +0800",
         "description": "今日热点导览 谷歌推出Gemini 3.5系列模型 洁丽雅回应豪门内斗传闻，“毛巾少爷”1个月带货超500万元 巨力索具连续第二日跌停 前三星芯片负责人：明年内存将降价 自费流感疫苗也可使用医保报销 谷歌搜索宣布大改版，AI模式与代理助手全面嵌入 TOP 3 大新闻 DeepSeek回应用户“对话泄露”疑虑 5月19日，DeepSeek发布关于&lt; think &gt;字符触发模型异常回复的说明。近期关注到有用户反馈，在与DeepSeek模型的对话中输入&lt; think &gt;这类特殊字符后，模型偶发返回不可预期的内容，使部分用户产生了“对话泄露”的疑虑。针对这一问题，技术团队经全面"
-      },
-      {
-        "title": "当“躺平”、Gap被歧视，我们该如何度过奥德赛时期？ | 职场极端气候 ②",
-        "link": "https://36kr.com/p/3816045694098952?f=rss",
-        "pubDate": "2026-05-20 08:02:42  +0800",
-        "description": "图源：公众号「有三思 U Sense」） 2026年2月，小红书博主橘一橙NiceFriend发布了一条视频。她在视频里把 奥德赛时期 定义为“对事业、情感以及身份认同产生强烈焦虑和迷茫的阶段”，将之概括为“ 成年人类的未成年 ”。这条视频获得10万+点赞，8.6万收藏。 “奥德赛时期”这个词并非中文原生。2007年，《纽约时报》专栏作家大卫·布鲁克斯发表了同名评论文章，借用荷马史诗中奥德修斯战后漂泊十年才返回家乡的意象，描述青春期与成年期之间一段被拉长的过渡期。这个概念在西方世界沉寂了近二十年，却在2020年代的中国年轻人中间获得了第二次生命。 这个词在中文互联网的流行与古希腊史诗关系不大。"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "First EV Chargers Installed At Large Restaurant Chain",
+        "link": "https://cleantechnica.com/2026/05/20/first-ev-chargers-installed-at-large-restaurant-chain/",
+        "pubDate": "Wed, 20 May 2026 15:43:54 +0000",
+        "description": "If you have been following the EV charging market in the US, you know there has been great progress made in the last year or so. Despite the Trump administration trying to stop the growth of electric vehicles in the US, more and more public EV chargers have been installed. ... [continued] The post F",
+        "title_cn": "首批安装在大型连锁餐厅的电动汽车充电器"
+      },
+      {
+        "title": "Tesla, Wipers, And The Malevolent Mr. Musk",
+        "link": "https://cleantechnica.com/2026/05/20/tesla-wipers-and-the-malevolent-mr-musk/",
+        "pubDate": "Wed, 20 May 2026 15:35:22 +0000",
+        "description": "Should a man who cannot make automatic windshield wipers work be trusted to make cars that drive themselves? The post Tesla, Wipers, And The Malevolent Mr. Musk appeared first on CleanTechnica .",
+        "title_cn": "特斯拉、雨刷机和恶毒的马斯克先生"
+      },
+      {
+        "title": "The Best Way to Burn 100 Gallons of Gasoline Fast",
+        "link": "https://cleantechnica.com/2026/05/20/the-best-way-to-burn-100-gallons-of-gasoline-fast/",
+        "pubDate": "Wed, 20 May 2026 14:54:40 +0000",
+        "description": "Ah, yes, of course — who wants to burn gas fast when it costs $4.43/gallon?! But, look, I got your attention. Naturally, people want to save money on gas right now. One thing early-generation electric vehicle owners can tell you is there&#8217;s one big, obvious way to reduce your gas ... [continued",
+        "title_cn": "快速燃烧100加仑汽油的最佳方式"
+      },
+      {
+        "title": "How EPA Cuts Will Affect US Lives For Generations To Come",
+        "link": "https://cleantechnica.com/2026/05/20/how-epa-cuts-will-affect-us-lives-for-generations-to-come/",
+        "pubDate": "Wed, 20 May 2026 11:46:15 +0000",
+        "description": "We used to think of the US Environmental Protection Agency as the site where groundbreaking scientific research took place. One of the most important areas of inquiry by its scientific staff was released to the public in 2009, when the US EPA found that greenhouse gas emissions threatened public hea",
+        "title_cn": "美国环保署的削减将如何影响我们未来几代人的生活"
+      },
       {
         "title": "Hydrostor’s Underground Pumped Hydro Ontario Storage Plan Runs Into the BESS Benchmark",
         "link": "https://cleantechnica.com/2026/05/20/hydrostors-underground-pumped-hydro-ontario-storage-plan-runs-into-the-bess-benchmark/",
@@ -144,38 +172,10 @@
         "pubDate": "Wed, 20 May 2026 03:51:55 +0000",
         "description": "Free Software Will Help Industry Understand the Full Value of Energy Projects Energy productivity—the measure of how much economic value is generated for every unit of energy used—can be underestimated when multiple benefits are overlooked. Multiple benefits are the operational and strategic improve",
         "title_cn": "JUSTIFI工具可以释放能源生产力项目的价值"
-      },
-      {
-        "title": "How High-Performance Computing and AI Accelerated Applied Energy Research in 2025",
-        "link": "https://cleantechnica.com/2026/05/19/how-high-performance-computing-and-ai-accelerated-applied-energy-research-in-2025/",
-        "pubDate": "Wed, 20 May 2026 03:46:25 +0000",
-        "description": "Kestrel Supercomputer Advanced More Than 500 Energy Modeling and Simulation Projects By Julia Medeiros Coad The National Laboratory of the Rockies’ (NLR’s) advanced computing capabilities continue to grow with the demands and complexities of applied energy research, with key upgrades to the laborato",
-        "title_cn": "2025年高性能计算和人工智能如何加速应用能源研究"
-      },
-      {
-        "title": "New “Atlas” Will Catalog Proteins That Bind to Rare Earth Elements",
-        "link": "https://cleantechnica.com/2026/05/19/new-atlas-will-catalog-proteins-that-bind-to-rare-earth-elements/",
-        "pubDate": "Wed, 20 May 2026 03:42:52 +0000",
-        "description": "Bioprospecting Tool Could Boost Critical Mineral Refining By Anna Squires Throughout the 1800s, naturalists journeyed to far-flung corners of the world to catalog birds, mammals, minerals, and plants. Now, a team of U.S. researchers is assembling a catalog of their own: an atlas of naturally occurri",
-        "title_cn": "新的“Atlas”将对与稀土元素结合的蛋白质进行分类"
-      },
-      {
-        "title": "“Real Panic” In Oil Industry Expected To Come In June If Strait Of Hormuz Doesn’t Open",
-        "link": "https://cleantechnica.com/2026/05/19/real-panic-in-oil-industry-expected-to-come-in-june-if-strait-of-hormuz-doesnt-open/",
-        "pubDate": "Tue, 19 May 2026 23:41:23 +0000",
-        "description": "As I wrote the other day, gas prices are up 56% in the United States since the US first bombed Iran. So, it&#8217;s not like things are going swimmingly in this industry. However, as several analysts and observers have been saying, we haven&#8217;t seen anything yet! Countries have been relying ... ",
-        "title_cn": "如果霍尔木兹海峡不开放，石油行业的“真正恐慌”预计将在6月到来"
-      },
-      {
-        "title": "Tesla’s Former AI Lead Goes To Anthropic",
-        "link": "https://cleantechnica.com/2026/05/19/teslas-former-ai-lead-goes-to-anthropic/",
-        "pubDate": "Tue, 19 May 2026 22:44:36 +0000",
-        "description": "Andrej Karpathy was Tesla&#8217;s AI lead well before AI was everywhere all the time. At the very early part of the AI hype cycle, he was the only AI guy many people knew. He led Tesla&#8217;s efforts toward Full Self Driving (FSD) for years, and it&#8217;s still not exactly clear ... [continued] Th",
-        "title_cn": "特斯拉前人工智能主管走向人性化"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "energy": {
     "items": [
@@ -237,21 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "综述：氢能驱动：探索当前发展与未来挑战 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WlZnSkhWZnNqN3FCUnBUanFpUFl2c3k5VnQ4R1hOM3dObkJLWGlSNGUxOC1meFFEcHAzRS1maEJrWVB3d2hrRXhxSnpKNDBJN1VpUHhQaXN2cnpxWHQwaTBaWnNYNUJ6aEE?oc=5",
-        "pubDate": "Fri, 15 May 2026 23:59:07 GMT",
-        "description": "综述：氢能驱动：探索当前发展与未来挑战 &nbsp;&nbsp; 生物通"
-      },
       {
         "title": "50套电解槽！阳光氢能、国核电力院、中化二建、五环工程等中标！本周12个氢能招中标信息【氢能项目·周分析】 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zUHV3aGFyNW1FRGU2VHlWQS04UmhmUW1BMndUUldNbUxORFZIRjJlQ1RpaXlocFZBUHdVUFhtdWhRdEItWHloSUd0ME1PWUdQMnpZdQ?oc=5",
         "pubDate": "Tue, 19 May 2026 01:05:36 GMT",
         "description": "50套电解槽！阳光氢能、国核电力院、中化二建、五环工程等中标！本周12个氢能招中标信息【氢能项目·周分析】 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi6wpBVV95cUxQTUh3N2Q5TmJrazZuN1EtYWNta0t4RC1IdGcyb0t4ZGhTdGRXekRMQVUyRnozRTgzSS05Z0VRYUVqWkVoV2Z4NjFaRFM0Z2s5VU1HOVZWNVNzSy0wcFdxRjhzRlAybU55YkJUYmRXWjlSVURfYk1WYmpIb2h6WnpEVktxVlk5WXhUZ0NidjM5cTROVU9Vd3VFY0dINW5NWHQybUpEUXpMMmZTZkZBSzdpYS1zNzRhUndtckpYTklHSFFEUk0yX1YtbHBYQnRoenR3SVJFWVgyaW5BZVM2aE5rdjNQU043YkFYZ21KRmZoaG5XRHQzdkttQTVKNlhTcVItdzlQTWxnZUlxY3lVWGRaS2NFOS1yX0tJY3VDTW1mOG5VYWhDRGpWZHRaNXdTUUJNeFE2V0RCMUpmQl9lWkJzWWVidldzU3pXWUFuNVkweU9PVDZjRTNiRjZFRldyTFhYMUREU2ZxX3BObEFVNXMwUGZHRkZybVlXYlFXd1BQeGpjM3NOT3U0NlZNdUFlSHg0NzJ4QTZEQ2tTc3hqbkdkUjFweG04MUpCaVdtVjRXWlgzck8xRklybk1NTXlRMkYtUUlWNTJXcjFDVTRXNndhWVVGRzJGSjhTM19YQTVEeW5TWnFZRG5LclZtUDdQclNOZTJNMl8zSE1XLTZfd002N1gwNnhVcG5TdGM4akhnSER5azR5S2dzdzVhRjF2YWFBcjBYMDJobEliZUxHSlVKeEFHblc5OTJmNDkwX0xFYld5WGpNbWZlRGpMWm9BTmc1RHpEMnJjUDhkM0thLWUyUkFkOGNSYTA5SXpEUmk3M1ZQN3RqZkdObHhwLU9ld05sTkh5WFVIWXg0Nld0NWRBeDNRWUhrSW84aFFJbnZ3eHp5bGYzUFdnS2J1OVFFay0wc1JTWGRwMWdJVk16RkVfTG9QNWprLUlmaXJrdmtNNGhjbTBMWGw1YlB6Ny1kTVhZaUIzVFgzalVHdGh2UFBpQms5OUJzNng3Rm9VeGs3M1NBZHFNaHUydHlqQnFYR05KSl9XTFVQeHMta1BvY0R5b3NWNVBMaFpoS2dwZ1BMMXNFOXlPUlhqbUN1VTlxdTFKX2ZmVVRIaUdkVEg2a3JmVjBvN1V0M29hdHpxRUJHTjIwVl9vWHU3ZXNnSDJicWpTZC1WakpaZWNmYkFicjJtWWxEekp5R2hlbDBXd2VMTUJZRl8zMVktME5wYmdnU1BUNkJBV2l4QXRra2dzWUxUVUctY0pIbmV4by1tUHlKdEJuV3VGNzdMajhCTFdOZlJhRG9BcUlZNXZVVWRuMDdzUV9yNWE0TnlndXdOX1dib0ZlbDA0MFBRc0J6Y2prVzVETHZkTEdLZmNkUWowOU5nN0ZSN0pUR0d0bFRPNEcyWTV0OTVHRDdyOFRxT1FBbDJqVlJRZjFGZHFqajcwd1NOY3FXUHVwbGxaTjdzc1l6WHQ0ZGFPMlZOeW5nLWlwRnR0clJaSjQzdnF6SktHVHB1YnRzM25KRTdzN3drbFFINEhmcG10V1lQdkNBeW9hVWFIdnF6RFBYLXdad2tHUDUtNmUzOE5FZEp1Sm5KUEExUHlDa2hSQVpleTV0eW1ldU9iRGJ5T2F3bGNEa2ZpNWZOUVlWNUJ0RVJSTmNuRXE4b3RXRUlfeXM5SE0xZnIySjBPalhJdmlMeW1NMFFRVWR0TF8tVTZmY2xPY0VvTXo4VHNvdjZPbFIyZWZYcTlaaWEtZkE0OU9iUTZ2d0YyQnU3OVlsOVg0TW9XTk9hRElvYVR6cHdhVWxLZmZ6RG1VNGtTVzhxYjhzS2pjMHRaMkwwa2FrWUJaMFdEQlpZ?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "description": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -291,10 +291,24 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "White Hydrogen Discovered in Billion-Year-Old Canadian Shield Rock Points to Potential New Energy Source",
+        "link": "https://fuelcellsworks.com/2026/05/19/clean-energy/mannysaraklis-gmail-com-10-54-am-0-minutes-ago-to-me-white-hydrogen-discovered-in-billion-year-old-canadian-shield-rock-points-to-potential-new-energy-source",
+        "pubDate": "Tue, 19 May 2026 16:07:46 GMT",
+        "description": "",
+        "title_cn": "在拥有数十亿年历史的加拿大盾岩中发现的白氢为潜在的新能源指明了方向"
+      },
+      {
+        "title": "Italy's H-Dual Project Retrofits a Ford Truck to Run on HVO Plus Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/05/16/h2/italy-s-h-dual-project-retrofits-a-ford-truck-to-run-on-hvo-plus-hydrogen",
+        "pubDate": "Tue, 19 May 2026 15:54:49 GMT",
+        "description": "",
+        "title_cn": "意大利的H-Dual项目改造福特卡车以使用HVO Plus氢气"
+      },
       {
         "title": "National Highways Pilots Groundbreaking Green Hydrogen on Merseyside Scheme",
         "link": "https://fuelcellsworks.com/2026/05/19/energy-innovation/national-highways-pilots-groundbreaking-green-hydrogen-on-merseyside-scheme",
@@ -336,100 +350,15 @@
         "pubDate": "Tue, 19 May 2026 14:55:38 GMT",
         "description": "",
         "title_cn": "瑞士与Metafuels合作，进一步向eSAF推广SAF绿色甲醇"
-      },
-      {
-        "title": "Hydrogen Ukraine Completed the Third Audit of Its Odessa Renewable Hydrogen Project",
-        "link": "https://fuelcellsworks.com/2026/05/19/energy-policy/hydrogen-ukraine-completed-the-third-audit-of-its-odessa-renewable-hydrogen-project",
-        "pubDate": "Tue, 19 May 2026 14:48:05 GMT",
-        "description": "",
-        "title_cn": "Hydrogen Ukraine完成对其敖德萨可再生氢项目的第三次审计"
-      },
-      {
-        "title": "New Study Links Erosion to Natural Hydrogen Potential in Mountain Ranges",
-        "link": "https://fuelcellsworks.com/2026/05/18/green-hydrogen/new-study-links-erosion-to-natural-hydrogen-potential-in-mountain-ranges",
-        "pubDate": "Tue, 19 May 2026 14:31:49 GMT",
-        "description": "",
-        "title_cn": "新研究将侵蚀与山脉的天然氢潜力联系起来"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "KoRe: Compact Knowledge Representations for Large Language Models",
-        "link": "https://arxiv.org/abs/2605.20170v1",
-        "pubDate": "2026-05-19T17:53:29Z",
-        "description": "Modern Large Language Models (LLMs) have shown impressive performances in user-facing tasks such as question answering, as well as consistent improvements in reasoning capabilities. Still, the way these models encode knowledge seems inherently flawed: by design, LLMs encode world-knowledge within th",
-        "title_cn": "KoRe ：大型语言模型的紧凑知识表示"
-      },
-      {
-        "title": "Pauli Correlation Encoding for mRNA Secondary Structure Prediction: Problem-Aware Decoding for Dense-Constraint QUBOs",
-        "link": "https://arxiv.org/abs/2605.20163v1",
-        "pubDate": "2026-05-19T17:49:58Z",
-        "description": "Pauli Correlation Encoding (PCE) compresses $m$ binary variables onto $n=O(m^{1/k})$ qubits by mapping them to commuting Pauli correlators, but its continuous expectation values must be decoded into feasible binary solutions, a challenge for dense-constraint problems. We apply PCE to mRNA secondary-",
-        "title_cn": "MRNA二级结构预测的泡利相关编码：密集约束QUBO的问题感知解码"
-      },
-      {
-        "title": "Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites",
-        "link": "https://arxiv.org/abs/2605.20159v1",
-        "pubDate": "2026-05-19T17:46:49Z",
-        "description": "Non-destructive testing of aerospace SiC/SiC composites via X-ray computed tomography (XCT) relies on expert visual assessment, with current workflows offering limited traceability for accept/reject decisions. Deep convolutional networks can automate defect detection, yet their black-box nature conf",
-        "title_cn": "用于航空航天碳化硅/碳化硅复合材料X射线断层扫描缺陷检测的可解释计算机视觉"
-      },
-      {
-        "title": "The exceptional 2017 gamma-ray flare of the radio galaxy NGC 1275: VERITAS and Multiwavelength Observations",
-        "link": "https://arxiv.org/abs/2605.20153v1",
-        "pubDate": "2026-05-19T17:42:24Z",
-        "description": "The radio galaxy NGC 1275 is the Brightest Cluster Galaxy in the Perseus cluster. It is well-studied across all wavebands, including Very High Energy (VHE; E>100GeV gamma-rays, and with radio observations over the last 20 years tracking an unusual radio component, \"C3\". NGC 1275 was observed in an e",
-        "title_cn": "无线电星系NGC 1275的2017年伽马射线耀斑： VERITAS和多波长观测"
-      },
-      {
-        "title": "Haiman's Conjecture and Springer's Representations",
-        "link": "https://arxiv.org/abs/2605.20131v1",
-        "pubDate": "2026-05-19T17:15:49Z",
-        "description": "For any connected complex reductive group $G$ and element $z$ of its Weyl group $W$, we use work of Lusztig and Abreu-Nigro to compute the graded $W$-character of the intersection cohomology of any closed Lusztig variety for $z$ over the regular semisimple locus of $G$. We relate the resulting formu",
-        "title_cn": "海曼猜想和施普林格表述"
-      },
-      {
-        "title": "Gravitational-wave constraints on $H_0$ are robust to (putative) redshift evolution in the binary black hole mass spectrum at current sensitivity",
-        "link": "https://arxiv.org/abs/2605.20112v1",
-        "pubDate": "2026-05-19T16:59:39Z",
-        "description": "Spectral-siren cosmology constrains the Hubble constant $H_0$ using gravitational-wave observations of compact-binary coalescences. The method combines luminosity distances inferred from the waveform with redshift information statistically encoded in population features of the source-frame mass spec",
-        "title_cn": "在电流灵敏度下， $ H_0 $上的引力波约束对二元黑洞质谱中的（假定）红移演化是鲁棒的"
-      },
-      {
-        "title": "Face morphometric profiles of groups as early markers for certain diseases?",
-        "link": "https://arxiv.org/abs/2605.20103v1",
-        "pubDate": "2026-05-19T16:55:32Z",
-        "description": "Background: Face morphometry has been shown to work as a diagnosis tool in a set of syndromes. Face similarities are usually indications of more complete genetic similarities. Purpose: To show preliminary results on the face morphometry profile of the Cuban population and to argue that it could be u",
-        "title_cn": "人脸形态学轮廓作为某些疾病的早期标志物？"
-      },
-      {
-        "title": "VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving",
-        "link": "https://arxiv.org/abs/2605.20082v1",
-        "pubDate": "2026-05-19T16:36:34Z",
-        "description": "The rapid growth of autonomous driving datasets has enabled the scaling of powerful motion forecasting models. While large-scale pretraining provides strong performance, the standard imitation objective may not fully capture the complex nuances of human driving preferences. Meanwhile, recent advance",
-        "title_cn": "VL-DPO ：针对偏好一致的自动驾驶的视觉-语言引导微调"
-      },
-      {
-        "title": "TIC 295741342: A Triply-Eclipsing Triple Star System with a Giant Tertiary",
-        "link": "https://arxiv.org/abs/2605.20080v1",
-        "pubDate": "2026-05-19T16:34:58Z",
-        "description": "We present the discovery and characterization of TIC 295741342, a triply-eclipsing triple star system with a giant tertiary. The eclipsing binary consists of two similar main-sequence stars in a 4.75-day orbit. The binary is in a 412.8-day orbit with the giant tertiary. We found two degenerate solut",
-        "title_cn": "TIC 295741342 ：带有巨型第三纪的三星系统"
-      },
-      {
-        "title": "On Performance and Limitations of NISQ Hardware for Simulations of Quantum Wave Packet Dynamics",
-        "link": "https://arxiv.org/abs/2605.20078v1",
-        "pubDate": "2026-05-19T16:33:26Z",
-        "description": "Digital quantum simulation offers a promising route for studying quantum dynamics, but efficient operator representations and circuit depth remain key challenges for near-term hardware. We investigate one-dimensional wave packet dynamics using a grid-based encoding of the wave function onto qubit re",
-        "title_cn": "量子波包动力学仿真中NISQ硬件的性能与局限性"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,22 +375,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Wed, 13 May 2026 04:16:11 GMT",
-        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
-      },
-      {
-        "title": "精心培育氢能未来产业 - 中国经济网",
+        "title": "精心培育氢能未来产业 - 经济日报",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weVlkQzBTd1pET19yV2k3M21GeUFtTVhzcUIxdHpvZXhSZ3JtbGo0VThFV0xkM1FkdDJaZENvSXg5RTlCS2pyTTMwMFVmdEt5cUg3U2N0MVpPVzd1MnpvNG5ETWE0d2JEdmstVg?oc=5",
         "pubDate": "Mon, 04 May 2026 23:23:42 GMT",
-        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 中国经济网"
-      },
-      {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - 碳道",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkFrLUlZWVEwQ0xNU2p1UVhiNW1kWnp4bFNZc185OFA5bDVHTUVFZEpmMHNUemZjN1dsUHZaTF9qZUVhNm1kWVRKR2VDbGM?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; 碳道"
+        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
@@ -470,10 +387,22 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - 碳道",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkFrLUlZWVEwQ0xNU2p1UVhiNW1kWnp4bFNZc185OFA5bDVHTUVFZEpmMHNUemZjN1dsUHZaTF9qZUVhNm1kWVRKR2VDbGM?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; 碳道"
+      },
+      {
         "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91RTlrOEl6blNvMGFzdGtkLVBBMTQ2YUlXWGx3azM0NmVGeXA2NUpLTUw3Nnd1Nks5UTRWVUFzYVJtcW5lNzk2MlpWS2dFOUZzSUZMVEtPbEUzcUI2?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 07:00:00 GMT",
+        "pubDate": "Thu, 30 Apr 2026 10:27:16 GMT",
         "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -483,27 +412,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
+        "title": "绿电直连开启“拼单”模式：零碳园区加速落地，中小企业共享绿电红利 - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3eVA4bksyNGlwVTEybWd0dVNXUC02aXlQWnNKS3N6b3V4Q0Iya3NaR2UzMGdxVEN0bDhyZ0E0VVc1R0IyZ3k2eGV5SFVsSkRQLU8wcE16LW5VbHB5bjhqZw?oc=5",
+        "pubDate": "Wed, 20 May 2026 14:25:00 GMT",
+        "description": "绿电直连开启“拼单”模式：零碳园区加速落地，中小企业共享绿电红利 &nbsp;&nbsp; thepaper.cn"
+      },
+      {
         "title": "两部委发布重磅政策：多用户绿电直连项目来了 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS0dlb05TMHMwM3JOTUlweFJjN3IwSHZfX3dadWszMUdUSFU2RVNhN1JGbGUyeWthdndEYlJ0VVFVb2U4M0ZpUW4yenBLWGM1OVJoMjNEX0R6dHNYRTNZaEVoREhZQUdXWlNtOGUwNkNEX3FrV0pKZGRJbHZFQTNyYVR1bDQ5bXF4SF9udWRwS2xhcGtYZlVSUUIzX0JsbGtQYXJuSUN6bUQtc19IdkU0TU92R2ZMYXQ0YlZ2UUxQVnBWeGI1Nkx6NEZ0TjlUcFo5YS1zby1VVFVoY254NTlqaGsxM0ludzQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW9lX0k3aS01Rm9FWldmSjRnTXducFBFV1ZsVDJmbFU0WXZWQmRjcmo4TWtQZHQ5ekNqVzI5UWh6MjVxTWhQSVhXbENPT2FaMy1mYXlQYVBGMFg2eUNJMTJ0eGlvdVpIVkxDLUw3SUpLNmRRWEVjR3pUUjJTeHlSR1FZOXlUWjlC?oc=5",
         "pubDate": "Wed, 20 May 2026 06:34:01 GMT",
         "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 搜狐网"
-      },
-      {
-        "title": "敦煌加速能源绿色低碳转型“氢”启未来 - gs.chinanews.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40UUREU3hZTU1RZ0kyMy1BeFd6M1lFZTlpdnlCRmVPd2I2OU5Nb2ZNR0dpV090QXdkbWVtbUp5aTZHd3dmVUw5NFUxNVFzRFhabkZYZDdGVy1xRTdmSmNtOGg5akxxem40ZWxR?oc=5",
-        "pubDate": "Fri, 15 May 2026 03:59:00 GMT",
-        "description": "敦煌加速能源绿色低碳转型“氢”启未来 &nbsp;&nbsp; gs.chinanews.com.cn"
-      },
-      {
-        "title": "四部门发文推动绿色算力_新浪新闻 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
-        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 新浪网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -534,9 +457,15 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-20 10:21 UTC"
+    "updated": "2026-05-20 16:47 UTC"
   }
 }
