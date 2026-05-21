@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "A star gone rogue tears through the Galaxy",
+        "link": "https://www.nature.com/articles/d41586-026-01591-9",
+        "pubDate": "2026-05-21",
+        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to 'hypervelocity' speed.",
+        "title_cn": "一颗流星在银河系中流泪"
+      },
+      {
+        "title": "Should I get a dog? What to know about pet ownership as a scientist",
+        "link": "https://www.nature.com/articles/d41586-026-00198-4",
+        "pubDate": "2026-05-21",
+        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4 Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being.",
+        "title_cn": "我应该养只狗吗？科学家养宠物须知"
+      },
+      {
         "title": "Spinal neuromotor rehabilitation using a portable isokinetic training robot",
         "link": "https://www.nature.com/articles/s41586-026-10642-0",
         "pubDate": "2026-05-20",
@@ -42,78 +56,64 @@
         "pubDate": "2026-05-20",
         "description": "Nature, Published online: 20 May 2026; doi:10.1038/d41586-026-00428-9 China now produces more than three times the United States’ chemistry output in the Nature Index, underscoring its rapidly growing influence in the field.",
         "title_cn": "中国在化学领域的崛起对世界其他地区意味着什么"
-      },
-      {
-        "title": "Cusp-singularity-enhanced Coriolis effect for sensitive chip-scale gyroscopes",
-        "link": "https://www.nature.com/articles/s41586-026-10565-w",
-        "pubDate": "2026-05-20",
-        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10565-w By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory gyroscopes, substantial improvements in signal",
-        "title_cn": "用于灵敏芯片尺度陀螺仪的尖端奇点增强科里奥利效应"
-      },
-      {
-        "title": "A pathogen lncRNA secreted into rice sequesters a host miRNA for virulence",
-        "link": "https://www.nature.com/articles/s41586-026-10572-x",
-        "pubDate": "2026-05-20",
-        "description": "Nature, Published online: 20 May 2026; doi:10.1038/s41586-026-10572-x A fungal long non-coding RNA from Magnaporthe oryzae translocates into rice cells to sequester a host microRNA that normally represses PKR1, a negative immunity regulator, thereby facilitating infection and revealing a widespread ",
-        "title_cn": "分泌到水稻中的病原体lncRNA隔离宿主miRNA"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818903062004870?f=rss",
+        "pubDate": "2026-05-21 18:29:53  +0800",
+        "description": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。 演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。 以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑： 杨超"
+      },
+      {
+        "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818889074557829?f=rss",
+        "pubDate": "2026-05-21 18:15:31  +0800",
+        "description": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。 具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱动具身智能的持续进化。 以下为酷哇科技联合创始人、COO 李柯宏 演讲内容，经36氪整理编辑： 李柯宏丨酷哇科技联合创始人、COO 非常感谢36氪和亦庄的邀请，今天我分享的主题是：作为一家以统一世界模型驱动的具身智能"
+      },
+      {
+        "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818877539091333?f=rss",
+        "pubDate": "2026-05-21 18:03:58  +0800",
+        "description": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成为可信的合作伙伴。PureblueAI清蓝市场副总裁李铭则用“最敏锐的商业洞察和最硬核的AI营销技术的融合”来形容此次合作，并透露该名册将分期、分行业持续发布，为品牌在AI时代提供“AI语境下的体检报告和风"
+      },
+      {
+        "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818800487679111?f=rss",
+        "pubDate": "2026-05-21 17:01:52  +0800",
+        "description": "两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。当99%的人还在用AI写文案、做设计时，有人把它扔进了鱼塘，只为解决一个最朴素的问题：不确定性。 鲁敏用18年IT男转型“新农民”的经历，揭开了水产养殖最残酷的真相：1.38万亿的市场，数字化渗透率不足5%，一叶方塘，百万归零。这场分享没有宏大叙事，只有从黑箱到白盒、从赌运气到算数据的血泪教训：农业要的不是快，是确定性。 以下为陆渔科技联合创始人、首席技术官 鲁敏 演讲内容，经36氪整理编辑： 鲁敏丨陆渔科技联合创始人、首席技术官 首先感谢36氪的邀请来参加在北京亦庄举行的AI Partner行业大会，我是陆渔"
+      },
+      {
+        "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3817502775329667?f=rss",
+        "pubDate": "2026-05-21 16:54:17  +0800",
+        "description": "token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。而当推理算力需求超越训练，智算中心的角色正从算力仓库变为token工厂，一个万亿级市场的大门刚刚打开。 token正在成为AI时代的新质生产力单位。宋琛指出，随着Agent成为新交互入口，单次任务token消耗已从几千飙升至百万级别，而中国token调用量已占全球61%。在这一趋势下，AI基础设施的竞争焦点正在从“谁的模型参数更大”转向“谁能以更低成本支撑海量token流转”。英博数科的定位正是“token工厂”的全栈构建者——不做模型，不卖应用，而是提供从规划设计到软硬一体交付的智"
+      },
+      {
+        "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818784445465731?f=rss",
+        "pubDate": "2026-05-21 16:51:34  +0800",
+        "description": "AI的聚光灯正从炫酷的C端应用，转向轰鸣的工厂、无声的手术室和奔跑的人形机器人。当“落地”成为当下的关键词，2026北京亦庄AI+产业大会吹响了“走！带着AI去前线”的号角，在产业第一线求解人工智能的真实生产力。我们记录下这场务实者的聚会，捕捉那些让技术扎根泥土的坚定声音。 5月19日，2026北京亦庄AI+产业大会在亦庄启幕。大会由北京经开区管委会指导、36氪主办、国家信创园承办，告别高台论道，将议题直接对准工厂、医院、社区、田间地头的真实战场。北京经开区管委会副主任陈建民为大会开幕致欢迎辞，介绍了这座“全域人工智能之城”如何将AI从“热点”变成“日常”。 以下为致辞原文： 陈建民丨北京经开"
+      },
+      {
+        "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3818651789182080?f=rss",
+        "pubDate": "2026-05-21 16:10:17  +0800",
+        "description": "&nbsp; AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。 &nbsp; 四年间，这场大会从趋势观察走向落地实践，36氪也从AI的观察者转型为助推者。36氪CEO冯大刚在2026北京亦庄AI+产业大会的开场中，为焦虑的商业世界开出一剂解药，AI不是一家公司的机会，而是千行百业的机会。两天会期、六七十位实操嘉宾、一个让供需双方面对面碰撞的舞台，这里不谈虚的概念，只讲做成了没有。我们记录下这段冷静而笃定的开场白，在技术狂欢中找回商业的常识与本位。 以下为开场演讲内容，经36氪整理编辑： 冯大刚｜36氪CEO 尊敬的北京经开区管委会领导各位领导、各位嘉宾、各位新老"
+      },
       {
         "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
         "link": "https://36kr.com/p/3818450346738823?f=rss",
         "pubDate": "2026-05-21 11:52:45  +0800",
         "description": "有一个问题，值得在2026年认真问一次—— 你上一次用AI应用，是让它回答了一个问题，还是让它完成了一件事？ 这两个动作之间，隔着一个时代。 2026年，AI应用的产品范式，正在从「聊天」走向「做事」。 这不是预言，是已经发生的现实。 从「回答」到「执行」，背后的数据是怎样的？推手是什么？有哪些代表企业？ 为了回答这些问题，量子位智库发布2026年中国AI应用全景图谱报告。 报告中，我们通过2026年中国AI应用全景图谱试图记录当下AI应用变革时刻的横截面。 图谱横跨ToC软硬件、ToB应用、底层开发三大维度，覆盖数百款产品，组成一条完整的AI价值传导链。 技术向下渗透，场景向上生长，一个完整"
-      },
-      {
-        "title": "16款产品入选，2026「焦点」产品计划618特别版重磅发布",
-        "link": "https://36kr.com/p/3818418722734977?f=rss",
-        "pubDate": "2026-05-21 10:42:43  +0800",
-        "description": "本期16款产品中，有没有你心目中的焦点产品呢？"
-      },
-      {
-        "title": "独家对谈｜谢文博：银发，孤独，一个中日观察者的十八年",
-        "link": "https://36kr.com/p/3816060007751430?f=rss",
-        "pubDate": "2026-05-21 08:17:32  +0800",
-        "description": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi） “上百次往返，看透存量时代的生存法则。” 谢文博，四川人，聊起他从老家到上海再到日本求学的经历，他说喜欢“把自己放在跳起来才够得着的环境里”。 在上海交大材料工程读研二那年，他作为访问学者公派赴日富士施乐做研发。拿到Offer后，三年啃下五篇专利，他发现日本企业有一套\"能把普通人管理出好成果\"的门道。 2008年，他回国和合伙人一起创办咫尺研学。此后十八年，往返中日上百次，从阿里、京东到万科，他领着各行业的管理者一次次赴日，像外科医生般剖解日式管理的肌理。中国地产商们曾扎堆奔赴日本养老产业，他却看透：养老的本质不是盖楼，而是"
-      },
-      {
-        "title": "8点1氪丨英伟达Q1净利润583亿美元；谷歌CEO：Gemini月活跃用户达9亿；寿司郎回应“盘子抽检10抽10脏”",
-        "link": "https://36kr.com/p/3818280989443202?f=rss",
-        "pubDate": "2026-05-21 07:59:19  +0800",
-        "description": "今日热点导览 俄罗斯将延长对中国公民的免签制度 张雪首度谈及签约德比斯原因 微信再度开放520大额红包，限时1天&nbsp; 罗欣药业回应阿奇霉素劣药事件 段永平最新持仓公布 TOP3大新闻 英伟达：第一财季净利润583亿美元，同比增长211% 36氪获悉，英伟达发布2027财年第一季度财报，财报显示，英伟达第一财季营收816.2亿美元，同比增长85%；净利润583.2亿美元，同比增长211%。 谷歌CEO：Gemini月活跃用户达9亿 谷歌CEO皮查伊在2026年I/O开发者大会上表示，Gemini AI应用的月活跃用户在过去一年中增长了一倍多，达到9亿人次，日请求量增长超过7倍。他补充称，"
-      },
-      {
-        "title": "网易520发布会：质量为先，狙击细分赛道",
-        "link": "https://36kr.com/p/3817849322964098?f=rss",
-        "pubDate": "2026-05-21 07:00:40  +0800",
-        "description": "5月20日，2026年『网易游戏520线上发布会』正式举办，公布了40余款游戏及IP的最新动态。其中，520发布会上公布的部分重要新品如下：&nbsp; 《遗忘之海》 《遗忘之海》 本次发布会上，《遗忘之海》官宣将于5月22日开启三测前瞻直播，并于28日正式开启测试。&nbsp; 目前来看，《遗忘之海》应该是网易游戏最受期待的新品之一。它出自《第五人格》开发团队Joker工作室，此前已经推出过两次测试，网易高层也不止一次展现过对这款产品的重视。&nbsp; 从已有内容看，《遗忘之海》最独特的地方莫过于Joker工作室对游戏市场的一些独到理解——这点早在他们做《第五人格》时就可见一斑。如若没有意"
-      },
-      {
-        "title": "氪星晚报｜2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选；三星劳资谈判破裂，威刚董事长称DRAM、NAND恐再掀涨价潮；新交所与中国银行签署新版战略合作备忘录",
-        "link": "https://36kr.com/p/3816942423000196?f=rss",
-        "pubDate": "2026-05-20 19:40:36  +0800",
-        "description": "大公司： 新加坡加码人工智能布局，英伟达将落地本地研发中心 全球AI芯片巨头英伟达将在新加坡新设研发中心，这也是新加坡周三集中公布的一系列人工智能相关举措之一。这座全新实验室是英伟达在新加坡设立的首个研发据点，同时也是其在亚太地区布局的第二处同类研发机构。（新浪财经） 2026福布斯中国人工智能科技企业TOP 50发布，中关村科金入选 36氪获悉，《2026福布斯中国人工智能科技企业TOP 50》正式揭晓，中关村科金成功入选，是榜单中唯一的“企业级AI平台及应用公司”。据IDC最新报告，中关村科金位列中国大模型平台私有化市场份额第四；在2026年一季度应用类大模型项目公开中标数排名前五。公司服"
-      },
-      {
-        "title": "第四届中国AIGC产业峰会在京顺利举办！近20位行业大咖解码Agent与非共识机遇",
-        "link": "https://36kr.com/p/3817353357968516?f=rss",
-        "pubDate": "2026-05-20 16:22:01  +0800",
-        "description": "今日，由量子位主办的第四届中国AIGC产业峰会在京启幕。 2026年，AI产业一路高歌猛进。从“龙虾”到“Harness”，爆款Agent接连出圈、风靡全网。面对层出不穷的新业态与新玩法，不少从业者和普通用户都感到困惑：如何找准AI的使用方式？怎样把握产业机遇？又该如何跟上行业发展的步伐？ 正是在这一背景下，本届大会以「@所有人，马上AI起来」为主题，集结近20位行业重磅嘉宾，联动产业头部企业、新锐创业公司、顶尖学术力量，围绕AI Agent商业化落地、多模态技术突破、千行百业场景深耕、算力基础设施变革等核心议题，开启了一场深度交流与思想碰撞。&nbsp; 嘉宾阵容堪称豪华： 既有昆仑万维、商"
-      },
-      {
-        "title": "长鑫科技更新招股书，碧桂园错失300亿",
-        "link": "https://36kr.com/p/3817039204139908?f=rss",
-        "pubDate": "2026-05-20 10:54:58  +0800",
-        "description": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。 01 5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利润247.62亿元，同比大增1688%，完成创历史的盈亏翻盘（2025年累计亏损366.5亿元）。 可以预计，随着营收和利润的大幅增长，长鑫科技的估值将会再创新高。上市前， 长鑫科技的估值已逼近3000亿"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "energy_intl": {
     "items": [
@@ -121,7 +121,7 @@
         "title": "XPENG Starts Producing Robotaxis",
         "link": "https://cleantechnica.com/2026/05/20/xpeng-starts-producing-riotaxis/",
         "pubDate": "Thu, 21 May 2026 03:55:27 +0000",
-        "description": "XPENG has been quick to develop its autonomous driving capabilities. It feels like the company has barely been on the market at all, and now it&#8217;s making robotaxis! A couple of days ago, the company wrote: &#8220;today announced the official rollout of its first mass-produced Robotaxi in Guangz",
+        "description": "XPENG has been quick to develop its autonomous driving capabilities. It feels like the company is still so young, and now it&#8217;s making robotaxis! A couple of days ago, the company announced &#8220;the official rollout of its first mass-produced Robotaxi in Guangzhou.&#8221; While there are othe",
         "title_cn": "XPENG开始生产机器人出租车"
       },
       {
@@ -135,7 +135,7 @@
         "title": "Oracle Exec Sues Tesla Over Full Self Driving Promises And Wins $10,600",
         "link": "https://cleantechnica.com/2026/05/20/oracle-exec-sues-tesla-over-full-self-driving-promises-and-wins-10600/",
         "pubDate": "Thu, 21 May 2026 03:15:24 +0000",
-        "description": "Class action lawsuits against Tesla have been running for a while based on the claims and promises Elon Musk made about Tesla Full Self Driving (FSD). Basically, people who spent a lot of money expecting Full Self Driving to work within a reasonable period of time are arguing that they ... [continue",
+        "description": "Class action lawsuits against Tesla have been running for a while based on the claims and promises Elon Musk has made about Tesla Full Self Driving (FSD) over the past decade. Basically, people who spent a lot of money expecting Full Self Driving to work within a reasonable period of ... [continued]",
         "title_cn": "Oracle Exec就全自动驾驶承诺起诉特斯拉并赢得$ 10,600"
       },
       {
@@ -153,29 +153,29 @@
         "title_cn": "科学家将光线照射在记忆材料上"
       },
       {
+        "title": "Hyundai Motor Group Expands Pan-India Network to Accelerate Battery & Electrification Research",
+        "link": "https://cleantechnica.com/2026/05/20/hyundai-motor-group-expands-pan-india-network-to-accelerate-battery-electrification-research/",
+        "pubDate": "Thu, 21 May 2026 01:11:30 +0000",
+        "description": "Hyundai Motor Group expands its Hyundai Center of Excellence (Hyundai CoE) to seven universities through four additional partnerships The expanded joint platform, India’s premier academic-industrial network for battery and electrification research, builds on the initial 2025 launch The platform is a",
+        "title_cn": "现代汽车集团扩大泛印度网络以加速电池和电气化研究"
+      },
+      {
+        "title": "Nissan Formula E Team Clinches Superb Monaco Victory",
+        "link": "https://cleantechnica.com/2026/05/20/nissan-formula-e-team-clinches-superb-monaco-victory/",
+        "pubDate": "Thu, 21 May 2026 01:10:16 +0000",
+        "description": "MONACO, Monte-Carlo — Nissan Formula E Team claimed victory at Monaco in Round 10 of the 2025/26 ABB FIA Formula E World Championship with Oliver Rowland, recovering superbly from a difficult Saturday in the Principality. Lining up 12th and 14th for Saturday’s Round 9, both Rowland and teammate Norm",
+        "title_cn": "日产电动方程式车队夺得摩纳哥精湛的胜利"
+      },
+      {
         "title": "Open Letter: EU Passenger Package Is A Golden Opportunity For Rail To Reach Its Full Potential",
         "link": "https://cleantechnica.com/2026/05/20/open-letter-eu-passenger-package-is-a-golden-opportunity-for-rail-to-reach-its-full-potential/",
         "pubDate": "Thu, 21 May 2026 01:05:49 +0000",
         "description": "The Youth on Track coalition presents its demands for the EU Passenger Package following the presentation of the European Commission&#8217;s set of proposals. The Youth on Track coalition, uniting youth organisations, consumer groups, and environmental NGOs, calls in an open letter to EU institution",
         "title_cn": "公开信：欧盟乘客套餐是铁路充分发挥潜力的黄金机会"
-      },
-      {
-        "title": "Epic Fail! “Hold My Beer” Cybertruck Escapade Goes Wrong In Spectacular Fashion",
-        "link": "https://cleantechnica.com/2026/05/20/epic-fail-hold-my-beer-cybertruck-escapade-goes-wrong-in-spectacular-fashion/",
-        "pubDate": "Thu, 21 May 2026 00:05:14 +0000",
-        "description": "A driver in Texas decided to test \"Wade Mode\" in his Tesla Cybertruck. He wound up getting arrested for his trouble. The post Epic Fail! &#8220;Hold My Beer&#8221; Cybertruck Escapade Goes Wrong In Spectacular Fashion appeared first on CleanTechnica .",
-        "title_cn": "史诗般的失败！ “Hold My Beer” Cybertruck Escapade在壮观的时尚中出错"
-      },
-      {
-        "title": "Rivian Has The Perfect Opening",
-        "link": "https://cleantechnica.com/2026/05/20/rivian-has-the-perfect-opening/",
-        "pubDate": "Wed, 20 May 2026 22:19:54 +0000",
-        "description": "I wondered for a while about Rivian&#8217;s timing. Tesla had already gotten huge. All automakers had electric vehicles on the market, more coming, and growing EV sales. They were all advertising their EVs at high volume — in my region, at least. How was Rivian going to squeeze its way ... [continue",
-        "title_cn": "Rivian完美开场"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,16 +248,16 @@
         "description": "50套电解槽！阳光氢能、国核电力院、中化二建、五环工程等中标！本周12个氢能招中标信息【氢能项目·周分析】 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMi6wpBVV95cUxQTUh3N2Q5TmJrazZuN1EtYWNta0t4RC1IdGcyb0t4ZGhTdGRXekRMQVUyRnozRTgzSS05Z0VRYUVqWkVoV2Z4NjFaRFM0Z2s5VU1HOVZWNVNzSy0wcFdxRjhzRlAybU55YkJUYmRXWjlSVURfYk1WYmpIb2h6WnpEVktxVlk5WXhUZ0NidjM5cTROVU9Vd3VFY0dINW5NWHQybUpEUXpMMmZTZkZBSzdpYS1zNzRhUndtckpYTklHSFFEUk0yX1YtbHBYQnRoenR3SVJFWVgyaW5BZVM2aE5rdjNQU043YkFYZ21KRmZoaG5XRHQzdkttQTVKNlhTcVItdzlQTWxnZUlxY3lVWGRaS2NFOS1yX0tJY3VDTW1mOG5VYWhDRGpWZHRaNXdTUUJNeFE2V0RCMUpmQl9lWkJzWWVidldzU3pXWUFuNVkweU9PVDZjRTNiRjZFRldyTFhYMUREU2ZxX3BObEFVNXMwUGZHRkZybVlXYlFXd1BQeGpjM3NOT3U0NlZNdUFlSHg0NzJ4QTZEQ2tTc3hqbkdkUjFweG04MUpCaVdtVjRXWlgzck8xRklybk1NTXlRMkYtUUlWNTJXcjFDVTRXNndhWVVGRzJGSjhTM19YQTVEeW5TWnFZRG5LclZtUDdQclNOZTJNMl8zSE1XLTZfd002N1gwNnhVcG5TdGM4akhnSER5azR5S2dzdzVhRjF2YWFBcjBYMDJobEliZUxHSlVKeEFHblc5OTJmNDkwX0xFYld5WGpNbWZlRGpMWm9BTmc1RHpEMnJjUDhkM0thLWUyUkFkOGNSYTA5SXpEUmk3M1ZQN3RqZkdObHhwLU9ld05sTkh5WFVIWXg0Nld0NWRBeDNRWUhrSW84aFFJbnZ3eHp5bGYzUFdnS2J1OVFFay0wc1JTWGRwMWdJVk16RkVfTG9QNWprLUlmaXJrdmtNNGhjbTBMWGw1YlB6Ny1kTVhZaUIzVFgzalVHdGh2UFBpQms5OUJzNng3Rm9VeGs3M1NBZHFNaHUydHlqQnFYR05KSl9XTFVQeHMta1BvY0R5b3NWNVBMaFpoS2dwZ1BMMXNFOXlPUlhqbUN1VTlxdTFKX2ZmVVRIaUdkVEg2a3JmVjBvN1V0M29hdHpxRUJHTjIwVl9vWHU3ZXNnSDJicWpTZC1WakpaZWNmYkFicjJtWWxEekp5R2hlbDBXd2VMTUJZRl8zMVktME5wYmdnU1BUNkJBV2l4QXRra2dzWUxUVUctY0pIbmV4by1tUHlKdEJuV3VGNzdMajhCTFdOZlJhRG9BcUlZNXZVVWRuMDdzUV9yNWE0TnlndXdOX1dib0ZlbDA0MFBRc0J6Y2prVzVETHZkTEdLZmNkUWowOU5nN0ZSN0pUR0d0bFRPNEcyWTV0OTVHRDdyOFRxT1FBbDJqVlJRZjFGZHFqajcwd1NOY3FXUHVwbGxaTjdzc1l6WHQ0ZGFPMlZOeW5nLWlwRnR0clJaSjQzdnF6SktHVHB1YnRzM25KRTdzN3drbFFINEhmcG10V1lQdkNBeW9hVWFIdnF6RFBYLXdad2tHUDUtNmUzOE5FZEp1Sm5KUEExUHlDa2hSQVpleTV0eW1ldU9iRGJ5T2F3bGNEa2ZpNWZOUVlWNUJ0RVJSTmNuRXE4b3RXRUlfeXM5SE0xZnIySjBPalhJdmlMeW1NMFFRVWR0TF8tVTZmY2xPY0VvTXo4VHNvdjZPbFIyZWZYcTlaaWEtZkE0OU9iUTZ2d0YyQnU3OVlsOVg0TW9XTk9hRElvYVR6cHdhVWxLZmZ6RG1VNGtTVzhxYjhzS2pjMHRaMkwwa2FrWUJaMFdEQlpZ?oc=5",
-        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
-        "description": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi6wpBVV95cUxQTUh3N2Q5TmJrazZuN1EtYWNta0t4RC1IdGcyb0t4ZGhTdGRXekRMQVUyRnozRTgzSS05Z0VRYUVqWkVoV2Z4NjFaRFM0Z2s5VU1HOVZWNVNzSy0wcFdxRjhzRlAybU55YkJUYmRXWjlSVURfYk1WYmpIb2h6WnpEVktxVlk5WXhUZ0NidjM5cTROVU9Vd3VFY0dINW5NWHQybUpEUXpMMmZTZkZBSzdpYS1zNzRhUndtckpYTklHSFFEUk0yX1YtbHBYQnRoenR3SVJFWVgyaW5BZVM2aE5rdjNQU043YkFYZ21KRmZoaG5XRHQzdkttQTVKNlhTcVItdzlQTWxnZUlxY3lVWGRaS2NFOS1yX0tJY3VDTW1mOG5VYWhDRGpWZHRaNXdTUUJNeFE2V0RCMUpmQl9lWkJzWWVidldzU3pXWUFuNVkweU9PVDZjRTNiRjZFRldyTFhYMUREU2ZxX3BObEFVNXMwUGZHRkZybVlXYlFXd1BQeGpjM3NOT3U0NlZNdUFlSHg0NzJ4QTZEQ2tTc3hqbkdkUjFweG04MUpCaVdtVjRXWlgzck8xRklybk1NTXlRMkYtUUlWNTJXcjFDVTRXNndhWVVGRzJGSjhTM19YQTVEeW5TWnFZRG5LclZtUDdQclNOZTJNMl8zSE1XLTZfd002N1gwNnhVcG5TdGM4akhnSER5azR5S2dzdzVhRjF2YWFBcjBYMDJobEliZUxHSlVKeEFHblc5OTJmNDkwX0xFYld5WGpNbWZlRGpMWm9BTmc1RHpEMnJjUDhkM0thLWUyUkFkOGNSYTA5SXpEUmk3M1ZQN3RqZkdObHhwLU9ld05sTkh5WFVIWXg0Nld0NWRBeDNRWUhrSW84aFFJbnZ3eHp5bGYzUFdnS2J1OVFFay0wc1JTWGRwMWdJVk16RkVfTG9QNWprLUlmaXJrdmtNNGhjbTBMWGw1YlB6Ny1kTVhZaUIzVFgzalVHdGh2UFBpQms5OUJzNng3Rm9VeGs3M1NBZHFNaHUydHlqQnFYR05KSl9XTFVQeHMta1BvY0R5b3NWNVBMaFpoS2dwZ1BMMXNFOXlPUlhqbUN1VTlxdTFKX2ZmVVRIaUdkVEg2a3JmVjBvN1V0M29hdHpxRUJHTjIwVl9vWHU3ZXNnSDJicWpTZC1WakpaZWNmYkFicjJtWWxEekp5R2hlbDBXd2VMTUJZRl8zMVktME5wYmdnU1BUNkJBV2l4QXRra2dzWUxUVUctY0pIbmV4by1tUHlKdEJuV3VGNzdMajhCTFdOZlJhRG9BcUlZNXZVVWRuMDdzUV9yNWE0TnlndXdOX1dib0ZlbDA0MFBRc0J6Y2prVzVETHZkTEdLZmNkUWowOU5nN0ZSN0pUR0d0bFRPNEcyWTV0OTVHRDdyOFRxT1FBbDJqVlJRZjFGZHFqajcwd1NOY3FXUHVwbGxaTjdzc1l6WHQ0ZGFPMlZOeW5nLWlwRnR0clJaSjQzdnF6SktHVHB1YnRzM25KRTdzN3drbFFINEhmcG10V1lQdkNBeW9hVWFIdnF6RFBYLXdad2tHUDUtNmUzOE5FZEp1Sm5KUEExUHlDa2hSQVpleTV0eW1ldU9iRGJ5T2F3bGNEa2ZpNWZOUVlWNUJ0RVJSTmNuRXE4b3RXRUlfeXM5SE0xZnIySjBPalhJdmlMeW1NMFFRVWR0TF8tVTZmY2xPY0VvTXo4VHNvdjZPbFIyZWZYcTlaaWEtZkE0OU9iUTZ2d0YyQnU3OVlsOVg0TW9XTk9hRElvYVR6cHdhVWxLZmZ6RG1VNGtTVzhxYjhzS2pjMHRaMkwwa2FrWUJaMFdEQlpZ?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "description": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
@@ -278,23 +278,30 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TeGNBNkpKLXVwM2dNQ3FTdGlsNEY4bWI3X1ZUZGMtckoyYVk2M2xsVDMtM0h5RVVoVWcxZDZESDF6TFIxZU55S201QTg0aHpoVzVFZHhOLUtGN2VFOGlBUDhBXzY0Y3c?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
-      },
-      {
         "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
         "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
         "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
+        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "Making Green Hydrogen More Affordable",
+        "link": "https://fuelcellsworks.com/2026/05/20/energy-innovation/making-green-hydrogen-more-affordable-q45685605",
+        "pubDate": "Wed, 20 May 2026 16:34:38 GMT",
+        "description": "",
+        "title_cn": "让绿色氢能更经济实惠"
+      },
       {
         "title": "EIB Lends FNM €80M [$88M] for 15 Years to Fund Italy's H2iseO Hydrogen Trains and Five Motorway Refuelling Stations",
         "link": "https://fuelcellsworks.com/2026/05/16/fuel-cells/eib-lends-fnm-80m-88m-for-15-years-to-fund-italy-s-h2iseo-hydrogen-trains-and-five-motorway-refuelling-stations",
@@ -343,22 +350,86 @@
         "pubDate": "Wed, 20 May 2026 15:08:16 GMT",
         "description": "",
         "title_cn": "哈萨克斯坦在KMG Engineering的Atyrau工厂推出首个全循环绿色氢中试综合设施"
-      },
-      {
-        "title": "South Korea's PM Declares Saemangeum \"Must Succeed\" — Hyundai's ₩8.9 Trillion Hydrogen-AI-Robotics City Gets Pan-Government Backing and a Direct Order to Move Fast",
-        "link": "https://fuelcellsworks.com/2026/05/19/h2/south-korea-s-pm-declares-saemangeum-must-succeed-hyundai-s-8-9-trillion-hydrogen-ai-robotics-city-gets-pan-government-backing-and-a-direct-order-to-move-fast",
-        "pubDate": "Wed, 20 May 2026 15:04:08 GMT",
-        "description": "",
-        "title_cn": "韩国总理宣布Saemangeum “必须成功” --现代8.9万亿韩元的氢能—人工智能-机器人城市获得泛政府支持，并直接命令快速行动"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Variance Reduction for Expectations with Diffusion Teachers",
+        "link": "https://arxiv.org/abs/2605.21489v1",
+        "pubDate": "2026-05-20T17:59:52Z",
+        "description": "Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance",
+        "title_cn": "扩散教师的期望方差减小"
+      },
+      {
+        "title": "Leveraging LLMs for Grammar Adaptation: A Study on Metamodel-Grammar Co-Evolution",
+        "link": "https://arxiv.org/abs/2605.21465v1",
+        "pubDate": "2026-05-20T17:51:51Z",
+        "description": "In model-driven engineering, metamodel evolution leads to the need to adapt corresponding grammars to maintain consistency, which typically requires tedious manual work. Existing rule-based methods can achieve partial automation but have limitations when handling complex grammar scenarios. This pape",
+        "title_cn": "利用法学硕士进行语法适应：元模型-语法协同进化研究"
+      },
+      {
+        "title": "A Machine Learning Framework for Weighted Least Squares GNSS Positioning based on Activation Functions",
+        "link": "https://arxiv.org/abs/2605.21461v1",
+        "pubDate": "2026-05-20T17:50:14Z",
+        "description": "Global Navigation Satellite Systems (GNSS) are widely used to provide position, velocity, and timing (PVT) information for various applications, including transportation, location-based communication services, and intelligent agriculture. In urban canyons, high-rise buildings and narrow streets can ",
+        "title_cn": "基于激活函数的加权最小二乘GNSS定位的机器学习框架"
+      },
+      {
+        "title": "Network evolution with self-reinforcement",
+        "link": "https://arxiv.org/abs/2605.21459v1",
+        "pubDate": "2026-05-20T17:48:59Z",
+        "description": "We study a new class of preferential attachment trees with \\emph{self-reinforcement}. At each time, each vertex is assigned a weight equal to the cumulative sum over past times of an affine function of its degree. A new vertex attaches itself via a single edge to an already present vertex with a pro",
+        "title_cn": "自我强化的网络演进"
+      },
+      {
+        "title": "Neural Negative Binomial Regression for Weekly Seismicity Forecasting: Per-Cell Dispersion Estimation and Tail Risk Assessment",
+        "link": "https://arxiv.org/abs/2605.21437v1",
+        "pubDate": "2026-05-20T17:27:27Z",
+        "description": "Standard approaches to forecasting the weekly number of earthquakes on a spatial grid rely on the Poisson distribution with a single global dispersion assumption. We show that this assumption is systematically violated in seismic data from Central Asia (2010-2024), where a likelihood-ratio test with",
+        "title_cn": "用于每周地震活动预测的神经负二项回归：每细胞色散估计和尾部风险评估"
+      },
+      {
+        "title": "Intraband and Interband Competition Drives Ultrafast Modulations of Indium Tin Oxide",
+        "link": "https://arxiv.org/abs/2605.21432v1",
+        "pubDate": "2026-05-20T17:23:33Z",
+        "description": "Transparent conducting oxides near their epsilon-near-zero frequency exhibit near-unity ultrafast modulations of the refractive index which have enabled the field of time-varying metamaterials, yet the underlying carrier dynamics at high driving fluences remain poorly understood. Here, we report ult",
+        "title_cn": "带内和带间竞争推动氧化铟锡的超快调制"
+      },
+      {
+        "title": "Similarity Solutions for the Flux limited Keller Segel System with Time Varying Chemical Decay Rate",
+        "link": "https://arxiv.org/abs/2605.21394v1",
+        "pubDate": "2026-05-20T16:52:28Z",
+        "description": "We investigate a one dimensional flux limited Keller Segel system (FLKS) in which the chemical decay rate is allowed to vary explicitly in time, a feature motivated by enzymatic regulation and environmental variability in chemotactic signalling. Treating the decay rate as an arbitrary function, we c",
+        "title_cn": "具有随时间变化的化学衰变速率的通量有限的Keller Segel系统的相似性解决方案"
+      },
+      {
+        "title": "VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers",
+        "link": "https://arxiv.org/abs/2605.21392v1",
+        "pubDate": "2026-05-20T16:46:51Z",
+        "description": "Model Context Protocol (MCP) has emerged as a standard interface for connecting LLM agents to external tools. Because MCP servers expose privileged operations such as shell execution, network access, and file-system manipulation to agent-driven invocation, implementation flaws in tool handlers can c",
+        "title_cn": "VIPER-MCP ：检测和利用模型上下文协议服务器中的污点型漏洞"
+      },
+      {
+        "title": "Pulse-Driven Reconfiguration of Fractional Polar Topology in Zr-Substituted Barium Titanate",
+        "link": "https://arxiv.org/abs/2605.21368v1",
+        "pubDate": "2026-05-20T16:34:44Z",
+        "description": "Polar topological textures in ferroelectrics can host internal structure beyond a single integer topological charge. Here, effective-Hamiltonian molecular-dynamics simulations are used to examine whether such internal fractional topology can be reconfigured by local electric excitation in ordered 12",
+        "title_cn": "Zr-取代钛酸钡中分数极拓扑的脉冲驱动重构"
+      },
+      {
+        "title": "Linear Functional Testing with General Loadings in Sparse Regression: Separation Rates and Computational Barriers",
+        "link": "https://arxiv.org/abs/2605.21360v1",
+        "pubDate": "2026-05-20T16:24:54Z",
+        "description": "We study the problem of testing $H_0: ξ^\\topβ=t_0$ in high-dimensional sparse linear regression with Gaussian random design and unknown design covariance. The loading vector $ξ$ is arbitrary, and the exact sparsity level $k$ is unknown but bounded by a known value $k_u$. Tests are required to contro",
+        "title_cn": "稀疏回归中一般负载的线性函数测试：分离速率和计算障碍"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "policy_nea": {
     "items": [
@@ -381,6 +452,12 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
+        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkFrLUlZWVEwQ0xNU2p1UVhiNW1kWnp4bFNZc185OFA5bDVHTUVFZEpmMHNUemZjN1dsUHZaTF9qZUVhNm1kWVRKR2VDbGM?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
         "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91RTlrOEl6blNvMGFzdGtkLVBBMTQ2YUlXWGx3azM0NmVGeXA2NUpLTUw3Nnd1Nks5UTRWVUFzYVJtcW5lNzk2MlpWS2dFOUZzSUZMVEtPbEUzcUI2?oc=5",
         "pubDate": "Thu, 30 Apr 2026 10:27:16 GMT",
@@ -391,12 +468,6 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkFrLUlZWVEwQ0xNU2p1UVhiNW1kWnp4bFNZc185OFA5bDVHTUVFZEpmMHNUemZjN1dsUHZaTF9qZUVhNm1kWVRKR2VDbGM?oc=5",
-        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "description": "可再生能源制氢快速发展，从试点探索逐步迈向规模化发展新阶段 &nbsp;&nbsp; ideacarbon.org"
       },
       {
         "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
@@ -412,15 +483,39 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "两部委发布重磅政策：多用户绿电直连项目来了 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW9lX0k3aS01Rm9FWldmSjRnTXducFBFV1ZsVDJmbFU0WXZWQmRjcmo4TWtQZHQ5ekNqVzI5UWh6MjVxTWhQSVhXbENPT2FaMy1mYXlQYVBGMFg2eUNJMTJ0eGlvdVpIVkxDLUw3SUpLNmRRWEVjR3pUUjJTeHlSR1FZOXlUWjlC?oc=5",
-        "pubDate": "Wed, 20 May 2026 06:34:01 GMT",
-        "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 搜狐网"
+        "title": "两部委发布重磅政策：多用户绿电直连项目来了 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82X1dMWERCT09vOE1DUDJxSmRxTWpPOWRIMTFNRlZCUUFnRXdxQk56Tlpqa29UaU9UTURlY2l3REV0LXFwem9mdU45LUdpcWx2TGNJMFBJYnJRa2VjR05TbmJaODU1RUZvWTI4bzg5YjBkWUFuZ215Rk5vUFg?oc=5",
+        "pubDate": "Wed, 20 May 2026 06:33:31 GMT",
+        "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "自用比例不低于60%！江西绿电直连方案印发！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IdGJmSU5hd3l5dHZTNWhCcTFZSm45V3c4ajd6MjZPbURCQUJIY1d1RlFkb2dHTlF0QmM0NjZ6NU4yaXB2LUVvWFNZbUJ2dmJGUFdiMHZlU0xRVWJVdDM4UlBTZGs1Z21O?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "绿电直连新模式将发布_新浪新闻 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUEFyTUktLWJtcGI4bE5rOGpHN01JdGQ3aFplSGo2bGZkWUNjQTgwc25PRXFCeXhaZE1pSGR6T0dobHBya2JvbzNkYTYwTFB1MnNmUDVYU282MXNjVDQ0UkZ2dw?oc=5",
+        "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+        "description": "绿电直连新模式将发布_新浪新闻 &nbsp;&nbsp; 新浪网"
+      },
+      {
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -435,37 +530,13 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "四部门发文推动绿色算力_新浪新闻 - 手机新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
-        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 手机新浪网"
-      },
-      {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-21 06:04 UTC"
+    "updated": "2026-05-21 10:35 UTC"
   }
 }
