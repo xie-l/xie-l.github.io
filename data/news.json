@@ -23,6 +23,27 @@
         "title_cn": ""
       },
       {
+        "title": "AI cracks 80-year-old mathematics challenge — researchers are astonished",
+        "link": "https://www.nature.com/articles/d41586-026-01651-0",
+        "pubDate": "2026-05-22",
+        "description": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01651-0 The late Hungarian mathematician Paul Erdős thought he had the last word on a geometry problem. Now an OpenAI chatbot has proved him wrong.",
+        "title_cn": "人工智能破解了80年的数学挑战—研究人员感到惊讶"
+      },
+      {
+        "title": "Hit a lab project glitch? Thinking about your thesis title like a storyteller can help you focus",
+        "link": "https://www.nature.com/articles/d41586-026-01392-0",
+        "pubDate": "2026-05-22",
+        "description": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01392-0 Cell biologist and crime novelist Frances Brodsky says writing fiction has taught her perseverance and improved her manuscripts.",
+        "title_cn": "遇到实验室项目故障？像讲故事的人一样思考你的论文题目可以帮助你集中注意力"
+      },
+      {
+        "title": "Stress impairs your brain’s ability to link memories — dampening insight",
+        "link": "https://www.nature.com/articles/d41586-026-01644-z",
+        "pubDate": "2026-05-22",
+        "description": "Nature, Published online: 22 May 2026; doi:10.1038/d41586-026-01644-z Imaging suggests why the ability to make inferences declines after an episode of acute stress, such as a job interview.",
+        "title_cn": "压力会损害大脑连接记忆的能力—抑制洞察力"
+      },
+      {
         "title": "De novo design of miniproteins targeting GPCRs",
         "link": "https://www.nature.com/articles/s41586-026-10656-8",
         "pubDate": "2026-05-21",
@@ -35,31 +56,10 @@
         "pubDate": "2026-05-21",
         "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01593-7 Genetic sleuthing uncovers a rare case of cancer caused by a virus administered as part of a child’s treatment for a genetic disorder.",
         "title_cn": "一个男孩的救命基因疗法是否导致了他的脑肿瘤？"
-      },
-      {
-        "title": "A star gone rogue tears through the Galaxy",
-        "link": "https://www.nature.com/articles/d41586-026-01591-9",
-        "pubDate": "2026-05-21",
-        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01591-9 The black hole at the Milky Way’s centre catapulted a Sun-like star to ‘hypervelocity’ speed.",
-        "title_cn": "一颗流星在银河系中流泪"
-      },
-      {
-        "title": "Ebola outbreak spirals out of control: how might it have started?",
-        "link": "https://www.nature.com/articles/d41586-026-01645-y",
-        "pubDate": "2026-05-21",
-        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01645-y Public-health researcher James Baguma has studied the interactions between bats, which can carry the virus, and people in the region near the latest epidemic.",
-        "title_cn": "埃博拉疫情失控：它可能是如何开始的？"
-      },
-      {
-        "title": "Should I get a dog? What to know about pet ownership as a scientist",
-        "link": "https://www.nature.com/articles/d41586-026-00198-4",
-        "pubDate": "2026-05-21",
-        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-00198-4 Animal companions can be a lot of work, and are difficult to fit into a busy professional’s life, but they can also enhance well-being.",
-        "title_cn": "我应该养只狗吗？科学家养宠物须知"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Buying Electric Vehicles Supports Good Jobs",
+        "link": "https://cleantechnica.com/2026/05/22/buying-electric-vehicles-supports-good-jobs/",
+        "pubDate": "Fri, 22 May 2026 20:40:58 +0000",
+        "description": "Much of the news about electric vehicles tends to be about the vehicles themselves, but there&#8217;s very little about the people who make them. However, a couple of days ago, Illinois Governor JB Pritzker shared many details and comments about investing in innovation and jobs, with specific inform",
+        "title_cn": "购买电动汽车支持好工作"
+      },
+      {
+        "title": "More Utilities, Governments, and Private Citizens Are Adopting Solar Than Ever Before",
+        "link": "https://cleantechnica.com/2026/05/22/more-utilities-governments-and-private-citizens-are-adopting-solar-than-ever-before/",
+        "pubDate": "Fri, 22 May 2026 18:46:05 +0000",
+        "description": "Residential rooftop photovoltaic (PV) installations have tripled over the past ten years. With so many organizations and individuals adopting solar, it is now growing faster than any power source in history — the industry is constructing a gigawatt’s worth of solar panels every 15 hours. That’s more",
+        "title_cn": "比以往任何时候都有更多的公用事业、政府和公民采用太阳能"
+      },
+      {
+        "title": "Waymo Robotaxis Have To Take A Break In Atlanta — Can’t Handle Flooding",
+        "link": "https://cleantechnica.com/2026/05/22/waymo-robotaxis-have-to-take-a-break-in-atlanta-cant-handle-flooding/",
+        "pubDate": "Fri, 22 May 2026 18:19:29 +0000",
+        "description": "Waymo robotaxis are clearly the most advanced in terms of real-world customer service in Western countries. They are now operating at quite high volume in several cities. However, in San Antonio and now also Atlanta, they have been running into a problem. They keep trying to drive through flooded st",
+        "title_cn": "Waymo机器人出租车必须在亚特兰大休息一下—无法处理洪水"
+      },
+      {
+        "title": "Gotion Unveils Sodium Battery Products With 261 Wh/kg Energy Density And 20,000 Charge Cycles",
+        "link": "https://cleantechnica.com/2026/05/22/gotion-unveils-sodium-battery-products-with-261-wh-kg-energy-density-and-20000-charge-cycles/",
+        "pubDate": "Fri, 22 May 2026 17:25:09 +0000",
+        "description": "Gotion this week introduced three New sodium battery products at the Global Technology Conference in China. The post Gotion Unveils Sodium Battery Products With 261 Wh/kg Energy Density And 20,000 Charge Cycles appeared first on CleanTechnica .",
+        "title_cn": "Gotion推出具有261 Wh/kg能量密度和20,000次充电循环的钠电池产品"
+      },
+      {
+        "title": "92 New EV Chargers At 14 Charging Stations Announced",
+        "link": "https://cleantechnica.com/2026/05/22/92-new-ev-chargers-at-14-charging-stations-announced/",
+        "pubDate": "Fri, 22 May 2026 17:11:45 +0000",
+        "description": "The EV charger companies Kempower and Blink Charging are collaborating to install 92 new EV charging ports at 14 stations. Two sites are already operating and a dozen more will be built in East Coast states in 2026. The two sites already operating are Vasa Fitness in Colorado and Idaho ... [continue",
+        "title_cn": "宣布在14个充电站安装92个新的电动汽车充电器"
+      },
       {
         "title": "Volkswagen Buys More Rivian (RIVN), At Risk Of $1.75 Billion In Fines",
         "link": "https://cleantechnica.com/2026/05/22/volkswagen-buys-more-rivian-rivn-at-risk-of-1-75-billion-in-fines/",
@@ -137,45 +172,10 @@
         "pubDate": "Thu, 21 May 2026 22:33:04 +0000",
         "description": "The trend continues — another Chinese automaker finds factory space in Europe to build electric cars there. Ford is reportedly on the verge of selling factory space in Spain to Chinese automotive giant Geely. This would be the first place in Europe where Geely would build cars. The factory space ...",
         "title_cn": "福特可以向吉利出售西班牙工厂空间来制造电动汽车"
-      },
-      {
-        "title": "EU Aviation Strategy — T&E Call for Evidence Response",
-        "link": "https://cleantechnica.com/2026/05/21/eu-aviation-strategy-te-call-for-evidence-response/",
-        "pubDate": "Thu, 21 May 2026 22:30:35 +0000",
-        "description": "In light of the current crisis in Iran and broader conflicts such as the Ukraine war, the dependency of European aviation on fossil fuels and imported kerosene is clearer than ever. Countries like China are quickly catching up in the field of aerospace technologies. If we fail to look ahead, ... [co",
-        "title_cn": "欧盟航空战略--T&E要求提供证据"
-      },
-      {
-        "title": "EVs Are For Everyone",
-        "link": "https://cleantechnica.com/2026/05/21/evs-are-for-everyone/",
-        "pubDate": "Thu, 21 May 2026 21:11:11 +0000",
-        "description": "One of our regular commenters dropped a completely non-shocking, straightforward, inconspicuous comment under an article this morning, but it jumped out at me as a really important point and topic to center an article around. First of all, another commenter, Amos Batto, wrote: &#8220;When I look at ",
-        "title_cn": "电动汽车适合所有人"
-      },
-      {
-        "title": "The Mercedes AMG GT Coupe Is An Absolute BEAST!",
-        "link": "https://cleantechnica.com/2026/05/21/the-mercedes-amg-gt-coupe-is-an-absolute-beast/",
-        "pubDate": "Thu, 21 May 2026 18:22:24 +0000",
-        "description": "The Mercedes AMG GT Coupe arrives later this year with unique battery cells based on the company's Formula One experience. The post The Mercedes AMG GT Coupe Is An Absolute BEAST! appeared first on CleanTechnica .",
-        "title_cn": "梅赛德斯AMG GT双门轿跑车是绝对的野兽！"
-      },
-      {
-        "title": "What The Heck Is Going On With OTA Cuts To EV Range In China?",
-        "link": "https://cleantechnica.com/2026/05/21/what-the-heck-is-going-on-with-ota-cuts-to-ev-range-in-china/",
-        "pubDate": "Thu, 21 May 2026 17:50:11 +0000",
-        "description": "A helpful reader brought my attention to a story I hadn&#8217;t seen. For the most part, electric vehicle technology news out of China is all about the ridiculously rapid pace of innovation there. Range has gotten dramatically better in the past five years, or even the past couple of years, ... [con",
-        "title_cn": "在中国， OTA削减电动汽车续航里程到底是怎么回事？"
-      },
-      {
-        "title": "XPENG’s Human Approach To Technology Part 2: Automation, AI & Expectations",
-        "link": "https://cleantechnica.com/2026/05/21/xpengs-human-approach-to-technology-pt-2-automation-ai-expectations/",
-        "pubDate": "Thu, 21 May 2026 17:36:14 +0000",
-        "description": "In the first part of this series on XPENG, I focused on how the technology company treats and develops its employees. In the second part, the focus shifts to how Automation and AI make the most of their employees, as well as how this relates to existing expectations and expectations ... [continued] ",
-        "title_cn": "XPENG的人性化技术方法第2部分：自动化、人工智能和期望"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,16 +248,16 @@
         "description": "新型电力系统长出“新石油”：远景发布全球最大离网风氨一体机 &nbsp;&nbsp; 搜狐网"
       },
       {
-        "title": "50套电解槽！阳光氢能、国核电力院、中化二建、五环工程等中标！本周12个氢能招中标信息【氢能项目·周分析】 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nUVhTeklRVWltM0NxZFpfWlZIS0IzcmhabXVpbUJ1LXo0TW4xSHBtTG5DSjg5VnJOVWZ1czZNcW43UEhWQXE0NjZ6eF9NR19ubUJyMnR3?oc=5",
-        "pubDate": "Tue, 19 May 2026 01:05:36 GMT",
-        "description": "50套电解槽！阳光氢能、国核电力院、中化二建、五环工程等中标！本周12个氢能招中标信息【氢能项目·周分析】 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxR3VuOGxhd3hOVUhtaUZUOUJBX1BJd2RjYm4xYnloZXpwU09wT0ZRZW5DRW5RaDZ1Q3lOc3I2anFmcUJGUG1fSUsxMDlpZENhOWFTNmxPSQ?oc=5",
+        "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
+        "description": "“下一代能源核心”！机构预测9只氢能股业绩高增长 &nbsp;&nbsp; 证券时报"
       },
       {
         "title": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 - 新浪财经",
@@ -284,81 +284,152 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zMjJWaktCTGNTX195VXYxLXRYT0htRV9VY1VpYjgxS2lEMDZTMXpWQldhYkgwd3ZrU0dDWGFhTm5ZSE92STY2U2NfZ296ZnJNTFowTTJB?oc=5",
+        "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT",
+        "description": "李强总理定调！风电光伏“快进键”按下，氢能产业迎来最强风口 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Nebius and Bloom Energy Partner to Power AI Infrastructure Build-Out",
-        "link": "https://fuelcellsworks.com/2026/05/21/energy-innovation/nebius-and-bloom-energy-partner-to-power-ai-infrastructure-build-out",
-        "pubDate": "Thu, 21 May 2026 16:19:55 GMT",
+        "title": "BMW Group Plant Landshut to Produce Key Component for Hydrogen Drivetrain",
+        "link": "https://fuelcellsworks.com/2026/05/22/energy-innovation/bmw-group-plant-landshut-to-produce-key-component-for-hydrogen-drivetrain",
+        "pubDate": "Fri, 22 May 2026 15:52:28 GMT",
         "description": "",
-        "title_cn": "Nebius和Bloom Energy合作推动人工智能基础设施建设"
+        "title_cn": "宝马集团兰茨胡特工厂将生产氢动力传动系统的关键部件"
       },
       {
-        "title": "Cologne Trade Fair Runs Germany's First Hydrogen Forklift Fleet",
-        "link": "https://fuelcellsworks.com/2026/05/19/fuel-cells/cologne-trade-fair-runs-germany-s-first-hydrogen-forklift-fleet",
-        "pubDate": "Thu, 21 May 2026 16:14:39 GMT",
+        "title": "Hubei: Hydrogen-Powered Vehicles Will Be Exempt From Highway Tolls Until the End of 2027",
+        "link": "https://fuelcellsworks.com/2026/05/21/fuel-cells/hubei-hydrogen-powered-vehicles-will-be-exempt-from-highway-tolls-until-the-end-of-2027",
+        "pubDate": "Fri, 22 May 2026 15:19:58 GMT",
         "description": "",
-        "title_cn": "科隆贸易博览会运营德国首个氢能叉车车队"
+        "title_cn": "湖北：氢动力汽车将免征公路通行费至2027年底"
       },
       {
-        "title": "FuelCell Energy Elects Cybersecurity Entrepreneur and McKinsey Veteran John Livingston to Board of Directors",
-        "link": "https://fuelcellsworks.com/2026/05/21/hydrogen-economy/fuelcell-energy-elects-cybersecurity-entrepreneur-and-mckinsey-veteran-john-livingston-to-board-of-directors",
-        "pubDate": "Thu, 21 May 2026 16:12:43 GMT",
+        "title": "HRS Launches Its Hydrogen Secure Power Unit to Safeguard Data Centers Using Technology From Ballard Power Systems",
+        "link": "https://fuelcellsworks.com/2026/05/22/energy-innovation/hrs-launches-its-hydrogen-secure-power-unit-to-safeguard-data-centers-using-technology-from-ballard-power-systems",
+        "pubDate": "Fri, 22 May 2026 15:07:08 GMT",
         "description": "",
-        "title_cn": "FuelCell Energy选举网络安全企业家和麦肯锡资深人士John Livingston为董事会成员"
+        "title_cn": "HRS推出氢能安全动力装置，利用Ballard Power Systems的技术保护数据中心"
       },
       {
-        "title": "Hyundai Motor Group Showcases Hydrogen Ecosystem Vision for Europe at World Hydrogen Summit 2026",
-        "link": "https://fuelcellsworks.com/2026/05/21/energy-innovation/hyundai-motor-group-showcases-hydrogen-ecosystem-vision-for-europe-at-world-hydrogen-summit-2026",
-        "pubDate": "Thu, 21 May 2026 16:07:52 GMT",
+        "title": "Sustainable Electrolysis to Accelerate Europe’s Zero-Carbon Shift",
+        "link": "https://fuelcellsworks.com/2026/05/22/clean-energy/sustainable-electrolysis-to-accelerate-europe-s-zero-carbon-shift",
+        "pubDate": "Fri, 22 May 2026 14:58:56 GMT",
         "description": "",
-        "title_cn": "现代汽车集团在2026年世界氢能峰会上展示欧洲氢能生态系统愿景"
+        "title_cn": "可持续电解加速欧洲零碳转型"
       },
       {
-        "title": "Study: Hydrogen Makes Sense at Airports Now — But Start on the Ground, Not in the Air",
-        "link": "https://fuelcellsworks.com/2026/05/20/fuel-cells/study-hydrogen-makes-sense-at-airports-now-but-start-on-the-ground-not-in-the-air",
-        "pubDate": "Thu, 21 May 2026 16:02:30 GMT",
+        "title": "India and Netherlands Lock in Green Hydrogen Roadmap as Modi Visit Produces 17-Agreement Strategic Upgrade",
+        "link": "https://fuelcellsworks.com/2026/05/22/h2/india-and-netherlands-lock-in-green-hydrogen-roadmap-as-modi-visit-produces-17-agreement-strategic-upgrade",
+        "pubDate": "Fri, 22 May 2026 14:56:03 GMT",
         "description": "",
-        "title_cn": "研究：氢气现在在机场有意义—但从地面开始，而不是在空中"
+        "title_cn": "印度和荷兰锁定绿色氢能路线图，因为莫迪的访问产生了17项协议的战略升级"
       },
       {
-        "title": "Hydrogen-Powered Buses Have Appeared on the Streets of Delhi",
-        "link": "https://fuelcellsworks.com/2026/05/21/energy-innovation/hydrogen-powered-buses-have-appeared-on-the-streets-of-delhi",
-        "pubDate": "Thu, 21 May 2026 15:57:28 GMT",
+        "title": "MPI Leads Hydrogen Fuel Technology Evaluation at Southern Miss",
+        "link": "https://fuelcellsworks.com/2026/05/22/clean-energy/mpi-leads-hydrogen-fuel-technology-evaluation-at-southern-miss",
+        "pubDate": "Fri, 22 May 2026 14:48:03 GMT",
         "description": "",
-        "title_cn": "德里街头出现氢动力公交车"
+        "title_cn": "MPI在南密西西比州领导氢燃料技术评估"
       },
       {
-        "title": "Netherlands: Two New Hydrogen Projects Strengthen National Network of Learning Communities",
-        "link": "https://fuelcellsworks.com/2026/05/20/education/netherlands-two-new-hydrogen-projects-strengthen-national-network-of-learning-communities",
-        "pubDate": "Thu, 21 May 2026 15:46:24 GMT",
+        "title": "Hydrogen Refuelling Is Coming to Waiblingen",
+        "link": "https://fuelcellsworks.com/2026/05/19/fuel-cells/hydrogen-refuelling-is-coming-to-waiblingen",
+        "pubDate": "Fri, 22 May 2026 14:30:03 GMT",
         "description": "",
-        "title_cn": "荷兰：两个新的氢项目加强了国家学习社区网络"
+        "title_cn": "Waiblingen即将迎来氢燃料补给"
       },
       {
-        "title": "Dalkia UK Wins Contract to Deliver One of the UK’s First Green Hydrogen Production Facilities",
-        "link": "https://fuelcellsworks.com/2026/05/21/energy-innovation/dalkia-uk-wins-contract-to-deliver-one-of-the-uk-s-first-green-hydrogen-production-facilities",
-        "pubDate": "Thu, 21 May 2026 15:39:44 GMT",
+        "title": "Humber Hydrogen Partners Bring Their Bid to Parliament",
+        "link": "https://fuelcellsworks.com/2026/05/22/hydrogen/humber-hydrogen-partners-bring-their-bid-to-parliament",
+        "pubDate": "Fri, 22 May 2026 14:26:55 GMT",
         "description": "",
-        "title_cn": "Dalkia UK赢得交付英国首批绿色氢气生产设施之一的合同"
+        "title_cn": "Humber Hydrogen Partners向议会提出申请"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Geometric Origin of the Non-Adiabaticity Parameter and Self-Limiting Instability in Driven Nonlinear Systems",
+        "link": "https://arxiv.org/abs/2605.22796v1",
+        "pubDate": "2026-05-21T17:49:53Z",
+        "description": "We establish that the non-adiabaticity parameter has a direct geometric interpretation as the instantaneous evolution speed of a driven quantum state in projective Hilbert space under the Fubini Study metric. In contrast to conventional asymptotic approaches, the proposed framework provides a strict",
+        "title_cn": "驱动非线性系统非绝热参数和自限不稳定性的几何起源"
+      },
+      {
+        "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+        "link": "https://arxiv.org/abs/2605.22794v1",
+        "pubDate": "2026-05-21T17:48:33Z",
+        "description": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving agents have emerged in response, but all confine evolution to text-mutable artifacts -- skill files, ",
+        "title_cn": "MOSS ：自主Agent系统中源级重写的自我进化"
+      },
+      {
+        "title": "Adiabatic Quantum Phase Estimation",
+        "link": "https://arxiv.org/abs/2605.22770v1",
+        "pubDate": "2026-05-21T17:31:36Z",
+        "description": "Quantum phase estimation (QPE) is a central algorithmic primitive that estimates eigenvalues of a Hamiltonian up to precision $ε$ in Heisenberg-limited time $T=Θ(1/ε)$. Standard gate-based implementations of QPE require deep controlled time-evolution circuits and are not native to analog hardware. H",
+        "title_cn": "绝热量子相位估计"
+      },
+      {
+        "title": "Quoridor is PSPACE-Hard",
+        "link": "https://arxiv.org/abs/2605.22747v1",
+        "pubDate": "2026-05-21T17:15:28Z",
+        "description": "Quoridor is an award-winning abstract strategy game designed by Mirko Marchesi and published in 1997. Similar games include Maze Attack, Blockade (also known as Cul-de-sac), and Pinko Pallino. In line with chess, checkers, Go, and other classic combinatorial games, Quoridor is a turn-based, determin",
+        "title_cn": "Quoridor是PSPACE-Hard"
+      },
+      {
+        "title": "Quantum circuit design via dynamic Pauli constraints",
+        "link": "https://arxiv.org/abs/2605.22744v1",
+        "pubDate": "2026-05-21T17:14:16Z",
+        "description": "We introduce a novel software-oriented model of quantum computation motivated by the practical constraints of near-term quantum hardware. In this model, gates are specified by constraints expressed in terms of Pauli observables, with each disjoint layer of gates accompanied by a pairwise or $k$-loca",
+        "title_cn": "通过动态泡利约束进行量子电路设计"
+      },
+      {
+        "title": "Path-Minimality of $p$-Energy for Connected Graphs",
+        "link": "https://arxiv.org/abs/2605.22730v1",
+        "pubDate": "2026-05-21T17:03:10Z",
+        "description": "Let $G$ be a simple connected graph on $n$ vertices, and let $λ_1(G),λ_2(G),\\ldots,λ_n(G)$ be the eigenvalues of its adjacency matrix $A(G)$. For $p>0$, define the $p$-energy of $G$ by $\\mathcal E_p(G)=\\sum_{i=1}^n |λ_i(G)|^p$. We prove that, for every real number $p\\ge 2$ and every simple connected",
+        "title_cn": "连接图的$ p $ -能量的路径极小性"
+      },
+      {
+        "title": "A $\\operatorname{prox}$-Based Semi-Smooth Newton Method for TV-Minimization",
+        "link": "https://arxiv.org/abs/2605.22728v1",
+        "pubDate": "2026-05-21T17:00:56Z",
+        "description": "In this paper, we devise a $\\operatorname{prox}$-based semi-smooth Newton method for the non-differentiable TV-minimization problem. To this end, the primal-dual optimality conditions are reformulated as a nonlinear operator equation with Newton-(type-)differentiable structure. We investigate the qu",
+        "title_cn": "用于电视最小化的基于$\\ operatorname {prox} $的半平滑牛顿方法"
+      },
+      {
+        "title": "Abstraction for Offline Goal-Conditioned Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2605.22711v1",
+        "pubDate": "2026-05-21T16:50:26Z",
+        "description": "Markov Decision Processes (MDPs) often exhibit significant redundancy due to symmetries and shared structure across state-goal pairs in real-world Goal-Conditioned Reinforcement Learning (GCRL). While hierarchical policies have been motivated for horizon reduction via temporal abstraction in offline",
+        "title_cn": "线下目标条件强化学习的抽象"
+      },
+      {
+        "title": "Dynamics of fast magnetosonic wave turbulence",
+        "link": "https://arxiv.org/abs/2605.22710v1",
+        "pubDate": "2026-05-21T16:47:57Z",
+        "description": "Fast magnetosonic waves are among the fundamental oscillation modes of astrophysical plasmas. To study their dynamics, we carry out numerical simulations of the wave turbulence kinetic equation, which describes the evolution of the energy spectrum of a set of weakly nonlinear fast magnetosonic waves",
+        "title_cn": "快速磁声波湍流动力学"
+      },
+      {
+        "title": "An Analytics Framework for Modeling Residential Photovoltaic Adoption and Decision Dynamics",
+        "link": "https://arxiv.org/abs/2605.22699v1",
+        "pubDate": "2026-05-21T16:41:19Z",
+        "description": "Photovoltaic generation plays a central role in the energy transition, yet understanding its adoption dynamics requires robust analytical frameworks that capture both temporal and spatial patterns of decision behavior. This study applies a data-driven decision analytics approach to examine residenti",
+        "title_cn": "用于住宅光伏采用和决策动态建模的分析框架"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -447,6 +518,12 @@
         "description": "自用比例不低于60%！江西绿电直连方案印发！ &nbsp;&nbsp; 国际新能源网"
       },
       {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
         "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
@@ -457,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-22 16:18 UTC"
+    "updated": "2026-05-22 22:51 UTC"
   }
 }
