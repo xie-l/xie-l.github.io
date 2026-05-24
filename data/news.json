@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "$1,523 to Fuel Toyota C-HR vs. $205 to Energize Kia EV6",
+        "link": "https://cleantechnica.com/2026/05/23/1523-to-fuel-toyota-c-hr-vs-205-to-energize-kia-ev6/",
+        "pubDate": "Sun, 24 May 2026 01:20:06 +0000",
+        "description": "A few days ago, I looked into how much it would cost to fuel a Hyundai Santa Fe versus how much it would cost to &#8220;fuel&#8221; a Hyundai IONIQ 5. (There&#8217;s a backstory there — go ahead and catch up on it all if you&#8217;re curious and missed that.) I ... [continued] The post $1,523 to Fue",
+        "title_cn": "为丰田C-HR提供1,523美元的燃料，而为起亚EV6提供205美元的燃料"
+      },
       {
         "title": "Kia EV6 Price Gets Cut to $37,900!",
         "link": "https://cleantechnica.com/2026/05/23/kia-ev6-price-gets-cut-to-37900/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 23 May 2026 12:49:41 +0000",
         "description": "Offshore wind stakeholders in California are moving forward with plans to develop 25 gigawatts by 2045, despite the sharp U-turn in federal energy policy. The post World&#8217;s Fourth-Largest Economy Challenges Trump On Offshore Wind appeared first on CleanTechnica .",
         "title_cn": "世界第四大经济体在海上风电上挑战特朗普"
-      },
-      {
-        "title": "Have You Seen A Paywall Recently? Support Cleantech Media Here",
-        "link": "https://cleantechnica.com/2026/05/23/have-you-seen-a-paywall-recently-support-cleantech-media-here/",
-        "pubDate": "Sat, 23 May 2026 07:01:02 +0000",
-        "description": "How many news articles do you go to now that are behind a paywall? This is the era of media we&#8217;re in — news sites need subscribers. There are sites, like The Guardian, that want to make sure content is accessible and important news and discussions get out there to ... [continued] The post Have",
-        "title_cn": "您最近是否见过付费墙？在此处支持Cleantech Media"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -470,20 +470,20 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "氢能赛道，利好不断！高研发概念股出炉 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kX3l5X3FoV1VlM1NLcnlQRmtKekdXMGVvUG54LXBhMzYwUUlwRzNwNFV3Sm51TXBIdmNUVEF0TnN0Q09TOVVJLXZpOGJ2N284NjVUT2FBOU9BOTZY?oc=5",
-        "pubDate": "Thu, 30 Apr 2026 10:37:20 GMT",
-        "description": "氢能赛道，利好不断！高研发概念股出炉 &nbsp;&nbsp; 证券时报"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -506,6 +506,12 @@
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新"
       },
       {
+        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
+        "pubDate": "Wed, 20 May 2026 02:40:00 GMT",
+        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
@@ -518,25 +524,19 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 汽车之家",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JOVFzVFBFSk5uVXZZamJUZ0tIWjQtbDU3N2paanNsREJIV2xDTWo0OGpYaUhwYlBLZ1RfTWE0X3lzcVlGWEVrU0dwNlZrYzJXaHFBdkVrZVpTUFE?oc=5",
-        "pubDate": "Fri, 22 May 2026 05:35:04 GMT",
-        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 汽车之家"
-      },
-      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "国家发改委：新增可再生能源非电消费考核 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bDA5WHRMeW5VMTZhUUQwcGVXVGwzQ3pQcEtLejRWMGFnUWJPd3R1cno2aGZZdFRjRjlmb0xBSzdOTDFmWEQzWUpWZGhWUWlIRklBT2lSdDVNUE5RUWhGaTdOWkZCZTR6?oc=5",
+        "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
+        "description": "国家发改委：新增可再生能源非电消费考核 &nbsp;&nbsp; 国际新能源网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-23 22:45 UTC"
+    "updated": "2026-05-24 05:56 UTC"
   }
 }
