@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "How I eavesdrop on frog conversations",
+        "link": "https://www.nature.com/articles/d41586-026-01621-6",
+        "pubDate": "2026-05-25",
+        "description": "Nature, Published online: 25 May 2026; doi:10.1038/d41586-026-01621-6 Billie Goolsby’s experience with hearing loss helped her to develop a robotic tadpole for deciphering the secret lives of amphibians.",
+        "title_cn": "我如何窃听青蛙的谈话"
+      },
+      {
         "title": "Vanishing tongues and life on Mars: Books in brief",
         "link": "https://www.nature.com/articles/d41586-026-01655-w",
         "pubDate": "2026-05-22",
@@ -49,20 +56,31 @@
         "pubDate": "2026-05-21",
         "description": "Nature, Published online: 21 May 2026; doi:10.1038/s41586-026-10656-8 De novo design of miniproteins targeting GPCRs",
         "title_cn": "靶向GPCR的微量蛋白的从头设计"
-      },
-      {
-        "title": "Did a boy’s life-saving gene therapy cause his brain tumour?",
-        "link": "https://www.nature.com/articles/d41586-026-01593-7",
-        "pubDate": "2026-05-21",
-        "description": "Nature, Published online: 21 May 2026; doi:10.1038/d41586-026-01593-7 Genetic sleuthing uncovers a rare case of cancer caused by a virus administered as part of a child’s treatment for a genetic disorder.",
-        "title_cn": "一个男孩的救命基因疗法是否导致了他的脑肿瘤？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3824164325412992?f=rss",
+        "pubDate": "2026-05-25 16:54:18  +0800",
+        "description": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。 第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖"
+      },
+      {
+        "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开户时间缩短至一个月",
+        "link": "https://36kr.com/p/3824439681520002?f=rss",
+        "pubDate": "2026-05-25 16:24:54  +0800",
+        "description": "大公司： 番茄小说持续加强低质内容治理，5月处置低质书籍超15万本 36氪获悉，近日，番茄小说发布《关于加强低质内容治理公告》。公告显示，5月以来，番茄小说已累计处置低质书籍超15万本，其中拒绝签约低质书籍112706本，处置低质违规书籍40275本。 全国首单挂钩蓝色债券合约类信用衍生品交易落地山东 36氪获悉，据上海清算所，近日，在中国人民银行山东省分行指导和推动下，山东省成功落地挂钩蓝色债券的合约类信用衍生品交易。该业务是全国首单以蓝色债券为保护标的的信用风险缓释合约。 日本监管机构敦促上市公司将现���用于业务投资，而非提高股东回报 日本金融监管机构敦促国内上市公司将更多现金储备用于长"
+      },
+      {
+        "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+        "link": "https://36kr.com/p/3824158896312709?f=rss",
+        "pubDate": "2026-05-25 14:26:35  +0800",
+        "description": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于 西安电子科技大学广州研究院 ，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持 软硬一体 ，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技CEO 非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术"
+      },
       {
         "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
         "link": "https://36kr.com/p/3824154127093892?f=rss",
@@ -92,28 +110,10 @@
         "link": "https://36kr.com/p/3824073646624899?f=rss",
         "pubDate": "2026-05-25 10:09:23  +0800",
         "description": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，3D打印高端光固化全栈技术企业、齿科细分龙头——黑格科技（HeyGears）于近期完成超3亿元人民币C轮融资。本轮融资由君联资本、达晨联合领投，歌斐资产、国科投资跟投。 本轮资金用途将用于光固化技术研发迭代、全球产业链深化、顶尖人才引进及新一代数字化齿科解决方案、桌面级光固化全彩造物产品的发布。 黑格科技的齿科业务始于2018年，依托耗材体系和DLP技术的全产业链国产攻坚，后推出光固化产品线UltraCraft及齿科数字化解决方案，已成为全球细分龙头。 目前，黑格科技齿科业务全球化布局成效显著，海外营收占比已"
-      },
-      {
-        "title": "机器人力传感器龙头再获数亿融资，上汽、中芯等抢先入局",
-        "link": "https://36kr.com/p/3824053061652616?f=rss",
-        "pubDate": "2026-05-25 09:50:58  +0800",
-        "description": "硬氪获悉，近日， 六维力传感器企业 蓝点触控宣布完成C++轮数亿元人民币融资，本轮由 上汽金控、尚颀资本领投，由中芯聚源、正大机器人以及厚为资本 跟投。本轮融资将主要用于新产品研发、生产数智化建设以及全球市场拓展。 蓝点触控半年完成了三轮亿元级融资，此次融资距上一轮C+轮融资仅一个月。股东阵容目前已囊括红杉中国、宁德时代旗下溥泉资本、智元机器人、银河通用、上汽系资本、中芯产业资本等多路力量。 本轮融资投资方在产业链方向的纵深值得关注。 上汽系资本（上汽金控、尚颀资本）代表汽车制造场景，中芯聚源代表半导体高端制造，厚为资本则带来广泛的消费和媒体生态资源 ——三者与上一轮入股的宁德时代（动力电池）"
-      },
-      {
-        "title": "华为具身大脑一号位做类脑智能世界模型，对标JEPA，获亿元级融资｜硬氪首发",
-        "link": "https://36kr.com/p/3819931562414467?f=rss",
-        "pubDate": "2026-05-25 09:30:00  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能大脑公司「具脑磐石」完成新一轮亿元级融资，本轮融资由具备深厚类脑与具身产业背景的顶尖产业资本领投，老股东及多家顶尖基金复投和跟投，多维资本担任独家财务顾问。同时，更新一轮融资也在同步交割中。 资金将重点投入核心技术研发、人才团队扩容及全球化市场拓展，以加速认知世界模型（Cognitive World Model）的研发、工程化落地与真实场景验证。 类脑智能世界模型（图源/企业） 具脑磐石成立于2025年，以类脑智能为底层范式，构建面向真实物理世界的认知世界模型（Cognitive World Model）。公司由“华为具身大脑一号位”朱森华创立并担任"
-      },
-      {
-        "title": "从服务沉默玩家，到技术外溢至千行百业：游戏+AI的下一站是什么？",
-        "link": "https://36kr.com/p/3822747968196993?f=rss",
-        "pubDate": "2026-05-25 09:16:04  +0800",
-        "description": "文丨小葵 编辑丨果脯、刘士武 2026年GDC大会上，《和平精英》策划副总监薛冰披露了一组数据。 AI队友周末活跃玩家突破1770万，累计1.1亿人体验过AI功能，单局消息互动70条，麦克风开启率高达75%，超过了真人双排的历史峰值。 这意味着，大量玩家不仅选择了AI队友，还愿意对着屏幕那头的“数字人”开口说话。它像是一个切口，让我们得以窥见某种长期被行业忽视的集体情绪。从业者们不再追问“AI能否融入游戏”，一个更尖锐的问题浮出水面：当技术已经赢得了漂亮的胜利，接下来它该往哪里走？ 《和平精英》AI战犬 01 “交流”往往是多人游戏中最基础也最脆弱的一环。 大多场景中，玩家可能会将其粗暴地理解"
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "远景发布全球最大离网风氨一体机 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52b1dvRXFQTmJoVndocDNla3o3T3Azd0FDT2FwbEUzVUlHa3VQZlJuYl8tWWNjTEIxcE5FZnNoS1ZRYlhNYk1qUnlNU2lXTm03WWN0UHJR?oc=5",
+        "pubDate": "Mon, 25 May 2026 10:06:59 GMT",
+        "description": "远景发布全球最大离网风氨一体机 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
       {
         "title": "国家能源局：同意成立4个氢能标准化技术委员会 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Vklrbm1pT1NfTVQyRm5lSnJUcEtkcmZrRTZNalhVdmVIcXM5VkxuZ2V6UFczRUt4elR2bmdWa0lGVFVtZWNRWm9qMWVRWm5FRFlSNkV3?oc=5",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,12 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation",
+        "link": "https://arxiv.org/abs/2605.23890v1",
+        "pubDate": "2026-05-22T17:51:10Z",
+        "description": "Argumentative dialogues across political divides can reduce polarization, yet opportunities for citizens to engage with opposing views in accessible and structured ways remain limited. AI dialogue partners offer a scalable framework for such open-mindedness exercises, but how the format of human-AI ",
+        "title_cn": "去极化的不同路径：对话设计决定了人工智能辅助政治争论的有利社会效益"
+      },
+      {
+        "title": "Exact versus tight-binding models in longitudinally modulated $\\mathcal{PT}$-symmetric coupled waveguides",
+        "link": "https://arxiv.org/abs/2605.23853v1",
+        "pubDate": "2026-05-22T17:07:57Z",
+        "description": "The tight-binding (TB) model is a widely adopted approximation scheme for describing light propagation in waveguide arrays. Despite its success, its validity in $\\mathcal{PT}$-symmetric systems characterized by strong longitudinal modulation has not been rigorously benchmarked against exact analytic",
+        "title_cn": "纵向调制$\\ mathcal {PT} $对称耦合波导中的精确与紧密结合模型"
+      },
+      {
+        "title": "Enhancing Energy Efficiency in Scientific Workflows through CFD based PIVAEs",
+        "link": "https://arxiv.org/abs/2605.23850v1",
+        "pubDate": "2026-05-22T17:04:49Z",
+        "description": "The growing complexity and scale of scientific workflows in high performance computing (HPC) environments have led to significant challenges in managing energy consumption without compromising computational performance. Traditional scheduling strategies often fail to account for the complex interpla",
+        "title_cn": "通过基于CFD的PIVAE提高科学工作流程的能效"
+      },
+      {
+        "title": "Dissipative non-Abelian fluids from Scherk-Schwarz dimensional reduction",
+        "link": "https://arxiv.org/abs/2605.23842v1",
+        "pubDate": "2026-05-22T16:51:55Z",
+        "description": "We construct a $d$-dimensional dissipative colored fluid by Scherk--Schwarz reduction of a neutral viscous conformal fluid in $D=d+n$ dimensions on an $n$-dimensional unimodular group manifold. The off-diagonal components of the higher-dimensional stress tensor become non-Abelian color currents, whi",
+        "title_cn": "来自Scherk-Schwarz降维的耗散性非阿贝尔流体"
+      },
+      {
+        "title": "cloelib: A Flexible Python Library for Computing Cosmological Observables in the Euclid Era",
+        "link": "https://arxiv.org/abs/2605.23839v1",
+        "pubDate": "2026-05-22T16:48:41Z",
+        "description": "cloelib is a Python library developed to compute cosmological observables within the Cosmology Likelihood for Observables in Euclid (CLOE) ecosystem (cloe-org). As cosmology enters a precision era driven by galaxy survey missions such as Euclid, there is a growing need for flexible, efficient, and d",
+        "title_cn": "cloelib ：欧几里德时代用于计算宇宙学可观测值的灵活Python库"
+      },
+      {
+        "title": "An extremely bright slow-rising afterglow from an off-axis jet in GRB 260310A",
+        "link": "https://arxiv.org/abs/2605.23818v1",
+        "pubDate": "2026-05-22T16:18:43Z",
+        "description": "We present a multi-wavelength study of GRB 260310A, a nearby long-duration gamma-ray burst at $z\\simeq0.153$ associated with a broad-lined Type Ic supernova. Despite its modest prompt gamma-ray output, $E_{γ,\\rm iso}\\simeq3.5\\times10^{50}$ erg, GRB\\,260310A exhibits one of the brightest afterglows e",
+        "title_cn": "来自GRB 260310A中离轴射流的极其明亮的慢速上升余辉"
+      },
+      {
+        "title": "An Ensemble Variational approach for High-Dimensional Open-Loop Flow Control",
+        "link": "https://arxiv.org/abs/2605.23812v1",
+        "pubDate": "2026-05-22T16:15:25Z",
+        "description": "Designing effective optimisation strategies for unsteady flows in the presence of complex dynamics is challenging. Gradient-based optimisation algorithms that rely on gradient information obtained from adjoint equations are efficient for high-dimensional control problems such as those considered her",
+        "title_cn": "一种高维开环流量控制的集成变分方法"
+      },
+      {
+        "title": "Gaia FGK benchmark stars: abundances of \\textit{n}-capture elements of the third version",
+        "link": "https://arxiv.org/abs/2605.23786v1",
+        "pubDate": "2026-05-22T15:50:20Z",
+        "description": "In the current era, in which an unprecedented wealth of data is available for the study of the Milky Way, the Gaia Benchmark Stars (GBS) have become an established reference and calibration sample. Studies of stellar structure and evolution, as well as the chemical history of our Galaxy, largely rel",
+        "title_cn": "Gaia FGK基准星：丰富\\ textit {n} -捕获第三个版本的元素"
+      },
+      {
+        "title": "FPGA Acceleration of Matrix-Element Calculations for Monte Carlo Event Generation",
+        "link": "https://arxiv.org/abs/2605.23785v1",
+        "pubDate": "2026-05-22T15:49:31Z",
+        "description": "We present an FPGA-based study of matrix-element acceleration for Monte Carlo event generation, using MadGraph5_aMC@NLO as a benchmark framework. Two complementary scenarios are considered. First, we implement the full matrix-element workflow on an AMD Alveo U250 accelerator for the benchmark proces",
+        "title_cn": "蒙特卡罗事件生成矩阵元素计算的FPGA加速"
+      },
+      {
+        "title": "SIM-Aided Near-Field Channel and Localization Estimation With Dimensionality Reduction: A Multiport Network Theory Approach",
+        "link": "https://arxiv.org/abs/2605.23779v1",
+        "pubDate": "2026-05-22T15:45:22Z",
+        "description": "The deployment of Extremely Large-Scale Antenna Arrays for 6G enables radiative near-field sensing but poses significant challenges in terms of hardware complexity and interference. Stacked Intelligent Metasurfaces (SIMs) address these limitations by enabling wave-domain dimensionality reduction. Th",
+        "title_cn": "具有降维功能的SIM辅助近场信道和本地化估计：一种多端口网络理论方法"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -423,22 +494,22 @@
         "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "绿电直连开启“拼单”模式：零碳园区加速落地，中小企业共享绿电红利 - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFTTJyX0h3LXlQZGNiRFljMWFEYy03RElmc0pEZ044MkluTDRIdUdTSUxZRENRYVVJR09OTlZVNW5aQThUZVFwbU92bHNhSDAwaEROR01yVHhST192eEE?oc=5",
-        "pubDate": "Wed, 20 May 2026 14:25:00 GMT",
-        "description": "绿电直连开启“拼单”模式：零碳园区加速落地，中小企业共享绿电红利 &nbsp;&nbsp; thepaper.cn"
-      },
-      {
         "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
         "pubDate": "Wed, 20 May 2026 02:40:00 GMT",
         "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 06:33:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -447,25 +518,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "四部门发文推动绿色算力_新浪新闻 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nY3VZaVQyLWtqQ1VabzFoTmRITncxa05KWkxySWdHRTRQT1pCdUh4WURxdVhiaGxYTEx1OGlndFZ5UTdnQVlUZ1dqR28xaWo4dWRMUGZ2bFNMR21pQmFnVmZfcw?oc=5",
-        "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-        "description": "四部门发文推动绿色算力_新浪新闻 &nbsp;&nbsp; 新浪网"
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "国家发改委：新增可再生能源非电消费考核 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81bDA5WHRMeW5VMTZhUUQwcGVXVGwzQ3pQcEtLejRWMGFnUWJPd3R1cno2aGZZdFRjRjlmb0xBSzdOTDFmWEQzWUpWZGhWUWlIRklBT2lSdDVNUE5RUWhGaTdOWkZCZTR6?oc=5",
+        "pubDate": "Tue, 14 Oct 2025 07:00:00 GMT",
+        "description": "国家发改委：新增可再生能源非电消费考核 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 06:33:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-25 06:20 UTC"
+    "updated": "2026-05-25 11:05 UTC"
   }
 }
