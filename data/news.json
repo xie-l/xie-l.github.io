@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+        "link": "https://www.nature.com/articles/s41586-026-10700-7",
+        "pubDate": "2026-05-27",
+        "description": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10700-7 Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
+        "title_cn": "作者更正：干细胞衍生猴胚胎模型中的晚期原肠胚形成建模"
+      },
+      {
+        "title": "Meet the biologists deciphering marine-mammal histories from baleen, whiskers and tusks",
+        "link": "https://www.nature.com/articles/d41586-026-01622-5",
+        "pubDate": "2026-05-27",
+        "description": "Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01622-5 The nascent field of wildlife endocrinology is upending scientists’ understanding of pregnancies and stress",
+        "title_cn": "与生物学家见面，解读鲸须、胡须和象牙的海洋哺乳动物历史"
+      },
+      {
+        "title": "Memory on trial: the new science of when to trust eyewitness testimony",
+        "link": "https://www.nature.com/articles/d41586-026-01618-1",
+        "pubDate": "2026-05-27",
+        "description": "Nature, Published online: 27 May 2026; doi:10.1038/d41586-026-01618-1 Innocent people are frequently convicted of crimes on the basis of a witness’s false memories. Emerging science poses a surprising solution.",
+        "title_cn": "审判中的记忆：何时相信目击者证词的新科学"
+      },
+      {
         "title": "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene",
         "link": "https://www.nature.com/articles/s41586-026-10669-3",
         "pubDate": "2026-05-26",
@@ -35,31 +56,10 @@
         "pubDate": "2026-05-26",
         "description": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01663-w A cautious voice on the closure of China’s journal ranking list",
         "title_cn": "对关闭中国期刊排行榜持谨慎态度"
-      },
-      {
-        "title": "Should there be a national museum of chemicals?",
-        "link": "https://www.nature.com/articles/d41586-026-01336-8",
-        "pubDate": "2026-05-26",
-        "description": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01336-8 A proposal to highlight the work of chemists, and reflections on 150 years of London Zoo in this week’s pick from the Nature archive.",
-        "title_cn": "是否应该有一个国家化学品博物馆？"
-      },
-      {
-        "title": "Iran’s Internet blackout: a scholar’s month in the dark",
-        "link": "https://www.nature.com/articles/d41586-026-01666-7",
-        "pubDate": "2026-05-26",
-        "description": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01666-7 Iran’s Internet blackout: a scholar’s month in the dark",
-        "title_cn": "伊朗互联网停电：黑暗中的学者之月"
-      },
-      {
-        "title": "Too dangerous to release: is Mythos the start of the restricted-AI era?",
-        "link": "https://www.nature.com/articles/d41586-026-01617-2",
-        "pubDate": "2026-05-26",
-        "description": "Nature, Published online: 26 May 2026; doi:10.1038/d41586-026-01617-2 What happens when AI companies produce models that they say the public can’t have — and how should users and governments react?",
-        "title_cn": "释放太危险了：神话是限制人工智能时代的开始吗？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Uber & Lyft Drivers Create 1st US Ridesharing Union In Massachusetts",
+        "link": "https://cleantechnica.com/2026/05/26/uber-lyft-drivers-create-1st-us-ridesharing-union-in-massachusetts/",
+        "pubDate": "Wed, 27 May 2026 03:50:36 +0000",
+        "description": "Uber and Lyft drivers in Massachusetts are tired of being taken advantage of, and are thus diverging from the long-term trend in the USA away from worker unions. Drivers for Uber and Lyft in The Baked Bean State have decided to combine forces for better pay and conditions by unionizing, ... [continu",
+        "title_cn": "优步和Lyft合作车主在马萨诸塞州创建首个美国共享出行联盟"
+      },
       {
         "title": "The Inconvenience & Risks of Gas Cars",
         "link": "https://cleantechnica.com/2026/05/26/the-inconvenience-risks-of-gas-cars/",
@@ -132,11 +139,11 @@
         "title_cn": "最后一分钟纽约预算勇气气候法和SEQRA"
       },
       {
-        "title": "France Plans to Double Domestic Electricity Production Share",
+        "title": "France to Double Share of Its Electricity That’s Domestically Produced by 2030",
         "link": "https://cleantechnica.com/2026/05/26/france-plans-to-double-domestic-electricity-production-share/",
         "pubDate": "Tue, 26 May 2026 23:34:21 +0000",
         "description": "Things have been a bit dicey in Europe and globally when it comes to energy. Russia&#8217;s invasion of Ukraine led to an existential energy conundrum on the continent. The European Union (EU) had been trying to &#8220;play nice&#8221; with Russia for years and make deals that involved buying Russia",
-        "title_cn": "法国计划将国内电力生产份额翻一番"
+        "title_cn": "法国到2030年将国内生产的电力份额翻一番"
       },
       {
         "title": "SpaceX IPO — Boon Or Boondoggle?",
@@ -165,20 +172,20 @@
         "pubDate": "Tue, 26 May 2026 15:53:41 +0000",
         "description": "Over the Memorial Day holiday weekend, many Americans watched auto racing and attended automotive enthusiast events. The Indy 500 was held, the largest single-day sporting event in the world with over 300,000 live spectators. And, while the death of Kyle Busch put an emotional damper on the event an",
         "title_cn": "电动汽车回答汽车热情"
-      },
-      {
-        "title": "When Will EV Sales Pick Up In The US?",
-        "link": "https://cleantechnica.com/2026/05/26/ev-sales-us-subaru-gasoline-price-iran-war/",
-        "pubDate": "Tue, 26 May 2026 15:20:59 +0000",
-        "description": "To help support EV sales in the US, the advocacy organization Electric Four All bought billboard space near gas stations in 15 major cities over the Memorial Day weekend. The post When Will EV Sales Pick Up In The US? appeared first on CleanTechnica .",
-        "title_cn": "电动汽车在美国的销量何时会回升？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Ambient-pressure conversion of plastic waste to jet fuel cycloalkanes by tandem hydropyrolysis and vapour-phase hydrogenation",
+        "link": "https://www.nature.com/articles/s41560-026-02078-7",
+        "pubDate": "2026-05-27",
+        "description": "Nature Energy, Published online: 27 May 2026; doi:10.1038/s41560-026-02078-7 Converting plastic waste into jet fuel could support aviation decarbonization, but current approaches are limited by high-pressure requirements and low efficiency. Here the authors present a tandem hydropyrolysis and vapour",
+        "title_cn": "通过串联水解和气相加氢将塑料废物转化为喷气燃料环烷烃"
+      },
       {
         "title": "Stable tin–lead perovskite inks for efficient all-perovskite tandems",
         "link": "https://www.nature.com/articles/s41560-026-02077-8",
@@ -227,17 +234,10 @@
         "pubDate": "2026-05-19",
         "description": "Nature Energy, Published online: 19 May 2026; doi:10.1038/s41560-026-02066-x Electron spins are often not considered in electrocatalysis, yet they can play a pivotal role in determining reaction pathways. New research suggests that chiral (twisted) copper can generate spin-polarized charge carriers ",
         "title_cn": "远离氢气的转折"
-      },
-      {
-        "title": "Securing US electric vehicle battery supply requires domestic action and international sourcing",
-        "link": "https://www.nature.com/articles/s41560-026-02045-2",
-        "pubDate": "2026-05-19",
-        "description": "Nature Energy, Published online: 19 May 2026; doi:10.1038/s41560-026-02045-2 Expanding domestic production and implementing demand-side strategies can substantially narrow material shortages for US electric vehicle batteries, but these efforts still fall short of meeting projected 2035 demand. To as",
-        "title_cn": "确保美国电动汽车电池供应需要国内行动和国际采购"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,20 +353,91 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation",
+        "link": "https://arxiv.org/abs/2605.27366v1",
+        "pubDate": "2026-05-26T17:59:19Z",
+        "description": "Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated and static artifacts, limiting their reusability, reliability, and long-term improvement. We propose MUSE-Autoskill Agent (Memory-Utilizing Skill Evo",
+        "title_cn": "MUSE-Autoskill ：通过技能创建、记忆、管理和评估实现自我进化的代理"
+      },
+      {
+        "title": "A Minute-Cadence Deep Bulge Survey: First Data Release of DREAMS",
+        "link": "https://arxiv.org/abs/2605.27364v1",
+        "pubDate": "2026-05-26T17:59:07Z",
+        "description": "The DECam Rogue Earths and Mars Survey (DREAMS), a NOIRLab survey program, has been conducting a three-year survey covering a 5\\,deg$^2$ area in the Galactic bulge since 2025 June. Its primary science goal is to detect low-mass free-floating planets through microlensing, while its minute-level caden",
+        "title_cn": "一分钟节奏深度凸出调查： DREAMS的首次数据发布"
+      },
+      {
+        "title": "Hot Jupiters' Isolation Is Not Unique to High-Eccentricity Tidal Migration",
+        "link": "https://arxiv.org/abs/2605.27362v1",
+        "pubDate": "2026-05-26T17:58:48Z",
+        "description": "Conventionally, the observed isolation of hot Jupiters, marked by a paucity of nearby low-mass planetary companions, has been interpreted as evidence of high-eccentricity tidal migration for these close-in gas giants. This loneliness is in stark contrast with the compact configurations commonly obse",
+        "title_cn": "热木星的隔离并不是高偏心潮汐迁移所独有的"
+      },
+      {
+        "title": "Quantum Resistance Paradox of Low-Dimensional Superfluids",
+        "link": "https://arxiv.org/abs/2605.27356v1",
+        "pubDate": "2026-05-26T17:58:01Z",
+        "description": "Resistance in standard conductors decreases with increasing cross-section. Yet, in low-dimensional superconductors and superfluids residual resistance arises from topological fluctuations of the order parameter manifesting as phase slips in one-dimensional (1D) and vortices in two-dimensional (2D) s",
+        "title_cn": "低维超流体的量子电阻悖论"
+      },
+      {
+        "title": "Impact of Clouds on the Atmosphere-Mantle Interface of Sub-Neptunes",
+        "link": "https://arxiv.org/abs/2605.27353v1",
+        "pubDate": "2026-05-26T17:52:52Z",
+        "description": "Sub-Neptunes are among the most common type of close-in planets found in our galaxy, yet their bulk composition remains largely uncertain; H-rich envelopes overlaying rocky cores, volatile-rich planets, and carbon-rich interiors all remain viable configurations for members of this population. Atmosp",
+        "title_cn": "云对亚海王星大气-地幔界面的影响"
+      },
+      {
+        "title": "Exploring Agent Interactions in MoltBook through Social Network Analysis",
+        "link": "https://arxiv.org/abs/2605.27349v1",
+        "pubDate": "2026-05-26T17:51:16Z",
+        "description": "The rapid evolution of large language model based multiagent systems has transformed digital communication, with platforms like MoltBook emerging as essential agent native environments for observing autonomous social behaviors. While existing literature has documented the structural topology of thes",
+        "title_cn": "通过社交网络分析探索MoltBook中的座席互动"
+      },
+      {
+        "title": "Learning to reoptimize: a GNN-aided fix-and-optimize approach and an application to the Lot Sizing problem",
+        "link": "https://arxiv.org/abs/2605.27339v1",
+        "pubDate": "2026-05-26T17:44:41Z",
+        "description": "In many operational contexts, solutions to NP-hard combinatorial optimization problems, modeled by means of Mixed-Integer Linear Programming (MILP), may become infeasible due to unpredictable disruptions. Typically, reoptimizing by solving the MILP formulation on the perturbed instance is not possib",
+        "title_cn": "学习重新优化： GNN辅助的修复和优化方法以及对批量调整问题的应用"
+      },
+      {
+        "title": "Supermassive Black Holes: modelling strongly and weakly magnetised misaligned accretion disks",
+        "link": "https://arxiv.org/abs/2605.27334v1",
+        "pubDate": "2026-05-26T17:41:46Z",
+        "description": "In this paper, we carry out a numerical study of misaligned accretion disks around spinning supermassive black holes. Here, we conduct a parameter survey covering a range of initial disk misalignment angles ($\\mathcal{T}_\\mathrm{init}=15^\\circ, 45^\\circ, 75^\\circ$) with either the Magnetically Arres",
+        "title_cn": "超大质量黑洞：模拟强磁化和弱磁化失调吸积盘"
+      },
+      {
+        "title": "Governed Evolution of Agent Runtimes through Executable Operational Cognition",
+        "link": "https://arxiv.org/abs/2605.27328v1",
+        "pubDate": "2026-05-26T17:36:48Z",
+        "description": "Recent advances in agentic systems increasingly treat code as an executable operational substrate rather than as a disposable output artifact. Prior work such as \\emph{Code as Agent Harness} frames validated agent-generated artifacts as runtime entities that can be created, executed, revised, persis",
+        "title_cn": "通过可执行操作认知实现代理运行时的受控演进"
+      },
+      {
+        "title": "Reconstructing the cosmic expansion in $f(R, L_{m})$ gravity via parametrized Hubble function constraints",
+        "link": "https://arxiv.org/abs/2605.27324v1",
+        "pubDate": "2026-05-26T17:34:09Z",
+        "description": "We probe the cosmic expansion scenario within the framework of $f(R, L_{m})$ gravity by employing a well-motivated functional form of $f(R, L_{m}) = \\frac{R}{2} + L_{m}^λ$. Specifically, we introduce three novel cosmological models formulated in terms of the redshift-dependent Hubble parameter $H(z)",
+        "title_cn": "通过参数化哈勃函数约束重建$ f (R, L_{m}) $重力下的宇宙膨胀"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "国家能源局召开能源领域民营企业座谈会！风光储氢等企业负责人参会！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02cVNqTHRWaE5Tb05hWm45MnVMaHJnY3hLRUt3QmUxQXVQR0ZjM0ZrcDNYMVhJandnemNQbjgzRTRQbkcycHVGNm5MNzBmRnkxcHU0Y0JmcVEzQVJydUpTYXdn?oc=5",
-        "pubDate": "Wed, 27 May 2026 00:54:45 GMT",
-        "description": "国家能源局召开能源领域民营企业座谈会！风光储氢等企业负责人参会！ &nbsp;&nbsp; 国际储能网"
+        "title": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KMnRncmZfS0hLVktCUHZ0NlcwcXRmRkg4aklOcm9ETkY3QmJySGI0UFFxNldOQTFiYU5rUkVKNWV6cGo3Mm91NExLVV9oVTdLLWFmYQ?oc=5",
+        "pubDate": "Wed, 27 May 2026 06:23:28 GMT",
+        "description": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
@@ -375,10 +446,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
-        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
-        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
+        "title": "国家能源局召开民营企业座谈会 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWt5dGNfMzRWeU9IRWsxMC1KN2JjSVFDSFQ3bW5XOHRjSGdvcll4aUtPLTlNUTExSGxYRWtGV0g2M182dkV6VUJIYTlhOFA0X1lSVmVET0JFcE13WFJrRmZPNWg0UXI4aHRfTEhqa00xRGhIaldGWFE4OURrYUQ0aWlHcEFRUVIxd2RqVTNQWTh0VGl5X3F3UTd5NHZ1VllTNUk2OER0OHFTSHpIaDlXSGR3?oc=5",
+        "pubDate": "Wed, 27 May 2026 05:40:46 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局：同意成立4个氢能标准化技术委员会 - 国际氢能网",
@@ -412,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -423,16 +494,16 @@
         "description": "政策东风启新程，绿电直连赋能中国天楹绿氢发展 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "两部委发布重磅政策：多用户绿电直连项目来了 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW9lX0k3aS01Rm9FWldmSjRnTXducFBFV1ZsVDJmbFU0WXZWQmRjcmo4TWtQZHQ5ekNqVzI5UWh6MjVxTWhQSVhXbENPT2FaMy1mYXlQYVBGMFg2eUNJMTJ0eGlvdVpIVkxDLUw3SUpLNmRRWEVjR3pUUjJTeHlSR1FZOXlUWjlC?oc=5",
-        "pubDate": "Wed, 20 May 2026 06:34:01 GMT",
-        "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "两部委发布重磅政策：多用户绿电直连项目来了 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW9lX0k3aS01Rm9FWldmSjRnTXducFBFV1ZsVDJmbFU0WXZWQmRjcmo4TWtQZHQ5ekNqVzI5UWh6MjVxTWhQSVhXbENPT2FaMy1mYXlQYVBGMFg2eUNJMTJ0eGlvdVpIVkxDLUw3SUpLNmRRWEVjR3pUUjJTeHlSR1FZOXlUWjlC?oc=5",
+        "pubDate": "Wed, 20 May 2026 06:34:01 GMT",
+        "description": "两部委发布重磅政策：多用户绿电直连项目来了 &nbsp;&nbsp; 搜狐网"
       },
       {
         "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
@@ -459,13 +530,13 @@
         "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
+        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-27 06:13 UTC"
+    "updated": "2026-05-27 10:51 UTC"
   }
 }
