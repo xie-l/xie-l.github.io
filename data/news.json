@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Share the highs and lows of your career in science: take Nature ’s global survey",
+        "link": "https://www.nature.com/articles/d41586-026-01589-3",
+        "pubDate": "2026-05-28",
+        "description": "Nature, Published online: 28 May 2026; doi:10.1038/d41586-026-01589-3 Science and society are undergoing rapid change. Nature wants to know how this is affecting careers, workplace culture and salaries.",
+        "title_cn": "分享您科学事业的高潮和低谷：参加Nature的全球调查"
+      },
+      {
         "title": "Author Correction: Modelling late gastrulation in stem cell-derived monkey embryo models",
         "link": "https://www.nature.com/articles/s41586-026-10700-7",
         "pubDate": "2026-05-27",
@@ -49,20 +56,43 @@
         "pubDate": "2026-05-27",
         "description": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10541-4 Trait-based ecosystem modelling shows that impact-driven darkness and body-size-dependent extinction thresholds, rather than carbon-dioxide increase or acidification, drove most of the observed end-Cretaceous marine extinction pat",
         "title_cn": "深色和体型形状的白垩纪末期海洋灭绝图案"
-      },
-      {
-        "title": "Sparse-to-dense coding transformation between hippocampal areas CA3 and CA1",
-        "link": "https://www.nature.com/articles/s41586-026-10537-0",
-        "pubDate": "2026-05-27",
-        "description": "Nature, Published online: 27 May 2026; doi:10.1038/s41586-026-10537-0 The hippocampus exhibits a CA3-to-CA1 coding transformation that combines fast learning with an efficient, compressed neural code.",
-        "title_cn": "海马区CA3和CA1之间的稀疏到密集编码转化"
       }
     ],
     "source": "Nature",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+        "link": "https://36kr.com/p/3828915666441090?f=rss",
+        "pubDate": "2026-05-28 20:17:29  +0800",
+        "description": "封面来源 |&nbsp; &nbsp;官方供图 5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。 财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。 运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，同比增长1.2%；同期平均月活跃用户7.72亿，同比增长8%，刷新历史新高。 那么，快手本季财报的成色究竟如何？在AI浪潮下该如何给快手"
+      },
+      {
+        "title": "科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵",
+        "link": "https://36kr.com/p/3828898785858185?f=rss",
+        "pubDate": "2026-05-28 19:57:48  +0800",
+        "description": "5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。 官方图片 AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。 发布会上，AMD大中华区销售副总裁晁亚新首先分享了AMD公司整体的AI策略，面对飞速增长的AI需求构建AI无处不在的算力基础，AMD正打造覆盖云端、终端与边缘端的全栈式端到端算力体系，以开放的生态姿态与伙"
+      },
+      {
+        "title": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
+        "link": "https://36kr.com/p/3828874222555782?f=rss",
+        "pubDate": "2026-05-28 19:35:17  +0800",
+        "description": "大公司： 格林生物创业板IPO过会 36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。 晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划 36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持股计划，回购期限自董事会审议通过之日起12个月内。 中国交建：附属公司拟参与设立10亿元交通信息科技基金 36氪获悉，中国交建公告，公司附属公司中交资本及中交鼎"
+      },
+      {
+        "title": "科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难",
+        "link": "https://36kr.com/p/3828856781099910?f=rss",
+        "pubDate": "2026-05-28 19:14:39  +0800",
+        "description": "5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。 官方图片 当前，新能源车渗透率已超50%，行业保持高速增长，为汽车后市场带来广阔发展机遇。与此同时，行业短板也逐步显现"
+      },
+      {
+        "title": "科氪 | 雷鸟创新双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
+        "link": "https://36kr.com/p/3828851140350592?f=rss",
+        "pubDate": "2026-05-28 19:08:59  +0800",
+        "description": "2026 年 5 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）携手 TCL 好莱坞中国剧院举办夏季新品发布会，正式推出行业首款专业影视级 AR 眼镜雷鸟 GT 系列，以极致巨幕、影院级音画与轻盈佩戴，带来真正媲美影院的随身观影体验，售价 1899 元起；同时，新一代 AI 拍摄眼镜雷鸟 V4，在 AI 响应、超长续航、暗光拍摄、防水防尘等核心体验上全面刷新行业上限，带来真正具备替代传统眼镜的日常佩戴能力，售价 2199 元起。 &nbsp; 官方图片 作为全球 AR 眼镜市场第一品牌，雷鸟创新凭借从底层光学设计到整机量产的全链路自研能力，全面布局覆盖 AR 观影、AI 拍摄"
+      },
       {
         "title": "智象未来CEO梅涛：多模态模型Token的毛利率，远高于语言模型",
         "link": "https://36kr.com/p/3820602297208966?f=rss",
@@ -80,43 +110,41 @@
         "link": "https://36kr.com/p/3827585618154118?f=rss",
         "pubDate": "2026-05-28 08:35:00  +0800",
         "description": "文丨刘士武 封面来源 | Funloom 官网 36氪获悉， AI内容共创平台公司北京库兰织梦科技有限公司（以下简称「库兰织梦」），已于近日完成数千万元人民币Pre-A融资。 本轮融资由晴澜家族办公室领投，上海天使会跟投，此前投资人包括奇绩创坛、盛大网络&amp;连尚网络创始人陈大年。本轮融资后，公司估值已达到2亿元，资金将用于产品研发升级和团队扩张。&nbsp; 库兰织梦成立于2023年， 创始人吴同 曾任职Unity，拥有5年游戏行业创业经验，推出《12世纪的黎凡特》《活过今晚》《库兰精灵》等十余款游戏，运营游戏发行自媒体“咕咕同”获得数百万播放，作品曾获吉比特、CUSGA、电魂等多个游戏"
-      },
-      {
-        "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
-        "link": "https://36kr.com/p/3828191630348934?f=rss",
-        "pubDate": "2026-05-28 08:00:20  +0800",
-        "description": "今日热点导览 阿里员工十三薪将并入年终奖 曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方 微信小游戏月活跃用户超过5亿 聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争 SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温 长鑫科技科创板IPO获上市委会议通过 TOP 3大新闻 “高考期间AI工具将禁用”？豆包、元宝等回应 日前，“高考期间AI工具将禁用”的话题引发关注，有不少网友讨论，高考期间AI工具是否将暂停拍题识图、试题解答、试卷解析等功能？5月27日，界面新闻求问豆包，其明确回答：“考试进行中，我不会配合解答高考试题、撰写考场作文、分析考题答案，但考试前"
-      },
-      {
-        "title": "腾讯游戏的One More Thing，是AI",
-        "link": "https://36kr.com/p/3827658881323649?f=rss",
-        "pubDate": "2026-05-28 07:00:49  +0800",
-        "description": "文丨贝果树 编辑丨刘士武 5月27日，2026年腾讯游戏发布会于晚上八点举办。在发布会上，腾讯从制作、发行、投资三个板块带来了42款游戏的新动态，其中包含15款新品，新品的数量相较于2025年发布会的24款有所减少。 来源：2026腾讯游戏发布会 与往届发布会不同的是，此次的发布会上，腾讯在AI游戏应用方面有了更多的输出。在游戏制作板块，腾讯介绍了如《和平精英》中的新AI队友小田、《王者荣耀》中的AI助手灵宝和电竞的AI解说等应用。 当然，这些AI在游戏中的应用案例绝大部分都已经在此前实现， 最引人瞩目的，是在发布会最后的 “One More&nbsp;Thing” 环节，腾讯带来了三款更为重"
-      },
-      {
-        "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
-        "link": "https://36kr.com/p/3827497128465287?f=rss",
-        "pubDate": "2026-05-27 20:17:05  +0800",
-        "description": "大公司： 程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍 36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美元增长4倍。程一笑表示，可灵AI一季度收入高速增长，主要来自B端企业客户API调用收入和P端付费会员订阅收入的双轮驱动。无论是用户数还是月均付费金额，可灵AI均实现了高速增长。从留存看，B端企业客户和P端付费会员均保持较好留存趋势，体现出可灵AI在专业创作场景中的技术和产品实力。 台积电CEO：今年全员平均分红奖金涨幅将超30% 针对员工近期在网络上对激励政策提出的"
-      },
-      {
-        "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-        "link": "https://36kr.com/p/3826932509364869?f=rss",
-        "pubDate": "2026-05-27 10:38:25  +0800",
-        "description": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。 2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。 5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场别开生面的“世界咖啡”AI+产业对接会。60位国内领军企"
-      },
-      {
-        "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-        "link": "https://36kr.com/p/3826922264286083?f=rss",
-        "pubDate": "2026-05-27 10:27:05  +0800",
-        "description": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。 Coddie团队于2026年初组建，由95后连续创业者何鋡威创立。何鋡威毕业于德国慕尼黑工业大学，先后任职华为、传音控股、拓竹科技等全球化科技企业。技术负责人毕业于国内顶级高校计算机专业，曾就职半导体龙头上市公司，负责大疆与Insta360影像IC方案落地；后加入国家“小巨人”第三代半导体企业担任产品负责人，具备复杂产品研发的深厚技术背景，以及前沿方案的系统整合能力。 "
       }
     ],
     "source": "36氪",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Over 200,000 EV Public Charging Points In Germany Now",
+        "link": "https://cleantechnica.com/2026/05/28/over-200000-ev-public-charging-points-in-germany-now/",
+        "pubDate": "Thu, 28 May 2026 15:43:12 +0000",
+        "description": "Germany is a leading clean energy nation, and it is making progress with electrification of transport. The latest milestone it has achieved is that over 200,000 public EV charging points have been installed. A little more than 149,000 are slow chargers, and a bit more than 51,000 are fast chargers. ",
+        "title_cn": "德国现有超过20万个电动汽车公共充电站"
+      },
+      {
+        "title": "Chery to Enter Japan Through an Autobacs Partnership",
+        "link": "https://cleantechnica.com/2026/05/28/chery-to-enter-japan-through-an-autobacs-partnership/",
+        "pubDate": "Thu, 28 May 2026 15:33:47 +0000",
+        "description": "Chery Automobile-backed joint venture Electric Mobility Technologies is preparing to enter Japan’s tightly regulated kei-car market with a compact electric vehicle scheduled for launch in 2027. Operating under the EMTA brand, the Singapore-based venture will compete with BYD and its upcoming Racco k",
+        "title_cn": "奇瑞将通过Autobacs合作伙伴关系进入日本"
+      },
+      {
+        "title": "$1,538 to Fuel Ford Escape vs. $235 to Energize Ford Mustang Mach-E",
+        "link": "https://cleantechnica.com/2026/05/28/1538-to-fuel-ford-escape-vs-235-to-energize-ford-mustang-mach-e/",
+        "pubDate": "Thu, 28 May 2026 14:02:19 +0000",
+        "description": "Following this series of fuel cost comparisons between electric car models and comparable gas car models, here&#8217;s a comparison of the Ford Escape and the Ford Mustang Mach-E. Naturally, with all of these comparisons, there are many assumptions to make and you can make assumptions that fit you a",
+        "title_cn": "$ 1,538为福特Escape提供燃料， $ 235为福特野马Mach-E提供能量"
+      },
+      {
+        "title": "Honda Pursues New Blended Silicon-Carbon EV Batteries",
+        "link": "https://cleantechnica.com/2026/05/28/ev-batteries-silicon-carbon-honda-invest-uk-nexeon/",
+        "pubDate": "Thu, 28 May 2026 13:14:17 +0000",
+        "description": "EV batteries are getting a blended silicon-carbon anode makeover from the UK firm Nexeon, which has just attracted Honda as a new strategic investor. The post Honda Pursues New Blended Silicon-Carbon EV Batteries appeared first on CleanTechnica .",
+        "title_cn": "本田推出新型混合硅碳电动汽车电池"
+      },
       {
         "title": "Low-Income Families Bear Highest Energy Burden — New Analysis",
         "link": "https://cleantechnica.com/2026/05/27/low-income-families-bear-highest-energy-burden-new-analysis/",
@@ -144,38 +172,10 @@
         "pubDate": "Thu, 28 May 2026 03:10:52 +0000",
         "description": "UPDATE May 27: BLUETTI&#8217;s Kickstarter campaign for the new FridgePower battery backup system is coming to an end and they sent along the following couple of updates: The Milestone: We’ve officially surpassed $2M in funding; it’s now the Final 72 Hours (campaign ends May 31). Final Pricing: Solo",
         "title_cn": "BLUETTI FridgePower ：现实世界回顾—更新"
-      },
-      {
-        "title": "Africa’s Electric Motorcycle Manufacturers Get Ready for the Next Phase as Adoption of Electric Motorcycles Accelerates",
-        "link": "https://cleantechnica.com/2026/05/27/africas-electric-motorcycle-manufacturers-get-ready-for-the-next-phase-as-adoption-of-electric-motorcycles-accelerates/",
-        "pubDate": "Thu, 28 May 2026 00:34:55 +0000",
-        "description": "I&#8217;ve been following the African electric motorcycle sector for almost 10 years now, from the time of early pilots to present day commercial rollouts and ramp-ups in production. The sector was always going to flourish in the long term based on several factors: A large addressable market of over",
-        "title_cn": "随着电动摩托车的采用加速，非洲电动摩托车制造商为下一阶段做好准备"
-      },
-      {
-        "title": "When Oil Shocks Hit Home: Why Africa’s Buses Must Go Electric",
-        "link": "https://cleantechnica.com/2026/05/27/when-oil-shocks-hit-home-why-africas-buses-must-go-electric/",
-        "pubDate": "Thu, 28 May 2026 00:03:34 +0000",
-        "description": "By Wanjiru Kamotho-Mureithi The recent instability in the Gulf region has reminded African countries and the world of a familiar yet painful vulnerability; oil-dependent economies face recurring crises they cannot control. Kenya offers a clear illustration of this dynamic. Nearly all the country’s f",
-        "title_cn": "当石油冲击袭击家园时：为什么非洲的公共汽车必须电动化"
-      },
-      {
-        "title": "Africa’s Solar Boom May Be Hiding In The Import Data",
-        "link": "https://cleantechnica.com/2026/05/27/africas-solar-boom-may-be-hiding-in-the-import-data/",
-        "pubDate": "Wed, 27 May 2026 23:13:51 +0000",
-        "description": "At the start of 2026, I predicted that Africa would surprise a lot of observers with solar deployment this year. That was in my 2026 energy predictions article, and the prediction was not based on one giant solar park, one government announcement, or one development bank programme. It was based ... ",
-        "title_cn": "非洲的太阳能热潮可能隐藏在进口数据中"
-      },
-      {
-        "title": "There Are Many Fewer Solar Installation Permitting Conflicts Than You’d Think",
-        "link": "https://cleantechnica.com/2026/05/27/there-are-many-fewer-solar-installation-permitting-conflicts-than-youd-think/",
-        "pubDate": "Wed, 27 May 2026 22:19:57 +0000",
-        "description": "True or false? Most large scale solar energy projects in the US encounter relatively few permitting conflicts. Many media stories that spread the perception that opposition to solar development is common. A new study led by University of Massachusetts Amherst researchers says the correct answer to t",
-        "title_cn": "发生冲突的太阳能装置比你想象的要少得多"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,14 +284,14 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "国能多家单位获批参与氢能标准化委员会组建工作 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84WF9vT3NlTFY3YlFRY0k0NFpPV1VKYWhBNV9rMWlGbjNKQTZKNkNnX204REU4blJDc2RKZHZzY1d0Z3VpblByRDhVamZjeDRmU1NqSkxXUWplaWRUSDAxNzdQSG5xVWh1TEs0dktkYTFMcE90cEI4?oc=5",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "description": "国能多家单位获批参与氢能标准化委员会组建工作 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi6wpBVV95cUxQTUh3N2Q5TmJrazZuN1EtYWNta0t4RC1IdGcyb0t4ZGhTdGRXekRMQVUyRnozRTgzSS05Z0VRYUVqWkVoV2Z4NjFaRFM0Z2s5VU1HOVZWNVNzSy0wcFdxRjhzRlAybU55YkJUYmRXWjlSVURfYk1WYmpIb2h6WnpEVktxVlk5WXhUZ0NidjM5cTROVU9Vd3VFY0dINW5NWHQybUpEUXpMMmZTZkZBSzdpYS1zNzRhUndtckpYTklHSFFEUk0yX1YtbHBYQnRoenR3SVJFWVgyaW5BZVM2aE5rdjNQU043YkFYZ21KRmZoaG5XRHQzdkttQTVKNlhTcVItdzlQTWxnZUlxY3lVWGRaS2NFOS1yX0tJY3VDTW1mOG5VYWhDRGpWZHRaNXdTUUJNeFE2V0RCMUpmQl9lWkJzWWVidldzU3pXWUFuNVkweU9PVDZjRTNiRjZFRldyTFhYMUREU2ZxX3BObEFVNXMwUGZHRkZybVlXYlFXd1BQeGpjM3NOT3U0NlZNdUFlSHg0NzJ4QTZEQ2tTc3hqbkdkUjFweG04MUpCaVdtVjRXWlgzck8xRklybk1NTXlRMkYtUUlWNTJXcjFDVTRXNndhWVVGRzJGSjhTM19YQTVEeW5TWnFZRG5LclZtUDdQclNOZTJNMl8zSE1XLTZfd002N1gwNnhVcG5TdGM4akhnSER5azR5S2dzdzVhRjF2YWFBcjBYMDJobEliZUxHSlVKeEFHblc5OTJmNDkwX0xFYld5WGpNbWZlRGpMWm9BTmc1RHpEMnJjUDhkM0thLWUyUkFkOGNSYTA5SXpEUmk3M1ZQN3RqZkdObHhwLU9ld05sTkh5WFVIWXg0Nld0NWRBeDNRWUhrSW84aFFJbnZ3eHp5bGYzUFdnS2J1OVFFay0wc1JTWGRwMWdJVk16RkVfTG9QNWprLUlmaXJrdmtNNGhjbTBMWGw1YlB6Ny1kTVhZaUIzVFgzalVHdGh2UFBpQms5OUJzNng3Rm9VeGs3M1NBZHFNaHUydHlqQnFYR05KSl9XTFVQeHMta1BvY0R5b3NWNVBMaFpoS2dwZ1BMMXNFOXlPUlhqbUN1VTlxdTFKX2ZmVVRIaUdkVEg2a3JmVjBvN1V0M29hdHpxRUJHTjIwVl9vWHU3ZXNnSDJicWpTZC1WakpaZWNmYkFicjJtWWxEekp5R2hlbDBXd2VMTUJZRl8zMVktME5wYmdnU1BUNkJBV2l4QXRra2dzWUxUVUctY0pIbmV4by1tUHlKdEJuV3VGNzdMajhCTFdOZlJhRG9BcUlZNXZVVWRuMDdzUV9yNWE0TnlndXdOX1dib0ZlbDA0MFBRc0J6Y2prVzVETHZkTEdLZmNkUWowOU5nN0ZSN0pUR0d0bFRPNEcyWTV0OTVHRDdyOFRxT1FBbDJqVlJRZjFGZHFqajcwd1NOY3FXUHVwbGxaTjdzc1l6WHQ0ZGFPMlZOeW5nLWlwRnR0clJaSjQzdnF6SktHVHB1YnRzM25KRTdzN3drbFFINEhmcG10V1lQdkNBeW9hVWFIdnF6RFBYLXdad2tHUDUtNmUzOE5FZEp1Sm5KUEExUHlDa2hSQVpleTV0eW1ldU9iRGJ5T2F3bGNEa2ZpNWZOUVlWNUJ0RVJSTmNuRXE4b3RXRUlfeXM5SE0xZnIySjBPalhJdmlMeW1NMFFRVWR0TF8tVTZmY2xPY0VvTXo4VHNvdjZPbFIyZWZYcTlaaWEtZkE0OU9iUTZ2d0YyQnU3OVlsOVg0TW9XTk9hRElvYVR6cHdhVWxLZmZ6RG1VNGtTVzhxYjhzS2pjMHRaMkwwa2FrWUJaMFdEQlpZ?oc=5",
+        "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+        "description": "“下一代能源核心” ！万亿级产业，将迎来商业化分水岭！机构预测9股业绩高增长 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,12 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+        "link": "https://arxiv.org/abs/2605.28814v1",
+        "pubDate": "2026-05-27T17:59:15Z",
+        "description": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as best-of-N sampling and tree search face two fundamental limitations: they are guided by sparse veri",
+        "title_cn": "使用双向进化搜索的自我改进语言模型"
+      },
+      {
+        "title": "Human Label Variation as Stable Signal: Learning Annotator-Specific Explanation Behavior via Cross-Annotator Preference Optimization",
+        "link": "https://arxiv.org/abs/2605.28802v1",
+        "pubDate": "2026-05-27T17:55:00Z",
+        "description": "Free-text explanations extend human label variation (HLV) beyond label disagreement by revealing the reasoning and preferences behind annotators' decisions. We study whether large language models (LLMs) can learn and reproduce such annotator-specific label-explanation behavior. Using two sentence-pa",
+        "title_cn": "作为稳定信号的人类标签变异：通过交叉注释器偏好优化学习注释器特定的解释行为"
+      },
+      {
+        "title": "Energy-energy correlators inside single inclusive jets in heavy-ion collisions with CoLBT-hydro model",
+        "link": "https://arxiv.org/abs/2605.28788v1",
+        "pubDate": "2026-05-27T17:47:40Z",
+        "description": "The energy-energy correlator (EEC) inside jets is a sensitive observable for studying jet modification in the quark-gluon plasma (QGP). However, its interpretation in heavy-ion collisions remains challenging, requiring a consistent understanding of jet evolution across multiple dynamical scales toge",
+        "title_cn": "使用CoLBT-hydro模型在重离子碰撞中单个包容性喷流内的能量-能量相关器"
+      },
+      {
+        "title": "Evolution of the dusty nova QY Mus from eruption to quiescence",
+        "link": "https://arxiv.org/abs/2605.28771v1",
+        "pubDate": "2026-05-27T17:30:54Z",
+        "description": "We present a comprehensive study of the spectrophotometric evolution of the classical nova QY Mus from eruption to quiescence. The light curve shows a notable dust dip, classifying it as a D (137)-type nova, with dust formation beginning at $\\sim$123 days post-outburst and reaching a maximum optical",
+        "title_cn": "尘土飞扬的新星QY Mus从喷发到静止的演变"
+      },
+      {
+        "title": "The unique ability of the Hubble Space Telescope to characterize young exoplanet environments",
+        "link": "https://arxiv.org/abs/2605.28768v1",
+        "pubDate": "2026-05-27T17:25:03Z",
+        "description": "The chemical and mass evolution of exoplanet atmospheres is shaped by their specific X-ray through ultraviolet (5 - 3200 Angstroms) irradiance history. X-ray and EUV (5 - 911 Angstroms) radiation largely contributes to atmospheric heating via photoionization, while far- and near-UV emission (912 - 3",
+        "title_cn": "哈勃太空望远镜表征年轻系外行星环境的独特能力"
+      },
+      {
+        "title": "Hidden worlds: a non-transiting candidate planet in the Neptunian desert around the solar-type pulsator KIC 9139163",
+        "link": "https://arxiv.org/abs/2605.28755v1",
+        "pubDate": "2026-05-27T17:15:05Z",
+        "description": "Close-in substellar companions experience strong tidal and magnetic interactions with their host stars and are therefore subject to fast orbital evolution. The solar-type pulsator KIC 9139163 exhibits in its light curve a stable 0.6-day modulation for which the best explanation is the presence of a ",
+        "title_cn": "隐藏的世界：太阳脉冲器KIC 9139163周围海王星沙漠中的非过渡候选行星"
+      },
+      {
+        "title": "Quantum Geometric Limits for Non-Abelian Holonomies",
+        "link": "https://arxiv.org/abs/2605.28754v1",
+        "pubDate": "2026-05-27T17:13:07Z",
+        "description": "Stokes' theorem turns Abelian Berry phases into curvature fluxes, whereas path ordering precludes such a simple formula for non-Abelian holonomies. We show that a quantitative form of this intuition survives: arbitrary Wilczek--Zee holonomies obey a universal quantum geometric limit~(QGL), in which ",
+        "title_cn": "非阿贝尔全局论的量子几何极限"
+      },
+      {
+        "title": "Maximum phase-space density of linearly polarized gluon TMDs in the saturation region",
+        "link": "https://arxiv.org/abs/2605.28747v1",
+        "pubDate": "2026-05-27T17:02:42Z",
+        "description": "We calculate the Sudakov-limited maximum phase-space density associated with the linearly polarized gluon TMD coefficient $h_1^{\\perp g}$ in the saturation region. Using Mueller's occupancy argument together with the small-$x$ Weizsäcker-Williams (WW) and dipole gluon distributions of Metz and Zhou,",
+        "title_cn": "饱和区线性极化胶子TMD的最大相空间密度"
+      },
+      {
+        "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
+        "link": "https://arxiv.org/abs/2605.28732v1",
+        "pubDate": "2026-05-27T16:53:53Z",
+        "description": "Memory is essential for enabling large language models to support long-horizon reasoning, yet existing memory systems remain unreliable and difficult to debug. Tracing memory's dynamic evolution is crucial to understand how information is synthesized, propagated, or corrupted over time. In this work",
+        "title_cn": "MemTrace ：大型语言模型记忆系统中的跟踪和归因错误"
+      },
+      {
+        "title": "Expressive Power of Floating-Point Neural Networks with Arbitrary Reduction Orders and Inexact Activation Implementations",
+        "link": "https://arxiv.org/abs/2605.28704v1",
+        "pubDate": "2026-05-27T16:30:41Z",
+        "description": "Most existing expressivity theories for neural networks assume exact real arithmetic, whereas practical neural networks are executed under finite-precision floating-point arithmetic with implementation-dependent execution semantics. Recent works have begun studying the expressive power of floating-p",
+        "title_cn": "具有任意还原顺序和不精确激活实现的浮点神经网络的表达能力"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "policy_nea": {
     "items": [
@@ -393,16 +464,16 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
-        "title": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KMnRncmZfS0hLVktCUHZ0NlcwcXRmRkg4aklOcm9ETkY3QmJySGI0UFFxNldOQTFiYU5rUkVKNWV6cGo3Mm91NExLVV9oVTdLLWFmYQ?oc=5",
-        "pubDate": "Wed, 27 May 2026 06:23:28 GMT",
-        "description": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KMnRncmZfS0hLVktCUHZ0NlcwcXRmRkg4aklOcm9ETkY3QmJySGI0UFFxNldOQTFiYU5rUkVKNWV6cGo3Mm91NExLVV9oVTdLLWFmYQ?oc=5",
+        "pubDate": "Wed, 27 May 2026 06:23:28 GMT",
+        "description": "绿氢入选！首批51个“人工智能+能源高价值场景”清单发布，试点申报启动 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -412,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -429,10 +500,10 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - Sina finance",
+        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
         "pubDate": "Wed, 20 May 2026 02:40:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; Sina finance"
+        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
@@ -466,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-05-28 10:49 UTC"
+    "updated": "2026-05-28 17:31 UTC"
   }
 }
