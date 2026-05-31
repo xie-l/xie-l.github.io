@@ -1,0 +1,40 @@
+{
+  "date": "2026-05-31",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "转换频率",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>TOF（Turnover Frequency），每个活性位点每秒催化的反应次数，是最精确衡量催化剂本征活性的指标，可排除载量影响。",
+      "example": "<strong>举例：</strong>单原子Pt催化剂的TOF比Pt纳米颗粒高5-10倍，说明单原子分散改变了电子结构，而不只是增加了表面积。"
+    },
+    {
+      "id": 2,
+      "term": "设备综合效率",
+      "category": "工程",
+      "definition": "<strong>含义：</strong>OEE（Overall Equipment Effectiveness），反映设备可用率×性能效率×合格品率，制造业提升盈利的核心指标。",
+      "example": "<strong>举例：</strong>某电解槽OEE仅60%（可用率80%×性能90%×良率83%），提升到85%意味着同样设备多产出40%的氢气。"
+    },
+    {
+      "id": 3,
+      "term": "表面能",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>创建单位新表面所需的能量，决定纳米材料的形貌稳定性和晶面暴露情况，是催化剂形貌控制的理论基础。",
+      "example": "<strong>举例：</strong>贵金属纳米粒子因表面能高而倾向于团聚；通过配体保护或载体固定降低表面能，是维持纳米催化剂分散度的关键策略。"
+    },
+    {
+      "id": 4,
+      "term": "技术成熟度",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>TRL（Technology Readiness Level），NASA提出的9级量表，衡量技术从基础研究到商业部署的成熟程度，是投资和政策决策的重要参考。",
+      "example": "<strong>举例：</strong>PEM电解制氢约TRL7-8（已有商业化产品但成本偏高）；固态储氢约TRL4-5（实验室验证阶段）；TRL越低，技术风险越大但潜在收益也越高。"
+    },
+    {
+      "id": 5,
+      "term": "沉淀性资产",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>只能用于特定用途、一旦投入便难以转用其他领域的资产（厂房、专用设备、定制化关系），其不可逆性使得承诺行为产生可信度。",
+      "example": "<strong>举例：</strong>国家能源集团建设的大型制氢工厂是沉淀性资产，也是对行业长期发展的可信承诺；一旦建成，退出成本极高，反而形成了竞争壁垒。"
+    }
+  ]
+}
