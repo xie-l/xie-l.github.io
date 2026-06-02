@@ -23,6 +23,13 @@
         "title_cn": "全球塑料条约必须建立在监测的基础上"
       },
       {
+        "title": "Chemicals meant to be eco-friendly accumulate aloft",
+        "link": "https://www.nature.com/articles/d41586-026-01763-7",
+        "pubDate": "2026-06-02",
+        "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01763-7 Large-scale measurements of atmospheric hydrofluoroolefins show that their levels are rising, but the implications are unclear.",
+        "title_cn": "旨在环保的化学物质在高空积累"
+      },
+      {
         "title": "Natural capital accounting needs a way to assess uncertainty",
         "link": "https://www.nature.com/articles/d41586-026-01778-0",
         "pubDate": "2026-06-02",
@@ -49,17 +56,10 @@
         "pubDate": "2026-06-02",
         "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1 Is it time to ‘cap and trade’ credits for research-funding proposals?",
         "title_cn": "是时候为研究资助提案“限额和交易”信用额度了吗？"
-      },
-      {
-        "title": "The future of science communication is not an article like this",
-        "link": "https://www.nature.com/articles/d41586-026-01723-1",
-        "pubDate": "2026-06-02",
-        "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01723-1 Researchers and science publishers need to seize the opportunity offered by the drastic shifts in the way news is produced — one reason Nature has joined TikTok.",
-        "title_cn": "科学传播的未来不是这样的文章"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Commercial Electric Fleet Operators In South Africa Prove 27% Cost Advantage — Infrastructure Scales To Meet Demand",
+        "link": "https://cleantechnica.com/2026/06/02/commercial-electric-fleet-operators-in-south-africa-prove-27-cost-advantage-infrastructure-scales-to-meet-demand/",
+        "pubDate": "Tue, 02 Jun 2026 22:20:58 +0000",
+        "description": "South Africa’s electric vehicle market has reached a pivotal moment, with commercial fleets proving substantial economic advantages and consumer interest surging, according to industry leaders speaking at a webinar hosted by energy analyst Chris Yelland. Industry leaders recently participated in a w",
+        "title_cn": "南非的商用电动车队运营商证明了27%的成本优势—基础设施规模可满足需求"
+      },
+      {
+        "title": "BYD Stops Sales Bleed — Turning Point?",
+        "link": "https://cleantechnica.com/2026/06/02/byd-stops-sales-bleed-turning-point/",
+        "pubDate": "Tue, 02 Jun 2026 21:25:04 +0000",
+        "description": "As we&#8217;ve reported month after month, BYD sales have been down all year in 2026 compared to the same period in 2025. There are some obvious negative causes, like modest subsidy cuts in China. However, there are actually some strongly positive reasons for it as well. BYD has launched some ... [c",
+        "title_cn": "比亚迪停止销售出血—转折点？"
+      },
+      {
+        "title": "Volvo: Still Focused on 100% Electric Vehicles, Even If World Drags Its Feet",
+        "link": "https://cleantechnica.com/2026/06/02/volvo-still-focused-on-100-electric-vehicles-even-if-world-drags-its-feet/",
+        "pubDate": "Tue, 02 Jun 2026 18:57:18 +0000",
+        "description": "Electric vehicle adoption is much further along than most people a decade ago thought it would be. Perhaps not in the US, where adoption has been quite meh, but globally, in China, in South America, and in Europe, electric vehicle uptake has been quicker than conventional wisdom presumed it would ..",
+        "title_cn": "沃尔沃：即使世界拖延，仍然专注于100%电动汽车"
+      },
       {
         "title": "Giant Solar Power Plant In Texas Gets A New Neighbor",
         "link": "https://cleantechnica.com/2026/06/02/texas-solar-power-vesper-energy-sustainable/",
@@ -151,31 +172,10 @@
         "pubDate": "Tue, 02 Jun 2026 14:26:00 +0000",
         "description": "In two-thirds of EU Member States, companies do not get a clear tax signal to switch to electric Two-thirds of EU member states are failing to provide companies with the tax incentives necessary to steer them away from fossil-fuel cars. In 18 out of 27 Member States, the tax gap ... [continued] The ",
         "title_cn": "疲软的企业汽车税可能加剧欧盟对石油的依赖"
-      },
-      {
-        "title": "Electricity Prices Fall Across Australia As Renewables Build Momentum",
-        "link": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
-        "pubDate": "Tue, 02 Jun 2026 03:58:03 +0000",
-        "description": "As bulk power costs reduce in Australia’s eastern states due to high renewable energy inputs, the price reductions are finally reaching the household and small business consumer. As well as grid-scale wind and solar, we have the highest penetration of rooftop solar, and now home batteries are being ",
-        "title_cn": "澳大利亚各地电价下跌，可再生能源发展势头强劲"
-      },
-      {
-        "title": "XPENG Sales Up 4% Month Over Month, Down 4% Year Over Year",
-        "link": "https://cleantechnica.com/2026/06/01/xpeng-sales-up-4-month-over-month-down-4-year-over-year/",
-        "pubDate": "Tue, 02 Jun 2026 03:57:18 +0000",
-        "description": "XPENG is still struggling to find another big growth spurt. Its start to 2026 has not been great from a straight sales perspective. It&#8217;s mostly been a matter of trying to maintain a level of stability rather than reaching for the kind of growth it&#8217;s seen in recent years. With ... [contin",
-        "title_cn": "XPENG销售额环比增长4% ，同比下降4%"
-      },
-      {
-        "title": "NIO Sales Soar 62% in May",
-        "link": "https://cleantechnica.com/2026/06/01/nio-sales-soar-62-in-may/",
-        "pubDate": "Tue, 02 Jun 2026 01:20:03 +0000",
-        "description": "NIO had another great month. With 37,705 sales in May, it had 62.3% growth year over year. Month over month, it had 28.4% growth. Across the first five months of the year, NIO reached 150,526 sales, a whopping 68.7% increase year over year. The sales split by brand was as ... [continued] The post NI",
-        "title_cn": "蔚来5月销售额飙升62%"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "energy_cn": {
     "items": [
@@ -255,7 +255,7 @@
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
@@ -278,87 +278,158 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
-        "title": "从能源局“能源+算力”推进会，看氢能如何卡位中美AI竞争 - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJOXZhUVdfaVkzUDk0VThPZ1BhVmNCd3dwTkQ1ZFlHbXVNRFpOX0NXZDdhSnAxMlRUdHVFaEU3VDRMQ1VXXzNXZ2FDVklYQ0tNajdDN1FWaGtTWjJjWG93RUtB?oc=5",
-        "pubDate": "Thu, 28 May 2026 09:21:11 GMT",
-        "description": "从能源局“能源+算力”推进会，看氢能如何卡位中美AI竞争 &nbsp;&nbsp; 手机网易网"
-      },
-      {
         "title": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 - 潮新闻",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOVg2a3IzQ2JNOUhTVWZyaUZyZkYyQXhvelBRaUgtMUVmcU52eTZwV3NQbUhRQmdYbjdwRm14OGlKM1pVajlpQkdNLVBHUXF3UDZoU09MYw?oc=5",
         "pubDate": "Tue, 05 May 2026 03:16:24 GMT",
         "description": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 &nbsp;&nbsp; 潮新闻"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
+        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "North Atlantic Refining’s Wind-to-Hydrogen Project Clears Environmental Review as Newfoundland Eyes Green Fuel Exports",
-        "link": "https://fuelcellsworks.com/2026/06/01/h2/north-atlantic-refining-s-wind-to-hydrogen-project-clears-environmental-review-as-newfoundland-eyes-green-fuel-exports",
-        "pubDate": "Mon, 01 Jun 2026 15:50:38 GMT",
+        "title": "The Seventh ORLEN Hydrogen Station Is Now Operational. The New Location Has Opened in Gdynia.",
+        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/the-seventh-orlen-hydrogen-station-is-now-operational-the-new-location-has-opened-in-gdynia",
+        "pubDate": "Tue, 02 Jun 2026 16:14:51 GMT",
         "description": "",
-        "title_cn": "北大西洋炼油厂的风能制氢项目因纽芬兰眼中的绿色燃料出口而清除环境审查"
+        "title_cn": "第七座奥伦加氢站现已投入运营。新地点已在格丁尼亚开业。"
       },
       {
-        "title": "Engineering Students Design a Hydrogen Car to Represent Uruguay for the First Time in an International Competition",
-        "link": "https://fuelcellsworks.com/2026/06/01/energy-innovation/engineering-students-design-a-hydrogen-car-to-represent-uruguay-for-the-first-time-in-an-international-competition",
-        "pubDate": "Mon, 01 Jun 2026 15:48:54 GMT",
+        "title": "Hyundai Motor’s Chinese Hydrogen Venture Named Strategic Industry Leader in Guangzhou, China",
+        "link": "https://fuelcellsworks.com/2026/05/31/h2/hyundai-motor-s-chinese-hydrogen-venture-named-strategic-industry-leader-in-guangzhou-china",
+        "pubDate": "Tue, 02 Jun 2026 16:10:17 GMT",
         "description": "",
-        "title_cn": "工程系学生设计一辆氢能汽车，首次代表乌拉圭参加国际比赛"
+        "title_cn": "现代汽车的中国氢能企业在中国广州被评为战略行业领导者"
       },
       {
-        "title": "H2 MOBILITY Lowers Prices: GHG Quota Trading Begins to Take Effect",
-        "link": "https://fuelcellsworks.com/2026/06/01/fuel-cells/h2-mobility-lowers-prices-ghg-quota-trading-begins-to-take-effect",
-        "pubDate": "Mon, 01 Jun 2026 15:39:37 GMT",
+        "title": "Hydrogen Combustion Van Tested at UCR",
+        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/hydrogen-combustion-van-tested-at-ucr",
+        "pubDate": "Tue, 02 Jun 2026 16:05:07 GMT",
         "description": "",
-        "title_cn": "H2流动性降低价格：温室气体配额交易开始生效"
+        "title_cn": "在UCR测试的氢气燃烧厢式车"
       },
       {
-        "title": "Hemei Group Expands Hydrogen Presence with Acquisition of Shanxi Integrated Refueling Station",
-        "link": "https://fuelcellsworks.com/2026/06/01/h2/hemei-group-expands-hydrogen-presence-with-acquisition-of-shanxi-integrated-refueling-station",
-        "pubDate": "Mon, 01 Jun 2026 15:24:16 GMT",
+        "title": "Aiqbe Incorporates Ariema to Boost the Development of Green Hydrogen in Huelva",
+        "link": "https://fuelcellsworks.com/2026/06/02/h2/aiqbe-incorporates-ariema-to-boost-the-development-of-green-hydrogen-in-huelva",
+        "pubDate": "Tue, 02 Jun 2026 15:58:05 GMT",
         "description": "",
-        "title_cn": "和美集团通过收购山西综合加氢站扩大氢业务"
+        "title_cn": "Aiqbe合并Ariema以促进韦尔瓦绿色氢气的发展"
       },
       {
-        "title": "NK Tech Wins Contract for South Korea’s First Hydrogen Tram Refueling Infrastructure",
-        "link": "https://fuelcellsworks.com/2026/06/01/fuel-cells/nk-tech-wins-contract-for-south-korea-s-first-hydrogen-tram-refueling-infrastructure",
-        "pubDate": "Mon, 01 Jun 2026 15:23:04 GMT",
+        "title": "ZEFES Hydrogen Fuel Cell Truck Begins Commercial Operations Along Brenner Freight Corridor",
+        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/zefes-hydrogen-fuel-cell-truck-begins-commercial-operations-along-brenner-freight-corridor",
+        "pubDate": "Tue, 02 Jun 2026 15:53:07 GMT",
         "description": "",
-        "title_cn": "NK Tech赢得韩国首个氢电车加油基础设施合同"
+        "title_cn": "ZEFES氢燃料电池卡车沿Brenner货运走廊开始商业运营"
       },
       {
-        "title": "U Power Hydro Data Joint Venture Receives \"Data Center Power & Energy Solution\" Recognition at DIF Awards 2026 in Thailand",
-        "link": "https://fuelcellsworks.com/2026/06/01/energy-innovation/u-power-hydro-data-joint-venture-receives-data-center-power-and-energy-solution-recognition-at-dif-awards-2026-in-thailand",
-        "pubDate": "Mon, 01 Jun 2026 15:05:39 GMT",
+        "title": "Hydrogen Village Comes Back to Le Mans 2026: Prototypes, a Rocket and a Real H2 Station",
+        "link": "https://fuelcellsworks.com/2026/06/01/fuel-cells/hydrogen-village-comes-back-to-le-mans-2026-prototypes-a-rocket-and-a-real-h2-station",
+        "pubDate": "Tue, 02 Jun 2026 15:43:49 GMT",
         "description": "",
-        "title_cn": "U Power Hydro Data Joint Venture在泰国DIF Awards 2026上获得“数据中心电力和能源解决方案”认证"
+        "title_cn": "氢能村回到2026年勒芒：原型、火箭和真正的氢气站"
       },
       {
-        "title": "Hopium Secures €27M Financing Lifeline as Hydrogen Fuel Cell Developer Overhauls Business Strategy",
-        "link": "https://fuelcellsworks.com/2026/05/31/fuel-cells/hopium-secures-27m-financing-lifeline-as-hydrogen-fuel-cell-developer-overhauls-business-strategy",
-        "pubDate": "Mon, 01 Jun 2026 14:55:10 GMT",
+        "title": "Chile's $2.5Bn Hydrogen-Ammonia Plant Clears Environmental Hurdle",
+        "link": "https://fuelcellsworks.com/2026/06/02/h2/chile-s-2-5bn-project-green-hydrogen-ammonia-plant-clears-environmental-hurdle",
+        "pubDate": "Tue, 02 Jun 2026 15:38:57 GMT",
         "description": "",
-        "title_cn": "随着氢燃料电池开发商彻底改革业务战略， Hopium获得了2700万欧元的融资生命线"
+        "title_cn": "智利$ 25亿元氢氨工厂清除环境障碍"
       },
       {
-        "title": "Xingran Technology Rolls Out 500 Nm³/H PEM Electrolyzer — Doubling Single-Cell Capacity with 50% Lower Lifecycle Costs",
-        "link": "https://fuelcellsworks.com/2026/05/30/electrolyzer/3-13-pm-xingran-technology-rolls-out-500-nm-h-pem-electrolyzer-doubling-single-cell-capacity-with-50-percent-lower-lifecycle-costs",
-        "pubDate": "Mon, 01 Jun 2026 14:45:36 GMT",
+        "title": "Air Products Europe Powers Hydrogen Aviation Milestone at Rotterdam the Hague Airport",
+        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/air-products-europe-powers-hydrogen-aviation-milestone-at-rotterdam-the-hague-airport",
+        "pubDate": "Tue, 02 Jun 2026 15:34:33 GMT",
         "description": "",
-        "title_cn": "兴安科技推出500 Nm ³/H PEM电解槽—单电池容量翻倍，生命周期成本降低50%"
+        "title_cn": "欧洲空气产品公司为鹿特丹海牙机场的氢航空里程碑提供动力"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Mergers Matter: Gravothermal Collapse in Dwarf Halos with Self-Interacting Dark Matter",
+        "link": "https://arxiv.org/abs/2606.02566v1",
+        "pubDate": "2026-06-01T17:55:45Z",
+        "description": "Self-Interacting Dark Matter (SIDM) models with large cross sections at relative velocities below $\\sim100\\,{\\rm km \\, s}^{-1}$ can be tested with dwarf galaxy observations. We analyze six dark-matter-only zoom-in $\\sim10^{10}\\,{\\rm M}_\\odot$ halos with diverse assembly histories, adopting a cross s",
+        "title_cn": "合并问题：具有自交互暗物质的矮晕中的重热坍缩"
+      },
+      {
+        "title": "Diagrammatic Monte Carlo for positron-molecule many-body theory",
+        "link": "https://arxiv.org/abs/2606.02549v1",
+        "pubDate": "2026-06-01T17:49:36Z",
+        "description": "A diagrammatic Monte Carlo evaluation of the ladder series contributions to the correlation potential (self energy) of a positron in the field of a molecule is presented. The $GW$@TDHF, virtual-positronium ($T$-matrix), and positron-hole Goldstone ladder series contributions are stochastically sampl",
+        "title_cn": "正电子分子多体理论的示意性蒙特卡罗"
+      },
+      {
+        "title": "SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation",
+        "link": "https://arxiv.org/abs/2606.02548v1",
+        "pubDate": "2026-06-01T17:49:10Z",
+        "description": "Word Error Rate (WER) is the dominant metric for automatic speech recognition (ASR), but it can overestimate errors when references and hypotheses encode the same words in different scripts. This issue is common in multilingual settings where ASR models may emit romanized text. We propose Script-Nor",
+        "title_cn": "SN-WER ：用于多脚本Indic ASR评估的脚本规范化WER"
+      },
+      {
+        "title": "ToolFG: Towards Well-Grounded Fine-Grained Image Classification",
+        "link": "https://arxiv.org/abs/2606.02518v1",
+        "pubDate": "2026-06-01T17:27:48Z",
+        "description": "Fine-grained image classification (FGIC) has broad applications and has attracted significant research attention. In this paper, we explore a novel paradigm for solving FGIC by proposing \\textbf{ToolFG}, the first tool-integrated MLLM-based framework tailored to FGIC. ToolFG enables MLLMs to autonom",
+        "title_cn": "ToolFG ：朝着有根据的细粒度图像分类迈进"
+      },
+      {
+        "title": "Expressivity of congruence-based architectures for DNNs on positive-definite matrices",
+        "link": "https://arxiv.org/abs/2606.02490v1",
+        "pubDate": "2026-06-01T17:01:08Z",
+        "description": "This work studies neural architectures for classifying symmetric positive-definite matrices, focusing on congruence-like layers, in which the input matrix is multiplied on the left and right by a (possibly rectangular) weight matrix $W$ and its transpose. Such layers lie at the core of the celebrate",
+        "title_cn": "正定矩阵上基于同余的DNN结构的表达性"
+      },
+      {
+        "title": "On the spanning cuts consistency problem in the IBP reductions of Feynman integrals",
+        "link": "https://arxiv.org/abs/2606.02485v1",
+        "pubDate": "2026-06-01T16:54:46Z",
+        "description": "The spanning cuts method is a powerful approach to reduce the cost of IBP reduction while computing Feynman integrals. However, its usage is limited due to the so-called consistency problem. It was unclear why the IBP reduction coefficients can be inconsistent with each other between different cuts.",
+        "title_cn": "关于费曼积分IBP减小的跨切一致性问题"
+      },
+      {
+        "title": "Correlated uniform attachment trees",
+        "link": "https://arxiv.org/abs/2606.02472v1",
+        "pubDate": "2026-06-01T16:45:18Z",
+        "description": "We introduce and study a new model of correlated uniform attachment (UA) trees, where correlation is sprinkled throughout the time evolution of the process. In this model, two UA trees are grown in parallel, and at each time step a new node is added to each tree, with an edge between it and a unifor",
+        "title_cn": "相关均匀附件树"
+      },
+      {
+        "title": "Hydrothermally-Assisted Sintering of Calcium Hydroxide Sputtering Targets: A Route to Quantum-Grade CaO Thin Films",
+        "link": "https://arxiv.org/abs/2606.02466v1",
+        "pubDate": "2026-06-01T16:38:24Z",
+        "description": "In this report we demonstrate dense polycrystalline calcium hydroxide ceramics fabricated by hydrothermally-assisted sintering - often referred to as cold-sintering - to produce high-purity calcium hydroxide targets for calcium oxide thin film deposition. Calcium hydroxide ceramics exhibit up to 98%",
+        "title_cn": "水热辅助烧结氢氧化钙溅射靶材：量子级CaO薄膜之路"
+      },
+      {
+        "title": "Size limits on tidal debris around white dwarfs: the km-size barrier",
+        "link": "https://arxiv.org/abs/2606.02457v1",
+        "pubDate": "2026-06-01T16:30:31Z",
+        "description": "Compact disks of planetary debris orbiting white dwarfs provide a crucial window into our understanding of evolved planetary systems. The formation of these disks has been widely modeled with tidal fragmentation of minor planets that are rubble piles with no internal strength. However, rubble piles ",
+        "title_cn": "白矮星周围潮汐碎片的尺寸限制：公里大小的屏障"
+      },
+      {
+        "title": "Chaotic spin dynamics of elongated spinor condensates",
+        "link": "https://arxiv.org/abs/2606.02456v1",
+        "pubDate": "2026-06-01T16:28:54Z",
+        "description": "Elongated spin-$1$ condensates present a highly non-trivial local magnetization dynamics, due to the interplay between nonlinear and quantum effects stemming from the inhomogeneous density profile. This interplay results in different dynamical regimes after an initial global quench. In particular, w",
+        "title_cn": "细长旋质凝聚体的混沌自旋动力学"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,10 +483,16 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
+        "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
+      },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHFJb0N3UjRHLWkwSXRzcDhMWVF1Z3k4TlNOMjVrVV8yVDhHeVZtVDFmMWpqLU1BalNOYk1CQ2tuZXhpRk4tTEdzUXdhWGx5SWh6NUlPZFp5WkJVLTZRaG42OGgxQTJyeEhjek9KTWRZdkZxUWItcEE1Q0pUUTQ4NQ?oc=5",
@@ -427,12 +504,6 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
         "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "重磅！国家级绿电直连政策发布！ - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzYlhiRVhYV1BCT2NQZkFhanNIQWRCN3VCcVJBYnFoVGUzVmVTOUxjc0JubmJDVGhsamMwa2IzNExHdjNiUnNUbmJUUU1LVUdZZV9LWGNxWDlRcEpkZERvSUdoVm1LbFpjbldDVmNKZHphQ05rZGc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布！ &nbsp;&nbsp; Sina finance"
       },
       {
         "title": "政策东风启新程，绿电直连赋能中国天楹绿氢发展 - 新浪财经",
@@ -466,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-02 18:01 UTC"
+    "updated": "2026-06-02 23:29 UTC"
   }
 }
