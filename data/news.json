@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla Expands Unsupervised Robotaxi Service To Whole Austin Metro Area",
+        "link": "https://cleantechnica.com/2026/06/03/tesla-expands-unsupervised-robotaxi-service-to-whole-austin-metro-area/",
+        "pubDate": "Wed, 03 Jun 2026 22:58:10 +0000",
+        "description": "There&#8217;s been some criticism of Tesla&#8217;s limited and not entirely perfect robotaxi service in Austin — not to mention the fact that Elon Musk said they&#8217;d have robotaxis covering at least 50% of the US population by the end of 2025 &#8230; and we&#8217;re now almost halfway through 20",
+        "title_cn": "特斯拉将无人监督的机器人出租车服务扩展到整个奥斯汀地铁区"
+      },
+      {
+        "title": "US Will Dismantle The Ocean Observatories Initiative",
+        "link": "https://cleantechnica.com/2026/06/03/us-will-dismantle-the-ocean-observatories-initiative/",
+        "pubDate": "Wed, 03 Jun 2026 20:20:31 +0000",
+        "description": "The US administration is shutting down an important ocean research operation and removing its sensors from the water. The post US Will Dismantle The Ocean Observatories Initiative appeared first on CleanTechnica .",
+        "title_cn": "美国将拆除海洋观测站计划"
+      },
+      {
+        "title": "BMW iX3 Starting $5,000 Cheaper Than Comparable BMW X3",
+        "link": "https://cleantechnica.com/2026/06/03/bmw-ix3-starting-5000-cheaper-than-comparable-bmw-x3/",
+        "pubDate": "Wed, 03 Jun 2026 19:05:58 +0000",
+        "description": "The BMW X3 had almost ten times more sales than the BMW iX in the first quarter (17,767 versus 1,788), but is the new iX3 going to shake things up? Based on the key facts we&#8217;ve seen released about it, it should! The new iX3 is coming in a whopping ... [continued] The post BMW iX3 Starting $5,0",
+        "title_cn": "宝马iX3起价$ 5,000比同类宝马X3便宜"
+      },
       {
         "title": "Belgium’s Hydrogen Stations Have A Kilograms-Per-Day Problem",
         "link": "https://cleantechnica.com/2026/06/03/belgium-hydrogen-stations-kilograms-per-day/",
@@ -151,31 +172,10 @@
         "pubDate": "Wed, 03 Jun 2026 14:17:00 +0000",
         "description": "VinFast Southeast Asia Chief Executive Officer Antonio &#8220;Toti&#8221; Zara said the Vietnamese electric vehicle maker is keeping a close watch on the Philippines&#8217; emerging electric bus market, although it is not yet ready to introduce its e-bus lineup locally. Speaking on the future of sus",
         "title_cn": "VinFast看到菲律宾电动巴士市场的机遇"
-      },
-      {
-        "title": "Kia EV Sales Rise in USA",
-        "link": "https://cleantechnica.com/2026/06/02/kia-ev-sales-rise-in-usa/",
-        "pubDate": "Wed, 03 Jun 2026 03:58:13 +0000",
-        "description": "Like its close cousin Hyundai, Kia didn&#8217;t get the memo that electric vehicle sales are supposed to be dropping in the United States. In the month of May, the Kia EV6 did see a slight decline year over year, dropping 13% from 801 in May 2025 to 708 in May ... [continued] The post Kia EV Sales R",
-        "title_cn": "起亚电动汽车在美国的销量增长"
-      },
-      {
-        "title": "Hyundai IONIQ 5 Sales Up 28% in USA!",
-        "link": "https://cleantechnica.com/2026/06/02/hyundai-ioniq-5-sales-up-28-in-usa/",
-        "pubDate": "Wed, 03 Jun 2026 03:57:52 +0000",
-        "description": "Perhaps all the talk of US EV sales crashing was a bit premature! Or perhaps Hyundai has just decided to buck the trend and go its own way. We&#8217;ll get much more insight in the coming month when we get more sales data, but, for now, we can say that ... [continued] The post Hyundai IONIQ 5 Sales ",
-        "title_cn": "现代Ioniq 5在美国的销售额增长了28% ！"
-      },
-      {
-        "title": "Waymo Rolls Out the Ojai!",
-        "link": "https://cleantechnica.com/2026/06/02/waymo-rolls-out-the-ojai/",
-        "pubDate": "Wed, 03 Jun 2026 03:21:37 +0000",
-        "description": "It&#8217;s been a long time coming, but Waymo is finally rolling out the Ojai, a Zeekr-produced robotaxi model, for passenger trips. It definitely looks more rider-friendly than a typical SUV like the Jaguar I-PACE Waymo has been using. And it&#8217;s got a fun, inviting look to it. It does look ...",
-        "title_cn": "Waymo推出Ojai ！"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "energy": {
     "items": [
@@ -237,21 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
       {
         "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUDA2YlFwZ2gyRHpDX3NPenRtb0ZRYmhjZVNlNEpnUzBhMm82NGRKZU9RblJzWnpuUEVmbVBKUTlQZk9pbzdVd01XcDB2blVyOHpycjJod0puc0NT?oc=5",
         "pubDate": "Sat, 16 May 2026 04:22:04 GMT",
         "description": "“下一代能源核心”！机构预测9只氢能股业绩高增长 &nbsp;&nbsp; 证券时报"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -291,74 +291,145 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "The Seventh ORLEN Hydrogen Station Is Now Operational. The New Location Has Opened in Gdynia.",
-        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/the-seventh-orlen-hydrogen-station-is-now-operational-the-new-location-has-opened-in-gdynia",
-        "pubDate": "Tue, 02 Jun 2026 16:14:51 GMT",
+        "title": "The New Generation of the Irizar I6S Efficient H2 FCEV Is Here",
+        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/the-new-generation-of-the-irizar-i6s-efficient-h2-fcev-is-here",
+        "pubDate": "Wed, 03 Jun 2026 15:54:57 GMT",
         "description": "",
-        "title_cn": "第七座奥伦加氢站现已投入运营。新地点已在格丁尼亚开业。"
+        "title_cn": "新一代Irizar I6S高效H2 FCEV即将推出"
       },
       {
-        "title": "Hyundai Motor’s Chinese Hydrogen Venture Named Strategic Industry Leader in Guangzhou, China",
-        "link": "https://fuelcellsworks.com/2026/05/31/h2/hyundai-motor-s-chinese-hydrogen-venture-named-strategic-industry-leader-in-guangzhou-china",
-        "pubDate": "Tue, 02 Jun 2026 16:10:17 GMT",
+        "title": "Swansea Research Helps Power World-First Hydrogen Aero Engine Breakthrough",
+        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/swansea-research-helps-power-world-first-hydrogen-aero-engine-breakthrough",
+        "pubDate": "Wed, 03 Jun 2026 15:46:53 GMT",
         "description": "",
-        "title_cn": "现代汽车的中国氢能企业在中国广州被评为战略行业领导者"
+        "title_cn": "斯旺西研究有助于推动世界首创的氢气航空发动机突破"
       },
       {
-        "title": "Hydrogen Combustion Van Tested at UCR",
-        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/hydrogen-combustion-van-tested-at-ucr",
-        "pubDate": "Tue, 02 Jun 2026 16:05:07 GMT",
+        "title": "Hazer Expands Patent Protection in Japan",
+        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/hazer-expands-patent-protection-in-japan",
+        "pubDate": "Wed, 03 Jun 2026 15:41:50 GMT",
         "description": "",
-        "title_cn": "在UCR测试的氢气燃烧厢式车"
+        "title_cn": "Hazer在日本扩大专利保护范围"
       },
       {
-        "title": "Aiqbe Incorporates Ariema to Boost the Development of Green Hydrogen in Huelva",
-        "link": "https://fuelcellsworks.com/2026/06/02/h2/aiqbe-incorporates-ariema-to-boost-the-development-of-green-hydrogen-in-huelva",
-        "pubDate": "Tue, 02 Jun 2026 15:58:05 GMT",
+        "title": "Green Hydrogen in Port-La-Nouvelle",
+        "link": "https://fuelcellsworks.com/2026/06/01/h2/green-hydrogen-in-port-la-nouvelle",
+        "pubDate": "Wed, 03 Jun 2026 14:59:36 GMT",
         "description": "",
-        "title_cn": "Aiqbe合并Ariema以促进韦尔瓦绿色氢气的发展"
+        "title_cn": "新港的绿色氢能"
       },
       {
-        "title": "ZEFES Hydrogen Fuel Cell Truck Begins Commercial Operations Along Brenner Freight Corridor",
-        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/zefes-hydrogen-fuel-cell-truck-begins-commercial-operations-along-brenner-freight-corridor",
-        "pubDate": "Tue, 02 Jun 2026 15:53:07 GMT",
+        "title": "University of Aberdeen Spin-Out Pioneers Breakthrough Method to Produce Green Hydrogen From Seawater",
+        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/university-of-aberdeen-spin-out-pioneers-breakthrough-method-to-produce-green-hydrogen-from-seawater",
+        "pubDate": "Wed, 03 Jun 2026 14:55:14 GMT",
         "description": "",
-        "title_cn": "ZEFES氢燃料电池卡车沿Brenner货运走廊开始商业运营"
+        "title_cn": "阿伯丁大学衍生出从海水中生产绿色氢气的突破性方法"
       },
       {
-        "title": "Hydrogen Village Comes Back to Le Mans 2026: Prototypes, a Rocket and a Real H2 Station",
-        "link": "https://fuelcellsworks.com/2026/06/01/fuel-cells/hydrogen-village-comes-back-to-le-mans-2026-prototypes-a-rocket-and-a-real-h2-station",
-        "pubDate": "Tue, 02 Jun 2026 15:43:49 GMT",
+        "title": "H2CRETE Valley Aims to Turn Crete Into Mediterranean Green Hydrogen and Ammonia Hub",
+        "link": "https://fuelcellsworks.com/2026/06/02/green-hydrogen/chatgpt-said-h2crete-valley-aims-to-turn-crete-into-mediterranean-green-hydrogen-and-ammonia-hub",
+        "pubDate": "Wed, 03 Jun 2026 14:47:34 GMT",
         "description": "",
-        "title_cn": "氢能村回到2026年勒芒：原型、火箭和真正的氢气站"
+        "title_cn": "H2CRETE Valley旨在将克里特岛变成地中海绿色氢和氨中心"
       },
       {
-        "title": "Chile's $2.5Bn Hydrogen-Ammonia Plant Clears Environmental Hurdle",
-        "link": "https://fuelcellsworks.com/2026/06/02/h2/chile-s-2-5bn-project-green-hydrogen-ammonia-plant-clears-environmental-hurdle",
-        "pubDate": "Tue, 02 Jun 2026 15:38:57 GMT",
+        "title": "Le Mans Demonstration for Liquid Hydrogen-Fuelled TR LH2 Racing Prototype",
+        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/le-mans-demonstration-for-liquid-hydrogen-fuelled-tr-lh2-racing-prototype",
+        "pubDate": "Wed, 03 Jun 2026 14:42:09 GMT",
         "description": "",
-        "title_cn": "智利$ 25亿元氢氨工厂清除环境障碍"
+        "title_cn": "液氢燃料TR LH2赛车原型的勒芒演示"
       },
       {
-        "title": "Air Products Europe Powers Hydrogen Aviation Milestone at Rotterdam the Hague Airport",
-        "link": "https://fuelcellsworks.com/2026/06/02/fuel-cells/air-products-europe-powers-hydrogen-aviation-milestone-at-rotterdam-the-hague-airport",
-        "pubDate": "Tue, 02 Jun 2026 15:34:33 GMT",
+        "title": "H2Reallabor Castrop-Rauxel Enters Its Final Phase",
+        "link": "https://fuelcellsworks.com/2026/06/02/h2/h2reallabor-castrop-rauxel-enters-its-final-phase",
+        "pubDate": "Wed, 03 Jun 2026 14:35:11 GMT",
         "description": "",
-        "title_cn": "欧洲空气产品公司为鹿特丹海牙机场的氢航空里程碑提供动力"
+        "title_cn": "H2Reallabor Castrop-Rauxel进入最后阶段"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider",
+        "link": "https://arxiv.org/abs/2606.03993v1",
+        "pubDate": "2026-06-02T17:59:59Z",
+        "description": "Imaging a quantum many-body system requires probes that resolve the coordinates of its constituents in sufficiently large event samples, allowing measurements of correlation functions [1-4]. High-energy nuclear collisions provide this opportunity on the nuclear scale [5], enabling features of collid",
+        "title_cn": "大型强子对撞机$ ^ {129} $ Xe基态的Yoctosecond成像"
+      },
+      {
+        "title": "The OAD Flagship Ecosystem",
+        "link": "https://arxiv.org/abs/2606.03966v1",
+        "pubDate": "2026-06-02T17:52:16Z",
+        "description": "The International Astronomical Union's Office of Astronomy for Development (IAU OAD) uses astronomy as a tool to address societal challenges and contribute to sustainable development. Building on more than a decade of project funding and implementation, the OAD has developed a portfolio of flagship ",
+        "title_cn": "OAD旗舰生态系统"
+      },
+      {
+        "title": "Introduction to stochastic gradient methods",
+        "link": "https://arxiv.org/abs/2606.03953v1",
+        "pubDate": "2026-06-02T17:40:46Z",
+        "description": "These lecture notes provide an introduction to first-order optimization methods with a particular emphasis on stochastic gradient methods. We begin with deterministic gradient based methods for unconstrained optimization and study their convergence under standard assumptions such as smoothness, conv",
+        "title_cn": "随机梯度方法简介"
+      },
+      {
+        "title": "DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data",
+        "link": "https://arxiv.org/abs/2606.03926v1",
+        "pubDate": "2026-06-02T17:15:01Z",
+        "description": "Modeling temporal evolution is important to analyzing and reasoning about scientific phenomena, yet most machine learning methods provide deterministic forward predictions that overlook multiple plausible outcomes and rarely support backward reasoning, limiting their usefulness in practical scientif",
+        "title_cn": "DiffUNet ^ 2 ：科学数据的双向预测、概率生成和协作视觉发现"
+      },
+      {
+        "title": "Sparse Activation for Sustainable Cell-Free Massive MIMO Networks: Less is More",
+        "link": "https://arxiv.org/abs/2606.03912v1",
+        "pubDate": "2026-06-02T17:07:12Z",
+        "description": "Motivated by the vision of making sixth-generation (6G) networks sustainable, we study the sparse antenna/array activation problems in uplink cell-free massive multiple-input multiple-output (CF mMIMO) networks. We first develop an antenna-level optimal bilinear equalizer (OBE) weighting framework, ",
+        "title_cn": "可持续无蜂窝大规模MIMO网络的稀疏激活：少即是多"
+      },
+      {
+        "title": "Efficient Quantum Error Mitigation for Unitary k-Designs",
+        "link": "https://arxiv.org/abs/2606.03891v1",
+        "pubDate": "2026-06-02T16:52:08Z",
+        "description": "Quantum circuit ensembles that have the properties of unitary k-designs represent applications where there is no obvious bias toward any particular Pauli support, as is the case in simulating systems exhibiting ''quantum chaos,'' which range from quantum dynamics near black holes to gapless spin flu",
+        "title_cn": "用于单一k-设计的有效量子误差缓解"
+      },
+      {
+        "title": "A Dynamic Capacity Allocation Model for DERs under Non-Firm Connection Agreements",
+        "link": "https://arxiv.org/abs/2606.03887v1",
+        "pubDate": "2026-06-02T16:50:52Z",
+        "description": "The growing penetration of distributed energy resources (DERs) intensifies congestion in distribution networks by introducing bidirectional power flows and increasing competition for limited network capacity, underscoring the need for effective and efficient congestion management, including flexible",
+        "title_cn": "非公司连接协议下的DER动态容量分配模型"
+      },
+      {
+        "title": "Principal Components Decomposition of Fraction of Variance Explained in High Dimensional Linear Models with Strong Correlation",
+        "link": "https://arxiv.org/abs/2606.03880v1",
+        "pubDate": "2026-06-02T16:47:00Z",
+        "description": "The fraction of variance explained (FVE) in a linear model quantifies the extent to which predictors account for outcome variability. In high-dimensional settings, where traditional FVE estimators do not apply, modern FVE estimators such as GWASH or linear mix-effect model estimated through the rest",
+        "title_cn": "具有强相关性的高维线性模型中方差分数的主成分分解"
+      },
+      {
+        "title": "Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables",
+        "link": "https://arxiv.org/abs/2606.03870v1",
+        "pubDate": "2026-06-02T16:41:20Z",
+        "description": "The development of complex software systems, e.g., cyber-physical systems (CPSs), involves continuous evolution of both system implementations and their requirements. These two artifacts often proceed independently, creating a risk of misalignment. For example, a system may be updated due to impleme",
+        "title_cn": "Simulink需求表中网络物理系统需求的自动修复"
+      },
+      {
+        "title": "Modification of Charge and Spin Textures by Light Chemical Substitution in Eu(Al$_{1-x}$Ga$_{x}$)$_4$ ($x=0.1$)",
+        "link": "https://arxiv.org/abs/2606.03869v1",
+        "pubDate": "2026-06-02T16:40:44Z",
+        "description": "We present the results of a resonant X-ray diffraction experiment, resolving both charge and spin textures in the intermetallic topological magnet Eu(Al$_{1-x}$Ga$_{x}$)$_4$, $x$ = 0.1. Below $\\approx$ 75 K the system develops a charge density wave (CDW) with propagation vector kCDW ~ (0, 0, 0.18). ",
+        "title_cn": "通过Eu中的轻化学替代来修改电荷和自旋纹理（ Al $_{1-x} $ Ga $_{x} $ ） $_4 $ （ $ x = 0.1 $ ）"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "policy_nea": {
     "items": [
@@ -375,16 +446,16 @@
         "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
-        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
-        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
-      },
-      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
+        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
+        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
       },
       {
         "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
@@ -405,34 +476,28 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
-        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
         "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHFJb0N3UjRHLWkwSXRzcDhMWVF1Z3k4TlNOMjVrVV8yVDhHeVZtVDFmMWpqLU1BalNOYk1CQ2tuZXhpRk4tTEdzUXdhWGx5SWh6NUlPZFp5WkJVLTZRaG42OGgxQTJyeEhjek9KTWRZdkZxUWItcEE1Q0pUUTQ4NQ?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "政策东风启新程，绿电直连赋能中国天楹绿氢发展 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12YVcySGREaTBBS1A4M1NxRExlaHpWSUZzSlJjN1JEVDhQeHEzTWhnM2U2QmIyd2VvNC1KMTlrcnhQTTVsbXFham1lbFFuRTlZSUFxbTMtdTQwY3lpc3BQT1N3LU9CbW1kaEg5eXRYYw?oc=5",
-        "pubDate": "Fri, 22 May 2026 01:17:22 GMT",
-        "description": "政策东风启新程，绿电直连赋能中国天楹绿氢发展 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36Kr",
@@ -463,9 +528,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
         "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
         "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-03 18:19 UTC"
+    "updated": "2026-06-03 23:28 UTC"
   }
 }
