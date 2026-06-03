@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Why a synthetic human genome is still worth building",
+        "link": "https://www.nature.com/articles/d41586-026-01725-z",
+        "pubDate": "2026-06-03",
+        "description": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01725-z A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.",
+        "title_cn": "为什么合成人类基因组仍然值得建立"
+      },
+      {
+        "title": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
+        "link": "https://www.nature.com/articles/d41586-026-01727-x",
+        "pubDate": "2026-06-03",
+        "description": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01727-x Labs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.",
+        "title_cn": "一群婴儿和狗能否将心理学从可重复性危机中拯救出来？"
+      },
+      {
         "title": "Author Correction: CHIT1-positive microglia drive motor neuron ageing in the primate spinal cord",
         "link": "https://www.nature.com/articles/s41586-026-10728-9",
         "pubDate": "2026-06-02",
@@ -42,24 +56,10 @@
         "pubDate": "2026-06-02",
         "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01337-7 The biography of a pioneering scientist and suffragist, and a call for researchers to write about themselves, in our weekly dip into Nature’s archive.",
         "title_cn": "纪念发明家和活动家Hertha Ayrton"
-      },
-      {
-        "title": "Power imbalances in adviser–student relationships need safeguarding",
-        "link": "https://www.nature.com/articles/d41586-026-01776-2",
-        "pubDate": "2026-06-02",
-        "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01776-2 Power imbalances in adviser–student relationships need safeguarding",
-        "title_cn": "顾问-学生关系中的权力不平衡需要保护"
-      },
-      {
-        "title": "Is it time to ‘cap and trade’ credits for research-funding proposals?",
-        "link": "https://www.nature.com/articles/d41586-026-01777-1",
-        "pubDate": "2026-06-02",
-        "description": "Nature, Published online: 02 June 2026; doi:10.1038/d41586-026-01777-1 Is it time to ‘cap and trade’ credits for research-funding proposals?",
-        "title_cn": "是时候为研究资助提案“限额和交易”信用额度了吗？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -79,7 +79,7 @@
         "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
         "link": "https://36kr.com/p/3836744788014208?f=rss",
         "pubDate": "2026-06-03 09:10:00  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行"
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建��提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷"
       },
       {
         "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
@@ -113,7 +113,7 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,16 +237,10 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
-        "pubDate": "Sat, 30 May 2026 15:11:04 GMT",
-        "description": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUDA2YlFwZ2gyRHpDX3NPenRtb0ZRYmhjZVNlNEpnUzBhMm82NGRKZU9RblJzWnpuUEVmbVBKUTlQZk9pbzdVd01XcDB2blVyOHpycjJod0puc0NT?oc=5",
@@ -278,20 +272,26 @@
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
       },
       {
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
+        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+      },
+      {
         "title": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 - 潮新闻",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOVg2a3IzQ2JNOUhTVWZyaUZyZkYyQXhvelBRaUgtMUVmcU52eTZwV3NQbUhRQmdYbjdwRm14OGlKM1pVajlpQkdNLVBHUXF3UDZoU09MYw?oc=5",
         "pubDate": "Tue, 05 May 2026 03:16:24 GMT",
         "description": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 &nbsp;&nbsp; 潮新闻"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+        "title": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wY19LSTNWcm9vUFdiZFhFOTMyOXZudnVldnBBQmt3Yk5rVjNndDctU21IeC1ySThTRWVWS2VjaHVUTmFHWU1OWFNnQkRFUFduQy1uY1Nn?oc=5",
+        "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
+        "description": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,12 +353,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -381,10 +381,10 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
-        "pubDate": "Wed, 27 May 2026 09:00:26 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -399,20 +399,20 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
-        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
-        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       },
       {
-        "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUDA2YlFwZ2gyRHpDX3NPenRtb0ZRYmhjZVNlNEpnUzBhMm82NGRKZU9RblJzWnpuUEVmbVBKUTlQZk9pbzdVd01XcDB2blVyOHpycjJod0puc0NT?oc=5",
-        "pubDate": "Sat, 16 May 2026 04:22:04 GMT",
-        "description": "“下一代能源核心”！机构预测9只氢能股业绩高增长 &nbsp;&nbsp; 证券时报"
+        "title": "国家能源局5位司长密集为氢能“发声” - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnek15bjBWME9FYm92R3pXQW9mMGxKdlQ0NlBqa0RzVHQwS0VSYnNjbXRCcWV0MzVHeGNqRHVJUUpJQVlyRmxaWHpCOFVpM3N2akxuanVR?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -441,10 +441,10 @@
         "description": "政策东风启新程，绿电直连赋能中国天楹绿氢发展 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36kr.com",
+        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
         "pubDate": "Thu, 21 May 2026 03:41:00 GMT",
-        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36kr.com"
+        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -453,19 +453,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
-        "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+        "title": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% - 财华智库网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SdDZWX04tcjhJX1JCWjVfN2gyMFhidy1pTmFic0dkcHdOT3ktckFFZ1VFd3VfaXRFeDZ4Z29XOEFZcUFnOVozMUR2SUpQcDRGX0cxNXRQSC1IejV4czA4TnZYaER5cVMzcktr?oc=5",
+        "pubDate": "Mon, 25 May 2026 02:31:00 GMT",
+        "description": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% &nbsp;&nbsp; 财华智库网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-03 06:46 UTC"
+    "updated": "2026-06-03 11:51 UTC"
   }
 }
