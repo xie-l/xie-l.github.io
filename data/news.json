@@ -9,6 +9,13 @@
         "title_cn": "这种神秘的肺部疾病影响了数百万人–在小鼠身上测试的药物显示出希望"
       },
       {
+        "title": "What’s behind China’s historically high counts of corresponding authors?",
+        "link": "https://www.nature.com/articles/d41586-026-01623-4",
+        "pubDate": "2026-06-04",
+        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4 From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.",
+        "title_cn": "中国历史上通讯作者数量高的背后是什么？"
+      },
+      {
         "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
         "link": "https://www.nature.com/articles/s41586-026-10727-w",
         "pubDate": "2026-06-03",
@@ -49,20 +56,31 @@
         "pubDate": "2026-06-03",
         "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10589-2 Improved fractionation strategies can identify antibiotics with previously unseen scaffolds and mechanisms, exemplified by manikomycin from Streptomyces rimosus, which acts by targeting the E-site of the bacterial large ribosomal",
         "title_cn": "一种天然的去肽抗生素与细菌核糖体的E位点结合"
-      },
-      {
-        "title": "Earth’s east–west albedo symmetry",
-        "link": "https://www.nature.com/articles/s41586-026-10624-2",
-        "pubDate": "2026-06-03",
-        "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2 Analysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction exhibiting a triple symmetry around this mer",
-        "title_cn": "地球的东西反照率对称性"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
+        "link": "https://36kr.com/p/3838702884604421?f=rss",
+        "pubDate": "2026-06-04 18:12:58  +0800",
+        "description": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。 许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。 AI也曾经历类似的混沌阶段。 过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI&nbsp;Native的公司。 但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的"
+      },
+      {
+        "title": "实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发",
+        "link": "https://36kr.com/p/3838488706370054?f=rss",
+        "pubDate": "2026-06-04 18:01:00  +0800",
+        "description": "从芯片行业在资本市场的狂飙，到华为发布“韬（τ）定律”，AI浪潮带动下，烈火烹油的半导体行业进入超级周期，推动芯片设计等上游产业链迎来需求爆发。 但随着需求暴增，设计复杂度不断提高，芯片验证周期过长，拖累开发节奏的瓶颈也越来越明显。2024年西门子和威尔逊研究集团的研究报告中指出高工艺复杂芯片的流片风险非常大，首次流片成功率只有14%。“一款芯片从架构到流片一般需要两年时间，其中验证环节消耗的人力与时间往往超过60%。”王翕对36氪表示。 数字芯片开发流程 王翕是「智维创芯」的创始人兼董事长，目前也是东南大学的副教授、博士生导师。 2025年， 王翕团队依托此前在国家集成电路设计自动化技术创新"
+      },
+      {
+        "title": "氪星晚报 ｜OpenAI首席财务官谈公司AI设备：今年年底前将正式发布；腾讯客服回应与华为、小米等合作；香港推出首个生产力级超级智能体",
+        "link": "https://36kr.com/p/3838652242823687?f=rss",
+        "pubDate": "2026-06-04 17:37:38  +0800",
+        "description": "大公司： OpenAI首席财务官谈公司AI设备：今年年底前将正式发布 OpenAI首席财务官Sarah Friar日前在受访时透露，已经亲自体验过OpenAI的AI设备。她表示到“今年年底之前”OpenAI将正式发布这款产品。此前，OpenAI曾在一份文件中表示，预计最早也要到2027年2月才会开始发货。（财联社） LG Innotek计划扩建半导体基板工厂 LG Innotek将于下月开始扩建其位于越南的半导体基板工厂。此次扩建将通过其越南生产子公司的直接投资进行，计划2027年5月竣工。（新浪财经） 鸿海与SK集团深化AI基础设施合作 鸿海表示，董事长刘扬伟近日会见韩国SK集团会长崔泰源，"
+      },
       {
         "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
         "link": "https://36kr.com/p/3838454229027072?f=rss",
@@ -91,29 +109,11 @@
         "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
         "link": "https://36kr.com/p/3838091144464644?f=rss",
         "pubDate": "2026-06-04 07:53:43  +0800",
-        "description": "今日热点导览 名创优品称会员买单仅限潮玩商品 谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型 Meta在全球范围扩大青少年内容管控 多家银行下架3年期5年期定期存款 TOP 3大新闻 A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元 6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88���。公司总市值超2000亿元。数据显示，自A股1990年12月19日开市以来，最高价曾突破2000元的股票屈指可数，仅有中安科、贵州茅台、云赛智联3只。这3只股票的上涨动因各异，长期市场表现也大相径庭。与A股史上前3只最高价曾触及2000元的股票相比，联讯仪器的硬"
-      },
-      {
-        "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
-        "link": "https://36kr.com/p/3837330582008963?f=rss",
-        "pubDate": "2026-06-03 23:01:21  +0800",
-        "description": "大公司： 瑞典AI初创公司Lovable与Google Cloud扩大多年期合作 据报道，瑞典AI初创公司Lovable扩大了与Google Cloud的多年期合作，以整合Gemini模型和AI优化基础设施，从而向全球用户扩展其AI驱动的软件开发服务。（界面） 美银：英伟达2027财年下半年Vera CPU销售额有望达200亿美元 美银分析师Vivek Arya团队更新了英伟达研报。该机构测算2027财年下半年Vera CPU销售额有望达200亿美元；下一财年产品年化营收规模将突破500亿美元，英伟达有望跻身全球头部服务器CPU供应商。（新浪财经） 段永平在泡泡玛特持股比例升至6.04% 36"
-      },
-      {
-        "title": "36氪独家 | 火山引擎提升MaaS营收目标至全年150亿元，Seedance 2.0单月营收已超10亿元",
-        "link": "https://36kr.com/p/3836973710423429?f=rss",
-        "pubDate": "2026-06-03 13:28:20  +0800",
-        "description": "文｜邓咏仪 编辑｜张雨忻 杨轩 36 氪独家获悉，字节跳动火山引擎在今年 4 月已将 MaaS 业务营收目标上调至 150 亿元，且这个营收目标几乎每月都在上调。而在 2025 年底，这一目标还是 100 亿元。 &nbsp;36 氪了解到，在 2025 年，火山全年的 MaaS 收入约 15 亿元左右，等于截止目前 2026 年的营收目标是去年实际营收的 10 倍。可以说，火山这一波 MaaS 营收增长几乎都归功于 Seedance 2.0 的爆发——视频模型 Seedance 2.0 如今已经能带来单月超 10 亿元的收入。 一位接近火山的人士透露，截至目前，火山引擎 Token 日均消耗"
-      },
-      {
-        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-        "link": "https://36kr.com/p/3836068296209537?f=rss",
-        "pubDate": "2026-06-03 09:30:00  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根"
+        "description": "今日热点导览 名创优品称会员买单仅限潮玩商品 谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型 Meta在全球范围扩大青少年内容管控 多家银行下架3年期5年期定期存款 TOP 3大新闻 A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元 6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88元。公司总市值超2000亿元。数据显示，自A股1990年12月19日开市以来，最高价曾突破2000元的股票屈指可数，仅有中安科、贵州茅台、云赛智联3只。这3只股票的上涨动因各异，长期市场表现也大相径庭。与A股史上前3只最高价曾触及2000元的股票相比，联讯仪器的硬科技"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,24 +284,17 @@
         "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       },
       {
-        "title": "南网能源官宣绿电氢能新业务，电网赛道价值重估 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtSTdnWWQwYm1nTDZEVVpuYzI1aUhRWHRxd3ZxODl2WjhqOEpTQzdnRTkyaExYXzJoNUxBcEk5ajg1SThtMDBkZ21PLXo5OURya3l4MFM4UndIRmNscFRjWElYUlJPeml0SXRfUkZvczEtZWg1N2M2RA?oc=5",
-        "pubDate": "Mon, 25 May 2026 03:30:00 GMT",
-        "description": "南网能源官宣绿电氢能新业务，电网赛道价值重估 &nbsp;&nbsp; Sina finance"
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "The New Generation of the Irizar I6S Efficient H2 FCEV Is Here",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/the-new-generation-of-the-irizar-i6s-efficient-h2-fcev-is-here",
-        "pubDate": "Wed, 03 Jun 2026 15:54:57 GMT",
-        "description": "",
-        "title_cn": "新一代Irizar I6S高效H2 FCEV即将推出"
-      },
       {
         "title": "Swansea Research Helps Power World-First Hydrogen Aero Engine Breakthrough",
         "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/swansea-research-helps-power-world-first-hydrogen-aero-engine-breakthrough",
@@ -350,15 +343,22 @@
         "pubDate": "Wed, 03 Jun 2026 14:35:11 GMT",
         "description": "",
         "title_cn": "H2Reallabor Castrop-Rauxel进入最后阶段"
+      },
+      {
+        "title": "EXCLUSIVE: South Korea Boosts Submarine Bid with ‘Project Beaver’ Hydrogen Truck Proposal",
+        "link": "https://fuelcellsworks.com/2026/06/03/fuel-cells/exclusive-south-korea-boosts-submarine-bid-with-project-beaver-hydrogen-truck-proposal",
+        "pubDate": "Wed, 03 Jun 2026 14:28:06 GMT",
+        "description": "",
+        "title_cn": "独家：韩国通过“海狸项目”氢能卡车提案推动潜艇竞标"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "policy_nea": {
     "items": [
@@ -405,28 +405,34 @@
         "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
-        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
-        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
+        "title": "国家能源局5位司长密集为氢能“发声” - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnek15bjBWME9FYm92R3pXQW9mMGxKdlQ0NlBqa0RzVHQwS0VSYnNjbXRCcWV0MzVHeGNqRHVJUUpJQVlyRmxaWHpCOFVpM3N2akxuanVR?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
         "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHFJb0N3UjRHLWkwSXRzcDhMWVF1Z3k4TlNOMjVrVV8yVDhHeVZtVDFmMWpqLU1BalNOYk1CQ2tuZXhpRk4tTEdzUXdhWGx5SWh6NUlPZFp5WkJVLTZRaG42OGgxQTJyeEhjek9KTWRZdkZxUWItcEE1Q0pUUTQ4NQ?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
@@ -441,31 +447,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
-        "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
-      },
-      {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
-      },
-      {
         "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
+        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
+        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnpfbVh4Tk5RbDhqSFViNXBqZUttRmdGX2lLWjlBeUhicjQyRjVhaHUxVXoyeWNxOWF0UnljNGU5T192QnVHSnVVMWFHcW41U2JQYjVDNTk4dXY0aUtMWUV1a1VJaWF4elRqZDV6V2xiSlMwRXQ3N1RuQlN6Q25nMQ?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-04 06:36 UTC"
+    "updated": "2026-06-04 10:35 UTC"
   }
 }
