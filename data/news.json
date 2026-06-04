@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "This mysterious lung disease affects millions of people – a drug tested in mice shows promise",
+        "link": "https://www.nature.com/articles/d41586-026-01789-x",
+        "pubDate": "2026-06-04",
+        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
+        "title_cn": "这种神秘的肺部疾病影响了数百万人–在小鼠身上测试的药物显示出希望"
+      },
+      {
         "title": "Editorial Expression of Concern: Functional proteomic identification of DNA replication proteins by induced proteolysis in vivo",
         "link": "https://www.nature.com/articles/s41586-026-10727-w",
         "pubDate": "2026-06-03",
@@ -49,20 +56,43 @@
         "pubDate": "2026-06-03",
         "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10624-2 Analysis of a 25-year satellite record shows that Earth has a persistent east–west albedo symmetry split at 27° E, with clear-sky albedo, cloud radiative effect and open-ocean fraction exhibiting a triple symmetry around this mer",
         "title_cn": "地球的东西反照率对称性"
-      },
-      {
-        "title": "Relativistic electron acceleration at the bow shock of Jupiter and beyond",
-        "link": "https://www.nature.com/articles/s41586-026-10473-z",
-        "pubDate": "2026-06-03",
-        "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10473-z NASA’s Juno observations show relativistic electron acceleration at the bow shock of Jupiter and establish a universal scaling law linking shock size to maximum cosmic ray energy.",
-        "title_cn": "木星弓形激波及以后的相对论性电子加速度"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+        "link": "https://36kr.com/p/3838454229027072?f=rss",
+        "pubDate": "2026-06-04 14:06:37  +0800",
+        "description": "文｜周鑫雨 编辑｜张雨忻 杨轩 《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题： 加大对世界模型训练的投入，年底前，模型 性能达到现阶段世界模型全球 &nbsp;SOTA（最佳）Google Genie 3 的水平。 视频模型继续保持领先地位， 探索“动态生成”等新方向。 进一步打好&nbsp;Coding 的地基， 做好 Coding 的 Dogfooding（数据回流、评测，形成飞轮），提升 Agent 能力。 豆包强化商业化能力， 重点场景是“办公”。 字节的未竟之地：世界模型 如今，字节的 AI 矩阵中，有让字节终于得以进入中国大模型第一梯队的 Seed "
+      },
+      {
+        "title": "李宁需要库里，但库里更需要李宁",
+        "link": "https://36kr.com/p/3838185031305474?f=rss",
+        "pubDate": "2026-06-04 10:39:36  +0800",
+        "description": "作者 |&nbsp; 谢芸子 编辑 |&nbsp; 张帆&nbsp; 一条消息让体育圈炸了锅。 6月2日，NBA球星斯蒂芬·库里与中国运动品牌李宁，签下了一为期十年的代言。双方均未披露具体金额，但业内口径相当统一：这是一份总价超过4亿美元（约合27亿元人民币）的超级合同。 据多方信息，库里每年保底可获3000万美元的代言费，还能从其个人品牌Curry Brand的销售中得到提成，外加李宁的流通股股权激励。这套“高保底+销售分成+股权”的组合模式，完全对标耐克当年给迈克尔·乔丹的待遇。 库里的江湖地位毋庸置疑：他是“NBA历史上最具革命性影响的球员之一”，控卫历史第二，是“小球时代”的奠基人。 "
+      },
+      {
+        "title": "深圳具身公司获得汇川、中国电信亿元融资，“视触觉”传感器出货量行业第一｜硬氪首发",
+        "link": "https://36kr.com/p/3837269482091656?f=rss",
+        "pubDate": "2026-06-04 09:30:00  +0800",
+        "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，戴盟机器人近日完成亿元A轮融资，由汇川技术旗下产业基金汇川产投与中国电信联合投资。资金将用于进一步打造超大规模含物理交互信息数据集，加速物理世界模型研发、并驱动真实物理场景下的数据飞轮与商业闭环。 戴盟机器人于2023年正式运营，核心团队长期聚焦机器人灵巧操作与物理交互智能领域。联合创始人兼首席科学家王煜教授曾任港科大机器人研究院创始院长，他所提出的“具身技能”与“技能克隆”等概念，是戴盟机器人核心技术路线的重要组成部分。创始人兼CEO段江哗博士及主要技术负责人，均来自港科大机器人研究院核心团队，具备10年操作智能Know-how。首席AI科学家原玮浩曾为阿"
+      },
+      {
+        "title": "深创投领投，这家微型关节模组企业完成数千万融资丨36氪首发",
+        "link": "https://36kr.com/p/3837650456430851?f=rss",
+        "pubDate": "2026-06-04 09:30:00  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，微型高性能电机企业指尖智擎近期完成数千万元Pre-A轮融资，由深创投领投，天启资本与卓源亚洲跟投。资金将主要用于新一代微型轴向磁通电机的量产爬坡、空心杯电机产线建设及全球头部客户的供应链交付保障。多维资本担任本轮独家财务顾问。 指尖智擎成立于2024年8月，公司主打产品包括微型轴向磁通关节模组与空心杯电机，核心应用场景覆盖灵巧手、消费级机器人、轻型机械臂及医疗设备等领域。公司创始人张杨拥有12年电机行业经验，曾就职于美的、威孚高科、图达通等企业。 φ16mm微型关节模组（图源/企业） 目前，人形机器人灵巧手的主流技术路径存在精度、自由度、扭矩密度及成本方面的"
+      },
+      {
+        "title": "8点1氪丨A股第4只两千元股诞生；问界回应浙江台州M9事故；马斯克个人财富将突破万亿美元",
+        "link": "https://36kr.com/p/3838091144464644?f=rss",
+        "pubDate": "2026-06-04 07:53:43  +0800",
+        "description": "今日热点导览 名创优品称会员买单仅限潮玩商品 谷歌扩大Quick Share与AirDrop互传适配范围，覆盖更多安卓机型 Meta在全球范围扩大青少年内容管控 多家银行下架3年期5年期定期存款 TOP 3大新闻 A股第4只两千元股诞生，联讯仪器盘中股价冲破2000元 6月3日，联讯仪器盘中股价冲破2000元，最高达2047.88���。公司总市值超2000亿元。数据显示，自A股1990年12月19日开市以来，最高价曾突破2000元的股票屈指可数，仅有中安科、贵州茅台、云赛智联3只。这3只股票的上涨动因各异，长期市场表现也大相径庭。与A股史上前3只最高价曾触及2000元的股票相比，联讯仪器的硬"
+      },
       {
         "title": "氪星晚报 ｜曲美家居：境外子公司拟发行不超9亿挪威克朗境外债券；段永平在泡泡玛特持股比例升至6.04%；现货白银向下跌破74美元/盎司",
         "link": "https://36kr.com/p/3837330582008963?f=rss",
@@ -80,102 +110,72 @@
         "link": "https://36kr.com/p/3836068296209537?f=rss",
         "pubDate": "2026-06-03 09:30:00  +0800",
         "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。 目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。 商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推进出海，与江都经开区共建亿元级应用创新中心落地文旅酒店场景等。 具身智能赛道竞争逻辑正发生根"
-      },
-      {
-        "title": "36氪首发 | 浙大教授团队获财通、商汤投资，做高危场景具身机器人大脑",
-        "link": "https://36kr.com/p/3836744788014208?f=rss",
-        "pubDate": "2026-06-03 09:10:00  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高危作业领域具身智能公司杭州旷行科技有限公司（以下简称“旷行科技”）近期已完成数千万元市场化第一轮融资（Pre-A轮），由财通资本和商汤国香投资。本轮资金将主要用于算法研发、产品矩阵完善及市场拓展。 旷行科技2025年成立于杭州，是一家专注为高危工业工程领域（资源矿山、能源电力、油气化工、交通城建）提供“机器人+AI大脑”运维解决方案的具身智能公司。公司创始人舒江鹏为国家级高层次青年人才、浙江大学百人计划研究员、博导，团队自2011年起开展智慧城市AI与工程机器人技术研发，拥有超过15年的行业负样本标注数据积累与技术沉淀。 不同于市面上常见的巡检机器人，旷行"
-      },
-      {
-        "title": "8点1氪丨腾讯股价暴涨，创2021年后单日最高涨幅；预计今年安排约1100亿育儿补贴；英伟达与微软合作推出统一技术栈",
-        "link": "https://36kr.com/p/3836703946257542?f=rss",
-        "pubDate": "2026-06-03 08:21:18  +0800",
-        "description": "今日热点导览 豆包付费或专注复杂任务， 定价锚定ChatGPT 英伟达CEO黄仁勋：Vera CPU将比GPU更受欢迎，将成为公司新的主要增长动力 中国内地航线燃油附加费将下调 标签上存在拼写错误，瑞幸客服称遇到“HeeloKitty”可退款 马尔代夫将限制16岁以下青少年访问部分社媒平台 TOP 3大新闻 腾讯股价暴涨：创2021年1月以来单日最高涨幅纪录 6月2日午后，香港恒生科技指数一度涨超4%。恒生科技指数成分股中，美团、腾讯控股涨近9%，阿里巴巴涨近6%。腾讯控股股价午后持续震荡上行。截至13:12，腾讯控股股价报474.4港元/股，涨幅为8.81%，总市值为4.33万亿港元。腾讯控"
-      },
-      {
-        "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度",
-        "link": "https://36kr.com/p/3834354708031111?f=rss",
-        "pubDate": "2026-06-02 19:50:30  +0800",
-        "description": "大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出发前即可直观判断目的地是否符合预期。 江西国家稀土技术创新中心成立，注册资本12.5亿 36氪获悉，天眼查App显示，近日，江西国家稀土技术创新中心有限公司成立"
-      },
-      {
-        "title": "美团在竞争中看清自己",
-        "link": "https://36kr.com/p/3835814792492416?f=rss",
-        "pubDate": "2026-06-02 17:20:31  +0800",
-        "description": "作者｜任彩茹 编辑｜乔芊 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。 业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。 值得关注的是，本季财报中美团还更新了两个关键的收入口径： 一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自"
-      },
-      {
-        "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
-        "link": "https://36kr.com/p/3835814391100550?f=rss",
-        "pubDate": "2026-06-02 17:13:50  +0800",
-        "description": "文｜肖思佳 编辑｜乔芊 杨轩 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露， 豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla Cybercab Is Super Efficient — Questions & Hurdles Remain",
+        "link": "https://cleantechnica.com/2026/06/03/tesla-cybercab-is-super-efficient-questions-hurdles-remain/",
+        "pubDate": "Thu, 04 Jun 2026 03:59:01 +0000",
+        "description": "The Tesla Cybercab has achieved a stunning efficiency rating. At 165 Wh/mile efficiency, it has an estimated running cost of 2.6¢/mile. The hyper-efficient Lucid Air Pure, for comparison, has a 230 Wh/mile efficiency. Yes, the Cybercab is going to blow the efficiency of other EVs out of the water, e",
+        "title_cn": "特斯拉Cybercab超高效—问题和障碍依然存在"
+      },
+      {
+        "title": "BYD & Tesla Play Tag for Top Spot in Australia in May 2026",
+        "link": "https://cleantechnica.com/2026/06/03/byd-tesla-play-tag-for-top-spot-in-australia-in-may-2026/",
+        "pubDate": "Thu, 04 Jun 2026 03:58:05 +0000",
+        "description": "May 2026 saw the Tesla Model Y regain the top spot in BEV sales in Australia, after losing it to BYD’s Sealion in April. In fact, the Model Y was Australia’s best-selling vehicle of all powertrains — the first EV to take the gold. In May 2026, 107,000 passenger vehicles ... [continued] The post BYD ",
+        "title_cn": "2026年5月，比亚迪和特斯拉在澳大利亚排名第一"
+      },
+      {
+        "title": "Feeding The Fuel Crop: Fertilisers Are Powering More Than Just Food",
+        "link": "https://cleantechnica.com/2026/06/03/feeding-the-fuel-crop-fertilisers-are-powering-more-than-just-food/",
+        "pubDate": "Thu, 04 Jun 2026 03:53:39 +0000",
+        "description": "The EU Commission has proposed a plan to stockpile fertilisers in the wake of the conflict in the Middle East. Expanding crop-based biofuels production would put further strain on the EU’s fertiliser supplies. Despite European fuel policy now limiting their use, around half of biofuels consumed in t",
+        "title_cn": "喂养燃料作物：化肥不仅仅是食物"
+      },
+      {
+        "title": "Rivian CEO: Self-Driving Cars Here Before 2030 (BYD: Here Now)",
+        "link": "https://cleantechnica.com/2026/06/03/rivian-ceo-self-driving-cars-here-before-2030-byd-here-now-in-china/",
+        "pubDate": "Thu, 04 Jun 2026 03:50:56 +0000",
+        "description": "There are a handful different approaches to self-driving technology. Much of the discussion centers around the pros and cons of the different approaches and which is better. However, one can easily argue that all of the approaches are making progress and will get there at some point. In fact, they .",
+        "title_cn": "Rivian首席执行官： 2030年之前自动驾驶汽车在这里（比亚迪：现在就在这里）"
+      },
+      {
+        "title": "How Does the All-New TZ Drive? A Look Inside the Development Hub and a Growing Charging Network",
+        "link": "https://cleantechnica.com/2026/06/03/how-does-the-all-new-tz-drive-a-look-inside-the-development-hub-and-a-growing-charging-network/",
+        "pubDate": "Thu, 04 Jun 2026 03:46:22 +0000",
+        "description": "May 7 marked the world premiere of the TZ at Toyota Technical Center Shimoyama (TTC-S), which straddles the cities of Toyota and Okazaki in Aichi Prefecture. As Lexus&#8217;s first three-row BEV SUV, the event drew media from across Japan and around the world. Toyota Times has previously featured Ch",
+        "title_cn": "全新的TZ是如何驾驶的？发展枢纽和不断壮大的充电网络内幕"
+      },
+      {
+        "title": "Top Selling Electric Vehicles in the World — April 2026",
+        "link": "https://cleantechnica.com/2026/06/03/top-selling-electric-vehicles-in-the-world-april-2026/",
+        "pubDate": "Thu, 04 Jun 2026 03:12:38 +0000",
+        "description": "BEVs on the way up, PHEVs on the way down Plugin vehicle registrations were up 9% year over year (YoY) in April, ending the month at around 1.6 million units. Interestingly, BEVs (+19% YoY) and PHEVs (-9% YoY) behaved very differently, with pure electrics back to double-digit growth while plugin ...",
+        "title_cn": "全球畅销电动汽车— 2026年4月"
+      },
+      {
+        "title": "SEAT & CUPRA Plant in Martorell Starts Production of CUPRA Raval & Volkswagen ID. Polo, Leading a New Era of Mobility in Europe",
+        "link": "https://cleantechnica.com/2026/06/03/seat-cupra-plant-in-martorell-starts-production-of-cupra-raval-volkswagen-id-polo-leading-a-new-era-of-mobility-in-europe/",
+        "pubDate": "Thu, 04 Jun 2026 00:06:57 +0000",
+        "description": "The Electric Urban Car Family enters production with four models from three brands, all Made in Spain, that are set to make electric mobility accessible across Europe. The start of production of the CUPRA Raval and Volkswagen ID. Polo marks the beginning of a new era for the company and positions Ma",
+        "title_cn": "位于Martorell的SEAT & CUPRA工厂开始生产CUPRA Raval & Volkswagen ID。Polo衫，引领欧洲移动出行新时代"
+      },
       {
         "title": "Tesla Expands Unsupervised Robotaxi Service To Whole Austin Metro Area",
         "link": "https://cleantechnica.com/2026/06/03/tesla-expands-unsupervised-robotaxi-service-to-whole-austin-metro-area/",
         "pubDate": "Wed, 03 Jun 2026 22:58:10 +0000",
         "description": "There&#8217;s been some criticism of Tesla&#8217;s limited and not entirely perfect robotaxi service in Austin — not to mention the fact that Elon Musk said they&#8217;d have robotaxis covering at least 50% of the US population by the end of 2025 &#8230; and we&#8217;re now almost halfway through 20",
         "title_cn": "特斯拉将无人监督的机器人出租车服务扩展到整个奥斯汀地铁区"
-      },
-      {
-        "title": "US Will Dismantle The Ocean Observatories Initiative",
-        "link": "https://cleantechnica.com/2026/06/03/us-will-dismantle-the-ocean-observatories-initiative/",
-        "pubDate": "Wed, 03 Jun 2026 20:20:31 +0000",
-        "description": "The US administration is shutting down an important ocean research operation and removing its sensors from the water. The post US Will Dismantle The Ocean Observatories Initiative appeared first on CleanTechnica .",
-        "title_cn": "美国将拆除海洋观测站计划"
-      },
-      {
-        "title": "BMW iX3 Starting $5,000 Cheaper Than Comparable BMW X3",
-        "link": "https://cleantechnica.com/2026/06/03/bmw-ix3-starting-5000-cheaper-than-comparable-bmw-x3/",
-        "pubDate": "Wed, 03 Jun 2026 19:05:58 +0000",
-        "description": "The BMW X3 had almost ten times more sales than the BMW iX in the first quarter (17,767 versus 1,788), but is the new iX3 going to shake things up? Based on the key facts we&#8217;ve seen released about it, it should! The new iX3 is coming in a whopping ... [continued] The post BMW iX3 Starting $5,0",
-        "title_cn": "宝马iX3起价$ 5,000比同类宝马X3便宜"
-      },
-      {
-        "title": "Belgium’s Hydrogen Stations Have A Kilograms-Per-Day Problem",
-        "link": "https://cleantechnica.com/2026/06/03/belgium-hydrogen-stations-kilograms-per-day/",
-        "pubDate": "Wed, 03 Jun 2026 18:14:18 +0000",
-        "description": "Belgium has another hydrogen refuelling announcement, and on the surface it sounds like progress. Atawey is selling three new hydrogen stations to Colruyt Group and Virya Energy for heavy-duty mobility, with a stated combined distribution capacity of more than 7 tonnes per day and deployment planned",
-        "title_cn": "比利时氢气站每天出现千克问题"
-      },
-      {
-        "title": "How Today’s Media Influence The Ways We Perceive The Food System On Which We Depend",
-        "link": "https://cleantechnica.com/2026/06/03/how-todays-media-influence-the-ways-we-perceive-the-food-system-on-which-we-depend/",
-        "pubDate": "Wed, 03 Jun 2026 17:12:42 +0000",
-        "description": "My mother cooked for our family with a post-World War II mindset. Bacon and eggs for breakfast. Wonder Bread sandwiches with one slice of American cheese and another slice of ham. Supper typically would be Shake-n-Bake chicken, mashed potatoes, and a canned vegetable, or hamburger and reheated froze",
-        "title_cn": "当今的媒体如何影响我们对所依赖的食物系统的看法"
-      },
-      {
-        "title": "Up To 50% Off On A New Heat Pump Installation, Says Startup",
-        "link": "https://cleantechnica.com/2026/06/03/heat-pump-california-jetson-home-electrification-startups/",
-        "pubDate": "Wed, 03 Jun 2026 16:34:39 +0000",
-        "description": "The US home electrification startup Jetson Home has launched an ambitious plan for rapid expansion into California, where policy makers aim to install 6 million heat pumps by 2030. The post Up To 50% Off On A New Heat Pump Installation, Says Startup appeared first on CleanTechnica .",
-        "title_cn": "Startup表示，新热泵安装可享高达50%的折扣"
-      },
-      {
-        "title": "754 New EV Chargers To Be Installed In Washington State",
-        "link": "https://cleantechnica.com/2026/06/03/754-new-ev-chargers-to-be-installed-in-washington-state/",
-        "pubDate": "Wed, 03 Jun 2026 14:24:43 +0000",
-        "description": "The good EV charging news keeps coming. In Washington state, funding has been granted to install 754 new public EV chargers: 550 Level 2 charging ports and 204 DC fast chargers. The chargers will be installed by the end or near the end of 2027. There’s even more good news ... [continued] The post 75",
-        "title_cn": "754个新的电动汽车充电器将在华盛顿州安装"
-      },
-      {
-        "title": "VinFast Sees Opportunities in Philippine Electric Bus Market",
-        "link": "https://cleantechnica.com/2026/06/03/vinfast-sees-opportunities-in-philippine-electric-bus-market/",
-        "pubDate": "Wed, 03 Jun 2026 14:17:00 +0000",
-        "description": "VinFast Southeast Asia Chief Executive Officer Antonio &#8220;Toti&#8221; Zara said the Vietnamese electric vehicle maker is keeping a close watch on the Philippines&#8217; emerging electric bus market, although it is not yet ready to introduce its e-bus lineup locally. Speaking on the future of sus",
-        "title_cn": "VinFast看到菲律宾电动巴士市场的机遇"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,16 +260,22 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
-      },
-      {
         "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
         "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
         "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
+      },
+      {
+        "title": "南网能源正式启动绿电氢能业务！ - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OMHdjRGJyaUVFMFVwNjlDQWVSaURtbVhVSzFTNU1CWFBxLUMySmZ3eWV6d1hWZXR2NzVKdFVvQTRQU0dmMlFxOUVrX0NFUVBMZW9PMFlB?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "南网能源正式启动绿电氢能业务！ &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
+        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
+        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
@@ -278,20 +284,14 @@
         "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       },
       {
-        "title": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 - 潮新闻",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOVg2a3IzQ2JNOUhTVWZyaUZyZkYyQXhvelBRaUgtMUVmcU52eTZwV3NQbUhRQmdYbjdwRm14OGlKM1pVajlpQkdNLVBHUXF3UDZoU09MYw?oc=5",
-        "pubDate": "Tue, 05 May 2026 03:16:24 GMT",
-        "description": "一个集装箱，就能装下电热氢联产系统工程 浙江团队全国首创轻量化绿氢制造 &nbsp;&nbsp; 潮新闻"
-      },
-      {
-        "title": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wY19LSTNWcm9vUFdiZFhFOTMyOXZudnVldnBBQmt3Yk5rVjNndDctU21IeC1ySThTRWVWS2VjaHVUTmFHWU1OWFNnQkRFUFduQy1uY1Nn?oc=5",
-        "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT",
-        "description": "氢能「周事迹」事关华电/中国能建/天合元氢/海泰新能/大全能源/云韬氢能/中电丰业/浙江蓝能/氢枫/玉柴芯蓝氢能/未来氢能 &nbsp;&nbsp; 国际氢能网"
+        "title": "南网能源官宣绿电氢能新业务，电网赛道价值重估 - Sina finance",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtSTdnWWQwYm1nTDZEVVpuYzI1aUhRWHRxd3ZxODl2WjhqOEpTQzdnRTkyaExYXzJoNUxBcEk5ajg1SThtMDBkZ21PLXo5OURya3l4MFM4UndIRmNscFRjWElYUlJPeml0SXRfUkZvczEtZWg1N2M2RA?oc=5",
+        "pubDate": "Mon, 25 May 2026 03:30:00 GMT",
+        "description": "南网能源官宣绿电氢能新业务，电网赛道价值重估 &nbsp;&nbsp; Sina finance"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,86 +353,21 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Yoctosecond imaging of the ground state of $^{129}$Xe at the Large Hadron Collider",
-        "link": "https://arxiv.org/abs/2606.03993v1",
-        "pubDate": "2026-06-02T17:59:59Z",
-        "description": "Imaging a quantum many-body system requires probes that resolve the coordinates of its constituents in sufficiently large event samples, allowing measurements of correlation functions [1-4]. High-energy nuclear collisions provide this opportunity on the nuclear scale [5], enabling features of collid",
-        "title_cn": "大型强子对撞机$ ^ {129} $ Xe基态的Yoctosecond成像"
-      },
-      {
-        "title": "The OAD Flagship Ecosystem",
-        "link": "https://arxiv.org/abs/2606.03966v1",
-        "pubDate": "2026-06-02T17:52:16Z",
-        "description": "The International Astronomical Union's Office of Astronomy for Development (IAU OAD) uses astronomy as a tool to address societal challenges and contribute to sustainable development. Building on more than a decade of project funding and implementation, the OAD has developed a portfolio of flagship ",
-        "title_cn": "OAD旗舰生态系统"
-      },
-      {
-        "title": "Introduction to stochastic gradient methods",
-        "link": "https://arxiv.org/abs/2606.03953v1",
-        "pubDate": "2026-06-02T17:40:46Z",
-        "description": "These lecture notes provide an introduction to first-order optimization methods with a particular emphasis on stochastic gradient methods. We begin with deterministic gradient based methods for unconstrained optimization and study their convergence under standard assumptions such as smoothness, conv",
-        "title_cn": "随机梯度方法简介"
-      },
-      {
-        "title": "DiffUNet^2: Bidirectional Prediction, Probabilistic Generation and Collaborative Visual Discovery for Scientific Data",
-        "link": "https://arxiv.org/abs/2606.03926v1",
-        "pubDate": "2026-06-02T17:15:01Z",
-        "description": "Modeling temporal evolution is important to analyzing and reasoning about scientific phenomena, yet most machine learning methods provide deterministic forward predictions that overlook multiple plausible outcomes and rarely support backward reasoning, limiting their usefulness in practical scientif",
-        "title_cn": "DiffUNet ^ 2 ：科学数据的双向预测、概率生成和协作视觉发现"
-      },
-      {
-        "title": "Sparse Activation for Sustainable Cell-Free Massive MIMO Networks: Less is More",
-        "link": "https://arxiv.org/abs/2606.03912v1",
-        "pubDate": "2026-06-02T17:07:12Z",
-        "description": "Motivated by the vision of making sixth-generation (6G) networks sustainable, we study the sparse antenna/array activation problems in uplink cell-free massive multiple-input multiple-output (CF mMIMO) networks. We first develop an antenna-level optimal bilinear equalizer (OBE) weighting framework, ",
-        "title_cn": "可持续无蜂窝大规模MIMO网络的稀疏激活：少即是多"
-      },
-      {
-        "title": "Efficient Quantum Error Mitigation for Unitary k-Designs",
-        "link": "https://arxiv.org/abs/2606.03891v1",
-        "pubDate": "2026-06-02T16:52:08Z",
-        "description": "Quantum circuit ensembles that have the properties of unitary k-designs represent applications where there is no obvious bias toward any particular Pauli support, as is the case in simulating systems exhibiting ''quantum chaos,'' which range from quantum dynamics near black holes to gapless spin flu",
-        "title_cn": "用于单一k-设计的有效量子误差缓解"
-      },
-      {
-        "title": "A Dynamic Capacity Allocation Model for DERs under Non-Firm Connection Agreements",
-        "link": "https://arxiv.org/abs/2606.03887v1",
-        "pubDate": "2026-06-02T16:50:52Z",
-        "description": "The growing penetration of distributed energy resources (DERs) intensifies congestion in distribution networks by introducing bidirectional power flows and increasing competition for limited network capacity, underscoring the need for effective and efficient congestion management, including flexible",
-        "title_cn": "非公司连接协议下的DER动态容量分配模型"
-      },
-      {
-        "title": "Principal Components Decomposition of Fraction of Variance Explained in High Dimensional Linear Models with Strong Correlation",
-        "link": "https://arxiv.org/abs/2606.03880v1",
-        "pubDate": "2026-06-02T16:47:00Z",
-        "description": "The fraction of variance explained (FVE) in a linear model quantifies the extent to which predictors account for outcome variability. In high-dimensional settings, where traditional FVE estimators do not apply, modern FVE estimators such as GWASH or linear mix-effect model estimated through the rest",
-        "title_cn": "具有强相关性的高维线性模型中方差分数的主成分分解"
-      },
-      {
-        "title": "Automated Repair of Requirements for Cyber-Physical Systems in Simulink Requirements Tables",
-        "link": "https://arxiv.org/abs/2606.03870v1",
-        "pubDate": "2026-06-02T16:41:20Z",
-        "description": "The development of complex software systems, e.g., cyber-physical systems (CPSs), involves continuous evolution of both system implementations and their requirements. These two artifacts often proceed independently, creating a risk of misalignment. For example, a system may be updated due to impleme",
-        "title_cn": "Simulink需求表中网络物理系统需求的自动修复"
-      },
-      {
-        "title": "Modification of Charge and Spin Textures by Light Chemical Substitution in Eu(Al$_{1-x}$Ga$_{x}$)$_4$ ($x=0.1$)",
-        "link": "https://arxiv.org/abs/2606.03869v1",
-        "pubDate": "2026-06-02T16:40:44Z",
-        "description": "We present the results of a resonant X-ray diffraction experiment, resolving both charge and spin textures in the intermetallic topological magnet Eu(Al$_{1-x}$Ga$_{x}$)$_4$, $x$ = 0.1. Below $\\approx$ 75 K the system develops a charge density wave (CDW) with propagation vector kCDW ~ (0, 0, 0.18). ",
-        "title_cn": "通过Eu中的轻化学替代来修改电荷和自旋纹理（ Al $_{1-x} $ Ga $_{x} $ ） $_4 $ （ $ x = 0.1 $ ）"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
       {
         "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
@@ -446,30 +381,6 @@
         "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
-        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
-        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
-      },
-      {
-        "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUDA2YlFwZ2gyRHpDX3NPenRtb0ZRYmhjZVNlNEpnUzBhMm82NGRKZU9RblJzWnpuUEVmbVBKUTlQZk9pbzdVd01XcDB2blVyOHpycjJod0puc0NT?oc=5",
-        "pubDate": "Sat, 16 May 2026 04:22:04 GMT",
-        "description": "“下一代能源核心”！机构预测9只氢能股业绩高增长 &nbsp;&nbsp; 证券时报"
-      },
-      {
-        "title": "精心培育氢能未来产业 - 经济日报",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weVlkQzBTd1pET19yV2k3M21GeUFtTVhzcUIxdHpvZXhSZ3JtbGo0VThFV0xkM1FkdDJaZENvSXg5RTlCS2pyTTMwMFVmdEt5cUg3U2N0MVpPVzd1MnpvNG5ETWE0d2JEdmstVg?oc=5",
-        "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
-        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -480,18 +391,36 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "精心培育氢能未来产业 - 经济日报",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weVlkQzBTd1pET19yV2k3M21GeUFtTVhzcUIxdHpvZXhSZ3JtbGo0VThFV0xkM1FkdDJaZENvSXg5RTlCS2pyTTMwMFVmdEt5cUg3U2N0MVpPVzd1MnpvNG5ETWE0d2JEdmstVg?oc=5",
+        "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
+      },
+      {
+        "title": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 - 中国新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14STBvamtBQ1BVeW43TWNhdVpLTW5GNEdhRG5pc0FYazFkdnZDTm1oZkE5UVFub1V2LXREVktMRjExYW13MFlQWGNpUjd3SFZOYmI1QzRqMUtxZFJYZHBGNTVwVkJoWExQSWc?oc=5",
+        "pubDate": "Tue, 26 May 2026 13:32:28 GMT",
+        "description": "国家能源局召开民营企业座谈会 支持民企开展能源科技创新 &nbsp;&nbsp; 中国新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
+        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
         "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -500,16 +429,10 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36Kr",
+        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
         "pubDate": "Thu, 21 May 2026 03:41:00 GMT",
-        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36Kr"
-      },
-      {
-        "title": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% - 财华智库网",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SdDZWX04tcjhJX1JCWjVfN2gyMFhidy1pTmFic0dkcHdOT3ktckFFZ1VFd3VfaXRFeDZ4Z29XOEFZcUFnOVozMUR2SUpQcDRGX0cxNXRQSC1IejV4czA4TnZYaER5cVMzcktr?oc=5",
-        "pubDate": "Mon, 25 May 2026 02:31:00 GMT",
-        "description": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% &nbsp;&nbsp; 财华智库网"
+        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -534,9 +457,15 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-03 23:28 UTC"
+    "updated": "2026-06-04 06:36 UTC"
   }
 }
