@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+        "link": "https://www.nature.com/articles/s41586-026-10694-2",
+        "pubDate": "2026-06-04",
+        "description": "Nature, Published online: 04 June 2026; doi:10.1038/s41586-026-10694-2 Author Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
+        "title_cn": "作者更正：猪-人死者肾脏异种移植的生理学和免疫学"
+      },
+      {
         "title": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
         "link": "https://www.nature.com/articles/d41586-026-01764-6",
         "pubDate": "2026-06-04",
@@ -9,11 +16,25 @@
         "title_cn": "设备可以嗅出秘密制造核弹材料的核聚变反应堆"
       },
       {
+        "title": "Babies’ birth weight improves with help of payments to parents",
+        "link": "https://www.nature.com/articles/d41586-026-01765-5",
+        "pubDate": "2026-06-04",
+        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01765-5 Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.",
+        "title_cn": "通过向父母付款，婴儿的出生体重得到改善"
+      },
+      {
         "title": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise",
         "link": "https://www.nature.com/articles/d41586-026-01789-x",
         "pubDate": "2026-06-04",
         "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
         "title_cn": "这种神秘的肺部疾病影响了数百万人—但在小鼠身上测试的药物显示出前景"
+      },
+      {
+        "title": "Science with military applications is cited more than civilian-only research",
+        "link": "https://www.nature.com/articles/d41586-026-01770-8",
+        "pubDate": "2026-06-04",
+        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8 Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.",
+        "title_cn": "与民用研究相比，引用军事应用科学的次数更多"
       },
       {
         "title": "What’s behind China’s historically high counts of corresponding authors?",
@@ -35,31 +56,10 @@
         "pubDate": "2026-06-03",
         "description": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01774-4 Discover the strengths, limitations and risks associated with using artificial intelligence in your science job applications.",
         "title_cn": "科学招募中的人工智能：朋友还是敌人？参加我们的免费网络研讨会"
-      },
-      {
-        "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
-        "link": "https://www.nature.com/articles/d41586-026-01793-1",
-        "pubDate": "2026-06-03",
-        "description": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01793-1 Passive heart-rate monitoring during regular phone use could provide early warning of health issues — plus, testing Richard Feynman’s solution to the ‘restaurant dilemma’ problem.",
-        "title_cn": "您的手机可以使用微小的肤色变化来测量您的心率"
-      },
-      {
-        "title": "Reply to: The size of tropical vegetation gross primary production",
-        "link": "https://www.nature.com/articles/s41586-026-10561-0",
-        "pubDate": "2026-06-03",
-        "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10561-0 Reply to: The size of tropical vegetation gross primary production",
-        "title_cn": "回复：热带植被初级总产量规模"
-      },
-      {
-        "title": "The size of tropical vegetation gross primary production",
-        "link": "https://www.nature.com/articles/s41586-026-10562-z",
-        "pubDate": "2026-06-03",
-        "description": "Nature, Published online: 03 June 2026; doi:10.1038/s41586-026-10562-z The size of tropical vegetation gross primary production",
-        "title_cn": "热带植被初级总产量规模"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Donut Lab’s Manufacturing Is Different",
+        "link": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
+        "pubDate": "Thu, 04 Jun 2026 22:23:03 +0000",
+        "description": "Donut Lab&#8217;s latest video reveals a novel manufacturing method. Speculation has swirled around the methods and sources of Donut Lab&#8217;s batteries since their introduction. We now have word from them supporting some of the sleuthing that has revealed a different manufacturing method — but fi",
+        "title_cn": "甜甜圈实验室的制造工艺与众不同"
+      },
+      {
+        "title": "Calls For Policy Consistency & Continuity as Kenya’s Electric Mobility Sector Highlights Milestones",
+        "link": "https://cleantechnica.com/2026/06/04/calls-for-policy-consistency-continuity-as-kenyas-electric-mobility-sector-highlights-milestones/",
+        "pubDate": "Thu, 04 Jun 2026 20:39:51 +0000",
+        "description": "The Electric Mobility Association of Kenya (EMAK) is a diverse and dynamic community that includes industry experts, entrepreneurs, policymakers, academics, innovators, and enthusiastic individuals who believe in the potential of electric mobility to shape a sustainable future. EMAK assumes the role",
+        "title_cn": "呼吁政策一致性和连续性，因为肯尼亚的电动出行部门突出了里程碑"
+      },
+      {
+        "title": "BYD ADAS Warranty Explained … Sort Of",
+        "link": "https://cleantechnica.com/2026/06/04/byd-adas-warranty-explained-sort-of/",
+        "pubDate": "Thu, 04 Jun 2026 18:51:27 +0000",
+        "description": "BYD is the first manufacturer to take some responsibility for its autonomous driver assistance technology if things go wrong. The post BYD ADAS Warranty Explained &#8230; Sort Of appeared first on CleanTechnica .",
+        "title_cn": "比亚迪ADAS保修说明……"
+      },
+      {
+        "title": "My Beloved Tesla Model 3 is Gone, the Good Part: A New Model Y with HW4 & FSD V14",
+        "link": "https://cleantechnica.com/2026/06/04/my-beloved-tesla-model-3-is-gone-the-good-part-a-new-model-y-with-hw4-fsd-v14/",
+        "pubDate": "Thu, 04 Jun 2026 18:08:03 +0000",
+        "description": "May 9th 2026 was our grandson’s graduation day at UW Madison, and I had my first intersection accident in 70 years of driving. For those of you who read my previous article leading into this one: Yes, I was driving my 2019 Tesla Model 3 using Full Self Driving V12 ... [continued] The post My Beloved",
+        "title_cn": "我心爱的特斯拉Model 3消失了，好的部分：带有HW4和FSD V14的全新Model Y"
+      },
+      {
+        "title": "Hydrogen Buses Work. That Is Not The Procurement Question.",
+        "link": "https://cleantechnica.com/2026/06/04/hydrogen-buses-procurement-risk/",
+        "pubDate": "Thu, 04 Jun 2026 17:33:11 +0000",
+        "description": "Hydrogen buses are real. They can carry passengers, complete routes, refuel, and operate in public transit fleets. That much has been demonstrated often enough that it is no longer the useful question. The useful question for transit agencies is whether hydrogen is a better procurement choice than b",
+        "title_cn": "氢气公交车有效。这不是采购问题。"
+      },
       {
         "title": "What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas",
         "link": "https://cleantechnica.com/2026/06/04/evs-batteries-lfp-cathode-texas-invest-energyx-wildcat-holyvolt/",
@@ -137,45 +172,10 @@
         "pubDate": "Thu, 04 Jun 2026 14:28:54 +0000",
         "description": "EVs are reaching new levels of market penetration in China. Chinese retail NEV (BEV and PHEV) market share was estimated to be 63% for May, while Chinese wholesale (includes exports) reached 61%, according to CPCA, as reported in CnEVPost. We will have to wait for a more detailed breakdown. While ..",
         "title_cn": "中国新能源汽车份额达到63%。下一步是什么？"
-      },
-      {
-        "title": "Lost Glaciers And Geothermal Energy In The Land Of Contrasts",
-        "link": "https://cleantechnica.com/2026/06/04/geothermal-energy-iceland-glaciers-climate-action/",
-        "pubDate": "Thu, 04 Jun 2026 13:59:40 +0000",
-        "description": "The new National Geographic Documentary Films project \"Time and Water\" draws an intimate portrait of human and environmental loss, while underscoring the potential for change and restoration. The post Lost Glaciers And Geothermal Energy In The Land Of Contrasts appeared first on CleanTechnica .",
-        "title_cn": "对比度之地消失的冰川和地热能"
-      },
-      {
-        "title": "Tesla Cybercab Is Super Efficient — Questions & Hurdles Remain",
-        "link": "https://cleantechnica.com/2026/06/03/tesla-cybercab-is-super-efficient-questions-hurdles-remain/",
-        "pubDate": "Thu, 04 Jun 2026 03:59:01 +0000",
-        "description": "The Tesla Cybercab has achieved a stunning efficiency rating. At 165 Wh/mile efficiency, it has an estimated running cost of 2.6¢/mile. The hyper-efficient Lucid Air Pure, for comparison, has a 230 Wh/mile efficiency. Yes, the Cybercab is going to blow the efficiency of other EVs out of the water, e",
-        "title_cn": "特斯拉Cybercab超高效—问题和障碍依然存在"
-      },
-      {
-        "title": "BYD & Tesla Play Tag for Top Spot in Australia in May 2026",
-        "link": "https://cleantechnica.com/2026/06/03/byd-tesla-play-tag-for-top-spot-in-australia-in-may-2026/",
-        "pubDate": "Thu, 04 Jun 2026 03:58:05 +0000",
-        "description": "May 2026 saw the Tesla Model Y regain the top spot in BEV sales in Australia, after losing it to BYD’s Sealion in April. In fact, the Model Y was Australia’s best-selling vehicle of all powertrains — the first EV to take the gold. In May 2026, 107,000 passenger vehicles ... [continued] The post BYD ",
-        "title_cn": "2026年5月，比亚迪和特斯拉在澳大利亚排名第一"
-      },
-      {
-        "title": "Feeding The Fuel Crop: Fertilisers Are Powering More Than Just Food",
-        "link": "https://cleantechnica.com/2026/06/03/feeding-the-fuel-crop-fertilisers-are-powering-more-than-just-food/",
-        "pubDate": "Thu, 04 Jun 2026 03:53:39 +0000",
-        "description": "The EU Commission has proposed a plan to stockpile fertilisers in the wake of the conflict in the Middle East. Expanding crop-based biofuels production would put further strain on the EU’s fertiliser supplies. Despite European fuel policy now limiting their use, around half of biofuels consumed in t",
-        "title_cn": "喂养燃料作物：化肥不仅仅是食物"
-      },
-      {
-        "title": "Rivian CEO: Self-Driving Cars Here Before 2030 (BYD: Here Now)",
-        "link": "https://cleantechnica.com/2026/06/03/rivian-ceo-self-driving-cars-here-before-2030-byd-here-now-in-china/",
-        "pubDate": "Thu, 04 Jun 2026 03:50:56 +0000",
-        "description": "There are a handful different approaches to self-driving technology. Much of the discussion centers around the pros and cons of the different approaches and which is better. However, one can easily argue that all of the approaches are making progress and will get there at some point. In fact, they .",
-        "title_cn": "Rivian首席执行官： 2030年之前自动驾驶汽车在这里（比亚迪：现在就在这里）"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "国富氢能附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOZDFHVy1BT3JiZWJYaXMyTUIyQ2V0YkZOQUpGOVR4Q1ltZlZWMndqbUZvdGxvVVhicnk2NW51cXFyMXJRdHNJMHQ4eFBVb1lkWHpkOURRM0tZWlRSRWRBWlFoS3c5N3NNczRZVHd6ZnIxOHFqRFhGRGpKMlFReDJudDNmTmxfOGdUY0tScVhnWWY3MW5TRkNZZ2t2UlF3SGJTTFNtZU5lQlh2NEI2RDExSDdkNmI1QUJHVTA4azdkVjM2OHVpMnR3am5wSkc3bXBib2VYVENORno3ZGNBcVJDOW5jY1pBd1BjemtzR2gwejJFYklyT3gzS09EbFBhWDhiSzFhV1k1YUo5Y1RCN0xGNnNBMFZ3Sk1WYmZ1WGNfLWtYT2NzWVY5eWlaOUszRDh2VWU0M2MwRnA0d1dvcWprZXRuT0cwdjBlYjdsb3czMGRHVjdMbHJ3QVNMX01lZEhJNHM0VDdOYlFZeGtXTG04TWt5cEFvUDZTN2JqanV0aUt6akJDMmVlVnZwa2V4bXNTLTlSZ1FrdHltYThFT0lxQlFLZk5QRDlQQzFPV0FpMHFQUnJZekJyTTFwTW8xMDFXYkYzdzVyX0NQY09CWjR0QXJybGNBNTRqLVdzOFlENUlWVUltQXkwdzRfRjNkUkhqVFV3UDlOU1NVbnFhZmlxUFA0U0h0cXI2cThQV1dUZ2hXcEhnVjJnR2E0MjN1eDNiSUdRV2dPczYtSno3TkI1cktNanJ0anN3NjZyN0M4aG5ZV3RaV1BUbE9hN0NBUUpjb3lHbg?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 14:45:05 GMT",
+        "description": "国富氢能附属拟向九疆电力建设(陕西)提供300MW新能源耦合绿色电力项目的全套设备 &nbsp;&nbsp; 新浪财经"
+      },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
@@ -282,83 +288,77 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52b1dvRXFQTmJoVndocDNla3o3T3Azd0FDT2FwbEUzVUlHa3VQZlJuYl8tWWNjTEIxcE5FZnNoS1ZRYlhNYk1qUnlNU2lXTm03WWN0UHJR?oc=5",
         "pubDate": "Mon, 25 May 2026 10:06:59 GMT",
         "description": "远景发布全球最大离网风氨一体机 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "The New Generation of the Irizar I6S Efficient H2 FCEV Is Here",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/the-new-generation-of-the-irizar-i6s-efficient-h2-fcev-is-here",
-        "pubDate": "Wed, 03 Jun 2026 15:54:57 GMT",
+        "title": "Louisiana Builds on Hydrogen Innovation with NovaSpark Expansion",
+        "link": "https://fuelcellsworks.com/2026/06/04/energy-innovation/louisiana-builds-on-hydrogen-innovation-with-novaspark-expansion",
+        "pubDate": "Thu, 04 Jun 2026 15:49:59 GMT",
         "description": "",
-        "title_cn": "新一代Irizar I6S高效H2 FCEV即将推出"
+        "title_cn": "路易斯安那州通过NovaSpark扩张以氢能创新为基础"
       },
       {
-        "title": "Swansea Research Helps Power World-First Hydrogen Aero Engine Breakthrough",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/swansea-research-helps-power-world-first-hydrogen-aero-engine-breakthrough",
-        "pubDate": "Wed, 03 Jun 2026 15:46:53 GMT",
+        "title": "South Korea and Canada Launch Natural Hydrogen and Helium Partnership",
+        "link": "https://fuelcellsworks.com/2026/06/03/h2/south-korea-and-canada-launch-natural-hydrogen-and-helium-partnership",
+        "pubDate": "Thu, 04 Jun 2026 15:20:28 GMT",
         "description": "",
-        "title_cn": "斯旺西研究有助于推动世界首创的氢气航空发动机突破"
+        "title_cn": "韩国和加拿大启动天然氢和氦伙伴关系"
       },
       {
-        "title": "Hazer Expands Patent Protection in Japan",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/hazer-expands-patent-protection-in-japan",
-        "pubDate": "Wed, 03 Jun 2026 15:41:50 GMT",
+        "title": "Dalhousie Hydrogen Lab Joins International Program for Hydrogen Appliance Testing",
+        "link": "https://fuelcellsworks.com/2026/06/04/energy-innovation/dalhousie-hydrogen-lab-joins-international-program-for-hydrogen-appliance-testing",
+        "pubDate": "Thu, 04 Jun 2026 15:19:56 GMT",
         "description": "",
-        "title_cn": "Hazer在日本扩大专利保护范围"
+        "title_cn": "Dalhousie Hydrogen Lab加入国际氢能设备测试计划"
       },
       {
-        "title": "Green Hydrogen in Port-La-Nouvelle",
-        "link": "https://fuelcellsworks.com/2026/06/01/h2/green-hydrogen-in-port-la-nouvelle",
-        "pubDate": "Wed, 03 Jun 2026 14:59:36 GMT",
+        "title": "Moeve and PwC: Hydrogen and Biofuels Can Reduce Europe’s Fossil Fuel Imports",
+        "link": "https://fuelcellsworks.com/2026/06/04/electrolyzer/moeve-and-pwc-hydrogen-and-biofuels-can-reduce-europe-s-fossil-fuel-imports",
+        "pubDate": "Thu, 04 Jun 2026 15:19:23 GMT",
         "description": "",
-        "title_cn": "新港的绿色氢能"
+        "title_cn": "Moeve和普华永道：氢和生物燃料可以减少欧洲的化石燃料进口"
       },
       {
-        "title": "University of Aberdeen Spin-Out Pioneers Breakthrough Method to Produce Green Hydrogen From Seawater",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/university-of-aberdeen-spin-out-pioneers-breakthrough-method-to-produce-green-hydrogen-from-seawater",
-        "pubDate": "Wed, 03 Jun 2026 14:55:14 GMT",
+        "title": "Japan's Green Hydrogen Market Is a $16 Billion Bet on a Country That Can't Afford to Get Energy Wrong",
+        "link": "https://fuelcellsworks.com/2026/06/03/h2/japan-s-green-hydrogen-market-is-a-16-billion-bet-on-a-country-that-can-t-afford-to-get-energy-wrong",
+        "pubDate": "Thu, 04 Jun 2026 15:16:49 GMT",
         "description": "",
-        "title_cn": "阿伯丁大学衍生出从海水中生产绿色氢气的突破性方法"
+        "title_cn": "日本的绿色氢能市场是一个无法承受能源错误的国家160亿美元的赌注"
       },
       {
-        "title": "H2CRETE Valley Aims to Turn Crete Into Mediterranean Green Hydrogen and Ammonia Hub",
-        "link": "https://fuelcellsworks.com/2026/06/02/green-hydrogen/chatgpt-said-h2crete-valley-aims-to-turn-crete-into-mediterranean-green-hydrogen-and-ammonia-hub",
-        "pubDate": "Wed, 03 Jun 2026 14:47:34 GMT",
+        "title": "Hy-Hybrid Energy Publishes Landmark White Paper: Fuel Cells for Data Centres-Powering the AI Revolution Beyond the Grid",
+        "link": "https://fuelcellsworks.com/2026/06/04/energy-innovation/hy-hybrid-energy-publishes-landmark-white-paper-fuel-cells-for-data-centres-powering-the-ai-revolution-beyond-the-grid",
+        "pubDate": "Thu, 04 Jun 2026 15:11:16 GMT",
         "description": "",
-        "title_cn": "H2CRETE Valley旨在将克里特岛变成地中海绿色氢和氨中心"
+        "title_cn": "Hy-Hybrid Energy发布具有里程碑意义的白皮书：数据中心的燃料电池-推动电网以外的人工智能革命"
       },
       {
-        "title": "Le Mans Demonstration for Liquid Hydrogen-Fuelled TR LH2 Racing Prototype",
-        "link": "https://fuelcellsworks.com/2026/06/03/energy-innovation/le-mans-demonstration-for-liquid-hydrogen-fuelled-tr-lh2-racing-prototype",
-        "pubDate": "Wed, 03 Jun 2026 14:42:09 GMT",
+        "title": "Yangtze River Delta Hydrogen Corridor Gains Momentum as Lingniu, Tianneng and Proton Join Forces",
+        "link": "https://fuelcellsworks.com/2026/05/30/fuel-cells/yangtze-river-delta-hydrogen-corridor-gains-momentum-as-lingniu-tianneng-and-proton-join-forces",
+        "pubDate": "Thu, 04 Jun 2026 15:05:27 GMT",
         "description": "",
-        "title_cn": "液氢燃料TR LH2赛车原型的勒芒演示"
+        "title_cn": "长三角氢走廊势头强劲，岭牛、天能、质子联手"
       },
       {
-        "title": "H2Reallabor Castrop-Rauxel Enters Its Final Phase",
-        "link": "https://fuelcellsworks.com/2026/06/02/h2/h2reallabor-castrop-rauxel-enters-its-final-phase",
-        "pubDate": "Wed, 03 Jun 2026 14:35:11 GMT",
+        "title": "Paya Partners With Fourier on Hydrogen Long-Duration Energy Storage Project",
+        "link": "https://fuelcellsworks.com/2026/06/04/clean-energy/paya-partners-with-fourier-on-hydrogen-long-duration-energy-storage-project",
+        "pubDate": "Thu, 04 Jun 2026 15:03:56 GMT",
         "description": "",
-        "title_cn": "H2Reallabor Castrop-Rauxel进入最后阶段"
+        "title_cn": "PAYA与傅立叶合作开展氢气长期储能项目"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,16 +412,10 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
-        "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
-      },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHFJb0N3UjRHLWkwSXRzcDhMWVF1Z3k4TlNOMjVrVV8yVDhHeVZtVDFmMWpqLU1BalNOYk1CQ2tuZXhpRk4tTEdzUXdhWGx5SWh6NUlPZFp5WkJVLTZRaG42OGgxQTJyeEhjek9KTWRZdkZxUWItcEE1Q0pUUTQ4NQ?oc=5",
@@ -429,10 +423,22 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
+        "pubDate": "Sun, 31 May 2026 03:54:00 GMT",
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "pubDate": "Thu, 21 May 2026 03:41:00 GMT",
         "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
+      },
+      {
+        "title": "多用户绿电直连政策正式落地，绿电ETF华夏涨超2% - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdkRmMTJlVnJpTWNDRG56cUdUR3VIcEltcUpxb0JVeWZQRDlYWkViM0Z3TTloYk1SSm9hNG1ZU0VkS1JTSENGQ1NJNEVNX29tNXdkRVln?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连政策正式落地，绿电ETF华夏涨超2% &nbsp;&nbsp; QQ News"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -447,25 +453,19 @@
         "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
       },
       {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 06:51:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
         "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
-      },
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
-        "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
-        "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-04 16:48 UTC"
+    "updated": "2026-06-04 23:03 UTC"
   }
 }
