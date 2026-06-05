@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+        "link": "https://www.nature.com/articles/d41586-026-01831-y",
+        "pubDate": "2026-06-05",
+        "description": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01831-y Nature staff discuss some of the week’s top science news.",
+        "title_cn": "简报聊天：带有盐腺的棘龙可能生活在海洋环境中"
+      },
+      {
+        "title": "First precise genome editing of human embryos triggers praise and alarm",
+        "link": "https://www.nature.com/articles/d41586-026-01827-8",
+        "pubDate": "2026-06-05",
+        "description": "Nature, Published online: 05 June 2026; doi:10.1038/d41586-026-01827-8 The lead scientist on the use of ‘base editing’ in very early embryos say that the technique is far from ready for the clinic, but critics worry that the work will spur a rush to commercialization.",
+        "title_cn": "首次对人类胚胎进行精确的基因组编辑引发赞誉和警报"
+      },
+      {
         "title": "Europe is ditching US tech — what does this mean for researchers?",
         "link": "https://www.nature.com/articles/d41586-026-01610-9",
         "pubDate": "2026-06-05",
@@ -42,24 +56,10 @@
         "pubDate": "2026-06-04",
         "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01765-5 Interventions that included home visits and cash transfers led to more strapping infants in an Indian state.",
         "title_cn": "通过向父母付款，婴儿的出生体重得到改善"
-      },
-      {
-        "title": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise",
-        "link": "https://www.nature.com/articles/d41586-026-01789-x",
-        "pubDate": "2026-06-04",
-        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
-        "title_cn": "这种神秘的肺部疾病影响了数百万人—但在小鼠身上测试的药物显示出前景"
-      },
-      {
-        "title": "Science with military applications is cited more than civilian-only research",
-        "link": "https://www.nature.com/articles/d41586-026-01770-8",
-        "pubDate": "2026-06-04",
-        "description": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01770-8 Researchers analysed the scientific impact of dual-use research in US patent records and bibliometric databases.",
-        "title_cn": "与民用研究相比，引用军事应用科学的次数更多"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,69 +113,69 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "It’s Okay To Grab A Quick Granola Bar, Right? Sourcing Food For A Clean Climate",
+        "link": "https://cleantechnica.com/2026/06/05/its-okay-to-grab-a-quick-granola-bar-right-sourcing-food-for-a-clean-climate/",
+        "pubDate": "Fri, 05 Jun 2026 22:24:37 +0000",
+        "description": "Our diets are, to a large degree, the result of routine. We commute, so we grab a coffee and pastry or a granola bar. We quickly swallow a fast food lunch between meetings. We’re too tired at home late in the day to cook from scratch, so we’re grateful for ... [continued] The post It&#8217;s Okay To",
+        "title_cn": "您可以享用快捷的格兰诺拉麦片吧，对吧？为清洁的气候采购食物"
+      },
+      {
+        "title": "Jacking Up Electricity Prices So You Don’t Have To Think — SpaceX Edition",
+        "link": "https://cleantechnica.com/2026/06/05/jacking-up-electricity-prices-so-you-dont-have-to-think-spacex-edition/",
+        "pubDate": "Fri, 05 Jun 2026 21:06:08 +0000",
+        "description": "One of the stories of the year is the tremendously fast growing demand for electricity due to the insanely fast development of data centers for the whole AI Era of Wonder. In regions around the country, electricity prices are spiking because giant data centers need so much electricity to power ... [",
+        "title_cn": "抬高电价，让您无需思考— SpaceX版"
+      },
+      {
+        "title": "Gov. Polis Signs Bill Countering Expensive Federal Coal Plant Orders",
+        "link": "https://cleantechnica.com/2026/06/05/gov-polis-signs-bill-countering-expensive-federal-coal-plant-orders/",
+        "pubDate": "Fri, 05 Jun 2026 20:15:39 +0000",
+        "description": "Denver, CO — On Thursday Governor Polis signed into law HB26-1226 (Manage Emissions from Electric Generating Units), which requires more transparency on the costs incurred from running coal units past their retirement dates, directs the Public Utilities Commission (PUC) to approve new resources to h",
+        "title_cn": "波利斯州长签署反昂贵的联邦燃煤电厂订单法案"
+      },
+      {
+        "title": "Hyundai Scores Robotics PR Win, Shanks Ball On FIFA Transport Opportunity",
+        "link": "https://cleantechnica.com/2026/06/05/hyundai-scores-robotics-pr-win-shanks-ball-on-fifa-transport-opportunity/",
+        "pubDate": "Fri, 05 Jun 2026 18:54:01 +0000",
+        "description": "The 2026 FIFA World Cup is going to be one of the biggest global events of the decade — as all World Cups are. It&#8217;s estimated that a whopping 1.5 billion people tuned in to watch the final match of the 2022 World Cup, and approximately 5 billion people &#8220;engaged ... [continued] The post H",
+        "title_cn": "现代得分机器人公关获胜， Shanks球在国际足联运输机会"
+      },
+      {
+        "title": "Chinese NEV Resale Value Surges 30%, Volume Up 29%",
+        "link": "https://cleantechnica.com/2026/06/05/chinese-used-nev-resale-value-surges-30-volume-up-29/",
+        "pubDate": "Fri, 05 Jun 2026 18:08:18 +0000",
+        "description": "Chinese NEV (BEV and PHEV) resale values are up 30%, with Chinese media noting specific rises for BYD, Nio and Denza brands. Sales volume is also up 29% as more EVs become available on the used market. Used car dealers report scrambling to buy NEVs to resell. Meanwhile used gasoline ... [continued] ",
+        "title_cn": "中国新能源汽车转售价值飙升30% ，销量增长29%"
+      },
+      {
+        "title": "Panel Discussion with Hawaii’s Clean Energy Leaders",
+        "link": "https://cleantechnica.com/2026/06/05/panel-discussion-with-hawaiis-clean-energy-leaders/",
+        "pubDate": "Fri, 05 Jun 2026 17:13:31 +0000",
+        "description": "Hawaii is a fascinating story in the clean energy transition. Isolated, but with abundant natural resources, the islands have a unique blend of opportunity, incredibly high prices of electricity made by imported fuels, and a historic reliance on fossil fuels, the result of path dependency and short-",
+        "title_cn": "与夏威夷清洁能源领导者进行小组讨论"
+      },
+      {
+        "title": "Steel’s Future Starts With Demand, Scrap, And Electricity, Not Hydrogen",
+        "link": "https://cleantechnica.com/2026/06/05/steels-future-starts-with-demand-scrap-and-electricity-not-hydrogen/",
+        "pubDate": "Fri, 05 Jun 2026 16:44:14 +0000",
+        "description": "Steel keeps getting framed as a hydrogen problem because hydrogen gives the sector a single shiny lever. Replace coal with hydrogen, keep making new iron, plug it into an electric arc furnace, and declare victory somewhere around the ribbon-cutting ceremony. It is an attractive story for governments",
+        "title_cn": "钢铁的未来始于需求、废钢和电力，而不是氢气"
+      },
       {
         "title": "US Coal Plan Shamelessly Picks Energy Winners & Losers",
         "link": "https://cleantechnica.com/2026/06/05/us-coal-plan-shamelessly-picks-energy-winners-losers/",
         "pubDate": "Fri, 05 Jun 2026 16:05:03 +0000",
         "description": "Coal is the big winner in the energy sweepstakes as the US administration moves to shove expensive electricity down people's throats. The post US Coal Plan Shamelessly Picks Energy Winners &#038; Losers appeared first on CleanTechnica .",
         "title_cn": "美国煤炭计划无耻地挑选能源赢家和输家"
-      },
-      {
-        "title": "Human Teeth Are Not Particularly Well Adapted For Meat Eating",
-        "link": "https://cleantechnica.com/2026/06/05/human-teeth-are-not-particularly-well-adapted-for-meat-eating/",
-        "pubDate": "Fri, 05 Jun 2026 15:41:31 +0000",
-        "description": "My friend’s brother once told me we humans must eat meat because of the shape of our teeth, which he claimed are good for biting and chewing meat. I replied that we use our brains to make decisions about what to eat and teeth don’t make decisions. Is it true ... [continued] The post Human Teeth Are ",
-        "title_cn": "人类的牙齿并不特别适合吃肉"
-      },
-      {
-        "title": "Trump Doubles Down On Coal Power, Just In Time For The Midterms Elections",
-        "link": "https://cleantechnica.com/2026/06/05/coal-jobs-power-plants-trump-electricity-costs/",
-        "pubDate": "Fri, 05 Jun 2026 15:10:10 +0000",
-        "description": "If US President Donald Trump really wants to boost coal production, bring back coal jobs, and restore the US coal industry to its former glory -- oh, never mind. Seriously, he must be joking. The post Trump Doubles Down On Coal Power, Just In Time For The Midterms Elections appeared first on CleanTe",
-        "title_cn": "特朗普在煤炭发电方面加倍努力，正好赶上中期选举"
-      },
-      {
-        "title": "Reasons BYD Is Taking On Liability While Self-Driving And Tesla Isn’t",
-        "link": "https://cleantechnica.com/2026/06/05/reasons-byd-is-taking-on-liability-while-self-driving-and-tesla-isnt/",
-        "pubDate": "Fri, 05 Jun 2026 15:07:41 +0000",
-        "description": "We&#8217;ve had a few articles this week about BYD&#8217;s breakthrough decision to take on liability in the event of a crash when a BYD driver is using God&#8217;s Eye. A few of the comments under my article earlier this week were superb additions, though, and they seemed to deserve their ... [cont",
-        "title_cn": "比亚迪承担责任而自动驾驶和特斯拉不承担责任的原因"
-      },
-      {
-        "title": "What The — Who Is Buying All Those Subaru EVs?",
-        "link": "https://cleantechnica.com/2026/06/04/subaru-evs-us-sales-uncharted-solterra-trailseeker/",
-        "pubDate": "Fri, 05 Jun 2026 02:23:47 +0000",
-        "description": "Despite news of a pullback, Subaru of America launched the new Uncharted and Trailseeker EVs into the challenging US market in April, alongside its existing Solterra model. The post What The &#8212; Who Is Buying All Those Subaru EVs? appeared first on CleanTechnica .",
-        "title_cn": "什么—谁在购买所有这些斯巴鲁电动车？"
-      },
-      {
-        "title": "Citing Cleaner, Cheaper Alternatives, Colorado Regulators Deny Xcel Energy’s $2.9 Billion Gas System Plan",
-        "link": "https://cleantechnica.com/2026/06/04/citing-cleaner-cheaper-alternatives-colorado-regulators-deny-xcel-energys-2-9-billion-gas-system-plan/",
-        "pubDate": "Fri, 05 Jun 2026 00:50:01 +0000",
-        "description": "Denver, CO — Today the Colorado Public Utilities Commission (PUC) declined to approve much of Xcel Energy&#8217;s Gas Infrastructure Plan (GIP), which lays out the utility’s forecasted investments in methane gas infrastructure over the coming years. The PUC largely agreed with environmental groups t",
-        "title_cn": "科罗拉多州监管机构以更清洁、更便宜的替代品为由拒绝Xcel Energy的29亿美元天然气系统计划"
-      },
-      {
-        "title": "Low-Carbon Steel Credits in the EU Cars CO₂ Standards",
-        "link": "https://cleantechnica.com/2026/06/04/low-carbon-steel-credits-in-the-eu-cars-co%e2%82%82-standards/",
-        "pubDate": "Fri, 05 Jun 2026 00:41:31 +0000",
-        "description": "If designed properly, low-carbon steel credits under the EU car CO₂ standards can create a lead market for green steel produced in Europe. Given the automotive sector’s large steel demand and purchasing power, the mechanism could support the scale-up and commercialisation of green steel projects, st",
-        "title_cn": "欧盟汽车二氧化碳标准中的低碳钢信用额度"
-      },
-      {
-        "title": "AchiEVe 2026 Policy Guide Equips States & Communities to Advance Electric Transportation",
-        "link": "https://cleantechnica.com/2026/06/04/achieve-2026-policy-guide-equips-states-communities-to-advance-electric-transportation/",
-        "pubDate": "Fri, 05 Jun 2026 00:29:44 +0000",
-        "description": "Today, Sierra Club, the Electrification Coalition, Forth, Plug In America released the latest edition of the AchiEVe policy guide, a comprehensive resource designed to help advocates, policymakers, utilities, and community leaders accelerate the transition to electric transportation through proven s",
-        "title_cn": "AchiEVe 2026政策指南帮助各州和社区推进电力运输"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "South Korea and Canada Launch Natural Hydrogen and Helium Partnership",
-        "link": "https://fuelcellsworks.com/2026/06/03/h2/south-korea-and-canada-launch-natural-hydrogen-and-helium-partnership",
-        "pubDate": "Thu, 04 Jun 2026 15:20:28 GMT",
+        "title": "Procter & Gamble Partners on Saudi Arabia's First Self-Driving Hydrogen Truck",
+        "link": "https://fuelcellsworks.com/2026/06/05/clean-energy/procter-and-gamble-partners-on-saudi-arabia-s-first-self-driving-hydrogen-truck",
+        "pubDate": "Fri, 05 Jun 2026 15:39:25 GMT",
         "description": "",
-        "title_cn": "韩国和加拿大启动天然氢和氦伙伴关系"
+        "title_cn": "宝洁与合作伙伴推出沙特阿拉伯首款自动驾驶氢能卡车"
       },
       {
-        "title": "Dalhousie Hydrogen Lab Joins International Program for Hydrogen Appliance Testing",
-        "link": "https://fuelcellsworks.com/2026/06/04/energy-innovation/dalhousie-hydrogen-lab-joins-international-program-for-hydrogen-appliance-testing",
-        "pubDate": "Thu, 04 Jun 2026 15:19:56 GMT",
+        "title": "MB Energy Signs First Hamburg Ammonia Terminal Capacity Term Sheet",
+        "link": "https://fuelcellsworks.com/2026/06/05/clean-energy/mb-energy-signs-first-hamburg-ammonia-terminal-capacity-term-sheet",
+        "pubDate": "Fri, 05 Jun 2026 15:34:00 GMT",
         "description": "",
-        "title_cn": "Dalhousie Hydrogen Lab加入国际氢能设备测试计划"
+        "title_cn": "MB Energy签署首份汉堡氨终端产能条款表"
       },
       {
-        "title": "Moeve and PwC: Hydrogen and Biofuels Can Reduce Europe’s Fossil Fuel Imports",
-        "link": "https://fuelcellsworks.com/2026/06/04/electrolyzer/moeve-and-pwc-hydrogen-and-biofuels-can-reduce-europe-s-fossil-fuel-imports",
-        "pubDate": "Thu, 04 Jun 2026 15:19:23 GMT",
+        "title": "Netherlands: Watermeln Awarded as a Leader in Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/06/05/h2/netherlands-watermeln-awarded-as-a-leader-in-hydrogen",
+        "pubDate": "Fri, 05 Jun 2026 15:18:09 GMT",
         "description": "",
-        "title_cn": "Moeve和普华永道：氢和生物燃料可以减少欧洲的化石燃料进口"
+        "title_cn": "荷兰： Watermeln被评为氢能领域的领导者"
       },
       {
-        "title": "Japan's Green Hydrogen Market Is a $16 Billion Bet on a Country That Can't Afford to Get Energy Wrong",
-        "link": "https://fuelcellsworks.com/2026/06/03/h2/japan-s-green-hydrogen-market-is-a-16-billion-bet-on-a-country-that-can-t-afford-to-get-energy-wrong",
-        "pubDate": "Thu, 04 Jun 2026 15:16:49 GMT",
+        "title": "MODEC and Eld Energy Advance Low-Carbon FPSO Power With CCS Fuel Cell System",
+        "link": "https://fuelcellsworks.com/2026/06/05/clean-energy/modec-and-eld-energy-advance-low-carbon-fpso-power-with-ccs-fuel-cell-system",
+        "pubDate": "Fri, 05 Jun 2026 15:17:04 GMT",
         "description": "",
-        "title_cn": "日本的绿色氢能市场是一个无法承受能源错误的国家160亿美元的赌注"
+        "title_cn": "MODEC和ELD Energy Advance采用CCS燃料电池系统的低碳FPSO电源"
       },
       {
-        "title": "Hy-Hybrid Energy Publishes Landmark White Paper: Fuel Cells for Data Centres-Powering the AI Revolution Beyond the Grid",
-        "link": "https://fuelcellsworks.com/2026/06/04/energy-innovation/hy-hybrid-energy-publishes-landmark-white-paper-fuel-cells-for-data-centres-powering-the-ai-revolution-beyond-the-grid",
-        "pubDate": "Thu, 04 Jun 2026 15:11:16 GMT",
+        "title": "A Philippine Province Just Discovered It May Be Sitting on One of the World's Biggest Natural Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/06/03/green-hydrogen/a-philippine-province-just-discovered-it-may-be-sitting-on-one-of-the-world-s-biggest-natural-hydrogen",
+        "pubDate": "Fri, 05 Jun 2026 15:15:51 GMT",
         "description": "",
-        "title_cn": "Hy-Hybrid Energy发布具有里程碑意义的白皮书：数据中心的燃料电池-推动电网以外的人工智能革命"
+        "title_cn": "菲律宾的一个省刚刚发现它可能位于世界上最大的天然氢气之一"
       },
       {
-        "title": "Yangtze River Delta Hydrogen Corridor Gains Momentum as Lingniu, Tianneng and Proton Join Forces",
-        "link": "https://fuelcellsworks.com/2026/05/30/fuel-cells/yangtze-river-delta-hydrogen-corridor-gains-momentum-as-lingniu-tianneng-and-proton-join-forces",
-        "pubDate": "Thu, 04 Jun 2026 15:05:27 GMT",
+        "title": "Spain's Port of Alicante Greenlights €5M [$5.4M] Green Hydrogen Facility",
+        "link": "https://fuelcellsworks.com/2026/06/05/green-hydrogen/spain-s-port-of-alicante-greenlights-5m-5-4m-green-hydrogen-facility",
+        "pubDate": "Fri, 05 Jun 2026 15:07:22 GMT",
         "description": "",
-        "title_cn": "长三角氢走廊势头强劲，岭牛、天能、质子联手"
+        "title_cn": "西班牙阿利坎特港绿灯€ 500万[$ 540万]绿色氢设施"
       },
       {
-        "title": "Paya Partners With Fourier on Hydrogen Long-Duration Energy Storage Project",
-        "link": "https://fuelcellsworks.com/2026/06/04/clean-energy/paya-partners-with-fourier-on-hydrogen-long-duration-energy-storage-project",
-        "pubDate": "Thu, 04 Jun 2026 15:03:56 GMT",
+        "title": "Vireon Brings Mobile Hydrogen Refueling to Pilots and Temporary Use Cases in Finland",
+        "link": "https://fuelcellsworks.com/2026/06/05/hydrogen/vireon-brings-mobile-hydrogen-refueling-to-pilots-and-temporary-use-cases-in-finland",
+        "pubDate": "Fri, 05 Jun 2026 14:58:39 GMT",
         "description": "",
-        "title_cn": "PAYA与傅立叶合作开展氢气长期储能项目"
+        "title_cn": "Vireon为芬兰试点项目和临时用例提供移动加氢服务"
       },
       {
-        "title": "Hydrogen Sector Urges Double-Sided Auctions to Scale Clean Shipping Fuels",
-        "link": "https://fuelcellsworks.com/2026/06/04/h2/hydrogen-sector-urges-double-sided-auctions-to-scale-clean-shipping-fuels",
-        "pubDate": "Thu, 04 Jun 2026 15:00:24 GMT",
+        "title": "Weber GbR in Hamm Officially Commissions Hydrogen System",
+        "link": "https://fuelcellsworks.com/2026/06/05/energy-innovation/weber-gbr-in-hamm-officially-commissions-hydrogen-system",
+        "pubDate": "Fri, 05 Jun 2026 14:42:01 GMT",
         "description": "",
-        "title_cn": "氢能行业敦促进行双向拍卖，以扩大清洁运输燃料的规模"
+        "title_cn": "位于哈姆的Weber GBR正式调试氢能系统"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,10 +452,10 @@
         "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局召开民营企业座谈会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
+        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -470,20 +470,20 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "精心培育氢能未来产业 - 经济日报",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weVlkQzBTd1pET19yV2k3M21GeUFtTVhzcUIxdHpvZXhSZ3JtbGo0VThFV0xkM1FkdDJaZENvSXg5RTlCS2pyTTMwMFVmdEt5cUg3U2N0MVpPVzd1MnpvNG5ETWE0d2JEdmstVg?oc=5",
-        "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
-        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
-      },
-      {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "精心培育氢能未来产业 - 经济日报",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weVlkQzBTd1pET19yV2k3M21GeUFtTVhzcUIxdHpvZXhSZ3JtbGo0VThFV0xkM1FkdDJaZENvSXg5RTlCS2pyTTMwMFVmdEt5cUg3U2N0MVpPVzd1MnpvNG5ETWE0d2JEdmstVg?oc=5",
+        "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+        "description": "精心培育氢能未来产业 &nbsp;&nbsp; 经济日报"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,16 +512,16 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
-      },
-      {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
         "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-05 16:26 UTC"
+    "updated": "2026-06-05 23:00 UTC"
   }
 }
