@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-09",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "双电层",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>电极表面与电解质之间形成的正负电荷分离的界面层，影响活性位点微环境和反应物的吸附行为，是电催化研究的基础概念。",
+      "example": "<strong>举例：</strong>通过调控双电层中的阳离子种类（Li⁺、Na⁺、K⁺），可以改变CO₂电还原的产物分布；这一发现开辟了“电解质调控催化”的新方向。"
+    },
+    {
+      "id": 2,
+      "term": "MECE原则",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>相互独立、完全穷尽（Mutually Exclusive, Collectively Exhaustive），是咨询和分析工作的核心结构化思维工具。",
+      "example": "<strong>举例：</strong>分析氢能成本时，MECE分解：制氢成本＋储氢成本＋运氢成本＋用氢成本，四类不重叠不遗漏。"
+    },
+    {
+      "id": 3,
+      "term": "ESG",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>环境（Environment）、社会（Social）、公司治理（Governance）三维度评估企业可持续发展水平的框架，正成为全球投资者的核心筛选标准。",
+      "example": "<strong>举例：</strong>ESG评分高的企业可以获得养老金、指数基金等长期资本的青睐；国家能源集团提升ESG表现，有利于境外融资降低利率、提升国际品牌形象。"
+    },
+    {
+      "id": 4,
+      "term": "工业4.0",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>以物联网、AI、大数据、智能制造为核心的第四次工业革命，推动制造业向高度自动化、数字化、定制化转型。",
+      "example": "<strong>举例：</strong>西门子在德国安贝格工厂实现了工业4.0，75%的生产流程由机器自动处理，产品缺陷率不到0.001%；中国制氢装备制造业正在向这个方向迈进。"
+    },
+    {
+      "id": 5,
+      "term": "析氧反应",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>OER（Oxygen Evolution Reaction），电解水时阳极上水被氧化为氧气的半反应，是整体电解效率的速控步骤。",
+      "example": "<strong>举例：</strong>OER需转移4个电子，动力学比HER慢得多，导致阳极过电位更大；IrO₂和RuO₂是目前最优OER催化剂。"
+    }
+  ]
+}
