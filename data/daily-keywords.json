@@ -1,40 +1,40 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "keywords": [
     {
       "id": 1,
-      "term": "双电层",
+      "term": "绿色氨",
       "category": "化学",
-      "definition": "<strong>含义：</strong>电极表面与电解质之间形成的正负电荷分离的界面层，影响活性位点微环境和反应物的吸附行为，是电催化研究的基础概念。",
-      "example": "<strong>举例：</strong>通过调控双电层中的阳离子种类（Li⁺、Na⁺、K⁺），可以改变CO₂电还原的产物分布；这一发现开辟了“电解质调控催化”的新方向。"
+      "definition": "<strong>含义：</strong>以绿氢为原料，通过哈伯法合成的氨气，碳排放极低，既是化肥原料，也是氢能的高密度储运载体（液氨能量密度是液氢的4倍）。",
+      "example": "<strong>举例：</strong>日本计划进口澳大利亚和中东的绿色氨用于发电；绿色氨可直接在氨气轮机或船舶发动机中燃烧，是跨洲际绿氢运输最现实的方案之一。"
     },
     {
       "id": 2,
-      "term": "MECE原则",
-      "category": "管理",
-      "definition": "<strong>含义：</strong>相互独立、完全穷尽（Mutually Exclusive, Collectively Exhaustive），是咨询和分析工作的核心结构化思维工具。",
-      "example": "<strong>举例：</strong>分析氢能成本时，MECE分解：制氢成本＋储氢成本＋运氢成本＋用氢成本，四类不重叠不遗漏。"
+      "term": "单原子催化剂",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>将金属原子以单分散形式固定在载体上的催化剂，原子利用率100%，具有独特电子结构和配位环境，性能往往超过纳米颗粒催化剂。",
+      "example": "<strong>举例：</strong>单原子Pt/C催化剂HER质量活性可达传统Pt/C的10-100倍；单原子催化已成为Nature和Science的高频发表方向。"
     },
     {
       "id": 3,
-      "term": "ESG",
+      "term": "长尾理论",
       "category": "经济",
-      "definition": "<strong>含义：</strong>环境（Environment）、社会（Social）、公司治理（Governance）三维度评估企业可持续发展水平的框架，正成为全球投资者的核心筛选标准。",
-      "example": "<strong>举例：</strong>ESG评分高的企业可以获得养老金、指数基金等长期资本的青睐；国家能源集团提升ESG表现，有利于境外融资降低利率、提升国际品牌形象。"
+      "definition": "<strong>含义：</strong>互联网降低分销成本后，大量小众需求的总和可能超过主流热门需求，实体商店无法覆盖的“尾部”市场在网上可以被高效服务。",
+      "example": "<strong>举例：</strong>亚马逊80%的销售额来自于实体书店不会上架的“长尾书目”；氢能应用的“长尾”可能是化工、冶金、船舶等细分场景，总量不可忽视。"
     },
     {
       "id": 4,
-      "term": "工业4.0",
-      "category": "科技",
-      "definition": "<strong>含义：</strong>以物联网、AI、大数据、智能制造为核心的第四次工业革命，推动制造业向高度自动化、数字化、定制化转型。",
-      "example": "<strong>举例：</strong>西门子在德国安贝格工厂实现了工业4.0，75%的生产流程由机器自动处理，产品缺陷率不到0.001%；中国制氢装备制造业正在向这个方向迈进。"
+      "term": "标准化",
+      "category": "工程",
+      "definition": "<strong>含义：</strong>为工作流程、产品规格或行为建立统一规范，是规模化复制和质量稳定的前提，也是“好经验可推广”的基础。",
+      "example": "<strong>举例：</strong>麦当劳能在全球保持一致口感，核心是把炸薯条的温度、时间、用油量都写成标准操作手册；氢能行业亟需建立标准体系。"
     },
     {
       "id": 5,
-      "term": "析氧反应",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>OER（Oxygen Evolution Reaction），电解水时阳极上水被氧化为氧气的半反应，是整体电解效率的速控步骤。",
-      "example": "<strong>举例：</strong>OER需转移4个电子，动力学比HER慢得多，导致阳极过电位更大；IrO₂和RuO₂是目前最优OER催化剂。"
+      "term": "MXene",
+      "category": "材料",
+      "definition": "<strong>含义：</strong>二维过渡金属碳化物/氮化物材料，具有金属导电性和亲水表面，是储能和电催化的新型明星材料。",
+      "example": "<strong>举例：</strong>Ti₃C₂ MXene导电性接近铜，表面官能团丰富，可作为HER催化剂载体或直接参与催化，近三年相关论文数量呈指数增长。"
     }
   ]
 }
