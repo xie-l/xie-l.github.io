@@ -2,11 +2,32 @@
   "tech": {
     "items": [
       {
-        "title": "Online tool that flags suspicious journals could warn researchers before submission",
+        "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+        "link": "https://www.nature.com/articles/s41586-026-10784-1",
+        "pubDate": "2026-06-11",
+        "description": "Nature, Published online: 11 June 2026; doi:10.1038/s41586-026-10784-1 Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+        "title_cn": "作者更正：麻醉的人类海马体中的可塑性和语言"
+      },
+      {
+        "title": "Whale graveyard discovered 7km under the sea",
+        "link": "https://www.nature.com/articles/d41586-026-01886-x",
+        "pubDate": "2026-06-11",
+        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01886-x The treasure trove of fossils and bones has already revealed a new species of extinct whale.",
+        "title_cn": "在海底7公里处发现鲸鱼墓地"
+      },
+      {
+        "title": "My diverse academic background is affecting my PhD studies — what do I do?",
+        "link": "https://www.nature.com/articles/d41586-026-01129-z",
+        "pubDate": "2026-06-11",
+        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-z A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.",
+        "title_cn": "我多样化的学术背景正在影响我的博士研究—我该怎么办？"
+      },
+      {
+        "title": "Tool flags suspicious journals before researchers submit papers",
         "link": "https://www.nature.com/articles/d41586-026-01707-1",
         "pubDate": "2026-06-11",
         "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
-        "title_cn": "标记可疑期刊的在线工具可以在提交前警告研究人员"
+        "title_cn": "在研究人员提交论文之前，工具标记可疑期刊"
       },
       {
         "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
@@ -14,6 +35,13 @@
         "pubDate": "2026-06-11",
         "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2 As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.",
         "title_cn": "“足球运动员不是超级英雄” ：我们必须解决精英运动的精神和身体压力"
+      },
+      {
+        "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
+        "link": "https://www.nature.com/articles/d41586-026-01866-1",
+        "pubDate": "2026-06-11",
+        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1 Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.",
+        "title_cn": "本届世界杯可能是迄今为止最高科技的—值得关注的创新"
       },
       {
         "title": "Giant crustacean of the deep sea steals a trick from bacteria",
@@ -28,38 +56,10 @@
         "pubDate": "2026-06-10",
         "description": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01864-3 Submarine dives reveal complex deep-sea ecosystems living on whale remains — plus, a way to turn plant material into nylon.",
         "title_cn": "新发现的鲸鱼墓地可以追溯到数百万年前"
-      },
-      {
-        "title": "Structural basis for chaperone-guided assembly of RNA-induced silencing complex",
-        "link": "https://www.nature.com/articles/s41586-026-10640-2",
-        "pubDate": "2026-06-10",
-        "description": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10640-2 Structures of the AGO maturation complex reveal how chaperones and an RNA duplex drive assembly of the RNA-induced silencing complex.",
-        "title_cn": "RNA诱导沉默复合物伴侣引导组装的结构基础"
-      },
-      {
-        "title": "SIRT7 regulates dosage compensation and safeguards the female X&#xa0;chromosome",
-        "link": "https://www.nature.com/articles/s41586-026-10645-x",
-        "pubDate": "2026-06-10",
-        "description": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10645-x SIRT7 safeguards X-chromosome integrity and dosage balance with autosomes.",
-        "title_cn": "SIRT7调节剂量补偿并保护雌性X染色体"
-      },
-      {
-        "title": "A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone",
-        "link": "https://www.nature.com/articles/s41586-026-10546-z",
-        "pubDate": "2026-06-10",
-        "description": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10546-z Researchers uncovered an enormous deep-sea accumulation of whale remains in the southeastern Indian Ocean, showing long-term, specialized ecosystems and an extensive fossil record that offers new insight into deep-ocean biodivers",
-        "title_cn": "迪亚曼蒂纳区（ Diamantina Zone ） 530万年前的深海鲸鱼墓地"
-      },
-      {
-        "title": "Whole-genome duplication shaped cell-type evolution in the vertebrate brain",
-        "link": "https://www.nature.com/articles/s41586-026-10629-x",
-        "pubDate": "2026-06-10",
-        "description": "Nature, Published online: 10 June 2026; doi:10.1038/s41586-026-10629-x Analyses of brain single-cell transcriptomes from human, mouse, lizard, lamprey and amphioxus reveal that duplicated genes (ohnologues) played a pivotal part in early vertebrate cell-type diversification.",
-        "title_cn": "脊椎动物大脑中全基因组复制型细胞类型进化"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,16 +113,37 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "EVs At 35.2% Share In The UK – Tesla Leading BEV Brand",
+        "title": "US Solar Industry Needs Serious Permitting Reform, T1 Energy CEO Contends",
+        "link": "https://cleantechnica.com/2026/06/11/us-solar-industry-needs-serious-permitting-reform-t1-energy-ceo-contends/",
+        "pubDate": "Thu, 11 Jun 2026 16:30:19 +0000",
+        "description": "In the &#8220;this was news a decade ago&#8221; category, T1 Energy CEO Dan Barcelo is hammering home a key point for the US solar power industry. The solar industry has one big problem in the United States compared to other major markets — permitting. With cuts in subsidies and net ... [continued] ",
+        "title_cn": "T1能源首席执行官认为，美国太阳能行业需要认真的许可改革"
+      },
+      {
+        "title": "Wrightbus Shows Hydrogen Bus Hype Turning Into An Electric Bus Business",
+        "link": "https://cleantechnica.com/2026/06/11/wrightbus-hydrogen-bus-story-electric-bus-business/",
+        "pubDate": "Thu, 11 Jun 2026 15:45:33 +0000",
+        "description": "A hydrogen bus fire in Crawley should not be turned into a simple hydrogen-cause story. That would be sloppy, and the investigation needs to run its course. But it is a useful hook for the real transit lesson: a small hydrogen fleet can create a large operational support problem, and ... [continued]",
+        "title_cn": "Wrightbus展示氢能公交车炒作转变为电动公交车业务"
+      },
+      {
+        "title": "Wall Street Analyst Claims Tesla Has Achieved “Level 4” Self-Driving",
+        "link": "https://cleantechnica.com/2026/06/11/wall-street-analyst-claims-tesla-has-achieved-level-4-self-driving/",
+        "pubDate": "Thu, 11 Jun 2026 15:42:46 +0000",
+        "description": "There&#8217;s no doubt about it — Tesla Full Self Driving (FSD), still &#8220;Supervised,&#8221; is much better today than it was a year or two ago. It has gotten much better over time, even if it did take several years longer than Elon Musk expected. But whether it is now &#8220;Level ... [continue",
+        "title_cn": "华尔街分析师声称特斯拉已实现“4级”自动驾驶"
+      },
+      {
+        "title": "EVs At 35.2% Share In The UK — Tesla Leading BEV Brand",
         "link": "https://cleantechnica.com/2026/06/11/evs-at-35-2-share-in-the-uk-tesla-leading-bev-brand/",
         "pubDate": "Thu, 11 Jun 2026 09:52:58 +0000",
         "description": "The first quarter of 2026 saw plugin EVs at 35.2% share in the UK, up from 30.0% in Q1 2025. BEV share grew modestly year on year (YoY), whilst PHEV grew more. Overall Q1 auto volume was 614,854 units, up some 6% YoY. Tesla was the best-selling BEV brand in ... [continued] The post EVs At 35.2% Shar",
-        "title_cn": "电动汽车在英国的份额为35.2% –特斯拉领先的BEV品牌"
+        "title_cn": "电动汽车在英国的份额为35.2% —特斯拉领先的BEV品牌"
       },
       {
         "title": "2027 Chevy Bolt Test Drive Impressions",
@@ -151,31 +172,10 @@
         "pubDate": "Thu, 11 Jun 2026 03:47:09 +0000",
         "description": "European companies are developing the next generation of disruptive aircraft. Zero-emission and hybrid-powered aircraft (ZEHA) can help bring aviation closer to decarbonised flying, while strengthening Europe’s industrial competitiveness and technological leadership. By using renewable electricity a",
         "title_cn": "欧洲如何引领下一代航班"
-      },
-      {
-        "title": "In the US, Cars Need Visas Too",
-        "link": "https://cleantechnica.com/2026/06/10/in-the-us-cars-need-visas-too/",
-        "pubDate": "Thu, 11 Jun 2026 03:40:09 +0000",
-        "description": "Imagine this scene: The line at the border stretched for miles. Cars idled nervously, their engines humming like anxious hearts. Above the checkpoint, a new sign gleamed in bureaucratic glory: “Protecting America from Chinese Cars Act — Effective Immediately.” A customs officer stood behind a glass ",
-        "title_cn": "在美国，汽车也需要签证"
-      },
-      {
-        "title": "VinFast Brings Battery-Swapping Electric Motorcycles To The Philippines",
-        "link": "https://cleantechnica.com/2026/06/10/vinfast-brings-battery-swapping-electric-motorcycles-to-the-philippines/",
-        "pubDate": "Thu, 11 Jun 2026 01:48:20 +0000",
-        "description": "ASoutheast Asia Expansion Accelerates on Two Wheels Less than a month after opening reservations for the same models in Indonesia, VinFast has introduced its battery-swapping electric motorcycle lineup to the Philippines, signaling a faster-than-expected rollout of the Vietnamese company&#8217;s two",
-        "title_cn": "VinFast为菲律宾带来更换电池的电动摩托车"
-      },
-      {
-        "title": "New Report: Global Banks Financed Fossil Fuels with $8.7 Trillion Since the Paris Agreement, $906 Billion in 2025 Alone",
-        "link": "https://cleantechnica.com/2026/06/10/new-report-global-banks-financed-fossil-fuels-with-8-7-trillion-since-the-paris-agreement-906-billion-in-2025-alone/",
-        "pubDate": "Thu, 11 Jun 2026 01:47:23 +0000",
-        "description": "JPMorgan Chase and Bank of America are the world’s top two fossil fuel funders. NEW YORK, NY — The 17th edition of the Banking on Climate Chaos (BOCC) report released today finds that the world’s 65 largest banks committed $906 billion to fossil fuel companies in 2025, an increase of 8% from the pre",
-        "title_cn": "新报告：自《巴黎协定》以来，全球银行为化石燃料融资8.7万亿美元，仅2025年就达到9060亿美元"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N2Rxay1OQ3M4T2ZMa1NOZFdGRHB0TnR5SE8yRGNuWWc3c29Lb3hfMENtT3JTbnRUMEd2cmhpclFvdXR3eERfQjRFeXl5S0VSdFlvWm12RVpGZzFudWlNemM5aDJKbDNEaWtxY21JQQ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 10:21:53 GMT",
+        "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
+      },
       {
         "title": "聚力氢能创新 国内氢能产业迎跨越式发展契机 - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vR1Q0X1Z5UnJaVEZZd3ppVXRyYVhiaTkwM3MzVlJVX3BkMWFleV9GQmN2Ym9DbFJ0eDFDX1pncnE1NWU2Q2tSYWpONUxmWlotWDRXb2h3?oc=5",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
-      },
-      {
-        "title": "“下一代能源核心”！机构预测9只氢能股业绩高增长 - 证券时报",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUDA2YlFwZ2gyRHpDX3NPenRtb0ZRYmhjZVNlNEpnUzBhMm82NGRKZU9RblJzWnpuUEVmbVBKUTlQZk9pbzdVd01XcDB2blVyOHpycjJod0puc0NT?oc=5",
-        "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-        "description": "“下一代能源核心”！机构预测9只氢能股业绩高增长 &nbsp;&nbsp; 证券时报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "papers": {
     "items": [
@@ -429,15 +429,15 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局召开民营企业座谈会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
+        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问 - 国际氢能网",
@@ -446,16 +446,16 @@
         "description": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFJVTEVSVDJhVlAwTkh1Ull6WjJHNklfUjJTdlBYN3hfOVlPSlg2WjY5V3QweDVVd0xTZ0xXUzhZN1VNUkRWSi1oeVdhME4xY21XZWxkWGE4TzB0NTlQbXdkdUxFazZCUzIzU3c3MUdZcHJkN3RTcVRfZEE3VnBvdmYwV1lqanc?oc=5",
+        "pubDate": "Tue, 02 Jun 2026 22:00:00 GMT",
+        "description": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -464,34 +464,34 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
+        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "国家能源局5位司长密集为氢能“发声” - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnek15bjBWME9FYm92R3pXQW9mMGxKdlQ0NlBqa0RzVHQwS0VSYnNjbXRCcWV0MzVHeGNqRHVJUUpJQVlyRmxaWHpCOFVpM3N2akxuanVR?oc=5",
         "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
         "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
-      },
-      {
-        "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFJVTEVSVDJhVlAwTkh1Ull6WjJHNklfUjJTdlBYN3hfOVlPSlg2WjY5V3QweDVVd0xTZ0xXUzhZN1VNUkRWSi1oeVdhME4xY21XZWxkWGE4TzB0NTlQbXdkdUxFazZCUzIzU3c3MUdZcHJkN3RTcVRfZEE3VnBvdmYwV1lqanc?oc=5",
-        "pubDate": "Tue, 02 Jun 2026 22:00:00 GMT",
-        "description": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 &nbsp;&nbsp; Sina finance"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
+        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
+        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36Kr"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -500,10 +500,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
+        "pubDate": "Fri, 24 Apr 2026 16:25:04 GMT",
+        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
@@ -518,10 +518,10 @@
         "description": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -530,13 +530,13 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
+        "title": "五部委：鼓励有条件的工厂建设工业绿色微电网 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-11 11:19 UTC"
+    "updated": "2026-06-11 17:33 UTC"
   }
 }
