@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
+        "link": "https://www.nature.com/articles/d41586-026-01876-z",
+        "pubDate": "2026-06-12",
+        "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.",
+        "title_cn": "我在人工智能方面为梵蒂冈和联合国提供建议—不要将教皇的信息视为神学"
+      },
+      {
         "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
         "link": "https://www.nature.com/articles/s41586-026-10784-1",
         "pubDate": "2026-06-11",
@@ -47,19 +54,12 @@
         "title": "Revealed: how Venus flytraps snap shut with astonishing speed",
         "link": "https://www.nature.com/articles/d41586-026-01857-2",
         "pubDate": "2026-06-11",
-        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01857-2 Softening of the cells on the outermost suface of the trap lets the plant move at a breakneck pace.",
+        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01857-2 Softening of the cells on the outermost surface of the trap lets the plant move at a breakneck pace.",
         "title_cn": "揭晓：金星捕蝇器如何以惊人的速度突然关闭"
-      },
-      {
-        "title": "Giant crustacean of the deep sea steals a trick from bacteria",
-        "link": "https://www.nature.com/articles/d41586-026-01832-x",
-        "pubDate": "2026-06-10",
-        "description": "Nature, Published online: 10 June 2026; doi:10.1038/d41586-026-01832-x Organisms called bathynomids boast a bacterial gene that helps them to regulate their metabolism in the cold depths.",
-        "title_cn": "深海巨型甲壳类动物从细菌中窃取技巧"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "tech_cn": {
     "items": [
@@ -91,7 +91,7 @@
         "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
         "link": "https://36kr.com/p/3849431503869187?f=rss",
         "pubDate": "2026-06-12 08:04:29  +0800",
-        "description": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元上市"
+        "description": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球���大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元"
       },
       {
         "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "CleanTechnica’s first Sustainability Expo & Electric Home Show",
+        "link": "https://cleantechnica.com/2026/06/12/cleantechnicas-first-sustainability-expo-electric-home-show/",
+        "pubDate": "Fri, 12 Jun 2026 10:19:14 +0000",
+        "description": "CleanTechnica produced the first ever Electric Home Show at the Blaisdell Expo Hall in Honolulu, HI, in April this year. It was&#8230;fun AF. As sustainability truly is. There were about 75 eco-friendly vendors ranging from EV / hybrid repair shops to ebike vendors to farm-to-table restaurants to so",
+        "title_cn": "CleanTechnica首届可持续发展博览会和电动家居展"
+      },
       {
         "title": "Waymo Premier — Ah, This Is Where The Company’s Headed!",
         "link": "https://cleantechnica.com/2026/06/11/waymo-premier-ah-this-is-where-the-companys-headed/",
@@ -165,20 +172,20 @@
         "pubDate": "Fri, 12 Jun 2026 00:31:17 +0000",
         "description": "Almost 12 years ago, I wrote about the fast adoption of small-scale solar power in Bangladesh. A couple years later, I got to talk with an expert and leader in the industry. It was an interesting and inspiring story, but apparently it didn&#8217;t continue and grow as fast as desired. ... [continued",
         "title_cn": "孟加拉国太阳能行业的0%税率！ ……"
-      },
-      {
-        "title": "Lynk & Co Introduces Model Year 2027 Update for the 02",
-        "link": "https://cleantechnica.com/2026/06/11/lynk-co-introduces-model-year-2027-update-for-the-02/",
-        "pubDate": "Thu, 11 Jun 2026 21:53:49 +0000",
-        "description": "Lynk &#38; Co is introducing the Model Year 2027 (MY27) update for the Lynk &#38; Co 02, bringing a series of targeted enhancements based on customer feedback and everyday usage. The update focuses on improving comfort, usability and in-car experience, while maintaining the core design and performan",
-        "title_cn": "Lynk & Co推出2027年款02的更新"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Industrial overcapacity can enable seasonal flexibility in electricity use",
+        "link": "https://www.nature.com/articles/s41560-026-02073-y",
+        "pubDate": "2026-06-12",
+        "description": "Nature Energy, Published online: 12 June 2026; doi:10.1038/s41560-026-02073-y Lyu et al. show that industrial overcapacity, long viewed as a burden, can be repurposed. Using China’s aluminium sector as an example, they demonstrate that excess capacity and material storage can provide seasonal flexib",
+        "title_cn": "工业产能过剩可以实现电力使用的季节性灵活性"
+      },
       {
         "title": "Watching catalysis take a walk",
         "link": "https://www.nature.com/articles/s41560-026-02089-4",
@@ -227,31 +234,24 @@
         "pubDate": "2026-05-27",
         "description": "Nature Energy, Published online: 27 May 2026; doi:10.1038/s41560-026-02082-x Controlling phase separation",
         "title_cn": "控制相分离"
-      },
-      {
-        "title": "Flowing hot and cold",
-        "link": "https://www.nature.com/articles/s41560-026-02083-w",
-        "pubDate": "2026-05-27",
-        "description": "Nature Energy, Published online: 27 May 2026; doi:10.1038/s41560-026-02083-w Flowing hot and cold",
-        "title_cn": "冷热流淌"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "瓦锡兰启动全球首个大型100%氢燃料发动机并网验证 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iWWZUeWJGZ01QRE5ZN096bGwzY3I4TmYwSGRWMFEtZmI2QnZoQ2NCa2JWbEhQakUxRmI4aXRyaUpxYXRxdkJaME40c3FLd2k1eXZybVJB?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 10:02:05 GMT",
+        "description": "瓦锡兰启动全球首个大型100%氢燃料发动机并网验证 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
       {
         "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N2Rxay1OQ3M4T2ZMa1NOZFdGRHB0TnR5SE8yRGNuWWc3c29Lb3hfMENtT3JTbnRUMEd2cmhpclFvdXR3eERfQjRFeXl5S0VSdFlvWm12RVpGZzFudWlNemM5aDJKbDNEaWtxY21JQQ?oc=5",
         "pubDate": "Thu, 11 Jun 2026 10:21:53 GMT",
         "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
-      },
-      {
-        "title": "聚力氢能创新 国内氢能产业迎跨越式发展契机 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vR1Q0X1Z5UnJaVEZZd3ppVXRyYVhiaTkwM3MzVlJVX3BkMWFleV9GQmN2Ym9DbFJ0eDFDX1pncnE1NWU2Q2tSYWpONUxmWlotWDRXb2h3?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 11:55:02 GMT",
-        "description": "聚力氢能创新 国内氢能产业迎跨越式发展契机 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国氢科技亮相国际氢能与燃料电池汽车大会 - zgjtb.com",
@@ -264,6 +264,12 @@
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "聚力氢能创新 国内氢能产业迎跨越式发展契机 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vR1Q0X1Z5UnJaVEZZd3ppVXRyYVhiaTkwM3MzVlJVX3BkMWFleV9GQmN2Ym9DbFJ0eDFDX1pncnE1NWU2Q2tSYWpONUxmWlotWDRXb2h3?oc=5",
+        "pubDate": "Wed, 10 Jun 2026 11:55:02 GMT",
+        "description": "聚力氢能创新 国内氢能产业迎跨越式发展契机 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国内首个电氢混合储能示范项目并网 信然压缩机助力内蒙古化德打造新型电力系统样板 - 中华网",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
         "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
         "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,6 +452,12 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
+        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFJVTEVSVDJhVlAwTkh1Ull6WjJHNklfUjJTdlBYN3hfOVlPSlg2WjY5V3QweDVVd0xTZ0xXUzhZN1VNUkRWSi1oeVdhME4xY21XZWxkWGE4TzB0NTlQbXdkdUxFazZCUzIzU3c3MUdZcHJkN3RTcVRfZEE3VnBvdmYwV1lqanc?oc=5",
         "pubDate": "Tue, 02 Jun 2026 22:00:00 GMT",
@@ -470,12 +476,6 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
-        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "国家能源局5位司长密集为氢能“发声” - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnek15bjBWME9FYm92R3pXQW9mMGxKdlQ0NlBqa0RzVHQwS0VSYnNjbXRCcWV0MzVHeGNqRHVJUUpJQVlyRmxaWHpCOFVpM3N2akxuanVR?oc=5",
         "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-12 06:28 UTC"
+    "updated": "2026-06-12 10:57 UTC"
   }
 }
