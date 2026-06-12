@@ -2,11 +2,39 @@
   "tech": {
     "items": [
       {
+        "title": "Why we seek to fly: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-01911-z",
+        "pubDate": "2026-06-12",
+        "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01911-z Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "我们为什么寻求飞行：书籍简介"
+      },
+      {
+        "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+        "link": "https://www.nature.com/articles/d41586-026-01912-y",
+        "pubDate": "2026-06-12",
+        "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01912-y Nature staff discuss some of the week’s top science news.",
+        "title_cn": "简报聊天：巨石阵中心石的史诗之旅"
+      },
+      {
         "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
         "link": "https://www.nature.com/articles/d41586-026-01876-z",
         "pubDate": "2026-06-12",
         "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01876-z The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed.",
         "title_cn": "我在人工智能方面为梵蒂冈和联合国提供建议—不要将教皇的信息视为神学"
+      },
+      {
+        "title": "Humans outperform AI at this highly rigorous mathematics test",
+        "link": "https://www.nature.com/articles/d41586-026-01888-9",
+        "pubDate": "2026-06-12",
+        "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01888-9 A new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise.",
+        "title_cn": "在这个高度严格的数学测试中，人类的表现优于人工智能"
+      },
+      {
+        "title": "An innovative technology boosts image quality for protein structures",
+        "link": "https://www.nature.com/articles/d41586-026-01858-1",
+        "pubDate": "2026-06-12",
+        "description": "Nature, Published online: 12 June 2026; doi:10.1038/d41586-026-01858-1 After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins.",
+        "title_cn": "创新技术提高蛋白质结构的图像质量"
       },
       {
         "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
@@ -28,41 +56,19 @@
         "pubDate": "2026-06-11",
         "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01129-z A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up.",
         "title_cn": "我多样化的学术背景正在影响我的博士研究—我该怎么办？"
-      },
-      {
-        "title": "Tool flags suspicious journals before researchers submit papers",
-        "link": "https://www.nature.com/articles/d41586-026-01707-1",
-        "pubDate": "2026-06-11",
-        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01707-1 The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications.",
-        "title_cn": "在研究人员提交论文之前，工具标记可疑期刊"
-      },
-      {
-        "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
-        "link": "https://www.nature.com/articles/d41586-026-01865-2",
-        "pubDate": "2026-06-11",
-        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01865-2 As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge.",
-        "title_cn": "“足球运动员不是超级英雄” ：我们必须解决精英运动的精神和身体压力"
-      },
-      {
-        "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
-        "link": "https://www.nature.com/articles/d41586-026-01866-1",
-        "pubDate": "2026-06-11",
-        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01866-1 Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded with teams.",
-        "title_cn": "本届世界杯可能是迄今为止最高科技的—值得关注的创新"
-      },
-      {
-        "title": "Revealed: how Venus flytraps snap shut with astonishing speed",
-        "link": "https://www.nature.com/articles/d41586-026-01857-2",
-        "pubDate": "2026-06-11",
-        "description": "Nature, Published online: 11 June 2026; doi:10.1038/d41586-026-01857-2 Softening of the cells on the outermost surface of the trap lets the plant move at a breakneck pace.",
-        "title_cn": "揭晓：金星捕蝇器如何以惊人的速度突然关闭"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报｜SpaceX确定发行价，募资750亿美元创史上最大IPO；OpenAI CEO奥特曼推迟访韩计划；中央网信办举报中心开设“涉AI应用乱象举报专区”",
+        "link": "https://36kr.com/p/3849942472512769?f=rss",
+        "pubDate": "2026-06-12 21:15:02  +0800",
+        "description": "大公司： OpenAI CEO奥特曼推迟访韩计划 据报道，OpenAI首席执行官山姆·奥特曼因个人原因推迟访韩计划。奥特曼原定于14日至15日访韩，会见三星电子、Kakao、NAVER等企业负责人。 Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划 当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Premier30美元月费会员计划，会员可享受优先接送、每次行程10%的乘车返现（以乘车积分形式返还）、在新城市优先体验Waymo服务以及每月最多五次免费取消行程等权益。Waymo表示，最初将通过应用程序和电子邮件向美国旧金山"
+      },
       {
         "title": "神秘失窃案背后，比亚迪如何“驯服”泰国工厂？｜深氪lite",
         "link": "https://36kr.com/p/3846882883963139?f=rss",
@@ -91,7 +97,7 @@
         "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
         "link": "https://36kr.com/p/3849431503869187?f=rss",
         "pubDate": "2026-06-12 08:04:29  +0800",
-        "description": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球���大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元"
+        "description": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价格跳水 SpaceX上市前夕，美股太空股提前狂欢 TOP 3 大新闻 SpaceX上市在即，马斯克或成全球首位万亿富翁 据报道，SpaceX将于美东时间6月12日在纳斯达克挂牌交易，股票代码SPCX。根据SpaceX 6月11日在官网发布的声明，公司此次IPO发行5.556亿股，发行价为每股135美元，募资总额达750亿美元。SpaceX此次IPO募资规模是沙特阿美2019年创下的294亿美元上市"
       },
       {
         "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
@@ -104,24 +110,46 @@
         "link": "https://36kr.com/p/3848564910036229?f=rss",
         "pubDate": "2026-06-11 17:24:11  +0800",
         "description": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+数字娱乐行业一年一度的线下交汇点——这里有最新的产品、最先锋的趋势，更聚集了一群想改变行业的年轻人和创业者，在这里你能摸到这个行业最真实的脉搏。 作为ChinaJoy Vision Future 前沿科技展区的战略合作伙伴，以及ChinaJoy AI未来生态大会的战略合作伙伴，36氪游戏与ChinaJoy 联合打造「ChinaJoy Vision Future 前沿科技展区 × 36氪直播间」，将"
-      },
-      {
-        "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
-        "link": "https://36kr.com/p/3848476414792709?f=rss",
-        "pubDate": "2026-06-11 15:53:52  +0800",
-        "description": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域与低空出行领域。 这一新品类的推出，切中低空经济在消费端的产品空白。据摩根士丹利的预测，全球低空经济市场规模将在2030年突破2万亿美元，其中水域飞行是一个具备消费潜力的细分场景，但此前市场上缺乏面向普通消费者的量产产品。 坦途科技此次选择的“地效贴水飞行”形态，旨在通过技术手段降低个人飞行的准入和操作门槛。 在产品设计上，WaveFly 5X采用双串翼式布局与航空级碳纤维机身。由于其基于地效原理"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "CleanTechnica’s first Sustainability Expo & Electric Home Show",
+        "title": "Mercedes-Benz Unveils New Luxury EV Design Details…In Arizona",
+        "link": "https://cleantechnica.com/2026/06/12/luxury-ev-merces-benz-glc-suv-us-arizona/",
+        "pubDate": "Fri, 12 Jun 2026 16:07:50 +0000",
+        "description": "With the forthcoming GLC electric SUV, Mercedes-Benz is among the automakers anticipating healthy demand in the US luxury EV market, despite the sharp u-turn in federal energy policy. The post Mercedes-Benz Unveils New Luxury EV Design Details&#8230;In Arizona appeared first on CleanTechnica .",
+        "title_cn": "梅赛德斯-奔驰在亚利桑那州推出全新豪华电动汽车设计细节……"
+      },
+      {
+        "title": "Carney’s Alberta Pipeline Deal Is Strategy, Not A Funded Pipeline",
+        "link": "https://cleantechnica.com/2026/06/12/carney-alberta-pipeline-deal-not-funded/",
+        "pubDate": "Fri, 12 Jun 2026 15:32:37 +0000",
+        "description": "The new Alberta pipeline deal should be read as political strategy first and infrastructure second, if second at all. Prime Minister Mark Carney gets something real from it: a “Canada is open for business” signal, a trade-diversification pathway to point at, and a way to undercut opponents who want ",
+        "title_cn": "卡尼的阿尔伯塔管道交易是战略，而不是资金管道"
+      },
+      {
+        "title": "3,000 Ultrafast EV Chargers Planned For Europe — Just From BYD",
+        "link": "https://cleantechnica.com/2026/06/12/3000-ultrafast-ev-chargers-planned-for-europe-just-from-byd/",
+        "pubDate": "Fri, 12 Jun 2026 14:26:26 +0000",
+        "description": "BYD is planning to install 3,000 new &#8220;Flash&#8221; EV chargers in Europe by 2027. These are ultrafast chargers that can charge an EV in about 5 minutes, depending on the EV model. About 600 of the new chargers will be installed in the UK. Apparently, the new chargers will be ... [continued] Th",
+        "title_cn": "3000台超快电动汽车充电桩计划在欧洲上市—仅比亚迪"
+      },
+      {
+        "title": "Yet Another Red State Solar Cell Factory Will Drink Trump’s Milkshake",
+        "link": "https://cleantechnica.com/2026/06/12/solar-cells-georgia-factory-qcells-domestic-content/",
+        "pubDate": "Fri, 12 Jun 2026 13:36:45 +0000",
+        "description": "With the addition of on-site solar cell fabrication, the US branch of Qcells has achieved full, vertical, Made-in-the-USA status for its solar factory in Cartersville, Georgia (cropped, courtesy of Qcells). The post Yet Another Red State Solar Cell Factory Will Drink Trump&#8217;s Milkshake appeared",
+        "title_cn": "另一家红州太阳能电池工厂将饮用特朗普的奶昔"
+      },
+      {
+        "title": "CleanTechnica’s First Sustainability Expo & Electric Home Show",
         "link": "https://cleantechnica.com/2026/06/12/cleantechnicas-first-sustainability-expo-electric-home-show/",
         "pubDate": "Fri, 12 Jun 2026 10:19:14 +0000",
-        "description": "CleanTechnica produced the first ever Electric Home Show at the Blaisdell Expo Hall in Honolulu, HI, in April this year. It was&#8230;fun AF. As sustainability truly is. There were about 75 eco-friendly vendors ranging from EV / hybrid repair shops to ebike vendors to farm-to-table restaurants to so",
+        "description": "CleanTechnica produced the first ever Electric Home Show at the Blaisdell Expo Hall in Honolulu, HI, in April this year. It was &#8230; fun AF. As sustainability truly is. There were about 75 eco-friendly vendors ranging from EV/hybrid repair shops to ebike vendors to farm-to-table restaurants to so",
         "title_cn": "CleanTechnica首届可持续发展博览会和电动家居展"
       },
       {
@@ -144,38 +172,10 @@
         "pubDate": "Fri, 12 Jun 2026 03:50:29 +0000",
         "description": "Geely is a brand to watch as it storms the barricades of the rEVolution. Geely owns many other brands, but the focus in this article is one brand, and one particular model: the Geely Xingyuan, recently launched in Australia as the Geely EX2. According to CleanTechnica’s Jose Pontes in his ... [conti",
         "title_cn": "吉利EX2 —目前澳大利亚只有一个！"
-      },
-      {
-        "title": "Balcony Solar Bill Moving Forward in California",
-        "link": "https://cleantechnica.com/2026/06/11/balcony-solar-bill-moving-forward-in-california/",
-        "pubDate": "Fri, 12 Jun 2026 03:43:39 +0000",
-        "description": "&#8220;Balcony solar&#8221; has been one of the more popular stories of the past year. More and more locations are allowing plug-and-play solar. No need for a permit. No need to wait for months to install solar. No need for a solar installer at all. You just plug in your solar ... [continued] The po",
-        "title_cn": "加利福尼亚州阳台太阳能账单向前推进"
-      },
-      {
-        "title": "Draft Guidelines on State Aid to the Air Transport Sector — T&E Consultation Response",
-        "link": "https://cleantechnica.com/2026/06/11/draft-guidelines-on-state-aid-to-the-air-transport-sector-te-consultation-response/",
-        "pubDate": "Fri, 12 Jun 2026 03:42:50 +0000",
-        "description": "As Europe transitions to sustainable energy alternatives and away from fossil fuel dependence, the aviation sector and airports must follow. As described in our response to the Aviation Strategy, airports form an important part of the aviation transition. Not only must airports themselves reduce the",
-        "title_cn": "国家援助航空运输部门指导方针草案--T&E咨询响应"
-      },
-      {
-        "title": "Why GM Will Focus On Sodium-Ion Batteries For Energy Storage",
-        "link": "https://cleantechnica.com/2026/06/11/why-gm-will-focus-on-sodium-ion-batteries-for-energy-storage/",
-        "pubDate": "Fri, 12 Jun 2026 03:40:19 +0000",
-        "description": "GM announced this week a partnership with Peak 'Energy that will bring sodium-ion battery technology to more energy storage facilities. The post Why GM Will Focus On Sodium-Ion Batteries For Energy Storage appeared first on CleanTechnica .",
-        "title_cn": "为什么通用汽车将专注于钠离子电池的储能"
-      },
-      {
-        "title": "0% Tax Rate for Solar Power Sector! … in Bangladesh",
-        "link": "https://cleantechnica.com/2026/06/11/0-tax-rate-for-solar-power-sector-in-bangladesh/",
-        "pubDate": "Fri, 12 Jun 2026 00:31:17 +0000",
-        "description": "Almost 12 years ago, I wrote about the fast adoption of small-scale solar power in Bangladesh. A couple years later, I got to talk with an expert and leader in the industry. It was an interesting and inspiring story, but apparently it didn&#8217;t continue and grow as fast as desired. ... [continued",
-        "title_cn": "孟加拉国太阳能行业的0%税率！ ……"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 05:09:21 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
       {
         "title": "瓦锡兰启动全球首个大型100%氢燃料发动机并网验证 - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iWWZUeWJGZ01QRE5ZN096bGwzY3I4TmYwSGRWMFEtZmI2QnZoQ2NCa2JWbEhQakUxRmI4aXRyaUpxYXRxdkJaME40c3FLd2k1eXZybVJB?oc=5",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUi1GYzFUN2NraUFfVFFwODdqZzJaSURKRmREVmUySmQ1R0hCTWxaS3NjM0ZyenlnT3FNdzVLX3JkMC1YZmJCWDJTeXFJSXhtd0Z2eGtxM0VGTnY1aFAxWGNjcFhTcnQ5aU9Bd2k1RjAxOTdlUWtNU29ZMnY3YVBEdQ?oc=5",
-        "pubDate": "Mon, 08 Dec 2025 08:00:00 GMT",
-        "description": "迈向“电—氢—碳”耦合的新型能源体系 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,16 +452,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
-        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
-        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
-      },
-      {
-        "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - 新浪财经",
+        "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - Sina finance",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFJVTEVSVDJhVlAwTkh1Ull6WjJHNklfUjJTdlBYN3hfOVlPSlg2WjY5V3QweDVVd0xTZ0xXUzhZN1VNUkRWSi1oeVdhME4xY21XZWxkWGE4TzB0NTlQbXdkdUxFazZCUzIzU3c3MUdZcHJkN3RTcVRfZEE3VnBvdmYwV1lqanc?oc=5",
         "pubDate": "Tue, 02 Jun 2026 22:00:00 GMT",
-        "description": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 &nbsp;&nbsp; 新浪财经"
+        "description": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 &nbsp;&nbsp; Sina finance"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -476,6 +470,12 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
+        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
+        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "国家能源局5位司长密集为氢能“发声” - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnek15bjBWME9FYm92R3pXQW9mMGxKdlQ0NlBqa0RzVHQwS0VSYnNjbXRCcWV0MzVHeGNqRHVJUUpJQVlyRmxaWHpCOFVpM3N2akxuanVR?oc=5",
         "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
@@ -483,16 +483,10 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
@@ -534,9 +528,15 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
         "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
         "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
+      },
+      {
+        "title": "从 “绿电直供” 到 “隔墙售电”：为光能源固态变压器的破局逻辑与实践 - 碳索储能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRU1xWGVheURqZkVGTVBvY2dYSXhManpDd01sQXpOOTI0blItTUgtekg0SHA3blE5c1VCTWVDYzFndDJOQnZaQ2V6VWFoLUlaTllUblVrWDhDRTVKaEhV?oc=5",
+        "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
+        "description": "从 “绿电直供” 到 “隔墙售电”：为光能源固态变压器的破局逻辑与实践 &nbsp;&nbsp; 碳索储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-12 10:57 UTC"
+    "updated": "2026-06-12 16:39 UTC"
   }
 }
