@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Aviation Fuel Demand Doesn’t Collapse. Cheap Kerosene Growth Does.",
+        "link": "https://cleantechnica.com/2026/06/13/aviation-fuel-demand-doesnt-collapse-cheap-kerosene-growth-does/",
+        "pubDate": "Sat, 13 Jun 2026 14:33:27 +0000",
+        "description": "Aviation is one of the harder transition sectors to model well because it invites two bad shortcuts. One is to assume that flying keeps growing as it did in the cheap-kerosene era, with a cleaner molecule somehow dropped into the same demand curve. The other is to assume that decarbonization ... [co",
+        "title_cn": "航空燃料需求不会崩溃。廉价的煤油增长确实如此。"
+      },
       {
         "title": "Most Efficient Solar Module in the World — New Record",
         "link": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 13 Jun 2026 01:40:44 +0000",
         "description": "Search should ensure pension mandates are awarded only to firms with credible climate-risk management and responsible stewardship. NEW YORK, NY — New York City Comptroller Mark Levine and trustees of the City’s five public pension systems today announced a search for asset managers to provide passiv",
         "title_cn": "塞拉俱乐部欢迎纽约市养老金资产经理搜索，敦促强有力的气候问责制"
-      },
-      {
-        "title": "Hawaii University Nearly 100% Solar Powered",
-        "link": "https://cleantechnica.com/2026/06/12/hawaii-university-nearly-100-solar-powered/",
-        "pubDate": "Sat, 13 Jun 2026 00:52:25 +0000",
-        "description": "A university in Hawaii is launching into phase two of a big solar project on its campus, and when completed, it should mean that the university is getting 100% of its electric from solar power. Actually, the clean solar electricity will go even beyond that. The university is Brigham Young ... [conti",
-        "title_cn": "夏威夷大学近100%太阳能供电"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,16 +272,16 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
         "title": "国内首个电氢混合储能示范项目并网 信然压缩机助力内蒙古化德打造新型电力系统样板 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02UGFOeXAzZVBvNF95d2JaUTNSRmRIdlhvb2ZhWERBQXNOU0dSbk1DMTRCWDBkRk95UjVCaVNveDgzSV9yYzB2NlhJOUdqVWV0eDdTSHRidk5NYVRWUC1LRTg3OTl0SVBKeldrOQ?oc=5",
         "pubDate": "Wed, 10 Jun 2026 01:29:37 GMT",
         "description": "国内首个电氢混合储能示范项目并网 信然压缩机助力内蒙古化德打造新型电力系统样板 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "迈向“电—氢—碳”耦合的新型能源体系 - 人民日报",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -476,23 +476,17 @@
         "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       },
       {
-        "title": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFJVTEVSVDJhVlAwTkh1Ull6WjJHNklfUjJTdlBYN3hfOVlPSlg2WjY5V3QweDVVd0xTZ0xXUzhZN1VNUkRWSi1oeVdhME4xY21XZWxkWGE4TzB0NTlQbXdkdUxFazZCUzIzU3c3MUdZcHJkN3RTcVRfZEE3VnBvdmYwV1lqanc?oc=5",
-        "pubDate": "Tue, 02 Jun 2026 22:00:00 GMT",
-        "description": "权威发布 | 国家能源局聚焦风光氢储等领域，支持民营企业开展能源科技创新 &nbsp;&nbsp; Sina finance"
+        "title": "中信证券：政策预期再升温，氢能迎产业化拐点 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUkJXakRSYnhfWEl1U0ZmV1BKUVdtMEV5bjQwbWtVNkM0UEZZT3VPeW1scmVkX2c5dG8wRE5HMWhpOG80Y2NqdmtYOWFBOVBRSGVYdERsV3VERTA4M2hNUmtyWW1ZNmtFdVYtcV9YVXVNaUg3My1wSENMTGNVcHp2Q1BxUGx4MDdDSUtzOFRtUlJpMlJIOG5LVVphRG5TcVZwYlQwMXFXeng5WmFUanl3eWFxUzNENHFvTHJhWGdlMlgwYjN0VVlfU2p0LTdHUm9UcnJDMldYaHFjWm8yMWJOM0hINzc1bUl6NUdlNUQ4U2ZRbVpUQ3V4VDVTS1VRQTlxNHZfcm5LWWRXVkZjaVpsbFBkbjZuV01tY2hmNFVVR3VlcEhhVDJZMTFVVFljeVVIUlpLcWM1d1dhRDYweE5LYUsxOGxVbHYtYWs0NVczbUVzNW9CcGFEWERGZkczQnNBa0hYWlZ6YWg5SENILWpkRjVOUGRVWkh4SUREYmRLdUlQNWZVRDZnYzlkUDhYNmc1OFkyMmhqQUdZN2taLUM0dXBUMjZhcEFreFhQX2JpYkFSQW8?oc=5",
+        "pubDate": "Thu, 04 Jun 2026 12:45:47 GMT",
+        "description": "中信证券：政策预期再升温，氢能迎产业化拐点 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; Sina finance"
-      },
       {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
@@ -534,9 +528,15 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQTludEluUkxVTDdtclRwVm1YWXRnWVFTeDVUNjNLX2wzRmR3amQ4bEVmazB0UGZJc0FkN2NCMXdzcDVjcGlyQkZnRjkzYXRrTER0VHc2OFVYWjVnMkRPYVZtQnc5em1Y?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
         "description": "五部委：鼓励有条件的工厂建设工业绿色微电网 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-13 09:53 UTC"
+    "updated": "2026-06-13 15:27 UTC"
   }
 }
