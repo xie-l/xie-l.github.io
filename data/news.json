@@ -9,6 +9,27 @@
         "title_cn": "走向用于疾病管理的对话式人工智能"
       },
       {
+        "title": "Freezing brain damage in its tracks: cooling drugs limit stroke injury in mice",
+        "link": "https://www.nature.com/articles/d41586-026-01923-9",
+        "pubDate": "2026-06-17",
+        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01923-9 A two-drug combination induces hypothermia in mice by lowering metabolism and dilating blood vessels.",
+        "title_cn": "冻结脑损伤：降温药物限制小鼠中风损伤"
+      },
+      {
+        "title": "Fiery data hint that controlled forest fires benefit human health",
+        "link": "https://www.nature.com/articles/d41586-026-01868-z",
+        "pubDate": "2026-06-17",
+        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-z Analysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution.",
+        "title_cn": "火热的数据暗示，受控森林火灾有益于人类健康"
+      },
+      {
+        "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
+        "link": "https://www.nature.com/articles/d41586-026-01870-5",
+        "pubDate": "2026-06-17",
+        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01870-5 Having a greater tissue volume in some parts of the cerebellum is linked to higher scores on cognitive tests.",
+        "title_cn": "可以在老年时提供认知“水库”的大脑区域"
+      },
+      {
         "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
         "link": "https://www.nature.com/articles/d41586-026-01941-7",
         "pubDate": "2026-06-17",
@@ -35,31 +56,10 @@
         "pubDate": "2026-06-17",
         "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge",
         "title_cn": "通过双曲极化子探测皮米尺度的层间变形"
-      },
-      {
-        "title": "Optical fibre gripper for high-performance 3D micromanipulation",
-        "link": "https://www.nature.com/articles/s41586-026-10673-7",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10673-7 A miniature three-dimensional optical fibre gripper enables powerful, precise micromanipulation of particles and single cells in confined spaces, bridging the gap between optical and mechanical tweezers.",
-        "title_cn": "用于高性能3D显微操作的光纤夹具"
-      },
-      {
-        "title": "A prototype differential atom interferometer for fundamental physics",
-        "link": "https://www.nature.com/articles/s41586-026-10617-1",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10617-1 A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.",
-        "title_cn": "用于基础物理学的原型差分原子干涉仪"
-      },
-      {
-        "title": "Structure of the pre-initiation complex explains CMGE biogenesis",
-        "link": "https://www.nature.com/articles/s41586-026-10657-7",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10657-7 Cryo-electron microscopy and biochemical reconstitution experiments in yeast provide insight into the assembly of the CMGE complex, a helicase that establishes bidirectional DNA replication in eukaryotic cells, and elucidate the ",
-        "title_cn": "起始前复合物的结构解释了CMGE的生物发生"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,38 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Self-Own #837: High Tech Hydropower Transmission Trips Up Trump’s Fossil Fuel Fantasy",
+        "link": "https://cleantechnica.com/2026/06/17/hydropower-transmission-new-york-energy-policy/",
+        "pubDate": "Wed, 17 Jun 2026 22:30:36 +0000",
+        "description": "Hitachi Energy's new HVDC Light® technology is at work behind the scenes of a massive new hydropower transmission line connecting New York City to Canada. The post Self-Own #837: High Tech Hydropower Transmission Trips Up Trump&#8217;s Fossil Fuel Fantasy appeared first on CleanTechnica .",
+        "title_cn": "自有# 837 ：高科技水力输电攀升特朗普的化石燃料幻想"
+      },
+      {
+        "title": "New Most Efficient Solar Panels, Turning Ocean Water into Drinking Water — Top Stories of the Week",
+        "link": "https://cleantechnica.com/2026/06/17/new-most-efficient-solar-panels-turning-ocean-water-into-drinking-water-top-stories-of-the-week/",
+        "pubDate": "Wed, 17 Jun 2026 18:00:48 +0000",
+        "description": "It&#8217;s time for another rundown of the most popular stories of the past week here on CleanTechnica. Take a look below at what grabbed people&#8217;s interest, and then also see the various CleanTechnica originals we published in the past week. Most Efficient Solar Module in the World — New Recor",
+        "title_cn": "新型高效太阳能电池板，将海水转化为饮用水—本周热门故事"
+      },
+      {
+        "title": "Jackery FridgeGuard Takes Stylish, Customer-Centric Design to Refrigerator Backup Battery",
+        "link": "https://cleantechnica.com/2026/06/17/jackery-fridgeguard-takes-stylish-customer-centric-design-to-refrigerator-backup-battery/",
+        "pubDate": "Wed, 17 Jun 2026 17:39:39 +0000",
+        "description": "Jackery launched its stylish, slim FridgeGuard CleanTechnica was given an exclusive preview of the FridgeGuard a couple of months ago and we came away impressed with what we saw. Clear attention was given to design the refrigerator backup battery to fit customer needs and the refrigerator applicatio",
+        "title_cn": "Jackery FridgeGuard将时尚、以客户为中心的设计应用于冰箱备用电池"
+      },
+      {
+        "title": "Is Being Transparent The Best Approach To Fighting Food Disinformation?",
+        "link": "https://cleantechnica.com/2026/06/17/is-being-transparent-the-best-approach-to-fighting-food-disinformation/",
+        "pubDate": "Wed, 17 Jun 2026 17:32:31 +0000",
+        "description": "Clinton Monchuk, executive director of Farm and Food Care Saskatchewan, is trying to persuade Canadian farmers to share more information about their growing practices in order to dispel misinformation that is circulating on social media. Monchuk states, &#8220;It&#8217;s just telling the truth and b",
+        "title_cn": "保持透明是打击食品虚假信息的最佳方法吗？"
+      },
       {
         "title": "DOJ Rushes To Help xAI Pollute The Skies Over Mississippi",
         "link": "https://cleantechnica.com/2026/06/17/doj-rushes-to-help-xai-pollute-the-skies-over-mississippi/",
@@ -144,38 +172,10 @@
         "pubDate": "Wed, 17 Jun 2026 14:09:21 +0000",
         "description": "The energy-as-a-service company Budderfly has partnered with Viridi to add battery energy storage systems at some of the commercial sites it manages. Budderfly provides energy-efficient equipment, measuring and billing technology, virtual power plants, smart technology monitoring, and more. Typicall",
         "title_cn": "100个电池储能系统将安装在商业场地"
-      },
-      {
-        "title": "Europe’s Sovereignty Budget",
-        "link": "https://cleantechnica.com/2026/06/16/europes-sovereignty-budget/",
-        "pubDate": "Wed, 17 Jun 2026 03:25:53 +0000",
-        "description": "Imagine if Europe chose to spend a half a trillion a year on a dependency that benefits regimes which wish it harm. We don’t have to imagine it. We are doing it right now. By Ariel Brunner, Regional Director, BirdLife Europe and Central Asia, Chiara Martinelli, Director, Climate Action Network Europ",
-        "title_cn": "欧洲主权预算"
-      },
-      {
-        "title": "The EU Must Reset The Narrative On Vehicle Electrification, Says Broad Coalition Of Industry Groups And Civil Society",
-        "link": "https://cleantechnica.com/2026/06/16/the-eu-must-reset-the-narrative-on-vehicle-electrification-says-broad-coalition-of-industry-groups-and-civil-society/",
-        "pubDate": "Wed, 17 Jun 2026 03:03:56 +0000",
-        "description": "In a letter to EU leaders, the group says that rather than lowering ambition, Europe must focus on accelerating electrification. To: Heads of State or Government of the European Union, Dear Heads of State or Government of the European Union, We, a broad coalition representing non-governmental organi",
-        "title_cn": "行业团体和民间社会的广泛联盟表示，欧盟必须重新调整对车辆电气化的叙述"
-      },
-      {
-        "title": "Solar Manufacturing Capex in the USA Exploded from $150 Million in 2020 to $2.5 Billion in 2026",
-        "link": "https://cleantechnica.com/2026/06/16/solar-manufacturing-capex-in-the-usa-exploded-from-150-million-in-2020-to-2-5-billion-in-2026/",
-        "pubDate": "Tue, 16 Jun 2026 23:53:37 +0000",
-        "description": "In another example of how much US solar manufacturing has gone from small potatoes to a giant industry since Joe Biden took office in 2021, here&#8217;s a whopper of a stat: solar manufacturing capex in the USA has exploded from $150 million in 2020 to an estimated $2.5 billion in ... [continued] Th",
-        "title_cn": "美国太阳能制造业资本支出从2020年的1.5亿美元激增至2026年的25亿美元"
-      },
-      {
-        "title": "BYD Taking Responsibility Increases God’s Eye Use & Makes Vehicles Safer",
-        "link": "https://cleantechnica.com/2026/06/16/byd-taking-responsibility-increases-gods-eye-use-makes-vehicles-safer/",
-        "pubDate": "Tue, 16 Jun 2026 20:44:31 +0000",
-        "description": "Last month, BYD announced full damage guarantee for “Urban NOA,” or city driving, on LiDAR equipped cars that have been delivered with their latest 5.0 software or have received the OTA update. This comes in addition to fully covering “intelligent parking” using the advanced ADAS system. BYD indicat",
-        "title_cn": "比亚迪承担责任增加了上帝的眼睛的使用，使车辆更安全"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,12 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "hydrogen": {
-    "items": [
-      {
-        "title": "Riga Airport Tests Hydrogen Technologies for Aerodrome Maintenance Operations",
-        "link": "https://fuelcellsworks.com/2026/06/16/fuel-cells/riga-airport-tests-hydrogen-technologies-for-aerodrome-maintenance-operations",
-        "pubDate": "Tue, 16 Jun 2026 16:15:37 GMT",
-        "description": "",
-        "title_cn": "里加机场测试用于机场维护运营的氢能技术"
-      },
-      {
-        "title": "SFC Energy AG Demonstrates Innovative Power Solutions for Military Vehicle Platforms at Eurosatory",
-        "link": "https://fuelcellsworks.com/2026/06/16/energy-innovation/sfc-energy-ag-demonstrates-innovative-power-solutions-for-military-vehicle-platforms-at-eurosatory",
-        "pubDate": "Tue, 16 Jun 2026 16:04:24 GMT",
-        "description": "",
-        "title_cn": "SFC Energy AG在Eurosatory展示军用车辆平台的创新动力解决方案"
-      },
-      {
-        "title": "The European Hydrogen Industry Asks the EU Commission to Improve the Hydrogen Bank",
-        "link": "https://fuelcellsworks.com/2026/06/14/h2/the-european-hydrogen-industry-asks-the-eu-commission-to-improve-the-hydrogen-bank",
-        "pubDate": "Tue, 16 Jun 2026 15:52:15 GMT",
-        "description": "",
-        "title_cn": "欧洲氢气行业要求欧盟委员会改善氢气库"
-      },
-      {
-        "title": "Oman's GUtech Opens a 3D-Printed Hydrogen Lab",
-        "link": "https://fuelcellsworks.com/2026/06/16/clean-hydrogen/oman-s-gutech-opens-a-3d-printed-hydrogen-lab",
-        "pubDate": "Tue, 16 Jun 2026 15:38:35 GMT",
-        "description": "",
-        "title_cn": "阿曼GUtech开设3D打印氢气实验室"
-      },
-      {
-        "title": "Amogy and KOWA Form Partnership to Provide Ammonia Cracking-Based Hydrogen Supply in Japan",
-        "link": "https://fuelcellsworks.com/2026/06/16/hydrogen/amogy-and-kowa-form-partnership-to-provide-ammonia-cracking-based-hydrogen-supply-in-japan",
-        "pubDate": "Tue, 16 Jun 2026 15:31:25 GMT",
-        "description": "",
-        "title_cn": "Amogy与KOWA达成合作伙伴关系，在日本提供基于氨裂解的氢气供应"
-      },
-      {
-        "title": "Fraunhofer Institute Awarded the Joseph Von Fraunhofer Prize for Electrolyzer and Fuel Cell in One",
-        "link": "https://fuelcellsworks.com/2026/06/11/clean-energy/fraunhofer-institute-awarded-the-joseph-von-fraunhofer-prize-for-electrolyzer-and-fuel-cell-in-one",
-        "pubDate": "Tue, 16 Jun 2026 15:21:30 GMT",
-        "description": "",
-        "title_cn": "弗劳恩霍夫研究所荣获约瑟夫·冯·弗劳恩霍夫电解槽和燃料电池一体化奖"
-      },
-      {
-        "title": "RINA Secures Safety Assessment Contract for Indonesia’s H2WATT Hydrogen Hub",
-        "link": "https://fuelcellsworks.com/2026/06/16/hydrogen/rina-secures-safety-assessment-contract-for-indonesia-s-h2watt-hydrogen-hub",
-        "pubDate": "Tue, 16 Jun 2026 15:18:56 GMT",
-        "description": "",
-        "title_cn": "RINA获得印尼H2WATT氢能枢纽的安全评估合同"
-      },
-      {
-        "title": "Denmark's 15-Billion-Kroner ($2.3Bn) Hydrogen Gamble: Build the Pipe to Germany, or Watch the North Sea Dream Stall",
-        "link": "https://fuelcellsworks.com/2026/06/16/clean-energy/denmark-s-15-billion-kroner-2-3bn-hydrogen-gamble-build-the-pipe-to-germany-or-watch-the-north-sea-dream-stall",
-        "pubDate": "Tue, 16 Jun 2026 15:12:30 GMT",
-        "description": "",
-        "title_cn": "丹麦150亿克朗（ $ 23亿）的氢能赌博：建造通往德国的管道，或观看北海梦幻摊位"
-      }
-    ],
+    "items": [],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +372,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +426,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,10 +443,10 @@
         "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 凤凰网"
       },
       {
-        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
         "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -537,6 +480,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-17 16:51 UTC"
+    "updated": "2026-06-17 23:18 UTC"
   }
 }
