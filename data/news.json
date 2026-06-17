@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Should nicotine be regulated like a narcotic? A Pacific nation makes the case",
+        "link": "https://www.nature.com/articles/d41586-026-01903-z",
+        "pubDate": "2026-06-17",
+        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01903-z Existing global efforts to reduce harms caused by smoking have targeted tobacco smoking, but vapes containing nicotine are also harmful.",
+        "title_cn": "尼古丁应该像麻醉剂一样被调节吗？一个太平洋国家证明了这一点"
+      },
+      {
         "title": "Author Correction: Ontogeny and transcriptional regulation of Thetis cells",
         "link": "https://www.nature.com/articles/s41586-026-10770-7",
         "pubDate": "2026-06-16",
@@ -49,20 +56,43 @@
         "pubDate": "2026-06-16",
         "description": "Nature, Published online: 16 June 2026; doi:10.1038/d41586-026-01884-z Influencers and ultra-rich people looking to extend their lifespan are trading tips and tricks on how to eke out extra years.",
         "title_cn": "科技巨头正在以更长的寿命侵入他们的身体：他们的方法背后是否有科学依据？"
-      },
-      {
-        "title": "Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
-        "link": "https://www.nature.com/articles/s41586-026-10768-1",
-        "pubDate": "2026-06-15",
-        "description": "Nature, Published online: 15 June 2026; doi:10.1038/s41586-026-10768-1 Nanocrystal-tailored recombination for all-perovskite tandem solar modules",
-        "title_cn": "全钙钛矿串联太阳能模块的纳米晶定制重组"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "监管称“山姆存在食品安全问题”后，山姆中国 CMO 张青辞职",
+        "link": "https://36kr.com/p/3856751835976706?f=rss",
+        "pubDate": "2026-06-17 14:29:32  +0800",
+        "description": "文｜ 彭倩、 任彩茹&nbsp; 编辑 ｜乔芊 处于舆论漩涡中的山姆迎来了新的人事调整。 36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。对此，沃尔玛中国回应称：“衷心感谢她在任职期间对山姆业务作出的卓越贡献，并诚挚祝愿她在未来一切顺利。目前我们正在全球范围内积极物色继任人选。过渡期间，Neil Maffey将出任代理山姆会员商店首席采购官。Neil曾于2013-2017年间担任山姆首席采购官，卸任后长期担任公司全职顾问至今。” 本周一，市场监管总局发文称，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日对沃尔玛（中国）投资有限公司（"
+      },
+      {
+        "title": "硬氪专访 | 罗剑岚：机器人真正的Scaling Law，发生在真实部署闭环里",
+        "link": "https://36kr.com/p/3856871787189252?f=rss",
+        "pubDate": "2026-06-17 14:14:08  +0800",
+        "description": "作者&nbsp;|&nbsp;邱晓芬 编辑&nbsp;|&nbsp;袁斯来 过去半年，国内具身智能赛道经历了一场静悄悄的重心转移：聚光灯从硬件本体的“自由度竞赛”，逐渐移向决定机器人智能上限的深水区。 只是，当行业反复讨论“机器人能否通过暴力堆数据复刻大语言模型 ScalingLaw”时，上海创智学院副教授、智元机器人首席科学家罗剑岚，给出了一个并不随大流的判断：具身智能不能简单照搬大语言模型的发展路径。 罗剑岚的表达风格极具辨识度。他习惯在中英文专业术语之间快速切换，逻辑推进密集，很少给出模糊的折中答案。 相比停留在“数据、模型、Infra哪个更重要”的单点争论上，他更倾向于直接指出问题本身"
+      },
+      {
+        "title": "36氪首发 | 中科大博士做量子赛道“卖水人”，连续融资两轮",
+        "link": "https://36kr.com/p/3856755190551811?f=rss",
+        "pubDate": "2026-06-17 12:14:27  +0800",
+        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，中性原子量子计算平台级核心供应商——太微量子（MQTEK）已连续完成天使轮、天使+轮融资。投资方包括英诺天使、东方嘉富、小苗朗程、云启资本、水木投资、远东远至等知名投资机构，慕石资本担任独家财务顾问。融资资金将主要用于三大核心产品矩阵的扩产与研发。 太微量子成立于2021年，专注于中性原子与离子阱两条量子计算路线的上游核心部件。团队成员来自中国科学技术大学、清华大学、浙江大学等国内外高校，聚集了量子、AI、光学、机械、硬件等各领域的前沿人才。创始人兼CEO王宣恺为中科大量子信息与量子物理方向博士，曾开发过显微镜、电流源、激光器等多款精密仪器。 王宣恺告诉硬氪"
+      },
+      {
+        "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
+        "link": "https://36kr.com/p/3826129009234824?f=rss",
+        "pubDate": "2026-06-17 09:00:00  +0800",
+        "description": "文｜王毓婵 编辑｜张雨忻 2026 年以来，一级市场对世界模型的抢筹进入白热化阶段。资金不再像早期那样“广撒网”，而是高度向头部玩家集中。这其中，逆矩阵科技（Physis）就接连完成了多轮融资。 36氪智能涌现独家据悉，世界模型公司逆矩阵科技已完成超亿美元种子++轮融资；此前的 3 月，刚完成了超千万美元首轮融资。本轮由经纬创投、五源资本、光合创投等机构共同参与，并获蚂蚁集团战略投资，老股东高瓴创投、燕缘创投持续加注。 在本轮融资落定前后，逆矩阵发布了通用世界基座模型Physis-v0.1，并将其概括为“One For All”的通用物理世界应用。该模型主打物理正确、长程一致、动作因果、通用泛"
+      },
+      {
+        "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+        "link": "https://36kr.com/p/3856525981275138?f=rss",
+        "pubDate": "2026-06-17 08:22:06  +0800",
+        "description": "今日热点导览 山姆中国变更董事长 海康威视7月1日上调硬盘价 5月份全球纯电和插电式混动汽车销量连续三个月增长 美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票 传苹果首款折叠屏将延期发布，产业链人士：假的 TOP 3 大新闻 连涨3天，SpaceX超越亚马逊跻身全球前五 6月16日，SpaceX开盘迅速拉升，涨幅一度扩大至17%，市值一度超越微软，盘中总市值触及2.94万亿美元，跃居世界第四大市值公司，而第三名的苹果市值为4.37万亿美元。截至收盘，SpaceX股价收涨4.8%，市值达到2.65万亿美元，较亚马逊高出约80亿美元。上市以来，SpaceX已累计飙升49%。这家刚刚"
+      },
       {
         "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
         "link": "https://36kr.com/p/3855879311823873?f=rss",
@@ -80,43 +110,34 @@
         "link": "https://36kr.com/p/3855262364488969?f=rss",
         "pubDate": "2026-06-16 16:31:50  +0800",
         "description": "文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真"
-      },
-      {
-        "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-        "link": "https://36kr.com/p/3853918856696834?f=rss",
-        "pubDate": "2026-06-16 16:28:55  +0800",
-        "description": "作者&nbsp;|&nbsp;黄楠 编辑&nbsp;|&nbsp;袁斯来 在创业者中，OBSBOT寻影CEO刘博已经是个“老人”了。 2016年，刘博浙大毕业就到深圳创业。不管是当初还是现在，在高调的“天才少年”创业者中，刘博履历都算不上特别耀眼。 他没有太多感性的故事分享。唯一一段难忘的经历，就是2019年时，因为产品定义出问题滞销，公司账户钱只够几个月，裁掉砍掉一半，相关业务暂停。那是他印象中最安静的一个冬天。 转机出现在2020年。居家办公常态化下，会议常用的Webcam需求暴增。刘博发现，市面上常见的摄像头都是固定式，而人在家里不会一直正襟危坐——会动、会起身、会改变姿势。他决定做一款"
-      },
-      {
-        "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
-        "link": "https://36kr.com/p/3855082873476102?f=rss",
-        "pubDate": "2026-06-16 07:56:18  +0800",
-        "description": "今日热点导览 国内品牌金饰价格普涨 小红书公布世界杯开赛数据 阿里巴巴达摩院退出旗下科技公司 罗马仕接连变更法定代表人 遇见小面创始人向“渝见小面”致歉 TOP3大新闻 针对多发食品安全问题，市场监管总局约谈山姆总部 记者15日了解到，针对一段时期以来监管发现和媒体曝光的山姆线下门店及线上网店多发的食品安全问题，近日，市场监管总局依法对沃尔玛（中国）投资有限公司（即山姆总部）负责人进行了责任约谈，要求其严格按照《中华人民共和国食品安全法》，以及《食品销售连锁企业落实食品安全主体责任监督管理规定》《网络食品销售经营者落实食品安全主体责任监督管理规定》等法律法规规定开展食品经营活动，始终树牢食品安"
-      },
-      {
-        "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
-        "link": "https://36kr.com/p/3854510160549124?f=rss",
-        "pubDate": "2026-06-15 22:13:11  +0800",
-        "description": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？ 6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、17级动态范围与 D-Log 2 专业色彩曲线，试图在口袋级设备中进一步容纳专业影像能力。 Pocket 4P 以&nbsp;3799元起售，多平台预订量持续走高。 对于一个原本被视为“手机影像补充”的品类来说，这种热度本身就提出了一个新的问题：当手机已经足够强，为什么仍然有越来越多人愿意为一台独立影"
-      },
-      {
-        "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
-        "link": "https://36kr.com/p/3854486447510535?f=rss",
-        "pubDate": "2026-06-15 21:48:20  +0800",
-        "description": "大公司： 支付宝：政务AI助手“晓政”服务突破1亿次 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。 小雨智造与地瓜机器人正式宣布达成战略合作 36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。 小红书或已准备好本月在香港提交IPO申请 据透露，小红书"
-      },
-      {
-        "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
-        "link": "https://36kr.com/p/3854243718550528?f=rss",
-        "pubDate": "2026-06-15 17:46:34  +0800",
-        "description": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。&nbsp; 此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等方向展开比拼。随着最终获奖名单揭晓，比赛的结果已经落定，但比奖项本身更值得被看见的，是 这些作品背后一批年轻开发者正在关注什么，又试图用代码回答什么。 翻开参赛作品的名单，我们意外地发现，这其中很多的开发者都还是在校学生，没有成熟公司的资源，没有完整的商业团队，甚至可能没有充足的开发经验。但在这场比赛里， 他们把自己的生活观察、专业背景和兴趣经验变成了"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Europe’s Sovereignty Budget",
+        "link": "https://cleantechnica.com/2026/06/16/europes-sovereignty-budget/",
+        "pubDate": "Wed, 17 Jun 2026 03:25:53 +0000",
+        "description": "Imagine if Europe chose to spend a half a trillion a year on a dependency that benefits regimes which wish it harm. We don’t have to imagine it. We are doing it right now. By Ariel Brunner, Regional Director, BirdLife Europe and Central Asia, Chiara Martinelli, Director, Climate Action Network Europ",
+        "title_cn": "欧洲主权预算"
+      },
+      {
+        "title": "The EU Must Reset The Narrative On Vehicle Electrification, Says Broad Coalition Of Industry Groups And Civil Society",
+        "link": "https://cleantechnica.com/2026/06/16/the-eu-must-reset-the-narrative-on-vehicle-electrification-says-broad-coalition-of-industry-groups-and-civil-society/",
+        "pubDate": "Wed, 17 Jun 2026 03:03:56 +0000",
+        "description": "In a letter to EU leaders, the group says that rather than lowering ambition, Europe must focus on accelerating electrification. To: Heads of State or Government of the European Union, Dear Heads of State or Government of the European Union, We, a broad coalition representing non-governmental organi",
+        "title_cn": "行业团体和民间社会的广泛联盟表示，欧盟必须重新调整对车辆电气化的叙述"
+      },
+      {
+        "title": "Solar Manufacturing Capex in the USA Exploded from $150 Million in 2020 to $2.5 Billion in 2026",
+        "link": "https://cleantechnica.com/2026/06/16/solar-manufacturing-capex-in-the-usa-exploded-from-150-million-in-2020-to-2-5-billion-in-2026/",
+        "pubDate": "Tue, 16 Jun 2026 23:53:37 +0000",
+        "description": "In another example of how much US solar manufacturing has gone from small potatoes to a giant industry since Joe Biden took office in 2021, here&#8217;s a whopper of a stat: solar manufacturing capex in the USA has exploded from $150 million in 2020 to an estimated $2.5 billion in ... [continued] Th",
+        "title_cn": "美国太阳能制造业资本支出从2020年的1.5亿美元激增至2026年的25亿美元"
+      },
       {
         "title": "BYD Taking Responsibility Increases God’s Eye Use & Makes Vehicles Safer",
         "link": "https://cleantechnica.com/2026/06/16/byd-taking-responsibility-increases-gods-eye-use-makes-vehicles-safer/",
@@ -151,31 +172,10 @@
         "pubDate": "Tue, 16 Jun 2026 14:56:05 +0000",
         "description": "Raymond Tribdino has done a great job for us covering VinFast for us — its grand ambitions, it struggles, and how it is adapting to try to eventually achieve its vision. One of the company&#8217;s biggest challenges and failures has been trying to break into the US market. There are ... [continued] ",
         "title_cn": "VinFast需要在美国开展营销工作"
-      },
-      {
-        "title": "8 New Fast EV Chargers Installed In Kentucky",
-        "link": "https://cleantechnica.com/2026/06/16/8-new-fast-ev-chargers-installed-in-kentucky/",
-        "pubDate": "Tue, 16 Jun 2026 14:01:23 +0000",
-        "description": "It was just about one month ago that the Team Kentucky EV Charging program announced its tenth Kentucky EV fast-charging site was completed and open for charging. Two new EV fast-charging stations were recently installed and made operational; one in Elizabethtown and another in Shepherdsville. Each ",
-        "title_cn": "肯塔基州安装了8个新的快速电动汽车充电器"
-      },
-      {
-        "title": "EVs Will Come Roaring Back, Rivian Edition",
-        "link": "https://cleantechnica.com/2026/06/16/rivian-evs-us-plans-v2g-discounts-new-factory-georgia/",
-        "pubDate": "Tue, 16 Jun 2026 12:40:23 +0000",
-        "description": "The US startup Rivian has joined the ChargeScape collaborative, providing its customers with seamless access to utility discounts for EVs. The post EVs Will Come Roaring Back, Rivian Edition appeared first on CleanTechnica .",
-        "title_cn": "电动汽车将卷土重来（ Rivian版）"
-      },
-      {
-        "title": "Renault EV Demand Grew 50% in Some Markets from Iran War",
-        "link": "https://cleantechnica.com/2026/06/15/renault-ev-demand-grew-50-in-some-markets-from-iran-war/",
-        "pubDate": "Tue, 16 Jun 2026 03:58:35 +0000",
-        "description": "As a result of the US and Israel war against Iran, Iran blocked the Strait of Hormuz and much of the world&#8217;s oil couldn&#8217;t get to market. Countries have been relying on oil reserves for weeks, and there have been strong warnings that if the Strait of Hormuz blockage isn&#8217;t ... [conti",
-        "title_cn": "部分市场的雷诺电动汽车需求因伊朗战争而增长50%"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,29 +272,36 @@
         "description": "氢能已过“死亡谷” ？但多数企业还在渡劫 &nbsp;&nbsp; Sohu"
       },
       {
-        "title": "中国能建首席科学家罗必雄与沈阳市委副书记、市长吕志成会谈 - 国际能源网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sY2pIXzVick10dWZ0OHhnaU41a1Rka25VS015TmRENVpQS0hFUGhGUy1OTEZ4ODBpdmttYnNvSW1PMU01MmJwWjBZNThyczMxZkowc1M1LVQySVFZ?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 03:38:42 GMT",
-        "description": "中国能建首席科学家罗必雄与沈阳市委副书记、市长吕志成会谈 &nbsp;&nbsp; 国际能源网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYUZ5dGN6NHlDMHFEa25kLTI5MTh1cGdNNXR3QlVxaFc3QmF6ckRDbk92RnRlR28yWU04eEFpUEs3WlBTdUNYa1ZtYUlHa19HVDlybDA1MzlRdmFDbGtsLWFuU01iM0txS1Z6c3FnQ1FEaFMtVnFMSlVSd3g3c184SUJOUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "国氢科技亮相国际氢能与燃料电池汽车大会 - zgjtb.com",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QlAxcGJqTEZWdDN5WjdQUnJZOGdWamVBMXd5VDlXOWt0UElmVFFKZlV3NlN2Y0szdnZBU3pkZEthdEs4cWs2ZDFKbGp2VWZFUlBYVnl3dG1rR2NkdTNudkJ3?oc=5",
-        "pubDate": "Wed, 10 Jun 2026 03:17:51 GMT",
-        "description": "国氢科技亮相国际氢能与燃料电池汽车大会 &nbsp;&nbsp; zgjtb.com"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
+        "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
+        "description": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "Riga Airport Tests Hydrogen Technologies for Aerodrome Maintenance Operations",
+        "link": "https://fuelcellsworks.com/2026/06/16/fuel-cells/riga-airport-tests-hydrogen-technologies-for-aerodrome-maintenance-operations",
+        "pubDate": "Tue, 16 Jun 2026 16:15:37 GMT",
+        "description": "",
+        "title_cn": "里加机场测试用于机场维护运营的氢能技术"
+      },
       {
         "title": "SFC Energy AG Demonstrates Innovative Power Solutions for Military Vehicle Platforms at Eurosatory",
         "link": "https://fuelcellsworks.com/2026/06/16/energy-innovation/sfc-energy-ag-demonstrates-innovative-power-solutions-for-military-vehicle-platforms-at-eurosatory",
@@ -343,93 +350,86 @@
         "pubDate": "Tue, 16 Jun 2026 15:12:30 GMT",
         "description": "",
         "title_cn": "丹麦150亿克朗（ $ 23亿）的氢能赌博：建造通往德国的管道，或观看北海梦幻摊位"
-      },
-      {
-        "title": "EQT Foundation Awards More than €1 Million in Grants for Next-Generation Critical Minerals Solutions",
-        "link": "https://fuelcellsworks.com/2026/06/16/clean-energy/eqt-foundation-awards-more-than-1-million-in-grants-for-next-generation-critical-minerals-solutions",
-        "pubDate": "Tue, 16 Jun 2026 15:10:19 GMT",
-        "description": "",
-        "title_cn": "EQT基金会为下一代关键矿物解决方案提供超过100万欧元的资助"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Grid-state deformation in a no-jump non-Hermitian bosonic dimer",
-        "link": "https://arxiv.org/abs/2606.17036v1",
-        "pubDate": "2026-06-15T17:54:25Z",
-        "description": "We study the no-jump evolution of ideal grid states in a lossy bosonic dimer with differential decay. The effective non-Hermitian quadratic dynamics induces a complex symplectic flow in phase space that deforms both the primitive lattice vectors and the origin seed. The average decay rate controls c",
-        "title_cn": "非跳跃非埃尔米特玻色子二聚体中的网格态变形"
+        "title": "Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion",
+        "link": "https://arxiv.org/abs/2606.18250v1",
+        "pubDate": "2026-06-16T17:59:46Z",
+        "description": "Forecasting the evolution of dynamic environments is crucial for autonomous agents. While generative world models have recently achieved high photorealism in 2D video synthesis by mixing ego-motion and environmental dynamics within the image plane, they exhibit physical inconsistencies, such as morp",
+        "title_cn": "未来动态3D重建：具有解开的自我运动的3D世界模型"
       },
       {
-        "title": "ExpRL: Exploratory RL for LLM Mid-Training",
-        "link": "https://arxiv.org/abs/2606.17024v1",
-        "pubDate": "2026-06-15T17:50:44Z",
-        "description": "Sparse reward reinforcement learning (RL) has become a standard tool for improving LLM reasoning, but its success depends critically on the coverage present in the base model. In practice, models are often primed for RL through \\emph{mid-training} on curated reasoning traces that teach useful primit",
-        "title_cn": "ExpRL ： LLM中级培训的探索性RL"
+        "title": "Variable-Width Transformers",
+        "link": "https://arxiv.org/abs/2606.18246v1",
+        "pubDate": "2026-06-16T17:59:03Z",
+        "description": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocating a fixed parameter and computation budget evenly despite different layers potentially playing dis",
+        "title_cn": "可变宽度变压器"
       },
       {
-        "title": "Learning the Geometry of Data: A Mathematical Review of Shape Space Analysis",
-        "link": "https://arxiv.org/abs/2606.17022v1",
-        "pubDate": "2026-06-15T17:50:00Z",
-        "description": "A central objective of machine learning is to identify structure and patterns in data. Advances in data acquisition have increasingly produced datasets whose observations possess rich geometric form, giving rise to shape spaces that encode variability in object geometry. Such datasets arise across a",
-        "title_cn": "学习数据的几何学：形状空间分析的数学回顾"
+        "title": "A Diagnostic Software Suite for Auditing Learned PDE Simulators",
+        "link": "https://arxiv.org/abs/2606.18200v1",
+        "pubDate": "2026-06-16T17:30:25Z",
+        "description": "Learned PDE simulators are increasingly used as low-cost replacements for expensive numerical solvers, but standard relative $L^2$ error does not determine whether a learned model behaves as a coherent numerical time propagator. This paper presents a diagnostic software suite for auditing learned PD",
+        "title_cn": "用于审核已学习PDE模拟器的诊断软件套件"
       },
       {
-        "title": "A scaling non-compact QCD axion",
-        "link": "https://arxiv.org/abs/2606.17019v1",
-        "pubDate": "2026-06-15T17:48:18Z",
-        "description": "We present a dynamical mechanism for the erasure of inflationary isocurvature perturbations of the non-compact QCD axion. The key ingredient is an early-time runaway exponential potential, which drives the axion onto the well-known scaling cosmological attractor after inflation. Once on the attracto",
-        "title_cn": "缩放非紧凑型QCD轴离子"
+        "title": "Kolmogorov Regression for Robust Diffusion Policies",
+        "link": "https://arxiv.org/abs/2606.18186v1",
+        "pubDate": "2026-06-16T17:18:54Z",
+        "description": "Finite-dimensional (FD) diffusion policies exhibit temporal drift owing to discretization artifacts that degrade long-horizon performance (when deployed on physical systems). We introduce a backward Kolmogorov equation that lifts diffusion policies to a Cameron-Martin space -- a subset of the Hilber",
+        "title_cn": "稳健扩散策略的Kolmogorov回归"
       },
       {
-        "title": "Evolution of Nonlinear Ion Transport in Nanopore Arrays: Ionic Conductance, Current Rectification, and Osmotic Power",
-        "link": "https://arxiv.org/abs/2606.17012v1",
-        "pubDate": "2026-06-15T17:45:09Z",
-        "description": "Understanding the ionic transport and scaling behaviors in nanopore arrays is essential for bridging fundamental ion physics and blue energy applications. By fabricating sub-3 nm and sub-20 nm diameter nanopore arrays (NPAs) spanning from few pores to N ~ 10000, we systematically investigate ionic c",
-        "title_cn": "纳米孔阵列中非线性离子传输的演变：离子电导、电流整流和渗透功率"
+        "title": "A minimizing-movement framework for geometric gradient flows with admissible tangential motion",
+        "link": "https://arxiv.org/abs/2606.18177v1",
+        "pubDate": "2026-06-16T17:11:04Z",
+        "description": "We develop a minimizing-movement framework for parametric finite element approximations of geometric gradient flows with admissible tangential motion. At each time step, the discrete variational problem combines a metric dissipation term for the normal displacement with a surface Dirichlet energy. T",
+        "title_cn": "具有可接受切向运动的几何梯度流的最小化运动框架"
       },
       {
-        "title": "Hydrogen Chemisorption and Current-Induced Spin Polarization on NbP",
-        "link": "https://arxiv.org/abs/2606.16994v1",
-        "pubDate": "2026-06-15T17:30:48Z",
-        "description": "Topological semimetals have been proposed as electrocatalytic platforms because their surface states may participate in adsorbate bonding and interfacial charge response. Here we examine this role for hydrogen chemisorption on NbP(001) by combining density functional theory, Wannier-based surface sp",
-        "title_cn": "NbP上的氢化学吸附和电流诱导的自旋极化"
+        "title": "Observation of a dominant $\\boldsymbol{0f_{7/2}}$ neutron configuration in the $\\boldsymbol{^{32}}$Si $\\boldsymbol{J^π=5^-}$ isomeric state",
+        "link": "https://arxiv.org/abs/2606.18165v1",
+        "pubDate": "2026-06-16T17:04:08Z",
+        "description": "An yrast, $J^π=5^-$, spin-trap isomer has been previously identified in $^{32}$Si. The isomeric state decays predominantly via a hindered $E3$ transition [B($E3$) = 0.0841(10)~W.u.], bypassing a nearby $E2$ decay path to the first excited $3^-$ level. The single-neutron aspects of these negative par",
+        "title_cn": "观察占主导地位的$\\ boldsymbol {0f_{7/2}} $中子配置在$\\ boldsymbol {^ {32}} $ Si $\\ boldsymbol {J ^ π = 5 ^ -} $异构态"
       },
       {
-        "title": "Decoupling Inference from State Updates in Low-Latency Feature Engines via Probabilistic Thinning",
-        "link": "https://arxiv.org/abs/2606.16981v1",
-        "pubDate": "2026-06-15T17:18:05Z",
-        "description": "Streaming data systems increasingly underpin Machine Learning workflows that maintain large numbers of continuously updated aggregations. In production settings, each incoming event typically triggers read-modify-write operations to persistent storage, making high-frequency state updates a dominant ",
-        "title_cn": "通过概率细化从低延迟特征引擎的状态更新中解耦推断"
+        "title": "Closest Accessible Symmetry reduction: a tool for Hamiltonian interpolation analysis",
+        "link": "https://arxiv.org/abs/2606.18161v1",
+        "pubDate": "2026-06-16T16:59:49Z",
+        "description": "We introduce a framework for analysing the spectrum of Hamiltonian interpolations without heavily relying on discretising the interpolation parameter. The method is based on the concept of accessible symmetries: a problem-class-dependent family of certifiable reflections that induce bipartitions of ",
+        "title_cn": "最接近的可访问对称约简：汉密尔顿插值分析工具"
       },
       {
-        "title": "Beyond the Smile: A Hybrid Convolutional VAE for Crypto Volatility Surfaces",
-        "link": "https://arxiv.org/abs/2606.16961v1",
-        "pubDate": "2026-06-15T17:01:00Z",
-        "description": "We present a convolutional variational autoencoder for cryptocurrency implied-volatility surfaces, together with a deployable predictor that combines it with a quadratic smile re-fit through a deterministic per-tenor routing rule. Trained on 6,034 fully-filled hourly Binance Options surfaces of BTC ",
-        "title_cn": "超越微笑：用于加密货币波动表面的混合卷积VAE"
+        "title": "X-ray eclipse tomography: Resolving the extent of X-ray-emitting region(s) in the Seyfert galaxy ESO362-G18",
+        "link": "https://arxiv.org/abs/2606.18155v1",
+        "pubDate": "2026-06-16T16:54:29Z",
+        "description": "X-ray spectral variability in active galactic nuclei (AGNs) can be either intrinsic or caused by external processes, such as variable absorption. Several transient occultation events from individual clouds or X-ray eclipses have been identified in a number of AGNs in the past two decades. We report ",
+        "title_cn": "X射线日食断层扫描：解析Seyfert星系ESO362-G18中X射线发射区域的范围"
       },
       {
-        "title": "A Scalable All-to-All Reconfigurable Ising Solver Using Pulsed Time-Division Multiplexing",
-        "link": "https://arxiv.org/abs/2606.16929v1",
-        "pubDate": "2026-06-15T16:29:45Z",
-        "description": "Physics-based computing platforms, such as those based on the Ising model, are an important pillar of future hardware systems built for the artificial intelligence (AI) era. Such platforms show promise for solving nondeterministic polynomial (NP) time problems that are difficult for traditional proc",
-        "title_cn": "使用脉冲时分复用的可扩展全可重构Ising求解器"
+        "title": "Neural Tree Reconstruction for the Open Forest Observatory",
+        "link": "https://arxiv.org/abs/2606.18153v1",
+        "pubDate": "2026-06-16T16:53:18Z",
+        "description": "The Open Forest Observatory (OFO) is a collaboration across universities and other partners to make low-cost forest mapping accessible to ecologists, land managers, and the general public. The OFO is building both a database of geospatial forest data as well as open-source methods and tools for fore",
+        "title_cn": "开放式森林观测站的神经树重建"
       },
       {
-        "title": "MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance",
-        "link": "https://arxiv.org/abs/2606.16923v1",
-        "pubDate": "2026-06-15T16:26:42Z",
-        "description": "Simulation-based inference (SBI) of latent parameters is often hindered by simulator misspecification, the mismatch between simulated and real-world observations caused by inherent modeling simplifications. RoPE, the recent state-of-the-art for robust SBI, addresses this through optimal transport be",
-        "title_cn": "MA-SBI ：基于侧通道引导的错误感知模拟推理"
+        "title": "High-temperature ferromagnetism and antiferromagnetism in monolayer \\ce{CrTe2}: Roles of strong spin-lattice coupling and charge doping",
+        "link": "https://arxiv.org/abs/2606.18148v1",
+        "pubDate": "2026-06-16T16:46:35Z",
+        "description": "The interplay of structural, electronic, and magnetic degrees of freedom governs phase stability and critical temperatures in two-dimensional magnets. Controlling this coupling is essential for advancing fundamental understanding and spintronic applications. Combining first-principles calculations w",
+        "title_cn": "单层高温铁磁性和反铁磁性\\ ce {CrTe2} ：强自旋晶格耦合和电荷掺杂的作用"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "policy_nea": {
     "items": [
@@ -440,10 +440,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
-        "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
-        "description": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 &nbsp;&nbsp; 国际氢能网"
+        "title": "11部委联合定调！到2030年新能源重卡突破160万辆，布局加氢站、绿色燃料加注站！ - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kdW0wZTR4SWg1aS1iM0w3UDZ1WEtJbGo0cDBWRGVwZnpfbFhKcklHSVB5OHRSem9sandRTUY4QnNVOXRzMm5LeXFkdDVma0dKTG82cw?oc=5",
+        "pubDate": "Wed, 17 Jun 2026 03:18:31 GMT",
+        "description": "11部委联合定调！到2030年新能源重卡突破160万辆，布局加氢站、绿色燃料加注站！ &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -483,10 +483,16 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "全国23省市“绿电直连”政策密集落地，新能源消纳的“最后一公里”正在打通！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZYTljOXc3OXFfTzFvRWpncEFydUtvMFJVSHZTQ1ZaN01Cb1NJaHY5Q3g5eW5aY2FRTy1pYW9FWTUzVzJULUU0Nk1BZE1TTWxTSGliclNNUTl1SGRkS0VmMQ?oc=5",
+        "pubDate": "Wed, 17 Jun 2026 00:45:42 GMT",
+        "description": "全国23省市“绿电直连”政策密集落地，新能源消纳的“最后一公里”正在打通！ &nbsp;&nbsp; 国际储能网"
+      },
       {
         "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 凤凰网",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lZnlIWTd1aVRoY0RwX2k3MkZEQWF1dWlnRkJkOVFNWGZFVHFzZWpJRHQ4bEJGOHVaTjc4eHdmeTlwVTN5Q1hqMA?oc=5",
@@ -500,22 +506,16 @@
         "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
-      },
-      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
-        "pubDate": "Fri, 24 Apr 2026 16:25:04 GMT",
-        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
@@ -524,19 +524,19 @@
         "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
       },
       {
-        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
-        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
-        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
         "title": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fZG9IZzJ2bG9Bb3g4OUptX2l2dlY2cG1fX1RBc2ZaOWZDSmtPMUExYm1iNmhVcjNIbENvVjJGN1hIdXRLeE9EQktqQW0zdzZEMzhpc0pDZWZCSTE4cnc?oc=5",
         "pubDate": "Mon, 04 Aug 2025 07:00:00 GMT",
         "description": "《零碳工业：实现可持续繁荣的变革性技术和政策》新书发布 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-16 23:18 UTC"
+    "updated": "2026-06-17 07:02 UTC"
   }
 }
