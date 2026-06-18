@@ -1,40 +1,40 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "keywords": [
     {
       "id": 1,
-      "term": "调峰",
-      "category": "能源",
-      "definition": "<strong>含义：</strong>电力系统在用电高峰期增加出力、低谷期减少出力的灵活性手段，是电网稳定运行的关键调节机制。",
-      "example": "<strong>举例：</strong>夏天中午空调用电高峰，抽水蓄能电站放水发电调峰；氢储能是未来跨季节大规模调峰的重要选项。"
+      "term": "智能网格",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>通过传感器、通信和自动化技术实现电力系统实时监测、自动调度的“聪明电网”，是大规模新能源接入的技术基础。",
+      "example": "<strong>举例：</strong>智能电网中，电动汽车可以在价格低时充电、价格高时反向卖电，形成“V2G”（Vehicle-to-Grid），氢储能和智能电网结合将是未来主流。"
     },
     {
       "id": 2,
-      "term": "碳捕集利用",
-      "category": "环境",
-      "definition": "<strong>含义：</strong>CCUS（Carbon Capture, Utilization and Storage），捕获工业排放的CO₂并将其储存或转化为有用产品的技术，是碳中和路径的重要补充。",
-      "example": "<strong>举例：</strong>将电厂烟气中的CO₂捕集后注入地下咸水层储存，或转化为甲醇、乙烯等化学品——CCUS可以让化石能源“带着枷锁”继续运行。"
-    },
-    {
-      "id": 3,
       "term": "燃料电池",
       "category": "能源",
       "definition": "<strong>含义：</strong>将氢气和氧气的化学能直接转化为电能的装置，产物只有水，效率比内燃机高出一倍以上。",
       "example": "<strong>举例：</strong>氢燃料电池重卡加氢15分钟可续航800公里，城市公交已有规模化运营，是“长途+重载”场景的主流方案。"
     },
     {
-      "id": 4,
-      "term": "API",
+      "id": 3,
+      "term": "数字孪生",
       "category": "科技",
-      "definition": "<strong>含义：</strong>应用程序编程接口，让不同软件系统通过标准协议相互“对话”和共享数据，是数字化集成的基础。",
-      "example": "<strong>举例：</strong>你在微信小程序查天气，其实是微信调用了气象局的API；企业ERP和MES系统通过API打通，实现生产数据实时同步。"
+      "definition": "<strong>含义：</strong>在虚拟空间中构建物理实体的精确数字镜像，用于仿真、监控和优化，让“先试错”的成本趋近于零。",
+      "example": "<strong>举例：</strong>在电脑里建造一座完整的制氢工厂数字模型，可以先模拟500种不同运行工况，找到最优参数，再动真实设备。"
+    },
+    {
+      "id": 4,
+      "term": "碳足迹",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>个人、组织或产品在一定时间内直接或间接产生的温室气体排放总量（以CO₂当量计），是量化气候影响的标准指标。",
+      "example": "<strong>举例：</strong>乘飞机北京-上海单程碳足迹约50kg CO₂，是高铁的约20倍；1kg牛肉的碳足迹约60kg CO₂，是1kg鸡肉的约5倍。"
     },
     {
       "id": 5,
-      "term": "第一性原理",
-      "category": "成长",
-      "definition": "<strong>含义：</strong>不类比、不套路，回到最基本的物理/逻辑事实重新推演，是破除固有思维、找到颠覆式解法的思维方式。",
-      "example": "<strong>举例：</strong>马斯克问“电池贵是因为材料贵吗？”——从原材料成本推算，答案是否；于是他绕开传统供应链自建，这就是第一性原理。"
+      "term": "质量活性",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>单位质量催化剂（尤其是贵金属）所表现的催化活性，是衡量催化剂利用率和性价比的重要指标。",
+      "example": "<strong>举例：</strong>提升Pt质量活性10倍，意味着同等性能电极可减少90%的Pt用量，对降低PEM燃料电池成本至关重要。"
     }
   ]
 }
