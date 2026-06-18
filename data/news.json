@@ -2,11 +2,46 @@
   "tech": {
     "items": [
       {
+        "title": "Clues to the sloth’s sloth found in its genome",
+        "link": "https://www.nature.com/articles/d41586-026-01869-y",
+        "pubDate": "2026-06-18",
+        "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01869-y Sequencing shows duplication of genes that affect mitochondria, the organelles that provide energy for cells.",
+        "title_cn": "在树懒基因组中发现树懒的线索"
+      },
+      {
+        "title": "It slices! It dices! Sashimi-Bot handles seafood with ease",
+        "link": "https://www.nature.com/articles/d41586-026-01871-4",
+        "pubDate": "2026-06-18",
+        "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01871-4 Fillets of raw fish are irregular in shape and floppy in texture, but a robot with three arms has learnt how to manipulate a salmon loin.",
+        "title_cn": "它切片了！它骰子了！生鱼片机器人轻松处理海鲜"
+      },
+      {
+        "title": "Is AI ruining our skills? Early results are in — and they’re not good",
+        "link": "https://www.nature.com/articles/d41586-026-01947-1",
+        "pubDate": "2026-06-18",
+        "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01947-1 Reliance on artificial-intelligence tools degrades the abilities of physicians and software engineers, studies show.",
+        "title_cn": "人工智能是在破坏我们的技能吗？早期结果已经出现—而且效果不佳"
+      },
+      {
+        "title": "Brexit tore apart European science — now the research rifts are healing",
+        "link": "https://www.nature.com/articles/d41586-026-01841-w",
+        "pubDate": "2026-06-18",
+        "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01841-w The UK’s share of EU research funding is climbing, but lost networks will be harder to recover.",
+        "title_cn": "英国脱欧撕裂了欧洲科学—现在研究裂痕正在愈合"
+      },
+      {
         "title": "Cell transplant across the tree of life hints at how animals emerged",
         "link": "https://www.nature.com/articles/d41586-026-01910-0",
         "pubDate": "2026-06-18",
         "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0 Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
         "title_cn": "生命之树上的细胞移植暗示了动物是如何出现的"
+      },
+      {
+        "title": "Daily briefing: The proteins that protect us from deadly mutations",
+        "link": "https://www.nature.com/articles/d41586-026-01960-4",
+        "pubDate": "2026-06-18",
+        "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01960-4 Proteins that ‘buffer’ the effects of mutations could help to treat diseases such as cancers. Plus, goats can follow human voices and the battle over a key ocean observatory project in the United States.",
+        "title_cn": "每日简报：保护我们免受致命突变的蛋白质"
       },
       {
         "title": "Towards Conversational AI for Disease Management",
@@ -21,48 +56,37 @@
         "pubDate": "2026-06-17",
         "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-z Analysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution.",
         "title_cn": "火热的数据暗示，受控森林火灾有益于人类健康"
-      },
-      {
-        "title": "The brain region that could provide a cognitive ‘reservoir’ in old age",
-        "link": "https://www.nature.com/articles/d41586-026-01870-5",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01870-5 Having a greater tissue volume in some parts of the cerebellum is linked to higher scores on cognitive tests.",
-        "title_cn": "可以在老年时提供认知“水库”的大脑区域"
-      },
-      {
-        "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
-        "link": "https://www.nature.com/articles/d41586-026-01941-7",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01941-7 Analysis shows evidence of deadly outbreaks 5,500 years ago — plus, a prototype dark-matter detector.",
-        "title_cn": "狩猎采集者牙齿的DNA揭示了古代瘟疫的秘密"
-      },
-      {
-        "title": "Emergent decadal predictability in Antarctic contribution to sea-level rise",
-        "link": "https://www.nature.com/articles/s41586-026-10614-4",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10614-4 Although Antarctic ice loss projections diverge widely by 2100, this Perspective shows that present-day rates robustly predict mid-century sea level rise, providing a firm basis for near-term planning, while highlighting prioriti",
-        "title_cn": "南极洲出现的十年期可预测性对海平面上升的贡献"
-      },
-      {
-        "title": "A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth",
-        "link": "https://www.nature.com/articles/s41586-026-10586-5",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10586-5 Analysis of long-term radial velocity data and transit time variations, induced by a super-Earth, a warm Jupiter and a brown dwarf in a coplanar orbit around the relatively young star TOI201.",
-        "title_cn": "与温暖的木星和炽热的超级地球共面的遥远棕矮星"
-      },
-      {
-        "title": "Probing picometre-scale interlayer deformations via hyperbolic polaritons",
-        "link": "https://www.nature.com/articles/s41586-026-10638-w",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10638-w A new polaritonic optical method that uses the mid-infrared out-of-plane hyperbolic polaritons mode is described and experimentally validated to allow the examination of picometre-scale interlayer deformations, providing a bridge",
-        "title_cn": "通过双曲极化子探测皮米尺度的层间变形"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+        "link": "https://36kr.com/p/3858803016881154?f=rss",
+        "pubDate": "2026-06-18 22:57:40  +0800",
+        "description": "国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三"
+      },
+      {
+        "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
+        "link": "https://36kr.com/p/3858676671599881?f=rss",
+        "pubDate": "2026-06-18 20:49:01  +0800",
+        "description": "6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时尚科技年轻品牌”全速进阶。 官方图片 运动产品线全新品类品牌 爱玛黑翼正式亮相 爱玛黑翼是爱玛旗下专为年轻男性打造的极速运动产品线品类品牌，为“纯粹热爱的城市探索玩家”而来，倡导“全速热爱”，锚定潮流新"
+      },
+      {
+        "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+        "link": "https://36kr.com/p/3858015526704129?f=rss",
+        "pubDate": "2026-06-18 20:47:44  +0800",
+        "description": "大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机"
+      },
+      {
+        "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+        "link": "https://36kr.com/p/3858329994875908?f=rss",
+        "pubDate": "2026-06-18 20:20:28  +0800",
+        "description": "文｜肖漫 编辑｜李勤 6月18日，蔚来同时向两代平台车型（包含8款NT2.0平台车型、4款NT2.5平台车型，以及6款NT3.0车型）推送了最新版的世界模型，这意味着，蔚来现在能让同一套复杂的智驾代码，现在能跑在不同代际的芯片上。 软件迭代节奏被硬件绑架曾是一个困扰行业的难题。很多车企无法在不同版本、配置的车型上迭代同一款软件，这带来的结果是，很长时间内只有使用最新版本硬件的车才能用上最好的软件，老车主被背刺。 蔚来部署推理跨平台兼容 任少卿的团队在 2020 年就在思考如何解决这个问题。蔚来的做法是搭建一套AI Infra——自研工具链铺平不同芯片间的鸿沟，用AI编译器提升车辆的处理速度，用"
+      },
       {
         "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
         "link": "https://36kr.com/p/3858373969286148?f=rss",
@@ -86,37 +110,41 @@
         "link": "https://36kr.com/p/3856708724315400?f=rss",
         "pubDate": "2026-06-18 09:28:16  +0800",
         "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。&nbsp; 这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。 穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brai"
-      },
-      {
-        "title": "36氪「2026最具价值成长企业100」正式发布",
-        "link": "https://36kr.com/p/3857980507919622?f=rss",
-        "pubDate": "2026-06-18 09:09:18  +0800",
-        "description": "&nbsp; &nbsp; 时代从不被旁观者定义，它只发生在那些正在成长的人身上。 今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。 在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。 商业史本质上是一部成长史。 那些最终改变产业格局的公司，往往不是起点最高的公司，而是在漫长竞争中不断积累技术、组织和市场能力的公司。 当前，新一轮的技术浪潮正催生更多新赛道与新格局。基于此，今年4月，36氪重磅启动“2026最具"
-      },
-      {
-        "title": "中科院博士冲上市，市值超105亿港币",
-        "link": "https://36kr.com/p/3857959588418823?f=rss",
-        "pubDate": "2026-06-18 09:00:00  +0800",
-        "description": "本文约1900字，建议阅读4分钟 作者&nbsp;|&nbsp;彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。 这是门什么生意 从业绩来看，中科闻歌2023—2025年收入分别为2.5亿、3.18亿、4.05亿元，三年复合增速约2"
-      },
-      {
-        "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
-        "link": "https://36kr.com/p/3857925631104004?f=rss",
-        "pubDate": "2026-06-18 08:07:03  +0800",
-        "description": "今日热点导览 SpaceX华裔女工程师辟谣 国内成品油价即将迎来两连跌 必胜客中国对外投资超60家企业 苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone OpenAI 2026年前三个月烧钱37亿美元 TOP 3 大新闻 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃��玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国"
-      },
-      {
-        "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应用大奖；国务院：深入实施“人工智能+”行动，探索人机协同的新型工作形态",
-        "link": "https://36kr.com/p/3857175761081348?f=rss",
-        "pubDate": "2026-06-17 20:08:32  +0800",
-        "description": "大公司： 监管约谈山姆后，沃尔玛中国多位高管变动 36氪了解到，山姆会员商店中国 CMO（首席采购官）张青已于近日提交辞呈。此外，据36氪独家了解，沃尔玛中国本次人事变动还包括：Tony Paladinetti，现任沃尔玛国际部战略副总裁，将加入沃尔玛中国，担任沃尔玛中国战略副总裁，直接向朱晓静汇报。内部邮件称，Tony将在完成工作签证流程后于2026年8月正式加入中国团队，并与妻子Meg及孩子一起搬迁至深圳。现任沃尔玛中国战略副总裁杨智安将直接向Tony汇报。过渡期间，Neil Maffey，前任山姆会员商店首席采购官及现任全职顾问，将担任代理山姆会员商店首席采购官，直接向刘鹏，山姆会员商店"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Molecules Do Not Disappear. Their Market Shrinks.",
+        "link": "https://cleantechnica.com/2026/06/18/molecules-do-not-disappear-their-market-shrinks/",
+        "pubDate": "Thu, 18 Jun 2026 16:44:54 +0000",
+        "description": "A lot of energy-transition arguments begin with today’s fossil fuel demand. Coal, oil, and gas still dominate global primary energy, so it is tempting to draw a straight line from the current fuel system to a future molecule system. Replace natural gas with hydrogen. Replace bunker fuel with ammonia",
+        "title_cn": "分子不会消失。他们的市场萎缩。"
+      },
+      {
+        "title": "Oh, The Other Big Reason Robotaxis Will Struggle To Replace Car Ownership",
+        "link": "https://cleantechnica.com/2026/06/18/oh-the-other-big-reason-robotaxis-will-struggle-to-replace-car-ownership/",
+        "pubDate": "Thu, 18 Jun 2026 16:42:46 +0000",
+        "description": "Late last night and early this morning, I wrote an article outlining one big reason robotaxis won&#8217;t replace car ownership to a very significant degree. There&#8217;s another big reason, sort of related to that, that a reader pointed out and explained well, and some other readers backed up in a",
+        "title_cn": "哦，机器人出租车将难以取代汽车所有权的另一大原因"
+      },
+      {
+        "title": "Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck",
+        "link": "https://cleantechnica.com/2026/06/18/ford-affordable-lfp-ev-battery-hiring-jobs-prismatic/",
+        "pubDate": "Thu, 18 Jun 2026 16:03:06 +0000",
+        "description": "What war on EVs? Ford is hiring hundreds of workers to manufacture a new LFP battery for EVs in the US, with an assist from the leading Chinese energy storage firm CATL. The post Ford Pitches New LFP Battery, With Rivian Breathing Down Its Neck appeared first on CleanTechnica .",
+        "title_cn": "福特推出新款LFP电池， Rivian在脖子上呼吸"
+      },
+      {
+        "title": "Agrivoltaics Gets A Huge Thumbs-Up From A State Struggling To Conserve Its Agrarian Heritage",
+        "link": "https://cleantechnica.com/2026/06/18/agrivoltaics-virginia-solar-energy-storage-conserve-farmland/",
+        "pubDate": "Thu, 18 Jun 2026 13:07:19 +0000",
+        "description": "The Community Farm at Roundabout Meadows is hosting the first ever crop-based agrivoltaics system in Virginia -- and it won't be the last. The post Agrivoltaics Gets A Huge Thumbs-Up From A State Struggling To Conserve Its Agrarian Heritage appeared first on CleanTechnica .",
+        "title_cn": "Agrivoltaics从一个努力保护其农业遗产的国家获得了巨大的好评"
+      },
       {
         "title": "One Big Reason Robotaxis Won’t Replace Owning Cars",
         "link": "https://cleantechnica.com/2026/06/17/one-big-reason-robotaxis-wont-replace-owning-cars/",
@@ -144,38 +172,10 @@
         "pubDate": "Thu, 18 Jun 2026 03:40:02 +0000",
         "description": "Europe talks the talk on recycling. But can it walk the walk? The upcoming Circular Economy Act must prove we have what it takes. Our valuable battery waste is currently leaving Europe on ships headed halfway across the world. And we’re doing little to stop them. Whilst Europe manages to ... [contin",
         "title_cn": "欧洲如何通过促进回收来减少其战略依赖性？"
-      },
-      {
-        "title": "Trump Pays Off Energy Company in Grudge Match Against Offshore Wind",
-        "link": "https://cleantechnica.com/2026/06/17/trump-pays-off-energy-company-in-grudge-match-against-offshore-wind/",
-        "pubDate": "Thu, 18 Jun 2026 01:45:49 +0000",
-        "description": "Washington, D.C. — According to reporting, Donald Trump is paying Invenergy $765 million to abandon its four offshore wind leases. This comes days after the administration voluntarily dismissed its own appeal in an ongoing legal challenge against Donald Trump&#8217;s executive order to ban wind deve",
-        "title_cn": "特朗普在海上风电的怨恨比赛中回报能源公司"
-      },
-      {
-        "title": "Toyota Rav4 Plug-in Hybrid vs. Tesla Model Y Basic",
-        "link": "https://cleantechnica.com/2026/06/17/toyota-rav4-plug-in-hybrid-vs-tesla-model-y-basic/",
-        "pubDate": "Thu, 18 Jun 2026 00:25:36 +0000",
-        "description": "We took our second daughter to Paris for 6 months when she was 5 years old. After she grew up, we have been chasing her around the world ever since: Barcelona, Prague, Munich, London twice, Bangkok twice, Sydney 4 times, and back to Paris several times. She is a force ... [continued] The post Toyota",
-        "title_cn": "丰田Rav4插电式混合动力车vs特斯拉Model Y Basic"
-      },
-      {
-        "title": "Self-Own #837: High Tech Hydropower Transmission Trips Up Trump’s Fossil Fuel Fantasy",
-        "link": "https://cleantechnica.com/2026/06/17/hydropower-transmission-new-york-energy-policy/",
-        "pubDate": "Wed, 17 Jun 2026 22:30:36 +0000",
-        "description": "Hitachi Energy's new HVDC Light® technology is at work behind the scenes of a massive new hydropower transmission line connecting New York City to Canada. The post Self-Own #837: High Tech Hydropower Transmission Trips Up Trump&#8217;s Fossil Fuel Fantasy appeared first on CleanTechnica .",
-        "title_cn": "自有# 837 ：高科技水力输电攀升特朗普的化石燃料幻想"
-      },
-      {
-        "title": "New Most Efficient Solar Panels, Turning Ocean Water into Drinking Water — Top Stories of the Week",
-        "link": "https://cleantechnica.com/2026/06/17/new-most-efficient-solar-panels-turning-ocean-water-into-drinking-water-top-stories-of-the-week/",
-        "pubDate": "Wed, 17 Jun 2026 18:00:48 +0000",
-        "description": "It&#8217;s time for another rundown of the most popular stories of the past week here on CleanTechnica. Take a look below at what grabbed people&#8217;s interest, and then also see the various CleanTechnica originals we published in the past week. Most Efficient Solar Module in the World — New Recor",
-        "title_cn": "新型高效太阳能电池板，将海水转化为饮用水—本周热门故事"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,16 +260,16 @@
         "description": "现代汽车集团在南极科学基地建设绿色氢能电网，推动环保能源转型 &nbsp;&nbsp; 亚洲日报"
       },
       {
-        "title": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUDh0LWNmMXJDckxjTmN0emllX0hxUWdQNXdTR3hIMTVkLXpBeHhFdEF2LUlnT3ljUXFlTjBvLXhTeXhUZlc5YndSYUoyLU11LW1ZZFRjdm1JdDEyQW5KbkhVbVpTa25USDZRWVZ1cUFNX3ZxcEZHUmpZUVlwd1VRTE81VGltSFVfdUEyTHNFamhmSWZmLWEyRnZyVWhnaEM1UGRvMlFNazZLWWEyaTBlUndkd2FMOEVFYURHdTAxbTVaTXFpcDBSUGNZVXAwU1N4LWdHdGRwSDVjV21rR3BzWlY0WERtNUo2NlhqdklNVmlMZm5MR1RodTdGR09UcklVUkRkWDU5d3IyS3hDYW12MQ?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 00:43:59 GMT",
-        "description": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "氢能已过“死亡谷” ？但多数企业还在渡劫 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlZnNEk3MVpGejI1d1VpUjFRVE5rc1JvYmZxQjZlQ3lST1phQy1LWGI5THN0NG9ZcXJESFFhV2luTVZoenBuVkpPMHR5TjBrdWIxTURuQ2s5MmRubVZTelQyb244bVU0WFJxY3VlMHJkV0ItS01RR011NDhzUFdEZDRCRE0yV01JTmU3Zw?oc=5",
         "pubDate": "Mon, 15 Jun 2026 03:26:54 GMT",
         "description": "氢能已过“死亡谷” ？但多数企业还在渡劫 &nbsp;&nbsp; Sohu"
+      },
+      {
+        "title": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ2RRbU5qSDNGVlhQSE92enJWQkFtZWFFdmFuSWJBanhxazJtc09NU1NRNnIzUVZHV3JYNTE1Q04xdDVabHFhWUs3dDhYYzFma2c3cTJSSU5xWDNLdmlHQU9wZFJWYl85THBTcVN5eF9XT0pneEJldE40N3RqMnBadUNrZjVCQXJoZ3RERnpNZWprVnp4aTZDZnRaOEJXS0twaGlFb0RzVTJFVEFIVV9UcHg5VmZ6NlQzb1RIdVQzTGFsWTZ5Ymh1bVFUR0JlYmppd3lUX1FzVkZMTlVnazlzOTBHRkhSeWJFby02SWxacGVyZWFqTEloR29Ka0I1dk9lSlBaWg?oc=5",
+        "pubDate": "Mon, 15 Jun 2026 00:43:56 GMT",
+        "description": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,16 +494,22 @@
         "description": "全国23省市“绿电直连”政策密集落地，新能源消纳的“最后一公里”正在打通！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
-        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
+        "title": "陕西绿电直连政策发布！工业-零碳园区、增量配电网等分布式光伏可开展多用户绿电直连。 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UX0FFMjNHYzA0QUNQZ1lDUzFDZGh4RGliLXAzQTNaS0NnYVMyVTBSTmRWTFlWZFhibjJRMUM4MFZjUnpsR0x3bGZMVjdGeS1ISlJJNWJoVnhVTHo0OEFqTnBKRjFWbUVYeGtIUTBiXzMxQQ?oc=5",
+        "pubDate": "Wed, 17 Jun 2026 00:28:00 GMT",
+        "description": "陕西绿电直连政策发布！工业-零碳园区、增量配电网等分布式光伏可开展多用户绿电直连。 &nbsp;&nbsp; 新浪网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
+        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
@@ -524,12 +530,6 @@
         "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; Sina finance"
-      },
-      {
         "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
         "pubDate": "Fri, 24 Apr 2026 16:25:04 GMT",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-18 11:05 UTC"
+    "updated": "2026-06-18 16:52 UTC"
   }
 }
