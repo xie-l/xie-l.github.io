@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+        "link": "https://www.nature.com/articles/s41586-026-10812-0",
+        "pubDate": "2026-06-19",
+        "description": "Nature, Published online: 19 June 2026; doi:10.1038/s41586-026-10812-0 Author Correction: Autophagic cell death restricts chromosomal instability during replicative crisis",
+        "title_cn": "作者更正：自噬细胞死亡限制了复制危机期间的染色体不稳定性"
+      },
+      {
+        "title": "Briefing Chat: Testosterone and sperm might get a boost from obesity drugs",
+        "link": "https://www.nature.com/articles/d41586-026-01963-1",
+        "pubDate": "2026-06-19",
+        "description": "Nature, Published online: 19 June 2026; doi:10.1038/d41586-026-01963-1 Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility, plus a two-year trial of a brain–computer interface.",
+        "title_cn": "简报聊天：睾酮和精子可能会从肥胖药物中得到提升"
+      },
+      {
         "title": "Stem cells banish severe autoimmune disease for 15 years",
         "link": "https://www.nature.com/articles/d41586-026-01925-7",
         "pubDate": "2026-06-19",
@@ -42,24 +56,10 @@
         "pubDate": "2026-06-18",
         "description": "Nature, Published online: 18 June 2026; doi:10.1038/d41586-026-01910-0 Embryonic ‘organizer cells’ can tell embryos of various phyla what kind of body to build.",
         "title_cn": "生命之树上的细胞移植暗示了动物是如何出现的"
-      },
-      {
-        "title": "Towards Conversational AI for Disease Management",
-        "link": "https://www.nature.com/articles/s41586-026-10764-5",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/s41586-026-10764-5 Towards Conversational AI for Disease Management",
-        "title_cn": "走向用于疾病管理的对话式人工智能"
-      },
-      {
-        "title": "Fiery data hint that controlled forest fires benefit human health",
-        "link": "https://www.nature.com/articles/d41586-026-01868-z",
-        "pubDate": "2026-06-17",
-        "description": "Nature, Published online: 17 June 2026; doi:10.1038/d41586-026-01868-z Analysis of wildfire in California suggests a net reduction in exposure to blaze-related air pollution.",
-        "title_cn": "火热的数据暗示，受控森林火灾有益于人类健康"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Trump Whacks Wind But Can’t Sack Solar Power",
+        "link": "https://cleantechnica.com/2026/06/19/solar-power-plants-us-texas-financing-faster/",
+        "pubDate": "Fri, 19 Jun 2026 15:52:04 +0000",
+        "description": "The Florida-based firm Origis Energy is accelerating its solar power plant pipeline with a new round of $900 million in financing, despite the sharp U-turn in federal energy policy. The post Trump Whacks Wind But Can&#8217;t Sack Solar Power appeared first on CleanTechnica .",
+        "title_cn": "特朗普抨击风但不能解雇太阳能"
+      },
+      {
+        "title": "Climate Solutions Need To Pass Three Tests Before They Deserve Policy Or Capital",
+        "link": "https://cleantechnica.com/2026/06/19/climate-solutions-three-tests-policy-capital/",
+        "pubDate": "Fri, 19 Jun 2026 14:48:00 +0000",
+        "description": "A lot of transition analysis gives too much credit to technologies that can be made to work and not enough scrutiny to whether they matter. The difference shows up across carbon capture hubs, synthetic fuel claims, small modular reactor schedules, cement decarbonization pathways, aviation fuel proje",
+        "title_cn": "气候解决方案需要通过三项测试才能获得政策或资本"
+      },
+      {
+        "title": "9,000 Miles Of Proof: Electric Trucks Can Tow, But Battery Size Is Everything",
+        "link": "https://cleantechnica.com/2026/06/19/9000-miles-of-proof-electric-trucks-can-tow-but-battery-size-is-everything/",
+        "pubDate": "Fri, 19 Jun 2026 14:24:59 +0000",
+        "description": "A couple of years ago, I wrote an article titled &#8220;We May Have Been Wrong To Mock GM&#8217;s Big Battery Approach To Electric Trucks.&#8221; Back then, it was incredibly easy to point and laugh at vehicles like the Hummer EV for carrying around absurdly massive battery packs just to go ... [con",
+        "title_cn": "9000英里的证明：电动卡车可以拖车，但电池大小就是一切"
+      },
       {
         "title": "Here Comes Another New Addition To The US EV Battery Ecosystem",
         "link": "https://cleantechnica.com/2026/06/19/ev-battery-supply-chain-us-graphite-alaska-ohio/",
@@ -151,31 +172,10 @@
         "pubDate": "Fri, 19 Jun 2026 00:40:05 +0000",
         "description": "Washington, DC — During its monthly open meeting today, the Federal Energy Regulatory Commission (FERC) indicated that it no longer plans to complete cumulative impact analyses when conducting environmental reviews of projects. The change was announced in an order approving the Eastern Gas Transmiss",
         "title_cn": "FERC将不再在环境审查中完成累积影响分析"
-      },
-      {
-        "title": "Clean Energy Groups Challenge Utility Commission Cancellation of N.C. Solar Development",
-        "link": "https://cleantechnica.com/2026/06/18/clean-energy-groups-challenge-utility-commission-cancellation-of-n-c-solar-development/",
-        "pubDate": "Fri, 19 Jun 2026 00:20:51 +0000",
-        "description": "Withholding clean energy resources could increase energy bills during increased demand. CHAPEL HILL, N.C. — The Southern Environmental Law Center filed a motion for preliminary injunction today in Wake County Superior Court and challenged the N.C. Utilities Commission’s order halting North Carolina’",
-        "title_cn": "清洁能源集团挑战公用事业委员会取消北卡罗来纳州太阳能开发项目"
-      },
-      {
-        "title": "Sierra Club Connecticut, State Representatives Host Black Lungs Matter: Juneteenth Press Event",
-        "link": "https://cleantechnica.com/2026/06/18/sierra-club-connecticut-state-representatives-host-black-lungs-matter-juneteenth-press-event/",
-        "pubDate": "Fri, 19 Jun 2026 00:00:00 +0000",
-        "description": "Hartford Advocates and Community Members Gathered to Remember, Honor Path to Freedom HARTFORD, Ct. — Today, Sierra Club Connecticut and State Representatives Minnie Gonzalez, Maryam Khan, and Jilian Gilchrist hosted Black Lungs Matter, a Juneteenth Press Conference, at the Connecticut Legislative Of",
-        "title_cn": "康涅狄格州塞拉俱乐部代表主持Black Lungs Matter ： 6月份新闻发布会"
-      },
-      {
-        "title": "Jackery Solar Roof & SolarVault 3 Home Energy Storage System — CleanTechnica Field Trip",
-        "link": "https://cleantechnica.com/2026/06/18/jackery-solar-roof-solarvault-3-home-energy-storage-system-cleantechnica-field-trip/",
-        "pubDate": "Thu, 18 Jun 2026 23:19:52 +0000",
-        "description": "Jackery was one of the early pioneers in portable power stations and has continued to push the envelope in the space. It recently hosted CleanTechnica on a dedicated media tour at its headquarters in Shenzhen, China, where the company gave us an early look at its new solar roof system ... [continued",
-        "title_cn": "Jackery太阳能屋顶和SolarVault 3家用储能系统— CleanTechnica实地考察"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,10 +254,10 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUDh0LWNmMXJDckxjTmN0emllX0hxUWdQNXdTR3hIMTVkLXpBeHhFdEF2LUlnT3ljUXFlTjBvLXhTeXhUZlc5YndSYUoyLU11LW1ZZFRjdm1JdDEyQW5KbkhVbVpTa25USDZRWVZ1cUFNX3ZxcEZHUmpZUVlwd1VRTE81VGltSFVfdUEyTHNFamhmSWZmLWEyRnZyVWhnaEM1UGRvMlFNazZLWWEyaTBlUndkd2FMOEVFYURHdTAxbTVaTXFpcDBSUGNZVXAwU1N4LWdHdGRwSDVjV21rR3BzWlY0WERtNUo2NlhqdklNVmlMZm5MR1RodTdGR09UcklVUkRkWDU5d3IyS3hDYW12MQ?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 00:43:59 GMT",
-        "description": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 &nbsp;&nbsp; 新浪财经"
+        "title": "AI的尽头是电力？2026“氢能时代”降临，美股与台股氢能概念股梳理 - TradingKey",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUGdCLVRYQXhEUkFjTWYzTEptUDNqeHcxNkdNRlJseVU0aGl3VlhGTXdZOUIzOC1PX2FwNExOWGluemtUbDlfblp5TmdsWm0wSFYtOEpWZGl6eElLSGh6aVFUQzljMkRUazZVbWYyY0pyeFdMc3dUcnpNdE54cElRNjNvcEs1M1NYeV9vc0dCQWRGNjQ3bkNyZW1veTBxSWZoY3BhY1BGU1phM3hsYkZiQ2duRXI3dGpnMjZHSWFRMjFWSFpsRnZmUTM0X083NVpNOGgzOVJRYw?oc=5",
+        "pubDate": "Fri, 19 Jun 2026 01:00:00 GMT",
+        "description": "AI的尽头是电力？2026“氢能时代”降临，美股与台股氢能概念股梳理 &nbsp;&nbsp; TradingKey"
       },
       {
         "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
@@ -272,26 +272,26 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "氢能已过“死亡谷” ？但多数企业还在渡劫 - 搜狐网",
+        "title": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUDh0LWNmMXJDckxjTmN0emllX0hxUWdQNXdTR3hIMTVkLXpBeHhFdEF2LUlnT3ljUXFlTjBvLXhTeXhUZlc5YndSYUoyLU11LW1ZZFRjdm1JdDEyQW5KbkhVbVpTa25USDZRWVZ1cUFNX3ZxcEZHUmpZUVlwd1VRTE81VGltSFVfdUEyTHNFamhmSWZmLWEyRnZyVWhnaEM1UGRvMlFNazZLWWEyaTBlUndkd2FMOEVFYURHdTAxbTVaTXFpcDBSUGNZVXAwU1N4LWdHdGRwSDVjV21rR3BzWlY0WERtNUo2NlhqdklNVmlMZm5MR1RodTdGR09UcklVUkRkWDU5d3IyS3hDYW12MQ?oc=5",
+        "pubDate": "Mon, 15 Jun 2026 00:43:59 GMT",
+        "description": "2026氢能与燃料电池汽车大会：多方共议抢抓氢能未来产业发展机遇_手机新浪网 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "氢能已过“死亡谷” ？但多数企业还在渡劫 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlZnNEk3MVpGejI1d1VpUjFRVE5rc1JvYmZxQjZlQ3lST1phQy1LWGI5THN0NG9ZcXJESFFhV2luTVZoenBuVkpPMHR5TjBrdWIxTURuQ2s5MmRubVZTelQyb244bVU0WFJxY3VlMHJkV0ItS01RR011NDhzUFdEZDRCRE0yV01JTmU3Zw?oc=5",
         "pubDate": "Mon, 15 Jun 2026 03:26:54 GMT",
-        "description": "氢能已过“死亡谷” ？但多数企业还在渡劫 &nbsp;&nbsp; 搜狐网"
+        "description": "氢能已过“死亡谷” ？但多数企业还在渡劫 &nbsp;&nbsp; Sohu"
       },
       {
         "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
         "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
         "description": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -518,25 +518,25 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36Kr",
+        "title": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15YUQ5enFCSHRFRnE2c01OMkV6aVBtVGQtQnFDT0dNS2tOQ2hZWXNmdmdhQXFfSVJkVVd6SWhBSnVtdy1iTlNGaklkNk80QQ?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36Kr"
-      },
-      {
-        "title": "谁执牛耳？绿氢氨醇万亿赛道，中国如何抢占话语权？ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjJVQnVKYWNpSTlFQWZKMGhBbW5oeDgyX1oyejF1YjNWUE5MdURiQTB2ano2VjJicUtxbkZtczJCS1JnZ012NGUydEtaaVB0bW5TeGM5QXBINkdPVnJzWVE3SVBMU1NfU0dhTDdOdDVSR2l5ejZJbUxXYkpjWDBBNjViMi1vUGFTMjZ2VHJ3?oc=5",
-        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
-        "description": "谁执牛耳？绿氢氨醇万亿赛道，中国如何抢占话语权？ &nbsp;&nbsp; 新浪财经"
+        "description": "多用户绿电直连政策出台，不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 36 Kr"
       },
       {
         "title": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 - 证券时报",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRm9faXB4c19FNVZuR3Rtc015dmRfQnk2MmdTVmFrUlNIOURuRmViZmlGUDdSREdrbWtuc1BOS0pGbV9lV3ZYd3RDMmdwOW9xYld1dFVkY3lvX1Jz?oc=5",
         "pubDate": "Thu, 28 Aug 2025 07:00:00 GMT",
         "description": "百万千瓦级项目启动在即 “绿电直连”将重塑能源消费格局 &nbsp;&nbsp; 证券时报"
+      },
+      {
+        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
+        "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-19 11:26 UTC"
+    "updated": "2026-06-19 16:29 UTC"
   }
 }
