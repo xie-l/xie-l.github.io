@@ -23,6 +23,13 @@
         "title_cn": "3I/ATLAS寒冷和遥远起源的同位素证据"
       },
       {
+        "title": "A spacecraft is falling to its doom — can NASA save it?",
+        "link": "https://www.nature.com/articles/d41586-026-01949-z",
+        "pubDate": "2026-06-22",
+        "description": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01949-z A successful rescue of the Swift space observatory could be a good omen for the Hubble Space Telescope.",
+        "title_cn": "一艘航天器正在濒临灭亡--美国宇航局能拯救它吗？"
+      },
+      {
         "title": "The first ticking ‘nuclear clocks’ are here — what can they do?",
         "link": "https://www.nature.com/articles/d41586-026-01909-7",
         "pubDate": "2026-06-22",
@@ -49,17 +56,10 @@
         "pubDate": "2026-06-22",
         "description": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01957-z Researchers have long discussed the replication crisis. Now it’s time to tackle another problem in the behavioural sciences: generalizability.",
         "title_cn": "让科学更可靠：研究人们的生活"
-      },
-      {
-        "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
-        "link": "https://www.nature.com/articles/d41586-026-01802-3",
-        "pubDate": "2026-06-22",
-        "description": "Nature, Published online: 22 June 2026; doi:10.1038/d41586-026-01802-3 The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue damage and cancer.",
-        "title_cn": "癌细胞采用前所未有的策略来产生一种保护它们免受铁依赖性死亡的分子"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,24 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Zurich to Get Robotaxis",
+        "link": "https://cleantechnica.com/2026/06/22/zurich-to-get-robotaxis/",
+        "pubDate": "Mon, 22 Jun 2026 21:51:29 +0000",
+        "description": "Robotaxis are being trialled mostly in the US, China, and a few specific niche places like the UAE and Singapore. Europe has been much slower to jump into robotaxi trials. But it&#8217;s edging into them now, and we have an announcement about the first robotaxi service launching in Switzerland — ...",
+        "title_cn": "苏黎世获得机器人出租车"
+      },
+      {
+        "title": "Tesla On Autopilot Crashes Into Texas House, Killing One",
+        "link": "https://cleantechnica.com/2026/06/22/tesla-on-autopilot-crashes-into-texas-house-killing-one/",
+        "pubDate": "Mon, 22 Jun 2026 18:49:08 +0000",
+        "description": "On Friday, June 19, 2026, a Tesla Model Y driven by Michael Butler left the road and crashed into a home in Katy, Texas. A 76-year-old woman in the living room was struck by the car. She was airlifted to a hospital and was later pronounced dead. Butler told police ... [continued] The post Tesla On A",
+        "title_cn": "特斯拉自动驾驶仪撞入德克萨斯州的房子，造成一人死亡"
+      },
       {
         "title": "CleanTech Constraints Are Real, But They Aren’t Static",
         "link": "https://cleantechnica.com/2026/06/22/cleantech-constraints-real-not-static/",
@@ -158,24 +172,10 @@
         "pubDate": "Mon, 22 Jun 2026 02:50:42 +0000",
         "description": "The technical case for subsea power cables connecting Southeast Asia’s electricity systems has long been established. The next challenge is ensuring that governance arrangements evolve alongside the growing scale and complexity of regional electricity integration. A new analysis from Ember finds tha",
         "title_cn": "到2040年，东南亚有5个拟议的海底电力电缆项目—但它需要的第一个环节是治理"
-      },
-      {
-        "title": "Boston Metal’s Current Evidence Points To Critical Metals, Not Green Steel",
-        "link": "https://cleantechnica.com/2026/06/21/boston-metal-critical-metals-green-steel-proof/",
-        "pubDate": "Sun, 21 Jun 2026 23:50:53 +0000",
-        "description": "Boston Metal’s public story has shifted in a way that makes the company more credible in the near term, but less sweeping as a green-steel story. The company is still built around molten oxide electrolysis, or MOE, an electrically driven process for reducing metal oxides without coal. The near-term ",
-        "title_cn": "波士顿金属目前的证据指向关键金属，而不是绿钢"
-      },
-      {
-        "title": "The Kenyon G2 Electric Grill — CleanTechnica Tested",
-        "link": "https://cleantechnica.com/2026/06/21/the-kenyon-g2-electric-grill-cleantechnica-tested/",
-        "pubDate": "Sun, 21 Jun 2026 23:26:39 +0000",
-        "description": "Cooking is something everybody on the planet needs to do, and one company has been building electric grills to make it easy and emissions free to grill up a delicious meal. Kenyon reached out to us to see if we wanted to try their new G2 electric grill, and we ... [continued] The post The Kenyon G2 ",
-        "title_cn": "Kenyon G2电烤架—经过CleanTechnica测试"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Green Hydrogen Facility Nears Completion at Dutch Van Kessel Greenpoint Station",
-        "link": "https://fuelcellsworks.com/2026/06/17/clean-energy/green-hydrogen-facility-nears-completion-at-dutch-van-kessel-greenpoint-station",
-        "pubDate": "Fri, 19 Jun 2026 15:55:01 GMT",
+        "title": "UK and Philippines Scientists Investigate Natural Hydrogen Generation Processes at Atomic Scale",
+        "link": "https://fuelcellsworks.com/2026/06/22/energy-innovation/uk-and-philippines-scientists-investigate-natural-hydrogen-generation-processes-at-atomic-scale",
+        "pubDate": "Mon, 22 Jun 2026 16:10:52 GMT",
         "description": "",
-        "title_cn": "荷兰Van Kessel Greenpoint站的绿色氢设施即将竣工"
+        "title_cn": "英国和菲律宾科学家研究原子尺度上的天然氢气生成过程"
       },
       {
-        "title": "CEO-Led Call-to-Action: Hydrogen for a Resilient World",
-        "link": "https://fuelcellsworks.com/2026/06/19/energy-policy/ceo-led-call-to-action-hydrogen-for-a-resilient-world",
-        "pubDate": "Fri, 19 Jun 2026 15:50:01 GMT",
+        "title": "Europe's Hydrogen Backbone Is Surveying Ten Towns in Central Italy",
+        "link": "https://fuelcellsworks.com/2026/06/21/h2/europe-s-hydrogen-backbone-is-surveying-ten-towns-in-central-italy",
+        "pubDate": "Mon, 22 Jun 2026 16:02:23 GMT",
         "description": "",
-        "title_cn": "首席执行官牵头的号召性用语：氢能助力韧性世界"
+        "title_cn": "欧洲氢气骨干正在意大利中部的十个城镇进行调查"
       },
       {
-        "title": "Cetim's Thermoplastic Composite Tank Hits 1,675 Bar Hydrogen Storage",
-        "link": "https://fuelcellsworks.com/2026/06/19/energy-innovation/cetim-s-thermoplastic-composite-tank-hits-1-675-bar-hydrogen-storage",
-        "pubDate": "Fri, 19 Jun 2026 15:37:50 GMT",
+        "title": "Sasol Pivots to a Broader Northern Cape Green Hydrogen Development Model",
+        "link": "https://fuelcellsworks.com/2026/06/22/energy-development/sasol-pivots-to-a-broader-northern-cape-green-hydrogen-development-model",
+        "pubDate": "Mon, 22 Jun 2026 16:00:19 GMT",
         "description": "",
-        "title_cn": "Cetim的热塑性复合材料储罐可储存1,675巴的氢气"
+        "title_cn": "沙索转向更广泛的北开普省绿色氢开发模式"
       },
       {
-        "title": "Evonik Extends Efficiency Program “Tailor Made”",
-        "link": "https://fuelcellsworks.com/2026/06/19/green-investment/evonik-extends-efficiency-program-tailor-made",
-        "pubDate": "Fri, 19 Jun 2026 15:26:09 GMT",
+        "title": "Toyota Mobility Foundation (TMF) Launches European Hydrogen Regions Initiative and Opens a Call for Regional Partners",
+        "link": "https://fuelcellsworks.com/2026/06/22/fuel-cells/toyota-mobility-foundation-tmf-launches-european-hydrogen-regions-initiative-and-opens-a-call-for-regional-partners",
+        "pubDate": "Mon, 22 Jun 2026 15:50:44 GMT",
         "description": "",
-        "title_cn": "赢创扩展“量身定制”的效率计划"
+        "title_cn": "丰田移动基金会(TMF)启动欧洲氢能地区计划并呼吁区域合作伙伴"
       },
       {
-        "title": "CRC Evans and Monter Partner on Europe’s First Hydrogen Valley Pipeline Project",
-        "link": "https://fuelcellsworks.com/2026/06/19/energy-innovation/crc-evans-and-monter-partner-on-europe-s-first-hydrogen-valley-pipeline-project",
-        "pubDate": "Fri, 19 Jun 2026 15:02:41 GMT",
+        "title": "Story You May Have Missed--Confirmed: BYD Steps Into Hydrogen — Its Fudi Fuel Cells Now Power GAC Trucks",
+        "link": "https://fuelcellsworks.com/2026/06/15/fuel-cells/confirmed-byd-steps-into-hydrogen-its-fudi-fuel-cells-now-power-gac-trucks",
+        "pubDate": "Mon, 22 Jun 2026 15:32:53 GMT",
         "description": "",
-        "title_cn": "CRC Evans和Monter在欧洲首个氢谷管道项目上合作"
+        "title_cn": "您可能错过的故事--已确认：比亚迪步入氢能--其Fudi燃料电池现在为广汽卡车提供动力"
       },
       {
-        "title": "JCB Hydromax World Land Speed Record Attempt Surges Ahead",
-        "link": "https://fuelcellsworks.com/2026/06/19/fuel-cells/jcb-hydromax-world-land-speed-record-attempt-surges-ahead",
-        "pubDate": "Fri, 19 Jun 2026 14:42:47 GMT",
+        "title": "Ecopetrol Starts Partnership with Germany's GIZ to Produce Sustainable Aviation Fuels From Green Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/06/22/green-hydrogen/ecopetrol-starts-partnership-with-germany-s-giz-to-produce-sustainable-aviation-fuels-from-green-hydrogen",
+        "pubDate": "Mon, 22 Jun 2026 15:29:37 GMT",
         "description": "",
-        "title_cn": "JCB Hydromax世界陆地速度记录尝试激增"
+        "title_cn": "Ecopetrol开始与德国GIZ合作，利用绿色氢气生产可持续航空燃料"
       },
       {
-        "title": "Maximator Hydrogen Hits 65 Operating Refueling Stations — With More on the Way",
-        "link": "https://fuelcellsworks.com/2026/06/18/clean-energy/maximator-hydrogen-hits-65-operating-refueling-stations-with-more-on-the-way",
-        "pubDate": "Fri, 19 Jun 2026 14:39:35 GMT",
+        "title": "World's First Narrow-Gauge Hydrogen Train Unveiled",
+        "link": "https://fuelcellsworks.com/2026/06/22/fuel-cells/world-s-first-narrow-gauge-hydrogen-train-unveiled",
+        "pubDate": "Mon, 22 Jun 2026 15:08:12 GMT",
         "description": "",
-        "title_cn": "Maximator Hydrogen击中65个运行中的加油站—更多加油站即将推出"
+        "title_cn": "全球首款窄轨氢气列车揭幕"
       },
       {
-        "title": "Taiwan Energy Administration Leads Delegation to Canada for Exchanges on Next-Generation Geothermal and Hydrogen Technologies",
-        "link": "https://fuelcellsworks.com/2026/06/19/energy-development/taiwan-energy-administration-leads-delegation-to-canada-for-exchanges-on-next-generation-geothermal-and-hydrogen-technologies",
-        "pubDate": "Fri, 19 Jun 2026 14:34:51 GMT",
+        "title": "Latent Drive Demonstrates SeaStack Direct Seawater Hydrogen Technology at Portland Port",
+        "link": "https://fuelcellsworks.com/2026/06/22/electrolyzer/latent-drive-demonstrates-seastack-direct-seawater-hydrogen-technology-at-portland-port",
+        "pubDate": "Mon, 22 Jun 2026 15:04:05 GMT",
         "description": "",
-        "title_cn": "台湾能源局率团赴加拿大交流下一代地热和氢技术"
+        "title_cn": "Latent Drive在波特兰港演示SeaStack直接海水氢技术"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,28 +494,22 @@
         "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "一周能源政策回顾（5.23-5.30） - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
-        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; 新浪财经"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% - 腾讯新闻",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLNUtlWVRnWUpZdXhHVjk4Zno4QThtOGtvbkwtNnpPdWJ4MkdvRUMzWWZjZ2NJb182bnY3TWp2MGtxajRZYkxZamwzTU5aaUhGenB6Z0NB?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 02:18:00 GMT",
-        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% &nbsp;&nbsp; 腾讯新闻"
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
         "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
         "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "5月光伏政策复盘分析：“136号文”相关文件、光伏指标、“十五五”规划、绿电直连等相关政策，事关18省34条 - 国际太阳能光伏网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15aENfeHRJYzZWYm10enZSUkZXTEp6WElOREFkSm1OTDZuRVFSTnZKTHdnLWVIbW9LWEVZMTJiSHlPaTVjVW9HdjVXUVZaLUpRNF8xZG94SXl3N0E2SFE?oc=5",
-        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "description": "5月光伏政策复盘分析：“136号文”相关文件、光伏指标、“十五五”规划、绿电直连等相关政策，事关18省34条 &nbsp;&nbsp; 国际太阳能光伏网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -530,13 +524,19 @@
         "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% - 腾讯新闻",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLNUtlWVRnWUpZdXhHVjk4Zno4QThtOGtvbkwtNnpPdWJ4MkdvRUMzWWZjZ2NJb182bnY3TWp2MGtxajRZYkxZamwzTU5aaUhGenB6Z0NB?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 02:18:00 GMT",
+        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% &nbsp;&nbsp; 腾讯新闻"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSDR3U2R1LXlfYjA0TlRGT0wwdGtvNHpTeWQta25wRklpQk4wZm8zR1d5Rm05N1hyODAwd1ZCUm5EaHR6YVZ4S0Z2U0x1MUctOXliaHRDZm1nN2JIS2hIeWR3SHdoVmVYbEpuNmxMdlRYQW1wQkM3dkY5NGxqbHJJWWUtSzBfM1BwN3B1SDVHUQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-22 18:09 UTC"
+    "updated": "2026-06-22 23:14 UTC"
   }
 }
