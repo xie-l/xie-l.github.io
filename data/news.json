@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
+        "link": "https://www.nature.com/articles/s41586-026-10799-8",
+        "pubDate": "2026-06-23",
+        "description": "Nature, Published online: 23 June 2026; doi:10.1038/s41586-026-10799-8 Retraction Note: Sub-second periodicity in a fast radio burst",
+        "title_cn": "收回注意：快速无线电突发中的亚秒周期"
+      },
+      {
         "title": "Nepal’s new science ministry must strengthen scientific capacity",
         "link": "https://www.nature.com/articles/d41586-026-01970-2",
         "pubDate": "2026-06-23",
@@ -49,17 +56,10 @@
         "pubDate": "2026-06-23",
         "description": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01955-1 Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain.",
         "title_cn": "欧洲作为科学超级大国：如何与美国和中国相抗衡"
-      },
-      {
-        "title": "How should I respond to race-based exclusion in my lab?",
-        "link": "https://www.nature.com/articles/d41586-026-01130-6",
-        "pubDate": "2026-06-23",
-        "description": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01130-6 A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?",
-        "title_cn": "我应该如何应对实验室中基于种族的排斥？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "tech_cn": {
     "items": [
@@ -91,7 +91,7 @@
         "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
         "link": "https://36kr.com/p/3865565708752134?f=rss",
         "pubDate": "2026-06-23 17:44:46  +0800",
-        "description": "我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演讲给了我们一个思考的起点，现在，我们要把它变成一场辩论。 以下为圆桌对话内容，经36氪整理编辑： 图源：Waves现场 海若镜｜暗涌副主编（主持人） 王鹤���｜CMC AI创意基金 张毅｜静水湖创投 创始管理合伙人 聂艾玲 | 钛动科技 创始合伙人 石亚琼 | 锦秋基金副总裁 海若镜： 大家好！首先非常欢迎各位来到我们今天的WAVES大会，我是这场圆桌的主"
+        "description": "我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演讲给了我们一个思考的起点，现在，我们要把它变成一场辩论。 以下为圆桌对话内容，经36氪整理编辑： 图源：Waves现场 海若镜｜暗涌副主编（主持人） 王鹤宇｜CMC AI创意基金 张毅｜静水湖创投 创始管理合伙人 聂艾玲 | 钛动科技 创始合伙人 石亚琼 | 锦秋基金副总裁 海若镜： 大家好！首先非常欢迎各位来到我们今天的WAVES大会，我是这场圆桌的主持人"
       },
       {
         "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Electricity Wins Because It Breaks The Fossil Fuel Chain",
+        "link": "https://cleantechnica.com/2026/06/23/electricity-breaks-fossil-fuel-chain/",
+        "pubDate": "Tue, 23 Jun 2026 22:25:20 +0000",
+        "description": "One of the easiest ways to get the energy transition wrong is to treat electricity as just another fuel. Coal, oil, gas, hydrogen, ammonia, methanol and electricity are often placed in parallel columns, as if the future is mainly a substitution table. That framing preserves too much of the fossil ..",
+        "title_cn": "电力赢得胜利，因为它打破了化石燃料链"
+      },
+      {
+        "title": "How You Can Fight Climate Disinformation",
+        "link": "https://cleantechnica.com/2026/06/23/how-you-can-fight-climate-disinformation/",
+        "pubDate": "Tue, 23 Jun 2026 19:29:47 +0000",
+        "description": "It&#8217;s a fact of contemporary life: social media is the most popular way for people of all ages to get their information. Heaven forbid the internet goes out! We&#8217;d miss out on checking our favorite stories on Instagram, TikTok, Facebook, or X. Quick access, however, masks unverified inform",
+        "title_cn": "如何对抗气候虚假信息"
+      },
+      {
+        "title": "Australian Mine Goes 155 Hours Powered 100% By Renewables",
+        "link": "https://cleantechnica.com/2026/06/23/australian-mine-goes-155-hours-powered-100-by-renewables/",
+        "pubDate": "Tue, 23 Jun 2026 16:58:49 +0000",
+        "description": "Solar power and battery storage have become the leading options for new grid power capacity across the world, so they&#8217;re also clearly top options for off-grid power. So, they are being used more and more for off-grid applications like mining. We have the story this month of a gold mine ... [co",
+        "title_cn": "澳大利亚矿山运行155小时， 100%由可再生能源提供动力"
+      },
       {
         "title": "Two Microgrids With Solar Power Being Developed For Tribal Community In California",
         "link": "https://cleantechnica.com/2026/06/23/two-microgrids-with-solar-power-being-developed-for-tribal-community-in-california/",
@@ -151,31 +172,10 @@
         "pubDate": "Tue, 23 Jun 2026 05:46:07 +0000",
         "description": "Jackery is launching its latest generation of HomePower batteries, including the HomePower 1000 v2, HomePower 2000 Plus v2 and HomePower 3600 Pro Max. All are being offered with limited-time promotion pricing on the Jackery website from today, June 23rd, through to June 26th. In signature charcoal a",
         "title_cn": "Jackery推出最新的多功能家用电池"
-      },
-      {
-        "title": "Mona L03 Launching Next Month",
-        "link": "https://cleantechnica.com/2026/06/22/mona-l03-launching-next-month/",
-        "pubDate": "Tue, 23 Jun 2026 03:58:31 +0000",
-        "description": "Yes, please! Oh, no, never mind — it&#8217;s a Chinese car, so it can&#8217;t be bought in the USA. Well, for those who can get a Mona L03, lucky you — it looks great! The small SUV is expected to be priced around 150,000 yuan ($22,140) in China, and the ... [continued] The post Mona L03 Launching N",
-        "title_cn": "MONA L03下月上市"
-      },
-      {
-        "title": "NIO Factory Two Recognized As A Global Lighthouse Factory",
-        "link": "https://cleantechnica.com/2026/06/22/nio-factory-two-recognized-as-a-global-lighthouse-factory/",
-        "pubDate": "Tue, 23 Jun 2026 03:50:29 +0000",
-        "description": "On June 22, 2026, the World Economic Forum (WEF) announced the latest additions to its Global Lighthouse Network (GLN), with NIO Factory Two (“NIO F2”) joining the network as a Lighthouse. As the WEF notes, “intensifying competition in the electric vehicle sector demands faster product development, ",
-        "title_cn": "蔚来工厂二号被认定为全球灯塔工厂"
-      },
-      {
-        "title": "LEGO Installing Another Large Solar Power Plant",
-        "link": "https://cleantechnica.com/2026/06/22/lego-installing-another-large-solar-power-plant/",
-        "pubDate": "Tue, 23 Jun 2026 03:44:02 +0000",
-        "description": "LEGO is trying to rapidly increase its use of renewable energy. That includes solar power, of course, the cheapest option for new electricity capacity or generation. The Denmark-based company is thus now building a new solar power plant. The solar power plant is being built in Billund, Denmark. &#82",
-        "title_cn": "乐高安装另一座大型太阳能发电厂"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,22 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSE1tazNFWEJ3eXJYX0FqekNCQ3BERVVkT2ZZVllYY3R2VHVDZzJfSzZHVFVac0ZHMGp5VmV5Y2xHTVU0RnhoYS1yWWtPU1VmZEdXbQ?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:14:01 GMT",
+        "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
+        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
+      },
       {
         "title": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSUhfZ09NRFlfMHN2UUpGdUs4bUs1dmNFYkVNUktzTGxIWFpQOGIwUU9yQUIySnNUSU9HaUpROEJNWTVKM0N6TVZDenhnTGMwaDVwMw?oc=5",
@@ -248,22 +260,10 @@
         "description": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44RDZGYl9aRWI3NUcwbzVjeUo2ckwyLVlmOTVLV3NJd1Bwb1A4aUd2M2l4NzZXeklPc3EtQllpeGtvTFhvSTg4RGVWSl9VWTY0UWYzLXZ3?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 00:59:11 GMT",
-        "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wY1BKaTd5WnF6c21VaUNtZ3IyT29uNkpxV3owN04zeVhEc0IwbTR1MklCYnRPWktMREhDd3FsWmREUDBEUXloanFyRUwySU85ZGlIdmJ1UTV6UlQ0eFE?oc=5",
         "pubDate": "Tue, 23 Jun 2026 01:11:17 GMT",
         "description": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "World-First for Power-to-Liquid: ERA ONE Receives RFNBO Certification for Green Hydrogen-Based E-Fuel Made in Germany",
-        "link": "https://fuelcellsworks.com/2026/06/22/fuel-cells/world-first-for-power-to-liquid-era-one-receives-rfnbo-certification-for-green-hydrogen-based-e-fuel-made-in-germany",
-        "pubDate": "Mon, 22 Jun 2026 16:27:25 GMT",
+        "title": "THREE60 Energy and Logan Partner to Deliver Integrated Hydrogen Projects",
+        "link": "https://fuelcellsworks.com/2026/06/23/hydrogen/three60-energy-and-logan-partner-to-deliver-integrated-hydrogen-projects",
+        "pubDate": "Tue, 23 Jun 2026 16:00:10 GMT",
         "description": "",
-        "title_cn": "世界首创的液化能源： ERA ONE获得德国制造的绿色氢基电子燃料RFNBO认证"
+        "title_cn": "THREE60 Energy和Logan合作提供综合氢能项目"
       },
       {
-        "title": "UK and Philippines Scientists Investigate Natural Hydrogen Generation Processes at Atomic Scale",
-        "link": "https://fuelcellsworks.com/2026/06/22/energy-innovation/uk-and-philippines-scientists-investigate-natural-hydrogen-generation-processes-at-atomic-scale",
-        "pubDate": "Mon, 22 Jun 2026 16:10:52 GMT",
+        "title": "Symbolic Launch of Hydrogen Infrastructure at the BMW Group Plant in Regensburg",
+        "link": "https://fuelcellsworks.com/2026/06/23/h2/symbolic-launch-of-hydrogen-infrastructure-at-the-bmw-group-plant-in-regensburg",
+        "pubDate": "Tue, 23 Jun 2026 15:54:34 GMT",
         "description": "",
-        "title_cn": "英国和菲律宾科学家研究原子尺度上的天然氢气生成过程"
+        "title_cn": "宝马集团雷根斯堡工厂氢能基础设施的象征性启动"
       },
       {
-        "title": "Europe's Hydrogen Backbone Is Surveying Ten Towns in Central Italy",
-        "link": "https://fuelcellsworks.com/2026/06/21/h2/europe-s-hydrogen-backbone-is-surveying-ten-towns-in-central-italy",
-        "pubDate": "Mon, 22 Jun 2026 16:02:23 GMT",
+        "title": "One Year on the Road: How Toyota’s Hydrogen Trucks Are Delivering Real-World Logistics",
+        "link": "https://fuelcellsworks.com/2026/06/23/fuel-cells/one-year-on-the-road-how-toyota-s-hydrogen-trucks-are-delivering-real-world-logistics",
+        "pubDate": "Tue, 23 Jun 2026 15:45:47 GMT",
         "description": "",
-        "title_cn": "欧洲氢气骨干正在意大利中部的十个城镇进行调查"
+        "title_cn": "一年的旅程：丰田的氢能卡车如何提供真实世界的物流"
       },
       {
-        "title": "Sasol Pivots to a Broader Northern Cape Green Hydrogen Development Model",
-        "link": "https://fuelcellsworks.com/2026/06/22/energy-development/sasol-pivots-to-a-broader-northern-cape-green-hydrogen-development-model",
-        "pubDate": "Mon, 22 Jun 2026 16:00:19 GMT",
+        "title": "UK Hydrogen Firms Must Change Tack Amid HAR2 Delays",
+        "link": "https://fuelcellsworks.com/2026/06/23/energy-development/uk-hydrogen-firms-must-change-tack-amid-har2-delays",
+        "pubDate": "Tue, 23 Jun 2026 15:32:22 GMT",
         "description": "",
-        "title_cn": "沙索转向更广泛的北开普省绿色氢开发模式"
+        "title_cn": "在HAR2延迟的情况下，英国氢能公司必须改变策略"
       },
       {
-        "title": "Toyota Mobility Foundation (TMF) Launches European Hydrogen Regions Initiative and Opens a Call for Regional Partners",
-        "link": "https://fuelcellsworks.com/2026/06/22/fuel-cells/toyota-mobility-foundation-tmf-launches-european-hydrogen-regions-initiative-and-opens-a-call-for-regional-partners",
-        "pubDate": "Mon, 22 Jun 2026 15:50:44 GMT",
+        "title": "Jukka Nieminen Appointed Chairman of the Board and Matti Malkamäki Named CEO of Hycamite",
+        "link": "https://fuelcellsworks.com/2026/06/23/hydrogen-economy/jukka-nieminen-appointed-chairman-of-the-board-and-matti-malkamaki-named-ceo-of-hycamite",
+        "pubDate": "Tue, 23 Jun 2026 15:20:16 GMT",
         "description": "",
-        "title_cn": "丰田移动基金会(TMF)启动欧洲氢能地区计划并呼吁区域合作伙伴"
+        "title_cn": "Jukka Nieminen被任命为董事会主席， Matti Malkamäki被任命为Hycamite首席执行官"
       },
       {
-        "title": "Story You May Have Missed--Confirmed: BYD Steps Into Hydrogen — Its Fudi Fuel Cells Now Power GAC Trucks",
-        "link": "https://fuelcellsworks.com/2026/06/15/fuel-cells/confirmed-byd-steps-into-hydrogen-its-fudi-fuel-cells-now-power-gac-trucks",
-        "pubDate": "Mon, 22 Jun 2026 15:32:53 GMT",
+        "title": "Hydrogen Expansion Risks Slowing if Green Gas Rules Create New Barriers",
+        "link": "https://fuelcellsworks.com/2026/06/22/green-hydrogen/hydrogen-expansion-risks-slowing-if-green-gas-rules-create-new-barriers",
+        "pubDate": "Tue, 23 Jun 2026 15:10:52 GMT",
         "description": "",
-        "title_cn": "您可能错过的故事--已确认：比亚迪步入氢能--其Fudi燃料电池现在为广汽卡车提供动力"
+        "title_cn": "如果绿色天然气规则造成新的障碍，氢气扩张风险将放缓"
       },
       {
-        "title": "Ecopetrol Starts Partnership with Germany's GIZ to Produce Sustainable Aviation Fuels From Green Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/06/22/green-hydrogen/ecopetrol-starts-partnership-with-germany-s-giz-to-produce-sustainable-aviation-fuels-from-green-hydrogen",
-        "pubDate": "Mon, 22 Jun 2026 15:29:37 GMT",
+        "title": "MHIET's 500kW-Class Hydrogen Engine Generator Set Achieves Technology Readiness Level for Commercialization",
+        "link": "https://fuelcellsworks.com/2026/06/23/fuel-cells/mhiet-s-500kw-class-hydrogen-engine-generator-set-achieves-technology-readiness-level-for-commercialization",
+        "pubDate": "Tue, 23 Jun 2026 15:04:21 GMT",
         "description": "",
-        "title_cn": "Ecopetrol开始与德国GIZ合作，利用绿色氢气生产可持续航空燃料"
+        "title_cn": "MHIET的500kW级氢发电机组达到商业化技术就绪水平"
       },
       {
-        "title": "World's First Narrow-Gauge Hydrogen Train Unveiled",
-        "link": "https://fuelcellsworks.com/2026/06/22/fuel-cells/world-s-first-narrow-gauge-hydrogen-train-unveiled",
-        "pubDate": "Mon, 22 Jun 2026 15:08:12 GMT",
+        "title": "Cross-Border Hydrogen Initiative Seeks to Strengthen Industrial Competitiveness",
+        "link": "https://fuelcellsworks.com/2026/06/22/h2/cross-border-hydrogen-initiative-seeks-to-strengthen-industrial-competitiveness",
+        "pubDate": "Tue, 23 Jun 2026 14:50:39 GMT",
         "description": "",
-        "title_cn": "全球首款窄轨氢气列车揭幕"
+        "title_cn": "跨境氢能倡议旨在加强产业竞争力"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "papers": {
     "items": [
@@ -429,21 +429,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSE1tazNFWEJ3eXJYX0FqekNCQ3BERVVkT2ZZVllYY3R2VHVDZzJfSzZHVFVac0ZHMGp5VmV5Y2xHTVU0RnhoYS1yWWtPU1VmZEdXbQ?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 01:14:01 GMT",
-        "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSE1tazNFWEJ3eXJYX0FqekNCQ3BERVVkT2ZZVllYY3R2VHVDZzJfSzZHVFVac0ZHMGp5VmV5Y2xHTVU0RnhoYS1yWWtPU1VmZEdXbQ?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:14:01 GMT",
+        "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,31 +512,31 @@
         "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "5月光伏政策复盘分析：“136号文”相关文件、光伏指标、“十五五”规划、绿电直连等相关政策，事关18省34条 - 国际太阳能光伏网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15aENfeHRJYzZWYm10enZSUkZXTEp6WElOREFkSm1OTDZuRVFSTnZKTHdnLWVIbW9LWEVZMTJiSHlPaTVjVW9HdjVXUVZaLUpRNF8xZG94SXl3N0E2SFE?oc=5",
-        "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "description": "5月光伏政策复盘分析：“136号文”相关文件、光伏指标、“十五五”规划、绿电直连等相关政策，事关18省34条 &nbsp;&nbsp; 国际太阳能光伏网"
-      },
-      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
+        "title": "一周能源政策回顾（5.23-5.30） - Sina finance",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHemJrS3BGU3FDVFdYWjV4X0lZUV9TSFJmaGZ2TnEzQmR6eUdTZklvNE9rRTRQMmtHVERxV1I2ci0tMGZ2VzF5b0dTc1ZxOEVWTHdRZTNFeXBiN1FpM1VNMkxzQVh3bllTdzE1U3RURUkyUE10Umc?oc=5",
+        "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+        "description": "一周能源政策回顾（5.23-5.30） &nbsp;&nbsp; Sina finance"
       },
       {
         "title": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfaDN5OHphTEZxRHJzcmllQ0tkWjVZdDNrSmd1N3dsX3hNbTJTcWtDRU1fWWFmb0x5elRCQTVTclI5SzExNUtKaVVYY1VtMWpEWHc3X3JfYnJ0SUtHQjdBck92VkQ4ajhNN1FFZ2JqYw?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "国泰海通证券：氢能绿色燃料政策催化频出，多项龙头项目加速落地 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
+        "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
+        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-23 16:23 UTC"
+    "updated": "2026-06-23 23:02 UTC"
   }
 }
