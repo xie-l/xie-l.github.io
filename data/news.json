@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate",
+        "link": "https://www.nature.com/articles/s41586-026-10813-z",
+        "pubDate": "2026-06-24",
+        "description": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10813-z Author Correction: cBAF complex components and MYC cooperate early in CD8 + T cell fate",
+        "title_cn": "作者更正： cBAF复合物组分和MYC在CD8 + T细胞命运的早期合作"
+      },
+      {
         "title": "Role of methanesulfonic acid in atmospheric particle nucleation and growth",
         "link": "https://www.nature.com/articles/s41586-026-10810-2",
         "pubDate": "2026-06-24",
@@ -37,29 +44,22 @@
         "title_cn": "人工智能培训数据漏洞可能会泄露医疗记录"
       },
       {
-        "title": "The mutational landscape of STING-induced immunity",
-        "link": "https://www.nature.com/articles/s41586-026-10685-3",
+        "title": "AI tool spots antibiotics that fight drug-resistant gonorrhoea",
+        "link": "https://www.nature.com/articles/d41586-026-01987-7",
         "pubDate": "2026-06-24",
-        "description": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10685-3 A massively parallel assay systematically charts the sequence-function landscape of the STING signalling protein, and the findings define molecular principles that tune STING activity and show its functional potential across immu",
-        "title_cn": "STING诱导免疫的突变格局"
+        "description": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01987-7 The bacterium Neisseria gonorrhoeae has evolved resistance to most antibiotics used to treat it, but a machine-learning screen reveals potential therapies.",
+        "title_cn": "AI工具发现对抗耐药性淋病的抗生素"
       },
       {
-        "title": "Genetic technologies to enhance crop nutritional value under climate change",
-        "link": "https://www.nature.com/articles/s41586-026-10593-6",
+        "title": "Volcanic magma sculpts eerie domes on the sea floor",
+        "link": "https://www.nature.com/articles/d41586-026-01986-8",
         "pubDate": "2026-06-24",
-        "description": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10593-6 This Review reflects on the joint power of genetic technologies, including untapped CRISPR–Cas techniques to combat hidden hunger and improve crop resilience, and argues in favour of their combined use to overcome these societal ",
-        "title_cn": "在气候变化下提高作物营养价值的遗传技术"
-      },
-      {
-        "title": "Dietary cholesterol activates a Ral-dependent pathway driving LDLR turnover",
-        "link": "https://www.nature.com/articles/s41586-026-10697-z",
-        "pubDate": "2026-06-24",
-        "description": "Nature, Published online: 24 June 2026; doi:10.1038/s41586-026-10697-z Chronic dietary cholesterol activates Ral GTPases, which promote LDLR internalization and lysosomal degradation through RalBP1–REPS1 and CTSA, thereby reducing cholesterol clearance, whereas CTSA inhibition restores LDLR function",
-        "title_cn": "膳食胆固醇激活驱动LDLR周转的Ral依赖性途径"
+        "description": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01986-8 Carbon dioxide bubbling up from underground material can solidify into formations of up to five metres tall.",
+        "title_cn": "海底火山岩浆雕塑怪异圆顶"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "California Challenges Shady Offshore Wind Cancellations",
+        "link": "https://cleantechnica.com/2026/06/24/california-challenges-shady-offshore-wind-cancellations/",
+        "pubDate": "Wed, 24 Jun 2026 21:48:49 +0000",
+        "description": "Yesterday, the California Attorney General and California Energy Commission (CEC) filed a notice of intent to sue the Trump administration for its backroom deal that led to the cancellation of a major offshore wind project in exchange for out-of-state fossil fuel development. The CEC also issued a s",
+        "title_cn": "加利福尼亚州挑战阴暗的海上风电取消"
+      },
+      {
+        "title": "Sierra Club Leads Launch of New “One Million Kids Outdoors” Initiative to Connect More Children with Nature",
+        "link": "https://cleantechnica.com/2026/06/24/sierra-club-leads-launch-of-new-one-million-kids-outdoors-initiative-to-connect-more-children-with-nature/",
+        "pubDate": "Wed, 24 Jun 2026 21:31:01 +0000",
+        "description": "Sierra Club, as a leading member of the Outdoors Alliance for Kids, is excited to introduce the new One Million Kids Outdoors (1MKO) initiative today. The 1MKO initiative is a national movement that aims to get one million kids outdoors over the next year to transform their health and well-being. Dr",
+        "title_cn": "塞拉俱乐部发起新的“百万户外儿童”计划，将更多儿童与自然联系起来"
+      },
+      {
+        "title": "EU Should Accelerate Fleet Electrification, Not Slow It — Joint Letter",
+        "link": "https://cleantechnica.com/2026/06/24/eu-should-accelerate-fleet-electrification-not-slow-it-joint-letter/",
+        "pubDate": "Wed, 24 Jun 2026 20:32:40 +0000",
+        "description": "The European Union (EU) has done great electrifying new vehicle sales. Not nearly as good as China has done, but better than almost everyone else. However, every step of the way, legacy automakers say they need the transition to slow down. I feel like this argument has been made every ... [continued",
+        "title_cn": "欧盟应加速车队电气化，而不是减缓电气化—联名信"
+      },
+      {
+        "title": "The Bluetti Apex 300 & B300K Portable Power Station — CleanTechnica Tested",
+        "link": "https://cleantechnica.com/2026/06/24/the-bluetti-apex-300-b300k-portable-power-station-cleantechnica-tested/",
+        "pubDate": "Wed, 24 Jun 2026 18:13:04 +0000",
+        "description": "BLUETTI has been making some big moves in the energy storage space and is shaking things up again in the large portable power station market with the introduction of its new BLUETTI Apex 300 and B300K energy storage units. The BLUETTI Apex 300 serves as the base unit and brains ... [continued] The p",
+        "title_cn": "Bluetti Apex 300和B300K便携式发电站— CleanTechnica已测试"
+      },
+      {
+        "title": "California Preps For Battle Royale Over Offshore Wind Leases That Trump Wants To Kill",
+        "link": "https://cleantechnica.com/2026/06/24/floating-offshore-wind-farms-california-lawsuit-trump/",
+        "pubDate": "Wed, 24 Jun 2026 16:31:33 +0000",
+        "description": "Floating wind turbines are the key to California's ambitious offshore wind plans, and the state does not intend for the Trump administration to get in the way. The post California Preps For Battle Royale Over Offshore Wind Leases That Trump Wants To Kill appeared first on CleanTechnica .",
+        "title_cn": "加利福尼亚州为特朗普想要杀死的海上风电租赁大逃杀做准备"
+      },
       {
         "title": "Geopolitics Smooths The Energy Transition Curve",
         "link": "https://cleantechnica.com/2026/06/24/geopolitics-energy-transition-curve/",
@@ -133,52 +168,38 @@
       },
       {
         "title": "Trillion-Dollar AI Bubble On Verge Of Popping?",
-        "link": "https://cleantechnica.com/2026/06/23/trillion-dollar-ai-bubble-on-verge-of-popping/",
-        "pubDate": "Wed, 24 Jun 2026 03:55:29 +0000",
+        "link": "https://cleantechnica.com/2026/06/24/trillion-dollar-ai-bubble-on-verge-of-popping/",
+        "pubDate": "Wed, 24 Jun 2026 11:00:29 +0000",
         "description": "The amount of money being invested in AI (artificial intelligence) is wild. So much money is being poured into the industry. Investors all want to bet on leaders of this new era, and large AI companies are pouring a lot of that cash into enormous data centers packed with unbelievable ... [continued]",
         "title_cn": "万亿美元的人工智能泡沫即将破灭？"
-      },
-      {
-        "title": "Hyundai & Kia Unveil World’s 1st In-Vehicle “Plasma Care UVC” Sanitization Technology",
-        "link": "https://cleantechnica.com/2026/06/23/hyundai-kia-unveil-worlds-1st-in-vehicle-plasma-care-uvc-sanitization-technology/",
-        "pubDate": "Wed, 24 Jun 2026 03:50:10 +0000",
-        "description": "Hyundai Motor and Kia introduce a first-of-its-kind ‘Plasma Care UVC’ technology, utilizing Far-UVC light for in-vehicle sanitization The advanced system helps reduce bacteria and odor-causing microorganisms in the cabin, even while passengers are present Engineers developed a compact plasma-based s",
-        "title_cn": "现代和起亚推出全球首款车载“Plasma Care UVC”消毒技术"
-      },
-      {
-        "title": "UFOs Probably Aren’t Demons, But You Can Help Exorcise “Demons” In The Fossil Fuel Industry",
-        "link": "https://cleantechnica.com/2026/06/23/ufos-probably-arent-demons-but-you-can-help-exorcise-demons-in-the-fossil-fuel-industry/",
-        "pubDate": "Wed, 24 Jun 2026 03:18:09 +0000",
-        "description": "At the end of March, when I was busy getting ready to leave for my all-electric Route 66 trip, JD Vance dropped a turd in the UFO punchbowl. During an interview with Benny Johnson, he was asked about UFOs (it’s fashionable to call them UAPs today), and he said, “I ... [continued] The post UFOs Proba",
-        "title_cn": "不明飞行物可能不是恶魔，但你可以帮助驱除化石燃料行业的“恶魔”"
-      },
-      {
-        "title": "As An Extreme Heatwave Hits, UK Homes With Solar Panels Power Equivalent Of 5 Hours Of “Free” Daily Air Con Use",
-        "link": "https://cleantechnica.com/2026/06/23/as-an-extreme-heatwave-hits-uk-homes-with-solar-panels-power-equivalent-of-5-hours-of-free-daily-air-con-use/",
-        "pubDate": "Wed, 24 Jun 2026 03:04:05 +0000",
-        "description": "As the UK experiences extreme temperatures, with forecasts above 37°C, think tank Ember finds that households with rooftop solar are powering the equivalent of five hours of air conditioning a day. Solar and air conditioning have similar seasonal patterns, meaning that when the need for cooling hits",
-        "title_cn": "作为极端热浪袭击，英国拥有太阳能电池板的家庭相当于5小时的“免费”每日空调使用"
-      },
-      {
-        "title": "A Giant Shipping Firm Dips A Tiny Toe Into Wind Power",
-        "link": "https://cleantechnica.com/2026/06/23/wind-power-cargo-ships-dhl-vela-energy-diversity/",
-        "pubDate": "Wed, 24 Jun 2026 02:41:39 +0000",
-        "description": "Wind power is making a comeback in the maritime shipping industry, as exemplified by a new high-tech cargo-bearing catamaran from the French firm VELA Transportation. The post A Giant Shipping Firm Dips A Tiny Toe Into Wind Power appeared first on CleanTechnica .",
-        "title_cn": "一家巨型航运公司将一个小小的脚趾浸入风力发电"
-      },
-      {
-        "title": "“Carspreading” To Wipe Out Up To 14% Of On-Street Parking In European Cities — Study",
-        "link": "https://cleantechnica.com/2026/06/23/carspreading-to-wipe-out-up-to-14-of-on-street-parking-in-european-cities-study/",
-        "pubDate": "Wed, 24 Jun 2026 02:23:14 +0000",
-        "description": "A new study analyses the relentless growth of newly sold cars across all key dimensions. New cars are growing 1.2 cm longer every year, research finds London and Berlin set to lose over 100,000 parking spaces each due to swelling car size &#8220;Ever bigger&#8221; cars trend could kill 400 more ... ",
-        "title_cn": "“汽车铺设”将消除欧洲城市高达14%的路边停车位—研究"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Quantifying X-ray damage",
+        "link": "https://www.nature.com/articles/s41560-026-02098-3",
+        "pubDate": "2026-06-24",
+        "description": "Nature Energy, Published online: 24 June 2026; doi:10.1038/s41560-026-02098-3 Quantifying X-ray damage",
+        "title_cn": "量化X射线损伤"
+      },
+      {
+        "title": "Interacting causes of mini-grid failure",
+        "link": "https://www.nature.com/articles/s41560-026-02100-y",
+        "pubDate": "2026-06-24",
+        "description": "Nature Energy, Published online: 24 June 2026; doi:10.1038/s41560-026-02100-y Interacting causes of mini-grid failure",
+        "title_cn": "小型电网故障的相互作用原因"
+      },
+      {
+        "title": "Open-air perovskite fabrication",
+        "link": "https://www.nature.com/articles/s41560-026-02099-2",
+        "pubDate": "2026-06-24",
+        "description": "Nature Energy, Published online: 24 June 2026; doi:10.1038/s41560-026-02099-2 Open-air perovskite fabrication",
+        "title_cn": "露天钙钛矿制造"
+      },
       {
         "title": "Flowing zinc slurry for long-duration energy storage",
         "link": "https://www.nature.com/articles/s41560-026-02091-w",
@@ -213,31 +234,10 @@
         "pubDate": "2026-06-10",
         "description": "Nature Energy, Published online: 10 June 2026; doi:10.1038/s41560-026-02089-4 Electrocatalytic surfaces are dynamic, but few methods correlate nanometre-scale current with structure across large areas. Interferometric electro-optical microscopy now images electrochemical currents at 50 nm and 10 ms ",
         "title_cn": "观看催化剂散步"
-      },
-      {
-        "title": "Author Correction: Stable tin–lead perovskite inks for efficient all-perovskite tandems",
-        "link": "https://www.nature.com/articles/s41560-026-02097-4",
-        "pubDate": "2026-06-09",
-        "description": "Nature Energy, Published online: 09 June 2026; doi:10.1038/s41560-026-02097-4 Author Correction: Stable tin–lead perovskite inks for efficient all-perovskite tandems",
-        "title_cn": "作者更正：稳定的锡铅钙钛矿油墨，实现高效的全钙钛矿串联"
-      },
-      {
-        "title": "Understanding interconnected ion and water transport in anion exchange membrane zero-gap CO 2 electrolysers",
-        "link": "https://www.nature.com/articles/s41560-026-02052-3",
-        "pubDate": "2026-06-05",
-        "description": "Nature Energy, Published online: 05 June 2026; doi:10.1038/s41560-026-02052-3 Achieving long-term stability in low-temperature anion exchange membrane zero-gap CO2 electrolysers is hindered by salt precipitation and flooding, which limit CO2 transport. In this Perspective, the authors explore the in",
-        "title_cn": "了解阴离子交换膜零间隙CO 2电解槽中的互连离子和水运输"
-      },
-      {
-        "title": "Aligning global shipping climate policies with life cycle perspective",
-        "link": "https://www.nature.com/articles/s41560-026-02080-z",
-        "pubDate": "2026-05-29",
-        "description": "Nature Energy, Published online: 29 May 2026; doi:10.1038/s41560-026-02080-z The IMO Net-Zero Framework promotes adoption of low climate impact marine fuel through combination of pricing mechanism and fuel standard; however, fuel choice depends on competition for clean energy across sectors. Policie",
-        "title_cn": "使全球航运气候政策与生命周期观点保持一致"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,88 +272,88 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
+        "title": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wY1BKaTd5WnF6c21VaUNtZ3IyT29uNkpxV3owN04zeVhEc0IwbTR1MklCYnRPWktMREhDd3FsWmREUDBEUXloanFyRUwySU85ZGlIdmJ1UTV6UlQ0eFE?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:11:17 GMT",
+        "description": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 &nbsp;&nbsp; 中华网"
+      },
+      {
         "title": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSUhfZ09NRFlfMHN2UUpGdUs4bUs1dmNFYkVNUktzTGxIWFpQOGIwUU9yQUIySnNUSU9HaUpROEJNWTVKM0N6TVZDenhnTGMwaDVwMw?oc=5",
         "pubDate": "Tue, 23 Jun 2026 01:30:54 GMT",
         "description": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+        "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N2Rxay1OQ3M4T2ZMa1NOZFdGRHB0TnR5SE8yRGNuWWc3c29Lb3hfMENtT3JTbnRUMEd2cmhpclFvdXR3eERfQjRFeXl5S0VSdFlvWm12RVpGZzFudWlNemM5aDJKbDNEaWtxY21JQQ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "THREE60 Energy and Logan Partner to Deliver Integrated Hydrogen Projects",
-        "link": "https://fuelcellsworks.com/2026/06/23/hydrogen/three60-energy-and-logan-partner-to-deliver-integrated-hydrogen-projects",
-        "pubDate": "Tue, 23 Jun 2026 16:00:10 GMT",
+        "title": "Algeria and Siemens Energy Discuss Green Hydrogen and Ammonia Cooperation",
+        "link": "https://fuelcellsworks.com/2026/06/24/news/algeria-and-siemens-energy-discuss-green-hydrogen-and-ammonia-cooperation",
+        "pubDate": "Wed, 24 Jun 2026 16:32:45 GMT",
         "description": "",
-        "title_cn": "THREE60 Energy和Logan合作提供综合氢能项目"
+        "title_cn": "阿尔及利亚与西门子能源讨论绿色氢氨合作"
       },
       {
-        "title": "Symbolic Launch of Hydrogen Infrastructure at the BMW Group Plant in Regensburg",
-        "link": "https://fuelcellsworks.com/2026/06/23/h2/symbolic-launch-of-hydrogen-infrastructure-at-the-bmw-group-plant-in-regensburg",
-        "pubDate": "Tue, 23 Jun 2026 15:54:34 GMT",
+        "title": "Saudi Arabia’s Acwa Explores Desalination, Green Hydrogen Investments in Morocco",
+        "link": "https://fuelcellsworks.com/2026/06/24/news/saudi-arabia-s-acwa-explores-desalination-green-hydrogen-investments-in-morocco",
+        "pubDate": "Wed, 24 Jun 2026 16:23:39 GMT",
         "description": "",
-        "title_cn": "宝马集团雷根斯堡工厂氢能基础设施的象征性启动"
+        "title_cn": "沙特阿拉伯的Acwa在摩洛哥探索海水淡化、绿色氢投资"
       },
       {
-        "title": "One Year on the Road: How Toyota’s Hydrogen Trucks Are Delivering Real-World Logistics",
-        "link": "https://fuelcellsworks.com/2026/06/23/fuel-cells/one-year-on-the-road-how-toyota-s-hydrogen-trucks-are-delivering-real-world-logistics",
-        "pubDate": "Tue, 23 Jun 2026 15:45:47 GMT",
+        "title": "Graphene Catalyst Breakthrough Could Slash Hydrogen Fuel Cell Costs",
+        "link": "https://fuelcellsworks.com/2026/06/23/clean-energy/graphene-catalyst-breakthrough-could-slash-hydrogen-fuel-cell-costs",
+        "pubDate": "Wed, 24 Jun 2026 16:02:55 GMT",
         "description": "",
-        "title_cn": "一年的旅程：丰田的氢能卡车如何提供真实世界的物流"
+        "title_cn": "石墨烯催化剂的突破可以降低氢燃料电池的成本"
       },
       {
-        "title": "UK Hydrogen Firms Must Change Tack Amid HAR2 Delays",
-        "link": "https://fuelcellsworks.com/2026/06/23/energy-development/uk-hydrogen-firms-must-change-tack-amid-har2-delays",
-        "pubDate": "Tue, 23 Jun 2026 15:32:22 GMT",
+        "title": "ITM Power and Gore Report Ultra-Low Degradation in PEM Electrolysers",
+        "link": "https://fuelcellsworks.com/2026/06/24/energy-innovation/itm-power-and-gore-report-ultra-low-degradation-in-pem-electrolysers",
+        "pubDate": "Wed, 24 Jun 2026 15:56:49 GMT",
         "description": "",
-        "title_cn": "在HAR2延迟的情况下，英国氢能公司必须改变策略"
+        "title_cn": "ITM Power和Gore报告PEM电解槽超低降解"
       },
       {
-        "title": "Jukka Nieminen Appointed Chairman of the Board and Matti Malkamäki Named CEO of Hycamite",
-        "link": "https://fuelcellsworks.com/2026/06/23/hydrogen-economy/jukka-nieminen-appointed-chairman-of-the-board-and-matti-malkamaki-named-ceo-of-hycamite",
-        "pubDate": "Tue, 23 Jun 2026 15:20:16 GMT",
+        "title": "Humber Hydrogen Has the Potential to Unlock Billions in Value to the UK Economy",
+        "link": "https://fuelcellsworks.com/2026/06/24/hydrogen/humber-hydrogen-has-the-potential-to-unlock-billions-in-value-to-the-uk-economy",
+        "pubDate": "Wed, 24 Jun 2026 15:41:53 GMT",
         "description": "",
-        "title_cn": "Jukka Nieminen被任命为董事会主席， Matti Malkamäki被任命为Hycamite首席执行官"
+        "title_cn": "亨伯氢能有潜力为英国经济创造数十亿美元的价值"
       },
       {
-        "title": "Hydrogen Expansion Risks Slowing if Green Gas Rules Create New Barriers",
-        "link": "https://fuelcellsworks.com/2026/06/22/green-hydrogen/hydrogen-expansion-risks-slowing-if-green-gas-rules-create-new-barriers",
-        "pubDate": "Tue, 23 Jun 2026 15:10:52 GMT",
+        "title": "Electrolyser Manufacturers Urge EU to Make Industrial Decarbonisation Bank a Market-Creation Tool for Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/06/22/electrolyzer/electrolyser-manufacturers-urge-eu-to-make-industrial-decarbonisation-bank-a-market-creation-tool-for-hydrogen",
+        "pubDate": "Wed, 24 Jun 2026 15:12:52 GMT",
         "description": "",
-        "title_cn": "如果绿色天然气规则造成新的障碍，氢气扩张风险将放缓"
+        "title_cn": "电解槽制造商敦促欧盟将工业脱碳银行作为氢气的市场创造工具"
       },
       {
-        "title": "MHIET's 500kW-Class Hydrogen Engine Generator Set Achieves Technology Readiness Level for Commercialization",
-        "link": "https://fuelcellsworks.com/2026/06/23/fuel-cells/mhiet-s-500kw-class-hydrogen-engine-generator-set-achieves-technology-readiness-level-for-commercialization",
-        "pubDate": "Tue, 23 Jun 2026 15:04:21 GMT",
+        "title": "Scientists Demonstrate Solar-Powered Plastic Recycling at Real-World Scale",
+        "link": "https://fuelcellsworks.com/2026/06/24/education/scientists-demonstrate-solar-powered-plastic-recycling-at-real-world-scale",
+        "pubDate": "Wed, 24 Jun 2026 15:09:53 GMT",
         "description": "",
-        "title_cn": "MHIET的500kW级氢发电机组达到商业化技术就绪水平"
+        "title_cn": "科学家展示真实世界规模的太阳能塑料回收"
       },
       {
-        "title": "Cross-Border Hydrogen Initiative Seeks to Strengthen Industrial Competitiveness",
-        "link": "https://fuelcellsworks.com/2026/06/22/h2/cross-border-hydrogen-initiative-seeks-to-strengthen-industrial-competitiveness",
-        "pubDate": "Tue, 23 Jun 2026 14:50:39 GMT",
+        "title": "FuelCell Energy and Fit Energy Announce Strategic Agreement for up to 380 MW of Clean Power for Data Centers",
+        "link": "https://fuelcellsworks.com/2026/06/24/clean-energy/fuelcell-energy-and-fit-energy-announce-strategic-agreement-for-up-to-380-mw-of-clean-power-for-data-centers",
+        "pubDate": "Wed, 24 Jun 2026 14:54:12 GMT",
         "description": "",
-        "title_cn": "跨境氢能倡议旨在加强产业竞争力"
+        "title_cn": "FuelCell Energy和FIT Energy宣布达成战略协议，为数据中心提供高达380兆瓦的清洁能源"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,22 +500,22 @@
         "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ - 汽车之家",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWRGJWM2xwQXhjQ1ZtUTdLOWw0dlMtRWR5bVRyZ1VXb240TUJvUkgtUnN6MWNrcjJuNUNEbXZYdmFuS3lvTkg5NHZsNEpHMFpVeFRfS2EtREhVZTlfX3c?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 02:05:53 GMT",
-        "description": "上海绿牌政策或迎调整：纯电续航400km以上混动车免费送绿牌！ &nbsp;&nbsp; 汽车之家"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 每日经济新闻",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
+        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
       },
       {
         "title": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 - 新浪网",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ3JjbUVVS2hPZWNaYWh0TGM0MmY1bHFvTzZJUGMydDdpZWllQXoyMEpDakotVWJKTWUxcEw2Umk5YnlzdVAwdDNBa01NVkhkUk9Wb3FpZUFiWVVaWF9LbF9abTBCUUVBOTktSjRQYTYzQQ?oc=5",
         "pubDate": "Tue, 23 Jun 2026 22:26:51 GMT",
         "description": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 &nbsp;&nbsp; 新浪网"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
@@ -530,13 +530,13 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-24 16:11 UTC"
+    "updated": "2026-06-24 22:59 UTC"
   }
 }
