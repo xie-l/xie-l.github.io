@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Why science needs the humanities more than ever",
+        "link": "https://www.nature.com/articles/d41586-026-01958-y",
+        "pubDate": "2026-06-24",
+        "description": "Nature, Published online: 24 June 2026; doi:10.1038/d41586-026-01958-y From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.",
+        "title_cn": "为什么科学比以往任何时候都更需要人文科学"
+      },
+      {
         "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
         "link": "https://www.nature.com/articles/s41586-026-10799-8",
         "pubDate": "2026-06-23",
@@ -49,20 +56,37 @@
         "pubDate": "2026-06-23",
         "description": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01951-5 From energy grids to language performance, emerging economies are exposing the limits of today’s artificial-intelligence strategy as it expands globally.",
         "title_cn": "硅谷对全球人工智能的愿景存在缺陷：每个国家都需要自己的蓝图"
-      },
-      {
-        "title": "Europe as science superpower: what it will take to rival the US and China",
-        "link": "https://www.nature.com/articles/d41586-026-01955-1",
-        "pubDate": "2026-06-23",
-        "description": "Nature, Published online: 23 June 2026; doi:10.1038/d41586-026-01955-1 Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven — but questions about funding and innovation remain.",
-        "title_cn": "欧洲作为科学超级大国：如何与美国和中国相抗衡"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "完成数亿元新融资，影眸科技 Hyper3D 让 3D 生成进入“思考时代”丨36氪首发",
+        "link": "https://36kr.com/p/3865060112438533?f=rss",
+        "pubDate": "2026-06-24 18:06:36  +0800",
+        "description": "文｜王欣逸 编辑｜张雨忻 2026 年开年来，3D&nbsp;生成模型赛道相当热闹。 今年第一季度，影眸科技发布首个 3D 编辑模型 Rodin Gen-2 Edit，让 AI 3D 模型第一次可编辑；今年 6 月，VAST&nbsp;官宣了新一轮融资，Meshy&nbsp;也紧随其后，宣称自己发布了全球首款&nbsp;3D AI Agent。 近日，影眸科技——这支扎根学术圈、创业早、年轻的&nbsp;3D&nbsp;模型团队，带着最新的技术研究成果，以及新一轮融资，再添了一把火。 这支团队创立于&nbsp;2020&nbsp;年，创始人兼&nbsp;CEO 吴迪、和联合创始人兼 CTO 张"
+      },
+      {
+        "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+        "link": "https://36kr.com/p/3866900608701449?f=rss",
+        "pubDate": "2026-06-24 16:17:52  +0800",
+        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 海若镜丨36氪暗涌副主编（主持）"
+      },
+      {
+        "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+        "link": "https://36kr.com/p/3866854221698313?f=rss",
+        "pubDate": "2026-06-24 15:31:56  +0800",
+        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创��的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 6月17日下午，WAVES2026新浪潮大会进行了一场圆桌对话，主"
+      },
+      {
+        "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+        "link": "https://36kr.com/p/3866787672773888?f=rss",
+        "pubDate": "2026-06-24 14:39:25  +0800",
+        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都��中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 何思翀丨蚂蚁集团NEXTA创新"
+      },
       {
         "title": "仙工智能的过山车：暗盘破发7%、首日冲高38%",
         "link": "https://36kr.com/p/3866666733835522?f=rss",
@@ -86,37 +110,20 @@
         "link": "https://36kr.com/p/3866604451845377?f=rss",
         "pubDate": "2026-06-24 11:14:46  +0800",
         "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 以下为对话内容，经36氪整理编辑： 于功山丨辰宜科技 联合创始人 各"
-      },
-      {
-        "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
-        "link": "https://36kr.com/p/3865425714795525?f=rss",
-        "pubDate": "2026-06-24 10:00:00  +0800",
-        "description": "文｜王毓婵 编辑｜张雨忻 微信AI助手“小微”正在灰度内测，36氪智能涌现拿到了首批测试资格。 先说结论：一些简单操作，小微做得没那么好；一些复杂操作，小微反而做得比较好。 小微入口 小微的服务主要基于微信自研模型WeLM，部分回答可能会调用DeepSeek来处理。主入口在微信首页左上角，默认交互方式是语音转文字，亦可直接手动打字输入。 小微会默认开启记忆能力、个性化服务和授权帮助模型改进效果。用户也可以在“记忆与隐私”界面手动选择关闭。 这款尚为测试版的AI助手打通了小程序、微信聊天、朋友圈、公众号、视频号、微信小店等微信的基础功能，但同时又有很多做不到的事情——比如，它可以读取你的朋友圈内"
-      },
-      {
-        "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
-        "link": "https://36kr.com/p/3866531692844034?f=rss",
-        "pubDate": "2026-06-24 09:59:38  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。 随擎2025年初正式成立，此前已通过子公司完成近两年的技术积累与井下验证。随擎核心团队深耕智能机器人及特种装备行业多年，平均从业年限超过10年，形成从80后到98后的年龄梯队，核心骨干均有从产品定义到现场交付的全链条实战经历。创始人王龙是同济大学机器人方向博士，国内建筑机器人早期开拓者，曾任香港科技大学高级研究员。 在矿山机器人这个正在从“单点自动化”向“全场景无人化”跨越的赛道上，大多数"
-      },
-      {
-        "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
-        "link": "https://36kr.com/p/3865912900588548?f=rss",
-        "pubDate": "2026-06-24 09:00:59  +0800",
-        "description": "文 | 邓咏仪 编辑 | 张雨忻 火山引擎总裁谭待 来源：火山引擎 过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居然完成的差不多了”，随后目标再度上调。 2026 年初，字节的视频模型 Seedance 2.0 让火山引擎迎来了一场漂亮的开门红。作为云市场的后来者，火山引擎乘着 AI 的风，实现了让行业意想不到的增长。 “两年前我就和大家说 MaaS 是个大生意，当时你们都不信。”谭待对36氪说。 从 2025 年下半年开始，Coding 和视频模型陆续解锁了商业化生产的场景，这让大家发"
-      },
-      {
-        "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
-        "link": "https://36kr.com/p/3866428592657411?f=rss",
-        "pubDate": "2026-06-24 08:15:39  +0800",
-        "description": "今日热点导览 创业板指创年内最大跌幅，失守4200点整数关口 影石回应Luna Ultra新品骗国补质疑：发布会标价有误 上交所向沪市公司发出“提质增效重回报”2.0专项行动公开倡议 韩国将要求所有上市公司披露库存股详情 贾跃亭推出工业级轮臂机器人 TOP3大新闻 追觅辟谣汽车CEO离职：陈龙冬职务与网络传言不符，今年5月已离职 6月23日，针对追觅汽车CEO离职传闻，追觅旗下星辰未来汽车发布声明称：“陈龙冬先生于2025年6月加入追觅科技原星辰未来BU，担任BU负责人，其职务与网络传言‘追觅汽车CEO’不符；2026年5月，陈龙冬先生已从星辰未来离职，该离职属正常人事变动。” 此前公司大整改"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Trillion-Dollar AI Bubble On Verge Of Popping?",
+        "link": "https://cleantechnica.com/2026/06/23/trillion-dollar-ai-bubble-on-verge-of-popping/",
+        "pubDate": "Wed, 24 Jun 2026 03:55:29 +0000",
+        "description": "The amount of money being invested in AI (artificial intelligence) is wild. So much money is being poured into the industry. Investors all want to bet on leaders of this new era, and large AI companies are pouring a lot of that cash into enormous data centers packed with unbelievable ... [continued]",
+        "title_cn": "万亿美元的人工智能泡沫即将破灭？"
+      },
       {
         "title": "UFOs Probably Aren’t Demons, But You Can Help Exorcise “Demons” In The Fossil Fuel Industry",
         "link": "https://cleantechnica.com/2026/06/23/ufos-probably-arent-demons-but-you-can-help-exorcise-demons-in-the-fossil-fuel-industry/",
@@ -165,17 +172,10 @@
         "pubDate": "Tue, 23 Jun 2026 22:25:20 +0000",
         "description": "One of the easiest ways to get the energy transition wrong is to treat electricity as just another fuel. Coal, oil, gas, hydrogen, ammonia, methanol and electricity are often placed in parallel columns, as if the future is mainly a substitution table. That framing preserves too much of the fossil ..",
         "title_cn": "电力赢得胜利，因为它打破了化石燃料链"
-      },
-      {
-        "title": "How You Can Fight Climate Disinformation",
-        "link": "https://cleantechnica.com/2026/06/23/how-you-can-fight-climate-disinformation/",
-        "pubDate": "Tue, 23 Jun 2026 19:29:47 +0000",
-        "description": "It&#8217;s a fact of contemporary life: social media is the most popular way for people of all ages to get their information. Heaven forbid the internet goes out! We&#8217;d miss out on checking our favorite stories on Instagram, TikTok, Facebook, or X. Quick access, however, masks unverified inform",
-        "title_cn": "如何对抗气候虚假信息"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "energy": {
     "items": [
@@ -237,12 +237,61 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "energy_cn": {
-    "items": [],
+    "items": [
+      {
+        "title": "涉及光伏、储能、氢能等项目投资！国家能源局负责人会见沙特国际电力和水务公司董事长 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zbks1RmhVSW9oNzh3cThqaGpfaEdlQ3FUU2c2ZXhpTGR6TkU3ZFpsN243N3RicndvbFRyOFNKUkZqRS1XeWloVllleks4ZTEyREJQTXU5UVNWT2JtU1BrYkFnU1J6TG85?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 02:37:40 GMT",
+        "description": "涉及光伏、储能、氢能等项目投资！国家能源局负责人会见沙特国际电力和水务公司董事长 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T243c1duZDNhYWliRXdyNEg1cmdURVRwZTUzQklhbXdYRUU0b3hrYk9PWkhka3VfYzRvMl82VEVINDJINnhuTjNUZF9WMXdQNmpEU1YwWjVHYm9iQ2ZMTQ?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
+        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
+        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
+      },
+      {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 05:09:21 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wY1BKaTd5WnF6c21VaUNtZ3IyT29uNkpxV3owN04zeVhEc0IwbTR1MklCYnRPWktMREhDd3FsWmREUDBEUXloanFyRUwySU85ZGlIdmJ1UTV6UlQ0eFE?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:11:17 GMT",
+        "description": "丽水职业技术学院 “氢骑致远” 团队深入企业开展氢能燃料电池产业调研 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSUhfZ09NRFlfMHN2UUpGdUs4bUs1dmNFYkVNUktzTGxIWFpQOGIwUU9yQUIySnNUSU9HaUpROEJNWTVKM0N6TVZDenhnTGMwaDVwMw?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:30:54 GMT",
+        "description": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
+        "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N2Rxay1OQ3M4T2ZMa1NOZFdGRHB0TnR5SE8yRGNuWWc3c29Lb3hfMENtT3JTbnRUMEd2cmhpclFvdXR3eERfQjRFeXl5S0VSdFlvWm12RVpGZzFudWlNemM5aDJKbDNEaWtxY21JQQ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      }
+    ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "papers": {
     "items": [
@@ -380,16 +429,114 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "policy_nea": {
-    "items": [],
+    "items": [
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSE1tazNFWEJ3eXJYX0FqekNCQ3BERVVkT2ZZVllYY3R2VHVDZzJfSzZHVFVac0ZHMGp5VmV5Y2xHTVU0RnhoYS1yWWtPU1VmZEdXbQ?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:14:01 GMT",
+        "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
+        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
+        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "氢能新政策呼之欲出，产业迈向系统化发展新阶段 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wSzBVSTdzOWdPWFJmaU95dmtGSkl1VXNZM2VnUzh4NHFSVWhtb1YyY2RQNEJ5RlFydjczVGRqUnEyX21md1FzWDZ5aUhEQjBLMXdmYU1B?oc=5",
+        "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+        "description": "氢能新政策呼之欲出，产业迈向系统化发展新阶段 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      }
+    ],
     "source": "国家能源局",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   },
   "policy_ndrc": {
-    "items": [],
+    "items": [
+      {
+        "title": "一周能源政策回顾（6.13-6.18） - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbWl1d2l4dXlWdlN2YmJBbDVGaG1CUkRYRU1OaXZxM3R4TUlNY2YzbmY4eFNvRkVPaUtNMVZld1hPSmg3c3d4WXlNLVd6T3pQamRQQWJIalA5SEwwUXlzNEhpZjVlOTJweDJ1aXN4emFGQQ?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 01:57:00 GMT",
+        "description": "一周能源政策回顾（6.13-6.18） &nbsp;&nbsp; 新浪网"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRjR3VFl1aWFlQkZFUVd0ZnlNeWh2WVhSX1hfNTBnMm1LUy1Id2hPLW1Zbi1JUjVlaDZCMVdGQ0wwTUpYS1JQSTY4dFgyWjREMHIzNUpwbEEzUkNwLU9qQg?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 01:03:06 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
+        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLNUtlWVRnWUpZdXhHVjk4Zno4QThtOGtvbkwtNnpPdWJ4MkdvRUMzWWZjZ2NJb182bnY3TWp2MGtxajRZYkxZamwzTU5aaUhGenB6Z0NB?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 02:18:00 GMT",
+        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF大涨超2% &nbsp;&nbsp; QQ News"
+      }
+    ],
     "source": "发改委政策",
-    "updated": "2026-06-24 06:01 UTC"
+    "updated": "2026-06-24 10:16 UTC"
   }
 }
