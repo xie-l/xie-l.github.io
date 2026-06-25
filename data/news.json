@@ -59,10 +59,28 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
+        "link": "https://36kr.com/p/3868349472920576?f=rss",
+        "pubDate": "2026-06-25 17:19:27  +0800",
+        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以 ‘今年盛夏’ 为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些 ‘少数人’ 的坚持，如何汇聚成改变行业的浪潮。” 以下为开放麦内容，经36氪整理编辑： 胡奇｜启明创投执行董事 "
+      },
+      {
+        "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
+        "link": "https://36kr.com/p/3868276479710466?f=rss",
+        "pubDate": "2026-06-25 15:42:21  +0800",
+        "description": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有标准的文本Token，自动驾驶有统一的视觉或点云表征，这些基础格式的确定，让数据和模型可以在不同场景之间复用。但具身智能至今没有一个被行业公认的基础表征单元，其决定了数据如何采、模型从哪学、以及学习后是否能迁移至新场景。 过去两年，行业主流做法是让模型直接学习机器人的关节运动轨迹，即复刻某一个特定硬"
+      },
+      {
+        "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
+        "link": "https://36kr.com/p/3868204527457287?f=rss",
+        "pubDate": "2026-06-25 14:21:18  +0800",
+        "description": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透大众消费市场。 在激烈的竞争态势下，全球领先消费级 AR 品牌雷鸟创新（RayNeo）持续巩固其头部优势。Counterpoint Research、IDC、CINNO Research 三大权威机构数据一致显示，2026 年第一季度，雷鸟创新在全球及中国 AR 眼镜市场的出货量、销量均稳居第一，6"
+      },
       {
         "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
         "link": "https://36kr.com/p/3868045479711745?f=rss",
@@ -92,31 +110,41 @@
         "link": "https://36kr.com/p/3868019442881537?f=rss",
         "pubDate": "2026-06-25 11:14:02  +0800",
         "description": "本文约4500字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第二期，紫讯。 6月24日，紫讯技术（福建）股份有限公司向港交所递交了上市申请，国泰君安担任独家保荐人。和这两年扎堆赴港的未盈利18C不同，紫讯走的是主板 ——换句话说，这是一家 已经实打实赚钱 的公司。 紫讯招股书把自己定义为\"一家电商科技公司，致"
-      },
-      {
-        "title": "36氪首发 | 固态变压器领域累计出货超50MW，功率半导体模组厂商完成数千万元融资",
-        "link": "https://36kr.com/p/3867975570035717?f=rss",
-        "pubDate": "2026-06-25 10:29:39  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，矽迪半导体近日完成数千万元人民币天使轮+融资，由苏创投和婧嘉投资共同投资，后浪资本担任战略财务顾问。本轮融资资金将主要用于固态变压器（SST）功率模组研发、产品迭代以及供应链体系建设。 矽迪半导体成立于2023年，主要从事功率半导体模组的研发、制造与销售，产品覆盖全碳化硅（SiC）功率模组、IGBT+SiC混合模组以及定制化功率解决方案，应用方向包括光伏储能、数据中心电源以及固态变压器等场景。 据介绍，公司目前已累计开发约60款产品，其中近50余款产品进入量产阶段，量产产品以碳化硅三电平功率模组为主，主要面向"
-      },
-      {
-        "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
-        "link": "https://36kr.com/p/3866562600227847?f=rss",
-        "pubDate": "2026-06-25 09:00:00  +0800",
-        "description": "&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’&nbsp;变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 &nbsp;· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’&nbsp;的坚持，如何汇聚成改变行业的浪潮。” 活动现场，光源资本创始人"
-      },
-      {
-        "title": "8点1氪丨SK海力士已提交美国IPO申请；马斯克身家蒸发3400亿美元，已不是万亿富豪；券商暂停股票类跨境TRS新增",
-        "link": "https://36kr.com/p/3867827741086728?f=rss",
-        "pubDate": "2026-06-25 08:00:14  +0800",
-        "description": "今日热点导览 豆包专业版正式上线，采用三级阶梯定价方案 半导体新股暴涨900%，中一签该股最高盈利超20万元 以色列证实向伊朗偷运数万台“星链”接收器 霍尔木兹海峡对商船完全开放60天，国际油价下跌 券商暂停股票类跨境TRS新增，后续业务规模或将逐步归零 消息称苹果将于7月下旬量产首款可折叠iPhone TOP3大新闻 SK海力士已提交美国IPO申请 据报道，SK海力士已提交美国IPO申请，计划在纳斯达克上市。富邦证券、花旗集团、高盛、摩根大通为其首次公开募股（IPO）的承销商。（财联社） 马斯克身家蒸发3400亿美元，已不是万亿富豪 6月24日，埃隆·马斯克身价已跌破万亿美元。据彭博亿万富豪"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Charging Solutions for Heavy-Duty Electric Trucks",
+        "link": "https://cleantechnica.com/2026/06/24/charging-solutions-for-heavy-duty-electric-trucks/",
+        "pubDate": "Thu, 25 Jun 2026 03:59:56 +0000",
+        "description": "More and more heavy-duty electric trucks are hitting the roads in Australia. CleanTechnica has written about that here and here. Before we go any further, we need to note that most trucks in Australia run on defined short routes. Electrifying those routes, either with battery swapping (as does Janus",
+        "title_cn": "重型电动卡车充电解决方案"
+      },
+      {
+        "title": "Waymo Shares Stunning Safety Update",
+        "link": "https://cleantechnica.com/2026/06/24/waymo-shares-stunning-safety-update/",
+        "pubDate": "Thu, 25 Jun 2026 03:59:48 +0000",
+        "description": "Waymo has been tracking its safety statistics closely, of course, and even sharing them with other researchers and the public to allow for independent evaluation of how well it&#8217;s doing. The short story is: Waymo robotaxis are much safer than human drivers. The company has updated us on some of",
+        "title_cn": "Waymo分享令人惊叹的安全更新"
+      },
+      {
+        "title": "BYD’s New $35,500 SUV Is A Big Deal",
+        "link": "https://cleantechnica.com/2026/06/24/byds-new-35500-suv-is-a-big-deal/",
+        "pubDate": "Thu, 25 Jun 2026 03:58:45 +0000",
+        "description": "BYD has just launched a big new model, the refresh of one of its most popular models of all time. The new BYD Great Tang pulled in 150,000 pre-orders before pricing was even announced, the most reservations a BYD model has ever received. And then pricing was announced&#8230;. The BYD ... [continued]",
+        "title_cn": "比亚迪的新款$ 35,500 SUV是一笔大买卖"
+      },
+      {
+        "title": "BLUETTI Elite 400 — Goldilocks of Portable Power Stations? (Prime Day Specials!)",
+        "link": "https://cleantechnica.com/2026/06/24/bluetti-elite-400-goldilocks-of-portable-power-stations/",
+        "pubDate": "Thu, 25 Jun 2026 03:57:55 +0000",
+        "description": "I recently received and got to review a BLUETTI Elite 400 portable power station*. I&#8217;ve used and reviewed several portable power stations now. Different sizes with different capacities are right for different people and needs. No product is going to be perfect for everything. However, all thin",
+        "title_cn": "BLUETTI Elite 400 —便携式电站的金发女郎？ （黄金日特惠！ ）"
+      },
       {
         "title": "Europe EV Sales Report: BEVs Jump 39% and Reach 24% Market Share!",
         "link": "https://cleantechnica.com/2026/06/24/europe-ev-sales-report-bevs-jump-39-and-reach-24-market-share/",
@@ -144,38 +172,10 @@
         "pubDate": "Wed, 24 Jun 2026 21:48:49 +0000",
         "description": "Yesterday, the California Attorney General and California Energy Commission (CEC) filed a notice of intent to sue the Trump administration for its backroom deal that led to the cancellation of a major offshore wind project in exchange for out-of-state fossil fuel development. The CEC also issued a s",
         "title_cn": "加利福尼亚州挑战阴暗的海上风电取消"
-      },
-      {
-        "title": "Sierra Club Leads Launch of New “One Million Kids Outdoors” Initiative to Connect More Children with Nature",
-        "link": "https://cleantechnica.com/2026/06/24/sierra-club-leads-launch-of-new-one-million-kids-outdoors-initiative-to-connect-more-children-with-nature/",
-        "pubDate": "Wed, 24 Jun 2026 21:31:01 +0000",
-        "description": "Sierra Club, as a leading member of the Outdoors Alliance for Kids, is excited to introduce the new One Million Kids Outdoors (1MKO) initiative today. The 1MKO initiative is a national movement that aims to get one million kids outdoors over the next year to transform their health and well-being. Dr",
-        "title_cn": "塞拉俱乐部发起新的“百万户外儿童”计划，将更多儿童与自然联系起来"
-      },
-      {
-        "title": "EU Should Accelerate Fleet Electrification, Not Slow It — Joint Letter",
-        "link": "https://cleantechnica.com/2026/06/24/eu-should-accelerate-fleet-electrification-not-slow-it-joint-letter/",
-        "pubDate": "Wed, 24 Jun 2026 20:32:40 +0000",
-        "description": "The European Union (EU) has done great electrifying new vehicle sales. Not nearly as good as China has done, but better than almost everyone else. However, every step of the way, legacy automakers say they need the transition to slow down. I feel like this argument has been made every ... [continued",
-        "title_cn": "欧盟应加速车队电气化，而不是减缓电气化—联名信"
-      },
-      {
-        "title": "The Bluetti Apex 300 & B300K Portable Power Station — CleanTechnica Tested",
-        "link": "https://cleantechnica.com/2026/06/24/the-bluetti-apex-300-b300k-portable-power-station-cleantechnica-tested/",
-        "pubDate": "Wed, 24 Jun 2026 18:13:04 +0000",
-        "description": "BLUETTI has been making some big moves in the energy storage space and is shaking things up again in the large portable power station market with the introduction of its new BLUETTI Apex 300 and B300K energy storage units. The BLUETTI Apex 300 serves as the base unit and brains ... [continued] The p",
-        "title_cn": "Bluetti Apex 300和B300K便携式发电站— CleanTechnica已测试"
-      },
-      {
-        "title": "California Preps For Battle Royale Over Offshore Wind Leases That Trump Wants To Kill",
-        "link": "https://cleantechnica.com/2026/06/24/floating-offshore-wind-farms-california-lawsuit-trump/",
-        "pubDate": "Wed, 24 Jun 2026 16:31:33 +0000",
-        "description": "Floating wind turbines are the key to California's ambitious offshore wind plans, and the state does not intend for the Trump administration to get in the way. The post California Preps For Battle Royale Over Offshore Wind Leases That Trump Wants To Kill appeared first on CleanTechnica .",
-        "title_cn": "加利福尼亚州为特朗普想要杀死的海上风电租赁大逃杀做准备"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "energy": {
     "items": [
@@ -237,21 +237,27 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "国内首个电网侧“电化学+氢储能”独立储能示范项目在化德并网运营 - 时代储能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbUlZaEZqcDNhOHYzT0J5Wl9Ba1Izd1lTX1d4WnhfRXJyaS1QRmo4XzdaU1gtUzJuMkhkcWkyQ19yczhRZ1JEbWIyN0lXdTllOXNkRg?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 07:29:00 GMT",
+        "description": "国内首个电网侧“电化学+氢储能”独立储能示范项目在化德并网运营 &nbsp;&nbsp; 时代储能网"
+      },
+      {
+        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYam02THdFUi1UUDhuUkY1eE5oWkpvNGlldG5qUkp2NzhXZUtnVGFHZElQX0phYzhmYjQ1clZRVEtWNk82bW5JR3dDOVd5QUNOcndLTXktaTNyMWtEeTBB?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
+        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
+      },
       {
         "title": "涉及光伏、储能、氢能等项目投资！国家能源局负责人会见沙特国际电力和水务公司董事长 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zbks1RmhVSW9oNzh3cThqaGpfaEdlQ3FUU2c2ZXhpTGR6TkU3ZFpsN243N3RicndvbFRyOFNKUkZqRS1XeWloVllleks4ZTEyREJQTXU5UVNWT2JtU1BrYkFnU1J6TG85?oc=5",
         "pubDate": "Wed, 24 Jun 2026 02:37:40 GMT",
         "description": "涉及光伏、储能、氢能等项目投资！国家能源局负责人会见沙特国际电力和水务公司董事长 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T243c1duZDNhYWliRXdyNEg1cmdURVRwZTUzQklhbXdYRUU0b3hrYk9PWkhka3VfYzRvMl82VEVINDJINnhuTjNUZF9WMXdQNmpEU1YwWjVHYm9iQ2ZMTQ?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
-        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
@@ -266,12 +272,6 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "融资丨海德氢能完成B+轮融资 - 创业邦",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZHVTck1MQW9iNEJrcGtoblBDNUQzYlVfU1lPdmNXekZ2X0VOVkZMSE81WUJ4Wkg4alJnMmlZeUszbEtrWW9QYlg2bTBPRks2?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 09:03:06 GMT",
-        "description": "融资丨海德氢能完成B+轮融资 &nbsp;&nbsp; 创业邦"
-      },
-      {
         "title": "国家发改委：可再生能源制氢氨醇等综合利用设消费最低比重 - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSUhfZ09NRFlfMHN2UUpGdUs4bUs1dmNFYkVNUktzTGxIWFpQOGIwUU9yQUIySnNUSU9HaUpROEJNWTVKM0N6TVZDenhnTGMwaDVwMw?oc=5",
         "pubDate": "Tue, 23 Jun 2026 01:30:54 GMT",
@@ -284,14 +284,14 @@
         "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "title": "融资丨海德氢能完成B+轮融资 - 创业邦",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uZHVTck1MQW9iNEJrcGtoblBDNUQzYlVfU1lPdmNXekZ2X0VOVkZMSE81WUJ4Wkg4alJnMmlZeUszbEtrWW9QYlg2bTBPRks2?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 09:03:06 GMT",
+        "description": "融资丨海德氢能完成B+轮融资 &nbsp;&nbsp; 创业邦"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "papers": {
     "items": [
@@ -429,16 +429,10 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
       {
         "title": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lSE1tazNFWEJ3eXJYX0FqekNCQ3BERVVkT2ZZVllYY3R2VHVDZzJfSzZHVFVac0ZHMGp5VmV5Y2xHTVU0RnhoYS1yWWtPU1VmZEdXbQ?oc=5",
@@ -446,16 +440,10 @@
         "description": "一图读懂 | 可再生能源消费最低比重目标和可再生能源电力消纳责任权重制度实施办法 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
@@ -464,26 +452,38 @@
         "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "氢能新政策呼之欲出，产业迈向系统化发展新阶段 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wSzBVSTdzOWdPWFJmaU95dmtGSkl1VXNZM2VnUzh4NHFSVWhtb1YyY2RQNEJ5RlFydjczVGRqUnEyX21md1FzWDZ5aUhEQjBLMXdmYU1B?oc=5",
-        "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
-        "description": "氢能新政策呼之欲出，产业迈向系统化发展新阶段 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ei11X0tiVVI5cmJEV2lrenFTWW1mTFduUHEzcFRwODFBR3ZkWFlVbldQOHhUcVdFNUJtT0FKYXp0UjNCZkRtalV0VllpTEItRGxOMC1n?oc=5",
+        "pubDate": "Sat, 30 May 2026 07:00:00 GMT",
+        "description": "氢能「周事迹」事关国家能源局/大唐/国家电投/东方电气/中国能建/派瑞氢能/云韬氢能/耐德能源装备/氢枫/国富氢能 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,22 +500,10 @@
         "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
-      },
-      {
         "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 每日经济新闻",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
         "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
         "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
-      },
-      {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 - 新浪网",
@@ -534,9 +522,21 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
+        "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
+        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-25 06:00 UTC"
+    "updated": "2026-06-25 10:12 UTC"
   }
 }
