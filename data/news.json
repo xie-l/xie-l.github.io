@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+        "link": "https://www.nature.com/articles/s41586-026-10829-5",
+        "pubDate": "2026-06-25",
+        "description": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10829-5 Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+        "title_cn": "出版商更正：高效蓝色钙钛矿LED的原位纳米晶限制"
+      },
+      {
         "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
         "link": "https://www.nature.com/articles/s41586-026-10826-8",
         "pubDate": "2026-06-25",
@@ -23,6 +30,13 @@
         "title_cn": "Oo oo ， ha ha ：为什么人类和类人猿在挠痒痒时都会咯咯地笑"
       },
       {
+        "title": "US funding uncertainties threaten to sink key global oceanography projects",
+        "link": "https://www.nature.com/articles/d41586-026-02028-z",
+        "pubDate": "2026-06-25",
+        "description": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02028-z The United States has led the world in observing the oceans – but cuts and threats of cuts have researchers worried it is no longer a reliable partner.",
+        "title_cn": "美国资金的不确定性有可能使关键的全球海洋学项目陷入困境"
+      },
+      {
         "title": "China’s LineShine just topped the global supercomputer ranking: what you need to know",
         "link": "https://www.nature.com/articles/d41586-026-02047-w",
         "pubDate": "2026-06-25",
@@ -42,24 +56,10 @@
         "pubDate": "2026-06-25",
         "description": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-01899-6 Cholesterol carried by low-density lipoprotein (LDL) drives heart disease and is cleared by liver cells expressing the receptor LDLR. A cell-signalling mechanism has been discovered through which high cholesterol promotes the enz",
         "title_cn": "长期饮食中的胆固醇如何减缓肝细胞自身的清除速度"
-      },
-      {
-        "title": "Electric fields probe the symmetry of the ‘heavy hydrogen’ nucleus",
-        "link": "https://www.nature.com/articles/d41586-026-02036-z",
-        "pubDate": "2026-06-25",
-        "description": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02036-z The response of the nucleus of a deuterium atom to electric fields shows no evidence of asymmetry, which is consistent with conventional theories of particle physics.",
-        "title_cn": "电场探测“重氢”核的对称性"
-      },
-      {
-        "title": "‘Edited’ human embryos reveal secrets of our development — and fuel ethical debate",
-        "link": "https://www.nature.com/articles/d41586-026-02027-0",
-        "pubDate": "2026-06-25",
-        "description": "Nature, Published online: 25 June 2026; doi:10.1038/d41586-026-02027-0 Ethical discussions are urgently needed as genome-editing science advances, some researchers say.",
-        "title_cn": "“编辑”的人类胚胎揭示了我们发育的秘密—并引发了伦理辩论"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,52 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Jackery Finds A Partner in the Red Cross — CleanTechnica Field Trip",
+        "link": "https://cleantechnica.com/2026/06/25/jackery-finds-a-partner-in-the-red-cross-cleantechnica-field-trip/",
+        "pubDate": "Thu, 25 Jun 2026 22:37:30 +0000",
+        "description": "Jackery has been building portable power stations for consumers and businesses alike for years now. When we visited them at their Shenzhen, China headquarters, it was exciting to see their full and ever-expanding product lineup in person. Disclaimer: the author&#8217;s travel and accommodations were",
+        "title_cn": "Jackery在红十字会寻找合作伙伴— CleanTechnica实地考察"
+      },
+      {
+        "title": "Governor Landry’s Data Center Order is Too Little, Too Late",
+        "link": "https://cleantechnica.com/2026/06/25/governor-landrys-data-center-order-is-too-little-too-late/",
+        "pubDate": "Thu, 25 Jun 2026 22:25:15 +0000",
+        "description": "After spending years as one of the nation’s biggest data center supporters, Louisiana Gov. Jeff Landry has issued a hollow executive order calling for guardrails that would do far too little to protect Louisianans from the impacts of the very centers he has been courting. In response, Sierra Club is",
+        "title_cn": "兰德里州长的数据中心订单太少，太迟了"
+      },
+      {
+        "title": "Zoox Introduces Next-Generation Robotaxi",
+        "link": "https://cleantechnica.com/2026/06/25/zoox-introduces-next-generation-robotaxi/",
+        "pubDate": "Thu, 25 Jun 2026 21:40:44 +0000",
+        "description": "Zoox sort of feels like the robotaxi company that&#8217;s often forgotten. Or maybe that&#8217;s just me. You&#8217;ve got Waymo, which has been in this field for more than 15 years and is operating at the highest scale in the US, you&#8217;ve got Tesla and all of the press it gets ... [continued] T",
+        "title_cn": "Zoox推出下一代机器人出租车"
+      },
+      {
+        "title": "How One Local Utility Is Relocating to Reduce Pollution For The Florida Community It Serves",
+        "link": "https://cleantechnica.com/2026/06/25/how-one-local-utility-is-relocating-to-reduce-pollution-for-the-florida-community-it-serves/",
+        "pubDate": "Thu, 25 Jun 2026 21:37:34 +0000",
+        "description": "In 2017 about 1.25 million gallons of wastewater were released into the Indian River Lagoon because of a power outage at Fort Pierce Utilities Authority&#8217;s Water Reclamation facility on South Hutchinson Island. The Florida Department of Environmental Protection did not issue a fine for the viol",
+        "title_cn": "一家当地公用事业公司如何搬迁以减少其服务的佛罗里达社区的污染"
+      },
+      {
+        "title": "Anker SOLIX S2000 Review — CleanTechnica Tested",
+        "link": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
+        "pubDate": "Thu, 25 Jun 2026 20:39:56 +0000",
+        "description": "Anker was one of the earliest brands to establish itself as reliable in the consumer electronics space, so when they moved into portable power stations, we knew it was going to be good. Since then, they have filled in their lineup with an array of batteries that has continued to ... [continued] The ",
+        "title_cn": "Anker SOLIX S2000评测— CleanTechnica已测试"
+      },
+      {
+        "title": "The Inevitable Electrification of Labor? — CleanTechnica Field Trip",
+        "link": "https://cleantechnica.com/2026/06/25/the-inevitable-electrification-of-labor-cleantechnica-field-trip/",
+        "pubDate": "Thu, 25 Jun 2026 18:39:54 +0000",
+        "description": "CleanTechnica was invited on a media tour through China hosted by iMpactPR. They specialize in connecting Chinese companies with the outside world, and we were excited to dive deep into all of the innovation and manufacturing happening in China with them. Disclaimer: the author&#8217;s travel and ac",
+        "title_cn": "劳动力的不可避免的电气化？ — CleanTechnica实地考察"
+      },
       {
         "title": "Utah Voters Give Senate President Who Supported Giant Data Center The Heave Ho",
         "link": "https://cleantechnica.com/2026/06/25/utah-voters-give-senate-president-who-supported-giant-data-center-the-heave-ho/",
@@ -130,52 +172,10 @@
         "pubDate": "Thu, 25 Jun 2026 03:59:56 +0000",
         "description": "More and more heavy-duty electric trucks are hitting the roads in Australia. CleanTechnica has written about that here and here. Before we go any further, we need to note that most trucks in Australia run on defined short routes. Electrifying those routes, either with battery swapping (as does Janus",
         "title_cn": "重型电动卡车充电解决方案"
-      },
-      {
-        "title": "Waymo Shares Stunning Safety Update",
-        "link": "https://cleantechnica.com/2026/06/24/waymo-shares-stunning-safety-update/",
-        "pubDate": "Thu, 25 Jun 2026 03:59:48 +0000",
-        "description": "Waymo has been tracking its safety statistics closely, of course, and even sharing them with other researchers and the public to allow for independent evaluation of how well it&#8217;s doing. The short story is: Waymo robotaxis are much safer than human drivers. The company has updated us on some of",
-        "title_cn": "Waymo分享令人惊叹的安全更新"
-      },
-      {
-        "title": "BYD’s New $35,500 SUV Is A Big Deal",
-        "link": "https://cleantechnica.com/2026/06/24/byds-new-35500-suv-is-a-big-deal/",
-        "pubDate": "Thu, 25 Jun 2026 03:58:45 +0000",
-        "description": "BYD has just launched a big new model, the refresh of one of its most popular models of all time. The new BYD Great Tang pulled in 150,000 pre-orders before pricing was even announced, the most reservations a BYD model has ever received. And then pricing was announced&#8230;. The BYD ... [continued]",
-        "title_cn": "比亚迪的新款$ 35,500 SUV是一笔大买卖"
-      },
-      {
-        "title": "BLUETTI Elite 400 — Goldilocks of Portable Power Stations? (Prime Day Specials!)",
-        "link": "https://cleantechnica.com/2026/06/24/bluetti-elite-400-goldilocks-of-portable-power-stations/",
-        "pubDate": "Thu, 25 Jun 2026 03:57:55 +0000",
-        "description": "I recently received and got to review a BLUETTI Elite 400 portable power station*. I&#8217;ve used and reviewed several portable power stations now. Different sizes with different capacities are right for different people and needs. No product is going to be perfect for everything. However, all thin",
-        "title_cn": "BLUETTI Elite 400 —便携式电站的金发女郎？ （黄金日特惠！ ）"
-      },
-      {
-        "title": "Europe EV Sales Report: BEVs Jump 39% and Reach 24% Market Share!",
-        "link": "https://cleantechnica.com/2026/06/24/europe-ev-sales-report-bevs-jump-39-and-reach-24-market-share/",
-        "pubDate": "Thu, 25 Jun 2026 02:27:46 +0000",
-        "description": "Makings EVs Great Again — EV Share Jumps to 35% in Europe! Thanks to a number of factors (new models, high gas prices, mass arrival of Chinese models, etc.), EVs have picked up again in Europe. Close to 400,000 plugin vehicles were registered in Europe in May, 275,000 of them ... [continued] The pos",
-        "title_cn": "欧洲电动汽车销售报告： BEV增长39% ，市场份额达到24% ！"
-      },
-      {
-        "title": "New Ticketing Rules Would Still Mean 43% of EU’s Busiest Cross-Border Flight Routes Are Hard or Impossible to Book by Train",
-        "link": "https://cleantechnica.com/2026/06/24/new-ticketing-rules-would-still-mean-43-of-eus-busiest-cross-border-flight-routes-are-hard-or-impossible-to-book-by-train/",
-        "pubDate": "Thu, 25 Jun 2026 02:26:11 +0000",
-        "description": "Despite being a huge leap for passenger rights, the EU Passenger Package will not ensure those taking international trains will always be able to get on the next train or be compensated in the event of a delay, hindering a broader adoption of rail, T&#38;E said. New EU rules on ... [continued] The p",
-        "title_cn": "新的票务规定仍将意味着43%的欧盟最繁忙的跨境航线很难或无法通过火车预订"
-      },
-      {
-        "title": "Nova Scotia Wants To Embrace Fracking To Pay Its Bills",
-        "link": "https://cleantechnica.com/2026/06/24/nova-scotia-wants-to-embrace-fracking-to-pay-its-bills/",
-        "pubDate": "Wed, 24 Jun 2026 23:05:51 +0000",
-        "description": "The premier of Nova Scotia wants to restart oil and gas operations in the province.There are much better alternatives. The post Nova Scotia Wants To Embrace Fracking To Pay Its Bills appeared first on CleanTechnica .",
-        "title_cn": "新斯科舍省希望采用水力压裂来支付账单"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Algeria and Siemens Energy Discuss Green Hydrogen and Ammonia Cooperation",
-        "link": "https://fuelcellsworks.com/2026/06/24/news/algeria-and-siemens-energy-discuss-green-hydrogen-and-ammonia-cooperation",
-        "pubDate": "Wed, 24 Jun 2026 16:32:45 GMT",
+        "title": "European Commission Opens New TEN-E Call for Hydrogen, Electrolyser and CO₂ Infrastructure Projects",
+        "link": "https://fuelcellsworks.com/2026/06/25/electrolyzer/european-commission-opens-new-ten-e-call-for-hydrogen-electrolyser-and-co-infrastructure-projects",
+        "pubDate": "Thu, 25 Jun 2026 16:19:06 GMT",
         "description": "",
-        "title_cn": "阿尔及利亚与西门子能源讨论绿色氢氨合作"
+        "title_cn": "欧盟委员会启动新的TEN-E号召氢气、电解槽和二氧化碳基础设施项目"
       },
       {
-        "title": "Saudi Arabia’s Acwa Explores Desalination, Green Hydrogen Investments in Morocco",
-        "link": "https://fuelcellsworks.com/2026/06/24/news/saudi-arabia-s-acwa-explores-desalination-green-hydrogen-investments-in-morocco",
-        "pubDate": "Wed, 24 Jun 2026 16:23:39 GMT",
+        "title": "SRM AP Signs MoU with Haruka Clean Energy Private Limited to Launch Green-Powered Street Lighting Pilot Project",
+        "link": "https://fuelcellsworks.com/2026/06/25/clean-energy/srm-ap-signs-mou-with-haruka-clean-energy-private-limited-to-launch-green-powered-street-lighting-pilot-project",
+        "pubDate": "Thu, 25 Jun 2026 16:05:41 GMT",
         "description": "",
-        "title_cn": "沙特阿拉伯的Acwa在摩洛哥探索海水淡化、绿色氢投资"
+        "title_cn": "SRM AP与Haruka Clean Energy Private Limited签署谅解备忘录，启动绿色路灯照明试点项目"
       },
       {
-        "title": "Graphene Catalyst Breakthrough Could Slash Hydrogen Fuel Cell Costs",
-        "link": "https://fuelcellsworks.com/2026/06/23/clean-energy/graphene-catalyst-breakthrough-could-slash-hydrogen-fuel-cell-costs",
-        "pubDate": "Wed, 24 Jun 2026 16:02:55 GMT",
+        "title": "SeAH Besteel Localizes Key Hydrogen Materials to Cut Refueling Station Costs in Korea",
+        "link": "https://fuelcellsworks.com/2026/06/25/hydrogen/seah-besteel-localizes-key-hydrogen-materials-to-cut-refueling-station-costs-in-korea",
+        "pubDate": "Thu, 25 Jun 2026 15:52:40 GMT",
         "description": "",
-        "title_cn": "石墨烯催化剂的突破可以降低氢燃料电池的成本"
+        "title_cn": "SeAH Besteel本地化关键氢气材料，以降低韩国加油站成本"
       },
       {
-        "title": "ITM Power and Gore Report Ultra-Low Degradation in PEM Electrolysers",
-        "link": "https://fuelcellsworks.com/2026/06/24/energy-innovation/itm-power-and-gore-report-ultra-low-degradation-in-pem-electrolysers",
-        "pubDate": "Wed, 24 Jun 2026 15:56:49 GMT",
+        "title": "Flevoland Wants Onto the Dutch Hydrogen Backbone",
+        "link": "https://fuelcellsworks.com/2026/06/24/h2/flevoland-wants-onto-the-dutch-hydrogen-backbone",
+        "pubDate": "Thu, 25 Jun 2026 15:32:02 GMT",
         "description": "",
-        "title_cn": "ITM Power和Gore报告PEM电解槽超低降解"
+        "title_cn": "Flevoland想要进入荷兰的氢骨干"
       },
       {
-        "title": "Humber Hydrogen Has the Potential to Unlock Billions in Value to the UK Economy",
-        "link": "https://fuelcellsworks.com/2026/06/24/hydrogen/humber-hydrogen-has-the-potential-to-unlock-billions-in-value-to-the-uk-economy",
-        "pubDate": "Wed, 24 Jun 2026 15:41:53 GMT",
+        "title": "PowerCell Secures 4 MW Marine Fuel Cell Order Valued at SEK 50 Million",
+        "link": "https://fuelcellsworks.com/2026/06/25/green-investment/powercell-secures-4-mw-marine-fuel-cell-order-valued-at-sek-50-million",
+        "pubDate": "Thu, 25 Jun 2026 15:29:41 GMT",
         "description": "",
-        "title_cn": "亨伯氢能有潜力为英国经济创造数十亿美元的价值"
+        "title_cn": "PowerCell获得价值5000万瑞典克朗的4兆瓦船用燃料电池订单"
       },
       {
-        "title": "Electrolyser Manufacturers Urge EU to Make Industrial Decarbonisation Bank a Market-Creation Tool for Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/06/22/electrolyzer/electrolyser-manufacturers-urge-eu-to-make-industrial-decarbonisation-bank-a-market-creation-tool-for-hydrogen",
-        "pubDate": "Wed, 24 Jun 2026 15:12:52 GMT",
+        "title": "SwRI, St. Mary’s University Collaborate to Predict Metal Hydride Hydrogen Storage Durability",
+        "link": "https://fuelcellsworks.com/2026/06/25/energy-innovation/swri-st-mary-s-university-collaborate-to-predict-metal-hydride-hydrogen-storage-durability",
+        "pubDate": "Thu, 25 Jun 2026 15:20:36 GMT",
         "description": "",
-        "title_cn": "电解槽制造商敦促欧盟将工业脱碳银行作为氢气的市场创造工具"
+        "title_cn": "SwRI与圣玛丽大学合作预测金属氢化物储氢耐久性"
       },
       {
-        "title": "Scientists Demonstrate Solar-Powered Plastic Recycling at Real-World Scale",
-        "link": "https://fuelcellsworks.com/2026/06/24/education/scientists-demonstrate-solar-powered-plastic-recycling-at-real-world-scale",
-        "pubDate": "Wed, 24 Jun 2026 15:09:53 GMT",
+        "title": "Large-Scale Hydrogen Plant Advances as Electrolyzer, Pipeline and Offtake Deal Progress",
+        "link": "https://fuelcellsworks.com/2026/06/24/h2/large-scale-hydrogen-plant-advances-as-electrolyzer-pipeline-and-offtake-deal-progress",
+        "pubDate": "Thu, 25 Jun 2026 15:15:47 GMT",
         "description": "",
-        "title_cn": "科学家展示真实世界规模的太阳能塑料回收"
+        "title_cn": "大型氢气厂随着电解槽、管道和承购交易的进展而进步"
       },
       {
-        "title": "FuelCell Energy and Fit Energy Announce Strategic Agreement for up to 380 MW of Clean Power for Data Centers",
-        "link": "https://fuelcellsworks.com/2026/06/24/clean-energy/fuelcell-energy-and-fit-energy-announce-strategic-agreement-for-up-to-380-mw-of-clean-power-for-data-centers",
-        "pubDate": "Wed, 24 Jun 2026 14:54:12 GMT",
+        "title": "HRS Participates in a Refueling Sequence at the Hympulsion Station in Saint-Exupéry as Part of the Program Led by Alldis-Nerius in French Guiana",
+        "link": "https://fuelcellsworks.com/2026/06/25/fuel-cells/par-alldis-nerius-en-guyanehrs-participates-in-a-refueling-sequence-at-the-hympulsion-station-in-saint-exupery-as-part-of-the-program-led-by-alldis-nerius-in-french-guiana",
+        "pubDate": "Thu, 25 Jun 2026 15:06:26 GMT",
         "description": "",
-        "title_cn": "FuelCell Energy和FIT Energy宣布达成战略协议，为数据中心提供高达380兆瓦的清洁能源"
+        "title_cn": "HRS参加法属圭亚那Alldis-Nerius牵头的计划，在Saint-Exupéry的Hympulsion加油站参加加油程序"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,16 +500,22 @@
         "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 每日经济新闻",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
         "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
         "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
       },
       {
-        "title": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ3JjbUVVS2hPZWNaYWh0TGM0MmY1bHFvTzZJUGMydDdpZWllQXoyMEpDakotVWJKTWUxcEw2Umk5YnlzdVAwdDNBa01NVkhkUk9Wb3FpZUFiWVVaWF9LbF9abTBCUUVBOTktSjRQYTYzQQ?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 22:26:51 GMT",
-        "description": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 &nbsp;&nbsp; 新浪网"
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
@@ -518,25 +524,19 @@
         "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ3JjbUVVS2hPZWNaYWh0TGM0MmY1bHFvTzZJUGMydDdpZWllQXoyMEpDakotVWJKTWUxcEw2Umk5YnlzdVAwdDNBa01NVkhkUk9Wb3FpZUFiWVVaWF9LbF9abTBCUUVBOTktSjRQYTYzQQ?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 22:26:51 GMT",
+        "description": "绿电直连政策全景图（下）：12省政策对比与实施路径解析 &nbsp;&nbsp; 新浪网"
+      },
+      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QMExvVXFKUEpibzFWSHdvVzRSS3A5OENyQllQRXJPSEdWaGY1emVHb0NRa2wwOUt3U0puTWx2eWRXOU1KbjhZMlhzR1JaVEYwdlJxVXdLNnNpNUczZ200VXNn?oc=5",
-        "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT",
-        "description": "两部委：优先鼓励有绿色电力需求的用户与新能源发电企业参与交易 &nbsp;&nbsp; 国际储能网"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-25 16:17 UTC"
+    "updated": "2026-06-25 23:10 UTC"
   }
 }
