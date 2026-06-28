@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "“Insane” Shortage of Computer Hardware?",
+        "link": "https://cleantechnica.com/2026/06/28/insane-shortage-of-computer-hardware/",
+        "pubDate": "Sun, 28 Jun 2026 16:17:06 +0000",
+        "description": "The AI boom is sort of nuts. Actually, it&#8217;s totally nuts. As I&#8217;ve been saying lately, it really seems like a giant bubble that is going to pop at some point. But there are so many elements to the craziness, and we keep learning of more. Steve Hanley recently wrote ... [continued] The pos",
+        "title_cn": "电脑硬件“疯狂”短缺？"
+      },
       {
         "title": "Cement’s Future Is Less Portland, Not One Magic Cement",
         "link": "https://cleantechnica.com/2026/06/28/cement-future-less-portland-not-magic-cement/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 27 Jun 2026 16:07:07 +0000",
         "description": "The smarter E Europe 2026 happened this week in Munich, with the lead event of InterSolar Europe co-located with ess Europe, Power2Drive and EM-Power. Regardless of the intended organization of the conference and exhibitions, the lines between them have increasingly blurred, as solar is combined wit",
         "title_cn": "InterSolar Europe 2026要点"
-      },
-      {
-        "title": "Climate-Tech Claims Need A Red-Flag Pass Before They Get Money",
-        "link": "https://cleantechnica.com/2026/06/27/climate-tech-claims-red-flags-money-policy/",
-        "pubDate": "Sat, 27 Jun 2026 14:46:31 +0000",
-        "description": "Climate-tech claims usually arrive with a promise and a request attached. The promise is that a new process, fuel, device, material, reactor, storage system or platform will solve a difficult part of decarbonization. The request is for public funding, private capital, procurement support, regulatory",
-        "title_cn": "气候技术索赔需要红旗通行证才能获得资金"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,21 +483,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "一周能源政策回顾（6.19-6.27） - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQktEdDZ0Vl9IUVFCdGxJUXg3Y2RkUjR5YWptWlZkRVFCOEl5MFhFYTRiVTZycXRCMVdCcm01VE51WWpMUl9DX3ZuWXIzWkxMLXVabUtSUVlRei1qUzhEMWlfU0FlQVdxb3VVWUdwUVZNalE0YlF4WjdqVEctdmVzVU1rVQ?oc=5",
-        "pubDate": "Sun, 28 Jun 2026 04:55:10 GMT",
-        "description": "一周能源政策回顾（6.19-6.27） &nbsp;&nbsp; 新浪财经"
+        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T243c1duZDNhYWliRXdyNEg1cmdURVRwZTUzQklhbXdYRUU0b3hrYk9PWkhka3VfYzRvMl82VEVINDJINnhuTjNUZF9WMXdQNmpEU1YwWjVHYm9iQ2ZMTQ?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
+        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 01:31:39 GMT",
-        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+        "title": "新能源等产业，又迎来政策利好 - 凤凰网财经",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RRGJ5b0ZpODI0aU13Q2VNQWRJcFAyb1ctOG9WaUFQSnlhWlVtMXJXQ05GZW9VbG5DTTlkNVpBMUEzb290ckhMRmVQejR6bDN4?oc=5",
+        "pubDate": "Thu, 25 Jun 2026 11:39:02 GMT",
+        "description": "新能源等产业，又迎来政策利好 &nbsp;&nbsp; 凤凰网财经"
       },
       {
         "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - 北京研精毕智",
@@ -506,37 +506,37 @@
         "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; 北京研精毕智"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - ndrc.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; ndrc.gov.cn"
       },
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+        "title": "“十五五”能源投资超20万亿 加速绿色低碳转型 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jVGRUelJ3ZmhvYzJrblI2dWp0VW53b18yV2o4bTNHQnA5Y2tjYVdnTy14UWNwM1JiMGhKWmRheEUzaHdCaTI1alhjX1l3NU9YaDhvTTUycEk1MzBNZWNuWDFseV90Y0NHUDFHZ1AzODI?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:51:51 GMT",
+        "description": "“十五五”能源投资超20万亿 加速绿色低碳转型 &nbsp;&nbsp; 中华网"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
+        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - nda.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; nda.gov.cn"
+      },
+      {
+        "title": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0dFb1R1RG90QVh3U0o3ekxBT29JSmtCUG5ZSkZtNHY0OXoxOGRSNjlGU1BKVmlXcnVjR0hWdGF5elduSFdUSXRzNnlNcUk0YW56ZE1YRHQ2SGsxeERxZ0lDdUhjQTIycTNxWHhDMXBmTnpwejVpNFZfd1FMQmgycjdLcw?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+        "description": "国家能源局有关负责同志就《关于有序推动多用户绿电直连发展有关事项的通知》答记者问 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 每日经济新闻",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
-        "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
-        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
-      },
-      {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
+        "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
+        "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
+        "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-28 15:13 UTC"
+    "updated": "2026-06-28 22:56 UTC"
   }
 }
