@@ -2,11 +2,32 @@
   "tech": {
     "items": [
       {
+        "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
+        "link": "https://www.nature.com/articles/s41586-026-10815-x",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-x Family of magnetic field-boosted superconductors in rhombohedral graphene",
+        "title_cn": "菱形石墨烯中磁场增强超导体的家族"
+      },
+      {
+        "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+        "link": "https://www.nature.com/articles/d41586-026-02063-w",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-w The market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?",
+        "title_cn": "音频长读：肽热是否得到了科学的支持？炒作背后的承诺"
+      },
+      {
         "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
         "link": "https://www.nature.com/articles/d41586-026-02023-4",
         "pubDate": "2026-06-29",
         "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4 Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.",
         "title_cn": "特朗普拥有雄心勃勃的人工智能和量子野心：这位科学家的工作是让它们成为现实"
+      },
+      {
+        "title": "How one US scientist is adapting to life abroad after DOGE cuts",
+        "link": "https://www.nature.com/articles/d41586-026-01137-z",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01137-z Sarah Weisberg is one of a number of scientists who have made the move to Europe for job security.",
+        "title_cn": "一位美国科学家如何在总督裁员后适应国外生活"
       },
       {
         "title": "How AI can crack open the ‘hidden curriculum’ for neurodivergent students",
@@ -35,31 +56,10 @@
         "pubDate": "2026-06-26",
         "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02059-6 Nature staff discuss how apes share a rhythm of laughter, and how AI use might degrade skills in medicine and computer science.",
         "title_cn": "简报聊天：挠痒痒的黑猩猩可以告诉我们有关言语进化的信息"
-      },
-      {
-        "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
-        "link": "https://www.nature.com/articles/d41586-026-02055-w",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02055-w Andrew Robinson reviews five of the best science picks.",
-        "title_cn": "黄昏的诗歌和令人敬畏的日食魔法：书籍简介"
-      },
-      {
-        "title": "The surprising career parallels between footballers and researchers",
-        "link": "https://www.nature.com/articles/d41586-026-01794-0",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01794-0 Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.",
-        "title_cn": "足球运动员和研究人员之间令人惊讶的职业相似之处"
-      },
-      {
-        "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
-        "link": "https://www.nature.com/articles/d41586-026-01976-w",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01976-w A handful of start-up firms are testing therapies that target specific epigenetic markers to treat everything from high cholesterol to a rare muscular disorder.",
-        "title_cn": "CRISPR的下一步行动：公司编辑表观基因组以治疗疾病"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,24 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Energyminer’s River Turbines Are Real. The Cheap Baseload Claim Needs Operating Data.",
+        "link": "https://cleantechnica.com/2026/06/29/energyminer-river-turbines-cheap-baseload-operating-data/",
+        "pubDate": "Mon, 29 Jun 2026 14:17:24 +0000",
+        "description": "Energyminer has something much better than a rendering. Its Energyfish is a small floating hydrokinetic turbine, mostly underwater, anchored in a river current, sending power to shore through a cable and feeding a land-side power box for grid-compliant electricity. It is not a dam, not a conventiona",
+        "title_cn": "Energyminer的河流涡轮机是真实的。便宜的基本负荷索赔需要运营数据。"
+      },
+      {
+        "title": "Wind Power Creeps Up Behind A Sleeping Trump (Shhh! Don’t Wake Him Up!)",
+        "link": "https://cleantechnica.com/2026/06/29/us-wind-power-repowering-trump-energy-policy/",
+        "pubDate": "Mon, 29 Jun 2026 12:10:36 +0000",
+        "description": "Thousands of old, outdated turbines in the US can be replaced with modern, more efficient 21st century technology. The post Wind Power Creeps Up Behind A Sleeping Trump (Shhh! Don&#8217;t Wake Him Up!) appeared first on CleanTechnica .",
+        "title_cn": "风力发电在沉睡的特朗普身后爬行（嘘！别吵醒他！ ）"
+      },
       {
         "title": "Booming Air Tourism Could Fuel European Rent Hikes of up to €250 a Year",
         "link": "https://cleantechnica.com/2026/06/28/booming-air-tourism-could-fuel-european-rent-hikes-of-up-to-e250-a-year/",
@@ -158,24 +172,10 @@
         "pubDate": "Sun, 28 Jun 2026 13:59:11 +0000",
         "description": "Cement decarbonization attracts miracle stories. One company has a new binder. Another has a carbon-negative aggregate. Someone else has an electrochemical process, a hydrogen kiln, a low-carbon limestone route, a supplementary cementitious material, a recycled cement process or a carbon-capture ret",
         "title_cn": "水泥的未来在于波特兰，而不是一个神奇的水泥"
-      },
-      {
-        "title": "XPENG VLA 2.0 & MONA L03 Ready For Global Markets",
-        "link": "https://cleantechnica.com/2026/06/28/xpeng-vla-2-0-mona-l03-ready-for-global-markets/",
-        "pubDate": "Sun, 28 Jun 2026 12:50:33 +0000",
-        "description": "On a recent LinkedIn post, XPENG Chairman and CEO He Xiaopeng announced that, with UN/EU regulations approved, VLA 2.0 is &#8220;locked in&#8221; for global markets in 2027. With regulations set for L3 to L5 ADAS operation (hands-free to fully autonomous), XPENG models equipped and activated with VL",
-        "title_cn": "XPENG VLA 2.0和MONA L03面向全球市场"
-      },
-      {
-        "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
-        "link": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
-        "pubDate": "Sun, 28 Jun 2026 03:59:42 +0000",
-        "description": "My CleanTechnica colleague Tina Casey recently wrote a great piece looking at Aptera&#8217;s latest solar tests, titled &#8220;Sleek, Futuristic &#8216;Atlas&#8217; Car Recharges Self With Built-In Solar Cells&#8221;. She covered how the company&#8217;s validation vehicle recharged itself using its ",
-        "title_cn": "Aptera证明了其太阳能发电，现在需要证明其效率"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "深化央地能源合作 多家电力央企携手四川共建国家级清洁能源基地 - 碳索储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9odVBsbEFKZjZkaUQ2WXhrdHV0aHRrMjBPMVd0OXNRbHo1bnRmcWd6Mk5Obl9RMGhkMnBOQkdtUEJ3OWItdlRaTTJNX2k4UFpUWHZVbU9MenRBbE9zVWRzUw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 08:05:46 GMT",
+        "description": "深化央地能源合作 多家电力央企携手四川共建国家级清洁能源基地 &nbsp;&nbsp; 碳索储能网"
+      },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "西安交通大学教授徐占伯：我国氢能产业正处于跨越规模化应用的关键阶段 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZFZHZEE5Z1NSNmlhdGVHR3lBVjhueXBVNEhLUmd5ZVBTX2l1YWUwUG5oR3JUeDVINU9uYmlvMTVuNkF1M2laLWNmY3hRc1QyVFI5Rmh3?oc=5",
-        "pubDate": "Mon, 15 Jun 2026 09:50:31 GMT",
-        "description": "西安交通大学教授徐占伯：我国氢能产业正处于跨越规模化应用的关键阶段 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-29 11:53 UTC"
+    "updated": "2026-06-29 16:49 UTC"
   }
 }
