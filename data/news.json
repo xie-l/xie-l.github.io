@@ -2,10 +2,38 @@
   "tech": {
     "items": [
       {
+        "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
+        "link": "https://www.nature.com/articles/d41586-026-02023-4",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4 Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.",
+        "title_cn": "特朗普拥有雄心勃勃的人工智能和量子野心：这位科学家的工作是让它们成为现实"
+      },
+      {
+        "title": "How AI can crack open the ‘hidden curriculum’ for neurodivergent students",
+        "link": "https://www.nature.com/articles/d41586-026-01672-9",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9 Marisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.",
+        "title_cn": "人工智能如何为神经发散的学生打开“隐藏课程”"
+      },
+      {
+        "title": "What’s the human cost of US research turmoil? A new film finds out",
+        "link": "https://www.nature.com/articles/d41586-026-01979-7",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01979-7 Science is a complex, interconnected, deeply human enterprise involving hard grind — and funding cuts and grant delays have come as a sucker punch to many.",
+        "title_cn": "美国研究动荡的人力成本是多少？一部新电影发现"
+      },
+      {
+        "title": "Scientists fight back against far-right plans to restrict academic freedom in Germany",
+        "link": "https://www.nature.com/articles/d41586-026-01496-7",
+        "pubDate": "2026-06-29",
+        "description": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01496-7 With the far-right Alternative for Germany leading in polls for national and state elections, institutions are facing up to proposed restrictions on academic freedom.",
+        "title_cn": "科学家反击德国极右翼限制学术自由的计划"
+      },
+      {
         "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
         "link": "https://www.nature.com/articles/d41586-026-02059-6",
         "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02059-6 Nature staff discuss how apes share a rhythm of laughter, and how AI use may degrade skills in medicine and computer science.",
+        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02059-6 Nature staff discuss how apes share a rhythm of laughter, and how AI use might degrade skills in medicine and computer science.",
         "title_cn": "简报聊天：挠痒痒的黑猩猩可以告诉我们有关言语进化的信息"
       },
       {
@@ -28,41 +56,43 @@
         "pubDate": "2026-06-26",
         "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01976-w A handful of start-up firms are testing therapies that target specific epigenetic markers to treat everything from high cholesterol to a rare muscular disorder.",
         "title_cn": "CRISPR的下一步行动：公司编辑表观基因组以治疗疾病"
-      },
-      {
-        "title": "Inside the new political screening that’s stalling NIH grants",
-        "link": "https://www.nature.com/articles/d41586-026-01924-8",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-01924-8 Mandatory reviews by top health officials and checks for 235 disfavoured terms have left hundreds of vetted grant applications in administrative limbo.",
-        "title_cn": "在新的政治筛选中， NIH的拨款停滞不前"
-      },
-      {
-        "title": "I study World Cup penalty shoot-outs: they say a lot about the psychology of performance under pressure",
-        "link": "https://www.nature.com/articles/d41586-026-02043-0",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02043-0 Football's most nail-biting feature can reveal ways for everyone to manage stressful situations better.",
-        "title_cn": "我研究世界杯点球大战：他们经常谈论压力下的表现心理"
-      },
-      {
-        "title": "Europe’s record heatwave: does the continent have a new climate?",
-        "link": "https://www.nature.com/articles/d41586-026-02046-x",
-        "pubDate": "2026-06-26",
-        "description": "Nature, Published online: 26 June 2026; doi:10.1038/d41586-026-02046-x Nature asks researchers whether scorching summers are the new norm for London, Paris and Berlin.",
-        "title_cn": "欧洲创纪录的热浪：非洲大陆是否有新的气候？"
-      },
-      {
-        "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
-        "link": "https://www.nature.com/articles/s41586-026-10829-5",
-        "pubDate": "2026-06-25",
-        "description": "Nature, Published online: 25 June 2026; doi:10.1038/s41586-026-10829-5 Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
-        "title_cn": "出版商更正：高效蓝色钙钛矿LED的原位纳米晶限制"
       }
     ],
     "source": "Nature",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "烧光5000亿后，京东方开始给股民赚钱",
+        "link": "https://36kr.com/p/3874045136720899?f=rss",
+        "pubDate": "2026-06-29 19:51:05  +0800",
+        "description": "作者&nbsp;|&nbsp;范亮 编辑&nbsp;|&nbsp;张帆 很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。 人气足够高，股价却长期止步不前。2001年京东方上市之初，开盘价为3.54元/股（前复权）；到2025年末，收盘价为4.17元/股。二十多年过去，股价累计涨幅只有18%。 面板行业的重资产投入和强周期特征，是制约京东方股价表现的核心因素。上 市以来，京东方累计资本开支超过5000亿元，增发募资超过900亿元；累计实现约700亿归母净利润、加回折旧摊销后超过4000亿元的经营净现金流，也"
+      },
+      {
+        "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+        "link": "https://36kr.com/p/3873626425332743?f=rss",
+        "pubDate": "2026-06-29 19:00:26  +0800",
+        "description": "大公司： 蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家 36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。 中国移动确认设立Token办公室 6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从"
+      },
+      {
+        "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+        "link": "https://36kr.com/p/3874015941645570?f=rss",
+        "pubDate": "2026-06-29 18:49:39  +0800",
+        "description": "作者｜黄楠 编辑｜袁斯来 近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品， 一个不可忽视的事实是，在语音和视觉占据智能产品交互主流的今天，触觉作为人类出生后最先发育、最本能的感觉通道，在消费级智能硬件中的潜力尚未被充分释放。大多数智能设备基于对话、观看等功能交互，而抚摸、按压、揉捏等人类原始的感知与表达方式，在陪伴类产品中鲜少被真正回应。 柔性电子皮肤技术的成熟正在改变这一局面。 Moxy摸喜的核心技术支撑，源于其团队自主研发的离电型触觉传感系统。相"
+      },
+      {
+        "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+        "link": "https://36kr.com/p/3873965241931014?f=rss",
+        "pubDate": "2026-06-29 16:04:11  +0800",
+        "description": "“每一代模型，我们都在押注一个非共识。” 文｜邓咏仪 编辑｜张雨忻 Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。 Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。 彼时，市场的主流叙事是 Diffusion 路线，几乎没有人认为曹越选择的自回归（Autoregressive）路线是一种正解。 而在2025年初，发布基于自回归架构训练的模型 Magi-1 后，曹越很快意识到“只有画面是不够的”，于是团队开始探索音画同出"
+      },
+      {
+        "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+        "link": "https://36kr.com/p/3873902389794053?f=rss",
+        "pubDate": "2026-06-29 15:02:23  +0800",
+        "description": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据， 2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40% 。 其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。 2020年前，中国CGM市场几乎被外资品牌垄断。从2021年首款国产产品获批到如今，国产品牌在国内的市场份额不仅快速增长，甚至开始在欧洲等海外市场与国际巨头正面交锋。 专注糖尿病管理类医疗器械产品研发的微泰医疗是CGM出海浪潮中的"
+      },
       {
         "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
         "link": "https://36kr.com/p/3873806295274756?f=rss",
@@ -80,40 +110,10 @@
         "link": "https://36kr.com/p/3873710996902912?f=rss",
         "pubDate": "2026-06-29 11:43:03  +0800",
         "description": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。 本轮融资将主要用于下一代AI可穿戴产品研发、健康数据与AI Agent能力建设、全球市场拓展以及核心团队扩张。AIVELA将以智能指环、智能手链等贴身可穿戴产品为起点，面向全球市场构筑融合健康感知、自然交互与AI健康服务的新一代消费科技品牌。 当前，消费者的健康需求正从单纯的运动记录，逐渐向睡眠、压力管理等长期的身体状态监测转移，在海外市场，已经跑出Oura和Whoop"
-      },
-      {
-        "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
-        "link": "https://36kr.com/p/3873706225751296?f=rss",
-        "pubDate": "2026-06-29 11:38:16  +0800",
-        "description": "作者&nbsp;|&nbsp;张子怡 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。 本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。 在URTOPIA的长期规划中，智能E-bike并不是其业务的终点，而是其拓展“户外具身智能”领域的切入点。"
-      },
-      {
-        "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
-        "link": "https://36kr.com/p/3873681978840071?f=rss",
-        "pubDate": "2026-06-29 11:13:49  +0800",
-        "description": "本文约2500字，建议阅读5分钟 作者&nbsp;|&nbsp;彭孝秋 编者按�� AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。 6月29日，北京海光芯正（01191.HK）正式在港交所敲钟上市，此次IPO招股价114港元，每手50股、入场费5757.48港元。按发售价计，公司市值约102.08亿港元，募资净额约14.15亿港元。 开盘涨74.56%，报199港元"
-      },
-      {
-        "title": "36氪首发 | 「CAYE咖爷科技」完成近4亿元B轮融资，系商用全自动咖啡机赛道单笔最大规模融资",
-        "link": "https://36kr.com/p/3872276297618436?f=rss",
-        "pubDate": "2026-06-29 10:18:44  +0800",
-        "description": "作者 | 钟艺璇 36氪获悉，商用全自动咖啡机品牌「CAYE咖爷科技」已完成近4亿元B轮融资，本轮融资由老股东美团龙珠领投，柏睿资本、高瓴创投、苏创投、嘉宾资本等机构联合跟投。这也是目前商用全自动咖啡机赛道规模最大的单笔融资。&nbsp; CAYE咖爷是36氪持续关注的公司，该公司成立于2022年12月，围绕自研&nbsp;Bionic Barista&nbsp;仿生咖啡师系统，CAYE咖爷对咖啡研磨、粉重控制、布粉填压、加压萃取等核心工艺进行重新设计，重新定义商用全自动咖啡机。&nbsp; 目前，CAYE咖爷的咖啡机产品已经进入精品连锁咖啡、商业连锁咖啡门店，其中不乏国内知名咖啡连锁品牌。C"
-      },
-      {
-        "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-        "link": "https://36kr.com/p/3868055841641476?f=rss",
-        "pubDate": "2026-06-29 09:27:07  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创坛、上海创智学院等。光源资本担任独家财务顾问。 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭建，加速在今年内实现开源人形基座模型落地。 源策未来成立于2026年4月，研发总部位于上海市徐汇区漕河泾开发区。公司专注研发通用全身人形基座模型，构建全身智能（Whole-body Intelligence"
-      },
-      {
-        "title": "中国卖家涌向拉美：高增长与合规门槛齐升丨最前线",
-        "link": "https://36kr.com/p/3873539789034501?f=rss",
-        "pubDate": "2026-06-29 08:49:00  +0800",
-        "description": "作者丨欧雪 编辑丨袁斯来 6月26日，亚马逊全球开店在杭州宣布推出“拉美速通计划”，计划在2026年内面向3000个具备长期投入意愿的中国品牌，提供巴西本土公司注册协助、墨西哥RFC税号解决方案、最高12000美元补贴及物流费用减免等支持，帮助卖家全面扎根拉美市场。 拉美正在成为跨境电商的新热土。据eMarketer数据，2025年拉美零售电商市场规模接近1900亿美元，增速是全球平均水平的1.5倍，其中巴西和墨西哥贡献了绝大部分销售额。 亚马逊数据也印证了这一增长趋势：2026年第一季度，新上线巴西和墨西哥站点的中国卖家销售额是去年同期的2倍以上；墨西哥Hot Sale大促期间，这一数字达到"
       }
     ],
     "source": "36氪",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,10 +175,17 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "The interplay between stack pressure, mechanical expansion and degradation pathways in lithium-ion batteries",
+        "link": "https://www.nature.com/articles/s41560-026-02087-6",
+        "pubDate": "2026-06-29",
+        "description": "Nature Energy, Published online: 29 June 2026; doi:10.1038/s41560-026-02087-6 While electrochemical degradation in lithium-ion batteries is well studied, the role of stack pressure in long-term cycling remains unclear. Here the researchers use a high-precision pressure-controlled dilatometry tool to",
+        "title_cn": "锂离子电池中叠层压力、机械膨胀和降解途径之间的相互作用"
+      },
       {
         "title": "Accessible solar tower power plant data to accelerate solar energy research",
         "link": "https://www.nature.com/articles/s41560-026-02069-8",
@@ -227,17 +234,10 @@
         "pubDate": "2026-06-24",
         "description": "Nature Energy, Published online: 24 June 2026; doi:10.1038/s41560-026-02100-y Interacting causes of mini-grid failure",
         "title_cn": "小型电网故障的相互作用原因"
-      },
-      {
-        "title": "Open-air perovskite fabrication",
-        "link": "https://www.nature.com/articles/s41560-026-02099-2",
-        "pubDate": "2026-06-24",
-        "description": "Nature Energy, Published online: 24 June 2026; doi:10.1038/s41560-026-02099-2 Open-air perovskite fabrication",
-        "title_cn": "露天钙钛矿制造"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "energy_cn": {
     "items": [
@@ -266,16 +266,16 @@
         "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
       },
       {
-        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
+        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -492,12 +492,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
         "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 01:31:39 GMT",
-        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "一周能源政策回顾（6.19-6.27） - 新浪财经",
@@ -510,6 +504,12 @@
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02d2thMGhjZVBuV0VvWHBHdDFWREpEcTQxMXRCZEYtTmEyRW04TXlUOHNKdWlNVXZveU1ZLXZveUsyejVkREJiaDd0MnI?oc=5",
         "pubDate": "Fri, 26 Jun 2026 02:33:05 GMT",
         "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; 北京研精毕智"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRjR3VFl1aWFlQkZFUVd0ZnlNeWh2WVhSX1hfNTBnMm1LUy1Id2hPLW1Zbi1JUjVlaDZCMVdGQ0wwTUpYS1JQSTY4dFgyWjREMHIzNUpwbEEzUkNwLU9qQg?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 01:03:06 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-06-29 06:38 UTC"
+    "updated": "2026-06-29 11:53 UTC"
   }
 }
