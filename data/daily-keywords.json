@@ -1,40 +1,40 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "keywords": [
     {
       "id": 1,
-      "term": "单原子催化剂",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>将金属原子以单分散形式固定在载体上的催化剂，原子利用率100%，具有独特电子结构和配位环境，性能往往超过纳米颗粒催化剂。",
-      "example": "<strong>举例：</strong>单原子Pt/C催化剂HER质量活性可达传统Pt/C的10-100倍；单原子催化已成为Nature和Science的高频发表方向。"
+      "term": "产业集群",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>在特定地理区域内，相互关联的企业、供应商、机构和配套设施聚集形成的竞争优势网络，如硅谷、苏州工业园。",
+      "example": "<strong>举例：</strong>上海临港正在打造氢能产业集群：制氢工厂、储氢设备、燃料电池、应用示范聚集一地，形成协同创新和成本优势——这是未来氢能规模化的空间模式。"
     },
     {
       "id": 2,
-      "term": "现金流",
-      "category": "经济",
-      "definition": "<strong>含义：</strong>企业实际收到和支出的现金流量，比利润更真实地反映经营健康度；“利润≠钱”，没有现金流就无法生存。",
-      "example": "<strong>举例：</strong>一家工程公司账面盈利500万，但应收款压了3000万未收回，资金链断裂而倒闭；健康的现金流才是企业真正的血液。"
+      "term": "加氢站",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>为氢燃料电池车辆补充氢气的基础设施，类似加油站，包含储氢、压缩、加注设备，是氢能汽车普及的基础保障。",
+      "example": "<strong>举例：</strong>一座日加注500kg氢气的加氢站投资约1500-2000万元，运营成本中储氢压缩耗电占比最大，约30-40%。"
     },
     {
       "id": 3,
-      "term": "Tafel斜率",
+      "term": "绿色氨",
       "category": "化学",
-      "definition": "<strong>含义：</strong>电化学反应中，电流密度增大10倍所需增加的过电位（mV/dec），反映反应机理中的速率控制步骤。",
-      "example": "<strong>举例：</strong>Tafel斜率越小，反应越快；30mV/dec通常意味着Tafel步骤为速控步，120mV/dec意味着Volmer步骤控速。"
+      "definition": "<strong>含义：</strong>以绿氢为原料，通过哈伯法合成的氨气，碳排放极低，既是化肥原料，也是氢能的高密度储运载体（液氨能量密度是液氢的4倍）。",
+      "example": "<strong>举例：</strong>日本计划进口澳大利亚和中东的绿色氨用于发电；绿色氨可直接在氨气轮机或船舶发动机中燃烧，是跨洲际绿氢运输最现实的方案之一。"
     },
     {
       "id": 4,
-      "term": "API",
-      "category": "科技",
-      "definition": "<strong>含义：</strong>应用程序编程接口，让不同软件系统通过标准协议相互“对话”和共享数据，是数字化集成的基础。",
-      "example": "<strong>举例：</strong>你在微信小程序查天气，其实是微信调用了气象局的API；企业ERP和MES系统通过API打通，实现生产数据实时同步。"
+      "term": "生命周期评估",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>LCA（Life Cycle Assessment），量化产品从摇篮到坟墓全过程的环境影响，是绿氢等清洁能源“到底有多绿”的科学评判标准。",
+      "example": "<strong>举例：</strong>绿氢LCA分析需包括光伏组件制造（含采矿）、电解槽制造、运营用电、废弃处置的全程碳排放，不能只算“烧氢不排碳”。"
     },
     {
       "id": 5,
-      "term": "光催化",
+      "term": "电化学活性面积",
       "category": "化学",
-      "definition": "<strong>含义：</strong>利用光能（尤其是太阳光）激发半导体催化剂产生电子-空穴对，驱动水分解或有机物降解的技术，是“阳光制氢”的理想路线。",
-      "example": "<strong>举例：</strong>TiO₂是最早报道的光催化剂；目前光催化水分解太阳能转换效率仍较低（<5%），是比电化学制氢更具挑战性但潜力巨大的研究方向。"
+      "definition": "<strong>含义：</strong>ECSA（Electrochemically Active Surface Area），通过电化学方法测定的催化剂有效工作表面积，比BET更接近真实催化活性面积。",
+      "example": "<strong>举例：</strong>利用Cu欠电位沉积或Pt吸附脱附峰积分，可准确计算ECSA；ECSA归一化的电流密度称为本征活性，是公平比较催化剂的标准。"
     }
   ]
 }
