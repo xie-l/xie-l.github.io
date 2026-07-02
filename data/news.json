@@ -16,6 +16,13 @@
         "title_cn": "作者更正：通过生物催化脱氧合成对映体富集对映异构体"
       },
       {
+        "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
+        "link": "https://www.nature.com/articles/d41586-026-02034-1",
+        "pubDate": "2026-07-02",
+        "description": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02034-1 A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
+        "title_cn": "中微子的托儿所被发现： “暗影冲击波”"
+      },
+      {
         "title": "Can you actually do a nine-to-five PhD? Nature readers weigh in",
         "link": "https://www.nature.com/articles/d41586-026-01773-5",
         "pubDate": "2026-07-02",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-01",
         "description": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10621-5 This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls for the establishment of new, centralized reference standards to impro",
         "title_cn": "协调医学基因组的标准和资源"
-      },
-      {
-        "title": "Towards the construction of a virtual yeast",
-        "link": "https://www.nature.com/articles/s41586-026-10574-9",
-        "pubDate": "2026-07-01",
-        "description": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10574-9 A virtual yeast, an artificial intelligence-driven agent for modelling eukaryotic cellular behaviours, is described.",
-        "title_cn": "构建虚拟酵母"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,52 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "BYD Passenger Vehicle Sales Rose 5% in June",
+        "link": "https://cleantechnica.com/2026/07/02/byd-passenger-vehicle-sales-rose-5-in-june/",
+        "pubDate": "Thu, 02 Jul 2026 21:59:34 +0000",
+        "description": "BYD has stopped its big 2026 sales slide. As we&#8217;ve written at length a few times now, low sales earlier in the year could have been strongly influenced by people waiting for new-generation vehicles from BYD with much better tech. Now that such vehicles are starting to arrive, surprise surprise",
+        "title_cn": "比亚迪6月乘用车销量上涨5%"
+      },
+      {
+        "title": "Great Wall ORA — “A Cute Little Thing”",
+        "link": "https://cleantechnica.com/2026/07/02/great-wall-ora-a-cute-little-thing/",
+        "pubDate": "Thu, 02 Jul 2026 20:20:49 +0000",
+        "description": "The Great Wall ORA (Good Cat) was launched a few years ago as the cheapest electric vehicle in the Australian market. After rave reviews from the Chinese market, it was great to see it in person. We took one for a test drive and were impressed by its “retro” design. ... [continued] The post Great Wa",
+        "title_cn": "长城奥拉— “可爱的小东西”"
+      },
+      {
+        "title": "One Year Since One Big “Beautiful” Bill: Fewer Jobs, Higher Bills, More Pollution",
+        "link": "https://cleantechnica.com/2026/07/02/one-year-since-one-big-beautiful-bill-less-jobs-higher-bills-more-pollution/",
+        "pubDate": "Thu, 02 Jul 2026 19:25:33 +0000",
+        "description": "One year after Donald Trump signed the Republicans’ &#8220;One Big Beautiful Bill&#8221; into law, Americans continue to face soaring energy bills, more toxic emissions, and continued economic stability. In the last year, the Trump administration slashed over $7.5 billion in clean energy investments",
+        "title_cn": "一项大型“美丽”法案生效一年：更少的工作，更高的账单，更多的污染"
+      },
+      {
+        "title": "Energy Forum Signals Asia’s Clean Energy Transition Is Entering A New, High-Stakes Phase",
+        "link": "https://cleantechnica.com/2026/07/02/energy-forum-signals-asias-clean-energy-transition-is-entering-a-new-high-stakes-phase/",
+        "pubDate": "Thu, 02 Jul 2026 18:40:28 +0000",
+        "description": "The Asia Clean Energy Forum (ACEF) 2026 in Manila arrived at a moment when the region&#8217;s energy systems are under unprecedented pressure. As geopolitical tensions continue to disrupt global fuel markets, artificial intelligence data centers are driving electricity demand to historic highs, and ",
+        "title_cn": "能源论坛标志着亚洲的清洁能源转型正在进入一个新的高风险阶段"
+      },
+      {
+        "title": "Mount Sinai School District To Get Energy Upgrades, Including Solar Power",
+        "link": "https://cleantechnica.com/2026/07/02/mount-sinai-school-district-to-get-energy-upgrades-including-solar-power/",
+        "pubDate": "Thu, 02 Jul 2026 18:27:56 +0000",
+        "description": "Leading energy infrastructure solutions provider Ameresco recently announced a comprehensive energy project with Mount Sinai School District in New York. Rooftop solar PV arrays will be installed at the schools, along with other measures such as replacing old lights with LEDs and replacing existing ",
+        "title_cn": "西奈山学区获得能源升级，包括太阳能"
+      },
+      {
+        "title": "Volkswagen Group Shows Leadership With Elli V2G Service Launch",
+        "link": "https://cleantechnica.com/2026/07/02/volkswagen-group-shows-leadership-with-elli-v2g-service-launch/",
+        "pubDate": "Thu, 02 Jul 2026 17:16:55 +0000",
+        "description": "Last week, Volkswagen Group’s Elli launched its V2G service in Germany. Vehicle to Grid (V2G) means that an EV can charge off the grid and also feed energy back into the grid when needed. I had briefly mentioned the launch in key takeaways from InterSolar/Power2Drive, but it deserves a deeper ... [c",
+        "title_cn": "大众汽车集团推出Elli V2G服务，展现领先地位"
+      },
       {
         "title": "New “Air” Battery Makes Larger Electric Aircraft Possible",
         "link": "https://cleantechnica.com/2026/07/02/electric-aircraft-new-battery-lithium-air-solid-state/",
@@ -130,52 +172,10 @@
         "pubDate": "Thu, 02 Jul 2026 01:41:36 +0000",
         "description": "Firmus today announced a landmark 12-year wholesale energy supply agreement with Gunvor Group for 600 MW of firm electricity to support the next phase of Project Southgate, its strategy to develop large-scale AI Factory campuses across regional Australia. Under the agreement, Gunvor will support the",
         "title_cn": "Firmus在南澳大利亚州获得600兆瓦的能源供应协议，与1.2吉瓦的新可再生能源发电和电池存储相关联"
-      },
-      {
-        "title": "NIO vs. XPENG — Back Almost Even Again!",
-        "link": "https://cleantechnica.com/2026/07/01/nio-vs-xpeng-back-almost-even-again/",
-        "pubDate": "Thu, 02 Jul 2026 00:56:54 +0000",
-        "description": "I&#8217;ve said it before several times — XPENG and NIO have had a humorously similar growth trajectory over the past several years. Sometimes one surges ahead of the other for a while, and then things swing again and the other one surges ahead. NIO had a bit of an advantage ... [continued] The post",
-        "title_cn": "NIO vs. XPENG —几乎又回来了！"
-      },
-      {
-        "title": "Top Selling Electric Vehicles in the World — May 2026",
-        "link": "https://cleantechnica.com/2026/07/01/top-selling-electric-vehicles-in-the-world-may-2026/",
-        "pubDate": "Wed, 01 Jul 2026 22:41:42 +0000",
-        "description": "BEVs on the way up, PHEVs on the way down Plugin vehicle registrations were up 4% year over year (YoY) in May, ending the month at around 1.7 million units. Interestingly, BEVs (+15% YoY) and PHEVs (-15% YoY) had opposite performances, with pure electrics firm in double-digit growth while plugin ...",
-        "title_cn": "全球畅销电动汽车— 2026年5月"
-      },
-      {
-        "title": "XPENG Sales Rise 16% in June",
-        "link": "https://cleantechnica.com/2026/07/01/xpeng-sales-rise-16-in-june/",
-        "pubDate": "Wed, 01 Jul 2026 21:10:20 +0000",
-        "description": "XPENG had 40,126 vehicle deliveries in June, a 15.9% increase year over year. That was also a 24.8% increase in deliveries month over month for the company. Note that static versions of the embedded charts are included at the bottom of this article. This strong June result got the company ... [conti",
-        "title_cn": "XPENG 6月销售额增长16%"
-      },
-      {
-        "title": "NIO Sales Increase 63% in June!",
-        "link": "https://cleantechnica.com/2026/07/01/nio-sales-increase-63-in-june/",
-        "pubDate": "Wed, 01 Jul 2026 20:33:42 +0000",
-        "description": "NIO is off to a strong start in 2026 — well, covering the first half of the year already! The company scored 40,597 deliveries in June, up 62.9% from June 2025. That was also a 7.7% increase month over month. Note that static versions of the embedded charts are included ... [continued] The post NIO ",
-        "title_cn": "6月份NIO销售额增长63% ！"
-      },
-      {
-        "title": "XPENG Unveils X-Mind: Empowering Autonomous Driving With A “Future-Foresight” Brain",
-        "link": "https://cleantechnica.com/2026/07/01/xpeng-unveils-x-mind-empowering-autonomous-driving-with-a-future-foresight-brain/",
-        "pubDate": "Wed, 01 Jul 2026 20:20:57 +0000",
-        "description": "XPENG (NYSE: XPEV, HKEX: 9868), a leading China-based high-tech company, shared key insights at the CVPR 2026 Workshop on Foundation Model Deployment for Embodied Intelligence, hosted in Denver, U.S. this June. Xianming Liu, Head of XPENG Group&#8217;s General Intelligence Center, disclosed for the ",
-        "title_cn": "XPENG推出X-Mind ：用“未来展望”大脑赋予自动驾驶能力"
-      },
-      {
-        "title": "Southeast Missouri Smelter Announces Intent to Restart This Year",
-        "link": "https://cleantechnica.com/2026/07/01/southeast-missouri-smelter-announces-intent-to-restart-this-year/",
-        "pubDate": "Wed, 01 Jul 2026 20:10:18 +0000",
-        "description": "Clean Energy Critical for Affordability &#38; Clean Air in New Madrid NEW MADRID, MO — The idled Magnitude 7 Metals aluminum smelter near New Madrid, formerly owned and operated by Noranda, announced its intent to restart production by the end of the year. Not mentioned in the release today is ... [",
-        "title_cn": "密苏里州东南部冶炼厂宣布打算今年重启"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,10 +254,10 @@
         "description": "秦海岩：氢基绿色燃料的战略意义 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "新版！国家能源集团：绿色氢氨醇项目投资收益率公布！ - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lM3JvZjV5ZkpiWnBhQVFCM2Q2bUN6bjJmRWdjQUlrN2NMNHZtMlhCaHhjY3RYSlB4VkR4NlQ4RGpLSGh4ei1hWEowNVZ3VzBBYTRuTHNn?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 02:38:06 GMT",
-        "description": "新版！国家能源集团：绿色氢氨醇项目投资收益率公布！ &nbsp;&nbsp; 国际氢能网"
+        "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tLUg3SVVhRVVnUTRaOXAtX1BaZ2ZWd1lxZHN2NjhRODRzSGdKcmhEUU9DaVR3OUdJaUYtQlZqMmhtM05seUVfZ183bV80Zy12RVdlXw?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
+        "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -266,94 +266,94 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "氢能正杀入电力系统“展拳脚”！ - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3l3b3ZRR0lTeWNGN0FpTkh2SlhQeGtHeFd0eUljNnJVSklQUEx1dFVVYllBRWU1aXJyWnFNcUdHblpKakRmVFR1Y1hUYnVjSC1Ldjk5ZXhYNHlvMFRNQkZKWG9mVTlKQnE2bXBHQzEtU1dTRjUxTjNPOG5iQ1BTMU12TTd3YV9DRHFHSA?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 01:00:00 GMT",
-        "description": "氢能正杀入电力系统“展拳脚”！ &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "7月1日起施行！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - gdshe.org",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9halpCTGdkak45bHZCRGdjd0NaeklfNTJUUkZTNDk2bkRsRWZnd3ZwU0ZKclNUNDdmMkd0S0FDaXlSa3gySjVUVklCenZ4MXpZY0E?oc=5",
         "pubDate": "Thu, 02 Jul 2026 01:26:38 GMT",
         "description": "7月1日起施行！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; gdshe.org"
       },
       {
-        "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUndodGVmajkyY0stSVNEZ0wtMnU4Yk1YSTNzVTlfZF9YMEdyTzdFdnJvdEpGWWpwazY3ZDYxNUMxMEtFSjN5TU9SZGtpYVRrbU9kbE93?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
-        "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
+        "title": "2026氢能与燃料电池汽车大会正式开幕 - cnenergynews.cn",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWREMTlvanJOU09nN1lYTnluaE5oSEVNaDV5OE04SFRJcXFMaURUU3VpMVNRRTdrQmkxczVSWjZFV0dqMmZGendmOXJ1dEZWOHM2SjExclJKY28?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 01:53:00 GMT",
+        "description": "2026氢能与燃料电池汽车大会正式开幕 &nbsp;&nbsp; cnenergynews.cn"
       },
       {
-        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
+        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
+        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Teva Deploys Hydrogen Truck for Pharmaceutical Logistics in Germany",
-        "link": "https://fuelcellsworks.com/2026/06/29/h2/teva-deploys-hydrogen-truck-for-pharmaceutical-logistics-in-germany",
-        "pubDate": "Wed, 01 Jul 2026 15:50:45 GMT",
+        "title": "How Hyundai Motor Group’s Hydrogen and Robotics Tech Powered the Genesis Le Mans Debut",
+        "link": "https://fuelcellsworks.com/2026/07/02/energy-innovation/how-hyundai-motor-group-s-hydrogen-and-robotics-tech-powered-the-genesis-le-mans-debut",
+        "pubDate": "Thu, 02 Jul 2026 16:29:16 GMT",
         "description": "",
-        "title_cn": "Teva在德国为制药物流部署氢气卡车"
+        "title_cn": "现代汽车集团的氢气和机器人技术如何推动Genesis Le Mans首次亮相"
       },
       {
-        "title": "Atome's Paraguay Crisis Deepens: AIM Shares Frozen as PPA Dispute Stalls Green Hydrogen Project",
-        "link": "https://fuelcellsworks.com/2026/07/01/h2/atome-s-paraguay-crisis-deepens-aim-shares-frozen-as-ppa-dispute-stalls-green-hydrogen-project",
-        "pubDate": "Wed, 01 Jul 2026 15:48:00 GMT",
+        "title": "First Phase of Commercial Green Hydrogen Production Plant at Rijeka Refinery Completed",
+        "link": "https://fuelcellsworks.com/2026/07/02/green-hydrogen/first-phase-of-commercial-green-hydrogen-production-plant-at-rijeka-refinery-completed",
+        "pubDate": "Thu, 02 Jul 2026 16:15:55 GMT",
         "description": "",
-        "title_cn": "Atome的巴拉圭危机加深： AIM股票因PPA争议而冻结绿色氢项目"
+        "title_cn": "里耶卡炼油厂商业绿色制氢厂一期竣工"
       },
       {
-        "title": "A Plant That Turns Kent's Rubbish Into Hydrogen Has Been Submitted for Approval — and the Locals Are Split",
-        "link": "https://fuelcellsworks.com/2026/07/01/news/a-plant-that-turns-kent-s-rubbish-into-hydrogen-has-been-submitted-for-approval-and-the-locals-are-split",
-        "pubDate": "Wed, 01 Jul 2026 15:39:35 GMT",
+        "title": "Metacon Develops Advanced Catalytic Testing Unit for European Research Customer",
+        "link": "https://fuelcellsworks.com/2026/07/02/clean-energy/metacon-develops-advanced-catalytic-testing-unit-for-european-research-customer",
+        "pubDate": "Thu, 02 Jul 2026 16:03:57 GMT",
         "description": "",
-        "title_cn": "将肯特的垃圾变成氢气的工厂已提交审批—当地人正在分裂"
+        "title_cn": "美泰康为欧洲研究客户开发先进的催化测试装置"
       },
       {
-        "title": "Battery Swapping Puts Pressure on Hydrogen Trucks as China Targets 1.6 Million New Energy Heavy-Duty Vehicles by 2030",
-        "link": "https://fuelcellsworks.com/2026/07/01/fuel-cells/battery-swapping-puts-pressure-on-hydrogen-trucks-as-china-targets-1-6-million-new-energy-heavy-duty-vehicles-by-2030",
-        "pubDate": "Wed, 01 Jul 2026 15:26:44 GMT",
+        "title": "A Hydrogen Hub in Partinico: Plant Inaugurated in Former Industrial Area",
+        "link": "https://fuelcellsworks.com/2026/06/30/hydrogen/a-hydrogen-hub-in-partinico-plant-inaugurated-in-former-industrial-area",
+        "pubDate": "Thu, 02 Jul 2026 15:57:25 GMT",
         "description": "",
-        "title_cn": "电池更换给氢能卡车带来压力，中国的目标是到2030年实现160万辆新能源重型汽车"
+        "title_cn": "Partinico的氢气中心：在前工业区落成的工厂"
       },
       {
-        "title": "Nekkar Power Lands ₹75 Crore to Push Its Hydrogen Fuel Cell From Pilot to Industrial Scale",
-        "link": "https://fuelcellsworks.com/2026/07/01/h2/nekkar-power-lands-75-crore-to-push-its-hydrogen-fuel-cell-from-pilot-to-industrial-scale",
-        "pubDate": "Wed, 01 Jul 2026 15:04:36 GMT",
+        "title": "Yara Acquires Gulf Coast Ammonia Plant",
+        "link": "https://fuelcellsworks.com/2026/07/02/green-investment/yara-acquires-gulf-coast-ammonia-plant",
+        "pubDate": "Thu, 02 Jul 2026 15:47:08 GMT",
         "description": "",
-        "title_cn": "Nekkar Power Lands ₹ 75亿卢比将其氢燃料电池从试点规模推向工业规模"
+        "title_cn": "Yara收购墨西哥湾沿岸氨厂"
       },
       {
-        "title": "The New BMW iX5 Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/07/01/news/the-new-bmw-ix5-hydrogen",
-        "pubDate": "Wed, 01 Jul 2026 15:02:31 GMT",
+        "title": "Kanadevia Signs Partnership Agreement with Bahwan Engineering Company for Green Hydrogen Business Development in Oman",
+        "link": "https://fuelcellsworks.com/2026/06/29/green-hydrogen/kanadevia-signs-partnership-agreement-with-bahwan-engineering-company-for-green-hydrogen-business-development-in-oman",
+        "pubDate": "Thu, 02 Jul 2026 15:42:35 GMT",
         "description": "",
-        "title_cn": "全新BMW iX5 Hydrogen"
+        "title_cn": "Kanadevia与Bahwan Engineering Company签署阿曼绿色氢业务发展合作协议"
       },
       {
-        "title": "FLHyPorts Positions Flanders as a Pioneer in Renewable Hydrogen, with Belgium’s First Hydrogen Valley",
-        "link": "https://fuelcellsworks.com/2026/06/30/h2/flhyports-positions-flanders-as-a-pioneer-in-renewable-hydrogen-with-belgium-s-first-hydrogen-valley",
-        "pubDate": "Wed, 01 Jul 2026 14:34:25 GMT",
+        "title": "Brookfield and Bloom Energy Expand Their AI Infrastructure Partnership to $25 Billion; a Fivefold Increase to Build and Finance Fast-Growing Energy for AI Infrastructure",
+        "link": "https://fuelcellsworks.com/2026/07/02/energy-development/brookfield-and-bloom-energy-expand-their-ai-infrastructure-partnership-to-25-billion-a-fivefold-increase-to-build-and-finance-fast-growing-energy-for-ai-infrastructure",
+        "pubDate": "Thu, 02 Jul 2026 15:33:57 GMT",
         "description": "",
-        "title_cn": "FLHyPorts凭借比利时首个氢能谷将佛兰德斯定位为可再生氢能的先驱"
+        "title_cn": "Brookfield和Bloom Energy将他们的人工智能基础设施合作伙伴关系扩大到250亿美元；人工智能基础设施快速增长的能源建设和融资增加了五倍"
       },
       {
-        "title": "FuelCell Energy Secures $49 Million in EXIM Financing to Advance U.S. Clean Energy Exports",
-        "link": "https://fuelcellsworks.com/2026/07/01/news/fuelcell-energy-secures-49-million-in-exim-financing-to-advance-u-s-clean-energy-exports",
-        "pubDate": "Wed, 01 Jul 2026 14:27:31 GMT",
+        "title": "Metacon Granted Approximately SEK 111 Million From Klimatklivet for Hydrogen Production Reference Plant in Uppsala",
+        "link": "https://fuelcellsworks.com/2026/07/02/green-investment/metacon-granted-approximately-sek-111-million-from-klimatklivet-for-hydrogen-production-reference-plant-in-uppsala",
+        "pubDate": "Thu, 02 Jul 2026 15:14:57 GMT",
         "description": "",
-        "title_cn": "FuelCell Energy获得4900万美元的进口融资，以推动美国清洁能源出口"
+        "title_cn": "Metacon从Klimatklivet获得约1.11亿瑞典克朗，用于乌普萨拉的氢气生产参比工厂"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "papers": {
     "items": [
@@ -429,21 +429,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUndodGVmajkyY0stSVNEZ0wtMnU4Yk1YSTNzVTlfZF9YMEdyTzdFdnJvdEpGWWpwazY3ZDYxNUMxMEtFSjN5TU9SZGtpYVRrbU9kbE93?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
-        "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUndodGVmajkyY0stSVNEZ0wtMnU4Yk1YSTNzVTlfZF9YMEdyTzdFdnJvdEpGWWpwazY3ZDYxNUMxMEtFSjN5TU9SZGtpYVRrbU9kbE93?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
+        "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -492,6 +492,12 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
         "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lN1ZCOWEwNlhpRGRBZTVSQ2lEbE9qXy1RMHFqbjIxU1hranZXMUVmLWowbmNUVkU0eFMza3VKME84WmpsTmNUYjNib3R6amV0MXIyc0J3?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 09:40:42 GMT",
+        "description": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mQkJIQW5ETXpiQ1JoQmdiTS1VR182YUxpblljTkVnV2I5R1FyZHZ5TkxuTEM2dm1ZUEpWejlSS3ZIZ1VpX1BIWnF3M3VRVEFwR1Bkb1FMWHllWWdoQ1RXbWVR?oc=5",
         "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
         "description": "全国23省市“绿电直连”政策密集落地，新能源消纳的“最后一公里”正在打通！ &nbsp;&nbsp; 国际储能网"
-      },
-      {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - Sina finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; Sina finance"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-02 16:00 UTC"
+    "updated": "2026-07-02 22:58 UTC"
   }
 }
