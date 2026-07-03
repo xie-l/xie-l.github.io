@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "China boosts prestigious grants for young scientists — will it ease competition?",
+        "link": "https://www.nature.com/articles/d41586-026-01989-5",
+        "pubDate": "2026-07-03",
+        "description": "Nature, Published online: 03 July 2026; doi:10.1038/d41586-026-01989-5 The National Natural Science Foundation of China says it will fund an extra 12,000 projects from this year.",
+        "title_cn": "中国为年轻科学家提供着名的补助金—它会缓解竞争吗？"
+      },
+      {
         "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
         "link": "https://www.nature.com/articles/s41586-026-10844-6",
         "pubDate": "2026-07-02",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-01",
         "description": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10720-3 By using a fibre-optical analogue of the physics of black holes, theoretical and experimental evidence is presented for the process underpinning the generation of Hawking radiation and its backreaction onto the optical pump.",
         "title_cn": "受激霍金辐射在光学模拟中的反反应"
-      },
-      {
-        "title": "Harmonizing standards and resources for the medical genome",
-        "link": "https://www.nature.com/articles/s41586-026-10621-5",
-        "pubDate": "2026-07-01",
-        "description": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10621-5 This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls for the establishment of new, centralized reference standards to impro",
-        "title_cn": "协调医学基因组的标准和资源"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,7 +113,7 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,16 +248,16 @@
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       },
       {
-        "title": "秦海岩：氢基绿色燃料的战略意义 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jOXB1SC1menVXeGV5RUhPMC1VdUVVSUVQblpZOUVjS0xqY3pkVnJHdGJmTDN3UTBQeDJCMzVQbndKdzJDSUVwaV8xdVV6eUQ3M0k3aU53?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 08:39:57 GMT",
-        "description": "秦海岩：氢基绿色燃料的战略意义 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
         "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
         "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "秦海岩：氢基绿色燃料的战略意义 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jOXB1SC1menVXeGV5RUhPMC1VdUVVSUVQblpZOUVjS0xqY3pkVnJHdGJmTDN3UTBQeDJCMzVQbndKdzJDSUVwaV8xdVV6eUQ3M0k3aU53?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 08:39:57 GMT",
+        "description": "秦海岩：氢基绿色燃料的战略意义 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -266,32 +266,32 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "北交所策略专题报告：\"十五五\"新型能源体系规划落地，关注北证电力/核电/氢能/储能四条链_趋势策略_研报 - 证券之星",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoaGhQMURqV2VhZXpMM1Ixc1BFRkxrclhwVXJ2b0RGeGU1dGtnWF84Y3lHYmdPSUlVbVg2SGRlT1dwLVZuQS1QeWJZNEFSSThlT2lfWVdpeUJPQkVpM3czeHlB?oc=5",
-        "pubDate": "Sun, 28 Jun 2026 07:01:00 GMT",
-        "description": "北交所策略专题报告：\"十五五\"新型能源体系规划落地，关注北证电力/核电/氢能/储能四条链_趋势策略_研报 &nbsp;&nbsp; 证券之星"
-      },
-      {
-        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 08:27:00 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
-      },
-      {
         "title": "2026氢能与燃料电池汽车大会正式开幕 - cnenergynews.cn",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWREMTlvanJOU09nN1lYTnluaE5oSEVNaDV5OE04SFRJcXFMaURUU3VpMVNRRTdrQmkxczVSWjZFV0dqMmZGendmOXJ1dEZWOHM2SjExclJKY28?oc=5",
         "pubDate": "Thu, 11 Jun 2026 01:53:00 GMT",
         "description": "2026氢能与燃料电池汽车大会正式开幕 &nbsp;&nbsp; cnenergynews.cn"
       },
       {
-        "title": "7月1日起施行！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9halpCTGdkak45bHZCRGdjd0NaeklfNTJUUkZTNDk2bkRsRWZnd3ZwU0ZKclNUNDdmMkd0S0FDaXlSa3gySjVUVklCenZ4MXpZY0E?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 01:26:38 GMT",
-        "description": "7月1日起施行！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; gdshe.org"
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,12 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "The Merger-Driven Origin of the Vast Extended Stellar Disc Around the Andromeda Galaxy",
+        "link": "https://arxiv.org/abs/2607.02480v1",
+        "pubDate": "2026-07-02T17:48:02Z",
+        "description": "The closest giant spiral, the Andromeda galaxy (M31), shows compelling evidence for a recent, gas-rich major merger event. Pronounced substructures in its inner halo and a kinematically hot stellar disc, whose star formation history shows a widespread star formation episode 2.5 Gyr ago, are telltale",
+        "title_cn": "仙女座星系周围广阔的恒星盘的合并驱动起源"
+      },
+      {
+        "title": "TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution",
+        "link": "https://arxiv.org/abs/2607.02469v1",
+        "pubDate": "2026-07-02T17:35:20Z",
+        "description": "Software tests and code evolve together: a code change should be followed by new or updated tests that record the new software behavior. Yet existing test generation and update benchmarks often isolate the test from the code change, and rely on static metadata that does not verify whether a test is ",
+        "title_cn": "TestEvo-Bench ：测试和代码协同进化的可执行和实时基准"
+      },
+      {
+        "title": "Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation",
+        "link": "https://arxiv.org/abs/2607.02460v1",
+        "pubDate": "2026-07-02T17:27:24Z",
+        "description": "Post-training large language models (LLMs) without real-world interaction feedback or human-labeled supervision remains challenging, particularly in specialized domains where expert annotations are costly to obtain. Recent annotation-free self-evolution methods address this by using the model's own ",
+        "title_cn": "无标注LLM自蒸馏的神经元感知数据选择"
+      },
+      {
+        "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
+        "link": "https://arxiv.org/abs/2607.02440v1",
+        "pubDate": "2026-07-02T17:10:13Z",
+        "description": "Autonomous agents are increasingly expected to improve executable policies through feedback, yet existing evaluations often collapse this process into a final score or confound it with open-ended software-engineering progress. We introduce Autonomous Policy Evolution, a controlled evaluation setting",
+        "title_cn": "EvoPolicyGym ：评估交互式环境中的自主政策演变"
+      },
+      {
+        "title": "MARVEL: Margin-Aware Robust von Mises-Fischer Expert Learning for Long-Tailed Out-of-Distribution Detection",
+        "link": "https://arxiv.org/abs/2607.02435v1",
+        "pubDate": "2026-07-02T17:06:31Z",
+        "description": "For clinical deployment, it is essential that automated diagnostic systems remain reliable when confronted with previously unseen cases, yet deep models routinely misclassify out-of-distribution (OOD) inputs with high confidence, underscoring the need for more robust OOD detection methods. Although ",
+        "title_cn": "MARVEL ：保证金感知强大的von Mises-Fischer专家学习，用于长尾分布外检测"
+      },
+      {
+        "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
+        "link": "https://arxiv.org/abs/2607.02426v1",
+        "pubDate": "2026-07-02T16:54:35Z",
+        "description": "Federated learning (FL) enables collaborative model training across distributed devices without sharing raw data, making it suitable for privacy-sensitive robotic sensing applications. However, multi-agent systems generate heterogeneous and non-independent and identically distributed (non-IID) multi",
+        "title_cn": "QFedAgent ：用于多Agent活动识别的量子增强个性化联合学习"
+      },
+      {
+        "title": "Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs",
+        "link": "https://arxiv.org/abs/2607.02425v1",
+        "pubDate": "2026-07-02T16:53:42Z",
+        "description": "Understanding human behavior while interacting with the surrounding world is crucial for many applications of embodied AI. First-person videos are particularly informative for this problem, as they well capture how activities reshape the scene over time. However, existing approaches often rely on im",
+        "title_cn": "学习演化场景：用场景图表推理人类活动"
+      },
+      {
+        "title": "Black Hole Persistence in Scalar Tensor Theories",
+        "link": "https://arxiv.org/abs/2607.02409v1",
+        "pubDate": "2026-07-02T16:40:27Z",
+        "description": "We construct a perturbative scalar-tensor solution describing a central inhomogeneity embedded in an evolving cosmological background, with the aim of studying black hole persistence through a nonsingular bounce. Scalar-tensor gravity provides a natural framework for realizing bouncing cosmologies, ",
+        "title_cn": "标量张量理论中的黑洞持久性"
+      },
+      {
+        "title": "Direct numerical simulations of turbulent drag reduction via piezoelectric actuation",
+        "link": "https://arxiv.org/abs/2607.02398v1",
+        "pubDate": "2026-07-02T16:32:53Z",
+        "description": "We have conducted Direct Numerical Simulations of turbulent half-channel flow over realistic surface deformations at friction Reynolds number $Re_τ=200$. We generated the surface deformations using piezoelectric actuators. We simulated the piezoelectric actuation over the practical actuation frequen",
+        "title_cn": "压电驱动湍流减阻的直接数值模拟"
+      },
+      {
+        "title": "Ultra-Low-Cost Hybrid Beamforming: A New Static-Connection Architecture with Sparse Phase-Shifter Sharing",
+        "link": "https://arxiv.org/abs/2607.02393v1",
+        "pubDate": "2026-07-02T16:27:52Z",
+        "description": "Hybrid beamforming is a promising solution for high-frequency multi-antenna wireless systems, but its implementation is constrained by the cost and complexity of analog phase-shifter (PS) networks. Although sub-connected architectures simplify the analog network, their conventional realization still",
+        "title_cn": "超低成本混合波束成形：一种具有稀疏移相器共享的新型静态连接架构"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -412,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -453,19 +524,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "多用户绿电直连政策出台！不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JZXRtM3dMbmo3ejBYVTVmaFRMbktZVTZOcmdWN0huUW1DaEl0U0dCQ0NENmZ5cjVpSjc2S2xQV3Z5RG1zSXhHZDc2NUZ1Ui1jbWc?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连政策出台！不再经过公共电网，绿电直连能终结出口企业的“碳焦虑”吗？ &nbsp;&nbsp; 维科号"
-      },
-      {
         "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
         "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRjR3VFl1aWFlQkZFUVd0ZnlNeWh2WVhSX1hfNTBnMm1LUy1Id2hPLW1Zbi1JUjVlaDZCMVdGQ0wwTUpYS1JQSTY4dFgyWjREMHIzNUpwbEEzUkNwLU9qQg?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 01:03:06 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-03 05:46 UTC"
+    "updated": "2026-07-03 09:51 UTC"
   }
 }
