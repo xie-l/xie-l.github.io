@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Heat, Drought, & Fires Disrupt USA’s 250th Anniversary — But We Ain’t Seen Nothing Yet",
+        "link": "https://cleantechnica.com/2026/07/04/heat-drought-fires-disrupt-usas-250th-anniversary-but-we-aint-seen-nothing-yet/",
+        "pubDate": "Sat, 04 Jul 2026 22:50:38 +0000",
+        "description": "Two days ago, I saw news that New Jersey towns were having to cancel 4th of July events to extreme heat. The irony struck me immediately. A country that is by and large ignoring global heating is having celebrations of its 250-year anniversary/birthday canceled because of global heating. &#8220;New ",
+        "title_cn": "热，干旱和火灾扰乱了美国250周年纪念—但我们还没有看到任何东西"
+      },
+      {
+        "title": "The 250th Anniversary Of The Declaration Of Independence Was Nothing Like The Bicentennial Celebrations",
+        "link": "https://cleantechnica.com/2026/07/04/the-250th-anniversary-of-the-declaration-of-independence-was-nothing-like-the-bicentennial-celebrations/",
+        "pubDate": "Sat, 04 Jul 2026 21:43:00 +0000",
+        "description": "On today&#8217;s 250th celebration of the United States of America, I&#8217;m feeling quite melancholy. The signing of the Declaration of Independence is one of the most important events in US history and should be a cause for great acclaim. Our nation should be relishing the further advancement of ",
+        "title_cn": "独立宣言250周年纪念活动与两百周年庆祝活动完全不同"
+      },
+      {
+        "title": "BYD Beats Tesla — Again",
+        "link": "https://cleantechnica.com/2026/07/04/byd-beats-tesla-again/",
+        "pubDate": "Sat, 04 Jul 2026 15:10:14 +0000",
+        "description": "One of our team members mentioned yesterday that BYD beat Tesla in BEV sales last quarter, and that we should have an article about it. I did publish such comparisons in the past, so it was definitely on me to get a new one out now. (To be honest, I ... [continued] The post BYD Beats Tesla — Again a",
+        "title_cn": "比亚迪再次击败特斯拉"
+      },
       {
         "title": "Agrivoltaics Works When Solar Panels Do Farm Work",
         "link": "https://cleantechnica.com/2026/07/04/agrivoltaics-works-where-shade-does-farm-work/",
@@ -151,31 +172,10 @@
         "pubDate": "Sat, 04 Jul 2026 01:33:54 +0000",
         "description": "CleanTechnica last reported on Australian electric bus sales using January’s data. Things have changed. In January, 155 buses were delivered and only 9 were BEVs. Checking out Q1 2026 deliveries via Google revealed that 121 electric buses were delivered across Australia from January to March of 2026",
         "title_cn": "电动公交车占澳大利亚新交付量的50%以上"
-      },
-      {
-        "title": "Vatrer LFP Battery Transforms EZ Go Golf Cart",
-        "link": "https://cleantechnica.com/2026/07/03/vatrer-lfp-battery-transforms-ez-go-golf-cart/",
-        "pubDate": "Fri, 03 Jul 2026 23:34:31 +0000",
-        "description": "My electric EZ Go golf cart got a new Vatrer LFP battery this week. Gone forever are lead acid battery hassles. The post Vatrer LFP Battery Transforms EZ Go Golf Cart appeared first on CleanTechnica .",
-        "title_cn": "Vatrer LFP电池变形EZ Go高尔夫球车"
-      },
-      {
-        "title": "BYD Seal 08 EV: A No-Compromise Premium Sedan At A Commodity Car Price",
-        "link": "https://cleantechnica.com/2026/07/03/byd-seal-08-ev-a-no-compromise-premium-sedan-at-a-commodity-car-price/",
-        "pubDate": "Fri, 03 Jul 2026 20:35:12 +0000",
-        "description": "Last week, CleanTechnica showed a preview of the stunning new BYD Seal 08. Looking at the pictures and specifications released at the time, it seemed like an impressive flagship sedan for BYD’s Ocean lineup. With the launch of the Seal 08 this week, we now have more details, and the ... [continued] ",
-        "title_cn": "比亚迪Seal 08 EV ：以商品汽车价格购买的无妥协高级轿车"
-      },
-      {
-        "title": "Tesla Has A Blowout Q2 — The Story Behind The Numbers",
-        "link": "https://cleantechnica.com/2026/07/03/tesla-has-a-blowout-q2-the-story-behind-the-numbers/",
-        "pubDate": "Fri, 03 Jul 2026 19:34:30 +0000",
-        "description": "Although Zach did a great job of covering Tesla&#8217;s sales report, I want to mention a few other factors and talk about the broader market. Tesla’s strong Q2 deliveries resulted from converging tailwinds: elevated oil prices from the Iran conflict, refreshed Model Y and YL demand, US incentives, ",
-        "title_cn": "特斯拉第二季度井喷—数字背后的故事"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -252,6 +252,12 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wWERUaGpJOW9iZVNsSjB4Y1FCNXNiR0RJS1hGZVlQQWtkcmxkdkI3MFFCTUxBTzVBaTJVdmlWNjFKLU5GX2dUQk83RHdGNUxkU2NHT0Fkc0s4Vjla?oc=5",
         "pubDate": "Sat, 04 Jul 2026 08:08:12 GMT",
         "description": "中国能建党委书记、董事长倪真与吉林省委常委、常务副省长蔡东会谈 &nbsp;&nbsp; mpower.in-en.com"
+      },
+      {
+        "title": "秦海岩：氢基绿色燃料的战略意义 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jOXB1SC1menVXeGV5RUhPMC1VdUVVSUVQblpZOUVjS0xqY3pkVnJHdGJmTDN3UTBQeDJCMzVQbndKdzJDSUVwaV8xdVV6eUQ3M0k3aU53?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 08:39:57 GMT",
+        "description": "秦海岩：氢基绿色燃料的战略意义 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -282,16 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWREMTlvanJOU09nN1lYTnluaE5oSEVNaDV5OE04SFRJcXFMaURUU3VpMVNRRTdrQmkxczVSWjZFV0dqMmZGendmOXJ1dEZWOHM2SjExclJKY28?oc=5",
         "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
         "description": "2026氢能与燃料电池汽车大会正式开幕 &nbsp;&nbsp; cnenergynews.cn"
-      },
-      {
-        "title": "氢能时代的全球权力重构与“中国底盘” - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVkk3OENlU1Bha0o5LXR6bUI4ak9oaW82UmtMLTFmU2dsRW05Q3BnR2JFOEU5RkRLWWJfb05kMkdzaW9jb241NERxbEY2Mk5nN3Y3Y0JB?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 09:51:21 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -441,7 +441,7 @@
       },
       {
         "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNUndodGVmajkyY0stSVNEZ0wtMnU4Yk1YSTNzVTlfZF9YMEdyTzdFdnJvdEpGWWpwazY3ZDYxNUMxMEtFSjN5TU9SZGtpYVRrbU9kbE93?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tLUg3SVVhRVVnUTRaOXAtX1BaZ2ZWd1lxZHN2NjhRODRzSGdKcmhEUU9DaVR3OUdJaUYtQlZqMmhtM05seUVfZ183bV80Zy12RVdlXw?oc=5",
         "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
         "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
       },
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -492,12 +492,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
         "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lN1ZCOWEwNlhpRGRBZTVSQ2lEbE9qXy1RMHFqbjIxU1hranZXMUVmLWowbmNUVkU0eFMza3VKME84WmpsTmNUYjNib3R6amV0MXIyc0J3?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 09:40:42 GMT",
-        "description": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "全国23省市“绿电直连”政策密集落地，新能源消纳的“最后一公里”正在打通！ - 国际储能网",
@@ -530,13 +524,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪网",
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪网"
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sRjR3VFl1aWFlQkZFUVd0ZnlNeWh2WVhSX1hfNTBnMm1LUy1Id2hPLW1Zbi1JUjVlaDZCMVdGQ0wwTUpYS1JQSTY4dFgyWjREMHIzNUpwbEEzUkNwLU9qQg?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-04 14:59 UTC"
+    "updated": "2026-07-04 22:51 UTC"
   }
 }
