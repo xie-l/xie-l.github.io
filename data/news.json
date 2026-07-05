@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
+        "link": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
+        "pubDate": "Sun, 05 Jul 2026 00:52:09 +0000",
+        "description": "Electric school bus batteries are the perfect candidates for vehicle to grid technology to help stabilize the grid. The post Electric School Buses Put Batteries To Work To Stabilize Grids appeared first on CleanTechnica .",
+        "title_cn": "电动校车将电池用于稳定电网"
+      },
+      {
+        "title": "For The US Auto Market, What Is The Next Step, Battery Electric Vehicles Or Hybrids?",
+        "link": "https://cleantechnica.com/2026/07/04/for-the-us-auto-market-what-is-the-next-step-battery-electric-vehicles-or-hybrids/",
+        "pubDate": "Sun, 05 Jul 2026 00:44:06 +0000",
+        "description": "I&#8217;ve been driving electric vehicles (EVs) for 15 years, so you may think this is a strange question for me to ask, but I&#8217;m not asking for me, I&#8217;m asking for the &#8220;regular Joe&#8221; in the US. If everyone was like me, it would be easy to answer — EVs ... [continued] The post F",
+        "title_cn": "对于美国汽车市场，电池电动汽车或混合动力汽车的下一步是什么？"
+      },
+      {
+        "title": "Why KG Motors Suspended Reservations For Its Tiny MiBot EV",
+        "link": "https://cleantechnica.com/2026/07/04/why-kg-motors-suspended-reservations-for-its-tiny-mibot-ev/",
+        "pubDate": "Sat, 04 Jul 2026 23:27:19 +0000",
+        "description": "&#8220;We will not take your money until we know when we can build your car.&#8221; We&#8217;ve followed Japanese micro-EV maker KG Motors from the start. After initially announcing that completed vehicle deliveries began in December, followed by a planned April production ramp-up after a tie-up wit",
+        "title_cn": "为什么KG Motors暂停对其微型MiBot EV的预订"
+      },
       {
         "title": "Heat, Drought, & Fires Disrupt USA’s 250th Anniversary — But We Ain’t Seen Nothing Yet",
         "link": "https://cleantechnica.com/2026/07/04/heat-drought-fires-disrupt-usas-250th-anniversary-but-we-aint-seen-nothing-yet/",
@@ -151,31 +172,10 @@
         "pubDate": "Sat, 04 Jul 2026 13:48:55 +0000",
         "description": "The balcony solar movement offers ratepayers relief from high electricity costs with a more affordable, accessible way to generate their own solar power at home. The post The Balcony Solar Movement Will Fry Trump&#8217;s Brain appeared first on CleanTechnica .",
         "title_cn": "阳台太阳能运动将炒掉特朗普的大脑"
-      },
-      {
-        "title": "Agrivoltaics Could Solve One of Solar’s Biggest Problems in the Philippines",
-        "link": "https://cleantechnica.com/2026/07/04/agrivoltaics-could-solve-one-of-solars-biggest-problems-in-the-philippines/",
-        "pubDate": "Sat, 04 Jul 2026 13:19:56 +0000",
-        "description": "One of the biggest criticisms of utility-scale solar is that it competes with agriculture for land. As countries race to add more renewable energy, that debate has become increasingly relevant in the Philippines, where arable land is both limited and economically important. Agrivoltaics offers a dif",
-        "title_cn": "Agrivoltaics可以解决菲律宾太阳能最大的问题之一"
-      },
-      {
-        "title": "Lynk & Co Announces Leadership Changes to Support the Next Phase of Its European Growth",
-        "link": "https://cleantechnica.com/2026/07/03/lynk-co-announces-leadership-changes-to-support-the-next-phase-of-its-european-growth/",
-        "pubDate": "Sat, 04 Jul 2026 02:19:34 +0000",
-        "description": "Mo Wang appointed CEO of Lynk &#38; Co International, the entity overseeing the brand&#8217;s business in Europe. Nicolas López Appelgren to step down as CEO of Lynk &#38; Co International. Martin Persson to assume a leadership role for Lynk &#38; Co’s business in Europe within the planned Volvo Car",
-        "title_cn": "Lynk & Co宣布领导层变动，以支持其欧洲增长的下一阶段"
-      },
-      {
-        "title": "Electric Buses Make Up Over 50% of New Deliveries in Australia",
-        "link": "https://cleantechnica.com/2026/07/03/electric-buses-make-up-over-50-of-new-deliveries-in-australia/",
-        "pubDate": "Sat, 04 Jul 2026 01:33:54 +0000",
-        "description": "CleanTechnica last reported on Australian electric bus sales using January’s data. Things have changed. In January, 155 buses were delivered and only 9 were BEVs. Checking out Q1 2026 deliveries via Google revealed that 121 electric buses were delivered across Australia from January to March of 2026",
-        "title_cn": "电动公交车占澳大利亚新交付量的50%以上"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,10 +248,10 @@
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       },
       {
-        "title": "中国能建党委书记、董事长倪真与吉林省委常委、常务副省长蔡东会谈 - mpower.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wWERUaGpJOW9iZVNsSjB4Y1FCNXNiR0RJS1hGZVlQQWtkcmxkdkI3MFFCTUxBTzVBaTJVdmlWNjFKLU5GX2dUQk83RHdGNUxkU2NHT0Fkc0s4Vjla?oc=5",
-        "pubDate": "Sat, 04 Jul 2026 08:08:12 GMT",
-        "description": "中国能建党委书记、董事长倪真与吉林省委常委、常务副省长蔡东会谈 &nbsp;&nbsp; mpower.in-en.com"
+        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QQjdDZHA1WDNTX0pEbmhrdmV4WUxDNk9BQU10UFVQWDFtandsbGxWQnllcTkxY1Q0V3Bnb00xMk9JVllqeU5fUWJQU1BxeVZieEdlZw?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
+        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "秦海岩：氢基绿色燃料的战略意义 - 中国产业发展促进会氢能分会",
@@ -284,14 +284,14 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "2026氢能与燃料电池汽车大会正式开幕 - cnenergynews.cn",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNWREMTlvanJOU09nN1lYTnluaE5oSEVNaDV5OE04SFRJcXFMaURUU3VpMVNRRTdrQmkxczVSWjZFV0dqMmZGendmOXJ1dEZWOHM2SjExclJKY28?oc=5",
-        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
-        "description": "2026氢能与燃料电池汽车大会正式开幕 &nbsp;&nbsp; cnenergynews.cn"
+        "title": "氢能时代的全球权力重构与“中国底盘” - thepaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSm5KQkZsb1l1WXV1RDRWbkR1V0xYczhGRm5JQUNRRjZYTjNKcXRZTGN5RndzaEpScFYtUWY2YkxDWkYzYWRGVjdJS1BNTGNNaHRHV2NYZ3JYYW5GYVE?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; thepaper.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "policy_nea": {
     "items": [
@@ -438,12 +438,6 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tLUg3SVVhRVVnUTRaOXAtX1BaZ2ZWd1lxZHN2NjhRODRzSGdKcmhEUU9DaVR3OUdJaUYtQlZqMmhtM05seUVfZ183bV80Zy12RVdlXw?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 01:06:44 GMT",
-        "description": "重磅！氢能跻身一级分类！国家能源局发布《能源行业数据分类分级指南（2026年版）》 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -462,6 +456,12 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEYWp0eGxhTGFhOTJHU1RlM1VIeldVb1ktbUplbE1FYWgxeUh1TDdQbFRaa3RXd1M1RjljZTVFX2FsVFVtYUNPNVFQVDRsSGw4dEFyZXBB?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 00:51:29 GMT",
+        "description": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-04 22:51 UTC"
+    "updated": "2026-07-05 05:57 UTC"
   }
 }
