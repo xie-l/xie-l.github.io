@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Universities are relying on AI-detection software to catch cheating. How well do the programs work?",
+        "link": "https://www.nature.com/articles/d41586-026-01358-2",
+        "pubDate": "2026-07-06",
+        "description": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-01358-2 Technology companies say that their services can sniff out AI-generated writing, but their tools vary in technique and quality.",
+        "title_cn": "大学正在依靠人工智能检测软件来捕捉作弊行为。这些计划的运作情况如何？"
+      },
+      {
+        "title": "The rise of computer chips — and the race to control them",
+        "link": "https://www.nature.com/articles/d41586-026-02099-y",
+        "pubDate": "2026-07-06",
+        "description": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02099-y An analysis sets out the history of computing beyond software and Californian entrepreneurs.",
+        "title_cn": "计算机芯片的崛起—以及控制它们的竞赛"
+      },
+      {
+        "title": "Time to give hydration breaks the red card? What science says about keeping cool",
+        "link": "https://www.nature.com/articles/d41586-026-02097-0",
+        "pubDate": "2026-07-06",
+        "description": "Nature, Published online: 06 July 2026; doi:10.1038/d41586-026-02097-0 Inappropriate use of cooling breaks in sport is undermining trust in heat-health research.",
+        "title_cn": "是时候给水合作用打破红牌了吗？科学对保持冷静的看法"
+      },
+      {
         "title": "China boosts prestigious grants for young scientists — will it ease competition?",
         "link": "https://www.nature.com/articles/d41586-026-01989-5",
         "pubDate": "2026-07-03",
@@ -35,34 +56,25 @@
         "pubDate": "2026-07-02",
         "description": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02108-0 The insects could explore underwater for up to three hours. Plus, fake cancer studies rake in the citations and how scientists can build trust by recognizing their biases.",
         "title_cn": "每日简报： “机器人”蟑螂穿着印花西装在水下呼吸"
-      },
-      {
-        "title": "Can you actually do a nine-to-five PhD? Nature readers weigh in",
-        "link": "https://www.nature.com/articles/d41586-026-01773-5",
-        "pubDate": "2026-07-02",
-        "description": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-01773-5 Nature readers share their PhD time-management woes.",
-        "title_cn": "你真的能做一个朝九晚五的博士学位吗？自然读者权衡"
-      },
-      {
-        "title": "Incoming US science academy chief vows to ‘double down’ on research",
-        "link": "https://www.nature.com/articles/d41586-026-02088-1",
-        "pubDate": "2026-07-02",
-        "description": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02088-1 New leader of the National Academy of Sciences Neil Shubin warns: ‘a society that loses science loses the future’.",
-        "title_cn": "即将上任的美国科学院院长发誓要“加倍”研究"
-      },
-      {
-        "title": "Togetherness: How co-operation built the world",
-        "link": "https://www.nature.com/articles/d41586-026-02067-6",
-        "pubDate": "2026-07-01",
-        "description": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6 Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.",
-        "title_cn": "团结：合作如何构建世界"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime",
+        "link": "https://36kr.com/p/3884024701874183?f=rss",
+        "pubDate": "2026-07-06 18:39:24  +0800",
+        "description": "大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社） 千问大模型升级实时语音识别大模型Fun-ASR-Realtime 36氪获悉，千问大模型正"
+      },
+      {
+        "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+        "link": "https://36kr.com/p/3883591654895873?f=rss",
+        "pubDate": "2026-07-06 15:53:03  +0800",
+        "description": "文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom"
+      },
       {
         "title": "36氪首发｜前西门子、罗罗电动飞行团队创业做航空电驱系统，两轮连融数千万元",
         "link": "https://36kr.com/p/3883721315971078?f=rss",
@@ -98,22 +110,10 @@
         "link": "https://36kr.com/p/3883513899380744?f=rss",
         "pubDate": "2026-07-06 10:15:39  +0800",
         "description": "图源/视觉中国 作者丨欧雪 编辑丨袁斯来 如果在七年前，有人告诉一个投资人，量子计算公司会有订单，还能在纳斯达克上市，市值破150亿美元，对方大概率会把这人当个骗子。 他们很多人都记得前几年那场“量子寒冬”。那一年，谷歌用量子处理器完成了一项计算， 200秒算出了超级计算机1万年才能得出的结果。人们以为， 量子霸权实现了，量子计算机真的能解决经典计算机无法解决的问题。 狂欢转瞬即逝。那终究只是一次炫目的实验，“大家很快意识到，现阶段的量子计算机不能做任何实用有意义的工作。”一位投资人回忆。 谁也没有想到，2026年开始，整个行业忽然开始加速。根据投中嘉川CVSource数据显示，仅今年一季度，"
-      },
-      {
-        "title": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
-        "link": "https://36kr.com/p/3883400536453381?f=rss",
-        "pubDate": "2026-07-06 08:02:20  +0800",
-        "description": "今日热点导览 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型 蒋方舟再回应被清华教授指控论文造假 张雪称负债接近1亿元，本月将还清全部债务 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产 印度政府：正调查苹果手机信息泄露事件 TOP3大新闻 7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色 据报道，跨国连锁零售公司7-Eleven（7-11）已在美国得克萨斯州联邦法院起诉运动品牌耐克，指控该公司计划于7月11日推出的运动鞋抄袭了7-11便利店标志性的橙、绿、红三色条纹设计。 7-11在2日向法院提交的诉状中称，耐克即将推出的Air Max 95运动鞋采"
-      },
-      {
-        "title": "鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发",
-        "link": "https://36kr.com/p/3880060701388809?f=rss",
-        "pubDate": "2026-07-06 07:50:00  +0800",
-        "description": "36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料 ——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "energy_cn": {
     "items": [
@@ -246,12 +246,6 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
         "pubDate": "Thu, 02 Jul 2026 03:57:09 GMT",
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 - 中华网科技频道",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NS3IybklTeHNoVUVHZTdjUUF3RkZjaXRPd1NBQXdsNXRUaGhrcTNVWlpEYkhuTDQyQ0NrV01zWE5mclZBQk5wR2NwbkhjNkk5T0pBRTR4UHpoY0RvTndMZ3oyNzdLRy1WUENPa3pn?oc=5",
-        "pubDate": "Sun, 05 Jul 2026 09:38:22 GMT",
-        "description": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 &nbsp;&nbsp; 中华网科技频道"
       },
       {
         "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
@@ -266,16 +260,22 @@
         "description": "秦海岩：氢基绿色燃料的战略意义 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
+        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
+        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
+        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
+      },
+      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
-        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
-        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
+        "title": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 - 中华网科技频道",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NS3IybklTeHNoVUVHZTdjUUF3RkZjaXRPd1NBQXdsNXRUaGhrcTNVWlpEYkhuTDQyQ0NrV01zWE5mclZBQk5wR2NwbkhjNkk5T0pBRTR4UHpoY0RvTndMZ3oyNzdLRy1WUENPa3pn?oc=5",
+        "pubDate": "Sun, 05 Jul 2026 09:38:22 GMT",
+        "description": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 &nbsp;&nbsp; 中华网科技频道"
       },
       {
         "title": "国家能源局：氢能正式纳入能源数据一级分类！ - 世纪新能源网",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "papers": {
     "items": [
@@ -429,21 +429,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "34条！2026年6月氢能政策汇总 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55VUV2YjRwWjFHZ0ZRTldicUxEQmVVbGR6N01KVlRteldyUU9qVnpfUDJCZUN5UHVBVV9uS3dIMk5xQUVacnoxamJYZk9BQ3l2YTgxWi1R?oc=5",
-        "pubDate": "Sun, 05 Jul 2026 11:39:44 GMT",
-        "description": "34条！2026年6月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "34条！2026年6月氢能政策汇总 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTjMtb2haWmJfaVlWMlhSbUQ1SVVYNDRLR3o5SS1zWjBZSHBkYmJsM182c3ZOSndmejZHOTZNVjFCa2RMZTk5X0sxR1pZNlNsb0lidw?oc=5",
+        "pubDate": "Sun, 05 Jul 2026 11:39:44 GMT",
+        "description": "34条！2026年6月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -504,6 +504,12 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
         "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lN1ZCOWEwNlhpRGRBZTVSQ2lEbE9qXy1RMHFqbjIxU1hranZXMUVmLWowbmNUVkU0eFMza3VKME84WmpsTmNUYjNib3R6amV0MXIyc0J3?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 09:40:42 GMT",
+        "description": "海德洞察：重磅政策推动绿色燃料与非电强制消纳 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
         "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
         "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
-      },
-      {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-06 06:21 UTC"
+    "updated": "2026-07-06 11:23 UTC"
   }
 }
