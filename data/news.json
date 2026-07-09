@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
+        "link": "https://www.nature.com/articles/d41586-026-02114-2",
+        "pubDate": "2026-07-09",
+        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02114-2 Two gas giants circling the same star are among the least dense planets ever found.",
+        "title_cn": "一对“超级膨化”行星比糖果牙线轻"
+      },
+      {
+        "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
+        "link": "https://www.nature.com/articles/d41586-026-01242-z",
+        "pubDate": "2026-07-09",
+        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
+        "title_cn": "无论文毕业：认识在中国获得“实用”博士学位的人"
+      },
+      {
         "title": "Nukes in space? Orbital detector could sniff out warheads",
         "link": "https://www.nature.com/articles/d41586-026-02141-z",
         "pubDate": "2026-07-08",
@@ -42,27 +56,31 @@
         "pubDate": "2026-07-08",
         "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10744-9 The structure of the Hdr–Vhu–Fwd super-assembly reveals a lineage-specific and modular 8 MDa complex with the ability to adapt to diverse anaerobic niches.",
         "title_cn": "I类产甲烷菌8 MDa Hdr-Vhu-Fwd超级组装架构"
-      },
-      {
-        "title": "Reinforcement learning control of quantum error correction",
-        "link": "https://www.nature.com/articles/s41586-026-10759-2",
-        "pubDate": "2026-07-08",
-        "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10759-2 By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.",
-        "title_cn": "量子纠错的强化学习控制"
-      },
-      {
-        "title": "Large language models can predict the results of social science experiments",
-        "link": "https://www.nature.com/articles/s41586-026-10742-x",
-        "pubDate": "2026-07-08",
-        "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10742-x Large language models can be used to estimate the results of social science experiments about as accurately as a group of human forecasters—even for experiments published after the models were trained—although they tended to over",
-        "title_cn": "大型语言模型可以预测社会科学实验的结果"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
+        "link": "https://36kr.com/p/3888567864851204?f=rss",
+        "pubDate": "2026-07-09 23:36:08  +0800",
+        "description": "7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正式为行业带来彻底击穿自动充电各场景规模商用核心困局的通用解法。 0.000S 无机容差应变 瞬息万变的混沌不确定性，为自动充电场景带来 “反应速度” 核心挑战&nbsp; 目前，自动充电演示和概念产品层出不穷，但距真正规模商用始终一步之遥。其核心原因在于，从精准控制的演示环节走向真实而复杂的落地应用"
+      },
+      {
+        "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
+        "link": "https://36kr.com/p/3888289009678854?f=rss",
+        "pubDate": "2026-07-09 18:53:27  +0800",
+        "description": "Alpha will be made, not found。 麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。 中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不得不学会的新手艺）。 与此同时，主线变了。"
+      },
+      {
+        "title": "2026·Under36丨绕过旧答案的一代人",
+        "link": "https://36kr.com/p/3888279614274048?f=rss",
+        "pubDate": "2026-07-09 18:45:37  +0800",
+        "description": "为什么颠覆性的突破总是由年轻人完成？ 因为他们还没有被旧范式驯服。 几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处： 他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。 1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。 而库恩试图回答的问题是， 为什么颠覆性的突破总是由年轻人完成？答案是简单而残酷的，因为他们还没有被旧范式驯服。 在整理完2026年度Under 36入选者的资料之后，我们很难不想起这个判断：新的范式不靠说服旧的人，而是靠一"
+      },
       {
         "title": "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
         "link": "https://36kr.com/p/3888230589152008?f=rss",
@@ -92,31 +110,41 @@
         "link": "https://36kr.com/p/3887871679347208?f=rss",
         "pubDate": "2026-07-09 11:48:49  +0800",
         "description": "36氪获悉，聚焦工业制造领域的具身智能机器人企业 「昇视唯盛」（3Srobotics）正式宣布完成数亿元B轮融资，本轮融资由上海半导体产投、金桥基金领投，零一创投、新鼎资本、中关鼎华及老股东微光创投持续加码跟投。 资金将主要用于焊接具身智能大脑与自主小脑运动控制系统的迭代升级，扩大自有智造工厂产能，扩充研发与市场服务团队，加速产品全国多行业规模化落地。 昇视唯盛成立于2020年，2023年获得国家高新技术企业认证，2024年获得上海市专精特新中小企业、上海市智能机器人标杆企业。本轮融资完成标志昇视唯盛依托“自主大脑+自主小脑+自研硬件量产”三级全栈自研体系迈入规模化高速发展新阶段，以可量产、可"
-      },
-      {
-        "title": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
-        "link": "https://36kr.com/p/3887726503688968?f=rss",
-        "pubDate": "2026-07-09 09:20:08  +0800",
-        "description": "图源/企业 本文约 2200 字，建议阅读 6 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，物理AI企业深度智控（DeepCtrls）近期完成数亿元人民币B轮融资。本轮融资由晶科能源战略投资，国投创新、招银国际联合领投，红杉中国、源码资本、光远资本、招商局创投等老股东持续跟投。 本轮资金将主要用于核心物理AI算法与产品线的持续研发、标准化产品DeepBot的规模化拓展，以及东南亚、中东、欧美等海外市场的进一步布局，持续夯实“物理AI全球能源基础设施重塑者”的技术与市场底座。 深度智控（DeepCtrls）基于自研“PhyAI”物理AI引擎，构建了业内独有的机电能源系统物理AI模型，将物理机理与A"
-      },
-      {
-        "title": "上市前夜｜35岁清华学霸冲港股IPO，做出手机指纹中国第二",
-        "link": "https://36kr.com/p/3887659913083392?f=rss",
-        "pubDate": "2026-07-09 08:12:43  +0800",
-        "description": "本文约3300字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第四期——极豪科技。 近日，极豪科技（JIIOV Technology）正式向港交所递交招股书。这家公司做的不是手机、不是模组，而是藏在手机指纹解锁背后的那颗感知大脑。 按沙利文口径，按2025年收入计，极豪在中国智能手机生物识别解决方案市场排名 第二 ，份额14.5%；它的指纹传感器已经装进了 中国十大手机品牌里的八家 。听上去是个闷声赚钱的卖铲子故事，但硬氪翻完364页的招股书后发现，这门生意的账本、股"
-      },
-      {
-        "title": "8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席",
-        "link": "https://36kr.com/p/3887648675133960?f=rss",
-        "pubDate": "2026-07-09 08:03:11  +0800",
-        "description": "今日热点导览 工信部：AI编程工具Claude Code存在安全后门隐患，危害严重 字节绩效规则调整：加大半年激励，加强字节范与领导力考核 沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价 欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定 摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍 TOP3大新闻 小米汽车新产品系列命名为SKYNOMAD，雷军回复上市时间 7月8日，小米汽车官方微博发布主题为“SKYNOMAD”的海报，“SKY”指天空，“NOMAD”指游牧者，海报上带有小米品牌LOGO。据媒体报道，小米汽车首款增程式SUV将归属全新独立子品牌“SKYNOMA"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Is Tesla In A Lose-Lose Situation With Autonomous Driving?",
+        "link": "https://cleantechnica.com/2026/07/09/is-tesla-in-a-lose-lose-situation-with-autonomous-driving/",
+        "pubDate": "Thu, 09 Jul 2026 15:38:52 +0000",
+        "description": "One of our excellent commenters posted an intriguing comment this morning under an article about how robotaxi app usage is split across the US market. I&#8217;ve been following and engaged in this debate for more than a decade, and I don&#8217;t think I&#8217;ve ever seen a comment quite like this. ",
+        "title_cn": "特斯拉是否处于自动驾驶的输输局面？"
+      },
+      {
+        "title": "Bosch’s Real Hydrogen Mistake Was Strategic, Not Financial",
+        "link": "https://cleantechnica.com/2026/07/09/bosch-hydrogen-mistake-strategic-not-financial/",
+        "pubDate": "Thu, 09 Jul 2026 15:28:41 +0000",
+        "description": "Bosch’s hydrogen story is easy to misread. Stefan Hartung is leaving the top job earlier than expected, Christian Fischer takes over on July 1, and the company is coming off a difficult 2025. The tempting version is simple: Bosch bet wrong on hydrogen, and the bill came due. That is ... [continued] ",
+        "title_cn": "博世真正的氢错误是战略性的，而不是财务性的"
+      },
+      {
+        "title": "Forget the Fiat Golf Cart, VinFast City Car Costs $7,150 and Has Twice the Range!",
+        "link": "https://cleantechnica.com/2026/07/09/forget-the-fiat-golf-cart-vinfast-city-car-costs-7150-and-has-twice-the-range/",
+        "pubDate": "Thu, 09 Jul 2026 14:52:01 +0000",
+        "description": "Yesterday, I wrote about the tiny new Fiat Topolino EV. Initially, I was excited, because I saw that it was cute and cost only $13,995. Then I found out that it&#8217;s basically a golf cart and can&#8217;t even be driven on roads with a speed limit over 35 mph. Today, ... [continued] The post Forge",
+        "title_cn": "忘记菲亚特高尔夫球车吧， VinFast City汽车售价$ 7,150 ，续航里程是它的两倍！"
+      },
+      {
+        "title": "Republicans & Democrats in Congress Unite in Effort to Ban Chinese Electric Vehicles",
+        "link": "https://cleantechnica.com/2026/07/09/republicans-democrats-in-congress-unite-in-effort-to-ban-chinese-electric-vehicles/",
+        "pubDate": "Thu, 09 Jul 2026 14:06:12 +0000",
+        "description": "Let&#8217;s start with the obvious: there&#8217;s no need to ban a major consumer product coming from the country that leads the world (by far) in producing and buying that product if that product isn&#8217;t highly competitive. If China was producing crappy electric cars that Americans wouldn&#8217",
+        "title_cn": "国会中的共和党人和民主党人联合起来禁止中国电动汽车"
+      },
       {
         "title": "XPENG MONA L03: The Best Base Tesla Model Y Competitor?",
         "link": "https://cleantechnica.com/2026/07/08/xpeng-mona-l03-the-best-base-model-y-competitor/",
@@ -144,38 +172,10 @@
         "pubDate": "Thu, 09 Jul 2026 03:30:14 +0000",
         "description": "Company recently installed first solar panels on the 57 MWdc (41 MWac) project in Gilliam County. Avangrid, Inc., a leading energy company and member of the Iberdrola Group, today announced that it has begun panel installation at Oregon Trail Solar, a 57 MWdc (41 MWac) energy project located in Gill",
         "title_cn": "Avangrid开始在Oregon Trail Solar安装太阳能电池板，为当地就业提供支持"
-      },
-      {
-        "title": "Waymo Hits Summer Break With Coast-to-Coast Expansion",
-        "link": "https://cleantechnica.com/2026/07/08/waymo-hits-summer-break-with-coast-to-coast-expansion/",
-        "pubDate": "Thu, 09 Jul 2026 02:11:51 +0000",
-        "description": "Waymo continues its big year of expansion. Far more than any previous year, Waymo is launching robotaxi service in city after city in 2026, and now there are four more where it is about to open up customer service. The cities range from San Diego on the West Coast to ... [continued] The post Waymo H",
-        "title_cn": "Waymo通过海岸到海岸扩张实现暑假"
-      },
-      {
-        "title": "ACC Finalizes Repeal of Energy Efficiency Rules",
-        "link": "https://cleantechnica.com/2026/07/08/acc-finalizes-repeal-of-energy-efficiency-rules/",
-        "pubDate": "Thu, 09 Jul 2026 01:53:37 +0000",
-        "description": "Removing it Lets Utilities off the Hook for Ratepayer Energy Savings The Arizona Corporation Commission today took a final vote to eliminate Arizona’s Electric Energy Efficiency Standards (EES), finalizing a repeal process that it started in 2025. The EES requires utilities like Arizona Public Servi",
-        "title_cn": "ACC最终确定废除能源效率规则"
-      },
-      {
-        "title": "EPA Proposes Air Pollution Exemption “Deal” for Data Centers in Georgia",
-        "link": "https://cleantechnica.com/2026/07/08/epa-proposes-air-pollution-exemption-deal-for-data-centers-in-georgia/",
-        "pubDate": "Thu, 09 Jul 2026 01:48:09 +0000",
-        "description": "The Environmental Protection Agency has proposed cutting the American public out of air pollution permits for “minor sources,” which includes the tractor trailer-sized diesel generators used by data centers for backup power. EPA’s proposal removes any requirement for transparency or public participa",
-        "title_cn": "美国环保署提议为格鲁吉亚数据中心提供空气污染豁免“交易”"
-      },
-      {
-        "title": "Asleep Behind The Wheel Of A Tesla Using FSD?",
-        "link": "https://cleantechnica.com/2026/07/08/asleep-behind-the-wheel-of-a-tesla-using-fsd/",
-        "pubDate": "Wed, 08 Jul 2026 23:53:30 +0000",
-        "description": "A video that purports to show a Tesla driver asleep behind the wheel has appeared on social media. Is it a fake? The post Asleep Behind The Wheel Of A Tesla Using FSD? appeared first on CleanTechnica .",
-        "title_cn": "使用FSD在特斯拉车轮后面睡觉？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,16 +260,10 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "冠隆电力受邀出席第五届新能源+储能氢能双链驱动产业发展大会 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UnJBRmpYMDg2bGV6Mk9fX0dGRDJHS01YeEk1TG1HeTZCX2FFWF9GcmxfSzZDTW9yU3VMd1JIUDdlQWhnRVRERWgxcXZGZXo4TjhiNVRBcm9BRURyMG9EemZESkFkY3hRWHBXZF95SUk2UQ?oc=5",
-        "pubDate": "Tue, 07 Jul 2026 05:23:00 GMT",
-        "description": "冠隆电力受邀出席第五届新能源+储能氢能双链驱动产业发展大会 &nbsp;&nbsp; 新浪网"
-      },
-      {
-        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
-        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
-        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 - 中华网科技频道",
@@ -278,82 +272,88 @@
         "description": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 &nbsp;&nbsp; 中华网科技频道"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
+        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
+        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
       },
       {
         "title": "氢能时代的全球权力重构与“中国底盘” - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVkk3OENlU1Bha0o5LXR6bUI4ak9oaW82UmtMLTFmU2dsRW05Q3BnR2JFOEU5RkRLWWJfb05kMkdzaW9jb241NERxbEY2Mk5nN3Y3Y0JB?oc=5",
         "pubDate": "Mon, 22 Jun 2026 09:51:21 GMT",
         "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
+        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "THWS Wins Federal Aviation Funding for Modular Hydrogen-Powered Light Aircraft",
-        "link": "https://fuelcellsworks.com/2026/07/08/news/thws-wins-federal-aviation-funding-for-modular-hydrogen-powered-light-aircraft",
-        "pubDate": "Wed, 08 Jul 2026 13:48:47 GMT",
+        "title": "Multi-Vehicle Hydrogen Refuelling System Opens for Industrial Transport Fleets",
+        "link": "https://fuelcellsworks.com/2026/07/07/electrolyzer/ulsan-opens-korea-s-first-multi-vehicle-hydrogen-refuelling-system-for-trucks-tractors-and-forklifts",
+        "pubDate": "Thu, 09 Jul 2026 14:51:06 GMT",
         "description": "",
-        "title_cn": "THWS赢得联邦航空局对模块化氢动力轻型飞机的资助"
+        "title_cn": "为工业运输车队开放多车氢气加注系统"
       },
       {
-        "title": "DRIFT Energy Lines Up 50 Hydrogen Ship",
-        "link": "https://fuelcellsworks.com/2026/07/08/green-investment/drift-energy-lines-up-50-hydrogen-ship",
-        "pubDate": "Wed, 08 Jul 2026 13:45:35 GMT",
+        "title": "Enagás Wins EU Clearance for Teréga Stake",
+        "link": "https://fuelcellsworks.com/2026/07/09/h2/enagas-wins-eu-clearance-for-terega-stake",
+        "pubDate": "Thu, 09 Jul 2026 14:43:00 GMT",
         "description": "",
-        "title_cn": "漂移能量排队50艘氢能船"
+        "title_cn": "Enagás赢得Teréga股份的欧盟许可"
       },
       {
-        "title": "Kirin Begins Green Hydrogen Demonstration at Hokkaido Brewery to Cut Beer Production Emissions",
-        "link": "https://fuelcellsworks.com/2026/07/07/h2/kirin-begins-green-hydrogen-demonstration-at-hokkaido-brewery-to-cut-beer-production-emissions",
-        "pubDate": "Wed, 08 Jul 2026 13:35:37 GMT",
+        "title": "Primary Hydrogen Announces Closing of LIFE Offering",
+        "link": "https://fuelcellsworks.com/2026/07/09/green-hydrogen/primary-hydrogen-announces-closing-of-life-offering",
+        "pubDate": "Thu, 09 Jul 2026 14:34:51 GMT",
         "description": "",
-        "title_cn": "麒麟在北海道啤酒厂开始绿色氢气示范，以减少啤酒生产排放"
+        "title_cn": "Primary Hydrogen宣布结束LIFE发行"
       },
       {
-        "title": "Ground-Breaking Ceremony for Austria’s Largest Green Hydrogen Production Plant: RAG Austria Are Expanding Together with Andritz the Electrolysis Facility in Gampern (Upper Austria) From 2.5 MW to 15 MW",
-        "link": "https://fuelcellsworks.com/2026/07/08/electrolyzer/ground-breaking-ceremony-for-austria-s-largest-green-hydrogen-production-plant-rag-austria-are-expanding-together-with-andritz-the-electrolysis-facility-in-gampern-upper-austria-from-2-5-mw-to-15-mw",
-        "pubDate": "Wed, 08 Jul 2026 13:31:37 GMT",
+        "title": "New Members Appointed to the Reformed National Hydrogen Council",
+        "link": "https://fuelcellsworks.com/2026/07/09/h2/new-members-appointed-to-the-reformed-national-hydrogen-council",
+        "pubDate": "Thu, 09 Jul 2026 14:23:59 GMT",
         "description": "",
-        "title_cn": "奥地利最大的绿色制氢工厂奠基仪式： RAG奥地利与Andritz共同扩建位于Gampern （上奥地利州）的电解工厂"
+        "title_cn": "新成员被任命为改革后的国家氢能委员会成员"
       },
       {
-        "title": "French Parliamentary Report Says Natural Hydrogen Could Be Strategic — But the Industry Still Has to Prove It Can Scale",
-        "link": "https://fuelcellsworks.com/2026/07/07/green-hydrogen/french-parliamentary-report-says-natural-hydrogen-could-be-strategic-but-the-industry-still-has-to-prove-it-can-scale",
-        "pubDate": "Wed, 08 Jul 2026 13:20:28 GMT",
+        "title": "Oxfordshire Introduces First Dual Fuel Hydrogen Highways Maintenance Vehicle",
+        "link": "https://fuelcellsworks.com/2026/07/09/fuel-cells/oxfordshire-introduces-first-dual-fuel-hydrogen-highways-maintenance-vehicle",
+        "pubDate": "Thu, 09 Jul 2026 14:20:47 GMT",
         "description": "",
-        "title_cn": "法国议会报告称天然氢可能具有战略意义—但该行业仍需证明其可扩展性"
+        "title_cn": "牛津郡推出首款双燃料氢能公路维修车"
       },
       {
-        "title": "AEM Electrolysis and Renewable Hydrogen: Simplifhy’s Role in the Hybitat Project",
-        "link": "https://fuelcellsworks.com/2026/07/08/energy-development/aem-electrolysis-and-renewable-hydrogen-simplifhy-s-role-in-the-hybitat-project",
-        "pubDate": "Wed, 08 Jul 2026 13:15:45 GMT",
+        "title": "Reolum Lines Up €2 Billion Green E-Methanol Push to Put Castile and León on Europe’s Renewable Fuels Map",
+        "link": "https://fuelcellsworks.com/2026/07/09/clean-energy/reolum-lines-up-2-billion-green-e-methanol-push-to-put-castile-and-leon-on-europe-s-renewable-fuels-map",
+        "pubDate": "Thu, 09 Jul 2026 14:15:39 GMT",
         "description": "",
-        "title_cn": "AEM电解和可再生氢： Simplifhy在Hybitat项目中的作用"
+        "title_cn": "Reolum推出€ 20亿绿色E-甲醇，推动卡斯蒂利亚和莱昂进入欧洲可再生燃料地图"
       },
       {
-        "title": "Korea Moves to Lock In Hydrogen Policy: New Bill Would Force a Basic Plan Every Five Years",
-        "link": "https://fuelcellsworks.com/2026/07/07/h2/korea-moves-to-lock-in-hydrogen-policy-new-bill-would-force-a-basic-plan-every-five-years",
-        "pubDate": "Wed, 08 Jul 2026 13:14:11 GMT",
+        "title": "New Report From KBR Supports Potential for US$1.75/Kg Hydrogen From Syntholene's Geothermal-SOEC Platform",
+        "link": "https://fuelcellsworks.com/2026/07/09/electrolyzer/new-report-from-kbr-supports-potential-for-us-1-75-kg-hydrogen-from-syntholene-s-geothermal-soec-platform",
+        "pubDate": "Thu, 09 Jul 2026 14:12:01 GMT",
         "description": "",
-        "title_cn": "韩国采取行动锁定氢能政策：新法案将强制每五年制定一项基本计划"
+        "title_cn": "KBR的新报告支持Syntholene地热-SOEC平台的氢气潜力为1.75 $/Kg"
       },
       {
-        "title": "Airbus and MTU Aero Engines to Create a Joint Venture to Develop a Fully Electric Hydrogen Fuel Cell Engine",
-        "link": "https://fuelcellsworks.com/2026/07/08/fuel-cells/airbus-and-mtu-aero-engines-to-create-a-joint-venture-to-develop-a-fully-electric-hydrogen-fuel-cell-engine",
-        "pubDate": "Wed, 08 Jul 2026 13:08:59 GMT",
+        "title": "Incheon South Port Clean Hydrogen Supply Project Scrapped After Resident Safety Concerns",
+        "link": "https://fuelcellsworks.com/2026/07/07/h2/incheon-south-port-clean-hydrogen-supply-project-scrapped-after-resident-safety-concerns",
+        "pubDate": "Thu, 09 Jul 2026 13:54:45 GMT",
         "description": "",
-        "title_cn": "空客和MTU航空发动机将成立合资企业，开发全电动氢燃料电池发动机"
+        "title_cn": "仁川南港清洁供氢项目因居民安全顾虑而报废"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,21 +483,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "22省绿电直连政策汇总以及实施路径解析 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDNtbnlqN0p3cy1PMDZBZUxtbXpkZGJ0MjdpS2J0TGlVQlIyS0UxMVFXaE9raWpMcXpEQnVGcXJwZkUwNi1YTEpGbkRNUmVmSjN6Nms1LTJnb0ljSTc2MXdNaktzb1NIQjd4RlAyZzM5SjAzeUdKZk5wQ05VSk1pWlZkajg4WlRi?oc=5",
-        "pubDate": "Sun, 05 Jul 2026 13:03:41 GMT",
-        "description": "22省绿电直连政策汇总以及实施路径解析 &nbsp;&nbsp; 搜狐网"
-      },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
         "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "22省绿电直连政策汇总以及实施路径解析 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDNtbnlqN0p3cy1PMDZBZUxtbXpkZGJ0MjdpS2J0TGlVQlIyS0UxMVFXaE9raWpMcXpEQnVGcXJwZkUwNi1YTEpGbkRNUmVmSjN6Nms1LTJnb0ljSTc2MXdNaktzb1NIQjd4RlAyZzM5SjAzeUdKZk5wQ05VSk1pWlZkajg4WlRi?oc=5",
+        "pubDate": "Sun, 05 Jul 2026 13:03:41 GMT",
+        "description": "22省绿电直连政策汇总以及实施路径解析 &nbsp;&nbsp; 搜狐网"
       },
       {
         "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-09 10:19 UTC"
+    "updated": "2026-07-09 16:23 UTC"
   }
 }
