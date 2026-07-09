@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Found: the toxic killer that caused an ocean catastrophe",
+        "link": "https://www.nature.com/articles/d41586-026-02112-4",
+        "pubDate": "2026-07-09",
+        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4 Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals.",
+        "title_cn": "发现：导致海洋灾难的有毒杀手"
+      },
+      {
         "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
         "link": "https://www.nature.com/articles/d41586-026-02114-2",
         "pubDate": "2026-07-09",
@@ -14,6 +21,20 @@
         "pubDate": "2026-07-09",
         "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01242-z Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers.",
         "title_cn": "无论文毕业：认识在中国获得“实用”博士学位的人"
+      },
+      {
+        "title": "Whoops! Most arXiv papers contain information never meant to be shared",
+        "link": "https://www.nature.com/articles/d41586-026-02057-8",
+        "pubDate": "2026-07-09",
+        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02057-8 Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions.",
+        "title_cn": "哎呀！大多数arXiv论文都包含从未打算共享的信息"
+      },
+      {
+        "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
+        "link": "https://www.nature.com/articles/d41586-026-01357-3",
+        "pubDate": "2026-07-09",
+        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-01357-3 After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research.",
+        "title_cn": "“这一次，情况正好相反” ：印尼如何重拾人类历史科学"
       },
       {
         "title": "Nukes in space? Orbital detector could sniff out warheads",
@@ -35,31 +56,10 @@
         "pubDate": "2026-07-08",
         "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10796-x A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical challenges before clinical deployment.",
         "title_cn": "人形机器人在手术中的体内可行性研究"
-      },
-      {
-        "title": "Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries",
-        "link": "https://www.nature.com/articles/s41586-026-10732-z",
-        "pubDate": "2026-07-08",
-        "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10732-z A targeted ligand anti-solvent is incorporated into an anion-rich ether-based electrolyte and used to achieve lithium metal batteries with a long cycle life, high energy density and high capacity retention.",
-        "title_cn": "单相梯度溶解-电解质稳定锂金属电池"
-      },
-      {
-        "title": "Non-genotoxic transplantation and in vivo selection through epitope editing",
-        "link": "https://www.nature.com/articles/s41586-026-10737-8",
-        "pubDate": "2026-07-08",
-        "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10737-8 Epitope editing of KIT enables antibody-based, non-genotoxic conditioning that selectively enriches therapeutic BCL11A-edited haematopoietic stem/progenitor cells, supports durable engraftment, preserves clonal diversity and enha",
-        "title_cn": "通过表位编辑进行非基因毒性移植和体内选择"
-      },
-      {
-        "title": "Architecture of the 8 MDa Hdr–Vhu–Fwd super-assembly in class I methanogens",
-        "link": "https://www.nature.com/articles/s41586-026-10744-9",
-        "pubDate": "2026-07-08",
-        "description": "Nature, Published online: 08 July 2026; doi:10.1038/s41586-026-10744-9 The structure of the Hdr–Vhu–Fwd super-assembly reveals a lineage-specific and modular 8 MDa complex with the ability to adapt to diverse anaerobic niches.",
-        "title_cn": "I类产甲烷菌8 MDa Hdr-Vhu-Fwd超级组装架构"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "tech_cn": {
     "items": [
@@ -91,7 +91,7 @@
         "title": "创始人回归，一家高增长公司进入新阶段",
         "link": "https://36kr.com/p/3886969297893892?f=rss",
         "pubDate": "2026-07-09 17:50:06  +0800",
-        "description": "六月末的苏黎世，利马特河从 On Labs 楼后流过。昂跑（On）三位创始人之一 Olivier Bernhard 站在一群跑步与商业记者面前，先说了一句略带歉意的开场白：“这里不是那种光鲜亮丽的展示空间。” 他提醒来客，接下来会看到戴着护目镜的工程师、指尖沾着蓝色染料的设计师，以及在跑步机上大汗淋漓、把自己逼到极限的运动员。这是昂跑第一次向外部媒体掀开其创新引擎的帷幕——On Labs 平日紧闭的那道门。 选择此刻开门，并非偶然。这家 2010 年诞生于瑞士、由前铁人三项运动员 Olivier Bernhard 与 David Allemann、Caspar Coppetti 共同创立的公司"
+        "description": "六月末的苏黎世，利马特河从 On Labs 楼后流过。昂跑��On）三位创始人之一 Olivier Bernhard 站在一群跑步与商业记者面前，先说了一句略带歉意的开场白：“这里不是那种光鲜亮丽的展示空间。” 他提醒来客，接下来会看到戴着护目镜的工程师、指尖沾着蓝色染料的设计师，以及在跑步机上大汗淋漓、把自己逼到极限的运动员。这是昂跑第一次向外部媒体掀开其创新引擎的帷幕——On Labs 平日紧闭的那道门。 选择此刻开门，并非偶然。这家 2010 年诞生于瑞士、由前铁人三项运动员 Olivier Bernhard 与 David Allemann、Caspar Coppetti 共同创立的公"
       },
       {
         "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
@@ -113,10 +113,24 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Walmart Supporting … Nuclear Power?",
+        "link": "https://cleantechnica.com/2026/07/09/walmart-supporting-nuclear-power/",
+        "pubDate": "Thu, 09 Jul 2026 21:56:05 +0000",
+        "description": "I was scrolling through hundreds of environment and energy press releases late last night, and I saw one about Walmart supporting nuclear power. Even after reading the title twice, I wasn&#8217;t sure if I understood correctly and had to open up the press release. But, yes, Walmart is backing a ... ",
+        "title_cn": "沃尔玛支持……核电？"
+      },
+      {
+        "title": "Bill Frist Wants To Bridge The Partisan Divide Over Climate Change",
+        "link": "https://cleantechnica.com/2026/07/09/bill-frist-wants-to-bridge-the-partisan-divide-over-climate-change/",
+        "pubDate": "Thu, 09 Jul 2026 18:26:54 +0000",
+        "description": "Bill Frist served as a senator from Tennessee from 1995 to 2007. During his last four years, he was the Senate majority leader. He chose not to stand for re-election in 2006 because he pledged during his first campaign for the Senate that he would not serve for more than ... [continued] The post Bil",
+        "title_cn": "比尔·弗里斯特希望弥合党派在气候变化问题上的分歧"
+      },
       {
         "title": "Is Tesla In A Lose-Lose Situation With Autonomous Driving?",
         "link": "https://cleantechnica.com/2026/07/09/is-tesla-in-a-lose-lose-situation-with-autonomous-driving/",
@@ -158,24 +172,10 @@
         "pubDate": "Thu, 09 Jul 2026 03:50:41 +0000",
         "description": "The new solar installations at two campuses will support the state of Pennsylvania&#8217;s broader renewable energy goals, improve energy resilience, and provide real-world learning opportunities. Ameresco, Inc., (NYSE: AMRC), a leading energy infrastructure solutions provider, today announced a roo",
         "title_cn": "Ameresco将屋顶太阳能带到费城社区学院"
-      },
-      {
-        "title": "Rivian (RIVN) — Rough Week Selling Stock For Cash? Or Booming Stock Provides Easy Opportunity For Cheap Cash?",
-        "link": "https://cleantechnica.com/2026/07/08/rivian-rivn-rough-week-selling-stock-for-cash-or-booming-stock-provides-easy-opportunity-for-cheap-cash/",
-        "pubDate": "Thu, 09 Jul 2026 03:33:31 +0000",
-        "description": "Rivian is supposed to be having a great year. The launch of the R2 is supposed to bring it to the next level and help it finally get to profitability. Like many, I would absolutely love for Rivian to have a huge burst in sales, production, sales, production, and then ... [continued] The post Rivian ",
-        "title_cn": "Rivian （ RIVN ） —以现金出售股票的艰难一周？还是蓬勃发展的库存提供了轻松获得廉价现金的机会？"
-      },
-      {
-        "title": "Avangrid Begins Panel Installation at Oregon Trail Solar, Supports Local Jobs",
-        "link": "https://cleantechnica.com/2026/07/08/avangrid-begins-panel-installation-at-oregon-trail-solar-supports-local-jobs/",
-        "pubDate": "Thu, 09 Jul 2026 03:30:14 +0000",
-        "description": "Company recently installed first solar panels on the 57 MWdc (41 MWac) project in Gilliam County. Avangrid, Inc., a leading energy company and member of the Iberdrola Group, today announced that it has begun panel installation at Oregon Trail Solar, a 57 MWdc (41 MWac) energy project located in Gill",
-        "title_cn": "Avangrid开始在Oregon Trail Solar安装太阳能电池板，为当地就业提供支持"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "energy_cn": {
     "items": [
@@ -272,16 +272,16 @@
         "description": "技术创新赋能绿色能源发展 全球首台套四枪集成一体式氢能移动超充站在沪发布 &nbsp;&nbsp; 中华网科技频道"
       },
       {
-        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
-        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
-        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
-      },
-      {
         "title": "氢能时代的全球权力重构与“中国底盘” - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVkk3OENlU1Bha0o5LXR6bUI4ak9oaW82UmtMLTFmU2dsRW05Q3BnR2JFOEU5RkRLWWJfb05kMkdzaW9jb241NERxbEY2Mk5nN3Y3Y0JB?oc=5",
         "pubDate": "Mon, 22 Jun 2026 09:51:21 GMT",
         "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "融资丨厦门启航氢能完成新一轮融资 - 创业邦",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51OW50NWlNZXBTTkFVU015LUpsZVUycmE0M0hXbzF5ZTl1cmRfbFg2N3RFUHJ5WGlkRktJN3p1cEcyTkNMc3J0UmRrenVBNXFC?oc=5",
+        "pubDate": "Fri, 03 Jul 2026 07:55:15 GMT",
+        "description": "融资丨厦门启航氢能完成新一轮融资 &nbsp;&nbsp; 创业邦"
       },
       {
         "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -512,16 +512,16 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
         "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
         "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -530,13 +530,13 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+        "title": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% - 每日经济新闻",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5feHhHbEU3cHJqS2pqSko3bFNGOVJIT2ZhaS1kRmJGN1hKekE2MWVabUgtbVNTdk82cm43aFNNenVEbFZYdU1JQ053dWt4bWQybHBDZm0tNFUzSXhYMElZdWl4bkZEZw?oc=5",
+        "pubDate": "Tue, 16 Jun 2026 02:14:00 GMT",
+        "description": "绿电直连+重卡电动化政策双箭齐发，创业板新能源ETF（159387）大涨超2% &nbsp;&nbsp; 每日经济新闻"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-09 16:23 UTC"
+    "updated": "2026-07-09 23:04 UTC"
   }
 }
