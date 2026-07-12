@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America",
+        "link": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
+        "pubDate": "Sun, 12 Jul 2026 21:57:22 +0000",
+        "description": "Electric car sales in the US are trending upward again, after plummeting last year when the Inflation Reduction Act was repealed. The post It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America appeared first on CleanTechnica .",
+        "title_cn": "这是最好的时代，也是美国电动汽车销售最糟糕的时代"
+      },
+      {
+        "title": "Tesla’s Profit Per Vehicle Has Been Dropping Significantly",
+        "link": "https://cleantechnica.com/2026/07/12/teslas-profit-per-vehicle-has-been-dropping-significantly/",
+        "pubDate": "Sun, 12 Jul 2026 19:36:49 +0000",
+        "description": "I just saw the headline &#8220;Tesla&#8217;s profit per vehicle drops 40%, within Toyota&#8217;s striking range.&#8221; Now, I&#8217;m not sure why this came out as news at the moment, as it&#8217;s been a while since Tesla&#8217;s 2025 financials came out, but I didn&#8217;t remember the company&#8",
+        "title_cn": "特斯拉每辆车的利润大幅下降"
+      },
+      {
+        "title": "Head of IEA Roasts Europe for “Slow Electrification”",
+        "link": "https://cleantechnica.com/2026/07/12/head-of-iea-roasts-europe-for-slow-electrification/",
+        "pubDate": "Sun, 12 Jul 2026 18:49:16 +0000",
+        "description": "Europe still uses a lot of fossil fuels. Four years since Russian invaded Ukraine and threw European energy supply into chaos, one would think the continent would have electrified heating and transport more in order to quickly ween itself off of fossil fuel dependence. Well, Fatih Birol, executive d",
+        "title_cn": "IEA主管因“慢速电气化”而烘焙欧洲"
+      },
       {
         "title": "Hydrogen Injection Can Make Diesel Exhaust Look Cleaner. The Carbon Math Still Fails.",
         "link": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
@@ -151,31 +172,10 @@
         "pubDate": "Sat, 11 Jul 2026 15:14:18 +0000",
         "description": "Ford has yet to name its much-anticipated 100% electric mid-sized pickup truck for the US market, but the company's hybrid EV activity in Europe could provide a clue. The post Ford&#8217;s New EV Needs A Name&#8230;What Will It Be? appeared first on CleanTechnica .",
         "title_cn": "福特的新电动汽车需要一个名字……它会是什么？"
-      },
-      {
-        "title": "Two Progressive Representatives Chart A Course Forward For America",
-        "link": "https://cleantechnica.com/2026/07/11/two-progressive-representatives-chart-a-course-forward-for-america/",
-        "pubDate": "Sat, 11 Jul 2026 14:32:11 +0000",
-        "description": "America is awash in corruption at the highest levels.To members of Congress want to end that with new legislation. The post Two Progressive Representatives Chart A Course Forward For America appeared first on CleanTechnica .",
-        "title_cn": "两位进步代表绘制了美国前进的路线图"
-      },
-      {
-        "title": "Energy Intelligence Platform Florion Launched to Help South African Businesses Navigate a New Era of Energy Risk & Opportunity",
-        "link": "https://cleantechnica.com/2026/07/11/energy-intelligence-platform-florion-launched-to-help-south-african-businesses-navigate-a-new-era-of-energy-risk-opportunity/",
-        "pubDate": "Sat, 11 Jul 2026 14:03:29 +0000",
-        "description": "Florion, a first-of-its-kind South African energy intelligence business co-founded by Robert Futter, has launched in South Africa. Futter brings more than 20 years of advisory experience in energy, infrastructure, and project finance. Florion says the South African energy market is changing based on",
-        "title_cn": "推出能源情报平台Florion ，帮助南非企业驾驭能源风险和机遇的新时代"
-      },
-      {
-        "title": "Chinese EV Gets To North America With A Little Help From Stellantis",
-        "link": "https://cleantechnica.com/2026/07/10/chinese-ev-gets-to-north-america-with-a-little-help-from-stellantis/",
-        "pubDate": "Sat, 11 Jul 2026 02:42:25 +0000",
-        "description": "Can you name the brand? Well, one of its vehicles is pictured above, so I hope so! First of all, let&#8217;s note that the Chinese EV company is not coming to the United States. The country it&#8217;s launching into is Mexico. But, hey, it&#8217;s notable nonetheless! The Stellantis-linked brand is ",
-        "title_cn": "在Stellantis的帮助下，中国电动汽车进入北美"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,22 +254,16 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYam02THdFUi1UUDhuUkY1eE5oWkpvNGlldG5qUkp2NzhXZUtnVGFHZElQX0phYzhmYjQ1clZRVEtWNk82bW5JR3dDOVd5QUNOcndLTXktaTNyMWtEeTBB?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
-        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "氢能时代的全球权力重构与“中国底盘” - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVkk3OENlU1Bha0o5LXR6bUI4ak9oaW82UmtMLTFmU2dsRW05Q3BnR2JFOEU5RkRLWWJfb05kMkdzaW9jb241NERxbEY2Mk5nN3Y3Y0JB?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 09:51:21 GMT",
-        "description": "氢能时代的全球权力重构与“中国底盘” &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYam02THdFUi1UUDhuUkY1eE5oWkpvNGlldG5qUkp2NzhXZUtnVGFHZElQX0phYzhmYjQ1clZRVEtWNk82bW5JR3dDOVd5QUNOcndLTXktaTNyMWtEeTBB?oc=5",
+        "pubDate": "Wed, 24 Jun 2026 01:43:44 GMT",
+        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台-碳索氢能网 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -288,10 +282,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,6 +446,12 @@
         "description": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
+        "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eVJlZURSRU9UQ1JlX29vcTJNa2piT3F5ZXRJQWlja3JUSjZObi0xVXg2endRelJvaDAzcll5Y1NpM3VQVWo2OGpiQUJUd1VGWmh6VXhxQ0xWazZza2M4?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
@@ -458,32 +464,26 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "34条！2026年6月氢能政策汇总 - h2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTjMtb2haWmJfaVlWMlhSbUQ1SVVYNDRLR3o5SS1zWjBZSHBkYmJsM182c3ZOSndmejZHOTZNVjFCa2RMZTk5X0sxR1pZNlNsb0lidw?oc=5",
-        "pubDate": "Sun, 05 Jul 2026 11:39:44 GMT",
-        "description": "34条！2026年6月氢能政策汇总 &nbsp;&nbsp; h2.in-en.com"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
+        "title": "34条！2026年6月氢能政策汇总 - h2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTjMtb2haWmJfaVlWMlhSbUQ1SVVYNDRLR3o5SS1zWjBZSHBkYmJsM182c3ZOSndmejZHOTZNVjFCa2RMZTk5X0sxR1pZNlNsb0lidw?oc=5",
+        "pubDate": "Sun, 05 Jul 2026 11:39:44 GMT",
+        "description": "34条！2026年6月氢能政策汇总 &nbsp;&nbsp; h2.in-en.com"
+      },
+      {
         "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -530,13 +530,13 @@
         "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       },
       {
-        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
+        "title": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% - 财华智库网",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Id2F0TF80bTFBYTladXVuVHFQUlI0VTZZc2VKaXJFZkhqeWkzem1QU1Boc3EwWkVQcERYYWd3MVF4RlVqNDhiaEFEYm1uLW1kenozNjBCcEgzQTd2dmc3d0hkU2tKR3RkM2ZYRXBKZzd1MHRDTS1yaA?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% &nbsp;&nbsp; 财华智库网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-12 14:49 UTC"
+    "updated": "2026-07-12 22:39 UTC"
   }
 }
