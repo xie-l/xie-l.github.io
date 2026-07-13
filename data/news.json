@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "How voluntary work can boost your career in science",
+        "link": "https://www.nature.com/articles/d41586-026-01339-5",
+        "pubDate": "2026-07-13",
+        "description": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-01339-5 Supporting charities can bring career benefits and provide valuable social connections.",
+        "title_cn": "志愿工作如何促进您的科学事业"
+      },
+      {
+        "title": "The rise of evidence-based medicine and the ‘mavericks’ who championed it",
+        "link": "https://www.nature.com/articles/d41586-026-02153-9",
+        "pubDate": "2026-07-13",
+        "description": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02153-9 An impeccably researched account describes how clinical trials have transformed health and social policy.",
+        "title_cn": "循证医学的兴起和倡导循证医学的“特立独行者”"
+      },
+      {
         "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
         "link": "https://www.nature.com/articles/s41586-026-10853-5",
         "pubDate": "2026-07-10",
@@ -42,27 +56,25 @@
         "pubDate": "2026-07-10",
         "description": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02172-6 Sci-fi procedure creates immature human sperm from stem cells, nurturing them on a mouse’s kidney.",
         "title_cn": "实验室培育的精子：科学家们更接近生育突破"
-      },
-      {
-        "title": "NSF plans cuts to core science programmes to fund White House initiative",
-        "link": "https://www.nature.com/articles/d41586-026-02135-x",
-        "pubDate": "2026-07-10",
-        "description": "Nature, Published online: 10 July 2026; doi:10.1038/d41586-026-02135-x A proposed clawback of already distributed research funds comes as the US agency’s budget is already squeezed and it struggling to clear a backlog of grant applications.",
-        "title_cn": "NSF计划削减核心科学计划，为白宫倡议提供资金"
-      },
-      {
-        "title": "Found: the toxic killer that caused an ocean catastrophe",
-        "link": "https://www.nature.com/articles/d41586-026-02112-4",
-        "pubDate": "2026-07-09",
-        "description": "Nature, Published online: 09 July 2026; doi:10.1038/d41586-026-02112-4 Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals.",
-        "title_cn": "发现：导致海洋灾难的有毒杀手"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "字节探索自动驾驶，Seed世界模型团队负责｜36氪独家",
+        "link": "https://36kr.com/p/3893815451417347?f=rss",
+        "pubDate": "2026-07-13 16:34:05  +0800",
+        "description": "36氪从多位产业人士处获悉，字节跳动正探索进入自动驾驶领域。这一项目目前由Seed旗下周畅的世界模型团队负责。据了解，Seed旗下不仅有周畅的多模态模型、世界模型等团队，还有大语言模型方向。 而自动驾驶与世界模型的技术路线有交叠之处。 另有消息人士告诉36氪，业务方向上，字节有意布局的自动驾驶场景有无人物流，这一业务隶属于字节旗下的火山引擎汽车行业线。 部分接近字节的知情人士表示，字节团队此前与一些头部自动驾驶团队进行过业务探讨交流，目前字节的自动驾驶项目已进入早期筹备状态。字节向不少头部辅助驾驶或自动驾驶人才发出了邀约，一些看好字节这一布局的技术人才也计划加入。 针对以上消息，36氪向字节求"
+      },
+      {
+        "title": "潜入《遗忘之海》，我才读懂网易的心气",
+        "link": "https://36kr.com/p/3893769618569985?f=rss",
+        "pubDate": "2026-07-13 16:31:34  +0800",
+        "description": "文丨小葵 编辑丨果脯 7月9日，网易旗下Joker工作室端出了他们打磨了七年的作品——《遗忘之海》，一款海洋奇遇大世界RPG。PC端率先公测，移动端版本将在7月23日与玩家见面。 这款怪诞木偶风的航海游戏，还没出海就已经被盯上了。在公测前夕，这款游戏全网预约量已突破3600万，在TapTap、B站等多个平台预约榜冲至Top1。实机PV在B站播放破千万，光大证券预测其首年流水或达50亿元。 管理层连续三个季度在财报会上点名力挺，称其“令人耳目一新”。七年打磨、三端互通、五千万元创作者扶持计划，从研发资源到生态投入全部拉满这款游戏几乎是网易近年来押注最狠的一款产品。 这是做出《第五人格》的团队头一"
+      },
       {
         "title": "一场高转化抽奖活动应该怎么设计？从奖品、规则到传播路径的完整拆解",
         "link": "https://36kr.com/p/3893457328700165?f=rss",
@@ -98,22 +110,10 @@
         "link": "https://36kr.com/p/3893445208717826?f=rss",
         "pubDate": "2026-07-13 10:39:18  +0800",
         "description": "一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。 三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过这个从Day 1为端侧算力约束设计的架构，VLX模型首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。 VLX概览图 毫无疑问，站在2026年夏"
-      },
-      {
-        "title": "头部人形机器人关节公司半年再获新融资，同创伟业领投数亿元｜硬氪首发",
-        "link": "https://36kr.com/p/3885232033378308?f=rss",
-        "pubDate": "2026-07-13 10:37:39  +0800",
-        "description": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，零差云控（深圳）科技股份有限公司（以下简称“零差云控”）近日完成C++轮融资数亿元，本轮由同创伟业领投、国泰君安创新投资跟投，老股东华控基金追加投资。本轮资金将用于产能扩张和全球市场布局。源式资本担任本轮独家财务顾问，并由一苇资本和源式资本共同担任后续融资财务顾问。 人形机器人赛道在经历了概念爆火与资本狂热后，行业关键词正在悄然转变，供应链的产能与可靠性成为真正的瓶颈。当本体厂商进入量产焦虑，上游核心零部件公司的选择与判断，或许更能反映赛道的真实水温。 零差云控是硬氪长期关注的企业。公司成立于2016年，长期专注高可靠、高精度、标准化的机器人关键核心零部件的"
-      },
-      {
-        "title": "年入4亿、服务600+品牌，膳食补充剂原料商「纽邦生物」获近2亿元C+轮融资｜36氪首发",
-        "link": "https://36kr.com/p/3890940898867712?f=rss",
-        "pubDate": "2026-07-13 08:00:00  +0800",
-        "description": "文｜胡香赟 编辑｜海若镜 36氪获悉，南京纽邦生物（NNB Nutrition）近期已完成近2亿元人民币融资。本轮融资由国寿股权领投、老股东明熙资本跟投，募集资金主要用于产品研发、新工厂建设等。这也是纽邦生物半年内完成的第二笔超亿元人民币融资。 纽邦生物 专注于膳食补充剂原料研发，累计推出40余款原创原料，在研产品管线超100项，覆盖运动营养、体重管理、认知健康、抗衰等领域，服务雀巢、联合利华、百事等600余个终端品牌；公司自建制剂工厂、生物合成工厂，并规划建设占地超200亩、年产万吨级的综合工厂。2025年，纽邦生物全年营收突破4亿元人民币。 纽邦生物产品矩阵示意 纽邦生物创始人廖琪林深耕膳"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,10 +175,24 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Ligand-confined zinc slurries enable durable flow-based energy storage",
+        "link": "https://www.nature.com/articles/s41560-026-02096-5",
+        "pubDate": "2026-07-13",
+        "description": "Nature Energy, Published online: 13 July 2026; doi:10.1038/s41560-026-02096-5 Zinc-based batteries could offer long-duration energy storage, yet conventional zinc electrodes degrade during cycling. Now, a flowing zinc slurry battery is developed with zinc nanoparticles dispersed in a conductive netw",
+        "title_cn": "配体受限锌浆实现了持久的基于流动的储能"
+      },
+      {
+        "title": "Early-stage local chemistry regulation enabling open-circuit voltage of 847 mV in wide-bandgap Cu 2 ZnSnS 4 solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02111-9",
+        "pubDate": "2026-07-13",
+        "description": "Nature Energy, Published online: 13 July 2026; doi:10.1038/s41560-026-02111-9 Elemental diffusion in Cu2ZnSnS4 induces secondary phases and defects, limiting the open-circuit voltage in associated solar cells. Wang et al. introduce two-stage copper incorporation to suppress copper out-diffusion, ena",
+        "title_cn": "早期局部化学调节，可在宽带隙Cu 2 ZnSnS 4太阳能电池中实现847 mV的开路电压"
+      },
       {
         "title": "Managing the impacts of EU electric vehicle import tariffs",
         "link": "https://www.nature.com/articles/s41560-026-02102-w",
@@ -220,24 +234,10 @@
         "pubDate": "2026-06-29",
         "description": "Nature Energy, Published online: 29 June 2026; doi:10.1038/s41560-026-02087-6 While electrochemical degradation in lithium-ion batteries is well studied, the role of stack pressure in long-term cycling remains unclear. Here the researchers use a high-precision pressure-controlled dilatometry tool to",
         "title_cn": "锂离子电池中叠层压力、机械膨胀和降解途径之间的相互作用"
-      },
-      {
-        "title": "Accessible solar tower power plant data to accelerate solar energy research",
-        "link": "https://www.nature.com/articles/s41560-026-02069-8",
-        "pubDate": "2026-06-26",
-        "description": "Nature Energy, Published online: 26 June 2026; doi:10.1038/s41560-026-02069-8 Over 800 GB of high-resolution operational solar tower power plant data have been compiled to form an open-access interface that complies with FAIR data principles. This database, known as PAINT, democratizes access to str",
-        "title_cn": "可访问的太阳能塔发电厂数据，以加速太阳能研究"
-      },
-      {
-        "title": "Mitigation of hydrogen crossover in liquid alkaline water electrolysers using gas recombination catalysts",
-        "link": "https://www.nature.com/articles/s41560-026-02094-7",
-        "pubDate": "2026-06-26",
-        "description": "Nature Energy, Published online: 26 June 2026; doi:10.1038/s41560-026-02094-7 Alkaline water electrolysers are being optimized for higher performance, but measures such as advanced electrodes or thinner separators can increase hydrogen crossover and safety risks. Here the authors analyse crossover b",
-        "title_cn": "使用气体复合催化剂缓解液态碱水电解器中的氢交叉"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "energy_cn": {
     "items": [
@@ -278,20 +278,20 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
-        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
+        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "policy_nea": {
     "items": [
@@ -450,6 +450,12 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UTBlejVTSlFJWjlOcmR3ZlA2SExmX1dnSmt0U2thWmc2ZXluaWV3cHNvZVVWMXoyRlhYb29RMHlfWTNBZFY3bjI0bWRVQWFmZ1NiU1FR?oc=5",
         "pubDate": "Fri, 10 Jul 2026 23:30:44 GMT",
         "description": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eVJlZURSRU9UQ1JlX29vcTJNa2piT3F5ZXRJQWlja3JUSjZObi0xVXg2endRelJvaDAzcll5Y1NpM3VQVWo2OGpiQUJUd1VGWmh6VXhxQ0xWazZza2M4?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -474,16 +480,10 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -524,10 +524,10 @@
         "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
+        "title": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% - 财华智库网",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Id2F0TF80bTFBYTladXVuVHFQUlI0VTZZc2VKaXJFZkhqeWkzem1QU1Boc3EwWkVQcERYYWd3MVF4RlVqNDhiaEFEYm1uLW1kenozNjBCcEgzQTd2dmc3d0hkU2tKR3RkM2ZYRXBKZzd1MHRDTS1yaA?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连政策正式落地，绿电ETF华夏(562550)涨超2% &nbsp;&nbsp; 财华智库网"
       },
       {
         "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-13 05:30 UTC"
+    "updated": "2026-07-13 10:17 UTC"
   }
 }
