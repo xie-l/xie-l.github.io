@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Mathematics formula found on Maya wall rivals insights of ancient masters",
+        "link": "https://www.nature.com/articles/d41586-026-02170-8",
+        "pubDate": "2026-07-14",
+        "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02170-8 Mathematical texts from a Maya site in Guatemala identify an astronomer called Sak Tahn Waax.",
+        "title_cn": "在玛雅墙上发现的数学公式与古代大师的见解相媲美"
+      },
+      {
         "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
         "link": "https://www.nature.com/articles/s41586-026-10869-x",
         "pubDate": "2026-07-13",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-13",
         "description": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-02151-x Researchers are rewriting the chemical tags on DNA and chromatin to tune gene expression.",
         "title_cn": "表观遗传编辑标志着"
-      },
-      {
-        "title": "This microbiologist endured a four-year court battle over COVID-19 tests",
-        "link": "https://www.nature.com/articles/d41586-026-01654-x",
-        "pubDate": "2026-07-13",
-        "description": "Nature, Published online: 13 July 2026; doi:10.1038/d41586-026-01654-x Linda Guamán wanted to serve her country, but became mired in a political controversy that led to her being arrested and facing years in prison.",
-        "title_cn": "这位微生物学家因COVID-19检测而经历了四年的法庭诉讼"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,7 +113,7 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "energy_intl": {
     "items": [
@@ -175,7 +175,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -278,23 +278,51 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
-        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
+      },
+      {
+        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
+        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
+        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "hydrogen": {
     "items": [
+      {
+        "title": "PowerCell and ECL Announce 300 MW+ Hydrogen Power Partnership for AI Data Centers, Supported by Bosch",
+        "link": "https://fuelcellsworks.com/2026/07/13/clean-energy/powercell-and-ecl-announce-300-mw-hydrogen-power-partnership-for-ai-data-centers-supported-by-bosch",
+        "pubDate": "Mon, 13 Jul 2026 17:40:03 GMT",
+        "description": "",
+        "title_cn": "PowerCell和ECL宣布在人工智能数据中心建立300 MW以上的氢能合作伙伴关系，由博世提供支持"
+      },
+      {
+        "title": "Dallara and Conflux Launch Liquid Hydrogen Technical Study for Future Endurance Hydrogen Class",
+        "link": "https://fuelcellsworks.com/2026/07/13/fuel-cells/dallara-and-conflux-launch-liquid-hydrogen-technical-study-for-future-endurance-hydrogen-class",
+        "pubDate": "Mon, 13 Jul 2026 15:50:47 GMT",
+        "description": "",
+        "title_cn": "Dallara和Conflux推出未来耐用氢级液氢技术研究"
+      },
+      {
+        "title": "Fuel Cell and Hydrogen News Highlights From China: July 05-July 10, 2, 2026",
+        "link": "https://fuelcellsworks.com/2026/07/11/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-july-05-july-10-2-2026",
+        "pubDate": "Mon, 13 Jul 2026 15:26:32 GMT",
+        "description": "",
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年7月5日至7月10日、2日"
+      },
+      {
+        "title": "Symrise Wins Worldwide L’Oréal Energy Award for Circular Hydrogen Recycling that Advances Decarbonization in Cosmetics",
+        "link": "https://fuelcellsworks.com/2026/07/13/fuel-cells/symrise-wins-worldwide-l-oreal-energy-award-for-circular-hydrogen-recycling-that-advances-decarbonization-in-cosmetics",
+        "pubDate": "Mon, 13 Jul 2026 15:23:42 GMT",
+        "description": "",
+        "title_cn": "Symrise凭借推进化妆品脱碳的循环氢循环利用赢得全球欧莱雅能源奖"
+      },
       {
         "title": "Industrial Site Enters Service with Fully Decarbonised Energy System",
         "link": "https://fuelcellsworks.com/2026/07/12/h2/industrial-site-enters-service-with-fully-decarbonised-energy-system",
@@ -322,38 +350,10 @@
         "pubDate": "Mon, 13 Jul 2026 14:56:17 GMT",
         "description": "",
         "title_cn": "ITE开发新型电极和数字工具以降低绿色氢气生产成本"
-      },
-      {
-        "title": "Major Factory Investment Includes Dedicated Renewable Hydrogen Component",
-        "link": "https://fuelcellsworks.com/2026/07/12/h2/major-factory-investment-includes-dedicated-renewable-hydrogen-component",
-        "pubDate": "Mon, 13 Jul 2026 14:28:26 GMT",
-        "description": "",
-        "title_cn": "主要工厂投资包括专用可再生氢气组件"
-      },
-      {
-        "title": "Sinopec Kuqa Green Hydrogen Project Reaches Full-Load Operation Across 52 Electrolysers",
-        "link": "https://fuelcellsworks.com/2026/07/13/electrolyzer/sinopec-kuqa-green-hydrogen-project-reaches-full-load-operation-across-52-electrolysers",
-        "pubDate": "Mon, 13 Jul 2026 14:24:26 GMT",
-        "description": "",
-        "title_cn": "中石化库车绿色制氢项目跨52台电解槽满负荷运行"
-      },
-      {
-        "title": "Battery vs Hydrogen in Trucks, Hybrid vs Hybrid in Cars: How Hyundai Is Fighting BYD and Tesla on Two Fronts",
-        "link": "https://fuelcellsworks.com/2026/07/12/fuel-cells/battery-vs-hydrogen-in-trucks-hybrid-vs-hybrid-in-cars-how-hyundai-is-fighting-byd-and-tesla-on-two-fronts",
-        "pubDate": "Mon, 13 Jul 2026 14:00:18 GMT",
-        "description": "",
-        "title_cn": "卡车中的电池与氢气，混合动力与汽车中的混合动力：现代汽车如何在两条战线上对抗比亚迪和特斯拉"
-      },
-      {
-        "title": "JERA and Samsung C&T Sign MoU to Strengthen Resilience and Supply Security of Hydrogen and Ammonia Value Chains",
-        "link": "https://fuelcellsworks.com/2026/07/13/clean-energy/jera-and-samsung-c-and-t-sign-mou-to-strengthen-resilience-and-supply-security-of-hydrogen-and-ammonia-value-chains",
-        "pubDate": "Mon, 13 Jul 2026 13:54:25 GMT",
-        "description": "",
-        "title_cn": "JERA和三星C&T签署谅解备忘录，以加强氢和氨价值链的弹性和供应安全"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,10 +483,16 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "一周能源政策回顾（7.5-7.11） - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
+        "pubDate": "Sun, 12 Jul 2026 10:32:22 GMT",
+        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 新浪财经"
+      },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨-碳索氢能网 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
         "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
         "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-14 04:45 UTC"
+    "updated": "2026-07-14 09:00 UTC"
   }
 }
