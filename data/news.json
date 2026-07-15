@@ -2,6 +2,34 @@
   "tech": {
     "items": [
       {
+        "title": "Relapse",
+        "link": "https://www.nature.com/articles/d41586-026-02133-z",
+        "pubDate": "2026-07-15",
+        "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02133-z Restore previous version?",
+        "title_cn": "复发"
+      },
+      {
+        "title": "How to end poverty and protect Earth: inside the debate tearing up economics",
+        "link": "https://www.nature.com/articles/d41586-026-02216-x",
+        "pubDate": "2026-07-15",
+        "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02216-x The idea of prosperity without growth is gaining traction among researchers. So why are many economists sceptical?",
+        "title_cn": "如何消除贫困和保护地球：在撕毁经济学的辩论中"
+      },
+      {
+        "title": "Beyond lithium: how sodium-ion batteries could change the world",
+        "link": "https://www.nature.com/articles/d41586-026-02150-y",
+        "pubDate": "2026-07-15",
+        "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02150-y Batteries based on sodium ions are entering mass production. Some researchers say they could ultimately be a cheaper, safer alternative to lithium in electric cars and other energy applications.",
+        "title_cn": "超越锂：钠离子电池如何改变世界"
+      },
+      {
+        "title": "AI avatars are reshaping society in China — the law is trying to catch up",
+        "link": "https://www.nature.com/articles/d41586-026-01674-7",
+        "pubDate": "2026-07-15",
+        "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-01674-7 Digital people are fulfilling roles from running hospitals to giving lectures to offering companionship.",
+        "title_cn": "人工智能化身正在重塑中国社会--法律正在努力追赶"
+      },
+      {
         "title": "Bird flu H5N1 in Australia: protect Australian species from bird flu virus",
         "link": "https://www.nature.com/articles/d41586-026-02188-y",
         "pubDate": "2026-07-14",
@@ -28,41 +56,37 @@
         "pubDate": "2026-07-14",
         "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02187-z AI models: one country’s fears become everyone’s constraint",
         "title_cn": "人工智能模型：一个国家的恐惧成为每个人的约束"
-      },
-      {
-        "title": "How the calendar came to be",
-        "link": "https://www.nature.com/articles/d41586-026-02102-6",
-        "pubDate": "2026-07-14",
-        "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02102-6 The development of time-keeping, and a book that brings an immune cell back in vogue, in this week’s pick from the Nature archive.",
-        "title_cn": "日历是如何形成的"
-      },
-      {
-        "title": "‘Dark comet’ unmasked by its mysterious motions",
-        "link": "https://www.nature.com/articles/d41586-026-02192-2",
-        "pubDate": "2026-07-14",
-        "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02192-2 A celestial body thought to be an ordinary space rock turns out to have a comet-like tail.",
-        "title_cn": "“黑暗彗星”被其神秘的动作所掩盖"
-      },
-      {
-        "title": "Seeking an industry role after your PhD? Make sure your CV reflects that",
-        "link": "https://www.nature.com/articles/d41586-026-01855-4",
-        "pubDate": "2026-07-14",
-        "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-01855-4 A doctorate can open many doors. A CV tailored to your planned career path can help to unlock them.",
-        "title_cn": "在攻读博士学位后寻找行业职位？请确保您的简历反映了这一点"
-      },
-      {
-        "title": "Africa’s response to this Ebola outbreak shows how to shape global health",
-        "link": "https://www.nature.com/articles/d41586-026-02148-6",
-        "pubDate": "2026-07-14",
-        "description": "Nature, Published online: 14 July 2026; doi:10.1038/d41586-026-02148-6 Countries elsewhere must learn from the continent’s example and combat disease outbreaks by working together, not by closing borders.",
-        "title_cn": "非洲对这次埃博拉疫情的反应展示了如何塑造全球健康"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+        "link": "https://36kr.com/p/3896830362601351?f=rss",
+        "pubDate": "2026-07-15 19:47:14  +0800",
+        "description": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段"
+      },
+      {
+        "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+        "link": "https://36kr.com/p/3896563671222147?f=rss",
+        "pubDate": "2026-07-15 19:37:31  +0800",
+        "description": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士"
+      },
+      {
+        "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+        "link": "https://36kr.com/p/3896755010963333?f=rss",
+        "pubDate": "2026-07-15 18:36:56  +0800",
+        "description": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完��项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&nbsp;UGC&nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC&nbsp;创作者大多停留在&nbsp;「用爱发电」"
+      },
+      {
+        "title": "支付宝不想做AI时代的配角",
+        "link": "https://36kr.com/p/3896720584738435?f=rss",
+        "pubDate": "2026-07-15 17:50:30  +0800",
+        "description": "作者&nbsp;|&nbsp;王晗玉 编辑&nbsp;|&nbsp;张帆 支付宝首页调出AI界面，对话框取代了密密麻麻的小程序；用户对着“阿宝”说一句“找附近的奶茶优惠券”，周边门店的活动自动匹配好，核销下单一步完成。 最近，支付宝完成了上线22年来最大一次改版。 本月初，AI版支付宝“阿宝”正式开启全量公测，几乎同一时间，微信支付“AI专属卡”也在智能体WorkBuddy中落地。 进入2026年以来，从头部平台到各家支付机构密集亮出AI底牌，支付行业的智能体竞争悄然开场。 从“用完即走”到“主动来聊” 伴随AI化进程，支付APP第一次出现了非工具属性的用户行为。 在AI版本开启内测后，支付宝"
+      },
       {
         "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
         "link": "https://36kr.com/p/3896639400183687?f=rss",
@@ -85,38 +109,35 @@
         "title": "耐克中国，壮士断腕",
         "link": "https://36kr.com/p/3876646017216516?f=rss",
         "pubDate": "2026-07-15 13:25:28  +0800",
-        "description": "上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。 消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告��但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。 如果最终全面实施，这项改革可能影响耐克中国约10亿美元规模的批发业务，是上一财年大中华区总营收的17%。 几天后的2026财年第四季度财报电话会上，面对分析师追问，耐克全球CEO Elliott Hill没有正面回应这一传闻，只表示： \"中国市场的成功需要更深入的本地合作伙伴关系，我们正在围绕线上和线下渠道，持续推进调整。\""
-      },
-      {
-        "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
-        "link": "https://36kr.com/p/3889213745543687?f=rss",
-        "pubDate": "2026-07-15 13:25:18  +0800",
-        "description": "文｜贺哲馨、任彩茹 编辑｜乔芊 36氪独家获悉，安踏品牌CEO徐阳将离职。 安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体系，持续吸纳全球的优秀人才，赋能安踏品牌持续深耕大众运动，为消费者创造更大价值。 在徐阳之前，安踏品牌CEO先后由丁世忠、郑捷、吴永华担任，三人均为销售出身。徐阳是这一职位历史上第一位市场营销背景的掌舵者：2006年，他以4A广告人的身份加入安踏，入职后历任品牌管理中心总监、篮球事业部总经理。201"
-      },
-      {
-        "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
-        "link": "https://36kr.com/p/3896298534520705?f=rss",
-        "pubDate": "2026-07-15 10:40:40  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家 聚焦垂域工业智能体 的科技企业，同时也是上海交通大学成果转化企业、上海人工智能研究院战略孵化企业。公司希望通过将人工智能技术引入工业制造场景，提升复杂基石工艺制程环节的自动化和智能化水平，重点解决制造业柔性生产和熟练工人严重短缺等问题。 公司创始人袁琳，曾作为非夕科技业务合伙人，推动该公司成长"
-      },
-      {
-        "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
-        "link": "https://36kr.com/p/3896295689569922?f=rss",
-        "pubDate": "2026-07-15 10:37:46  +0800",
-        "description": "作者&nbsp;|&nbsp;乔钰杰 编辑&nbsp;|&nbsp;袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后， 智创芯将与深开鸿围绕开源鸿蒙（OpenHarmony）与开源RISC-V的融合展开战略合作 ，共同推进“双开源”软硬件生态建设，加速相关技术在智能终端等产业场景落地。 智创芯成立于2022年， 由前阿里巴巴平头哥高管陈昊创立，核心团队来自阿里平头哥、中兴、海思等半导体企业 ，拥有多年的行业经验，聚"
-      },
-      {
-        "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
-        "link": "https://36kr.com/p/3896138695706497?f=rss",
-        "pubDate": "2026-07-15 07:57:20  +0800",
-        "description": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案 TOP 3大新闻 LV起诉国家知识产权局，案件定于16日开庭审理 人民法院公告网显示，北京知识产权法院将于2026年7月16日公开审理一起涉及路易威登的商标行政纠纷案。该案案号为（2026）京73行初4727号，原告为路易威登马利蒂，被告为国家知识产权局，黄民耀作为第三人参加诉讼。路易威登马利蒂也是此前"
+        "description": "上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。 消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。 如果最终全面实施，这项改革可能影响耐克中国约10亿美元规模的批发业务，是上一财年大中华区总营收的17%。 几天后的2026财年第四季度财报电话会上，面对分析师追问，耐克全球CEO Elliott Hill没有正面回应这一传闻，只表示： \"中国市场的成功需要更深入的本地合作伙伴关系，我们正在围绕线上和线下渠道，持续推进调整。\" "
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "China Is Making Boeing Optional",
+        "link": "https://cleantechnica.com/2026/07/15/china-rail-comac-makes-boeing-optional/",
+        "pubDate": "Wed, 15 Jul 2026 14:39:07 +0000",
+        "description": "Boeing expects Chinese airlines to require 8,830 new commercial aircraft by 2043. That sounds like an enormous opportunity until the denominator is corrected. China is not starting with aircraft demand and asking which manufacturer should supply it. It is deciding how people should move, assigning d",
+        "title_cn": "中国正在选择波音"
+      },
+      {
+        "title": "Solar Power Records Set in Spain, France, Germany, and Italy",
+        "link": "https://cleantechnica.com/2026/07/15/solar-power-records-set-in-spain-france-germany-and-italy/",
+        "pubDate": "Wed, 15 Jul 2026 14:37:59 +0000",
+        "description": "Well, only one of those countries in the title can cheer right now about their World Cup ambitions, as France was just knocked out by the super smooth unit that is Spain, Germany got knocked out very early &#8230; by Paraguay, and Italy somehow didn&#8217;t even qualify for the largest ... [continue",
+        "title_cn": "西班牙、法国、德国和意大利的太阳能发电记录"
+      },
+      {
+        "title": "World Premiere of the All-New Electric ID. Cross: Premium Class in Compact Format",
+        "link": "https://cleantechnica.com/2026/07/15/world-premiere-of-the-all-new-electric-id-cross-premium-class-in-compact-format/",
+        "pubDate": "Wed, 15 Jul 2026 13:37:06 +0000",
+        "description": "Timeless design — SUV with strong proportions exudes high quality, at an entry‑level price from 27,995 euros High-quality interior with feel-good atmosphere — spacious five-seater offers high seating comfort, fabric-covered surfaces and optionally a premium sound system and massage seats Technologie",
+        "title_cn": "全新Electric ID全球首发。交叉：紧凑型高级类"
+      },
       {
         "title": "500 kW Floating Offshore Solar Farm Arrives in Valencia",
         "link": "https://cleantechnica.com/2026/07/14/500-kw-floating-offshore-solar-farm-arrives-in-valencia/",
@@ -151,31 +172,10 @@
         "pubDate": "Wed, 15 Jul 2026 01:13:20 +0000",
         "description": "Well, we don&#8217;t know exactly how much EU tariffs on EVs produced in Chinese hit different brands, but a new analysis from Transport &#38; Environment (T&#38;E) sure provides some strong implications that made my eyes pop. Scrolling through the report, I saw this chart and found it fascinating: ",
         "title_cn": "欧盟对中国生产的电动汽车征收的关税如何影响不同品牌"
-      },
-      {
-        "title": "The 10 Top Battery Integrators in the World",
-        "link": "https://cleantechnica.com/2026/07/14/the-10-top-battery-integrators-in-the-world/",
-        "pubDate": "Wed, 15 Jul 2026 00:20:09 +0000",
-        "description": "Who gets the most stationary energy storage batteries integrated into the grid? That&#8217;s been a question many have wondered about for years. Well, Wood Mackenzie has just started publishing a new report on this. Unfortunately, we&#8217;re not getting many details from Wood Mackenzie — no numbers",
-        "title_cn": "全球十大电池集成商"
-      },
-      {
-        "title": "Lawsuit Seeks to Protect America’s Wildlife From Trump Administration",
-        "link": "https://cleantechnica.com/2026/07/14/lawsuit-seeks-to-protect-americas-wildlife-from-trump-administration/",
-        "pubDate": "Tue, 14 Jul 2026 23:42:54 +0000",
-        "description": "Rulemaking Claims Habitat Destruction Does Not ‘Harm’ Endangered Species. Conservation groups today sued the Trump administration over its decision to strip endangered species of protections for the places where they live, a decision that contradicts all scientific and legal understanding of the imp",
-        "title_cn": "诉讼旨在保护美国野生动物免受特朗普政府的侵害"
-      },
-      {
-        "title": "Volkswagen Board Rejects Blume Restructuring Plan",
-        "link": "https://cleantechnica.com/2026/07/14/volkswagen-board-rejects-blume-restructuring-plan/",
-        "pubDate": "Tue, 14 Jul 2026 20:37:44 +0000",
-        "description": "Oliver Blume's grand plan to resuscitate Volkswagen Group suffered a setback last week at a company board meeting. The post Volkswagen Board Rejects Blume Restructuring Plan appeared first on CleanTechnica .",
-        "title_cn": "大众汽车董事会拒绝Blume重组计划"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,76 +284,76 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "全链条、全场景、全域化，云韬赋能丝路绿能通道 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ONmlkWWZ5bjVWMmV2dFBWQkdWZGJHaG5KSzlYV0luUVp0ZHFlYkpBTG04bG1rLTVmQmt0Y3k4ZWdsbjJtOE9VYTUzcG85d2dPTkFaTjFn?oc=5",
-        "pubDate": "Wed, 01 Jul 2026 09:49:58 GMT",
-        "description": "全链条、全场景、全域化，云韬赋能丝路绿能通道 &nbsp;&nbsp; 国际氢能网"
+        "title": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 - 央广财经",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N2Rxay1OQ3M4T2ZMa1NOZFdGRHB0TnR5SE8yRGNuWWc3c29Lb3hfMENtT3JTbnRUMEd2cmhpclFvdXR3eERfQjRFeXl5S0VSdFlvWm12RVpGZzFudWlNemM5aDJKbDNEaWtxY21JQQ?oc=5",
+        "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+        "description": "2026氢能与燃料电池汽车大会启幕 全链协同培育氢能产业未来 &nbsp;&nbsp; 央广财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "PwC Study: Cost-Effective Decarbonisation of Industry Mainly Through CCS, Hydrogen and Hybrid Solutions",
-        "link": "https://fuelcellsworks.com/2026/07/14/clean-energy/pwc-study-cost-effective-decarbonisation-of-industry-mainly-through-ccs-hydrogen-and-hybrid-solutions",
-        "pubDate": "Tue, 14 Jul 2026 15:04:04 GMT",
+        "title": "Biomass and Hydrogen Could Be Key in the Energy Transition, Says Researcher",
+        "link": "https://fuelcellsworks.com/2026/07/14/h2/biomass-and-hydrogen-could-be-key-in-the-energy-transition-says-researcher-br",
+        "pubDate": "Wed, 15 Jul 2026 14:44:43 GMT",
         "description": "",
-        "title_cn": "普华永道研究：主要通过CCS、氢能和混合动力解决方案实现具有成本效益的行业脱碳"
+        "title_cn": "生物质和氢可能是能源转型的关键，研究人员说"
       },
       {
-        "title": "Topsoe and Sasol Bring Advanced SAF Technology to Allied Biofuels' Landmark Project in Uzbekistan",
-        "link": "https://fuelcellsworks.com/2026/07/14/energy-innovation/topsoe-and-sasol-bring-advanced-saf-technology-to-allied-biofuels-landmark-project-in-uzbekistan",
-        "pubDate": "Tue, 14 Jul 2026 14:51:58 GMT",
+        "title": "D3 Energy Reports Maiden Helium, Hydrogen Resource at PEL121",
+        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/d3-energy-reports-maiden-helium-hydrogen-resource-at-pel121",
+        "pubDate": "Wed, 15 Jul 2026 14:41:05 GMT",
         "description": "",
-        "title_cn": "Topsoe和Sasol为Allied Biofuels在乌兹别克斯坦的标志性项目带来先进的SAF技术"
+        "title_cn": "D3 Energy报告PEL121的氢资源处女氦"
       },
       {
-        "title": "Fuel Cell Industry Escalates: Second Protest Heads to the Blue House Over Korea's Regulatory Overhaul",
-        "link": "https://fuelcellsworks.com/2026/07/13/h2/fuel-cell-industry-escalates-second-protest-heads-to-the-blue-house-over-korea-s-regulatory-overhaul",
-        "pubDate": "Tue, 14 Jul 2026 14:47:56 GMT",
+        "title": "Renewable Hydrogen Production Validated Through Real-World Driving Test",
+        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/renewable-hydrogen-production-validated-through-real-world-driving-test",
+        "pubDate": "Wed, 15 Jul 2026 14:39:12 GMT",
         "description": "",
-        "title_cn": "燃料电池行业升级：第二次抗议韩国监管改革"
+        "title_cn": "通过真实驾驶测试验证的可再生氢生产"
       },
       {
-        "title": "Clean Energy Innovation to Provide Portable Cook Stoves Using Hydrogen Gas on Demand",
-        "link": "https://fuelcellsworks.com/2026/07/14/clean-energy/clean-energy-innovation-to-provide-portable-cook-stoves-using-hydrogen-gas-on-demand",
-        "pubDate": "Tue, 14 Jul 2026 14:42:00 GMT",
+        "title": "NUS Establishes Hydrogen and Low-Carbon Consortium to Accelerate Decarbonisation Efforts",
+        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/nus-establishes-hydrogen-and-low-carbon-consortium-to-accelerate-decarbonisation-efforts",
+        "pubDate": "Wed, 15 Jul 2026 14:32:19 GMT",
         "description": "",
-        "title_cn": "清洁能源创新，按需提供使用氢气的便携式炉灶"
+        "title_cn": "新加坡国立大学成立氢能和低碳联盟以加速脱碳努力"
       },
       {
-        "title": "Thin Pipeline: Greece's July Hydrogen Licensing Round Draws Just One Project",
-        "link": "https://fuelcellsworks.com/2026/07/14/h2/thin-pipeline-greece-s-july-hydrogen-licensing-round-draws-just-one-project",
-        "pubDate": "Tue, 14 Jul 2026 14:25:09 GMT",
+        "title": "Oracle Backs Down and Levels Up: Project Jupiter Ditches Gas Turbines for Bloom Fuel Cells After Community Pushback",
+        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/oracle-backs-down-and-levels-up-project-jupiter-ditches-gas-turbines-for-bloom-fuel-cells-after-community-pushback",
+        "pubDate": "Wed, 15 Jul 2026 14:23:24 GMT",
         "description": "",
-        "title_cn": "精简管道：希腊7月份的氢气许可回合只吸引了一个项目"
+        "title_cn": "甲骨文退缩并升级： Project Jupiter在社区回绝后放弃燃气轮机用于Bloom燃料电池"
       },
       {
-        "title": "Jeju’s Hydrogen Vehicle Boom Exposes Refueling Infrastructure Gap",
-        "link": "https://fuelcellsworks.com/2026/07/13/fuel-cells/jeju-s-hydrogen-vehicle-boom-exposes-refueling-infrastructure-gap",
-        "pubDate": "Tue, 14 Jul 2026 14:22:33 GMT",
+        "title": "SunHydrogen Provides Technology Update on Austin Pilot Demonstration",
+        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/sunhydrogen-provides-technology-update-on-austin-pilot-demonstration",
+        "pubDate": "Wed, 15 Jul 2026 14:13:40 GMT",
         "description": "",
-        "title_cn": "济州岛的氢动力汽车热潮暴露了加油基础设施的差距"
+        "title_cn": "SunHydrogen提供奥斯汀试点演示的技术更新"
       },
       {
-        "title": "Heven AeroTech Expands Leadership Team to Scale Hydrogen-Powered UAS for Federal Defense Market",
-        "link": "https://fuelcellsworks.com/2026/07/14/green-investment/heven-aerotech-expands-leadership-team-to-scale-hydrogen-powered-uas-for-federal-defense-market",
-        "pubDate": "Tue, 14 Jul 2026 14:18:48 GMT",
+        "title": "Nel ASA: Second Quarter 2026 Financial Results",
+        "link": "https://fuelcellsworks.com/2026/07/15/green-investment/nel-asa-second-quarter-2026-financial-results",
+        "pubDate": "Wed, 15 Jul 2026 13:56:23 GMT",
         "description": "",
-        "title_cn": "Heven AeroTech扩大领导团队，为联邦国防市场扩展氢动力无人机系统"
+        "title_cn": "Nel ASA ： 2026年第二季度财务业绩"
       },
       {
-        "title": "Multi-Fuel Heating System Designed for the Transition to Low-Carbon Gases",
-        "link": "https://fuelcellsworks.com/2026/07/13/h2/multi-fuel-heating-system-designed-for-the-transition-to-low-carbon-gases",
-        "pubDate": "Tue, 14 Jul 2026 14:09:21 GMT",
+        "title": "Marginal Costs for Green Hydrogen Are Rising Significantly",
+        "link": "https://fuelcellsworks.com/2026/07/14/green-hydrogen/marginal-costs-for-green-hydrogen-are-rising-significantly",
+        "pubDate": "Wed, 15 Jul 2026 13:50:00 GMT",
         "description": "",
-        "title_cn": "专为向低碳气体过渡而设计的多燃料加热系统"
+        "title_cn": "绿色氢的边际成本大幅上升"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "papers": {
     "items": [
@@ -429,13 +429,13 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "policy_nea": {
     "items": [
       {
         "title": "氢能「周事迹」事关国务院/国家能源局/财政部/中国能建/电投绿能/天合元氢/东方氢能/双良氢能/昊臻氢能/未势能源/亿纬氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTWZOYXJRVzZtZm5oR1JaSF9UeFQ2TXdCZzVaU1ZQLWM1RVZXcHZfaDlTc2hRNXgySWctOWpRUTRkdThYQkkyNUQyelZvVXlmWVNVN1JB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Gd0VmSlpsd2JTSFBnME1wR0g4aTYzR2FNSFc4T0M2eE9oU0VMWTVWNEZaSVB4eGhDX2Q4Mzh0MXNDQ1gwcEM4Y21IdE03WTR6bzBzSg?oc=5",
         "pubDate": "Mon, 13 Jul 2026 02:36:27 GMT",
         "description": "氢能「周事迹」事关国务院/国家能源局/财政部/中国能建/电投绿能/天合元氢/东方氢能/双良氢能/昊臻氢能/未势能源/亿纬氢能 &nbsp;&nbsp; 国际氢能网"
       },
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-15 09:05 UTC"
+    "updated": "2026-07-15 15:20 UTC"
   }
 }
