@@ -2,6 +2,34 @@
   "tech": {
     "items": [
       {
+        "title": "Why do astronauts’ bodies waste away? Space-station study points to mitochondria",
+        "link": "https://www.nature.com/articles/d41586-026-02089-0",
+        "pubDate": "2026-07-16",
+        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02089-0 Human cells cultured in microgravity produced fewer mitochondrial proteins.",
+        "title_cn": "为什么宇航员的尸体会被浪费掉？空间站研究指向线粒体"
+      },
+      {
+        "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
+        "link": "https://www.nature.com/articles/d41586-026-02214-z",
+        "pubDate": "2026-07-16",
+        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
+        "title_cn": "人工智能将彻底改变网络安全—研究人员必须做好准备"
+      },
+      {
+        "title": "A global capital for AI safety is emerging — and it's not in Silicon Valley",
+        "link": "https://www.nature.com/articles/d41586-026-01389-9",
+        "pubDate": "2026-07-16",
+        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
+        "title_cn": "人工智能安全的全球首都正在崛起—而且它不在硅谷"
+      },
+      {
+        "title": "Will making ‘replication studies’ easier to find help science self-correct?",
+        "link": "https://www.nature.com/articles/d41586-026-02175-3",
+        "pubDate": "2026-07-16",
+        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02175-3 Project on peer-review platform Pubpeer aims to make replication studies more visible.",
+        "title_cn": "让“复制研究”更容易找到是否有助于科学自我纠正？"
+      },
+      {
         "title": "Selectivity Emerges from Indiscriminate Photoreduction",
         "link": "https://www.nature.com/articles/s41586-026-10897-7",
         "pubDate": "2026-07-15",
@@ -28,41 +56,25 @@
         "pubDate": "2026-07-15",
         "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02221-0 The simple chemical that keeps a mole-rat queen atop her throne — plus, how people approach new games.",
         "title_cn": "裸鼹鼠研究的“圣杯”揭示了女王是如何统治的"
-      },
-      {
-        "title": "Modular in vivo antibody–ADC click to reverse drug resistance in tumours",
-        "link": "https://www.nature.com/articles/s41586-026-10789-w",
-        "pubDate": "2026-07-15",
-        "description": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10789-w In vivo ligation of clinically used therapeutic antibodies via bioorthogonal click chemistry to antibody–drug conjugates leads to enhanced antitumour activity in heterogeneous and treatment-resistant tumours.",
-        "title_cn": "模块化体内抗体-ADC单击可逆转肿瘤中的耐药性"
-      },
-      {
-        "title": "A queen odour mediates reproductive suppression in a eusocial mammal",
-        "link": "https://www.nature.com/articles/s41586-026-10772-5",
-        "pubDate": "2026-07-15",
-        "description": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10772-5 Naked mole-rat (Heterocephalus glaber) queens produce isopropyl myristate, a low-volatility ester that high-ranking animals detect and avoid, which alters prolactin and progesterone in other females to suppress reproduction and p",
-        "title_cn": "女王气味介导真实社会哺乳动物的生殖抑制"
-      },
-      {
-        "title": "Highly fragmented European wetlands with uneven restoration needs",
-        "link": "https://www.nature.com/articles/s41586-026-10760-9",
-        "pubDate": "2026-07-15",
-        "description": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9 Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
-        "title_cn": "高度分散的欧洲湿地，恢复需求不均匀"
-      },
-      {
-        "title": "Universal gates from braiding and fusing anyons on quantum hardware",
-        "link": "https://www.nature.com/articles/s41586-026-10709-y",
-        "pubDate": "2026-07-15",
-        "description": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10709-y A 54-qubit realization of non-Abelian S3 topological order demonstrates that combining anyon braiding with fusion enables universal topological quantum computation.",
-        "title_cn": "在量子硬件上编织和融合任意子的通用门"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展",
+        "link": "https://36kr.com/p/3896564308379525?f=rss",
+        "pubDate": "2026-07-16 18:58:17  +0800",
+        "description": "大公司： OPPO：realme新品将聚焦海外市场，中国市场暂停产品更新 36氪从OPPO方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。realme和一加将持续在游戏和性能领域为用户提供优质的体验。 IDC：百度智能云蝉联中国金融大模型市场份额第一 36氪获悉，根据国际数据公司（IDC）最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告，2025年中国金融行业生成式AI市场迎来爆发式增长，整体规模达到17.40亿元人民币，同比增速高达90.4%。在高速增长的赛"
+      },
+      {
+        "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
+        "link": "https://36kr.com/p/3898151587890824?f=rss",
+        "pubDate": "2026-07-16 18:07:26  +0800",
+        "description": "“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。 一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道，“牛逼，也是登上AIGC这艘诺亚方舟了，什么时候我们这些打工仔也能翻身。”后面跟了一个大哭的表情。 《丧尸清道夫》海报，图片源自刘梓瑜小红书账号 同样“翻身”"
+      },
       {
         "title": "大厂医疗AI战，开始“卷”减重",
         "link": "https://36kr.com/p/3896639942592134?f=rss",
@@ -98,25 +110,27 @@
         "link": "https://36kr.com/p/3896830362601351?f=rss",
         "pubDate": "2026-07-15 19:47:14  +0800",
         "description": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段"
-      },
-      {
-        "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
-        "link": "https://36kr.com/p/3896563671222147?f=rss",
-        "pubDate": "2026-07-15 19:37:31  +0800",
-        "description": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报） 瓜子二手车线下直卖场首店今日正式开业 36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今日正式开业。据介绍，瓜子此次重回线下，主打100%个人直卖车源。目前瓜子在沈阳、济南等同类型门店已同步启动，并推动全国落地中。 LG新能源将为谷歌规模最大的“光储一体”项目供应电池 据业内人士"
-      },
-      {
-        "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
-        "link": "https://36kr.com/p/3896755010963333?f=rss",
-        "pubDate": "2026-07-15 18:36:56  +0800",
-        "description": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI&nbsp;技术的普及，正在持续重构内容创作的生产力边界。原本需要专业团队完成的开发工作，如今个体创作者借助工具就能实现。这一趋势在游戏&nbsp;UGC&nbsp;领域体现得尤为明显：普通用户不再只是内容消费者，也能成为游戏玩法的开发者。 只不过，过去的UGC&nbsp;创作者大多停留在&nbsp;「用爱发电」&"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "CPH2’s Failure Shows Why The Hydrogen Stack Isn’t The Product",
+        "link": "https://cleantechnica.com/2026/07/16/cph2-hydrogen-stack-system-boundary/",
+        "pubDate": "Thu, 16 Jul 2026 13:57:19 +0000",
+        "description": "CPH2 did not merely lose an experimental electrolyzer. Its destructive test failure exposed a mismatch between the product the company promoted and the business it was actually trying to operate. After more than a decade of development, a public listing and roughly £50 million in disclosed financing",
+        "title_cn": "CPH2的故障表明为什么氢堆不是产品"
+      },
+      {
+        "title": "World’s Largest Integrated Solar & Battery Storage Project Inaugurated in the Philippines",
+        "link": "https://cleantechnica.com/2026/07/16/worlds-largest-integrated-solar-battery-storage-project-inaugurated-in-the-philippines/",
+        "pubDate": "Thu, 16 Jul 2026 13:41:23 +0000",
+        "description": "The Philippines has taken another major step in its clean energy transition with the inauguration of the first phase of the MTerra Solar project, a massive solar and battery storage development that President Ferdinand Marcos Jr. described as proof that the country can deliver world-class energy inf",
+        "title_cn": "全球最大的太阳能和电池集成存储项目在菲律宾落成"
+      },
       {
         "title": "This Graph Shows Why Europe, India, & China Should Adopt Cleantech ASAP",
         "link": "https://cleantechnica.com/2026/07/15/this-graph-shows-why-europe-india-china-should-adopt-cleantech-asap/",
@@ -158,27 +172,27 @@
         "pubDate": "Wed, 15 Jul 2026 22:43:14 +0000",
         "description": "Today, the Michigan Department of Environment, Great Lakes and Energy (EGLE) approved the permit application for Enbridge, a multibillion-dollar Canadian oil giant, to run the Line 5 oil tunnel in the Straits of Mackinac. This decision ignores the years-long opposition to the proposed tunnel project",
         "title_cn": "5号线隧道通行证危及五大湖的安全"
-      },
-      {
-        "title": "PJM Capacity Auction Hits Price Cap for Third Consecutive Time",
-        "link": "https://cleantechnica.com/2026/07/15/pjm-capacity-auction-hits-price-cap-for-third-consecutive-time/",
-        "pubDate": "Wed, 15 Jul 2026 22:30:57 +0000",
-        "description": "Yesterday, the nation’s largest grid operator PJM held its capacity auction for the 2028/2029 Delivery Year. The auction ended when prices reached the price cap, signaling more costly energy bills for everyday Americans who have been paying soaring energy prices for years due to PJM’s poor planning ",
-        "title_cn": "PJM产能拍卖连续第三次达到价格上限"
-      },
-      {
-        "title": "Cadillac OPTIQ May Switch To A Chinese Made Platform",
-        "link": "https://cleantechnica.com/2026/07/15/cadillac-optiq-may-switch-to-a-chinese-made-platform/",
-        "pubDate": "Wed, 15 Jul 2026 18:02:03 +0000",
-        "description": "The GM Ultium platform is obsolete. The next Cadillac Optiq may ride on an advanced platform developed with SAIC in Shanghai. The post Cadillac OPTIQ May Switch To A Chinese Made Platform appeared first on CleanTechnica .",
-        "title_cn": "凯迪拉克OPTIQ可能转向中国制造的平台"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Building chemical stability with mechanics",
+        "link": "https://www.nature.com/articles/s41560-026-02044-3",
+        "pubDate": "2026-07-16",
+        "description": "Nature Energy, Published online: 16 July 2026; doi:10.1038/s41560-026-02044-3 Stack pressure strongly influences degradation pathways in lithium-ion batteries, yet its optimal value remains poorly understood. Now, a high-precision stack pressure control and dilatometry system reveals an optimal pres",
+        "title_cn": "使用力学构建化学稳定性"
+      },
+      {
+        "title": "Climate change reshapes resource adequacy risks and optimal renewable energy siting in wind and solar energy systems",
+        "link": "https://www.nature.com/articles/s41560-026-02109-3",
+        "pubDate": "2026-07-16",
+        "description": "Nature Energy, Published online: 16 July 2026; doi:10.1038/s41560-026-02109-3 Decarbonized grids may face rising resource adequacy risks as weather-driven renewable variability and climate change jointly affect supply and demand. A high-resolution model shows that these risks stem from multi-day pow",
+        "title_cn": "气候变化重塑了风能和太阳能系统中的资源充足性风险和最佳的可再生能源选址"
+      },
       {
         "title": "Author Correction: Thin membranes with Cu-ion crosslinking for high temperature polymer electrolyte membrane fuel cells",
         "link": "https://www.nature.com/articles/s41560-026-02119-1",
@@ -220,24 +234,10 @@
         "pubDate": "2026-07-10",
         "description": "Nature Energy, Published online: 10 July 2026; doi:10.1038/s41560-026-02102-w EU import tariffs on battery electric vehicles may not substantially hinder the overall electrification process but may substantially reduce adoption in vulnerable markets. These findings highlight the uneven implications ",
         "title_cn": "管理欧盟电动汽车进口关税的影响"
-      },
-      {
-        "title": "Distributional impacts of EU tariffs on Chinese electric vehicles across European markets",
-        "link": "https://www.nature.com/articles/s41560-026-02105-7",
-        "pubDate": "2026-07-10",
-        "description": "Nature Energy, Published online: 10 July 2026; doi:10.1038/s41560-026-02105-7 Tariffs have been introduced in the EU on battery electric vehicles (EVs) imported from China. New research considers how these tariffs may lead to cost increases and reshape EV adoption across the EU.",
-        "title_cn": "欧盟关税对欧洲市场中国电动汽车的分销影响"
-      },
-      {
-        "title": "Household coordination can aid solar adoption",
-        "link": "https://www.nature.com/articles/s41560-026-02103-9",
-        "pubDate": "2026-07-09",
-        "description": "Nature Energy, Published online: 09 July 2026; doi:10.1038/s41560-026-02103-9 Coordination and active deliberation that includes the whole household can facilitate solar adoption. Interventions targeting energy adoption are likely to be more effective when they are designed to support collective dec",
-        "title_cn": "家庭协调可以帮助采用太阳能"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Biomass and Hydrogen Could Be Key in the Energy Transition, Says Researcher",
-        "link": "https://fuelcellsworks.com/2026/07/14/h2/biomass-and-hydrogen-could-be-key-in-the-energy-transition-says-researcher-br",
-        "pubDate": "Wed, 15 Jul 2026 14:44:43 GMT",
+        "title": "PowerCell Sweden: A Weak Quarter - but a Stronger Strategic Position",
+        "link": "https://fuelcellsworks.com/2026/07/16/green-investment/powercell-sweden-a-weak-quarter-but-a-stronger-strategic-position",
+        "pubDate": "Thu, 16 Jul 2026 15:13:43 GMT",
         "description": "",
-        "title_cn": "生物质和氢可能是能源转型的关键，研究人员说"
+        "title_cn": "PowerCell Sweden ：一个疲软的季度-但更强大的战略地位"
       },
       {
-        "title": "D3 Energy Reports Maiden Helium, Hydrogen Resource at PEL121",
-        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/d3-energy-reports-maiden-helium-hydrogen-resource-at-pel121",
-        "pubDate": "Wed, 15 Jul 2026 14:41:05 GMT",
+        "title": "Hydrogen Pitstop Offers Hands-On Hydrogen Experiences for the Whole Family During WRC Rally Week in Jyväskylä, Finland",
+        "link": "https://fuelcellsworks.com/2026/07/16/hydrogen/hydrogen-pitstop-offers-hands-on-hydrogen-experiences-for-the-whole-family-during-wrc-rally-week-in-jyvaskyla-finland",
+        "pubDate": "Thu, 16 Jul 2026 15:02:21 GMT",
         "description": "",
-        "title_cn": "D3 Energy报告PEL121的氢资源处女氦"
+        "title_cn": "Hydrogen Pitstop在芬兰于韦斯屈莱的WRC拉力赛周期间为全家人提供实践氢能体验"
       },
       {
-        "title": "Renewable Hydrogen Production Validated Through Real-World Driving Test",
-        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/renewable-hydrogen-production-validated-through-real-world-driving-test",
-        "pubDate": "Wed, 15 Jul 2026 14:39:12 GMT",
+        "title": "Regional Government Urges Simpler EU Rules to Speed Hydrogen Deployment",
+        "link": "https://fuelcellsworks.com/2026/07/15/h2/regional-government-urges-simpler-eu-rules-to-speed-hydrogen-deployment",
+        "pubDate": "Thu, 16 Jul 2026 14:52:50 GMT",
         "description": "",
-        "title_cn": "通过真实驾驶测试验证的可再生氢生产"
+        "title_cn": "地方政府敦促简化欧盟规则以加快氢能部署"
       },
       {
-        "title": "NUS Establishes Hydrogen and Low-Carbon Consortium to Accelerate Decarbonisation Efforts",
-        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/nus-establishes-hydrogen-and-low-carbon-consortium-to-accelerate-decarbonisation-efforts",
-        "pubDate": "Wed, 15 Jul 2026 14:32:19 GMT",
+        "title": "Charbone Expands Helium Fleet To Five Units Following Accelerated Commercial Demand",
+        "link": "https://fuelcellsworks.com/2026/07/16/clean-hydrogen/charbone-expands-helium-fleet-to-five-units-following-accelerated-commercial-demand",
+        "pubDate": "Thu, 16 Jul 2026 14:51:16 GMT",
         "description": "",
-        "title_cn": "新加坡国立大学成立氢能和低碳联盟以加速脱碳努力"
+        "title_cn": "随着商业需求的加速， Charbone将氦气车队扩展到五个单位"
       },
       {
-        "title": "Oracle Backs Down and Levels Up: Project Jupiter Ditches Gas Turbines for Bloom Fuel Cells After Community Pushback",
-        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/oracle-backs-down-and-levels-up-project-jupiter-ditches-gas-turbines-for-bloom-fuel-cells-after-community-pushback",
-        "pubDate": "Wed, 15 Jul 2026 14:23:24 GMT",
+        "title": "NIMBY's Silver Lining: Why Data-Center Backlash Is Fueling Bloom Energy's Boom",
+        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/nimby-s-silver-lining-why-data-center-backlash-is-fueling-bloom-energy-s-boom",
+        "pubDate": "Thu, 16 Jul 2026 14:32:16 GMT",
         "description": "",
-        "title_cn": "甲骨文退缩并升级： Project Jupiter在社区回绝后放弃燃气轮机用于Bloom燃料电池"
+        "title_cn": "NIMBY的一线希望：为什么数据中心的反弹正在推动Bloom Energy的繁荣"
       },
       {
-        "title": "SunHydrogen Provides Technology Update on Austin Pilot Demonstration",
-        "link": "https://fuelcellsworks.com/2026/07/15/clean-energy/sunhydrogen-provides-technology-update-on-austin-pilot-demonstration",
-        "pubDate": "Wed, 15 Jul 2026 14:13:40 GMT",
+        "title": "Throwback Thursday Story: Equinix Trials Landmark Hydrogen Power Solution at Dublin Data Centre",
+        "link": "https://fuelcellsworks.com/2026/07/16/clean-energy/throwback-thursday-story-equinix-trials-landmark-hydrogen-power-solution-at-dublin-data-centre",
+        "pubDate": "Thu, 16 Jul 2026 14:28:50 GMT",
         "description": "",
-        "title_cn": "SunHydrogen提供奥斯汀试点演示的技术更新"
+        "title_cn": "重温周四的故事： Equinix在都柏林数据中心试用具有里程碑意义的氢能解决方案"
       },
       {
-        "title": "Nel ASA: Second Quarter 2026 Financial Results",
-        "link": "https://fuelcellsworks.com/2026/07/15/green-investment/nel-asa-second-quarter-2026-financial-results",
-        "pubDate": "Wed, 15 Jul 2026 13:56:23 GMT",
+        "title": "Hexagon Purus ASA, Q2 2026 Earnings Call, Jul 16, 2026",
+        "link": "https://fuelcellsworks.com/2026/07/16/h2/hexagon-purus-asa-q2-2026-earnings-call-jul-16-2026",
+        "pubDate": "Thu, 16 Jul 2026 14:11:59 GMT",
         "description": "",
-        "title_cn": "Nel ASA ： 2026年第二季度财务业绩"
+        "title_cn": "Hexagon Purus ASA ， 2026年第二季度收入电话会议， 2026年7月16日"
       },
       {
-        "title": "Marginal Costs for Green Hydrogen Are Rising Significantly",
-        "link": "https://fuelcellsworks.com/2026/07/14/green-hydrogen/marginal-costs-for-green-hydrogen-are-rising-significantly",
-        "pubDate": "Wed, 15 Jul 2026 13:50:00 GMT",
+        "title": "Industrial Development Funding and Oaktree Announce $1.7 Billion Project Investment in Bloom Energy Fuel Cells for Nebius AI Infrastructure Build-Out",
+        "link": "https://fuelcellsworks.com/2026/07/16/green-investment/industrial-development-funding-and-oaktree-announce-1-7-billion-project-investment-in-bloom-energy-fuel-cells-for-nebius-ai-infrastructure-build-out",
+        "pubDate": "Thu, 16 Jul 2026 14:04:12 GMT",
         "description": "",
-        "title_cn": "绿色氢的边际成本大幅上升"
+        "title_cn": "产业发展基金和橡树宣布投资17亿美元用于Nebius AI基础设施建设的Bloom Energy燃料电池项目"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "papers": {
     "items": [
@@ -429,13 +429,13 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "policy_nea": {
     "items": [
       {
         "title": "氢能「周事迹」事关国务院/国家能源局/财政部/中国能建/电投绿能/天合元氢/东方氢能/双良氢能/昊臻氢能/未势能源/亿纬氢能 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Gd0VmSlpsd2JTSFBnME1wR0g4aTYzR2FNSFc4T0M2eE9oU0VMWTVWNEZaSVB4eGhDX2Q4Mzh0MXNDQ1gwcEM4Y21IdE03WTR6bzBzSg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNTWZOYXJRVzZtZm5oR1JaSF9UeFQ2TXdCZzVaU1ZQLWM1RVZXcHZfaDlTc2hRNXgySWctOWpRUTRkdThYQkkyNUQyelZvVXlmWVNVN1JB?oc=5",
         "pubDate": "Mon, 13 Jul 2026 02:36:27 GMT",
         "description": "氢能「周事迹」事关国务院/国家能源局/财政部/中国能建/电投绿能/天合元氢/东方氢能/双良氢能/昊臻氢能/未势能源/亿纬氢能 &nbsp;&nbsp; 国际氢能网"
       },
@@ -444,6 +444,12 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UTBlejVTSlFJWjlOcmR3ZlA2SExmX1dnSmt0U2thWmc2ZXluaWV3cHNvZVVWMXoyRlhYb29RMHlfWTNBZFY3bjI0bWRVQWFmZ1NiU1FR?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 23:30:44 GMT",
+        "description": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
@@ -474,16 +480,10 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-16 09:08 UTC"
+    "updated": "2026-07-16 15:27 UTC"
   }
 }
