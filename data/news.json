@@ -30,6 +30,13 @@
         "title_cn": "让“复制研究”更容易找到是否有助于科学自我纠正？"
       },
       {
+        "title": "‘Explosive diarrhoea’ outbreak grips US: how researchers are hunting its source",
+        "link": "https://www.nature.com/articles/d41586-026-02225-w",
+        "pubDate": "2026-07-16",
+        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02225-w Cases have hit record levels, and scientists are racing to pinpoint where the Cyclospora parasite entered the food supply.",
+        "title_cn": "“爆炸性腹泻”的爆发笼罩着美国：研究人员如何寻找其来源"
+      },
+      {
         "title": "Selectivity Emerges from Indiscriminate Photoreduction",
         "link": "https://www.nature.com/articles/s41586-026-10897-7",
         "pubDate": "2026-07-15",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-15",
         "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02186-0 The mechanism behind these strange mammals' extreme social structure has been a long-standing puzzle.",
         "title_cn": "让女王裸鼹鼠“统治”的简单化学物质"
-      },
-      {
-        "title": "‘Holy grail’ of naked mole-rat research reveals how queens rule",
-        "link": "https://www.nature.com/articles/d41586-026-02221-0",
-        "pubDate": "2026-07-15",
-        "description": "Nature, Published online: 15 July 2026; doi:10.1038/d41586-026-02221-0 The simple chemical that keeps a mole-rat queen atop her throne — plus, how people approach new games.",
-        "title_cn": "裸鼹鼠研究的“圣杯”揭示了女王是如何统治的"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,69 +113,69 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "From Mine to Megawatt: How NLR Is Securing Critical Mineral Supply Chains for the Power Grid",
+        "link": "https://cleantechnica.com/2026/07/16/from-mine-to-megawatt-how-nlr-is-securing-critical-mineral-supply-chains-for-the-power-grid/",
+        "pubDate": "Thu, 16 Jul 2026 20:17:21 +0000",
+        "description": "Sarah Inskeep Talks Supply Chains for Energy Technologies—and One NLR Model That Brings Them Together When you plug in your phone or laptop, do you ever think about the wires that carry the electricity to the battery? Okay, now what about the powerlines, transformers, and substations that move the e",
+        "title_cn": "从矿山到兆瓦： NLR如何确保电网的关键矿产供应链"
+      },
+      {
+        "title": "Smart Energy Management Research Could Unlock Grid Flexibility & Cost Savings",
+        "link": "https://cleantechnica.com/2026/07/16/smart-energy-management-research-could-unlock-grid-flexibility-cost-savings/",
+        "pubDate": "Thu, 16 Jul 2026 20:10:33 +0000",
+        "description": "Partnership With Xcel Energy Reveals Solutions To Meet Needs of and Avoid Unnecessary Expenses for Grid Customers. As demand for electricity in the United States grows and evolves, utilities need to continually analyze whether distribution infrastructure is up to the task. Strain on the power grid c",
+        "title_cn": "智能能源管理研究可以实现电网灵活性和成本节约"
+      },
+      {
+        "title": "NLR Battery Innovation Awarded NASA’s Invention of the Year",
+        "link": "https://cleantechnica.com/2026/07/16/nlr-battery-innovation-awarded-nasas-invention-of-the-year-2/",
+        "pubDate": "Thu, 16 Jul 2026 20:04:20 +0000",
+        "description": "To Shoot for the Moon, Lab Researchers Must First Learn How To Fail on Earth NLR Senior Energy Storage Engineer Matthew Keyser holds a sheet of copper discs, one of the metals that comprise the internal short-circuit device recently recognized by NASA’s 2025 Invention of the Year Award. Photo by ...",
+        "title_cn": "NLR Battery Innovation荣获NASA年度发明奖"
+      },
+      {
+        "title": "China’s Electric Truck Moment Has Arrived — And It’s About To Hit Global Diesel Demand",
+        "link": "https://cleantechnica.com/2026/07/16/chinas-electric-truck-moment-has-arrived-and-its-about-to-hit-global-diesel-demand/",
+        "pubDate": "Thu, 16 Jul 2026 19:20:20 +0000",
+        "description": "By Ray Wills and Peter Newman If the electric car was the opening chapter of China’s transport transition, battery-electric heavy trucks are the next — and it is now moving from promise to industrial reality. And this is happening inside the fastest energy transition in human history. For global oil",
+        "title_cn": "中国电动卡车时刻已经到来--即将冲击全球柴油需求"
+      },
+      {
+        "title": "Data, Data Everywhere And Not A Byte To Think",
+        "link": "https://cleantechnica.com/2026/07/16/data-data-everywhere-and-not-a-byte-to-think/",
+        "pubDate": "Thu, 16 Jul 2026 18:06:16 +0000",
+        "description": "It is slowly dawning on people that all this hysteria about artificial intelligence and the data centers needed to support it may not be a good thing. In particular, its effect on impressionable young people is setting off alarm bells. The UK this week announced a number of new protections ... [cont",
+        "title_cn": "数据，数据无处不在，而不是一个字节的思考"
+      },
+      {
+        "title": "The All-New VW ID. Polo Now Available with 37-kWh Battery — Affordable Entry into Electric Mobility",
+        "link": "https://cleantechnica.com/2026/07/16/the-all-new-vw-id-polo-now-available-with-37-kwh-battery-affordable-entry-into-electric-mobility/",
+        "pubDate": "Thu, 16 Jul 2026 16:25:58 +0000",
+        "description": "The 37-kWh battery (net) provides a range suitable for everyday use of up to 334 km (WLTP); the attractive entry-level model is designed for urban traffic and typical commuting routes Output stages with 85 kW (116 PS) and 99 kW (135 PS) are now available to order, with DC charging from 10 to ... [co",
+        "title_cn": "全新大众ID。Polo衫现已推出，配备37千瓦时电池—经济实惠的电动出行入门级"
+      },
+      {
+        "title": "50% Rise in Volkswagen Electric Vehicle Orders in Europe in 2026",
+        "link": "https://cleantechnica.com/2026/07/16/50-rise-in-volkswagen-electric-vehicle-orders-in-europe-in-2026/",
+        "pubDate": "Thu, 16 Jul 2026 15:29:53 +0000",
+        "description": "There&#8217;s been so much focus on Volkswagen&#8217;s drastic plans to close factories and lay off employees, and rightfully so, but that overshadowed some actually pretty cool, uplifting news from the company. In a company report on its first-half-of-year sales, the group&#8217;s 4.1 million sales",
+        "title_cn": "2026年欧洲大众电动汽车订单增长50%"
+      },
       {
         "title": "CPH2’s Failure Shows Why The Hydrogen Stack Isn’t The Product",
         "link": "https://cleantechnica.com/2026/07/16/cph2-hydrogen-stack-system-boundary/",
         "pubDate": "Thu, 16 Jul 2026 13:57:19 +0000",
         "description": "CPH2 did not merely lose an experimental electrolyzer. Its destructive test failure exposed a mismatch between the product the company promoted and the business it was actually trying to operate. After more than a decade of development, a public listing and roughly £50 million in disclosed financing",
         "title_cn": "CPH2的故障表明为什么氢堆不是产品"
-      },
-      {
-        "title": "World’s Largest Integrated Solar & Battery Storage Project Inaugurated in the Philippines",
-        "link": "https://cleantechnica.com/2026/07/16/worlds-largest-integrated-solar-battery-storage-project-inaugurated-in-the-philippines/",
-        "pubDate": "Thu, 16 Jul 2026 13:41:23 +0000",
-        "description": "The Philippines has taken another major step in its clean energy transition with the inauguration of the first phase of the MTerra Solar project, a massive solar and battery storage development that President Ferdinand Marcos Jr. described as proof that the country can deliver world-class energy inf",
-        "title_cn": "全球最大的太阳能和电池集成存储项目在菲律宾落成"
-      },
-      {
-        "title": "This Graph Shows Why Europe, India, & China Should Adopt Cleantech ASAP",
-        "link": "https://cleantechnica.com/2026/07/15/this-graph-shows-why-europe-india-china-should-adopt-cleantech-asap/",
-        "pubDate": "Thu, 16 Jul 2026 02:37:35 +0000",
-        "description": "Scrolling through the 75th edition of the Statistical Review of World Energy from the Energy Institute this week, several things jumped out to me. If you&#8217;ve missed my previous coverage of the report, also see &#8220;Renewables, Led By Solar, Were Largest Source of Energy Supply Growth Globally",
-        "title_cn": "此图表显示了为什么欧洲、印度和中国应该尽快采用清洁技术"
-      },
-      {
-        "title": "Zayed Sustainability Prize Closes 2027 Submissions with Strong Global Participation",
-        "link": "https://cleantechnica.com/2026/07/15/zayed-sustainability-prize-closes-2027-submissions-with-strong-global-participation/",
-        "pubDate": "Thu, 16 Jul 2026 01:59:38 +0000",
-        "description": "Over 10,000 entries from 177 countries mark the highest participation in the Prize’s history. Submissions increased 32% year-on-year, reflecting sustained local led momentum for scalable global impact. Through 139 winners, the Prize has positively impacted more than 411 million lives worldwide. ABU ",
-        "title_cn": "扎耶德可持续发展奖在全球参与度强劲的情况下完成2027年的参赛作品"
-      },
-      {
-        "title": "Wallbox & Turning Point Energy Surpass 10,000 EV Chargers Deployed Across Saudi Arabia",
-        "link": "https://cleantechnica.com/2026/07/15/wallbox-turning-point-energy-surpass-10000-ev-chargers-deployed-across-saudi-arabia/",
-        "pubDate": "Thu, 16 Jul 2026 01:38:23 +0000",
-        "description": "BARCELONA, Spain — Wallbox (NYSE: WBX), a global provider of electric vehicle charging and energy management solutions, and Turning Point Energy, a leading EV infrastructure provider in Saudi Arabia, today announced that they have surpassed 10,000 EV chargers sold and installed across the Kingdom of",
-        "title_cn": "Wallbox和转折点能源超过10,000个电动汽车充电器部署在沙特阿拉伯各地"
-      },
-      {
-        "title": "The Jackery HomePower H1000 v2 — CleanTechnica Tested",
-        "link": "https://cleantechnica.com/2026/07/15/the-jackery-homepower-h1000-v2-cleantechnica-tested/",
-        "pubDate": "Thu, 16 Jul 2026 01:31:05 +0000",
-        "description": "Jackery has been one of the leaders in portable power stations since the early days, emerging as a key provider of emergency power, portable power for all your adventures, and the concept of solar generators. Disclaimer: Jackery provided the H1000 v2 to the author for the purposes of this review. ..",
-        "title_cn": "Jackery HomePower H1000 v2 — CleanTechnica已测试"
-      },
-      {
-        "title": "Delhi Launches Big New EV Policies",
-        "link": "https://cleantechnica.com/2026/07/15/delhi-launches-big-new-ev-policies/",
-        "pubDate": "Thu, 16 Jul 2026 01:10:07 +0000",
-        "description": "I&#8217;ve long said that cities should do much more to electrify transport. They have resources and power, and they also typically suffer from air pollution issues that drastically hurt their residents. Delhi, India, is one of the most polluted cities in the world. It has tried for years to stimula",
-        "title_cn": "德里推出新的大型电动汽车政策"
-      },
-      {
-        "title": "Line 5 Tunnel Permit Jeopardizes Safety of the Great Lakes",
-        "link": "https://cleantechnica.com/2026/07/15/line-5-tunnel-permit-jeopardizes-safety-of-the-great-lakes/",
-        "pubDate": "Wed, 15 Jul 2026 22:43:14 +0000",
-        "description": "Today, the Michigan Department of Environment, Great Lakes and Energy (EGLE) approved the permit application for Enbridge, a multibillion-dollar Canadian oil giant, to run the Line 5 oil tunnel in the Straits of Mackinac. This decision ignores the years-long opposition to the proposed tunnel project",
-        "title_cn": "5号线隧道通行证危及五大湖的安全"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -444,12 +444,6 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UTBlejVTSlFJWjlOcmR3ZlA2SExmX1dnSmt0U2thWmc2ZXluaWV3cHNvZVVWMXoyRlhYb29RMHlfWTNBZFY3bjI0bWRVQWFmZ1NiU1FR?oc=5",
-        "pubDate": "Fri, 10 Jul 2026 23:30:44 GMT",
-        "description": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
@@ -480,10 +474,16 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-16 15:27 UTC"
+    "updated": "2026-07-16 22:51 UTC"
   }
 }
