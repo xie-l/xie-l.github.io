@@ -23,6 +23,13 @@
         "title_cn": "为什么当我们孤独时疼痛会更痛苦，以及原罪的神话：书籍简介"
       },
       {
+        "title": "Can giant space mirrors boost green energy on Earth? A start-up aims to find out",
+        "link": "https://www.nature.com/articles/d41586-026-02218-9",
+        "pubDate": "2026-07-17",
+        "description": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02218-9 Astronomers are deeply worried that a planned array of 50,000 mirror-bearing satellites in orbit will severely compromise telescopes.",
+        "title_cn": "巨型太空镜可以提升地球上的绿色能源吗？一家初创公司的目标是找出"
+      },
+      {
         "title": "Found: a rocky exoplanet with an atmosphere — could it host life?",
         "link": "https://www.nature.com/articles/d41586-026-02200-5",
         "pubDate": "2026-07-17",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-16",
         "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-02214-z As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace.",
         "title_cn": "人工智能将彻底改变网络安全—研究人员必须做好准备"
-      },
-      {
-        "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
-        "link": "https://www.nature.com/articles/d41586-026-01389-9",
-        "pubDate": "2026-07-16",
-        "description": "Nature, Published online: 16 July 2026; doi:10.1038/d41586-026-01389-9 The United Kingdom is gaining influence through its growing AI-safety ecosystem.",
-        "title_cn": "人工智能安全的全球首都正在崛起—而且它不在硅谷"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,52 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Australia Nails It Again — On Large Data Centers This Time",
+        "link": "https://cleantechnica.com/2026/07/17/australia-nails-it-again-on-large-data-centers-this-time/",
+        "pubDate": "Fri, 17 Jul 2026 21:36:03 +0000",
+        "description": "The United States kicked off the solar power industry, but then Germany took it to another level, and Australia followed close behind and became true leader globally in rooftop solar power adoption. With strong federal policies and some strong state policies, Australia shot to the top of the charts ",
+        "title_cn": "澳大利亚再次钉上它—这次在大型数据中心"
+      },
+      {
+        "title": "Brilliant AI Solution to High Solar Soft Costs & Overpricing in the United States",
+        "link": "https://cleantechnica.com/2026/07/17/brilliant-ai-solution-to-high-solar-soft-costs-overpricing-in-the-united-states/",
+        "pubDate": "Fri, 17 Jul 2026 19:47:48 +0000",
+        "description": "For more than a decade, it&#8217;s been clear that Americans pay much more for rooftop solar power than Europeans, Australians, and others. We have much higher &#8220;soft costs,&#8221; including much higher &#8220;customer acquisition&#8221; costs. Part of it, as well, is the sales process and sale",
+        "title_cn": "针对美国高太阳能软成本和高定价的卓越人工智能解决方案"
+      },
+      {
+        "title": "Getting to Know Your 2026 Tesla",
+        "link": "https://cleantechnica.com/2026/07/17/getting-to-know-your-2026-tesla/",
+        "pubDate": "Fri, 17 Jul 2026 19:11:54 +0000",
+        "description": "I remember getting into my new 2019 Tesla six years ago. While basic driving controls were familiar, Tesla’s approach of having many control functions available only on the display screen was somewhat bewildering. There were also numerous new features that no one had thought of for cars previously. ",
+        "title_cn": "了解您的2026特斯拉"
+      },
+      {
+        "title": "How To Climb a Critical Mineral Mountain? Come Together, Right Now",
+        "link": "https://cleantechnica.com/2026/07/17/how-to-climb-a-critical-mineral-mountain-come-together-right-now/",
+        "pubDate": "Fri, 17 Jul 2026 18:42:43 +0000",
+        "description": "At 2026 Partner Forum, Industry, Academia, Government, and Researchers Convene To Talk U.S. Supply Strangleholds, Modern Mining, and Optimism If you drive through one of the western-most points of West Texas—about 85 miles east of El Paso County—you might spot a rounded brown mountain in the empty d",
+        "title_cn": "如何攀登关键的矿物山？马上走到一起"
+      },
+      {
+        "title": "Tesla’s Offensive in South America Continues as the Brand Arrives in Uruguay, Cuts Prices in Chile",
+        "link": "https://cleantechnica.com/2026/07/17/teslas-offensive-in-south-america-continues-as-the-brand-arrives-in-uruguay-cuts-prices-in-chile/",
+        "pubDate": "Fri, 17 Jul 2026 18:03:00 +0000",
+        "description": "Seven months ago, we announced that Tesla had arrived in the Colombian market looking for blood. With a Model 3 launched below $30,000 and a Model Y below $32,500, the brand was offering a premium feeling for mass market prices, outcompeting pretty much everyone else in the EV landscape, including .",
+        "title_cn": "随着品牌抵达乌拉圭、智利降价，特斯拉在南美的攻势仍在继续"
+      },
+      {
+        "title": "Watching The World’s First Flight of the NAVEE WaveFly 5X in Suzhou, China",
+        "link": "https://cleantechnica.com/2026/07/17/watching-the-worlds-first-flight-of-the-navee-wavefly-5x-in-suzhou-china/",
+        "pubDate": "Fri, 17 Jul 2026 17:28:00 +0000",
+        "description": "Electric rideables continue to proliferate around the world, and one company from Suzhou, China, is really pushing the limits on what&#8217;s possible with an electric rideable. Disclaimer: the author&#8217;s travel and accommodations were paid for by iMpact PR as part of a tour of companies they wo",
+        "title_cn": "在中国苏州观看NAVEE WaveFly 5X全球首飞"
+      },
       {
         "title": "EU Takes Half-hearted Step Towards Taxing International Flights",
         "link": "https://cleantechnica.com/2026/07/17/eu-takes-half-hearted-step-towards-taxing-international-flights/",
@@ -130,52 +172,10 @@
         "pubDate": "Fri, 17 Jul 2026 14:28:28 +0000",
         "description": "Grid-storage debates are usually framed as a contest among technologies. Lithium-ion batteries compete with flow batteries, compressed air, liquid air, gravity systems, iron-air and whatever new long-duration acronym has arrived with a funding announcement. That framing skips the more important syst",
         "title_cn": "电网需要存储，而不是每个存储理念"
-      },
-      {
-        "title": "Whoa, Honda to Stop Selling Prologue EV … What the Heck?",
-        "link": "https://cleantechnica.com/2026/07/17/whoa-honda-to-stop-selling-prologue-ev-what-the-heck/",
-        "pubDate": "Fri, 17 Jul 2026 14:09:03 +0000",
-        "description": "The Honda Prologue has been one of the best selling electric vehicles in the United States in the past year or so. It was the 6th best selling EV in the US in 2025, and it was the 8th best selling EV last quarter. In the first quarter, it only ... [continued] The post Whoa, Honda to Stop Selling Pro",
-        "title_cn": "哇，本田将停止销售Prologue EV……这到底是怎么回事？"
-      },
-      {
-        "title": "New Charging Station Plan Offers More Proof-Of-Life For EVs",
-        "link": "https://cleantechnica.com/2026/07/17/ev-charging-style-reliability-hospitality-industry-rangeway/",
-        "pubDate": "Fri, 17 Jul 2026 12:37:17 +0000",
-        "description": "What war on EVs? The EV charging station startup Rangeway is drawing lessons from the hospitality industry with a focus on attractive EV-only facilities. The post New Charging Station Plan Offers More Proof-Of-Life For EVs appeared first on CleanTechnica .",
-        "title_cn": "新的充电站计划为电动汽车提供更多的生命证明"
-      },
-      {
-        "title": "6 Records Solar & Storage Have Crushed in the First Half of 2026",
-        "link": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/",
-        "pubDate": "Fri, 17 Jul 2026 03:30:38 +0000",
-        "description": "Electricity demand is rising. Prices are climbing. And America needs more power, fast. The good news is solar and storage are delivering. Across the country, from California to Texas to the Midwest, the industry is breaking records at a pace that would have seemed unimaginable just a few years ago. ",
-        "title_cn": "6记录太阳能和存储在2026年上半年破纪录"
-      },
-      {
-        "title": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
-        "link": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
-        "pubDate": "Fri, 17 Jul 2026 03:11:29 +0000",
-        "description": "Beijing, 16 July – China now operates the world’s largest battery energy storage fleet, and new analysis from Ember shows there is still headroom to do more with it. Used to its full potential, China’s utility-scale batteries could have shifted an additional 23 TWh of clean electricity in 2025 to th",
-        "title_cn": "中国电池超越容量规模：到2025年，公用事业规模的存储可能会增加23太瓦时的清洁能源"
-      },
-      {
-        "title": "New Partnerships With State of Alaska & University of Alaska Fairbanks Expand on Critical Minerals & Energy Innovation",
-        "link": "https://cleantechnica.com/2026/07/16/new-partnerships-with-state-of-alaska-university-of-alaska-fairbanks-expand-on-critical-minerals-energy-innovation/",
-        "pubDate": "Fri, 17 Jul 2026 02:59:10 +0000",
-        "description": "NLR Laboratory Director Jud Virden Signs Partnership Agreements at Alaska Sustainable Energy Conference in Anchorage The National Laboratory of the Rockies (NLR) signed two new memorandums of understanding (MOUs) on May 19 that aim to increase research and innovation in critical minerals, energy, an",
-        "title_cn": "与阿拉斯加州立大学和阿拉斯加大学费尔班克斯分校建立新的合作伙伴关系，扩大关键矿产和能源创新"
-      },
-      {
-        "title": "Is A Double-Shock What Will Really Change Auto Purchasing & Oil Use Again?",
-        "link": "https://cleantechnica.com/2026/07/16/is-a-double-shock-what-will-really-change-auto-purchasing-oil-use-again/",
-        "pubDate": "Fri, 17 Jul 2026 01:21:32 +0000",
-        "description": "Continuing my series on the 75th edition of the Statistical Review of World Energy from the Energy Institute, we&#8217;ve got another fascinating chart and graph today that I want to build on. Here are the paired graphics: The graphics above show that there were two big oil shocks and price spikes .",
-        "title_cn": "双重打击真的会再次改变汽车采购和石油使用吗？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "PowerCell Sweden: A Weak Quarter - but a Stronger Strategic Position",
-        "link": "https://fuelcellsworks.com/2026/07/16/green-investment/powercell-sweden-a-weak-quarter-but-a-stronger-strategic-position",
-        "pubDate": "Thu, 16 Jul 2026 15:13:43 GMT",
+        "title": "Doosan Fuel Cell Targets North American AI Data Centre Market with Hydrogen Fuel Cell Power Solutions",
+        "link": "https://fuelcellsworks.com/2026/07/17/fuel-cells/doosan-fuel-cell-targets-north-american-ai-data-centre-market-with-hydrogen-fuel-cell-power-solutions",
+        "pubDate": "Fri, 17 Jul 2026 15:11:38 GMT",
         "description": "",
-        "title_cn": "PowerCell Sweden ：一个疲软的季度-但更强大的战略地位"
+        "title_cn": "斗山燃料电池以氢燃料电池动力解决方案瞄准北美人工智能数据中心市场"
       },
       {
-        "title": "Hydrogen Pitstop Offers Hands-On Hydrogen Experiences for the Whole Family During WRC Rally Week in Jyväskylä, Finland",
-        "link": "https://fuelcellsworks.com/2026/07/16/hydrogen/hydrogen-pitstop-offers-hands-on-hydrogen-experiences-for-the-whole-family-during-wrc-rally-week-in-jyvaskyla-finland",
-        "pubDate": "Thu, 16 Jul 2026 15:02:21 GMT",
+        "title": "BMW, Toyota, Bosch and Repsol Launch Real-World Pilot of Vehicles Running on 100% Renewable Gasoline",
+        "link": "https://fuelcellsworks.com/2026/07/17/fuel-cells/bmw-toyota-bosch-and-repsol-launch-real-world-pilot-of-vehicles-running-on-100-percent-renewable-gasoline",
+        "pubDate": "Fri, 17 Jul 2026 15:04:20 GMT",
         "description": "",
-        "title_cn": "Hydrogen Pitstop在芬兰于韦斯屈莱的WRC拉力赛周期间为全家人提供实践氢能体验"
+        "title_cn": "宝马、丰田、博世和Repsol推出使用100%可再生汽油的真实世界汽车试点"
       },
       {
-        "title": "Regional Government Urges Simpler EU Rules to Speed Hydrogen Deployment",
-        "link": "https://fuelcellsworks.com/2026/07/15/h2/regional-government-urges-simpler-eu-rules-to-speed-hydrogen-deployment",
-        "pubDate": "Thu, 16 Jul 2026 14:52:50 GMT",
+        "title": "High-Pressure Hydrogen Transport Gains Momentum with New Container Order",
+        "link": "https://fuelcellsworks.com/2026/07/16/h2/high-pressure-hydrogen-transport-gains-momentum-with-new-container-order",
+        "pubDate": "Fri, 17 Jul 2026 14:34:41 GMT",
         "description": "",
-        "title_cn": "地方政府敦促简化欧盟规则以加快氢能部署"
+        "title_cn": "高压氢气运输凭借新集装箱订单获得动力"
       },
       {
-        "title": "Charbone Expands Helium Fleet To Five Units Following Accelerated Commercial Demand",
-        "link": "https://fuelcellsworks.com/2026/07/16/clean-hydrogen/charbone-expands-helium-fleet-to-five-units-following-accelerated-commercial-demand",
-        "pubDate": "Thu, 16 Jul 2026 14:51:16 GMT",
+        "title": "Jindal Stainless Supplies Stainless Steel for India’s First Hydrogen-Powered Train, Advances Cleaner and Smarter Mobility",
+        "link": "https://fuelcellsworks.com/2026/07/17/fuel-cells/jindal-stainless-supplies-stainless-steel-for-india-s-first-hydrogen-powered-train-advances-cleaner-and-smarter-mobility",
+        "pubDate": "Fri, 17 Jul 2026 14:32:14 GMT",
         "description": "",
-        "title_cn": "随着商业需求的加速， Charbone将氦气车队扩展到五个单位"
+        "title_cn": "金达尔不锈钢为印度首款氢动力列车供应不锈钢，实现更清洁、更智能的出行"
       },
       {
-        "title": "NIMBY's Silver Lining: Why Data-Center Backlash Is Fueling Bloom Energy's Boom",
-        "link": "https://fuelcellsworks.com/2026/07/14/fuel-cells/nimby-s-silver-lining-why-data-center-backlash-is-fueling-bloom-energy-s-boom",
-        "pubDate": "Thu, 16 Jul 2026 14:32:16 GMT",
+        "title": "Hydrogen Insights for June 2026 From France",
+        "link": "https://fuelcellsworks.com/2026/07/16/electrolyzer/france-hydrogen-insights-for-june-2026",
+        "pubDate": "Fri, 17 Jul 2026 14:27:12 GMT",
         "description": "",
-        "title_cn": "NIMBY的一线希望：为什么数据中心的反弹正在推动Bloom Energy的繁荣"
+        "title_cn": "来自法国的2026年6月氢能洞察"
       },
       {
-        "title": "Throwback Thursday Story: Equinix Trials Landmark Hydrogen Power Solution at Dublin Data Centre",
-        "link": "https://fuelcellsworks.com/2026/07/16/clean-energy/throwback-thursday-story-equinix-trials-landmark-hydrogen-power-solution-at-dublin-data-centre",
-        "pubDate": "Thu, 16 Jul 2026 14:28:50 GMT",
+        "title": "ZeroAvia and Safran Forge Partnership on Hydrogen-Electric Technologies",
+        "link": "https://fuelcellsworks.com/2026/07/17/fuel-cells/zeroavia-and-safran-forge-partnership-on-hydrogen-electric-technologies",
+        "pubDate": "Fri, 17 Jul 2026 14:20:21 GMT",
         "description": "",
-        "title_cn": "重温周四的故事： Equinix在都柏林数据中心试用具有里程碑意义的氢能解决方案"
+        "title_cn": "ZeroAvia与赛峰集团建立氢电技术合作伙伴关系"
       },
       {
-        "title": "Hexagon Purus ASA, Q2 2026 Earnings Call, Jul 16, 2026",
-        "link": "https://fuelcellsworks.com/2026/07/16/h2/hexagon-purus-asa-q2-2026-earnings-call-jul-16-2026",
-        "pubDate": "Thu, 16 Jul 2026 14:11:59 GMT",
+        "title": "Saudi-Chinese Partners Target $5 Billion Green Hydrogen and Ammonia Hub on Red Sea Coast",
+        "link": "https://fuelcellsworks.com/2026/07/17/h2/saudi-chinese-partners-target-5-billion-green-hydrogen-and-ammonia-hub-on-red-sea-coast",
+        "pubDate": "Fri, 17 Jul 2026 13:59:41 GMT",
         "description": "",
-        "title_cn": "Hexagon Purus ASA ， 2026年第二季度收入电话会议， 2026年7月16日"
+        "title_cn": "沙特-中国合作伙伴计划在红海沿岸建立50亿$的绿色氢和氨枢纽"
       },
       {
-        "title": "Industrial Development Funding and Oaktree Announce $1.7 Billion Project Investment in Bloom Energy Fuel Cells for Nebius AI Infrastructure Build-Out",
-        "link": "https://fuelcellsworks.com/2026/07/16/green-investment/industrial-development-funding-and-oaktree-announce-1-7-billion-project-investment-in-bloom-energy-fuel-cells-for-nebius-ai-infrastructure-build-out",
-        "pubDate": "Thu, 16 Jul 2026 14:04:12 GMT",
+        "title": "Wrightbus Launches in Australia With Battery and Hydrogen Buses on Show",
+        "link": "https://fuelcellsworks.com/2026/07/17/fuel-cells/wrightbus-launches-in-australia-with-battery-and-hydrogen-buses-on-show",
+        "pubDate": "Fri, 17 Jul 2026 13:58:15 GMT",
         "description": "",
-        "title_cn": "产业发展基金和橡树宣布投资17亿美元用于Nebius AI基础设施建设的Bloom Energy燃料电池项目"
+        "title_cn": "Wrightbus在澳大利亚推出电池和氢气巴士"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -506,10 +506,10 @@
         "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+        "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -518,25 +518,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
-        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
-        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
-      },
-      {
-        "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
+        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
         "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
         "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
+        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-17 15:07 UTC"
+    "updated": "2026-07-17 22:41 UTC"
   }
 }
