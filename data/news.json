@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Radar EV Pickup Sales More Than Double in Philippines as Electric Trucks Gain Traction",
+        "link": "https://cleantechnica.com/2026/07/18/radar-ev-pickup-sales-more-than-double-in-philippines-as-electric-trucks-gain-traction/",
+        "pubDate": "Sat, 18 Jul 2026 14:30:56 +0000",
+        "description": "UAAGI Auto Group, the Philippine distributor of the battery-electric Radar RD6 pickup, said it sold 112 units in June, more than doubling the 44 units delivered in May. While the company did not disclose cumulative sales, the month-over-month increase suggests growing interest in electrified pickups",
+        "title_cn": "随着电动卡车的普及，菲律宾的雷达电动汽车皮卡销量翻了一番还多"
+      },
+      {
+        "title": "Philippines Energy Company Junk Coal Plant & Break Ground on Latest BESS",
+        "link": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+        "pubDate": "Sat, 18 Jul 2026 13:11:34 +0000",
+        "description": "Coal is dying a slow death in the central Philippines, and giant batteries are moving into the neighborhood to take its place. The Visayas power grid has suffered from chronic reliability issues for years, leaving the province of Cebu vulnerable to rolling blackouts during peak periods. As regional ",
+        "title_cn": "菲律宾能源公司垃圾煤电厂在最新的BESS上破土动工"
+      },
+      {
+        "title": "EVs At 98.3% Share In Norway — Tesla Model Y Leads",
+        "link": "https://cleantechnica.com/2026/07/18/evs-at-98-3-share-in-norway-tesla-model-y-leads/",
+        "pubDate": "Sat, 18 Jul 2026 11:12:39 +0000",
+        "description": "The second quarter of 2026 saw plugin EVs at 98.1% share in Norway, up from 96.7% in Q2 2025. BEV share grew year on year (YoY), and PHEV share declined. Overall Q2 auto volume was 46,221 units, up some 5% YoY. The Tesla Model Y was the best-selling BEV in ... [continued] The post EVs At 98.3% Share",
+        "title_cn": "电动汽车在挪威的份额为98.3% —特斯拉Model Y领先"
+      },
       {
         "title": "Endgame: The Decline & Fall of the Western Automotive Industry",
         "link": "https://cleantechnica.com/2026/07/17/endgame-the-decline-fall-of-the-western-automotive-industry/",
@@ -151,31 +172,10 @@
         "pubDate": "Sat, 18 Jul 2026 01:11:18 +0000",
         "description": "Latest HERO WEC Mission Status Update Examines How New Charge Controller Design Addresses Critical Challenge in Wave Energy Industry Since 2024, researchers at the National Laboratory of the Rockies (NLR) have been improving the overall design of NLR’s hydraulic and electric reverse osmosis wave ene",
         "title_cn": "英雄的使命：构建波浪能量组件的蓝图"
-      },
-      {
-        "title": "Australia Nails It Again — On Large Data Centers This Time",
-        "link": "https://cleantechnica.com/2026/07/17/australia-nails-it-again-on-large-data-centers-this-time/",
-        "pubDate": "Fri, 17 Jul 2026 21:36:03 +0000",
-        "description": "The United States kicked off the solar power industry, but then Germany took it to another level, and Australia followed close behind and became true leader globally in rooftop solar power adoption. With strong federal policies and some strong state policies, Australia shot to the top of the charts ",
-        "title_cn": "澳大利亚再次钉上它—这次在大型数据中心"
-      },
-      {
-        "title": "Brilliant AI Solution to High Solar Soft Costs & Overpricing in the United States",
-        "link": "https://cleantechnica.com/2026/07/17/brilliant-ai-solution-to-high-solar-soft-costs-overpricing-in-the-united-states/",
-        "pubDate": "Fri, 17 Jul 2026 19:47:48 +0000",
-        "description": "For more than a decade, it&#8217;s been clear that Americans pay much more for rooftop solar power than Europeans, Australians, and others. We have much higher &#8220;soft costs,&#8221; including much higher &#8220;customer acquisition&#8221; costs. Part of it, as well, is the sales process and sale",
-        "title_cn": "针对美国高太阳能软成本和高定价的卓越人工智能解决方案"
-      },
-      {
-        "title": "Getting to Know Your 2026 Tesla",
-        "link": "https://cleantechnica.com/2026/07/17/getting-to-know-your-2026-tesla/",
-        "pubDate": "Fri, 17 Jul 2026 19:11:54 +0000",
-        "description": "I remember getting into my new 2019 Tesla six years ago. While basic driving controls were familiar, Tesla’s approach of having many control functions available only on the display screen was somewhat bewildering. There were also numerous new features that no one had thought of for cars previously. ",
-        "title_cn": "了解您的2026特斯拉"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "policy_nea": {
     "items": [
@@ -464,6 +464,12 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0UTBlejVTSlFJWjlOcmR3ZlA2SExmX1dnSmt0U2thWmc2ZXluaWV3cHNvZVVWMXoyRlhYb29RMHlfWTNBZFY3bjI0bWRVQWFmZ1NiU1FR?oc=5",
+        "pubDate": "Fri, 10 Jul 2026 23:30:44 GMT",
+        "description": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -474,16 +480,10 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
         "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
         "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
-        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-18 08:44 UTC"
+    "updated": "2026-07-18 14:44 UTC"
   }
 }
