@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "tech_cn": {
     "items": [
@@ -91,7 +91,7 @@
         "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
         "link": "https://36kr.com/p/3899556701128578?f=rss",
         "pubDate": "2026-07-17 18:51:22  +0800",
-        "description": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。 森博科技董事长于林义 在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司��实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答”的"
+        "description": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。 森博科技董事长于林义 在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答”的工"
       },
       {
         "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
@@ -113,10 +113,24 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Alberta’s Million-Barrel Pipeline Needs Missing Barrels",
+        "link": "https://cleantechnica.com/2026/07/19/albertas-million-barrel-pipeline-needs-missing-barrels/",
+        "pubDate": "Sun, 19 Jul 2026 15:43:21 +0000",
+        "description": "Canada has made a proposed one-million-barrel-per-day west-coast pipeline more politically real just as the barrel case has become harder to defend. The official project now has a route concept from the Edmonton region to southern British Columbia, Trans Mountain as the public-sector builder and ope",
+        "title_cn": "艾伯塔省的百万桶管道需要缺少桶"
+      },
+      {
+        "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
+        "link": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
+        "pubDate": "Sun, 19 Jul 2026 14:49:04 +0000",
+        "description": "PUTRAJAYA, Malaysia — The rapid transition of Southeast Asia toward clean energy is moving from the early adoption of electric mobility to a regional industrialization effort. When the 4th ASEAN Battery Technology Conference opens next month in Sepang, Malaysia, the focus will pivot from policy fram",
+        "title_cn": "东盟将重点转向电池制造、扩大电动汽车采用和电网集成"
+      },
       {
         "title": "Geely Unveils New EV Powertrain That Is 93.8% Efficient",
         "link": "https://cleantechnica.com/2026/07/19/geely-unveils-new-ev-powertrain-that-is-93-8-efficient/",
@@ -158,24 +172,10 @@
         "pubDate": "Sat, 18 Jul 2026 15:54:03 +0000",
         "description": "Philippines&#8217; express delivery service JRS Express and mobility startup Voltai finalized a pilot partnership to integrate electric motorcycles and battery-swapping technology into commercial logistics operations in Metro Manila last March. As of July 16, the partnership has begun running a real",
         "title_cn": "菲律宾物流公司将可更换电动滑板车视为最后一英里交付的下一个里程碑"
-      },
-      {
-        "title": "New Delhi Air Pollution Index Further Pushes for EV Adoption in India",
-        "link": "https://cleantechnica.com/2026/07/18/new-delhi-air-pollution-index-further-pushes-for-ev-adoption-in-india/",
-        "pubDate": "Sat, 18 Jul 2026 15:44:00 +0000",
-        "description": "India’s latest push toward electric vehicles is being driven by more than industrial policy or climate commitments. It is also a response to one of the country’s most persistent public‑health crises: air pollution. The Delhi government has approved a sweeping new electric‑vehicle policy that offers ",
-        "title_cn": "新德里空气污染指数进一步推动印度电动汽车的采用"
-      },
-      {
-        "title": "Every Day In Every Way, Attribution Science Is Getting Better & Better",
-        "link": "https://cleantechnica.com/2026/07/18/every-day-in-every-way-attribution-science-is-getting-better-better/",
-        "pubDate": "Sat, 18 Jul 2026 15:29:05 +0000",
-        "description": "The National Academies of Sciences, Engineering, and Medicine are private, nonprofit institutions that provide independent, objective analysis and advice to the nation to solve complex problems and inform public policy decisions related to science, engineering, and medicine. They operate under an 18",
-        "title_cn": "每一天，归因科学都在变得越来越好"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,16 +452,16 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWVMwMURYZFZpSVFudnNJcUpWOFgwdWpaSlBUVExXNXF6OU01SFdYVUM3bWE0RzdzdUVxZXFWT1V1b2ZObEZMYVAxYzVrRkQ2U3N4Ug?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 00:51:29 GMT",
-        "description": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWVMwMURYZFZpSVFudnNJcUpWOFgwdWpaSlBUVExXNXF6OU01SFdYVUM3bWE0RzdzdUVxZXFWT1V1b2ZObEZMYVAxYzVrRkQ2U3N4Ug?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 00:51:29 GMT",
+        "description": "重磅！2030年可再生能源制氢规模达200万吨！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "“碳价驱动+场景锁定”，氢能成碳达峰碳中和主力军 - 中国产业发展促进会氢能分会",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -506,6 +506,12 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
+      },
+      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
@@ -524,12 +530,6 @@
         "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 手机网易网"
       },
       {
-        "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
-      },
-      {
         "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
         "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-19 14:48 UTC"
+    "updated": "2026-07-19 22:43 UTC"
   }
 }
