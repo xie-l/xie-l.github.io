@@ -2,67 +2,79 @@
   "tech": {
     "items": [
       {
+        "title": "Are boldness and belligerence related?",
+        "link": "https://www.nature.com/articles/d41586-026-02103-5",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02103-5 Different types of aggression in stickleback fish, and a pillar of light seen at sunset, in this week’s pick from the Nature archive.",
+        "title_cn": "大胆和好战有关系吗？"
+      },
+      {
+        "title": "Oil and gas drilling is shifting to the deep sea — here’s what is at stake",
+        "link": "https://www.nature.com/articles/d41586-026-02232-x",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02232-x Technologies are taking the search for fossil fuels to the deepest parts of the ocean. Engineers must keep ecological risks manageable.",
+        "title_cn": "石油和天然气钻探正在向深海转移—这就是利害攸关的问题"
+      },
+      {
+        "title": "New hope in the fight against cachexia — cancer’s deadly co-conspirator",
+        "link": "https://www.nature.com/articles/d41586-026-02228-7",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02228-7 Scientists are getting closer to understanding the wasting and fatigue that often accompanies cancer. Treatments could be on the horizon.",
+        "title_cn": "与恶病质作斗争的新希望—癌症的致命同谋"
+      },
+      {
+        "title": "Ten years of mapping gene expression in tissues",
+        "link": "https://www.nature.com/articles/d41586-026-02212-1",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02212-1 Spatially resolved transcriptomic technologies continue to enhance understanding of development and disease through a feedback loop involving academia and industry.",
+        "title_cn": "十年来在组织中绘制基因表达图谱"
+      },
+      {
+        "title": "Seven ways endurance sports have taught me to be a better researcher",
+        "link": "https://www.nature.com/articles/d41586-026-02215-y",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02215-y The ‘24-hour rule’ and other tips from sport can improve lab life.",
+        "title_cn": "耐力运动教会我成为更好的研究者的七种方式"
+      },
+      {
+        "title": "Does China’s latest AI model finally equal US rivals? What scientists think",
+        "link": "https://www.nature.com/articles/d41586-026-02281-2",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02281-2 ‘Kimi K3’ can match or outperform cutting-edge models, says Moonshot AI. But its large size might limit uptake.",
+        "title_cn": "中国最新的人工智能模型终于等于美国的竞争对手了吗？科学家们怎么想"
+      },
+      {
+        "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
+        "link": "https://www.nature.com/articles/d41586-026-02213-0",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.",
+        "title_cn": "不要让人工智能窃取所有快乐：科学家不会放弃聊天机器人"
+      },
+      {
         "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
         "link": "https://www.nature.com/articles/d41586-026-02211-2",
         "pubDate": "2026-07-20",
         "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
         "title_cn": "欧洲湿地的详细地图揭示了被忽视的生态系统"
-      },
-      {
-        "title": "Smuggling charges against NIH virologists trigger political uproar",
-        "link": "https://www.nature.com/articles/d41586-026-01995-7",
-        "pubDate": "2026-07-20",
-        "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-01995-7 Other researchers say that non-infectious viral samples in luggage posed no risk, but might have violated import rules.",
-        "title_cn": "针对NIH病毒学家的走私指控引发政治骚动"
-      },
-      {
-        "title": "The science of foresight: how to future-proof your research",
-        "link": "https://www.nature.com/articles/d41586-026-02231-y",
-        "pubDate": "2026-07-20",
-        "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02231-y Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it.",
-        "title_cn": "前瞻性科学：如何面向未来的研究"
-      },
-      {
-        "title": "Huge study finds first genetic clues for borderline personality disorder",
-        "link": "https://www.nature.com/articles/d41586-026-02220-1",
-        "pubDate": "2026-07-20",
-        "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02220-1 Largest genetic analysis of the condition so far finds 11 linked locations in the human genome.",
-        "title_cn": "大规模研究发现边缘型人格障碍的第一个遗传线索"
-      },
-      {
-        "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
-        "link": "https://www.nature.com/articles/d41586-026-02234-9",
-        "pubDate": "2026-07-20",
-        "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02234-9 A postdoc researcher trying to move into an industry role wants help gaining traction and making it past the first interview stage.",
-        "title_cn": "我的行业职位面试一事无成。如何让自己脱颖而出？"
-      },
-      {
-        "title": "Briefing Chat: Sweet! Elusive sugar molecules found in space",
-        "link": "https://www.nature.com/articles/d41586-026-02263-4",
-        "pubDate": "2026-07-17",
-        "description": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02263-4 Nature staff discuss the discovery of a four carbon ‘true sugar’ in interstellar space — plus, a formula inscribed on a wall reveals a Maya mathematician’s name.",
-        "title_cn": "简报聊天：甜蜜！在太空中发现难以捉摸的糖分子"
-      },
-      {
-        "title": "Wearable sensors on the face are invisible to the eye",
-        "link": "https://www.nature.com/articles/d41586-026-02193-1",
-        "pubDate": "2026-07-17",
-        "description": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02193-1 Electrodes that measure brain waves and more cannot be seen or felt.",
-        "title_cn": "人眼看不到脸上的可穿戴传感器"
-      },
-      {
-        "title": "Why pain hurts more when we’re lonely, and the myth of original sin: Books in brief",
-        "link": "https://www.nature.com/articles/d41586-026-02264-3",
-        "pubDate": "2026-07-17",
-        "description": "Nature, Published online: 17 July 2026; doi:10.1038/d41586-026-02264-3 Andrew Robinson reviews five of the best science picks.",
-        "title_cn": "为什么当我们孤独时疼痛会更痛苦，以及原罪的神话：书籍简介"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "茅台涨了100元，白酒还欠3000亿",
+        "link": "https://36kr.com/p/3905234473158279?f=rss",
+        "pubDate": "2026-07-21 18:50:01  +0800",
+        "description": "作者&nbsp;|&nbsp; 谢芸子 编辑&nbsp;|&nbsp; 张帆 茅台涨价也没能“扶起”白酒的颓势。 7月21日发稿前，贵州茅台股价回落1.47%至每股1308元；万得白酒指数也同步下跌1.47%至2926.9。 就在一个交易日前，受飞天茅台提价影响，整个白酒板块“高开高走”。古井贡酒涨停，包括贵州茅台、泸州老窖在内的诸多酒企皆涨超5%。 短短一天之内，市场情绪迅速降温，在消化提价利好后，投资者又开始重新审视白酒行业的结构性困境。 此次提价发生在7月18日。 当日起，2026年飞天53度500ml贵州茅台酒的官方零售价，由每瓶1539元调整为1639元，销售合同价由每瓶1269元上"
+      },
+      {
+        "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
+        "link": "https://36kr.com/p/3905176863721349?f=rss",
+        "pubDate": "2026-07-21 17:34:21  +0800",
+        "description": "&nbsp; 文 | 李炤锋 编辑 | 张雨忻 智能涌现独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓凯接任负责人，全面负责PICO业务。 据了解，此次管理交接不会影响PICO既定的战略方向、研发工作和产品计划。今年，PICO将按计划带来全新的混合现实（MR）产品。 作为 PICO 创始人，周宏伟在过去11年间为PICO的成长作出了重要贡献。PICO 内部已发布通知，确认周宏伟将离开公司，对周宏伟的长期投入与付出表示感谢。 李晓凯拥有多年消费电子及硬件产品研发与管理经验。自2021年加入PICO以来，他负责P"
+      },
       {
         "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
         "link": "https://36kr.com/p/3905169127114368?f=rss",
@@ -82,7 +94,7 @@
         "description": "参与门槛超简单，全程仅需 10 秒 打开下方抽奖小程序，简单操作两步就能解锁抽奖资格： 进入36氪企业全情报小程序快速体验，耗时不超10秒。 任选一家企业完成订阅 完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！ 扫描下方二维码即可参与，或直接点击参与： https://wxmpurl.cn/SjVCZt8Enro 扫码参与抽奖！ 🎁豪华奖品池，中奖好物全实拍 🥇一等奖：iPhone 17 Pro&nbsp; 苹果旗舰手机，质感拉满，日常办公、娱乐一步到位，本次活动重磅头奖！&nbsp; 🥈二等奖：小米REDMI蓝牙音箱2 居家好物，语音操控、听歌听资讯，小巧不占空间，提升"
       },
       {
-        "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
+        "title": "小产品逆袭，大产品���位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
         "link": "https://36kr.com/p/3905036594628224?f=rss",
         "pubDate": "2026-07-21 15:04:06  +0800",
         "description": "文丨树果贝 编辑丨果脯 假设你是一名游戏发行方，手头经费有限，必须从 小黑盒、B站、小红书 三大社交平台选其一来着重宣传自家新游，你会选谁？ 单凭直觉看，不少人应该会先吐槽「选项设置压根不合理」，这就像在问巴西、德国和国足在世界杯上谁最可能夺冠。与其他两家相比，小红书乍一看压根就没有可比性，凭什么能成为选项之一？ 此话倒也不假。 小黑盒早期依靠PUBG的爆火起家，后续凭借数据查询、社交氛围、游戏销售等服务，积累了大量垂直游戏用户，断层式领先其他同类竞品。此外，他们也有着最为成熟的一体化宣发路径，单在APP上，产品就能完成「曝光—搜索—转化」这整套流程。 而B站更是国内用户耳熟能详的存在。它从早"
@@ -98,31 +110,26 @@
         "link": "https://36kr.com/p/3904785488136070?f=rss",
         "pubDate": "2026-07-21 10:33:43  +0800",
         "description": "本文约3100字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。 7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。 芯天下是谁？一家2014年成立于深圳的无晶圆厂（Fabless）存储芯片公司，主打代码型闪存芯片，即NOR Flash和SLC NAND Flash，这类芯片专门存储设备启动和运行的代码，放进路由器、扫地机、智能家居、工业设备里。"
-      },
-      {
-        "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
-        "link": "https://36kr.com/p/3904783876982405?f=rss",
-        "pubDate": "2026-07-21 10:32:15  +0800",
-        "description": "本文约2800字，建议阅读6分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。 近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在 全球市占率80.3% ，前三名合计91.8%，而第二名只有6.6%。即使放宽到整个工业永磁电驱解决方案行业，它也以11.1%的份额连续三年全球第一。 一个细分赛道近乎垄断的隐形冠军，在395页招股书里藏着多少秘密，硬氪进行了一一拆解。 三年账面赚"
-      },
-      {
-        "title": "上市前夜 | “喜羊羊”老板二冲港股IPO，奥动新能源近三年半亏掉14.7亿",
-        "link": "https://36kr.com/p/3904781968508550?f=rss",
-        "pubDate": "2026-07-21 10:30:15  +0800",
-        "description": "本文约2800字，建议阅读6分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第七期—— 奥动新能源 。 7月19日，奥动新能源再次向港交所主板递交上市申请，独家保荐人为招银国际。事实上，这已是奥动新能源的第二次递表，首次递表在2025年12月12日，但6个月未通过聆讯就失效了。 有意思的是这家公司实控人——奥动新能源董事长、总经理蔡东青，今年57岁，1997年创办了奥飞娱乐（002292.SZ）并任董事长兼总经理至今，奥飞娱乐出品过《喜羊羊与灰太狼》。2016年6月，他与换电技术老"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "EVs Take 67.0% Share In Sweden – Volvo EX40 Leads",
+        "title": "EVs Take 67.0% Share In Sweden — Volvo EX40 Leads",
         "link": "https://cleantechnica.com/2026/07/21/evs-take-67-0-share-in-sweden-volvo-ex40-leads/",
         "pubDate": "Tue, 21 Jul 2026 08:34:23 +0000",
         "description": "The second quarter of 2026 saw plugin EVs take 67.0% share in Sweden, up from 62.5% in Q2 2025. BEV share grew strongly year on year (YoY), and PHEVs also grew. Overall Q2 auto volume was 79,891 units, up some 22% YoY. The Volvo EX40 was again the best-selling BEV ... [continued] The post EVs Take 6",
-        "title_cn": "电动汽车在瑞典占67.0%的份额–沃尔沃EX40领先"
+        "title_cn": "电动汽车在瑞典占67.0%的份额—沃尔沃EX40领先"
+      },
+      {
+        "title": "Hyundai Motor Group Expands Korea’s Hydrogen Ecosystem with First Group-Operated Waste-To-Hydrogen Facility",
+        "link": "https://cleantechnica.com/2026/07/21/hyundai-motor-group-expands-koreas-hydrogen-ecosystem-with-first-group-operated-waste-to-hydrogen-facility/",
+        "pubDate": "Tue, 21 Jul 2026 08:30:34 +0000",
+        "description": "Hyundai Motor Group opens HTWO ENERGY Cheongju, its first Group-operated waste-to-hydrogen (W2H) production and refueling facility HTWO ENERGY Cheongju supports localized hydrogen production and use, reducing transportation costs and enhancing regional energy self-sufficiency Equipped with biogas up",
+        "title_cn": "现代汽车集团通过首个集团运营的废弃物制氢设施扩展韩国的氢生态系统"
       },
       {
         "title": "EV Sales Rebound In Trump’s Nemesis, The Entire State Of California",
@@ -165,20 +172,20 @@
         "pubDate": "Mon, 20 Jul 2026 18:54:51 +0000",
         "description": "Across the country, governors and state lawmakers are facing the same challenge: electricity demand is rising, power bills are increasing, and constituents expect solutions. Increasingly, policymakers from both parties are arriving at the same answer. Solar and energy storage are among the fastest, ",
         "title_cn": "6个国家在2026年中期在智能能源政策方面领先美国"
-      },
-      {
-        "title": "Asia-Pacific Races to Build a $50B Clean Power Grid to Feed AI Boom",
-        "link": "https://cleantechnica.com/2026/07/20/asia-pacific-races-to-build-a-50b-clean-power-grid-to-feed-ai-boom/",
-        "pubDate": "Mon, 20 Jul 2026 18:38:59 +0000",
-        "description": "The race to dominate artificial intelligence is forcing Asia and the Pacific into an infrastructure buildout unlike any in its history, with electricity grids emerging as the next strategic battleground. The Asian Development Bank is betting that the region cannot sustain the coming wave of AI data ",
-        "title_cn": "亚太地区竞相建设$ 500亿清洁电网，为人工智能热潮提供电力"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Towards technology-smart green industrial policy",
+        "link": "https://www.nature.com/articles/s41560-026-02110-w",
+        "pubDate": "2026-07-21",
+        "description": "Nature Energy, Published online: 21 July 2026; doi:10.1038/s41560-026-02110-w Identifying future winning energy technologies is increasingly important as governments design green industrial policy. By evaluating technology characteristics, policymakers can strategically pick winning technologies tha",
+        "title_cn": "迈向科技智慧型绿色产业政策"
+      },
       {
         "title": "Challenges and trends in automotive battery recycling",
         "link": "https://www.nature.com/articles/s41560-026-02092-9",
@@ -227,25 +234,18 @@
         "pubDate": "2026-07-13",
         "description": "Nature Energy, Published online: 13 July 2026; doi:10.1038/s41560-026-02096-5 Zinc-based batteries could offer long-duration energy storage, yet conventional zinc electrodes degrade during cycling. Now, a flowing zinc slurry battery is developed with zinc nanoparticles dispersed in a conductive netw",
         "title_cn": "配体受限锌浆实现了持久的基于流动的储能"
-      },
-      {
-        "title": "Early-stage local chemistry regulation enabling open-circuit voltage of 847 mV in wide-bandgap Cu 2 ZnSnS 4 solar cells",
-        "link": "https://www.nature.com/articles/s41560-026-02111-9",
-        "pubDate": "2026-07-13",
-        "description": "Nature Energy, Published online: 13 July 2026; doi:10.1038/s41560-026-02111-9 Elemental diffusion in Cu2ZnSnS4 induces secondary phases and defects, limiting the open-circuit voltage in associated solar cells. Wang et al. introduce two-stage copper incorporation to suppress copper out-diffusion, ena",
-        "title_cn": "早期局部化学调节，可在宽带隙Cu 2 ZnSnS 4太阳能电池中实现847 mV的开路电压"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "全球氢能产业迈向规模化应用关键期 - 星岛环球",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpR3ppVzNVdkpoRFM1TUwzVks3Z1NMUHZGb3NDaHJxNjdWM1BwdWpYanFvV0YyUXBQaXJXbXlNUnRzLWVpRDd2bFA2V0xlQUJ4N0UxV3RPOEVGdTFpaTZUNFBjOW40Rmc?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 01:33:00 GMT",
-        "description": "全球氢能产业迈向规模化应用关键期 &nbsp;&nbsp; 星岛环球"
+        "title": "地缘冲突凸显氢能的能源安全战略价值 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbm5EbzUya2pYRGlZVk1yVHBDV3BobkRCWU1ZcTQ3bGJ4SFhJYXFWRDFRamtSWVlwVVphY1hBZFl6RFB6eVJiTVVhZkx3Si1YUEMzaEh3?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 09:40:44 GMT",
+        "description": "地缘冲突凸显氢能的能源安全战略价值 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "EU Hydrogen Investment Stalls as RFNBO Rule Review Slips to Autumn",
-        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/eu-hydrogen-investment-stalls-as-rfnbo-rule-review-slips-to-autumn",
-        "pubDate": "Mon, 20 Jul 2026 16:28:09 GMT",
+        "title": "Clean, Quiet, Efficient: Research Team at DHBW Mannheim Develops the Hydrogen Compressor of the Future",
+        "link": "https://fuelcellsworks.com/2026/07/21/h2/clean-quiet-efficient-research-team-at-dhbw-mannheim-develops-the-hydrogen-compressor-of-the-future",
+        "pubDate": "Tue, 21 Jul 2026 15:07:57 GMT",
         "description": "",
-        "title_cn": "欧盟氢能投资停滞不前， RFNBO规则审查推迟到秋季"
+        "title_cn": "清洁、安静、高效： DHBW曼海姆研究团队开发未来氢压缩机"
       },
       {
-        "title": "Germany Plans to Cut Offshore and Grid-Supporting Electrolysis Funding From 2027 Climate Budget",
-        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/germany-plans-to-cut-offshore-and-grid-supporting-electrolysis-funding-from-2027-climate-budget",
-        "pubDate": "Mon, 20 Jul 2026 15:59:25 GMT",
+        "title": "Repsol Hydrogen Projects Move Into Spain’s €183 Million Funding Pipeline After Iberdrola Withdrawals",
+        "link": "https://fuelcellsworks.com/2026/07/21/h2/repsol-hydrogen-projects-move-into-spain-s-183-million-funding-pipeline-after-iberdrola-withdrawals",
+        "pubDate": "Tue, 21 Jul 2026 14:44:08 GMT",
         "description": "",
-        "title_cn": "德国计划从2027年气候预算中削减海上和电网支持电解资金"
+        "title_cn": "Repsol Hydrogen项目在Iberdrola提款后进入西班牙1.83亿欧元的资金管道"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: July 13-July 17, 2, 2026",
-        "link": "https://fuelcellsworks.com/2026/07/18/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-july-13-july-17-2-2026",
-        "pubDate": "Mon, 20 Jul 2026 15:58:01 GMT",
+        "title": "Can Hydrogen Crack the Heavy-Truck Market? Dongfeng Liuzhou Files Its New Chenglong Fuel Cell Tractor",
+        "link": "https://fuelcellsworks.com/2026/07/13/fuel-cells/can-hydrogen-crack-the-heavy-truck-market-dongfeng-liuzhou-files-its-new-chenglong-fuel-cell-tractor",
+        "pubDate": "Tue, 21 Jul 2026 14:32:22 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年7月13日至7月17日、2日"
+        "title_cn": "氢能破解重型卡车市场吗？东风柳州备案新型成龙燃料电池拖拉机"
       },
       {
-        "title": "GreenH Electrolysis Develops Hydrogen Production and Refuelling Station",
-        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/greenh-electrolysis-develops-hydrogen-production-and-refuelling-station",
-        "pubDate": "Mon, 20 Jul 2026 15:48:06 GMT",
+        "title": "Switch Maritime Secures Grant-Backed Financing to Accelerate Hydrogen Ferry Deployment",
+        "link": "https://fuelcellsworks.com/2026/07/21/fuel-cells/switch-maritime-secures-grant-backed-financing-to-accelerate-hydrogen-ferry-deployment",
+        "pubDate": "Tue, 21 Jul 2026 14:22:42 GMT",
         "description": "",
-        "title_cn": "GreenH Electrolysis开发氢气生产和加氢站"
+        "title_cn": "Switch Maritime获得赠款支持的融资，以加快氢能轮渡的部署"
       },
       {
-        "title": "China's Hydrogen Industry Has Passed the 'Valley of Death,' Says Leading Scientist",
-        "link": "https://fuelcellsworks.com/2026/07/19/h2/sure-here-is-the-translation-of-your-provided-japanese-text-into-english-japanese-2030-english-hydrogen-energy-industry-could-experience-explosive-growth-after-2030-china",
-        "pubDate": "Mon, 20 Jul 2026 15:38:41 GMT",
+        "title": "Green Hydrogen Costs Rise Again as Price Gap With Conventional Hydrogen Widens",
+        "link": "https://fuelcellsworks.com/2026/07/21/h2/green-hydrogen-costs-rise-again-as-price-gap-with-conventional-hydrogen-widens",
+        "pubDate": "Tue, 21 Jul 2026 14:06:34 GMT",
         "description": "",
-        "title_cn": "领先的科学家说，中国的氢能行业已经通过了“死亡谷”"
+        "title_cn": "随着与传统氢气价格差距的扩大，绿色氢气成本再次上升"
       },
       {
-        "title": "Primary Hydrogen Corp Appoints David Jackson as Chief Executive Officer",
-        "link": "https://fuelcellsworks.com/2026/07/20/education/primary-hydrogen-corp-appoints-david-jackson-as-chief-executive-officer",
-        "pubDate": "Mon, 20 Jul 2026 15:37:55 GMT",
+        "title": "Loughborough University Hosts UK-Japan Hydrogen Summit Calling for Urgent Shift to Net Zero",
+        "link": "https://fuelcellsworks.com/2026/07/21/h2/loughborough-university-hosts-uk-japan-hydrogen-summit-calling-for-urgent-shift-to-net-zero",
+        "pubDate": "Tue, 21 Jul 2026 14:04:09 GMT",
         "description": "",
-        "title_cn": "Primary Hydrogen Corp任命David Jackson为首席执行官"
+        "title_cn": "拉夫堡大学主办英日氢能峰会，呼吁紧急转向净零排放"
       },
       {
-        "title": "GKN Aerospace Marks Successful Completion of H2GEAR Programme",
-        "link": "https://fuelcellsworks.com/2026/07/20/energy-innovation/gkn-aerospace-marks-successful-completion-of-h2gear-programme",
-        "pubDate": "Mon, 20 Jul 2026 15:26:52 GMT",
+        "title": "China: Electrolyzer Capacity Report : July 20, 2026",
+        "link": "https://fuelcellsworks.com/2026/07/18/electrolyzer/china-electrolyzer-capacity-report-july-20-2026",
+        "pubDate": "Tue, 21 Jul 2026 13:40:06 GMT",
         "description": "",
-        "title_cn": "GKN Aerospace标志着H2GEAR计划的成功完成"
+        "title_cn": "中国：电解槽产能报告： 2026年7月20日"
       },
       {
-        "title": "Green Hydrogen in the Port of Rotterdam Moves Closer with Selection of Enapter’s AEM Nexus 2500",
-        "link": "https://fuelcellsworks.com/2026/07/20/green-hydrogen/green-hydrogen-in-the-port-of-rotterdam-moves-closer-with-selection-of-enapter-s-aem-nexus-2500",
-        "pubDate": "Mon, 20 Jul 2026 15:16:29 GMT",
+        "title": "Hydrogen Pitstop Offers Hands-On Hydrogen Experiences for the Whole Family During Rally Week in Jyväskylä",
+        "link": "https://fuelcellsworks.com/2026/07/21/energy-innovation/hydrogen-pitstop-offers-hands-on-hydrogen-experiences-for-the-whole-family-during-rally-week-in-jyvaskyla",
+        "pubDate": "Tue, 21 Jul 2026 13:25:07 GMT",
         "description": "",
-        "title_cn": "通过选择Enapter的AEM Nexus 2500 ，鹿特丹港的绿色氢气走得更近"
+        "title_cn": "Hydrogen Pitstop在于韦斯屈莱的拉力赛周期间为全家人提供实践氢能体验"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-21 09:23 UTC"
+    "updated": "2026-07-21 15:28 UTC"
   }
 }
