@@ -9,6 +9,20 @@
         "title_cn": "大胆和好战有关系吗？"
       },
       {
+        "title": "Faintest planet ever spotted from Earth has been hiding in plain sight",
+        "link": "https://www.nature.com/articles/d41586-026-02210-3",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02210-3 Method used to discover an exoplanet called Beta Pictoris d might reveal other very dim exoplanets.",
+        "title_cn": "从地球上发现的最微弱的行星一直隐藏在显而易见的地方"
+      },
+      {
+        "title": "Moving floors keep buildings from swaying with the wind",
+        "link": "https://www.nature.com/articles/d41586-026-02258-1",
+        "pubDate": "2026-07-21",
+        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02258-1 A construction design inspired by traditional Japanese pagodas could help to keep modern towers safe.",
+        "title_cn": "移动地板可防止建筑物随风摇曳"
+      },
+      {
         "title": "Oil and gas drilling is shifting to the deep sea — here’s what is at stake",
         "link": "https://www.nature.com/articles/d41586-026-02232-x",
         "pubDate": "2026-07-21",
@@ -42,24 +56,10 @@
         "pubDate": "2026-07-21",
         "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02281-2 ‘Kimi K3’ can match or outperform cutting-edge models, says Moonshot AI. But its large size might limit uptake.",
         "title_cn": "中国最新的人工智能模型终于等于美国的竞争对手了吗？科学家们怎么想"
-      },
-      {
-        "title": "Don’t let AI steal all the joy: what scientists won’t give up to chatbots",
-        "link": "https://www.nature.com/articles/d41586-026-02213-0",
-        "pubDate": "2026-07-21",
-        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02213-0 Nature asked readers of the Nature Briefing what they like about their job and don’t want to hand over.",
-        "title_cn": "不要让人工智能窃取所有快乐：科学家不会放弃聊天机器人"
-      },
-      {
-        "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
-        "link": "https://www.nature.com/articles/d41586-026-02211-2",
-        "pubDate": "2026-07-20",
-        "description": "Nature, Published online: 20 July 2026; doi:10.1038/d41586-026-02211-2 Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts.",
-        "title_cn": "欧洲湿地的详细地图揭示了被忽视的生态系统"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Groups Take First Step Toward Lawsuit Against TVA Over Clean Air Act Violations at Kingston Site",
+        "link": "https://cleantechnica.com/2026/07/21/groups-take-first-step-toward-lawsuit-against-tva-over-clean-air-act-violations-at-kingston-site/",
+        "pubDate": "Tue, 21 Jul 2026 18:09:42 +0000",
+        "description": "TVA’s unlawful actions come after utility reversed its decision to shutter Kingston coal plant KINGSTON, Tennessee — On Monday, the Southern Environmental Law Center, on behalf of Appalachian Voices and the Sierra Club, sent a notice of intent to sue to the Tennessee Valley Authority, warning the fe",
+        "title_cn": "团体迈出第一步，对金斯敦工厂违反《清洁空气法》的TVA提起诉讼"
+      },
+      {
+        "title": "Conservation Groups Plan to Sue Trump Over Attempts to Eliminate Protections for Threatened Species & Favor Corporate Interests Instead of Science",
+        "link": "https://cleantechnica.com/2026/07/21/conservation-groups-plan-to-sue-trump-over-attempts-to-eliminate-protections-for-threatened-species-favor-corporate-interests-instead-of-science/",
+        "pubDate": "Tue, 21 Jul 2026 18:05:46 +0000",
+        "description": "Rulemakings are latest in series of attacks on Endangered Species Act WASHINGTON, D.C. — Conservation groups notified the Trump administration of their plans to challenge two rulemakings weakening the Endangered Species Act (ESA) that were finalized today. One rule deprives newly listed threatened a",
+        "title_cn": "保护组织计划起诉特朗普，试图取消对受威胁物种的保护，并青睐企业利益而不是科学"
+      },
+      {
+        "title": "35.5%! LONGi Once Again Breaks World Record for Crystalline Silicon-Perovskite Tandem Solar Cell Efficiency",
+        "link": "https://cleantechnica.com/2026/07/21/35-5-longi-once-again-breaks-world-record-for-crystalline-silicon-perovskite-tandem-solar-cell-efficiency/",
+        "pubDate": "Tue, 21 Jul 2026 17:53:34 +0000",
+        "description": "At the 2026 Solar and Energy Storage Innovation Conference, LONGi officially announced that its independently developed crystalline silicon-perovskite tandem solar cell has achieved a conversion efficiency of 35.5%, certified by the European Solar Test Installation (ESTI), once again setting a new w",
+        "title_cn": "35.5% ！ LONGi再次打破结晶硅-钙钛矿串联太阳能电池效率的世界纪录"
+      },
+      {
+        "title": "Pennsylvania Passes Solar Decommissioning Legislation to Ensure Sustainable Energy Development",
+        "link": "https://cleantechnica.com/2026/07/21/pennsylvania-passes-solar-decommissioning-legislation-to-ensure-sustainable-energy-development/",
+        "pubDate": "Tue, 21 Jul 2026 16:52:35 +0000",
+        "description": "WASHINGTON, D.C. and HARRISBURG — Pennsylvania Governor Josh Shapiro signed the bipartisan Senate Bill 349, which sets a statewide framework for decommissioning ground-mounted solar projects at the end of a project’s useful life. The law ensures that solar developers, not landowners, are responsible",
+        "title_cn": "宾夕法尼亚州通过太阳能退役立法，确保可持续能源发展"
+      },
+      {
+        "title": "Fossil Fuel Money Behind Republican Hysteria Over Canadian Wildfire Smoke",
+        "link": "https://cleantechnica.com/2026/07/21/fossil-fuel-money-behind-republican-hysteria-over-canadian-wildfire-smoke/",
+        "pubDate": "Tue, 21 Jul 2026 16:46:53 +0000",
+        "description": "America&#8217;s Jack*** In Chief has taken to his private social media channel to lambaste Canada for allowing its forests to burn. Yesterday, this failed leader imposed new 50 percent tariffs on lots of Canadian products, claiming (as usual) without evidence that Canada is discriminating against US",
+        "title_cn": "共和党人对加拿大野火烟雾的歇斯底里背后的化石燃料资金"
+      },
       {
         "title": "EVs Take 67.0% Share In Sweden — Volvo EX40 Leads",
         "link": "https://cleantechnica.com/2026/07/21/evs-take-67-0-share-in-sweden-volvo-ex40-leads/",
@@ -137,45 +172,10 @@
         "pubDate": "Tue, 21 Jul 2026 03:39:17 +0000",
         "description": "EV sales rebounded in California in Q2 2026, despite US President Donald Trump's persistent attacks on EVs in general, and California in particular. The post EV Sales Rebound In Trump&#8217;s Nemesis, The Entire State Of California appeared first on CleanTechnica .",
         "title_cn": "特朗普的克星，整个加利福尼亚州的电动汽车销售反弹"
-      },
-      {
-        "title": "The Big ICE Meltdown — June’s China EV Sales Report",
-        "link": "https://cleantechnica.com/2026/07/20/the-big-ice-meltdown-junes-china-ev-sales-report/",
-        "pubDate": "Tue, 21 Jul 2026 01:07:43 +0000",
-        "description": "Petrol model sales crash 42% in June! High gas prices and a never ending wave of new models has allowed June to reach record EV market share, with plugins reaching a record 63%! However, while record market share was achieved in the past thanks to strong EV sales, this time, ... [continued] The post",
-        "title_cn": "大冰融化--6月中国电动汽车销量报告"
-      },
-      {
-        "title": "Sierra Club Condemns Congressional Effort to Attack California’s Waivers Protecting Clean Air",
-        "link": "https://cleantechnica.com/2026/07/20/sierra-club-condemns-congressional-effort-to-attack-californias-waivers-protecting-clean-air/",
-        "pubDate": "Tue, 21 Jul 2026 01:06:27 +0000",
-        "description": "WASHINGTON, D.C. — Today, House Republican Representative Harriet Hageman introduced legislation under the Congressional Review Act (CRA) to revoke California&#8217;s Clean Air Act waiver allowing the state to enforce stronger than federal greenhouse gas standards for vehicles. This legislation targ",
-        "title_cn": "塞拉俱乐部谴责国会努力攻击加利福尼亚州保护清洁空气的豁免"
-      },
-      {
-        "title": "Court Orders EPA to Implement National Soot Standard",
-        "link": "https://cleantechnica.com/2026/07/20/court-orders-epa-to-implement-national-soot-standard/",
-        "pubDate": "Tue, 21 Jul 2026 01:04:03 +0000",
-        "description": "The U.S. District Court for the Northern District of California ruled on Friday that the U.S. Environmental Protection Agency (EPA) must follow the law and implement the strengthened health-based 2024 National Ambient Air Quality Standard (NAAQS) for particulate matter (PM2.5) air pollution, commonl",
-        "title_cn": "法院命令EPA实施国家烟尘标准"
-      },
-      {
-        "title": "Despite Political Headwinds, Wind Power Keeps Insisting Upon Itself",
-        "link": "https://cleantechnica.com/2026/07/20/wind-power-us-pennsylvania-exus-repowering-coal-mines/",
-        "pubDate": "Mon, 20 Jul 2026 19:05:23 +0000",
-        "description": "US President Donald Trump swept back into office on a mission to destroy thousands of construction jobs and disrupt private sector investments in the domestic wind industry. Why? Who knows! Fortunately for some job seekers, the effort to curtail wind power in the US has been only partially successfu",
-        "title_cn": "尽管存在政治阻力，但风力发电仍在坚持"
-      },
-      {
-        "title": "6 States Leading the USA on Smart Energy Policy Halfway through 2026",
-        "link": "https://cleantechnica.com/2026/07/20/6-states-leading-the-usa-on-smart-energy-policy-halfway-through-2026/",
-        "pubDate": "Mon, 20 Jul 2026 18:54:51 +0000",
-        "description": "Across the country, governors and state lawmakers are facing the same challenge: electricity demand is rising, power bills are increasing, and constituents expect solutions. Increasingly, policymakers from both parties are arriving at the same answer. Solar and energy storage are among the fastest, ",
-        "title_cn": "6个国家在2026年中期在智能能源政策方面领先美国"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,69 +291,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Clean, Quiet, Efficient: Research Team at DHBW Mannheim Develops the Hydrogen Compressor of the Future",
-        "link": "https://fuelcellsworks.com/2026/07/21/h2/clean-quiet-efficient-research-team-at-dhbw-mannheim-develops-the-hydrogen-compressor-of-the-future",
-        "pubDate": "Tue, 21 Jul 2026 15:07:57 GMT",
+        "title": "EU Hydrogen Investment Stalls as RFNBO Rule Review Slips to Autumn",
+        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/eu-hydrogen-investment-stalls-as-rfnbo-rule-review-slips-to-autumn",
+        "pubDate": "Mon, 20 Jul 2026 16:28:09 GMT",
         "description": "",
-        "title_cn": "清洁、安静、高效： DHBW曼海姆研究团队开发未来氢压缩机"
+        "title_cn": "欧盟氢能投资停滞不前， RFNBO规则审查推迟到秋季"
       },
       {
-        "title": "Repsol Hydrogen Projects Move Into Spain’s €183 Million Funding Pipeline After Iberdrola Withdrawals",
-        "link": "https://fuelcellsworks.com/2026/07/21/h2/repsol-hydrogen-projects-move-into-spain-s-183-million-funding-pipeline-after-iberdrola-withdrawals",
-        "pubDate": "Tue, 21 Jul 2026 14:44:08 GMT",
+        "title": "Germany Plans to Cut Offshore and Grid-Supporting Electrolysis Funding From 2027 Climate Budget",
+        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/germany-plans-to-cut-offshore-and-grid-supporting-electrolysis-funding-from-2027-climate-budget",
+        "pubDate": "Mon, 20 Jul 2026 15:59:25 GMT",
         "description": "",
-        "title_cn": "Repsol Hydrogen项目在Iberdrola提款后进入西班牙1.83亿欧元的资金管道"
+        "title_cn": "德国计划从2027年气候预算中削减海上和电网支持电解资金"
       },
       {
-        "title": "Can Hydrogen Crack the Heavy-Truck Market? Dongfeng Liuzhou Files Its New Chenglong Fuel Cell Tractor",
-        "link": "https://fuelcellsworks.com/2026/07/13/fuel-cells/can-hydrogen-crack-the-heavy-truck-market-dongfeng-liuzhou-files-its-new-chenglong-fuel-cell-tractor",
-        "pubDate": "Tue, 21 Jul 2026 14:32:22 GMT",
+        "title": "Fuel Cell and Hydrogen News Highlights From China: July 13-July 17, 2, 2026",
+        "link": "https://fuelcellsworks.com/2026/07/18/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-july-13-july-17-2-2026",
+        "pubDate": "Mon, 20 Jul 2026 15:58:01 GMT",
         "description": "",
-        "title_cn": "氢能破解重型卡车市场吗？东风柳州备案新型成龙燃料电池拖拉机"
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年7月13日至7月17日、2日"
       },
       {
-        "title": "Switch Maritime Secures Grant-Backed Financing to Accelerate Hydrogen Ferry Deployment",
-        "link": "https://fuelcellsworks.com/2026/07/21/fuel-cells/switch-maritime-secures-grant-backed-financing-to-accelerate-hydrogen-ferry-deployment",
-        "pubDate": "Tue, 21 Jul 2026 14:22:42 GMT",
+        "title": "GreenH Electrolysis Develops Hydrogen Production and Refuelling Station",
+        "link": "https://fuelcellsworks.com/2026/07/20/electrolyzer/greenh-electrolysis-develops-hydrogen-production-and-refuelling-station",
+        "pubDate": "Mon, 20 Jul 2026 15:48:06 GMT",
         "description": "",
-        "title_cn": "Switch Maritime获得赠款支持的融资，以加快氢能轮渡的部署"
+        "title_cn": "GreenH Electrolysis开发氢气生产和加氢站"
       },
       {
-        "title": "Green Hydrogen Costs Rise Again as Price Gap With Conventional Hydrogen Widens",
-        "link": "https://fuelcellsworks.com/2026/07/21/h2/green-hydrogen-costs-rise-again-as-price-gap-with-conventional-hydrogen-widens",
-        "pubDate": "Tue, 21 Jul 2026 14:06:34 GMT",
+        "title": "China's Hydrogen Industry Has Passed the 'Valley of Death,' Says Leading Scientist",
+        "link": "https://fuelcellsworks.com/2026/07/19/h2/sure-here-is-the-translation-of-your-provided-japanese-text-into-english-japanese-2030-english-hydrogen-energy-industry-could-experience-explosive-growth-after-2030-china",
+        "pubDate": "Mon, 20 Jul 2026 15:38:41 GMT",
         "description": "",
-        "title_cn": "随着与传统氢气价格差距的扩大，绿色氢气成本再次上升"
+        "title_cn": "领先的科学家说，中国的氢能行业已经通过了“死亡谷”"
       },
       {
-        "title": "Loughborough University Hosts UK-Japan Hydrogen Summit Calling for Urgent Shift to Net Zero",
-        "link": "https://fuelcellsworks.com/2026/07/21/h2/loughborough-university-hosts-uk-japan-hydrogen-summit-calling-for-urgent-shift-to-net-zero",
-        "pubDate": "Tue, 21 Jul 2026 14:04:09 GMT",
+        "title": "Primary Hydrogen Corp Appoints David Jackson as Chief Executive Officer",
+        "link": "https://fuelcellsworks.com/2026/07/20/education/primary-hydrogen-corp-appoints-david-jackson-as-chief-executive-officer",
+        "pubDate": "Mon, 20 Jul 2026 15:37:55 GMT",
         "description": "",
-        "title_cn": "拉夫堡大学主办英日氢能峰会，呼吁紧急转向净零排放"
+        "title_cn": "Primary Hydrogen Corp任命David Jackson为首席执行官"
       },
       {
-        "title": "China: Electrolyzer Capacity Report : July 20, 2026",
-        "link": "https://fuelcellsworks.com/2026/07/18/electrolyzer/china-electrolyzer-capacity-report-july-20-2026",
-        "pubDate": "Tue, 21 Jul 2026 13:40:06 GMT",
+        "title": "GKN Aerospace Marks Successful Completion of H2GEAR Programme",
+        "link": "https://fuelcellsworks.com/2026/07/20/energy-innovation/gkn-aerospace-marks-successful-completion-of-h2gear-programme",
+        "pubDate": "Mon, 20 Jul 2026 15:26:52 GMT",
         "description": "",
-        "title_cn": "中国：电解槽产能报告： 2026年7月20日"
+        "title_cn": "GKN Aerospace标志着H2GEAR计划的成功完成"
       },
       {
-        "title": "Hydrogen Pitstop Offers Hands-On Hydrogen Experiences for the Whole Family During Rally Week in Jyväskylä",
-        "link": "https://fuelcellsworks.com/2026/07/21/energy-innovation/hydrogen-pitstop-offers-hands-on-hydrogen-experiences-for-the-whole-family-during-rally-week-in-jyvaskyla",
-        "pubDate": "Tue, 21 Jul 2026 13:25:07 GMT",
+        "title": "Green Hydrogen in the Port of Rotterdam Moves Closer with Selection of Enapter’s AEM Nexus 2500",
+        "link": "https://fuelcellsworks.com/2026/07/20/green-hydrogen/green-hydrogen-in-the-port-of-rotterdam-moves-closer-with-selection-of-enapter-s-aem-nexus-2500",
+        "pubDate": "Mon, 20 Jul 2026 15:16:29 GMT",
         "description": "",
-        "title_cn": "Hydrogen Pitstop在于韦斯屈莱的拉力赛周期间为全家人提供实践氢能体验"
+        "title_cn": "通过选择Enapter的AEM Nexus 2500 ，鹿特丹港的绿色氢气走得更近"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-21 15:28 UTC"
+    "updated": "2026-07-21 22:47 UTC"
   }
 }
