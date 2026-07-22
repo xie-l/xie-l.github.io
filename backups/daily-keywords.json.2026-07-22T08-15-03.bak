@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-22",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "反应工程",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>研究化学反应器的设计、优化和放大的工程学科，将实验室发现的催化反应转化为工业可行的生产装置，是“从实验室到工厂”的关键桥梁。",
+      "example": "<strong>举例：</strong>电解槽从10cm²实验室电极放大到1m²工业级电极，不只是简单等比放大——需要解决传质、热管理、材料均匀性等一系列工程问题，这就是反应工程的核心挑战。"
+    },
+    {
+      "id": 2,
+      "term": "技术成熟度",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>TRL（Technology Readiness Level），NASA提出的9级量表，衡量技术从基础研究到商业部署的成熟程度，是投资和政策决策的重要参考。",
+      "example": "<strong>举例：</strong>PEM电解制氢约TRL7-8（已有商业化产品但成本偏高）；固态储氢约TRL4-5（实验室验证阶段）；TRL越低，技术风险越大但潜在收益也越高。"
+    },
+    {
+      "id": 3,
+      "term": "置信区间",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>以样本统计量为基础，对总体参数真值的一个范围估计，置信水平通常取95%，意味着100次估计中约95次覆盖真值。",
+      "example": "<strong>举例：</strong>测量5个催化剂样品过电位为320±15mV（95%CI），意味着真实总体均值以95%概率落在305-335mV之间，而非确定为320mV。"
+    },
+    {
+      "id": 4,
+      "term": "碳捕集利用",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>CCUS（Carbon Capture, Utilization and Storage），捕获工业排放的CO₂并将其储存或转化为有用产品的技术，是碳中和路径的重要补充。",
+      "example": "<strong>举例：</strong>将电厂烟气中的CO₂捕集后注入地下咸水层储存，或转化为甲醇、乙烯等化学品——CCUS可以让化石能源“带着枷锁”继续运行。"
+    },
+    {
+      "id": 5,
+      "term": "期权思维",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>将决策视为“购买未来选择权”而非“承诺固定路径”的战略框架，强调保持灵活性、在不确定性中保留多条路径。",
+      "example": "<strong>举例：</strong>同时布局碱性和PEM两条技术路线，表面上分散了资源，实则是“购买了技术路线选择的期权”——路线胜出后可以快速押注，代价是短期效率稍低。"
+    }
+  ]
+}
