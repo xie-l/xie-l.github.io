@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Polio should have been eradicated by now. What’s plan B?",
+        "link": "https://www.nature.com/articles/d41586-026-02229-6",
+        "pubDate": "2026-07-22",
+        "description": "Nature, Published online: 22 July 2026; doi:10.1038/d41586-026-02229-6 Amid funding cuts and political barriers, researchers are asking whether the campaign can ever succeed, and what to do next.",
+        "title_cn": "脊髓灰质炎现在应该已经根除了。什么是B计划？"
+      },
+      {
         "title": "Are boldness and belligerence related?",
         "link": "https://www.nature.com/articles/d41586-026-02103-5",
         "pubDate": "2026-07-21",
@@ -49,20 +56,43 @@
         "pubDate": "2026-07-21",
         "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02215-y The ‘24-hour rule’ and other tips from sport can improve lab life.",
         "title_cn": "耐力运动教会我成为更好的研究者的七种方式"
-      },
-      {
-        "title": "Does China’s latest AI model finally equal US rivals? What scientists think",
-        "link": "https://www.nature.com/articles/d41586-026-02281-2",
-        "pubDate": "2026-07-21",
-        "description": "Nature, Published online: 21 July 2026; doi:10.1038/d41586-026-02281-2 ‘Kimi K3’ can match or outperform cutting-edge models, says Moonshot AI. But its large size might limit uptake.",
-        "title_cn": "中国最新的人工智能模型终于等于美国的竞争对手了吗？科学家们怎么想"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
+        "link": "https://36kr.com/p/3906523265914245?f=rss",
+        "pubDate": "2026-07-22 16:02:33  +0800",
+        "description": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。超擎数智创始人兼CEO唐春峰在WAIC现场接受36氪「氪话未来」特邀专访，围绕人工智能推理应用落地、软硬一体全栈解决方案、行业应用实践等话题，分享了超擎从软件、硬件到行业部署的整体布局，以及如何通过技术方案提升AI应用效率、降低企业落地成本。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加"
+      },
+      {
+        "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
+        "link": "https://36kr.com/p/3906499484996742?f=rss",
+        "pubDate": "2026-07-22 15:38:55  +0800",
+        "description": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。润建股份董事、副总裁丁永在WAIC现场接受36氪「氪话未来」特邀专访，围绕Token生产、应用落地、价值闭环及出海布局等话题，分享了润建股份打造Token全栈服务能力、推动企业级AI落地的探索。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在关注一个更加核心的问题：AI如何真正进入企业业务流程"
+      },
+      {
+        "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
+        "link": "https://36kr.com/p/3906468088042886?f=rss",
+        "pubDate": "2026-07-22 15:06:04  +0800",
+        "description": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。 团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大"
+      },
+      {
+        "title": "BW2026结束后，留给了B站什么？",
+        "link": "https://36kr.com/p/3905618377512065?f=rss",
+        "pubDate": "2026-07-22 14:36:04  +0800",
+        "description": "文丨刘士武 Bilibili World 2026开幕当天，我和同事果脯从国家会展中心走进展馆逛了一大圈后，发现今年BW确实和以往有所不同。 我们在4馆“BW游先看”展位前停下，那是果脯刚逛过一轮主舞台、回到试玩区的瞬间。他问了一句：“你说B站游戏今年是不是在悄悄变化？”那天我们没聊完，但这个问题让我回去想了一周。 一周后再回看，BW2026留给我们最清晰的印象不是B站“重新押注游戏”，而是B站确实在游戏这件事上开始多点开花。它不是某一个重磅产品的单独爆点，而是一组同时在往前走的项目、一条有意识的独游扶持路径、一种把平台生态反向灌给游戏内容的姿态。 挤满游戏厂商的BW 今年BW的国际化色彩更强"
+      },
+      {
+        "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
+        "link": "https://36kr.com/p/3906428262618241?f=rss",
+        "pubDate": "2026-07-22 14:25:05  +0800",
+        "description": "本文约3400字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第八期—— 芯迈 。 昨日，一家名为「芯迈」的功率半导体公司，第三次向港交所递交了招股书（前两次为2025年6月、2026年1月），华泰担任 独家保荐人 。 芯迈的核心业务是 功率半导体 ，采用 虚拟IDM 模式——不自建晶圆厂，但战略投资并持有主要代工伙伴杭州富芯半导体约16.76%股权。既要无晶圆厂的轻资产，又要IDM的工艺整合。 其产品分三块：移动PMIC、显示PMIC、功率器件。按第三方口径， 20"
+      },
       {
         "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
         "link": "https://36kr.com/p/3905241313527687?f=rss",
@@ -80,43 +110,20 @@
         "link": "https://36kr.com/p/3905234473158279?f=rss",
         "pubDate": "2026-07-21 18:50:01  +0800",
         "description": "作者&nbsp;|&nbsp; 谢芸子 编辑&nbsp;|&nbsp; 张帆 茅台涨价也没能“扶起”白酒的颓势。 7月21日发稿前，贵州茅台股价回落1.47%至每股1308元；万得白酒指数也同步下跌1.47%至2926.9。 就在一个交易日前，受飞天茅台提价影响，整个白酒板块“高开高走”。古井贡酒涨停，包括贵州茅台、泸州老窖在内的诸多酒企皆涨超5%。 短短一天之内，市场情绪迅速降温，在消化提价利好后，投资者又开始重新审视白酒行业的结构性困境。 此次提价发生在7月18日。 当日起，2026年飞天53度500ml贵州茅台酒的官方零售价，由每瓶1539元调整为1639元，销售合同价由每瓶1269元上"
-      },
-      {
-        "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
-        "link": "https://36kr.com/p/3905176863721349?f=rss",
-        "pubDate": "2026-07-21 17:34:21  +0800",
-        "description": "&nbsp; 文 | 李炤锋 编辑 | 张雨忻 智能涌现独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓凯接任负责人，全面负责PICO业务。 据了解，此次管理交接不会影响PICO既定的战略方向、研发工作和产品计划。今年，PICO将按计划带来全新的混合现实（MR）产品。 作为 PICO 创始人，周宏��在过去11年间为PICO的成长作出了重要贡献。PICO 内部已发布通知，确认周宏伟将离开公司，对周宏伟的长期投入与付出表示感谢。 李晓凯拥有多年消费电子及硬件产品研发与管理经验。自2021年加入PICO以来，他负责"
-      },
-      {
-        "title": "圆桌论坛：夏天周而复始·VC3.0| 36氪WAVES2026新浪潮",
-        "link": "https://36kr.com/p/3905169127114368?f=rss",
-        "pubDate": "2026-07-21 17:05:17  +0800",
-        "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。 今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。” 冯大刚｜36氪CEO（圆桌主持人） 王啸｜九合创投 创始人 刘缨｜软"
-      },
-      {
-        "title": "氪星晚报｜英特尔将在数据中心部门裁员；日产在美召回超16万辆阿曼达及英菲尼迪SUV；我国将建设3000个以上电动重卡充换电站",
-        "link": "https://36kr.com/p/3905124154721925?f=rss",
-        "pubDate": "2026-07-21 16:43:23  +0800",
-        "description": "大公司： 日产在美召回超16万辆阿曼达及英菲尼迪SUV 美国国家公路交通安全管理局（NHTSA）7月21日公布，日产北美公司正在召回部分配备22英寸轮毂的2020至2026款阿曼达（Armada）、2011至2013款英菲尼迪QX56以及2014至2027款英菲尼迪QX80车型，涉及约16.8万辆汽车。由于车辆认证标签上的总轴重额定值（GAWR）标注错误，可能导致车辆超载，车辆超载会增加发生碰撞的风险。 Meta与英伟达联手布局AI材料供应链 社交媒体巨头Meta与芯片制造商英伟达周一宣布，共同参与一家英国AI初创公司的材料发现项目，旨在为半导体行业寻找新型制造材料。该初创公司此前已获得亚马逊"
-      },
-      {
-        "title": "10秒就能抽 IPhone 17 Pro！36氪企业全情报小程序福利抽奖来了！",
-        "link": "https://36kr.com/p/3905042192189318?f=rss",
-        "pubDate": "2026-07-21 15:49:39  +0800",
-        "description": "参与门槛超简单，全程仅需 10 秒 打开下方抽奖小程序，简单操作两步就能解锁抽奖资格： 进入36氪企业全情报小程序快速体验，耗时不超10秒。 任选一家企业完成订阅 完成以上操作，直接免费获得抽奖机会，不用充值、不用拉人，人人可参与！ 扫描下方二维码即可参与，或直接点击参与： https://wxmpurl.cn/SjVCZt8Enro 扫码参与抽奖！ 🎁豪华奖品池，中奖好物全实拍 🥇一等奖：iPhone 17 Pro&nbsp; 苹果旗舰手机，质感拉满，日常办公、娱乐一步到位，本次活动重磅头奖！&nbsp; 🥈二等奖：小米REDMI蓝牙音箱2 居家好物，语音操控、听歌听资讯，小巧不占空间，提升"
-      },
-      {
-        "title": "小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 | 游戏风向标",
-        "link": "https://36kr.com/p/3905036594628224?f=rss",
-        "pubDate": "2026-07-21 15:04:06  +0800",
-        "description": "文丨树果贝 编辑丨果脯 假设你是一名游戏发行方，手头经费有限，必须从 小黑盒、B站、小红书 三大社交平台选其一来着重宣传自家新游，你会选谁？ 单凭直觉看，不少人应该会先吐槽「选项设置压根不合理」，这就像在问巴西、德国和国足在世界杯上谁最可能夺冠。与其他两家相比，小红书乍一看压根就没有可比性，凭什么能成为选项之一？ 此话倒也不假。 小黑盒早期依靠PUBG的爆火起家，后续凭借数据查询、社交氛围、游戏销售等服务，积累了大量垂直游戏用户，断层式领先其他同类竞品。此外，他们也有着最为成熟的一体化宣发路径，单在APP上，产品就能完成「曝光—搜索—转化」这整套流程。 而B站更是国内用户耳熟能详的存在。它从早"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Next Wave Of Perovskite Solar Cell Innovation: See-Through Solar Windows",
+        "link": "https://cleantechnica.com/2026/07/22/perovskite-solar-cells-invisible-solar-power-window-glass/",
+        "pubDate": "Wed, 22 Jul 2026 06:34:45 +0000",
+        "description": "The global solar industry has been taking off like a rocket while relying primarily on silicon, a material first introduced back in 1954. Now a new wave of 21st century materials is poised to turbo-boost solar power into the next level, with perovskite solar cells front and center. Perovskites are .",
+        "title_cn": "钙钛矿太阳能电池创新的下一波浪潮：透视太阳能窗"
+      },
       {
         "title": "US EV Market Down 21% in Q2 2026, But ….",
         "link": "https://cleantechnica.com/2026/07/21/us-ev-market-down-21-in-q2-2026-but/",
@@ -165,17 +172,10 @@
         "pubDate": "Wed, 22 Jul 2026 01:00:11 +0000",
         "description": "EU Commission identifies grids as a bottleneck for electrification, promising to standardise vehicle-to-grid (V2G) technology The EU Commission has announced an electrification target of 46% by 2040 — doubling the current level. Accelerating electrification is crucial if Europe is to reduce its reli",
         "title_cn": "欧盟支持电气化，使欧洲更加安全"
-      },
-      {
-        "title": "Groups Take First Step Toward Lawsuit Against TVA Over Clean Air Act Violations at Kingston Site",
-        "link": "https://cleantechnica.com/2026/07/21/groups-take-first-step-toward-lawsuit-against-tva-over-clean-air-act-violations-at-kingston-site/",
-        "pubDate": "Tue, 21 Jul 2026 18:09:42 +0000",
-        "description": "TVA’s unlawful actions come after utility reversed its decision to shutter Kingston coal plant KINGSTON, Tennessee — On Monday, the Southern Environmental Law Center, on behalf of Appalachian Voices and the Sierra Club, sent a notice of intent to sue to the Tennessee Valley Authority, warning the fe",
-        "title_cn": "团体迈出第一步，对金斯敦工厂违反《清洁空气法》的TVA提起诉讼"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,24 +291,10 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "hydrogen": {
     "items": [
-      {
-        "title": "Sánchez's Visit to Algeria: Gas, Green Hydrogen and Friendship Treaty at the Heart of the Discussions",
-        "link": "https://fuelcellsworks.com/2026/07/21/energy-innovation/sanchez-s-visit-to-algeria-gas-green-hydrogen-and-friendship-treaty-at-the-heart-of-the-discussions",
-        "pubDate": "Tue, 21 Jul 2026 16:43:46 GMT",
-        "description": "",
-        "title_cn": "桑切斯对阿尔及利亚的访问：天然气、绿色氢气和友谊条约是讨论的核心"
-      },
-      {
-        "title": "Clean Hydrogen Partnership Selects 13 Hydrogen Valleys for Project Development Assistance",
-        "link": "https://fuelcellsworks.com/2026/07/21/green-investment/clean-hydrogen-partnership-selects-13-hydrogen-valleys-for-project-development-assistance",
-        "pubDate": "Tue, 21 Jul 2026 15:40:17 GMT",
-        "description": "",
-        "title_cn": "清洁氢能合作伙伴选择13个氢能山谷进行项目开发援助"
-      },
       {
         "title": "Clean, Quiet, Efficient: Research Team at DHBW Mannheim Develops the Hydrogen Compressor of the Future",
         "link": "https://fuelcellsworks.com/2026/07/21/h2/clean-quiet-efficient-research-team-at-dhbw-mannheim-develops-the-hydrogen-compressor-of-the-future",
@@ -350,10 +336,24 @@
         "pubDate": "Tue, 21 Jul 2026 14:04:09 GMT",
         "description": "",
         "title_cn": "拉夫堡大学主办英日氢能峰会，呼吁紧急转向净零排放"
+      },
+      {
+        "title": "China: Electrolyzer Capacity Report : July 20, 2026",
+        "link": "https://fuelcellsworks.com/2026/07/18/electrolyzer/china-electrolyzer-capacity-report-july-20-2026",
+        "pubDate": "Tue, 21 Jul 2026 13:40:06 GMT",
+        "description": "",
+        "title_cn": "中国：电解槽产能报告： 2026年7月20日"
+      },
+      {
+        "title": "Hydrogen Pitstop Offers Hands-On Hydrogen Experiences for the Whole Family During Rally Week in Jyväskylä",
+        "link": "https://fuelcellsworks.com/2026/07/21/energy-innovation/hydrogen-pitstop-offers-hands-on-hydrogen-experiences-for-the-whole-family-during-rally-week-in-jyvaskyla",
+        "pubDate": "Tue, 21 Jul 2026 13:25:07 GMT",
+        "description": "",
+        "title_cn": "Hydrogen Pitstop在于韦斯屈莱的拉力赛周期间为全家人提供实践氢能体验"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "policy_nea": {
     "items": [
@@ -452,22 +452,16 @@
         "description": "国家能源局批准三项氢能标准 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eVJlZURSRU9UQ1JlX29vcTJNa2piT3F5ZXRJQWlja3JUSjZObi0xVXg2endRelJvaDAzcll5Y1NpM3VQVWo2OGpiQUJUd1VGWmh6VXhxQ0xWazZza2M4?oc=5",
-        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
-        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eVJlZURSRU9UQ1JlX29vcTJNa2piT3F5ZXRJQWlja3JUSjZObi0xVXg2endRelJvaDAzcll5Y1NpM3VQVWo2OGpiQUJUd1VGWmh6VXhxQ0xWazZza2M4?oc=5",
+        "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+        "description": "国家能源局5位司长密集为氢能“发声” &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -476,14 +470,20 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGcFNUTlJqcmdiRlpiUVJfSk1aX1pjd0s3a1UwajF5bk1kZUF6V0NHdFY3WU5YajU4cllVYzRYX0F0d0V2QXk3M2xIN2hpS2FjbXhNM09DcWtyVTRkY3hJV3czSlVEVFFTeXk3cGRud0dtWEpMcExLcQ?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
+        "title": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZHFub3dlQUJWOHpuMENtaEpDOUxhYlJ1N2dkVXFLZFhxS0FaeUxqakVXUWVVaGhQNFVKZkI5MHNNSWVlc0ZPWGVfd1NIMHdMZFlneERKRDdGalhJQkg1OV9YZw?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+        "description": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; in-en.com"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -524,19 +524,19 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "一周能源政策回顾（7.5-7.11） - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zcEpZeGNiUUZmZUttemtodGdMQUlEakpQN0Q1eXI4d0M3a1RZcTBXMENDYk5nQ1NmZ2pzdzdLcEg0R29hX3pKM05GT01TUjlqUmR0anlaTkZsS25aNFNSQnJB?oc=5",
-        "pubDate": "Sun, 12 Jul 2026 10:32:37 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 手机网易网"
-      },
-      {
         "title": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 - 泉州晚报",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaDFMSWhQcm12bFp2cXNjMFV4bHJmOVpvOERnaFY5dGVpR1Eza005VWdJWk9DdFl4VnhHdy1PT05OX0w3TDlqbmJmTF9tSm5KaWt0ZXRfQWY3dFdpZWFfcl9CM2wwRWVqUDRMTnlYZ1I?oc=5",
         "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
         "description": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 &nbsp;&nbsp; 泉州晚报"
+      },
+      {
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-22 05:13 UTC"
+    "updated": "2026-07-22 09:22 UTC"
   }
 }
