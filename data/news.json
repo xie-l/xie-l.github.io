@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Ebikes Are Perfect for Injury Recovery Exercise",
+        "link": "https://cleantechnica.com/2026/07/22/ebikes-are-perfect-for-injury-recovery-exercise/",
+        "pubDate": "Wed, 22 Jul 2026 18:05:50 +0000",
+        "description": "For those of us getting a bit older, exercise can be a challenge. You exercise a lot because you are supposed to in order to be healthy and because you love it &#8230; but then you end up exercising too much or too hard and get injured. It has happened ... [continued] The post Ebikes Are Perfect for",
+        "title_cn": "电动自行车非常适合受伤康复锻炼"
+      },
+      {
+        "title": "Hooking Up Your House To An EV Is Getting Loads Easier",
+        "link": "https://cleantechnica.com/2026/07/22/ev-batteries-vehicle-home-emergency-backup-power-ford/",
+        "pubDate": "Wed, 22 Jul 2026 18:00:18 +0000",
+        "description": "A new meter attachment makes it easier to deploy EV batteries as home backup power generators in case of an outage. The post Hooking Up Your House To An EV Is Getting Loads Easier appeared first on CleanTechnica .",
+        "title_cn": "将您的房子与电动汽车连接起来，更轻松地装载货物"
+      },
+      {
+        "title": "EVs And The North American Auto Industry — A Canadian Perspective",
+        "link": "https://cleantechnica.com/2026/07/22/evs-and-the-north-american-auto-industry-a-canadian-perspective/",
+        "pubDate": "Wed, 22 Jul 2026 17:40:06 +0000",
+        "description": "A tidal wave of tidbits infiltrates my email inbox every morning. Today I found an interesting story in something called The Walrus, which bills itself as &#8220;Canada&#8217;s Conversation.&#8221; Whether the title is an homage to the Walrus and the Carpenter scene in Alice in Wonderland or a refer",
+        "title_cn": "电动汽车与北美汽车行业--加拿大视角"
+      },
       {
         "title": "China’s Electric Trucks, Diesel’s Peak, and What Western Planners Still Don’t See",
         "link": "https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/",
@@ -151,31 +172,10 @@
         "pubDate": "Wed, 22 Jul 2026 06:34:45 +0000",
         "description": "The global solar industry has been taking off like a rocket while relying primarily on silicon, a material first introduced back in 1954. Now a new wave of 21st century materials is poised to turbo-boost solar power into the next level, with perovskite solar cells front and center. Perovskites are .",
         "title_cn": "钙钛矿太阳能电池创新的下一波浪潮：透视太阳能窗"
-      },
-      {
-        "title": "US EV Market Down 21% in Q2 2026, But ….",
-        "link": "https://cleantechnica.com/2026/07/21/us-ev-market-down-21-in-q2-2026-but/",
-        "pubDate": "Wed, 22 Jul 2026 03:57:13 +0000",
-        "description": "Yes, the USA EV market is still down compared to the year before. US EV sales dropped 21% from 311,536 sales in Q2 2025 to 247,226 sales in Q2 2026. Not great. That said, there are a few positive things to note. For example, this is the best quarter the ... [continued] The post US EV Market Down 21%",
-        "title_cn": "2026年第二季度美国电动汽车市场下跌21% ，但……"
-      },
-      {
-        "title": "Tesla Model Y & Model 3 Dominate US EV Market, But Who Completes The Top 10?",
-        "link": "https://cleantechnica.com/2026/07/21/tesla-model-y-model-3-dominate-us-ev-market-but-who-completes-the-top-10/",
-        "pubDate": "Wed, 22 Jul 2026 03:39:47 +0000",
-        "description": "The United States EV market is an &#8230; interesting market. It is so much less diverse than the Chinese or European EV market, but it has gotten far more models in the past few years. That said, Tesla still dominates the market. It&#8217;s such a given that the Tesla Model ... [continued] The post",
-        "title_cn": "特斯拉Model Y和Model 3主导美国电动汽车市场，但谁完成了前十名？"
-      },
-      {
-        "title": "Candid Chinese EV Conversation With Kim Java & Rich Benoit",
-        "link": "https://cleantechnica.com/2026/07/21/candid-chinese-ev-conversation-with-kim-java-rich-benoit/",
-        "pubDate": "Wed, 22 Jul 2026 03:33:53 +0000",
-        "description": "I recently had a candid conversation about Chinese EVs and their implications with my friends Kim Java and Rich Benoit of Rich Rebuilds while we were all in Munich for the XPENG L03 launch. Don’t let some of the YouTube antics for entertainment value fool you. These are very smart ... [continued] Th",
-        "title_cn": "Kim Java和Rich Benoit坦诚的中国电动车对话"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,16 +254,16 @@
         "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,10 +446,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局批准三项氢能标准 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zcmZSdEVuRExtNGxPdGRvQUF3M2JKeERMRkYwSHdKTUdOc01peXpwTzJva2xfWl9SdG5xNGtSU2ZTSUQ0QTB0SjRha2FvemRvenJHRXZn?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 06:35:01 GMT",
-        "description": "国家能源局批准三项氢能标准 &nbsp;&nbsp; 国际氢能网"
+        "title": "重磅！国家能源局：开展村镇微能网试点，积极发展和利用绿色氢氨醇等绿色燃料 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15N3R0bTB6QXNDd19vODEyZEtrLUJzLUZQaldjN0pMekc5aUxINlloMlhOLVBYUDF5NEVtUnowRzJ3ODlFekR0bFBsQmFnbzB6Zkl2cjBn?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 06:25:47 GMT",
+        "description": "重磅！国家能源局：开展村镇微能网试点，积极发展和利用绿色氢氨醇等绿色燃料 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局5位司长密集为氢能“发声” - 碳索氢能网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -524,10 +524,10 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "一周能源政策回顾（7.5-7.11） - 手机网易网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zcEpZeGNiUUZmZUttemtodGdMQUlEakpQN0Q1eXI4d0M3a1RZcTBXMENDYk5nQ1NmZ2pzdzdLcEg0R29hX3pKM05GT01TUjlqUmR0anlaTkZsS25aNFNSQnJB?oc=5",
-        "pubDate": "Sun, 12 Jul 2026 10:32:37 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 手机网易网"
+        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 - 泉州晚报",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-22 15:26 UTC"
+    "updated": "2026-07-22 22:55 UTC"
   }
 }
