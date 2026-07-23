@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-23",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "MXene",
+      "category": "材料",
+      "definition": "<strong>含义：</strong>二维过渡金属碳化物/氮化物材料，具有金属导电性和亲水表面，是储能和电催化的新型明星材料。",
+      "example": "<strong>举例：</strong>Ti₃C₂ MXene导电性接近铜，表面官能团丰富，可作为HER催化剂载体或直接参与催化，近三年相关论文数量呈指数增长。"
+    },
+    {
+      "id": 2,
+      "term": "沉没成本",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>已经发生且无法收回的成本，理性决策时应忽略沉没成本，只看未来的机会与风险。",
+      "example": "<strong>举例：</strong>做了两周的方案发现方向错了，应果断放弃重来，而不是“因为已经花了这么多时间”而硬撑——这是沉没成本谬误。"
+    },
+    {
+      "id": 3,
+      "term": "弃风弃光",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>因电网消纳能力不足，不得不限制风电或光伏发出的电量，是可再生能源利用率低下的直接体现。",
+      "example": "<strong>举例：</strong>新疆某风场因输电线路不够，夜间大风时被迫弃掉40%的发电量；绿电制氢是消纳弃风弃光的重要出路。"
+    },
+    {
+      "id": 4,
+      "term": "ROI",
+      "category": "经济",
+      "definition": "<strong>含义：</strong>投资回报率（Return on Investment），衡量投入与收益的比率，是企业项目决策和个人学习投入的核心评估指标。",
+      "example": "<strong>举例：</strong>参加一场1000元的培训，学到能让你加薪5000元/年的技能，ROI=400%；而泛泛地刷短视频时间成本高但ROI接近零。"
+    },
+    {
+      "id": 5,
+      "term": "大语言模型",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>以Transformer架构为基础、在海量文本上预训练的AI模型，具备理解、生成和推理自然语言的能力，正在重塑科研、写作、编程等知识工作。",
+      "example": "<strong>举例：</strong>GPT-4能够阅读催化领域论文并提取关键数据；Claude能够帮助写作和分析报告——大模型正在成为研究人员的“AI助理”。"
+    }
+  ]
+}
