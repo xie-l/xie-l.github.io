@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Could small-team science be dying out?",
+        "link": "https://www.nature.com/articles/d41586-026-02174-4",
+        "pubDate": "2026-07-23",
+        "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02174-4 The proportion of one- and two-author papers in the Nature Index is shrinking rapidly, as science done by big teams continues to surge.",
+        "title_cn": "小团队科学会消亡吗？"
+      },
+      {
         "title": "Electronic-resonance enhanced molecule for perovskite solar cells",
         "link": "https://www.nature.com/articles/s41586-026-10919-4",
         "pubDate": "2026-07-22",
@@ -49,74 +56,102 @@
         "pubDate": "2026-07-22",
         "description": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10824-w By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a consta",
         "title_cn": "非外延钙钛矿极化子激光二极管在直流电下工作"
-      },
-      {
-        "title": "Prior therapy defines mutation profiles in childhood cancer at relapse",
-        "link": "https://www.nature.com/articles/s41586-026-10803-1",
-        "pubDate": "2026-07-22",
-        "description": "Nature, Published online: 22 July 2026; doi:10.1038/s41586-026-10803-1 Chemotherapy, particularly with platinum-based drugs, is associated with substantial, rapidly detectable mutagenesis in childhood cancers, tripling private signatures and doubling mutation burden, highlighting therapy-induced tum",
-        "title_cn": "既往治疗定义了复发时儿童癌症的突变谱"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "tech_cn": {
     "items": [
       {
+        "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
+        "link": "https://36kr.com/p/3907676111983745?f=rss",
+        "pubDate": "2026-07-23 12:23:24  +0800",
+        "description": "文｜王欣逸 编辑｜张雨忻 “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。 首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效率智能体产品第一；QClaw方面，相关业务和部分团队在近日也迎来了调整，并入至WorkBuddy所在部门，不过QClaw产品仍将持续运营；上线最晚的Marvis则走出了一条差异化的系统级Agent路线，林松涛"
+      },
+      {
+        "title": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+        "link": "https://36kr.com/p/3907639172027522?f=rss",
+        "pubDate": "2026-07-23 10:57:46  +0800",
+        "description": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。FutureTech负责人张梦钊在WAIC现场接受36氪「氪话未来」特邀专访，围绕FutureTech平台定位、OPC独立先锋挑战赛、AI创业趋势以及初创企业商业化路径等话题，分享了FutureTech如何连接创业团队、产业资源与创新生态，探索AI时代下的新型创业范式。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，"
+      },
+      {
+        "title": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+        "link": "https://36kr.com/p/3906474040153220?f=rss",
+        "pubDate": "2026-07-23 10:30:00  +0800",
+        "description": "硬氪获悉，水下AI自然探索科技公司Deeplore近日完成数千万元种子轮融资，由五源资本、顺为资本联合投资。资金将核心用于研发团队扩建与水下AI技术深耕，加速首款AI潜水面镜落地迭代，搭建水下自然探索智能平台的技术底座。 一群在消费电子行业征战十余年的大疆老兵，把目光从天空转向了深海。 Deeplore 2025年诞生于深圳，核心团队大多出自大疆，覆盖产品定义、硬核研发、全球商业全链路，是典型的“技术+量产+全球化”组合。 更特别的是，三位创始人均是资深潜水与户外运动爱好者：创始人丘力是拥有200+潜次的救援潜水员，也曾任大疆核心结构专家、能源BU负责人，后以森合创新联合创始人身份积累了完整的"
+      },
+      {
+        "title": "对话蚂蚁数科：打造商业智能体超级工厂，生态共建中国行业版Harness标准",
+        "link": "https://36kr.com/p/3907590205085056?f=rss",
+        "pubDate": "2026-07-23 10:09:19  +0800",
+        "description": "7月17日，2026世界人工智能大会（WAIC）在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。蚂蚁数科副总裁、中国区业务发展部总经理孙磊在WAIC现场接受36氪「氪话未来」特邀专访，围绕商业智能体超级工厂、行业垂直大模型、AI工程化能力以及企业智能体落地等话题，分享了蚂蚁数科面向企业智能化升级的最新实践与思考。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加关注一个核心"
+      },
+      {
+        "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+        "link": "https://36kr.com/p/3907536767833473?f=rss",
+        "pubDate": "2026-07-23 09:12:15  +0800",
+        "description": "图源/企业 本文约 2100 字，建议阅读 5 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。 拾玥科技成立于2025年初，专注于为工业制造、精密装配等高精度场景提供灵巧操作解决方案。目前，公司已推出Lumi-Dex系列高自由度灵巧手、Lumi-Tac指型视触觉传感器、Lumi-Mind灵巧操���模型及Lumi-Mod电机模组四大产品线。 团队方面，创始"
+      },
+      {
+        "title": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+        "link": "https://36kr.com/p/3907532622648453?f=rss",
+        "pubDate": "2026-07-23 09:08:03  +0800",
+        "description": "图源/企业 本文约 1400 字，建议阅读 3 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，工业AI设计研发解决方案供应商「设序科技」于近日正式完成B轮超亿元融资，累计获超3亿元融资，投资方包括深产投、合鼎共及老股东涌铧投资等。融资将用于市场开拓（含出海）及核心模型技术研发。 设序科技成立于2020年，旗下产品“则形AI”是基于自研工业世界模型与自然语言大模型封装的面向硬件工程的设计研发智能体平台，提供云架构下的3D设计方案与2D工程图纸智能生成功能。创始人兼CEO吴泳荣为同济大学先进制造方向博士，曾任通用先进制造实验室研究员、蔚来汽车智能制造专家。 相比去年，设序原有的3D生成与2D生成两大产"
+      },
+      {
+        "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
+        "link": "https://36kr.com/p/3907461333144711?f=rss",
+        "pubDate": "2026-07-23 07:58:11  +0800",
+        "description": "今日热点导览 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产 苹果拟推出月租iPhone，支持大多数机型 SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能 康美药业原实控人马兴田夫妇赔付13.96亿元 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来 越疆科技回应招股书举报风波 TOP3大新闻 小红书回应IPO传闻 近日，有较多传言称“小红书已于6月底前秘密提交IPO申请”，但因前员工举报其“上市合规”问题而受阻。7月22日，小红书方面回应界面新闻称，目前流传的IPO相关信息均不属实。（界面新闻） Gemini掉出全球前十 当地时间7月21日，谷歌Deep"
+      },
+      {
         "title": "这届世界杯花钱最狠的人，不懂球丨2026世界杯消费报告",
         "link": "https://36kr.com/p/3906526848144515?f=rss",
         "pubDate": "2026-07-22 17:35:15  +0800",
-        "description": "随着加时赛那粒制胜进球的落下，西班牙时隔16年再次举起大力神杯 ，这场横跨美加墨三国、48支球队的世界杯终于尘埃落定。 这届世界杯从来不缺爆冷、争议和绝少，但比球场更热闹的，是年轻人的钱包。 深夜外卖订单暴涨？联名盲盒开售秒空？球迷酒吧一座难求？ 在这一个来月的世界杯比赛期间，年轻人们究竟为了「这场球」豪掷出多少钱？ 如今赛场的喧嚣散去，翻看这段时间的消费记录，才发现今年看球的画风有些变了。针对这届世界杯年轻人的观赛与消费选择，「后浪研究所」发起了一项世界杯消费小调查，共回收510份有效问卷。 你对世界杯的印象，是不是还停留在定好闹钟熬大夜、在屏幕前从头蹲到尾，但放到今年的美加墨，年轻人的观赛"
-      },
-      {
-        "title": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
-        "link": "https://36kr.com/p/3906606931907971?f=rss",
-        "pubDate": "2026-07-22 17:29:03  +0800",
-        "description": "大公司： 小马智行与京东养车达成战略合作 36氪获悉，7月21日，小马智行与京东养车达成战略合作，双方将围绕自动驾驶车辆维保服务及供应链协同等领域展开深度合作，共同打造面向自动驾驶车队的标准化、规模化运维服务体系。这是自动驾驶公司首次与全国性汽车后市场服务平台建立全面战略合作。 益生股份：2026年上半年净利润3.08亿元，同比增长4897.29% 36氪获悉，益生股份公告，2026年上半年营收16.97亿元，同比增长28.44%；净利润3.08亿元，同比增长4897.29%。公司经董事会审议通过的利润分配预案为：以实施权益分派股权登记日的公司总股本扣除回购专用证券账户中的回购股份为基数，向全"
-      },
-      {
-        "title": "对话超擎数智CEO唐春峰：AI产业竞争正在从模型训练走向推理落地，全栈方案加速企业智能化应用",
-        "link": "https://36kr.com/p/3906523265914245?f=rss",
-        "pubDate": "2026-07-22 16:02:33  +0800",
-        "description": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。超擎数智创始人兼CEO唐春峰在WAIC现场接受36氪「氪话未来」特邀专访，围绕人工智能推理应用落地、软硬一体全栈解决方案、行业应用实践等话题，分享了超擎从软件、硬件到行业部署的整体布局，以及如何通过技术方案提升AI应用效率、降低企业落地成本。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在更加"
-      },
-      {
-        "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
-        "link": "https://36kr.com/p/3906499484996742?f=rss",
-        "pubDate": "2026-07-22 15:38:55  +0800",
-        "description": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。润建股份董事、副总裁丁永在WAIC现场接受36氪「氪话未来」特邀专访，围绕Token生产、应用落地、价值闭环及出海布局等话题，分享了润建股份打造Token全栈服务能力、推动企业级AI落地的探索。 本届WAIC以“智能伙伴，共创未来”为主题。随着人工智能产业进入应用深化阶段，行业关注点正在从模型能力竞争逐步转向应用价值创造。相比过去几年围绕参数规模、模型性能和技术突破的讨论，2026年的AI产业正在关注一个更加核心的问题：AI如何真正进入企业业务流程"
-      },
-      {
-        "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
-        "link": "https://36kr.com/p/3906468088042886?f=rss",
-        "pubDate": "2026-07-22 15:06:04  +0800",
-        "description": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方案部负责人，并创立过规模超百人的矿山自动驾驶公司。 团队自动驾驶基因雄厚，首席科学家为美国康涅狄格大学AI博士及博士后，曾任某自动驾驶独角兽公司的感知预测负责人；智能航行技术VP为法国巴黎萨克雷大学AI硕士，历任Intel算法科学家、驭势科技高级研究员及挚途科技规控部部长；商务合伙人拥有12年华为大"
-      },
-      {
-        "title": "BW2026结束后，留给了B站什么？",
-        "link": "https://36kr.com/p/3905618377512065?f=rss",
-        "pubDate": "2026-07-22 14:36:04  +0800",
-        "description": "文丨刘士武 Bilibili World 2026开幕当天，我和同事果脯从国家会展中心走进展馆逛了一大圈后，发现今年BW确实和以往有所不同。 我们在4馆“BW游先看”展位前停下，那是果脯刚逛过一轮主舞台、回到试玩区的瞬间。他问了一句：“你说B站游戏今年是不是在悄悄变化？”那天我们没聊完，但这个问题让我回去想了一周。 一周后再回看，BW2026留给我们最清晰的印象不是B站“重新押注游戏”，而是B站确实在游戏这件事上开始多点开花。它不是某一个重磅产品的单独爆点，而是一组同时在往前走的项目、一条有意识的独游扶持路径、一种把平台生态反向灌给游戏内容的姿态。 挤满游戏厂商的BW 今年BW的国际化色彩更强"
-      },
-      {
-        "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
-        "link": "https://36kr.com/p/3906428262618241?f=rss",
-        "pubDate": "2026-07-22 14:25:05  +0800",
-        "description": "本文约3400字，建议阅读7分钟 作者&nbsp;|&nbsp;彭孝秋 编者按： 《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第八期—— 芯迈 。 昨日，一家名为「芯迈」的功率半导体公司，第三次向港交所递交了招股书（前两次为2025年6月、2026年1月），华泰担任 独家保荐人 。 芯迈的核心业务是 功率半导体 ，采用 虚拟IDM 模式——不自建晶圆厂，但战略投资并持有主要代工伙伴杭州富芯半导体约16.76%股权。既要无晶圆厂的轻资产，又要IDM的工艺整合。 其产品分三块：移动PMIC、显示PMIC、功率器件。按第三方口径， 20"
-      },
-      {
-        "title": "最前线|新奥聚变主办第四届氢硼聚变研讨会，企业估值已超百亿",
-        "link": "https://36kr.com/p/3905241313527687?f=rss",
-        "pubDate": "2026-07-22 09:30:00  +0800",
-        "description": "7月21日，由北京新奥聚变能源科技有限公司（简称新奥聚变）主办的第四届氢硼聚变研讨会在河北廊坊开幕。 第四届氢硼聚变研讨会现场 作为中国最早开展商用聚变能源开发的民营企业，新奥集团于2017年基于从低碳技术向无碳技术的研发升级，开启“无中子、低成本、商用化”的紧凑型聚变研发，重点布局球形环氢硼聚变技术路线。该技术路线具有清洁安全、燃料易得、成本低廉等优势，具有较大的商业化潜力。 2023年，新奥集团成为国家可控核聚变创新联合体成员，2026年开始参与国际托卡马克物理与工程活动（ITPEA），成为中国首家、全球第二家加入ITPEA的民营企业。同时，它也是国内投入最大、技术参数最领先的民营企业，目"
+        "description": "随着加时赛那粒制胜进球的落下，西班牙时隔16年再次举起大力神杯 ，这场横跨美加墨三国、48支球队的世界杯终于尘埃落定。 这届世界杯从来不缺爆冷、争议和绝少，但比球场更热闹的，是年轻人的钱包。 深夜外卖订单暴涨？联名盲盒开售秒空？球迷酒吧一座难求？ 在这一个来月的世界杯比赛期间，年轻人们究竟为了「这场球」豪掷出多少钱？ 如今赛场的喧嚣散去，翻看这段时间的消费记录，才发现今年看球的画风有些变了。针对这届世界杯年轻人的观赛与消费选择，「后浪研究所」发起了一项世界杯消费小调查，共回收510份有效问卷。 你对世界杯的印象，是不是还停留在定好闹钟熬大夜、在屏幕前从头蹲到尾，但放到今年的美加墨，年��人的观"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Even Under Extreme Warming, ASEAN’s Wind & Solar Generation Variation From Normal Will Be Less Than 1% In 2030",
+        "link": "https://cleantechnica.com/2026/07/22/even-under-extreme-warming-aseans-wind-solar-generation-variation-from-normal-will-be-less-than-1-in-2030/",
+        "pubDate": "Thu, 23 Jul 2026 01:34:27 +0000",
+        "description": "Distributed renewables offer far greater resilience to the power system during extreme climate events than fossil fuel systems. Jakarta — Distributed renewable energy networks are far more resilient to climate shocks and natural disasters than the centralised fossil fuel systems that still dominate ",
+        "title_cn": "即使在极端变暖的情况下， 2030年东盟的风能和太阳能发电量与正常水平的差异也将小于1%"
+      },
+      {
+        "title": "Europe Can Unlock 25 GW of Clean Power by Using Existing Grid Connections",
+        "link": "https://cleantechnica.com/2026/07/22/europe-can-unlock-25-gw-of-clean-power-by-using-existing-grid-connections/",
+        "pubDate": "Thu, 23 Jul 2026 01:25:55 +0000",
+        "description": "Brussels — Europe could add 25 GW of wind and solar to existing hydropower sites across seven EU countries without needing extra grid capacity, according to a new Ember new report. “Political ambitions mean nothing if clean electrons are stranded in connection queues,” said Elisabeth Cremona, Energy",
+        "title_cn": "欧洲可以通过使用现有电网连接来释放25吉瓦的清洁能源"
+      },
+      {
+        "title": "New Report Outlines Priorities for a Cybersecure, American-Made Solar & Storage Industry",
+        "link": "https://cleantechnica.com/2026/07/22/new-report-outlines-priorities-for-a-cybersecure-american-made-solar-storage-industry/",
+        "pubDate": "Thu, 23 Jul 2026 01:21:51 +0000",
+        "description": "The Report Comes as U.S. Rises in Global Manufacturing Rankings, Now Tied as World&#8217;s Second Largest Manufacturer of Inverters WASHINGTON D.C. — The Solar Energy Industries Association (SEIA) today released a new report outlining the industry’s priorities for strengthening cybersecurity while e",
+        "title_cn": "新报告概述了美国制造的网络安全太阳能和存储行业的优先事项"
+      },
+      {
+        "title": "Tesla Climbs Back Above 50% Share of US EV Market — Who’s in 2nd, 3rd, 4th?",
+        "link": "https://cleantechnica.com/2026/07/22/tesla-climbs-back-above-50-share-of-us-ev-market-whos-in-2nd-3rd-4th/",
+        "pubDate": "Thu, 23 Jul 2026 01:16:55 +0000",
+        "description": "The US electric vehicle (EV) market is not in a great place, but it did achieve greater sales in the second quarter than in the two previous quarters. Let&#8217;s look at how things broke out by different auto brands. (Buckle up. This is going to be a bumpy ride.) First ... [continued] The post Tesl",
+        "title_cn": "特斯拉在美国电动汽车市场的份额回升至50 ％以上—谁在第二，第三，第四？"
+      },
+      {
+        "title": "Nearly 4,000 Tennesseans Speak Out Against TVA’s Fossil Fuel-Powered Energy Plan",
+        "link": "https://cleantechnica.com/2026/07/22/nearly-4000-tennesseans-speak-out-against-tvas-fossil-fuel-powered-energy-plan/",
+        "pubDate": "Wed, 22 Jul 2026 22:59:46 +0000",
+        "description": "NASHVILLE — Nearly 4,000 Tennesseans criticized the Tennessee Valley Authority’s energy plan as short-sighted and over reliant on gas. The Sierra Club submitted 3,669 comments on behalf of its supporters as well as its own technical comments on TVA’s 2026 preliminary Integrated Resource Plan, the fe",
+        "title_cn": "近4,000名田纳西州人反对TVA的化石燃料能源计划"
+      },
       {
         "title": "Ebikes Are Perfect for Injury Recovery Exercise",
         "link": "https://cleantechnica.com/2026/07/22/ebikes-are-perfect-for-injury-recovery-exercise/",
@@ -137,45 +172,10 @@
         "pubDate": "Wed, 22 Jul 2026 17:40:06 +0000",
         "description": "A tidal wave of tidbits infiltrates my email inbox every morning. Today I found an interesting story in something called The Walrus, which bills itself as &#8220;Canada&#8217;s Conversation.&#8221; Whether the title is an homage to the Walrus and the Carpenter scene in Alice in Wonderland or a refer",
         "title_cn": "电动汽车与北美汽车行业--加拿大视角"
-      },
-      {
-        "title": "China’s Electric Trucks, Diesel’s Peak, and What Western Planners Still Don’t See",
-        "link": "https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/",
-        "pubDate": "Wed, 22 Jul 2026 15:13:19 +0000",
-        "description": "By Ray Wills and Peter Newman CleanTechnica allows comments, and there are always great comments by readers, as well as the obligatory smattering of naysaying trolls. We thought we might collate and comment on the good stuff that came in on our article &#8220;China’s Electric Truck Moment Has Arrive",
-        "title_cn": "中国电动卡车、Diesel's Peak以及西方规划者仍然看不到的东西"
-      },
-      {
-        "title": "CATL Is Building The Electric-Truck Platform Europe May Have To Join",
-        "link": "https://cleantechnica.com/2026/07/22/catl-electric-truck-platform-europe/",
-        "pubDate": "Wed, 22 Jul 2026 14:34:52 +0000",
-        "description": "Swaptopus is easy to misread as a quirky name for another electric-truck infrastructure project. It is a newly formed joint venture between Octopus Energy and CATL, created to develop automated battery-swapping hubs for heavy trucks across Europe. Octopus is a UK-founded energy and technology group ",
-        "title_cn": "宁德时代正在建设欧洲可能必须加入的电动卡车平台"
-      },
-      {
-        "title": "GAC Aion V & UT Enter Australian Market",
-        "link": "https://cleantechnica.com/2026/07/22/gac-aion-v-ut-enter-australian-market/",
-        "pubDate": "Wed, 22 Jul 2026 13:37:08 +0000",
-        "description": "On our last adventure day to check out the Geely EX2 we managed to find a field of new GAC Aion compact electric cars. What a surprise! We couldn’t resist sitting in the one available, and Majella, of course, took lots of photos. Australia has gone from a dearth of ... [continued] The post GAC Aion ",
-        "title_cn": "GAC Aion V&UT进入澳大利亚市场"
-      },
-      {
-        "title": "It’s Time To Adopt A New Mindset About The Planet",
-        "link": "https://cleantechnica.com/2026/07/22/its-time-to-adopt-a-new-mindset-about-the-planet/",
-        "pubDate": "Wed, 22 Jul 2026 12:30:01 +0000",
-        "description": "Mother Earth provides every material for our survival, so why do we accept corporate promises to adopt healthy environmental solutions? We know that those promises are little more than subterfuge &#8212; after all, astronauts have reported seeing pollution events so large they’ve been spotted from s",
-        "title_cn": "是时候对地球采取新的思维方式了"
-      },
-      {
-        "title": "The Next Wave Of Perovskite Solar Cell Innovation: See-Through Solar Windows",
-        "link": "https://cleantechnica.com/2026/07/22/perovskite-solar-cells-invisible-solar-power-window-glass/",
-        "pubDate": "Wed, 22 Jul 2026 06:34:45 +0000",
-        "description": "The global solar industry has been taking off like a rocket while relying primarily on silicon, a material first introduced back in 1954. Now a new wave of 21st century materials is poised to turbo-boost solar power into the next level, with perovskite solar cells front and center. Perovskites are .",
-        "title_cn": "钙钛矿太阳能电池创新的下一波浪潮：透视太阳能窗"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "energy": {
     "items": [
@@ -237,10 +237,22 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "北京市房山区一行来校洽谈深化校地协同发展 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DblFVZFFjN1g0TjgyVTJPeXMyTnlBczVCbWtkZWZfM2NManI3eHBwSU1CTnZrcUVLcVA0M3p5TGZsS011Y1JhQkktS2N1VUQyU20zS3Y0aUdpUmVObGREek9fWmduZDZpR2hYUm5DYUl5R1RNRHc?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 04:29:19 GMT",
+        "description": "北京市房山区一行来校洽谈深化校地协同发展 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+      },
       {
         "title": "地缘冲突凸显氢能的能源安全战略价值 - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbm5EbzUya2pYRGlZVk1yVHBDV3BobkRCWU1ZcTQ3bGJ4SFhJYXFWRDFRamtSWVlwVVphY1hBZFl6RFB6eVJiTVVhZkx3Si1YUEMzaEh3?oc=5",
@@ -276,22 +288,10 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,83 +353,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Stacky Framework for the Classification of Singular Fibers in Fibered Surfaces",
-        "link": "https://arxiv.org/abs/2607.19347v1",
-        "pubDate": "2026-07-21T17:59:37Z",
-        "description": "We develop a strategy for the classification of singular fibers in smooth fibered surfaces by exploiting the fact that, in the tame case, a fibration with smooth general fiber of genus $g > 1$ corresponds to a representable morphism from a stacky base to $\\overline{\\mathcal{M}}_g$ thanks to the root",
-        "title_cn": "用于纤维表面中单一纤维分类的堆叠框架"
+        "title": "Efficiently Simulable Pauli Correlation Encoding",
+        "link": "https://arxiv.org/abs/2607.20409v1",
+        "pubDate": "2026-07-22T17:49:11Z",
+        "description": "Pauli Correlation Encoding (PCE) is a heuristic framework for binary optimisation that encodes classical variables into many-body Pauli observables. While PCE requires fewer qubits than other approaches, it relies on estimating a large number of Pauli expectation values whose signs determine the var",
+        "title_cn": "高效可模拟泡利相关编码"
       },
       {
-        "title": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
-        "link": "https://arxiv.org/abs/2607.19332v1",
-        "pubDate": "2026-07-21T17:51:38Z",
-        "description": "Generative models have undergone many generations of evolution, from VAEs/GANs to diffusion/flow matching. Along the way, the underlying techniques have become more complicated and various beliefs about what drives strong empirical performance have taken hold. Due to the success of diffusion models ",
-        "title_cn": "ROMS-IMLE ：具有竞争力的单步生成建模的最简方法"
+        "title": "Gas accretion onto the Milky Way: high-velocity cloud survival and the revival of the terminal-velocity paradigm",
+        "link": "https://arxiv.org/abs/2607.20394v1",
+        "pubDate": "2026-07-22T17:28:00Z",
+        "description": "The terminal-velocity paradigm has long been used to interpret the motion and infer the distances of HVCs accreting onto the Milky Way, yet its validity under realistic Galactic conditions remains uncertain. We investigate its dynamical limits by combining analytical modelling with three-dimensional",
+        "title_cn": "银河系的气体吸积：高速云的生存和末端速度范式的复兴"
       },
       {
-        "title": "Efficient strain-space hyperreduction in large-deformation solid mechanics",
-        "link": "https://arxiv.org/abs/2607.19330v1",
-        "pubDate": "2026-07-21T17:51:33Z",
-        "description": "Strain-space model order reduction (MOR) techniques have recently been shown to achieve exceptional performance in terms of the tradeoff between runtime and accuracy achieved in computational homogenisation problems. In this article, we generalise such techniques to problems in large-deformation sol",
-        "title_cn": "大变形固体力学中的高效应变空间超还原"
+        "title": "Probing the High-Energy Emission of the VHE-emitting Changing-Look Blazar B2 1420+32",
+        "link": "https://arxiv.org/abs/2607.20375v1",
+        "pubDate": "2026-07-22T17:04:30Z",
+        "description": "We present a multi-wavelength temporal and spectral study of the changing-look blazar B2~1420+32 using \\emph{Fermi}-LAT, \\emph{Swift}-XRT, and \\emph{Swift}-UVOT data from MJD~58818--60721. The source reached a peak 0.1--300~GeV photon flux of $(4.62 \\pm 0.29) \\times 10^{-6}\\,\\mathrm{ph\\,cm^{-2}\\,s^{",
+        "title_cn": "VHE辐射变样Blazar B2 1420 +32高能辐射探测"
       },
       {
-        "title": "Refined parameters, formation, and dynamical stability of the wild exoplanet system K2-312=HD 80653",
-        "link": "https://arxiv.org/abs/2607.19325v1",
-        "pubDate": "2026-07-21T17:45:09Z",
-        "description": "The architecture of planetary systems hosting ultra-short-period (USP) planets is a key diagnostic for understanding formation and migration scenarios. The presence of outer giant companions in these systems is of particular interest to test theories regarding dynamical effects and pebble accretion.",
-        "title_cn": "野外系外行星系统K2-312 = HD 80653的精细参数、形成和动态稳定性"
+        "title": "Online Variance Reduction for Domain Adaptation on Streaming Data",
+        "link": "https://arxiv.org/abs/2607.20374v1",
+        "pubDate": "2026-07-22T17:04:29Z",
+        "description": "This paper studies the problem of stochastic variance reduction (SVR) for the maximum mean discrepancy (MMD) and correlation alignment (CORAL) loss functions. Although various offline SVR algorithms for these losses have been proposed, these are incompatible with online, distributed, or incremental ",
+        "title_cn": "减少流数据域自适应的在线差异"
       },
       {
-        "title": "Distributed Delay-Based BIST for Mixed-Signal Circuits in Flexible Electronics",
-        "link": "https://arxiv.org/abs/2607.19310v1",
-        "pubDate": "2026-07-21T17:25:56Z",
-        "description": "Flexible electronics (FE) based on indium gallium zinc oxide thin-film transistors (IGZO-TFTs) are emerging for ultra-low-power wearable applications. However, lack of packaging, limited pins, and high device variability make conventional Automatic Test Equipment (ATE) impractical for testing analog",
-        "title_cn": "用于柔性电子中混合信号电路的基于分布式延迟的BIST"
+        "title": "Variance-reduced Domain Adaptation using Paired Sampling",
+        "link": "https://arxiv.org/abs/2607.20367v1",
+        "pubDate": "2026-07-22T16:58:45Z",
+        "description": "Correlation alignment and the maximum mean discrepancy are two widely used distribution-matching frameworks for unsupervised domain adaptation (UDA). However, high variance in these losses has been shown to undermine their effectiveness in minibatch optimisation settings. Furthermore, the losses lac",
+        "title_cn": "使用配对采样的方差减小的域自适应"
       },
       {
-        "title": "Metamodel-based methodology for uncertainty propagation and global sensitivity analysis of tailings dam-breach flows",
-        "link": "https://arxiv.org/abs/2607.19296v1",
-        "pubDate": "2026-07-21T17:04:55Z",
-        "description": "Tailings dam-breach analyses are essential for flood-hazard assessment, emergency planning and risk estimation, but their results are strongly affected by uncertainties in breach development, released volume and tailings rheology. This study proposes an efficient probabilistic methodology that integ",
-        "title_cn": "基于元模型的尾矿坝溃坝流不确定性传播和全局敏感性分析方法"
+        "title": "Beyond $j=1$: Observational Constraints on Almost-$Λ$CDM Cosmologies",
+        "link": "https://arxiv.org/abs/2607.20348v1",
+        "pubDate": "2026-07-22T16:33:14Z",
+        "description": "The cosmographic condition $j(z)=1$ provides the kinematical signature of the spatially flat $Λ$CDM model independently of any specific dark-energy or modified-gravity theory. We investigate the extent to which current observations permit departures from this condition by considering three phenomeno",
+        "title_cn": "超越$ j = 1 $ ：几乎的观测约束- $ Ω $ CDM宇宙学"
       },
       {
-        "title": "Eversion-based robots can enable safe access,steering and endoscopic imaging within the spinal subarachnoid space",
-        "link": "https://arxiv.org/abs/2607.19274v1",
-        "pubDate": "2026-07-21T16:46:00Z",
-        "description": "Safe navigation within the spinal subarachnoid space is constrained by its narrow, compliant, and delicate anatomy. Conventional catheters and continuum robots rely on proximal pushing, generating friction and shear along the tissue device interface that limit distal controllability and increase the",
-        "title_cn": "基于Eversion的机器人可以在脊柱蛛网膜下腔内实现安全访问、转向和内窥镜成像"
+        "title": "Probing the temperature dependence of dielectric function of ternary transition metal dichalcogenides: towards thermo-driven ultrathin photonic components",
+        "link": "https://arxiv.org/abs/2607.20344v1",
+        "pubDate": "2026-07-22T16:30:28Z",
+        "description": "Transition metal dichalcogenides (TMDs), along with their ternary derivatives, have attracted considerable attention mostly due to pronounced excitonic resonances emerging in visible (Vis) and near-infrared (NIR) spectral regions, enabling strong light-matter interaction. Nevertheless, a comprehensi",
+        "title_cn": "三元过渡金属二硫族化物介电函数的温度依赖性探讨：朝向热驱动超薄光子元件"
       },
       {
-        "title": "GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models",
-        "link": "https://arxiv.org/abs/2607.19270v1",
-        "pubDate": "2026-07-21T16:41:59Z",
-        "description": "The Traffic Assignment Problem is a fundamental but computationally expensive component of transportation planning. While Graph Neural Networks have emerged as fast, data-driven surrogates, their practical deployment is severely constrained by a spatial generalization gap. Standard models rely on tr",
-        "title_cn": "基于GNN的模型中空间可转移性的引导网络无关特征初始化"
+        "title": "Monopoles, Strings, Walls and Gravitational waves",
+        "link": "https://arxiv.org/abs/2607.20340v1",
+        "pubDate": "2026-07-22T16:28:15Z",
+        "description": "The gauge symmetry breaking $SU(2) \\to U(1) \\to Z_2 \\to 1$ successively produces monopoles, strings and domain walls bounded by strings (WBS), with the elementary monopole carrying a $U(1)$ magnetic flux twice as large as the elementary string. The elementary strings and subsequently WBS emit gravit",
+        "title_cn": "单极、弦、壁和重力波"
       },
       {
-        "title": "They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface",
-        "link": "https://arxiv.org/abs/2607.19267v1",
-        "pubDate": "2026-07-21T16:38:32Z",
-        "description": "We study a five-agent CI/CD pipeline (triage -> developer -> security-scan -> review -> approve/deploy), built from five distinct production LLMs across three providers, behind an LLM firewall in shadow mode. A single untrusted input - an external issue requesting a \"usage-telemetry\" feature - asks ",
-        "title_cn": "他们会验证。他们只是不会采取行动。权限框架和洗钱代码如何将受信任的代理CI/CD管道转变为攻击面"
+        "title": "Interacting Dark Energy and Dark Matter in O(3) No-Scale Gravity",
+        "link": "https://arxiv.org/abs/2607.20320v1",
+        "pubDate": "2026-07-22T16:05:26Z",
+        "description": "Dark Energy (DE) and Dark Matter (DM) are among the greatest mysteries in particle physics and cosmology, since their origins remain unclear. It is intriguing to consider whether both may originate from a purely gravitational sector. We propose that they arise from degrees of freedom associated with",
+        "title_cn": "O （ 3 ）无尺度引力中暗能量与暗物质的相互作用"
       },
       {
-        "title": "Non-Archimedean Rigidity and Uniformity for Common Preperiodic Points",
-        "link": "https://arxiv.org/abs/2607.19252v1",
-        "pubDate": "2026-07-21T16:22:17Z",
-        "description": "Let $k$ be an algebraically closed, complete non-Archimedean field of residue characteristic $0$. Let $f$ be a polynomial of degree at least $2$ over $k$ which does not have potential good reduction. We prove that if $g$ is any other polynomial with the same Julia set, then $f$ and $g$ must be dynam",
-        "title_cn": "常见周期前点的非阿基米德刚性和均匀性"
+        "title": "Higher Superspace Supergravity and its IR-Completions",
+        "link": "https://arxiv.org/abs/2607.20312v1",
+        "pubDate": "2026-07-22T15:58:12Z",
+        "description": "It is an old idea that higher-dimensional super-gravity (SuGra) is put on-shell just by imposing Bianchi identities on super-field strengths over super-spacetimes subject to super-torsion constraints. We give a modernized, rigorous account and review recent developments, pointing out how this perspe",
+        "title_cn": "更高的超空间超引力及其IR完成"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -447,7 +447,7 @@
       },
       {
         "title": "重磅！国家能源局：开展村镇微能网试点，积极发展和利用绿色氢氨醇等绿色燃料 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15N3R0bTB6QXNDd19vODEyZEtrLUJzLUZQaldjN0pMekc5aUxINlloMlhOLVBYUDF5NEVtUnowRzJ3ODlFekR0bFBsQmFnbzB6Zkl2cjBn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zWXFSLUVBVjFMTkFkN3VvUm5IdDFsblVKY1A3ekVpM3lyWUpWTE13TUFKM3NuVzZFdVNaWFUwb1dZYnRVSE9yamtYOWhwSTlHakpycA?oc=5",
         "pubDate": "Mon, 20 Jul 2026 06:25:47 GMT",
         "description": "重磅！国家能源局：开展村镇微能网试点，积极发展和利用绿色氢氨醇等绿色燃料 &nbsp;&nbsp; 国际氢能网"
       },
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZHFub3dlQUJWOHpuMENtaEpDOUxhYlJ1N2dkVXFLZFhxS0FaeUxqakVXUWVVaGhQNFVKZkI5MHNNSWVlc0ZPWGVfd1NIMHdMZFlneERKRDdGalhJQkg1OV9YZw?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; in-en.com"
+        "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -524,19 +524,19 @@
         "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
       },
       {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 - 泉州晚报",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaDFMSWhQcm12bFp2cXNjMFV4bHJmOVpvOERnaFY5dGVpR1Eza005VWdJWk9DdFl4VnhHdy1PT05OX0w3TDlqbmJmTF9tSm5KaWt0ZXRfQWY3dFdpZWFfcl9CM2wwRWVqUDRMTnlYZ1I?oc=5",
         "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
         "description": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 &nbsp;&nbsp; 泉州晚报"
+      },
+      {
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-22 22:55 UTC"
+    "updated": "2026-07-23 05:18 UTC"
   }
 }
