@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+        "link": "https://www.nature.com/articles/s41586-026-10911-y",
+        "pubDate": "2026-07-24",
+        "description": "Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
+        "title_cn": "作者更正：侧隔中特定于特征的威胁编码指导防御行动"
+      },
+      {
         "title": "Personalized gene therapy relieves severe epilepsy in two boys",
         "link": "https://www.nature.com/articles/d41586-026-02267-0",
         "pubDate": "2026-07-24",
@@ -14,6 +21,20 @@
         "pubDate": "2026-07-24",
         "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.",
         "title_cn": "简报聊天：霸王龙宝宝从出生起就是杀手，暗示了新的化石"
+      },
+      {
+        "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
+        "link": "https://www.nature.com/articles/d41586-026-02268-z",
+        "pubDate": "2026-07-24",
+        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.",
+        "title_cn": "奇怪的CRISPR酶通过切碎癌细胞的DNA来杀死癌细胞"
+      },
+      {
+        "title": "White House rolls out AI funding — and signals a new era for US science",
+        "link": "https://www.nature.com/articles/d41586-026-02332-8",
+        "pubDate": "2026-07-24",
+        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
+        "title_cn": "白宫推出人工智能资金—并标志着美国科学的新时代"
       },
       {
         "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
@@ -35,31 +56,10 @@
         "pubDate": "2026-07-23",
         "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02280-3 Trump administration takes action to address ‘forever students’.",
         "title_cn": "国际博士生在美国将面临严格的时间限制"
-      },
-      {
-        "title": "Breathalyser can tell if you are burning fat from a single exhalation",
-        "link": "https://www.nature.com/articles/d41586-026-02295-w",
-        "pubDate": "2026-07-23",
-        "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02295-w The compact device can measure when the body is in ketosis and could help people to manage weight loss.",
-        "title_cn": "呼吸器可以判断您是否正在从单次呼气中燃烧脂肪"
-      },
-      {
-        "title": "How does Make America Healthy Again hold up against scientific scrutiny?",
-        "link": "https://www.nature.com/articles/d41586-026-02024-3",
-        "pubDate": "2026-07-23",
-        "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02024-3 Researchers share their views on the US health policy spanning topics from vaccines to nutrition.",
-        "title_cn": "“让美国再次健康”如何抵御科学审查？"
-      },
-      {
-        "title": "Humanity spoke thousands of languages at the dawn of farming — now many of them are lost",
-        "link": "https://www.nature.com/articles/d41586-026-02279-w",
-        "pubDate": "2026-07-23",
-        "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02279-w A shift from nomadic lifestyles could have triggered linguistic diversity before it then declined rapidly.",
-        "title_cn": "人类在农业初期说了成千上万种语言，现在很多语言都消失了"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Position Paper on the Connecting Europe through High-Speed Rail Own-Initiative Report",
+        "link": "https://cleantechnica.com/2026/07/24/position-paper-on-the-connecting-europe-through-high-speed-rail-own-initiative-report/",
+        "pubDate": "Fri, 24 Jul 2026 22:47:20 +0000",
+        "description": "The EU Parliament can enhance the ambition of the implementation of the EU Commission plan, but some additional risks in it need to be addressed In November 2025 the European Commission presented its High-Speed Rail Plan, aiming to accelerate the development of high-speed rail across the European Un",
+        "title_cn": "关于通过高速铁路自有倡议报告连接欧洲的立场文件"
+      },
+      {
+        "title": "Ebikes Transform Transportation Options In Hilly Places",
+        "link": "https://cleantechnica.com/2026/07/24/ebikes-transform-transportation-options-in-hilly-places/",
+        "pubDate": "Fri, 24 Jul 2026 21:00:17 +0000",
+        "description": "I&#8217;m a flatlander who was born and raised in Florida. A comment from reader &#8220;Jon&#8217;s Thoughts,&#8221; however, made me realize how much electric bikes (ebikes) are important to enabling more biking in hilly and mountainous places. He wrote: &#8220;In the past we lived on a hill that m",
+        "title_cn": "电动自行车改变丘陵地区的交通选择"
+      },
+      {
+        "title": "Ford Partners With Geely To Produce “Multi-Energy” Cars In Valencia",
+        "link": "https://cleantechnica.com/2026/07/24/ford-partners-with-geely-to-produce-multi-energy-cars-in-valencia/",
+        "pubDate": "Fri, 24 Jul 2026 18:57:57 +0000",
+        "description": "Ford and Geely announced this week that they plan to create a joint venture at Ford&#8217;s assembly plant in Spain to build a new generation of multi-energy vehicles for the European market under both brands. Is &#8220;multi-energy&#8221; another way of saying &#8220;plug-in hybrid&#8221;? Apparent",
+        "title_cn": "福特与吉利合作，在巴伦西亚生产“多能源”汽车"
+      },
+      {
+        "title": "In Lawsuit Society, Elon Musk Still Posts Legally Wrong Nonsense — Because He’s Got Enough Money To Get Away With It",
+        "link": "https://cleantechnica.com/2026/07/24/in-lawsuit-society-elon-musk-still-posts-legally-wrong-nonsense-because-hes-got-enough-money-to-get-away-with-it/",
+        "pubDate": "Fri, 24 Jul 2026 16:52:42 +0000",
+        "description": "Sometimes it&#8217;s very hard to know if Elon Musk is saying something completely idiotic and believing it or is simply lying. At the same time, people hang on every word he says and think his forecasts come from the mind of Einstein or something (in fact, one major investor has ... [continued] The",
+        "title_cn": "在诉讼协会中，埃隆·马斯克（ Elon Musk ）仍然发布了法律上错误的废话—因为他有足够的钱来摆脱它"
+      },
+      {
+        "title": "Germany Is Subsidizing Hydrogen Truck Purchases, Not Battery-Electric Ones",
+        "link": "https://cleantechnica.com/2026/07/24/germany-hydrogen-truck-purchase-subsidy/",
+        "pubDate": "Fri, 24 Jul 2026 15:25:33 +0000",
+        "description": "Germany’s latest hydrogen truck programme attracted 526 applications seeking €455 million from a €220 million funding pool. That has been presented as evidence that hydrogen freight is finally finding a market. A more revealing fact sits inside the programme design: Germany is offering purchase supp",
+        "title_cn": "德国正在补贴氢能卡车的购买，而不是电池电动卡车"
+      },
       {
         "title": "Hyundai Motor Group Launches AllDayEnergy, Its Global V2X Service",
         "link": "https://cleantechnica.com/2026/07/24/hyundai-motor-group-launches-alldayenergy-its-global-v2x-service/",
@@ -137,45 +172,10 @@
         "pubDate": "Fri, 24 Jul 2026 09:11:48 +0000",
         "description": "2026 Q2 saw plugin EVs at 41.4% share in the UK, up from 34.2% in Q2 2025. BEV share grew decently year on year, whilst PHEV share grew modestly. Overall Q2 auto volume was 523,075 units, up some 13% YoY. Tesla was the best-selling BEV brand in Q2. 2026 Q2 ... [continued] The post EVs At 41.4% Share",
         "title_cn": "电动汽车在英国的份额为41.4% —特斯拉领先的BEV品牌"
-      },
-      {
-        "title": "Tesla Stock Down, Tesla EV Market Share Up: What Comes Next?",
-        "link": "https://cleantechnica.com/2026/07/24/tesla-stock-down-ev-market-share-us-competition/",
-        "pubDate": "Fri, 24 Jul 2026 07:01:31 +0000",
-        "description": "The Tesla Robotaxi service is launching in more US cities, but investors were not amused after CEO Elon Musk presented the company's Q2 report. The post Tesla Stock Down, Tesla EV Market Share Up: What Comes Next? appeared first on CleanTechnica .",
-        "title_cn": "特斯拉股价下跌，特斯拉电动汽车市场份额上升：接下来会发生什么？"
-      },
-      {
-        "title": "Renewables Provide More Than 30% of US Electricity",
-        "link": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
-        "pubDate": "Fri, 24 Jul 2026 02:05:53 +0000",
-        "description": "Washington DC — New data just released by the U.S. Energy Information Administration (EIA), and reviewed by the SUN DAY Campaign, reveal growth of more than 10% in electrical generation by renewable energy sources in the first five months of 2026. Moreover, solar, wind, and battery storage are proje",
-        "title_cn": "可再生能源占美国电力供应的30%以上"
-      },
-      {
-        "title": "EV Charging Infrastructure Partnerships Starting to Grow In Kenya",
-        "link": "https://cleantechnica.com/2026/07/23/ev-charging-infrastructure-partnerships-starting-to-grow-in-kenya/",
-        "pubDate": "Fri, 24 Jul 2026 01:57:38 +0000",
-        "description": "Kenya is, surprisingly, one of the countries that is lagging behind when it comes to the adoption of electric cars. One sector that has seen some significant action in Kenya, however, is the electric bus segment, catalysed by innovative pay-as-you-drive programs which are essentially energy as a ser",
-        "title_cn": "肯尼亚电动汽车充电基础设施合作伙伴关系开始增长"
-      },
-      {
-        "title": "Army Corps Sued Again for Failing to Protect Waterways, Endangered Wildlife from Pipeline Construction",
-        "link": "https://cleantechnica.com/2026/07/23/army-corps-sued-again-for-failing-to-protect-waterways-endangered-wildlife-from-pipeline-construction/",
-        "pubDate": "Fri, 24 Jul 2026 01:41:38 +0000",
-        "description": "New Iteration of Nationwide Permit 12 Greenlights Environmental Destruction Washington, D.C. — Environmental groups sued the U.S. Army Corps of Engineers today over the Trump administration’s plan to fast-track the construction of oil and gas pipelines through wetlands, streams and rivers nationwide",
-        "title_cn": "陆军陆战队再次起诉未能保护水道，濒临灭绝的野生动物免受管道建设的影响"
-      },
-      {
-        "title": "EPA Will Allow SRP to Continue to Recklessly Dump Toxic Waste",
-        "link": "https://cleantechnica.com/2026/07/23/epa-will-allow-srp-to-continue-to-recklessly-dump-toxic-waste/",
-        "pubDate": "Fri, 24 Jul 2026 01:18:58 +0000",
-        "description": "Agency Approves Utility Application for its Coal Ash Pond Phoenix, Arizona — EPA today announced that it approved an application from Salt River Project (SRP) for its coal ash pond at the Coronado Generating Station in Apache County. SRP’s application is supposed to demonstrate that the unlined coal",
-        "title_cn": "EPA将允许SRP继续肆无忌惮地倾倒有毒废物"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "energy": {
     "items": [
@@ -237,27 +237,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "北京市房山区一行来校洽谈深化校地协同发展 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DblFVZFFjN1g0TjgyVTJPeXMyTnlBczVCbWtkZWZfM2NManI3eHBwSU1CTnZrcUVLcVA0M3p5TGZsS011Y1JhQkktS2N1VUQyU20zS3Y0aUdpUmVObGREek9fWmduZDZpR2hYUm5DYUl5R1RNRHc?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 04:29:19 GMT",
-        "description": "北京市房山区一行来校洽谈深化校地协同发展 &nbsp;&nbsp; 华北电力大学"
-      },
-      {
-        "title": "全球绿色氢能市场有望快速扩张 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVUjJ1V0ZwdFpsdGptTkZULURPQWZ4UHk0Q0VDaDEyVzVlYmI4RDh1cFl0UnlVbUE4YWNDblRicjdJR05WQnRRRHRNLU5mcFQ0NjZ3TFFR?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 09:41:47 GMT",
-        "description": "全球绿色氢能市场有望快速扩张 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
       {
         "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
         "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
         "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+      },
+      {
+        "title": "地缘冲突凸显氢能的能源安全战略价值 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbm5EbzUya2pYRGlZVk1yVHBDV3BobkRCWU1ZcTQ3bGJ4SFhJYXFWRDFRamtSWVlwVVphY1hBZFl6RFB6eVJiTVVhZkx3Si1YUEMzaEh3?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 09:40:44 GMT",
+        "description": "地缘冲突凸显氢能的能源安全战略价值 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
@@ -288,10 +282,16 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
         "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
+      },
+      {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "papers": {
     "items": [
@@ -429,15 +429,15 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UXRja09lUWI4R2gwSXBkSEhRUkE0Sm5YemRYZGRocVZRaFN4ZWxGX3pUQmJoSkptbkRPWThiYVZuSlFBRlozRk0zaGFsQWpYQzNfRURxSU1sMVpUQTJZ?oc=5",
-        "pubDate": "Fri, 24 Jul 2026 02:13:24 GMT",
-        "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局批准三项氢能标准 - 国际氢能网",
@@ -446,10 +446,10 @@
         "description": "国家能源局批准三项氢能标准 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+        "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPbE96bTVSalVBUTB4VFVDOEh5UXZfd0Q5ODlSQk1PbzR6eUJ1ZUpCdVNkeDhMNVN4ejZENTFzN1F4RXFZTjFoOTJReDhsc29sX1lzSHdZNTRmQjVtcjJ5Rw?oc=5",
+        "pubDate": "Fri, 24 Jul 2026 02:13:24 GMT",
+        "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - 国际氢能网",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 - in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LZHFub3dlQUJWOHpuMENtaEpDOUxhYlJ1N2dkVXFLZFhxS0FaeUxqakVXUWVVaGhQNFVKZkI5MHNNSWVlc0ZPWGVfd1NIMHdMZFlneERKRDdGalhJQkg1OV9YZw?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "重磅！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》 &nbsp;&nbsp; in-en.com"
+        "title": "一周能源政策回顾（7.5-7.11） - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
+        "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; finance.sina.com.cn"
+      },
+      {
+        "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -528,15 +534,9 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yaDFMSWhQcm12bFp2cXNjMFV4bHJmOVpvOERnaFY5dGVpR1Eza005VWdJWk9DdFl4VnhHdy1PT05OX0w3TDlqbmJmTF9tSm5KaWt0ZXRfQWY3dFdpZWFfcl9CM2wwRWVqUDRMTnlYZ1I?oc=5",
         "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
         "description": "绿电直连开启“拼单” 模式 零碳园区加速落地中小企业共享绿电红利2026年05月22 &nbsp;&nbsp; 泉州晚报"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-24 15:21 UTC"
+    "updated": "2026-07-24 22:55 UTC"
   }
 }
