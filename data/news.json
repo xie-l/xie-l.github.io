@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Trump Blames Canada For Smoke From A Climate America Created",
+        "link": "https://cleantechnica.com/2026/07/26/trump-blames-canada-wildfire-smoke-climate/",
+        "pubDate": "Sun, 26 Jul 2026 15:50:39 +0000",
+        "description": "Donald Trump says Canada is poisoning American cities with wildfire smoke. He has told Prime Minister Mark Carney to get the fires under control, demanded compensation and threatened tariffs because smoke from Canadian fires crossed into the United States. The smoke did come from trees burning in Ca",
+        "title_cn": "特朗普指责加拿大从美国创造的气候中吸烟"
+      },
       {
         "title": "We May Be Looking At The Debate About AI & Data Centers All Wrong",
         "link": "https://cleantechnica.com/2026/07/26/we-may-be-looking-at-the-debate-about-ai-data-centers-all-wrong/",
@@ -165,17 +172,10 @@
         "pubDate": "Sat, 25 Jul 2026 16:49:25 +0000",
         "description": "Loganair is Scotland&#8217;s primary regional airline, which means many of its daily flights are relatively short hops of 100 miles or less. That means they are ideal for a short-haul electric airplane like the ALIA CX300 manufactured by BETA Technologies. Recently, Loganair agreed to purchase five ",
         "title_cn": "Loganair同意购买五种BETA技术短程电动飞机"
-      },
-      {
-        "title": "Tesla: $1.1 Billion Negative Free Cash Flow — Betting the Company’s Survival Again?",
-        "link": "https://cleantechnica.com/2026/07/25/tesla-1-1-billion-negative-free-cash-flow-betting-the-companys-survival-again/",
-        "pubDate": "Sat, 25 Jul 2026 14:50:56 +0000",
-        "description": "When Tesla got the Model 3 to mass production and the company finally reached profitability, Elon Musk said that was the last time the company would have to bet the company&#8217;s survival on a difficult product launch. The company would remain profitable forever more. In the 2020s, the company was",
-        "title_cn": "特斯拉： 11亿美元的负自由现金流—再次押注公司的生存？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "energy_cn": {
     "items": [
@@ -260,16 +260,16 @@
         "description": "迎峰度夏大考：氢能如何化身电网“超级充电宝”？ &nbsp;&nbsp; QQ News"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
-        "pubDate": "Mon, 13 Jul 2026 02:35:49 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
+        "pubDate": "Mon, 13 Jul 2026 02:35:49 GMT",
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "policy_nea": {
     "items": [
@@ -476,14 +476,14 @@
         "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
-        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; 国际氢能网"
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-26 14:58 UTC"
+    "updated": "2026-07-26 22:52 UTC"
   }
 }
