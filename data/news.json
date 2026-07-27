@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+        "link": "https://www.nature.com/articles/s41586-026-10930-9",
+        "pubDate": "2026-07-27",
+        "description": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10930-9 Pyridoxal photoenzymes for asymmetric radical–radical cross-couplings",
+        "title_cn": "用于不对称自由基-自由基交叉偶联的吡哆醛光酶"
+      },
+      {
+        "title": "Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+        "link": "https://www.nature.com/articles/s41586-026-10929-2",
+        "pubDate": "2026-07-27",
+        "description": "Nature, Published online: 27 July 2026; doi:10.1038/s41586-026-10929-2 Phase-homogeneous mixed halide perovskites for stable tandem photovoltaics",
+        "title_cn": "用于稳定串联光伏的相均匀混合卤化物钙钛矿"
+      },
+      {
         "title": "The existential choice facing UK physics facilities: commercialize or close",
         "link": "https://www.nature.com/articles/d41586-026-02171-7",
         "pubDate": "2026-07-27",
@@ -16,53 +30,45 @@
         "title_cn": "什么时候应该治疗发烧？进化论是答案"
       },
       {
+        "title": "How to prevent AI from harming mathematics",
+        "link": "https://www.nature.com/articles/d41586-026-02309-7",
+        "pubDate": "2026-07-27",
+        "description": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02309-7 Mathematicians must urgently recognize AI’s impacts on their field — and act swiftly to mitigate threats.",
+        "title_cn": "如何防止人工智能伤害数学"
+      },
+      {
+        "title": "Researchers are building computers that run on brain organoids — but have neglected a major ethical issue",
+        "link": "https://www.nature.com/articles/d41586-026-02316-8",
+        "pubDate": "2026-07-27",
+        "description": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02316-8 People who give tissue samples for biomedical research might have no idea that their cells are being used for biocomputers.",
+        "title_cn": "研究人员正在构建在大脑类器官上运行的计算机—但忽略了一个主要的伦理问题"
+      },
+      {
+        "title": "A fever dream of jellies and slugs",
+        "link": "https://www.nature.com/articles/d41586-026-02314-w",
+        "pubDate": "2026-07-27",
+        "description": "Nature, Published online: 27 July 2026; doi:10.1038/d41586-026-02314-w A celebration of Ernst Haeckel’s sketches of life forms, from microscopic to majestic.",
+        "title_cn": "发烧梦见水母和鼻涕虫"
+      },
+      {
         "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
         "link": "https://www.nature.com/articles/s41586-026-10911-y",
         "pubDate": "2026-07-24",
         "description": "Nature, Published online: 24 July 2026; doi:10.1038/s41586-026-10911-y Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
         "title_cn": "作者更正：侧隔中特定于特征的威胁编码指导防御行动"
-      },
-      {
-        "title": "Personalized gene therapy relieves severe epilepsy in two boys",
-        "link": "https://www.nature.com/articles/d41586-026-02267-0",
-        "pubDate": "2026-07-24",
-        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02267-0 Switching off one copy of a gene also enabled one of the children to walk independently for the first time.",
-        "title_cn": "个性化基因治疗缓解两名男孩的严重癫痫"
-      },
-      {
-        "title": "Briefing Chat: Baby T. rex were killers from birth, suggest new fossils",
-        "link": "https://www.nature.com/articles/d41586-026-02338-2",
-        "pubDate": "2026-07-24",
-        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02338-2 Nature staff discuss the young but deadly dinosaur kings, the prowess of ancient Egyptian princesses, and how London is becoming the world’s AI safety capital.",
-        "title_cn": "简报聊天：霸王龙宝宝从出生起就是杀手，暗示了新的化石"
-      },
-      {
-        "title": "Bizarre CRISPR enzyme kills cancer cells by shredding their DNA",
-        "link": "https://www.nature.com/articles/d41586-026-02268-z",
-        "pubDate": "2026-07-24",
-        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02268-z Early tests suggest the protein can be aimed at targets with tumour-causing mutations.",
-        "title_cn": "奇怪的CRISPR酶通过切碎癌细胞的DNA来杀死癌细胞"
-      },
-      {
-        "title": "White House rolls out AI funding — and signals a new era for US science",
-        "link": "https://www.nature.com/articles/d41586-026-02332-8",
-        "pubDate": "2026-07-24",
-        "description": "Nature, Published online: 24 July 2026; doi:10.1038/d41586-026-02332-8 Chief US science adviser calls for a shakeup in funding while handing out grants to accelerate research with AI.",
-        "title_cn": "白宫推出人工智能资金—并标志着美国科学的新时代"
-      },
-      {
-        "title": "What The Odyssey reveals about ancient science — from botany to psychiatry",
-        "link": "https://www.nature.com/articles/d41586-026-02275-0",
-        "pubDate": "2026-07-23",
-        "description": "Nature, Published online: 23 July 2026; doi:10.1038/d41586-026-02275-0 From intelligent ships to clues about eclipses, Homer’s The Odyssey reveals how Bronze Age Greeks understood the world.",
-        "title_cn": "《奥德赛》揭示了古代科学—从植物学到精神病学"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "tech_cn": {
     "items": [
+      {
+        "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+        "link": "https://36kr.com/p/3913320648971395?f=rss",
+        "pubDate": "2026-07-27 19:37:06  +0800",
+        "description": "大公司： 汇丰控股将在新加坡设全球人工智能卓越中心，并招聘超100名AI专家 汇丰控股7月27日宣布，将于今年下半年在新加坡设立全球人工智能卓越中心（CoE），旨在开发可扩展至集团全球网络的AI能力，并计划招聘100多名AI专家。声明称，该卓越中心初期将专注于提升客户财富管理体验、引入智能化的财资解决方案以及开发AI赋能的数字支付。（界面） 小米MiMo-V2.5登OpenRouter全球周榜、月榜双第一 36氪获悉，7月27日，OpenRouter最新数据显示，小米MiMo-V2.5登上全球大模型调用量周榜、月榜双第一，成为当周全球调用量唯一突破10T的模型。5月以来，MiMo-V2.5全球"
+      },
       {
         "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
         "link": "https://36kr.com/p/3913736066028932?f=rss",
@@ -104,19 +110,48 @@
         "link": "https://36kr.com/p/3912546487637378?f=rss",
         "pubDate": "2026-07-27 09:00:00  +0800",
         "description": "文｜阿至 过去十年，中国商业航天完成了“造得出、送得上”的第一阶段目标，卫星产能快速爬坡，可回收火箭验证走向密集验证节点。但当轨道资源从宽松走向拥挤，各国之间的竞争焦点也从发射能力转向运行能力的比拼，“管得住、用得好”至关重要。 根据国防科技大学的测算，在卫星之间保持50千米最小安全间距的前提下，300-2000公里的全低轨空间最多只能安全容纳约17.5万颗卫星。当卫星数量从几千颗变成上万颗时，地面站排队上下行指令的传统方式就会难以为继，现有的卫星管控模式也正在失效。 “未来十年，航天发展的主旋律，应该是空间的数字化和智能化。”中国科学院院士魏奉思在上个月的科技创新院士报告厅演讲中曾提及这一核"
-      },
-      {
-        "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
-        "link": "https://36kr.com/p/3913118530819457?f=rss",
-        "pubDate": "2026-07-27 07:50:15  +0800",
-        "description": "今日热点导览 A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间 360原董秘称离职7年股权激励未兑现，涉及金额约2649万 马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋 法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实 韩国养老金7月首度净买入KOSPI成分股，为今年首次 TOP 3大新闻 滥用市场支配地位实施垄断行为，携程被罚没51.79亿元 7月25日，市场监管总局依法对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。 携程7月25日发布关于诚恳接受国家市场监督管理总局行政处罚决定的公告：今日，我们收到《国家市场监督管理总局行政处罚决定书》。对"
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "This “Clap-On, Clap-Off” Laser Weapon Can Beam Power Wirelessly, Too",
+        "link": "https://cleantechnica.com/2026/07/27/drone-warfare-laser-weapon-wireless-power-transfer-boeing/",
+        "pubDate": "Mon, 27 Jul 2026 15:23:19 +0000",
+        "description": "A transportable, compact laser weapon can serve a dual purpose for wireless power transfer, potentially opening up new opportunities for renewable energy to power remote operations. The post This &#8220;Clap-On, Clap-Off&#8221; Laser Weapon Can Beam Power Wirelessly, Too appeared first on CleanTechn",
+        "title_cn": "这种“Clap-On, Clap-Off”激光武器也可以无线传输功率"
+      },
+      {
+        "title": "Hawaiian Electric Seeks to Expand Renewables, Energy Storage on Oʻahu, Hawaiʻi Island, and Maui",
+        "link": "https://cleantechnica.com/2026/07/27/hawaiian-electric-seeks-to-expand-renewables-energy-storage-on-o%ca%bbahu-hawai%ca%bbi-island-and-maui/",
+        "pubDate": "Mon, 27 Jul 2026 15:01:33 +0000",
+        "description": "Represents significant progress toward 100% renewable energy One of state’s largest energy procurements ever Additional 500 MW of firm generation on O‘ahu to be sought HONOLULU — Hawaiian Electric Company, Inc. (Hawaiian Electric), a subsidiary of Hawaiian Electric Industries, Inc. (HEI) (NYSE &#821",
+        "title_cn": "夏威夷电力寻求在瓦胡岛、夏威夷岛和茂宜岛扩大可再生能源和储能"
+      },
+      {
+        "title": "Zayed Sustainability Prize’s Beyond2020 Initiative Strengthens Healthcare Resilience for Over 200,000 People in India",
+        "link": "https://cleantechnica.com/2026/07/27/zayed-sustainability-prizes-beyond2020-initiative-strengthens-healthcare-resilience-for-over-200000-people-in-india/",
+        "pubDate": "Mon, 27 Jul 2026 13:17:37 +0000",
+        "description": "Six solar-powered health facilities continue to improve reliable healthcare delivery across rural Karnataka ABU DHABI, United Arab Emirates — Beyond2020, the flagship initiative launched by the Zayed Sustainability Prize, the UAE’s pioneering award for innovative solutions to global challenges, toda",
+        "title_cn": "扎耶德可持续发展奖的Beyond2020计划增强了印度20多万人的医疗保健韧性"
+      },
+      {
+        "title": "ESS & Juniper Energy Sign Agreement for 500 MWh+ of Sodium-Ion Energy Storage Deployments",
+        "link": "https://cleantechnica.com/2026/07/27/ess-juniper-energy-sign-agreement-for-500-mwh-of-sodium-ion-energy-storage-deployments/",
+        "pubDate": "Mon, 27 Jul 2026 13:03:44 +0000",
+        "description": "Partnership Begins with Planned 80 MWh California Project and Establishes Framework for Long-term Collaboration WILSONVILLE, Oregon — ESS Tech, Inc. (ESS) (NYSE: GWH) (“ESS” or the “company”), a leading provider of non-lithium energy storage solutions, has announced the signing of a Letter of Intent",
+        "title_cn": "ESS与Juniper签署500 MWh以上钠离子储能部署协议"
+      },
+      {
+        "title": "Tesla Robotaxi & Waymo Both Expanding Into Tampa, Florida!",
+        "link": "https://cleantechnica.com/2026/07/27/tesla-robotaxi-waymo-both-expanding-into-tampa-florida/",
+        "pubDate": "Mon, 27 Jul 2026 12:14:15 +0000",
+        "description": "In this article, I&#8217;ll document (mostly through pictures and video) my two test rides in the new Tesla Robotaxi in Tampa and a Waymo I ran across on the way to church this morning. Success After Failure I tried for an hour to call the Tesla Robotaxi in Tampa on ... [continued] The post Tesla Ro",
+        "title_cn": "特斯拉机器人出租车和Waymo都扩展到佛罗里达州坦帕市！"
+      },
       {
         "title": "Partnership with EnergyHub, Sunrun, & The Mobility House to Test Massachusetts Residential Vehicle-to-Grid Program for Eversource & National Grid Customers",
         "link": "https://cleantechnica.com/2026/07/26/partnership-with-energyhub-sunrun-the-mobility-house-to-test-massachusetts-residential-vehicle-to-grid-program-for-eversource-national-grid-customers/",
@@ -137,48 +172,27 @@
         "pubDate": "Sun, 26 Jul 2026 15:50:39 +0000",
         "description": "Donald Trump says Canada is poisoning American cities with wildfire smoke. He has told Prime Minister Mark Carney to get the fires under control, demanded compensation and threatened tariffs because smoke from Canadian fires crossed into the United States. The smoke did come from trees burning in Ca",
         "title_cn": "特朗普指责加拿大从美国创造的气候中吸烟"
-      },
-      {
-        "title": "We May Be Looking At The Debate About AI & Data Centers All Wrong",
-        "link": "https://cleantechnica.com/2026/07/26/we-may-be-looking-at-the-debate-about-ai-data-centers-all-wrong/",
-        "pubDate": "Sun, 26 Jul 2026 12:26:48 +0000",
-        "description": "Goodness knows we here at CleanTechnica have been doing our part in promoting the backlash against large, energy sucking data centers. We admit we permit ourselves a small smile of satisfaction when we report that New Jersey, or New York, or some other jurisdiction has placed restrictions on buildin",
-        "title_cn": "我们可能看错了关于人工智能和数据中心的争论"
-      },
-      {
-        "title": "What Must We Do To Save US Democracy?",
-        "link": "https://cleantechnica.com/2026/07/26/what-must-we-do-to-save-us-democracy/",
-        "pubDate": "Sun, 26 Jul 2026 11:50:18 +0000",
-        "description": "US democracy is in trouble right now. Under the façade of populism, the Trump administration has eroded long-held Constitutional protections. Insistent whispering behind the scenes from the Heritage Society has exacerbated the crisis. To fight back, we must understand the nuances that are contributi",
-        "title_cn": "我们必须做些什么来拯救我们的民主？"
-      },
-      {
-        "title": "Domestic EV Policy Decides the Global Car Hierarchy: Why China & Thailand Are Pulling Ahead",
-        "link": "https://cleantechnica.com/2026/07/26/domestic-ev-policy-decides-the-global-car-hierarchy-why-china-thailand-are-pulling-ahead/",
-        "pubDate": "Sun, 26 Jul 2026 05:00:45 +0000",
-        "description": "By Ray Wills, Peter Newman AO, and Raphael Wellmann China’s latest NEV plan makes one thing clear: the future global car hierarchy is being decided at home, not in export markets. Less expected is the rapid rise of Thailand, which is following China’s playbook with striking success. Beijing’s new ca",
-        "title_cn": "国内电动汽车政策决定全球汽车等级：中国和泰国为何走在前列"
-      },
-      {
-        "title": "EVs At 37.7% Share In Germany – Tesla Model Y Leads",
-        "link": "https://cleantechnica.com/2026/07/26/evs-at-37-7-share-in-germany-tesla-model-y-leads/",
-        "pubDate": "Sun, 26 Jul 2026 04:32:39 +0000",
-        "description": "The second quarter of 2026 saw plugin EVs at 37.7% share in Germany, up from 28.6% in Q2 2025. BEV share grew strongly year on year, and PHEV share grew slowly. Overall, Q1 auto volume was 784,989 units, up some 6% YoY. The Tesla Model Y was the best-selling BEV ... [continued] The post EVs At 37.7%",
-        "title_cn": "电动汽车在德国的份额为37.7% –特斯拉Model Y领先"
-      },
-      {
-        "title": "This New Underground Energy Storage System Supports Wind And Solar Power",
-        "link": "https://cleantechnica.com/2026/07/25/flywheel-energy-storage-us-qnetic-factory-wind-solar-power/",
-        "pubDate": "Sat, 25 Jul 2026 20:53:46 +0000",
-        "description": "New flywheel energy storage systems can be located largely underground, offering aesthetic benefits alongside the potential for lower costs, longer duration, and less reliance on overseas supply chains. The post This New Underground Energy Storage System Supports Wind And Solar Power appeared first ",
-        "title_cn": "这种新的地下储能系统支持风能和太阳能"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "From takeout to takeoff",
+        "link": "https://www.nature.com/articles/s41560-026-02106-6",
+        "pubDate": "2026-07-27",
+        "description": "Nature Energy, Published online: 27 July 2026; doi:10.1038/s41560-026-02106-6 Converting plastic waste into jet fuel could help decarbonize aviation, but upcycling routes often require high pressures and long reaction times. New research demonstrates that catalysts based on atomically-dispersed Ru a",
+        "title_cn": "从外卖到起飞"
+      },
+      {
+        "title": "Quasi-ballistic ion transport in a vertical microrod enabling efficient evaporation-driven power generation",
+        "link": "https://www.nature.com/articles/s41560-026-02117-3",
+        "pubDate": "2026-07-27",
+        "description": "Nature Energy, Published online: 27 July 2026; doi:10.1038/s41560-026-02117-3 Evaporation-driven power generators are often limited by non-directional fluid flow, which reduces their efficiency. Guided by machine learning, Wu et al. developed a vertical microrod generator that improves ion transport",
+        "title_cn": "垂直微杆中的准弹道离子传输，实现高效的蒸发驱动发电"
+      },
       {
         "title": "High-performance perovskite/silicon tandem solar cells enabled by multifunctional titanium oxynitride recombination layers",
         "link": "https://www.nature.com/articles/s41560-026-02116-4",
@@ -220,30 +234,16 @@
         "pubDate": "2026-07-16",
         "description": "Nature Energy, Published online: 16 July 2026; doi:10.1038/s41560-026-02109-3 Decarbonized grids may face rising resource adequacy risks as weather-driven renewable variability and climate change jointly affect supply and demand. A high-resolution model shows that these risks stem from multi-day pow",
         "title_cn": "气候变化重塑了风能和太阳能系统中的资源充足性风险和最佳的可再生能源选址"
-      },
-      {
-        "title": "Author Correction: Thin membranes with Cu-ion crosslinking for high temperature polymer electrolyte membrane fuel cells",
-        "link": "https://www.nature.com/articles/s41560-026-02119-1",
-        "pubDate": "2026-07-14",
-        "description": "Nature Energy, Published online: 14 July 2026; doi:10.1038/s41560-026-02119-1 Author Correction: Thin membranes with Cu-ion crosslinking for high temperature polymer electrolyte membrane fuel cells",
-        "title_cn": "作者更正：用于高温聚合物电解质膜燃料电池的铜离子交联薄膜"
-      },
-      {
-        "title": "Coordinated planning of European charging infrastructure and energy system for optimal V1G and V2G deployment",
-        "link": "https://www.nature.com/articles/s41560-026-02107-5",
-        "pubDate": "2026-07-14",
-        "description": "Nature Energy, Published online: 14 July 2026; doi:10.1038/s41560-026-02107-5 European charging infrastructure targets rely on uniform benchmarks that overlook flexibility from smart charging (V1G) and V2G. A system model shows that V1G delivers most cost and infrastructure savings, whereas V2G prov",
-        "title_cn": "欧洲充电基础设施和能源系统的协调规划，以实现最佳的V1G和V2G部署"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "energy_cn": {
     "items": [
       {
         "title": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 - 碳索储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IdGlTNTFfaHF1NzFKb2xRSmJ3UTBubXRSemFoLUFDUmRvbV9ObC1OYmlwcHFsN1p5aFcySXNKbEtON09tUWx0MUJrUDZxdW1wV3JsbXlwM2U5cVRydWtVSA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aTEljX3kzMWt0cVpqRmVRVFpFXy1VNWxYXzlidGxXb0JqUDMxU21fanJOV3ZlaHRyMnRyYVA4QWJqN1ZjMHg3YUpxeG9Ga3c0ZFlrcUU1eXRpamtIOGhR?oc=5",
         "pubDate": "Mon, 27 Jul 2026 01:57:14 GMT",
         "description": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 &nbsp;&nbsp; 碳索储能网"
       },
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "papers": {
     "items": [
@@ -429,10 +429,16 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "氢能「周事迹」事关国家发改委/中煤/华电科工/大陆制氢/稳石氢能/中集安瑞科/天能/云韬氢能/国富氢能/兴燃科技 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wbUF6MTZ6MFRhaDlfa3p3NHJqTUpWWnpMX3JVSzlnU3pKbVlaMll2b3dUUUlsOWNLRk0wMWxFTTllOThtVjV3VE9FQW1oYVVFWTZzVQ?oc=5",
+        "pubDate": "Mon, 27 Jul 2026 03:44:19 GMT",
+        "description": "氢能「周事迹」事关国家发改委/中煤/华电科工/大陆制氢/稳石氢能/中集安瑞科/天能/云韬氢能/国富氢能/兴燃科技 &nbsp;&nbsp; 国际氢能网"
+      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -446,18 +452,6 @@
         "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局批准三项氢能标准 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WYm1CUnRTRF83dThRSERSNzZMeFRvVHZFN0UxbjJ3VTQyYl85dDM2Qk9uRFFYLWNyQ2g5Rk5rODhUSm5WNTF4NzdKMU5HTzF1VVhrMw?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 06:37:23 GMT",
-        "description": "国家能源局批准三项氢能标准 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
@@ -468,6 +462,12 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,10 +500,10 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "一周能源政策回顾（7.5-7.11） - finance.sina.com.cn",
+        "title": "一周能源政策回顾（7.5-7.11） - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
         "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-27 10:34 UTC"
+    "updated": "2026-07-27 16:10 UTC"
   }
 }
