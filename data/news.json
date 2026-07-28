@@ -30,6 +30,13 @@
         "title_cn": "沙漠面临前所未有的山洪暴发"
       },
       {
+        "title": "It’ll grow on you: live fungi formed into sustainable fashion",
+        "link": "https://www.nature.com/articles/d41586-026-02304-y",
+        "pubDate": "2026-07-28",
+        "description": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02304-y Textile made from fungal filaments can repair itself and is biodegradable.",
+        "title_cn": "它会在你身上生长：以可持续的方式形成活真菌"
+      },
+      {
         "title": "Use AI, but don’t mask it",
         "link": "https://www.nature.com/articles/d41586-026-02347-1",
         "pubDate": "2026-07-28",
@@ -49,17 +56,10 @@
         "pubDate": "2026-07-28",
         "description": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02333-7 Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
         "title_cn": "在三叠纪濒临灭绝的日子里，野火在整个欧洲肆虐"
-      },
-      {
-        "title": "Conversational AI: align commercial incentives with public interests",
-        "link": "https://www.nature.com/articles/d41586-026-02348-0",
-        "pubDate": "2026-07-28",
-        "description": "Nature, Published online: 28 July 2026; doi:10.1038/d41586-026-02348-0 Conversational AI: align commercial incentives with public interests",
-        "title_cn": "对话式人工智能：将商业激励与公共利益结合起来"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "What Is Cape Cod Doing To Secure Its Energy Independence And Protect Its Natural Resources?",
+        "link": "https://cleantechnica.com/2026/07/28/what-is-cape-cod-doing-to-secure-its-energy-independence-and-protect-its-natural-resources/",
+        "pubDate": "Tue, 28 Jul 2026 18:41:34 +0000",
+        "description": "I&#8217;m traveling around Cape Cod, Massachusetts this week. It&#8217;s part of a quest to learn how other communities outside my permanent Florida residence are looking ahead to a clean energy and nature-based future. Cape Cod is geographically rare. It is a constantly changing peninsula, altered ",
+        "title_cn": "鳕鱼角如何确保其能源独立性并保护其自然资源？"
+      },
+      {
+        "title": "Who Needs Natural Gas Power Plants When Grid Solutions, VPPs, And DERs Are Here?",
+        "link": "https://cleantechnica.com/2026/07/28/grid-modernization-energy-storage-vpp-wind-solar-ders/",
+        "pubDate": "Tue, 28 Jul 2026 17:35:23 +0000",
+        "description": "The US energy storage startup Viridi is among the US stakeholders deploying advanced technologies that improve resiliency while adding more distributed energy resources -- namely, wind and solar power -- to the nation's grid. The post Who Needs Natural Gas Power Plants When Grid Solutions, VPPs, And",
+        "title_cn": "当电网解决方案、VPP和DER在这里时，谁需要天然气发电厂？"
+      },
+      {
+        "title": "AI To Replace Overpaid CEOs",
+        "link": "https://cleantechnica.com/2026/07/28/ai-to-replace-overpaid-ceos/",
+        "pubDate": "Tue, 28 Jul 2026 16:10:43 +0000",
+        "description": "Much of the economic concern around artificial intelligence (AI) is from the expectation that AI will lead to millions upon millions of job losses. Professional drivers, writers, lower-level software engineers, and even young lawyers are expected to lose their jobs en masse — or already are. But wha",
+        "title_cn": "人工智能取代薪酬过高的首席执行官"
+      },
       {
         "title": "Severe Risks of AI That Are Not Getting Enough Attention",
         "link": "https://cleantechnica.com/2026/07/28/severe-risks-of-ai-that-are-not-getting-enough-attention/",
@@ -151,31 +172,10 @@
         "pubDate": "Tue, 28 Jul 2026 12:46:24 +0000",
         "description": "Robotaxis have gotten a ton of hype in the past decade, and especially the past five years or so. What has gotten much less attention is the potential for autonomous delivery vehicles. Perhaps that is because humans are still needed for managing the cargo and deliveries the vast majority of ... [con",
         "title_cn": "Momenta从机器人出租车到Robovans"
-      },
-      {
-        "title": "Cool New Leapmotor A05 Can Be Reserved For 99 Yuan ($15)",
-        "link": "https://cleantechnica.com/2026/07/28/cool-new-leapmotor-a05-can-be-reserved-for-99-yuan-15/",
-        "pubDate": "Tue, 28 Jul 2026 12:15:48 +0000",
-        "description": "Leapmotor has launched reservations and pre-orders for the cool, new A05 EV compact car. You can lock yours in with a deposit of just 99 yuan ($15). We don&#8217;t know actual pricing yet, but note that the subcompact A10 launched in March with pricing of 65,800 yuan ($9,725) to 86,800 ... [continue",
-        "title_cn": "酷炫全新Leapmotor A05可预约99元（ $ 15 ）"
-      },
-      {
-        "title": "Affordable Homes, Cooling Centers, and a Faster Grid? Yes, Please",
-        "link": "https://cleantechnica.com/2026/07/27/affordable-homes-cooling-centers-and-a-faster-grid-yes-please/",
-        "pubDate": "Tue, 28 Jul 2026 02:49:15 +0000",
-        "description": "How 4 Companies Are Working To Bring New Technologies to Communities in Need—With Help From National Laboratory Experts By Caitlin McDermott-Murphy and Stacy Parker, NLR A year after the Palisades and Eaton wildfires destroyed more than 13,000 homes in Los Angeles County, fewer than a dozen had been",
-        "title_cn": "经济实惠的房源、制冷中心和更快的电网？是的，请"
-      },
-      {
-        "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
-        "link": "https://cleantechnica.com/2026/07/27/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration/",
-        "pubDate": "Tue, 28 Jul 2026 02:41:19 +0000",
-        "description": "In the second quarter of 2026 (2Q26), 24% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, up from 22% in 2Q25. Between 2Q25 and 2Q26, hybrid electric vehicles continued to gain market share, reaching a record 16% of li",
-        "title_cn": "混合动力车销售额上升，而电池电力车销售额在税收抵免到期后仍然较低"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,16 +254,16 @@
         "description": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 &nbsp;&nbsp; 碳索储能网"
       },
       {
-        "title": "北京市房山区一行来校洽谈深化校地协同发展 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DblFVZFFjN1g0TjgyVTJPeXMyTnlBczVCbWtkZWZfM2NManI3eHBwSU1CTnZrcUVLcVA0M3p5TGZsS011Y1JhQkktS2N1VUQyU20zS3Y0aUdpUmVObGREek9fWmduZDZpR2hYUm5DYUl5R1RNRHc?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 04:29:19 GMT",
-        "description": "北京市房山区一行来校洽谈深化校地协同发展 &nbsp;&nbsp; 华北电力大学"
-      },
-      {
         "title": "迎峰度夏大考：氢能如何化身电网“超级充电宝”？ - QQ News",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jaVo3ZUpjUlAwUXY0NDBHSDJCVVBLV0NHZWZfemtYZlMxWkJ2RTBMb2VwS3V3WkR2aHdBanZzSFVDSW00Rjk2VG1MbDduX29mdlhtRGRR?oc=5",
         "pubDate": "Fri, 24 Jul 2026 11:10:00 GMT",
         "description": "迎峰度夏大考：氢能如何化身电网“超级充电宝”？ &nbsp;&nbsp; QQ News"
+      },
+      {
+        "title": "北京市房山区一行来校洽谈深化校地协同发展 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DblFVZFFjN1g0TjgyVTJPeXMyTnlBczVCbWtkZWZfM2NManI3eHBwSU1CTnZrcUVLcVA0M3p5TGZsS011Y1JhQkktS2N1VUQyU20zS3Y0aUdpUmVObGREek9fWmduZDZpR2hYUm5DYUl5R1RNRHc?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 04:29:19 GMT",
+        "description": "北京市房山区一行来校洽谈深化校地协同发展 &nbsp;&nbsp; 华北电力大学"
       },
       {
         "title": "全球绿色氢能市场有望快速扩张 - 中国产业发展促进会氢能分会",
@@ -278,82 +278,82 @@
         "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       },
       {
-        "title": "成都如何打造绿色能源样板？西南石油大学教授雷宪章：电氢协同开辟零碳新赛道 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTQ3bzliSGZjaGU1NW9QdU82OXEwczhWeWxqNVppeG5Sc2VQQzdMOFF1cGgxTWlLYkdPYnlUc0NtSWt1VjhDNXcxYUpYVlgycmE2dm83SUtLTHBaMURYN003bWgwX1p1WVVJMWE3ZDg5N3RVNUtiUExmT1l6SnZRSGd1TmI5b012U2ZDcA?oc=5",
-        "pubDate": "Mon, 27 Jul 2026 13:11:48 GMT",
-        "description": "成都如何打造绿色能源样板？西南石油大学教授雷宪章：电氢协同开辟零碳新赛道 &nbsp;&nbsp; Sohu"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "成都如何打造绿色能源样板？西南石油大学教授雷宪章：电氢协同开辟零碳新赛道 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTQ3bzliSGZjaGU1NW9QdU82OXEwczhWeWxqNVppeG5Sc2VQQzdMOFF1cGgxTWlLYkdPYnlUc0NtSWt1VjhDNXcxYUpYVlgycmE2dm83SUtLTHBaMURYN003bWgwX1p1WVVJMWE3ZDg5N3RVNUtiUExmT1l6SnZRSGd1TmI5b012U2ZDcA?oc=5",
+        "pubDate": "Mon, 27 Jul 2026 13:11:48 GMT",
+        "description": "成都如何打造绿色能源样板？西南石油大学教授雷宪章：电氢协同开辟零碳新赛道 &nbsp;&nbsp; Sohu"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "LG Chem More Than Doubles Lifespan of Key Electrode for Green Hydrogen Production",
-        "link": "https://fuelcellsworks.com/2026/07/27/green-hydrogen/lg-chem-more-than-doubles-lifespan-of-key-electrode-for-green-hydrogen-production",
-        "pubDate": "Mon, 27 Jul 2026 16:02:48 GMT",
+        "title": "Embry‑Riddle Students Take on Hydrogen-Powered Drone Tech With Honeywell Aerospace",
+        "link": "https://fuelcellsworks.com/2026/07/28/news/embry-riddle-students-take-on-hydrogen-powered-drone-tech-with-honeywell-aerospace",
+        "pubDate": "Tue, 28 Jul 2026 15:10:56 GMT",
         "description": "",
-        "title_cn": "LG化学将绿色制氢关键电极的寿命延长一倍以上"
+        "title_cn": "Embry-Riddle学生在霍尼韦尔航空航天公司学习氢动力无人机技术"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: July 20-24, 2026",
-        "link": "https://fuelcellsworks.com/2026/07/26/clean-hydrogen/fuel-cell-and-hydrogen-news-highlights-from-china-july-20-july-24-2-2026",
-        "pubDate": "Mon, 27 Jul 2026 15:43:14 GMT",
+        "title": "Green Hydrogen E-Fuel Plant Secures £760,000 [$1M] Scottish Backing on Shetland Islands",
+        "link": "https://fuelcellsworks.com/2026/07/28/news/green-hydrogen-e-fuel-plant-secures-760-000-1m-scottish-backing-on-shetland-islands",
+        "pubDate": "Tue, 28 Jul 2026 15:03:32 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年7月20日至24日"
+        "title_cn": "Green Hydrogen E-Fuel Plant在设得兰群岛获得76万英镑[100万美元]苏格兰资金支持"
       },
       {
-        "title": "Primary Hydrogen Appoints Christopher Longton as Vice President, Exploration",
-        "link": "https://fuelcellsworks.com/2026/07/27/hydrogen-economy/primary-hydrogen-appoints-christopher-longton-as-vice-president-exploration",
-        "pubDate": "Mon, 27 Jul 2026 15:39:03 GMT",
+        "title": "The $2/Kg Claim: Chinese Electrolyser Maker HydoTech Says It's Cracked Green Hydrogen Cost Parity — Aramco and a Cement Giant Are Betting On It",
+        "link": "https://fuelcellsworks.com/2026/07/27/h2/the-2-kg-claim-chinese-electrolyser-maker-hydotech-says-it-s-cracked-green-hydrogen-cost-parity-aramco-and-a-cement-giant-are-betting-on-it",
+        "pubDate": "Tue, 28 Jul 2026 14:59:14 GMT",
         "description": "",
-        "title_cn": "Primary Hydrogen任命Christopher Longton为勘探副总裁"
+        "title_cn": "每公斤2 $的索赔：中国电解槽制造商HydoTech表示，这是破裂的绿色氢成本平价—沙特阿美和一家水泥巨头正在押注它"
       },
       {
-        "title": "Isuzu and Toyota Target Series Production of Next-Generation Hydrogen Truck in Japan",
-        "link": "https://fuelcellsworks.com/2026/07/26/fuel-cells/isuzu-and-toyota-target-series-production-of-next-generation-hydrogen-truck-in-japan",
-        "pubDate": "Mon, 27 Jul 2026 15:28:22 GMT",
+        "title": "India Extends Seven-Year Permit Waiver to Hydrogen Commercial Vehicles",
+        "link": "https://fuelcellsworks.com/2026/07/28/news/india-extends-seven-year-permit-waiver-to-hydrogen-commercial-vehicles",
+        "pubDate": "Tue, 28 Jul 2026 14:56:40 GMT",
         "description": "",
-        "title_cn": "五十铃和丰田计划在日本生产下一代氢能卡车"
+        "title_cn": "印度延长对氢能商用车的七年许可豁免"
       },
       {
-        "title": "Chania Council Opposes Crete Solar-Hydrogen Project Over Local Energy Concerns",
-        "link": "https://fuelcellsworks.com/2026/07/27/green-hydrogen/chania-council-issues-negative-opinion-on-crete-hybrid-renewables-hydrogen-project",
-        "pubDate": "Mon, 27 Jul 2026 15:24:22 GMT",
+        "title": "Korea Rewrites Its Ports: Ulsan Drops \"Oil Hub,\" Becomes a Hydrogen and Ammonia Terminal",
+        "link": "https://fuelcellsworks.com/2026/07/27/h2/korea-rewrites-its-ports-ulsan-drops-oil-hub-becomes-a-hydrogen-and-ammonia-terminal",
+        "pubDate": "Tue, 28 Jul 2026 14:52:18 GMT",
         "description": "",
-        "title_cn": "哈尼亚议会出于对当地能源的担忧反对克里特岛太阳能-氢能项目"
+        "title_cn": "韩国改写其港口：蔚山放弃“石油枢纽” ，成为氢气和氨气终端"
       },
       {
-        "title": "New Zealand Startup Plans Hydrogen Ironmaking Demonstration Plant at Glenbrook",
-        "link": "https://fuelcellsworks.com/2026/07/27/clean-energy/new-zealand-startup-plans-hydrogen-ironmaking-demonstration-plant-at-glenbrook",
-        "pubDate": "Mon, 27 Jul 2026 15:21:25 GMT",
+        "title": "Are Gas Turbines Ready for the Hydrogen Economy?",
+        "link": "https://fuelcellsworks.com/2026/07/28/energy-innovation/are-gas-turbines-ready-for-the-hydrogen-economy",
+        "pubDate": "Tue, 28 Jul 2026 14:48:13 GMT",
         "description": "",
-        "title_cn": "新西兰初创公司计划在格伦布鲁克建造氢炼铁示范工厂"
+        "title_cn": "燃气轮机是否已为氢能经济做好准备？"
       },
       {
-        "title": "Vougy Officials Back Hydrogen Production and Refuelling Project in the Arve Valley",
-        "link": "https://fuelcellsworks.com/2026/07/26/fuel-cells/vougy-officials-back-hydrogen-production-and-refuelling-project-in-the-arve-valley",
-        "pubDate": "Mon, 27 Jul 2026 15:02:09 GMT",
+        "title": "Rebus Rostock Hydrogen Bus Fleet Passes 3 Million Kilometres in Scheduled Service",
+        "link": "https://fuelcellsworks.com/2026/07/26/fuel-cells/rebus-rostock-hydrogen-bus-fleet-passes-3-million-kilometres-in-scheduled-service",
+        "pubDate": "Tue, 28 Jul 2026 14:18:54 GMT",
         "description": "",
-        "title_cn": "Vougy官员支持Arve山谷的氢气生产和加油项目"
+        "title_cn": "Rebus Rostock氢能公交车队通过300万公里的定期服务"
       },
       {
-        "title": "NIPPON HEV Launches Pakistan’s First Integrated Hydrogen Mobility and Battery Ecosystem",
-        "link": "https://fuelcellsworks.com/2026/07/27/fuel-cells/nippon-hev-launches-pakistan-s-first-integrated-hydrogen-mobility-and-battery-ecosystem",
-        "pubDate": "Mon, 27 Jul 2026 14:59:05 GMT",
+        "title": "HEA Calls for “Broader Approach” On Transport Decarbonization",
+        "link": "https://fuelcellsworks.com/2026/07/28/fuel-cells/hea-calls-for-broader-approach-on-transport-decarbonization",
+        "pubDate": "Tue, 28 Jul 2026 14:11:14 GMT",
         "description": "",
-        "title_cn": "日本HEV推出巴基斯坦首个氢能移动和电池综合生态系统"
+        "title_cn": "HEA呼吁在运输脱碳方面采取“更广泛的方法”"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -500,10 +500,10 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "一周能源政策回顾（7.5-7.11） - finance.sina.com.cn",
+        "title": "一周能源政策回顾（7.5-7.11） - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
         "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-28 15:59 UTC"
+    "updated": "2026-07-28 22:53 UTC"
   }
 }
