@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+        "link": "https://www.nature.com/articles/s41586-026-10939-0",
+        "pubDate": "2026-07-30",
+        "description": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
+        "title_cn": "体细胞突变揭示人类衰老过程中小胶质细胞的个体发生"
+      },
+      {
+        "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "link": "https://www.nature.com/articles/s41586-026-10920-x",
+        "pubDate": "2026-07-30",
+        "description": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+        "title_cn": "作者更正：中晚年生物老化时钟睡眠图"
+      },
+      {
         "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
         "link": "https://www.nature.com/articles/d41586-026-01843-8",
         "pubDate": "2026-07-30",
@@ -14,6 +28,13 @@
         "pubDate": "2026-07-30",
         "description": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02195-z Researchers are looking for ways to extract the metal from underground reservoirs that use less water.",
         "title_cn": "对锂的需求激增：如何使采矿更具可持续性"
+      },
+      {
+        "title": "Fires in Europe are breaking records: here’s what the future holds",
+        "link": "https://www.nature.com/articles/d41586-026-02361-3",
+        "pubDate": "2026-07-30",
+        "description": "Nature, Published online: 30 July 2026; doi:10.1038/d41586-026-02361-3 Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+        "title_cn": "欧洲的火灾正在打破纪录：这就是未来的发展方向"
       },
       {
         "title": "How I use statistics and my law degree to fight human-rights abuses",
@@ -35,31 +56,10 @@
         "pubDate": "2026-07-29",
         "description": "Nature, Published online: 29 July 2026; doi:10.1038/s41586-026-10942-5 Retraction Note: Human HDAC6 senses valine abundancy to regulate DNA damage",
         "title_cn": "收回注意：人HDAC6感知缬氨酸丰度以调节DNA损伤"
-      },
-      {
-        "title": "Earthworks spotted in the Amazon hint at huge ancient civilization",
-        "link": "https://www.nature.com/articles/d41586-026-02367-x",
-        "pubDate": "2026-07-29",
-        "description": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02367-x Discovery of almost 400 structures may help to redefine the true scale of the Aquiry civilization — plus, tiny fossils of the earliest fossil squid ancestor.",
-        "title_cn": "在亚马逊河中发现的土方工程暗示着巨大的古代文明"
-      },
-      {
-        "title": "Why tomorrow’s nanotechnologies need support today",
-        "link": "https://www.nature.com/articles/d41586-026-02179-z",
-        "pubDate": "2026-07-29",
-        "description": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02179-z The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential.",
-        "title_cn": "为什么未来的纳米技术今天需要支持"
-      },
-      {
-        "title": "Was art key to ancient humans' success? The secrets of Hohle Fels cave",
-        "link": "https://www.nature.com/articles/d41586-026-02359-x",
-        "pubDate": "2026-07-29",
-        "description": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02359-x New discoveries at famous archeological site add to mystery of ancient human culture.",
-        "title_cn": "艺术是古代人类成功的关键吗？ Hohle Fels洞穴的秘密"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,45 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "China’s 15th Five-Year Plan For Solar & Wind Is Huge",
+        "link": "https://cleantechnica.com/2026/07/30/chinas-15th-five-year-plan-for-solar-wind-is-huge/",
+        "pubDate": "Thu, 30 Jul 2026 22:56:17 +0000",
+        "description": "China’s National Development and Reform Commission (NDRC) and National Energy Administration (NEA) have published their 15th Five-Year Plan for Renewable Energy Development. Basically, this is what the country plans to do and achieve in terms of renewable energy development in the years 2026–2030. T",
+        "title_cn": "中国的“十五”太阳能和风能发展规划是巨大的"
+      },
+      {
+        "title": "Sierra Club Urges Rejection of Meta’s Attempt to Use Minor Source Loophole",
+        "link": "https://cleantechnica.com/2026/07/30/sierra-club-urges-rejection-of-metas-attempt-to-use-minor-source-loophole/",
+        "pubDate": "Thu, 30 Jul 2026 22:40:24 +0000",
+        "description": "Current proposal fails to consider all pollution and denies the public its lawful hearing In comments submitted today to the Louisiana Department of Environmental Quality (LDEQ), Sierra Club argues that Meta’s most recent air permit revisions trigger major-source permit requirements despite the tech",
+        "title_cn": "塞拉俱乐部敦促拒绝Meta使用次要来源漏洞的企图"
+      },
+      {
+        "title": "Hyundai Steel’s Potential Economic Costs, Mercury Pollution & Drinking Water Threats Must Be Fully Evaluated Under Louisiana Public Trust Doctrine",
+        "link": "https://cleantechnica.com/2026/07/30/hyundai-steels-potential-economic-costs-mercury-pollution-drinking-water-threats-must-be-fully-evaluated-under-louisiana-public-trust-doctrine/",
+        "pubDate": "Thu, 30 Jul 2026 22:22:11 +0000",
+        "description": "The Air Permit Application for the Facility Submitted to LDEQ Lacks Full Analysis Required by Law The Louisiana Department of Environmental Quality must fully evaluate the veracity of local job claims, community impacts of taxpayer subsidies, and other economic ripple effects of Hyundai Steel’s prop",
+        "title_cn": "现代钢铁的潜在经济成本、汞污染和饮用水威胁必须在路易斯安那州公共信任原则下得到充分评估"
+      },
+      {
+        "title": "US Assists Morocco With Green Hydrogen Plan — Wait, What?",
+        "link": "https://cleantechnica.com/2026/07/30/green-hydrogen-morocco-us-government-grant-renewable-energy/",
+        "pubDate": "Thu, 30 Jul 2026 20:03:42 +0000",
+        "description": "Morocco is pursuing plans for a massive green hydrogen operation, with a focus on producing green ammonia for global markets -- and an assist from the US government, too. The post US Assists Morocco With Green Hydrogen Plan &#8212; Wait, What? appeared first on CleanTechnica .",
+        "title_cn": "美国通过绿色氢能计划协助摩洛哥—等等，什么？"
+      },
+      {
+        "title": "The Madness Of King Elon The First",
+        "link": "https://cleantechnica.com/2026/07/30/the-madness-of-king-elon-the-first/",
+        "pubDate": "Thu, 30 Jul 2026 16:25:11 +0000",
+        "description": "Once upon a time, an immigrant named Elon Musk came to the US with a burning desire to do good, and he did right well. After making a small fortune at PayPal, he bought a startup called Tesla Motors and a defunct manufacturing facility in Fremont, California, then proceeded to ... [continued] The po",
+        "title_cn": "伊隆一世国王的疯狂"
+      },
       {
         "title": "XPENG VLA 2.0 In Munich: Taking Global Intelligent Driving Lead",
         "link": "https://cleantechnica.com/2026/07/30/xpeng-vla-2-0-in-munich-taking-global-intelligent-driving-lead/",
@@ -137,45 +172,10 @@
         "pubDate": "Thu, 30 Jul 2026 12:03:45 +0000",
         "description": "Autonomous driving AI expert with experience in global tech giants including NVIDIA To lead autonomous driving development from conception to commercialization SEOUL — Hyundai Motor Group today announced the appointment of Junghyun Kwon as Executive Vice President and Head of the Autonomous Driving ",
         "title_cn": "现代汽车集团任命权俊贤为自动驾驶开发中心负责人"
-      },
-      {
-        "title": "Aviation’s $4 Trillion Footprint Does Not Prove Every Flight Adds Growth",
-        "link": "https://cleantechnica.com/2026/07/30/aviation-economic-growth-additionality/",
-        "pubDate": "Thu, 30 Jul 2026 07:14:34 +0000",
-        "description": "Aviation performs useful economic work. It connects remote communities, moves urgent and high-value cargo, brings visitors to places that rely on tourism and enables some work that still requires people to be physically present with equipment, sites, customers or negotiating partners. Those are stro",
-        "title_cn": "航空业4万亿美元的$足迹并不能证明每次飞行都能促进增长"
-      },
-      {
-        "title": "Fired Tesla Robotaxi Supervisor Files Suit In Houston",
-        "link": "https://cleantechnica.com/2026/07/29/fired-tesla-robotaxi-supervisor-files-suit-in-houston/",
-        "pubDate": "Thu, 30 Jul 2026 02:38:18 +0000",
-        "description": "For reasons that never quite made sense to me, people get all jiggly when the conversation turns to Tesla and its so-called &#8220;robotaxis.&#8221; Some act as if the thought of a car that picks you up and drives you to your chosen destination without a human driver &#8212; nothing less ... [contin",
-        "title_cn": "休斯顿被解雇的特斯拉机器人出租车主管文件套装"
-      },
-      {
-        "title": "Tesla & ContourGlobal Sign Long-Term Power Agreement Covering 1 Terawatt-Hour/Year for Sterling Renewable Project",
-        "link": "https://cleantechnica.com/2026/07/29/tesla-contourglobal-sign-long-term-power-agreement-covering-1-terawatt-hour-year-for-sterling-renewable-project/",
-        "pubDate": "Thu, 30 Jul 2026 02:29:07 +0000",
-        "description": "This is one of the largest solar-plus-battery storage corporate PPA ever signed from a single plant in the U.S., and it will be served by the largest renewable plant in ContourGlobal’s portfolio. Project Sterling is a hybrid solar PV + BESS project in Arizona. With more than 1.4 GWh of ... [continue",
-        "title_cn": "特斯拉与ContourGlobal签署涵盖1太瓦时/年英镑可再生能源项目的长期电力协议"
-      },
-      {
-        "title": "First-of-Its-Kind Research Examines the Factors Accelerating — and Stalling — Solar Progress in California",
-        "link": "https://cleantechnica.com/2026/07/29/first-of-its-kind-research-examines-the-factors-accelerating-and-stalling-solar-progress-in-california/",
-        "pubDate": "Thu, 30 Jul 2026 02:19:06 +0000",
-        "description": "New research from The Nature Conservancy in California (TNC) and ECOnorthwest shows that where California builds utility‑scale solar determines how fast projects move through permitting. Solar projects sited on lands already shaped by human activity face fewer hurdles than projects on undisturbed na",
-        "title_cn": "首创研究调查加速和加州太阳能发展停滞的因素"
-      },
-      {
-        "title": "Is It A “Bloodbath”? Aussie New Car Market Reacts",
-        "link": "https://cleantechnica.com/2026/07/29/is-it-a-bloodbath-aussie-new-car-market-reacts/",
-        "pubDate": "Thu, 30 Jul 2026 01:33:47 +0000",
-        "description": "After Fiat withdrew from the Australian market, and a Peugeot dealer handed in his franchise, even long-time motoring “gurus” are asking the question. The metaphors abound — “tip of the iceberg,” “bloodbath,” “annihilation,” “juggernaut.” What is of no doubt is the structural change going through th",
-        "title_cn": "这是“大屠杀”吗？澳大利亚新车市场的反应"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "energy": {
     "items": [
@@ -237,123 +237,74 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "energy_cn": {
-    "items": [
-      {
-        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
-        "pubDate": "Sun, 26 Jul 2026 01:00:00 GMT",
-        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
-      },
-      {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtMkpvTVVKY0JwbTBoS1lfanZGbnlnY3dmNFY2QXdsU3M4c1FDX2NiN1AxdUlUNVlCYWhvbUNHOUE5OVlpbUVGbVdHSzg1bmtDUkloRHd3RDJFUDhCRXBB?oc=5",
-        "pubDate": "Mon, 27 Jul 2026 01:57:14 GMT",
-        "description": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "中国能源建设集团：将在新型电力系统、新能源、绿色交通等领域与湖北深度合作 - eastmoney.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFEzS0xUQkk4MkhodjNoSlVEaDYxVTJDMW0wbUFHSXhrblZIWFNrOEx6c0NaQTFEV3hqamJiWHJwelNNMjd2WWtBYmt6aFNDdFp0czZwRFRJam4xaE9mdF8wQ3hmekROV3ZpbjFUVFJPVEF0NzVMZjhQZzk2Q3NVeExDLVRWZVhwSnJ0VW11S01mSGMzVWtzSkMteXdTTHRGdXMzWg?oc=5",
-        "pubDate": "Sat, 25 Jul 2026 13:17:00 GMT",
-        "description": "中国能源建设集团：将在新型电力系统、新能源、绿色交通等领域与湖北深度合作 &nbsp;&nbsp; eastmoney.com"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
-      },
-      {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "地缘冲突凸显氢能的能源安全战略价值 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKbm5EbzUya2pYRGlZVk1yVHBDV3BobkRCWU1ZcTQ3bGJ4SFhJYXFWRDFRamtSWVlwVVphY1hBZFl6RFB6eVJiTVVhZkx3Si1YUEMzaEh3?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 09:40:44 GMT",
-        "description": "地缘冲突凸显氢能的能源安全战略价值 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      }
-    ],
+    "items": [],
     "source": "Google新闻·能源",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Kyushu University and Kyushu Electric Target Underground Hydrogen Demonstration in Japan",
-        "link": "https://fuelcellsworks.com/2026/07/29/green-hydrogen/kyushu-university-and-kyushu-electric-target-underground-hydrogen-demonstration-in-japan",
-        "pubDate": "Thu, 30 Jul 2026 15:24:04 GMT",
+        "title": "Prominence Raises A$1.56 Million as Helium and Natural Hydrogen Project Moves Toward 2027 Drilling",
+        "link": "https://fuelcellsworks.com/2026/07/29/green-investment/prominence-raises-a-1-56-million-as-helium-and-natural-hydrogen-project-moves-toward-2027-drilling",
+        "pubDate": "Wed, 29 Jul 2026 15:51:02 GMT",
         "description": "",
-        "title_cn": "日本九州大学和九州电力目标地下氢气示范"
+        "title_cn": "随着氦气和天然氢气项目向2027年钻探方向发展， Prominence筹集了156万$"
       },
       {
-        "title": "Hydrogen Fuel-Cell Start-Up Supplying COMAC Raises New Cash After Powering 30-Hour Drone Flights",
-        "link": "https://fuelcellsworks.com/2026/07/30/fuel-cells/easyh2power-s-dual-track-bet-a-tsinghua-startup-building-aviation-s-hydrogen-heart-one-engine-at-a-time",
-        "pubDate": "Thu, 30 Jul 2026 15:17:15 GMT",
+        "title": "Hydrogen: New Bosch Fuel-Cell System Begins Test Operations in Madrid",
+        "link": "https://fuelcellsworks.com/2026/07/29/fuel-cells/hydrogen-new-bosch-fuel-cell-system-begins-test-operations-in-madrid",
+        "pubDate": "Wed, 29 Jul 2026 15:40:52 GMT",
         "description": "",
-        "title_cn": "氢燃料电池初创公司供应中国商飞在为30小时无人机飞行提供动力后筹集新资金"
+        "title_cn": "Hydrogen ：新的博世燃料电池系统在马德里开始测试运营"
       },
       {
-        "title": "Construction Begins on Dutch Green Hydrogen and Battery Hub to Tackle Grid Congestion",
-        "link": "https://fuelcellsworks.com/2026/07/29/h2/construction-begins-on-twente-renewable-energy-and-green-hydrogen-hub",
-        "pubDate": "Thu, 30 Jul 2026 14:57:25 GMT",
+        "title": "Maoming Puts Its First Six Hydrogen Buses Into Service, Timed to a Provincial Games",
+        "link": "https://fuelcellsworks.com/2026/07/26/fuel-cells/maoming-puts-its-first-six-hydrogen-buses-into-service-timed-to-a-provincial-games",
+        "pubDate": "Wed, 29 Jul 2026 15:39:15 GMT",
         "description": "",
-        "title_cn": "荷兰绿色氢能和电池中心开始施工，以解决电网拥堵问题"
+        "title_cn": "茂名首批六辆氢能公交车投入使用，定时参加省级奥运会"
       },
       {
-        "title": "French Court Approves Hopium’s Revised Recovery Plan and Unlocks Atlas Financing",
-        "link": "https://fuelcellsworks.com/2026/07/30/fuel-cells/french-court-approves-hopium-s-revised-recovery-plan-and-unlocks-atlas-financing",
-        "pubDate": "Thu, 30 Jul 2026 14:43:37 GMT",
+        "title": "Hydrogen Europe Elects Thyssenkrupp’s CEO Miguel López as New Chair",
+        "link": "https://fuelcellsworks.com/2026/07/29/green-investment/hydrogen-europe-elects-thyssenkrupp-s-ceo-miguel-lopez-as-new-chair",
+        "pubDate": "Wed, 29 Jul 2026 15:30:54 GMT",
         "description": "",
-        "title_cn": "法国法院批准Hopium修订后的恢复计划并解锁Atlas融资"
+        "title_cn": "Hydrogen Europe选举蒂森克虏伯首席执行官Miguel López担任新主席"
       },
       {
-        "title": "Convergas Expands Into Hydrogen Systems After Gas Truck Growth",
-        "link": "https://fuelcellsworks.com/2026/07/30/h2/convergas-expands-into-hydrogen-systems-after-gas-truck-growth",
-        "pubDate": "Thu, 30 Jul 2026 14:18:03 GMT",
+        "title": "Inside HTWO ENERGY Cheongju: Hyundai's First Self-Operated Hydrogen Station Turns Sewage Into Fuel — and Turns a Profit on the CO2, Too",
+        "link": "https://fuelcellsworks.com/2026/07/27/electrolyzer/inside-htwo-energy-cheongju-hyundai-s-first-self-operated-hydrogen-station-turns-sewage-into-fuel-and-turns-a-profit-on-the-co2-too",
+        "pubDate": "Wed, 29 Jul 2026 15:17:30 GMT",
         "description": "",
-        "title_cn": "燃气卡车增长后， Convergas扩展到氢气系统"
+        "title_cn": "在HTWO ENERGY CHEONGJU内部：现代的第一个自营加氢站将污水转化为燃料—并将二氧化碳也转化为利润"
       },
       {
-        "title": "Spanish Researchers Advance Materials that Improve the Production of Hydrogen From Water From Microwave Radiation",
-        "link": "https://fuelcellsworks.com/2026/07/30/h2/spanish-researchers-advance-materials-that-improve-the-production-of-hydrogen-from-water-from-microwave-radiation",
-        "pubDate": "Thu, 30 Jul 2026 14:05:46 GMT",
+        "title": "USTDA Supports Major Ammonia Project in Morocco’s Southern Provinces",
+        "link": "https://fuelcellsworks.com/2026/07/29/clean-energy/ustda-supports-major-ammonia-project-in-morocco-s-southern-provinces",
+        "pubDate": "Wed, 29 Jul 2026 15:03:13 GMT",
         "description": "",
-        "title_cn": "西班牙研究人员研发出改进微波辐射水制氢的材料"
+        "title_cn": "USTDA支持摩洛哥南部省份的大型氨项目"
       },
       {
-        "title": "Decoding Green Hydrogen: The \"Final Piece\" Of the Energy Transition – An Interview with Zhang Yiguo, Vice President of the China Hydropower Engineering Consulting Group Co., Ltd.",
-        "link": "https://fuelcellsworks.com/2026/07/29/h2/decoding-green-hydrogen-the-final-piece-of-the-energy-transition-an-interview-with-zhang-yiguo-vice-president-of-the-china-hydropower-engineering-consulting-group-co-ltd",
-        "pubDate": "Thu, 30 Jul 2026 13:51:12 GMT",
+        "title": "Gold Hydrogen Produces and Bottles Helium During Ramsay 1 Well Test in South Australia",
+        "link": "https://fuelcellsworks.com/2026/07/29/clean-energy/gold-hydrogen-produces-and-bottles-helium-during-ramsay-1-well-test-in-south-australia",
+        "pubDate": "Wed, 29 Jul 2026 14:55:35 GMT",
         "description": "",
-        "title_cn": "解码绿色氢：能源转型的“最后一块” --访中国水电工程咨询集团有限公司副总裁张义国"
+        "title_cn": "金氢在南澳大利亚拉姆齐1井测试期间生产和装瓶氦"
       },
       {
-        "title": "India Moves From H2Global Observer to H2Global Partner: Joint Auctions With Germany Agreed, Netherlands and Japan Next",
-        "link": "https://fuelcellsworks.com/2026/07/30/clean-energy/india-moves-from-h2global-observer-to-h2global-partner-joint-auctions-with-germany-agreed-netherlands-and-japan-next",
-        "pubDate": "Thu, 30 Jul 2026 13:27:57 GMT",
+        "title": "600 Km on One Fill: Korea's Hydrogen Train Era Accelerates — and a Liquid Hydrogen Locomotive Just Doubled the Range Target",
+        "link": "https://fuelcellsworks.com/2026/07/27/fuel-cells/600-km-on-one-fill-korea-s-hydrogen-train-era-accelerates-and-a-liquid-hydrogen-locomotive-just-doubled-the-range-target",
+        "pubDate": "Wed, 29 Jul 2026 14:48:51 GMT",
         "description": "",
-        "title_cn": "印度从H2Global Observer转向H2Global合作伙伴：与德国、荷兰和日本达成联合拍卖协议"
+        "title_cn": "一次填充600公里：韩国的氢气列车时代加速—液氢机车的续航里程目标刚刚翻了一番"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "papers": {
     "items": [
@@ -429,114 +380,16 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "policy_nea": {
-    "items": [
-      {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 09:30:04 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 10:11:08 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
-      },
-      {
-        "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UXRja09lUWI4R2gwSXBkSEhRUkE0Sm5YemRYZGRocVZRaFN4ZWxGX3pUQmJoSkptbkRPWThiYVZuSlFBRlozRk0zaGFsQWpYQzNfRURxSU1sMVpUQTJZ?oc=5",
-        "pubDate": "Fri, 24 Jul 2026 02:13:24 GMT",
-        "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      }
-    ],
+    "items": [],
     "source": "国家能源局",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   },
   "policy_ndrc": {
-    "items": [
-      {
-        "title": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 - in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56elN1ZUdrV3F0VDc2SU1BcHlWQko2OThyZUNLQ0Nfc1VycG96NzEzSXpwSnZyeUgwdjJDVk5xcFE0UWRiZm85bDZoUExBVXRraEF1aEVQb0pldHdjWXFYb1ZjM2Jidw?oc=5",
-        "pubDate": "Fri, 24 Jul 2026 01:08:18 GMT",
-        "description": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 &nbsp;&nbsp; in-en.com"
-      },
-      {
-        "title": "一周能源政策回顾（7.5-7.11） - finance.sina.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
-        "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; finance.sina.com.cn"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
-      },
-      {
-        "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
-      }
-    ],
+    "items": [],
     "source": "发改委政策",
-    "updated": "2026-07-30 15:46 UTC"
+    "updated": "2026-07-30 22:57 UTC"
   }
 }
