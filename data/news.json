@@ -9,6 +9,13 @@
         "title_cn": "作者更正：含有超分子纳米孔的葫芦巴酚基阴离子导电膜"
       },
       {
+        "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+        "link": "https://www.nature.com/articles/d41586-026-02419-2",
+        "pubDate": "2026-07-31",
+        "description": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02419-2 Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video.",
+        "title_cn": "简报聊天：虎鲸将太阳鱼砸成碎片—研究人员不确定原因"
+      },
+      {
         "title": "The physics of fizz: why some bubbles are louder than others",
         "link": "https://www.nature.com/articles/d41586-026-02334-6",
         "pubDate": "2026-07-31",
@@ -44,22 +51,15 @@
         "title_cn": "天花如何到达美洲：第一批基因组证据指向欧洲人"
       },
       {
-        "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
-        "link": "https://www.nature.com/articles/s41586-026-10939-0",
-        "pubDate": "2026-07-30",
-        "description": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10939-0 Somatic mutations reveal the ontogeny of microglia in human aging",
-        "title_cn": "体细胞突变揭示人类衰老过程中小胶质细胞的个体发生"
-      },
-      {
-        "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "link": "https://www.nature.com/articles/s41586-026-10920-x",
-        "pubDate": "2026-07-30",
-        "description": "Nature, Published online: 30 July 2026; doi:10.1038/s41586-026-10920-x Author Correction: Sleep chart of biological ageing clocks in middle and late life",
-        "title_cn": "作者更正：中晚年生物老化时钟睡眠图"
+        "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+        "link": "https://www.nature.com/articles/d41586-026-02397-5",
+        "pubDate": "2026-07-31",
+        "description": "Nature, Published online: 31 July 2026; doi:10.1038/d41586-026-02397-5 Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined.",
+        "title_cn": "使用LLM的科学家将“做得更多，做得更少” ，建模研究预测"
       }
     ],
     "source": "Nature",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,17 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Xiaomi Sky Nomad Gains Tech-Filled Practicality, Loses Passion",
+        "link": "https://cleantechnica.com/2026/07/31/xiaomi-sky-nomad-gains-tech-filled-practicality-loses-passion/",
+        "pubDate": "Fri, 31 Jul 2026 19:59:40 +0000",
+        "description": "Xiaomi has been a big surprise in the Chinese EV market. The cell phone company quickly launched some of the hottest and most desirable EVs. Sleek cars that excited enthusiasts and attracted crowds. However, rather than sticking with what was working, they shifted strategy with the new Sky Nomad ERE",
+        "title_cn": "小米Sky Nomad获得技术实用性，失去激情"
+      },
       {
         "title": "Report That Tesla Considering Sale of Chinese Business Reportedly Completely False",
         "link": "https://cleantechnica.com/2026/07/31/report-that-tesla-considering-sale-of-chinese-business-reportedly-completely-false/",
@@ -165,17 +172,10 @@
         "pubDate": "Fri, 31 Jul 2026 01:01:18 +0000",
         "description": "How the Circular Economy Act can provide the tools to help scale Europe’s recycling industry, in order to secure access to critical minerals. Recovering materials from end-of-life products like cars and batteries is a key means to secure much needed critical minerals resiliently and sustainably. How",
         "title_cn": "欧洲的废物在其他地方创造价值"
-      },
-      {
-        "title": "Were We Less Happy Before Social Media?",
-        "link": "https://cleantechnica.com/2026/07/30/were-we-less-happy-before-social-media/",
-        "pubDate": "Fri, 31 Jul 2026 00:32:04 +0000",
-        "description": "We&#8217;ve got so much going on with the AI craze and AI crisis that the social media ones feel like old news. The old-school era of social media, though, is still here. There are still all kinds of challenges and problems associated with TikTok, Instagram, X, YouTube, Facebook, and other ... [cont",
-        "title_cn": "在社交媒体出现之前，我们是否不那么快乐？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "energy_cn": {
     "items": [
@@ -254,16 +254,16 @@
         "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
       },
       {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "国家能源局：上半年氢能领域投资同比增速超160% - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jUG1JV1pMTkQybG5JLXYyRWE3Z0ltOGlLWTJvUEdiZlQyY0libFFMTkZESTlXVHNUaEwySElBOXdLR1BwT29yTV9VZXdKOWVUX3U4YQ?oc=5",
         "pubDate": "Fri, 31 Jul 2026 01:44:05 GMT",
         "description": "国家能源局：上半年氢能领域投资同比增速超160% &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucU9QVHVZRERBSEhMbzg0WVFIX3Y0dFQ4V2hCY00xSl9PNllhWFFaZzVaSEtQVlVKMVVON0ZTa2s5WmZwczJFNUxGUzdfSk44NmRvSQ?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 - 碳索氢能网",
@@ -278,82 +278,82 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "中国能源建设集团：将在新型电力系统、新能源、绿色交通等领域与湖北深度合作 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWFEzS0xUQkk4MkhodjNoSlVEaDYxVTJDMW0wbUFHSXhrblZIWFNrOEx6c0NaQTFEV3hqamJiWHJwelNNMjd2WWtBYmt6aFNDdFp0czZwRFRJam4xaE9mdF8wQ3hmekROV3ZpbjFUVFJPVEF0NzVMZjhQZzk2Q3NVeExDLVRWZVhwSnJ0VW11S01mSGMzVWtzSkMteXdTTHRGdXMzWg?oc=5",
-        "pubDate": "Sat, 25 Jul 2026 13:17:00 GMT",
-        "description": "中国能源建设集团：将在新型电力系统、新能源、绿色交通等领域与湖北深度合作 &nbsp;&nbsp; 东方财富"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Pusan National University Study Identifies Smarter Cooling Strategy for Liquid Hydrogen Tanks",
-        "link": "https://fuelcellsworks.com/2026/07/31/energy-innovation/pusan-national-university-study-identifies-smarter-cooling-strategy-for-liquid-hydrogen-tanks",
-        "pubDate": "Fri, 31 Jul 2026 15:19:24 GMT",
+        "title": "Chinese Hydrogen-Truck Fleet Passes Two Million Kilometres as Operator Targets 10,000 Vehicles by 2030",
+        "link": "https://fuelcellsworks.com/2026/07/26/fuel-cells/shaanxi-hydrogen-energy-heavy-trucks-pass-2-million-kilometres-in-commercial-operation",
+        "pubDate": "Thu, 30 Jul 2026 16:09:22 GMT",
         "description": "",
-        "title_cn": "釜山国立大学研究确定液氢储罐更智能的冷却策略"
+        "title_cn": "中国氢能卡车车队突破200万公里，运营商的目标是到2030年达到1万辆"
       },
       {
-        "title": "Under the Canal: Thyssengas Closes a 17-Year Gap to Bring Hydrogen to Münsterland by 2027",
-        "link": "https://fuelcellsworks.com/2026/07/29/h2/under-the-canal-thyssengas-closes-a-17-year-gap-to-bring-hydrogen-to-munsterland-by-2027",
-        "pubDate": "Fri, 31 Jul 2026 14:56:56 GMT",
+        "title": "Basque Government Takes 1% Stake in Enagás as Spanish Gas-Grid Operator Pivots to Green Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/07/30/green-investment/basque-government-takes-1-percent-stake-in-enagas-as-spanish-gas-grid-operator-pivots-to-green-hydrogen",
+        "pubDate": "Thu, 30 Jul 2026 15:53:12 GMT",
         "description": "",
-        "title_cn": "在运河下： Thyssengas缩短了17年的差距，到2027年将氢气带到明斯特兰"
+        "title_cn": "巴斯克政府收购Enagás 1%股权，西班牙燃气电网运营商转向绿色氢能"
       },
       {
-        "title": "FE Steel Produces Japan’s First Green Hydrogen-Reduced Iron in Decarbonisation Trial",
-        "link": "https://fuelcellsworks.com/2026/07/31/clean-energy/fe-steel-produces-japan-s-first-green-hydrogen-reduced-iron-in-decarbonisation-trial",
-        "pubDate": "Fri, 31 Jul 2026 14:56:23 GMT",
+        "title": "Thor Energy Funds Major Seismic Survey to Find Out Whether Its 3% Natural Hydrogen Readings Run Deep",
+        "link": "https://fuelcellsworks.com/2026/07/30/h2/thor-energy-s-hy-range-5-6-quarters-of-cash-a-divested-portfolio-and-a-fully-funded-seismic-survey-to-find-out-what-s-actually-down-there",
+        "pubDate": "Thu, 30 Jul 2026 15:48:06 GMT",
         "description": "",
-        "title_cn": "FE Steel生产日本首个绿色氢还原铁脱碳试验"
+        "title_cn": "雷神能源为大型地震调查提供资金，以了解其3%的天然氢读数是否深入"
       },
       {
-        "title": "CNIE Visits Kew Gardens to Launch New EPSRC Project on Green Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/07/31/green-hydrogen/cnie-visits-kew-gardens-to-launch-new-epsrc-project-on-green-hydrogen",
-        "pubDate": "Fri, 31 Jul 2026 14:34:58 GMT",
+        "title": "Kyushu University and Kyushu Electric Target Underground Hydrogen Demonstration in Japan",
+        "link": "https://fuelcellsworks.com/2026/07/29/green-hydrogen/kyushu-university-and-kyushu-electric-target-underground-hydrogen-demonstration-in-japan",
+        "pubDate": "Thu, 30 Jul 2026 15:24:04 GMT",
         "description": "",
-        "title_cn": "中国国际经济研究所参观邱园，启动新的EPSRC绿色氢项目"
+        "title_cn": "日本九州大学和九州电力目标地下氢气示范"
       },
       {
-        "title": "South Korean City Adds Third Hydrogen Bus as Small-Scale Fleet Expansion Continues",
-        "link": "https://fuelcellsworks.com/2026/07/31/fuel-cells/south-korean-city-adds-third-hydrogen-bus-as-small-scale-fleet-expansion-continues",
-        "pubDate": "Fri, 31 Jul 2026 14:21:57 GMT",
+        "title": "Hydrogen Fuel-Cell Start-Up Supplying COMAC Raises New Cash After Powering 30-Hour Drone Flights",
+        "link": "https://fuelcellsworks.com/2026/07/30/fuel-cells/easyh2power-s-dual-track-bet-a-tsinghua-startup-building-aviation-s-hydrogen-heart-one-engine-at-a-time",
+        "pubDate": "Thu, 30 Jul 2026 15:17:15 GMT",
         "description": "",
-        "title_cn": "随着小规模车队扩张，韩国城市增加了第三辆氢能公交车"
+        "title_cn": "氢燃料电池初创公司供应中国商飞在为30小时无人机飞行提供动力后筹集新资金"
       },
       {
-        "title": "Cell Impact Shareholders Approve SEK53.6m [$5.6M] Rights Issue with Four Free Warrants per Unit",
-        "link": "https://fuelcellsworks.com/2026/07/31/hydrogen-economy/cell-impact-shareholders-approve-sek53-6m-5-6m-rights-issue-with-four-free-warrants-per-unit",
-        "pubDate": "Fri, 31 Jul 2026 14:11:54 GMT",
+        "title": "Construction Begins on Dutch Green Hydrogen and Battery Hub to Tackle Grid Congestion",
+        "link": "https://fuelcellsworks.com/2026/07/29/h2/construction-begins-on-twente-renewable-energy-and-green-hydrogen-hub",
+        "pubDate": "Thu, 30 Jul 2026 14:57:25 GMT",
         "description": "",
-        "title_cn": "Cell Impact股东批准发行5,360万瑞典克朗[560万$]股权，每股发行四份免费认股权证"
+        "title_cn": "荷兰绿色氢能和电池中心开始施工，以解决电网拥堵问题"
       },
       {
-        "title": "De Nora Presses Ahead With Italian Electrolyser Gigafactory as Hydrogen Revenue Slumps 70%",
-        "link": "https://fuelcellsworks.com/2026/07/30/electrolyzer/de-nora-presses-ahead-with-italian-electrolyser-gigafactory-as-hydrogen-revenue-slumps-70-percent",
-        "pubDate": "Fri, 31 Jul 2026 14:05:40 GMT",
+        "title": "French Court Approves Hopium’s Revised Recovery Plan and Unlocks Atlas Financing",
+        "link": "https://fuelcellsworks.com/2026/07/30/fuel-cells/french-court-approves-hopium-s-revised-recovery-plan-and-unlocks-atlas-financing",
+        "pubDate": "Thu, 30 Jul 2026 14:43:37 GMT",
         "description": "",
-        "title_cn": "迪诺拉推出意大利电解槽超级工厂，因氢收入下滑70%"
+        "title_cn": "法国法院批准Hopium修订后的恢复计划并解锁Atlas融资"
       },
       {
-        "title": "Sparc Technologies Moves Graphene Additives Into Commercial Coatings as Hydrogen Pilot Completes Six-Month Run",
-        "link": "https://fuelcellsworks.com/2026/07/31/green-hydrogen/sparc-technologies-moves-graphene-additives-into-commercial-coatings-as-hydrogen-pilot-completes-six-month-run",
-        "pubDate": "Fri, 31 Jul 2026 14:01:44 GMT",
+        "title": "Convergas Expands Into Hydrogen Systems After Gas Truck Growth",
+        "link": "https://fuelcellsworks.com/2026/07/30/h2/convergas-expands-into-hydrogen-systems-after-gas-truck-growth",
+        "pubDate": "Thu, 30 Jul 2026 14:18:03 GMT",
         "description": "",
-        "title_cn": "Sparc Technologies将石墨烯添加剂用于商业涂料，因为氢气试点完成了为期六个月的运行"
+        "title_cn": "燃气卡车增长后， Convergas扩展到氢气系统"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "papers": {
     "items": [
@@ -429,13 +429,13 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "policy_nea": {
     "items": [
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBucU9QVHVZRERBSEhMbzg0WVFIX3Y0dFQ4V2hCY00xSl9PNllhWFFaZzVaSEtQVlVKMVVON0ZTa2s5WmZwczJFNUxGUzdfSk44NmRvSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
@@ -452,16 +452,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - SOHU",
+        "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
         "pubDate": "Wed, 29 Jul 2026 10:11:08 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; SOHU"
-      },
-      {
-        "title": "CPIA：光伏制氢氨醇已成为衔接可再生能源消纳与绿色化工、长时储能的关键路径 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nZHBwYldiVkFsaExpQTJ1N1RqTjFWbTBPQ3dMMmVWVjY2WmwxMzl2UlgySmQ3LUlTa1FRcmFDZGszQXNDc2FxRFloZUJzOXJ0eG5DZ3FNemlBel9Yb0RBUW1ld0FEcTA?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 01:08:53 GMT",
-        "description": "CPIA：光伏制氢氨醇已成为衔接可再生能源消纳与绿色化工、长时储能的关键路径 &nbsp;&nbsp; 国际新能源网"
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
       },
       {
         "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - 碳索氢能网",
@@ -476,28 +470,28 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - cls.cn",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; cls.cn"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
+        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 - in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56elN1ZUdrV3F0VDc2SU1BcHlWQko2OThyZUNLQ0Nfc1VycG96NzEzSXpwSnZyeUgwdjJDVk5xcFE0UWRiZm85bDZoUExBVXRraEF1aEVQb0pldHdjWXFYb1ZjM2Jidw?oc=5",
-        "pubDate": "Fri, 24 Jul 2026 01:08:18 GMT",
-        "description": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 &nbsp;&nbsp; in-en.com"
-      },
-      {
-        "title": "一周能源政策回顾（7.5-7.11） - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWUgyS1BwMHFZRWZHeEp3VHBvYjZrbl8ybHZjOXUzNmI1X2VyaXByZWRFOU1EVnNxeUFkY1ZWcy1LUHlrejdIa1NEb0dBM1F1NTJwODJNSC0zQlM5OFFNMVFUQjBiT2d2ZXQwRDMwRXRZVHROZ1QzOEZDQTY3Zw?oc=5",
-        "pubDate": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（7.5-7.11） &nbsp;&nbsp; 新浪财经"
+        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
+        "pubDate": "Tue, 28 Jul 2026 00:52:26 GMT",
+        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -512,31 +506,37 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "碳市场、绿证、绿电政策知识包 - 包头市人民政府",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oOTNnMURiTkVhemk0d2JTMHNUS2F4NGNzdlQxU3Z3V1VnSUlEaGZOT0prN2NJNVV2cGRVVF9Jc2pPZi14VFhCU0ZKX3VPbUprMURVZ2R5N3pTbnlEbTRYY2dQLUFHVk4zLWMySFF3N09rQU9SdnRBTQ?oc=5",
+        "pubDate": "Mon, 29 Sep 2025 05:11:45 GMT",
+        "description": "碳市场、绿证、绿电政策知识包 &nbsp;&nbsp; 包头市人民政府"
+      },
+      {
         "title": "绿色算力政策加速落地，全国首个全栈AI平台上线 - yjbzr.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Vc2pZTXN0dEllaExjVzRFU0ZGM3BiMVFBWWlYNFhsdmdqcUNkNllUT2xzNm5PVGtWSHY1d29jSFNFeW0yeHptRURsTDhQUQ?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
         "description": "绿色算力政策加速落地，全国首个全栈AI平台上线 &nbsp;&nbsp; yjbzr.com"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
-      },
-      {
-        "title": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2Qta2FSSm9Zd1VSeF9zSXpvemlNaHhYN0xKZ3B4YU5iTnBsaEl6RFlrVmtkcUk0cEhTa000aWhTZXA3bDJSYms3anRfVFB2bGVaZXJySjZwZUFVamtyU1VCbVVfaGhM?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "天津“十五五”规划：到 2030年，非化石能源发电装机超过2000万千瓦 &nbsp;&nbsp; 国际新能源网"
+        "title": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 - in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56elN1ZUdrV3F0VDc2SU1BcHlWQko2OThyZUNLQ0Nfc1VycG96NzEzSXpwSnZyeUgwdjJDVk5xcFE0UWRiZm85bDZoUExBVXRraEF1aEVQb0pldHdjWXFYb1ZjM2Jidw?oc=5",
+        "pubDate": "Fri, 24 Jul 2026 01:08:18 GMT",
+        "description": "中国工程院院士刘吉臻，国家发改委能源所所长吕文斌，厦门大学中国能源政策研究院院长林伯强受访：能源问题是发展中的战略问题 &nbsp;&nbsp; in-en.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-07-31 15:57 UTC"
+    "updated": "2026-07-31 22:53 UTC"
   }
 }
