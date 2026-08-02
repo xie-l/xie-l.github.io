@@ -59,7 +59,7 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "tech_cn": {
     "items": [
@@ -113,10 +113,31 @@
       }
     ],
     "source": "36氪",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Test Drive: BYD eMAX7 & the Quiet Shock of an Electric Future for the Soccer Mom",
+        "link": "https://cleantechnica.com/2026/08/02/test-drive-byd-emax7-the-quiet-shock-of-an-electric-future-for-the-soccer-mom/",
+        "pubDate": "Sun, 02 Aug 2026 13:35:48 +0000",
+        "description": "There are test drives you walk into with expectations, and then there are test drives that quietly ambush you. The BYD eMAX7 belongs firmly in the second category. Visually, it does not promise much. The exterior is plain and conservative, shaped like a sleek utilitarian tool. Aside from the three-l",
+        "title_cn": "试驾：比亚迪eMAX7和足球妈妈电动未来的宁静冲击"
+      },
+      {
+        "title": "Funding for Renewables in Asia & Africa Ready",
+        "link": "https://cleantechnica.com/2026/08/02/funding-for-renewables-in-asia-africa-ready/",
+        "pubDate": "Sun, 02 Aug 2026 13:25:04 +0000",
+        "description": "Ukko Renewable ready to implement long-term ambition to become a leading player in the energy transition across Asia The Emerging Africa and Asia Infrastructure Fund signed a senior secured debt financing agreement providing up to 50 million dollars to Ukko Renewable. The facility supports the devel",
+        "title_cn": "为亚洲和非洲的可再生能源提供资金"
+      },
+      {
+        "title": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
+        "link": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
+        "pubDate": "Sun, 02 Aug 2026 09:03:00 +0000",
+        "description": "Edinburgh makes electric transit visible. The city has electrified regional rail, trams and a growing number of electric buses, including large battery-electric double-deckers that stand out from the pavement. That progress is important, but it is not especially surprising. Urban buses were always e",
+        "title_cn": "Ember的电动客车展示城际公交电气化已经到来"
+      },
       {
         "title": "Janus Battery Swap Trucks Show The Way",
         "link": "https://cleantechnica.com/2026/08/01/janus-battery-swap-trucks-show-the-way/",
@@ -151,31 +172,10 @@
         "pubDate": "Sat, 01 Aug 2026 14:52:30 +0000",
         "description": "JAKARTA, Indonesia — The 33rd GAIKINDO Indonesia International Auto Show opened at the Indonesia Convention Exhibition in BSD City with a clear signal that Southeast Asia is rapidly accelerating its transition toward zero-emission transportation. CleanTechnica arrived after the media day and rushed ",
         "title_cn": "纯电动汽车品牌在印度尼西亚车展上占据中心位置"
-      },
-      {
-        "title": "Hyundai Shows Neira Electric MPV Prototype in Indonesia Motor Show",
-        "link": "https://cleantechnica.com/2026/08/01/hyundai-shows-neira-electric-mpv-prototype-in-indonesia-motor-show/",
-        "pubDate": "Sat, 01 Aug 2026 13:59:38 +0000",
-        "description": "JAKARTA, Indonesia — Hyundai Motor Co. unveiled its Neira prototype at the 2026 Gaikindo Indonesia International Auto Show in Tangerang, signaling a major expansion of its electric vehicle strategy in Southeast Asia. Officially described by the South Korean automaker as a three-row family vehicle, t",
-        "title_cn": "现代在印尼车展上展示内拉电动MPV原型车"
-      },
-      {
-        "title": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
-        "link": "https://cleantechnica.com/2026/08/01/lower-saxony-hydrogen-trains-battery-exit/",
-        "pubDate": "Sat, 01 Aug 2026 06:20:01 +0000",
-        "description": "Lower Saxony’s hydrogen trains will probably not be retired because a politician announces that battery-electric multiple units were the better technology. They will be retired when the bill arrives for extending the life of an underused, specialized hydrogen system and the state has to compare that",
-        "title_cn": "下萨克森州的氢气列车现在是一个电池退出策略问题"
-      },
-      {
-        "title": "What Happens When The AI Power Industry Collapses?",
-        "link": "https://cleantechnica.com/2026/07/31/what-happens-when-the-ai-power-industry-collapses/",
-        "pubDate": "Sat, 01 Aug 2026 03:57:19 +0000",
-        "description": "I just wrote two articles on AI, and as YouTube has determined this is now what I&#8217;m interested in, I keep getting fed interesting videos on the topics I included in my two op-eds, so I keep watching/listening to more on this. Thinking about the topic more, though, and thinking ... [continued] ",
-        "title_cn": "当人工智能电力行业崩溃时会发生什么？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "energy": {
     "items": [
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -248,22 +248,22 @@
         "description": "国家能源局拟立项43项氢能标准 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
         "pubDate": "Sun, 26 Jul 2026 01:00:00 GMT",
         "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超160% - ne21.com",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
+      },
+      {
+        "title": "国家能源局：上半年氢能领域投资同比增速超160% - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jUG1JV1pMTkQybG5JLXYyRWE3Z0ltOGlLWTJvUEdiZlQyY0libFFMTkZESTlXVHNUaEwySElBOXdLR1BwT29yTV9VZXdKOWVUX3U4YQ?oc=5",
         "pubDate": "Fri, 31 Jul 2026 01:44:05 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超160% &nbsp;&nbsp; ne21.com"
+        "description": "国家能源局：上半年氢能领域投资同比增速超160% &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "万明忠出席2026甘肃新能源装备产业和氢能低碳技术创新发展大会并作主旨报告 - 碳索氢能网",
@@ -278,20 +278,20 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 10:02:55 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "papers": {
     "items": [
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -446,10 +446,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 00:48:39 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
-        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - mnewenergy.in-en.com",
+        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
         "pubDate": "Tue, 28 Jul 2026 00:52:26 GMT",
-        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; mnewenergy.in-en.com"
+        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -537,6 +537,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-02 09:05 UTC"
+    "updated": "2026-08-02 14:55 UTC"
   }
 }
