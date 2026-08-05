@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Exclusive: the science papers that patents cite the most",
+        "link": "https://www.nature.com/articles/d41586-026-02386-8",
+        "pubDate": "2026-08-05",
+        "description": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02386-8 Nature reveals the studies that are mentioned most often in patent filings — and why.",
+        "title_cn": "独家：专利引用最多的科学论文"
+      },
+      {
         "title": "Author Correction: Casdatifan shows durable response linked to HIF-2α biology in kidney cancer",
         "link": "https://www.nature.com/articles/s41586-026-10958-x",
         "pubDate": "2026-08-04",
@@ -49,22 +56,15 @@
         "pubDate": "2026-08-04",
         "description": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02428-1 Modified baker’s yeast can produce a precursor for a drug that is usually derived from an endangered plant and its relatives.",
         "title_cn": "制造抗癌药物的工程酵母可以挽救罕见的花朵"
-      },
-      {
-        "title": "Tiny patch of Amazon probably holds 40,000 insect species — many new to science",
-        "link": "https://www.nature.com/articles/d41586-026-02350-6",
-        "pubDate": "2026-08-04",
-        "description": "Nature, Published online: 04 August 2026; doi:10.1038/d41586-026-02350-6 Megaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
-        "title_cn": "亚马逊的一小块地区可能有4万种昆虫物种，其中许多是科学新发现"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "energy_cn": {
     "items": [
@@ -200,7 +200,7 @@
       },
       {
         "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iSkZFaGY2aHlDSWNRdzZ2TzlxZkFYdXpFYTVZck9UcXItbGNuQVQtcWh4cjVGd0diMHRQVXZZQWFFQ1FsekNsanNaZGRSUDd1TnNBOA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
@@ -217,10 +217,10 @@
         "description": "“十五五”新型电力系统建设点题氢能！ &nbsp;&nbsp; 搜狐网"
       },
       {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TE1JTGZmWDJFOHZuVGpsUnFqdV9UMUVKV0JUZ0I0aHRueU1fc0IyZm5ibkxLWjRpU2NZMFNrTmJ5aEFqS2VBZHdQaEF4STNVbWgyMEwtR0poNjQ?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 02:48:00 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 能源界"
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       },
       {
         "title": "新能源装机“狂奔”之后，氢能如何补上电网的“时间缺口” - news.qq.com",
@@ -229,20 +229,20 @@
         "description": "新能源装机“狂奔”之后，氢能如何补上电网的“时间缺口” &nbsp;&nbsp; news.qq.com"
       },
       {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索储能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
+        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索储能网"
       },
       {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aV292UUZPcWRMbkg2a2V1TU1LZDBPQ0NPd2FkQi1POUJwSWw3U3Z2Ty1zcktaVEFDSG4tX3pFMWFwb0dJZ2k2V0RDVGdTS1BHZy1SVHRBZTJCQ0M4U1RR?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索氢能网"
+        "title": "中国能建国际集团党委书记、董事长乔旭斌会见南非电力与能源部部长拉莫豪帕 - mpower.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40STdTUEhIS2JUZnIwUS04cGluRmF3UkQ1STBRMVM5cXlqRTlMTy1KNkdoMThjbC1vdUR1VzVOYWdEcXdyQUl0OGpvX3kzTDZkdGNaa09BRG5JalYx?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 02:46:39 GMT",
+        "description": "中国能建国际集团党委书记、董事长乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; mpower.in-en.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,28 +391,22 @@
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 09:30:04 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - h2.solarbe.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UXRja09lUWI4R2gwSXBkSEhRUkE0Sm5YemRYZGRocVZRaFN4ZWxGX3pUQmJoSkptbkRPWThiYVZuSlFBRlozRk0zaGFsQWpYQzNfRURxSU1sMVpUQTJZ?oc=5",
+        "pubDate": "Fri, 24 Jul 2026 02:13:24 GMT",
+        "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; h2.solarbe.com"
+      },
+      {
         "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
         "pubDate": "Wed, 29 Jul 2026 10:11:08 GMT",
         "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
-      },
-      {
-        "title": "四份国家级文件落地！氢能“十五五”路线图加速明朗 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UXRja09lUWI4R2gwSXBkSEhRUkE0Sm5YemRYZGRocVZRaFN4ZWxGX3pUQmJoSkptbkRPWThiYVZuSlFBRlozRk0zaGFsQWpYQzNfRURxSU1sMVpUQTJZ?oc=5",
-        "pubDate": "Fri, 24 Jul 2026 02:13:24 GMT",
-        "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
@@ -431,10 +425,16 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,10 +445,10 @@
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-05 04:59 UTC"
+    "updated": "2026-08-05 09:30 UTC"
   }
 }
