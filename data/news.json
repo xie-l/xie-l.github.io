@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "New Zealand Electric Vehicle Market Rises from the Depths! (CHARTS)",
+        "link": "https://cleantechnica.com/2026/08/06/new-zealand-electric-vehicle-market-rises-from-the-depths-charts/",
+        "pubDate": "Fri, 07 Aug 2026 03:06:41 +0000",
+        "description": "Once touted as a possible “Norway of the Pacific,” New Zealand’s electric vehicle transition was stopped in its tracks by a change of government. The new conservative government reversed the generous tax incentives for EVs and brought in a road user charge. EV sales plummeted. Sounds like another co",
+        "title_cn": "新西兰电动汽车市场从深处崛起！ （图表）"
+      },
+      {
+        "title": "Waymo Jacks Up Lobbying In Washington, DC",
+        "link": "https://cleantechnica.com/2026/08/06/waymo-jacks-up-lobbying-in-washington-dc/",
+        "pubDate": "Fri, 07 Aug 2026 02:27:17 +0000",
+        "description": "The race is on in the robotaxi industry to get into new markets, build up customer bases, and edge out the competition before they arrive — or at least at these nascent stages when no one is too massive or dominant. I just covered news of Zoox launching paid service ... [continued] The post Waymo Ja",
+        "title_cn": "华盛顿特区的Waymo Jacks Up游说活动"
+      },
+      {
+        "title": "Zoox To Start Charging Passengers Next Week",
+        "link": "https://cleantechnica.com/2026/08/06/zoox-to-start-charging-passengers-next-week/",
+        "pubDate": "Fri, 07 Aug 2026 01:33:34 +0000",
+        "description": "Zoox has been allowed to do self-driving vehicle and robotaxi testing for a long time, but it hasn&#8217;t been allowed to charge passengers for them. Now, however, that has changed — Zoox got approval last week from the National Highway Traffic Safety Administration (NHTSA) to deploy up to 5,000 ro",
+        "title_cn": "Zoox将于下周开始向乘客收费"
+      },
       {
         "title": "VICTORY: Court Overturns Trump Administration’s Wind Pause",
         "link": "https://cleantechnica.com/2026/08/06/victory-court-overturns-trump-administrations-wind-pause/",
@@ -102,31 +123,10 @@
         "pubDate": "Thu, 06 Aug 2026 20:19:25 +0000",
         "description": "On March 6, 2024, Nathan Owen, a resident of the UK, phoned police and told them his Jaguar I-Pace electric car had gone berserk on a motorway in Merseyside, a seaside area that includes the city of Liverpool. He told the police his car had suddenly accelerated and he could ... [continued] The post ",
         "title_cn": "英国司机因“我的电动汽车疯了！”骗局被判入狱"
-      },
-      {
-        "title": "Musk’s Mayhem Continues Beyond DOGE Into Our Everyday Lives",
-        "link": "https://cleantechnica.com/2026/08/06/musks-mayhem-continues-beyond-doge-into-our-everyday-lives/",
-        "pubDate": "Thu, 06 Aug 2026 16:02:30 +0000",
-        "description": "It&#8217;s been over a year since Elon Musk’s so-called Department of Government Efficiency (DOGE) charged into the US federal government. His team fired thousands of government employees. Then they realized that so many problems emerged that they had to restaff many of those positions. Oops! It was",
-        "title_cn": "马斯克的混乱继续超越总督进入我们的日常生活"
-      },
-      {
-        "title": "The Messaging Skills That Have Blown Up The AI Bubble",
-        "link": "https://cleantechnica.com/2026/08/06/the-messaging-skills-that-have-blown-up-the-ai-bubble/",
-        "pubDate": "Thu, 06 Aug 2026 15:53:59 +0000",
-        "description": "AI is useful. Let me get that out of the way. What we are mostly referring to as AI at the moment (Claude, ChatGPT, Google Gemini, Microsoft Pilot, etc.) can do useful things. The point of there being an AI bubble is not that it isn&#8217;t useful — it&#8217;s that ... [continued] The post The Messa",
-        "title_cn": "引爆人工智能泡沫的消息传递技巧"
-      },
-      {
-        "title": "BYD Just Sells Cheap EVs? Check Out This $216,000 Yangwang",
-        "link": "https://cleantechnica.com/2026/08/06/byd-just-sells-cheap-evs-check-out-this-216000-yangwang/",
-        "pubDate": "Thu, 06 Aug 2026 13:50:12 +0000",
-        "description": "People often think of Chinese cars being cheap. There is a full blown EV revolution underway in China, and many of the electric car models are priced lower than similar options elsewhere, and there are also small, cheap options that aren&#8217;t in many markets, but China is also selling and ... [co",
-        "title_cn": "比亚迪只卖廉价电动汽车？看看这个$ 216,000阳旺"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "energy_cn": {
     "items": [
@@ -217,12 +217,6 @@
         "description": "五份“十五五”重磅文件密集部署氢能！ &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "“十五五”新型电力系统建设点题氢能！ - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd3FPY3hRRi0yanQ0Mk84ZHJnLWtwa3ZMY3JfdXlzZXFMTmhxMHZNY2ZmdkF0TURKaTdJWG1IaTV1aGctelJLMWloU0pMS244ZHRneEVncVk0c0c5UjBTbzFvR3otcWNGblhsaDRQU3NGd2hiWXUzdVEwV0o5bzVvTDYyMTJpSk52NUkwZA?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 01:28:27 GMT",
-        "description": "“十五五”新型电力系统建设点题氢能！ &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -239,148 +233,154 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Protium Wins Approval for 15MW Scottish Hydrogen Plant Despite Water and Peatland Concerns",
-        "link": "https://fuelcellsworks.com/2026/08/05/h2/protium-wins-approval-for-15mw-scottish-hydrogen-plant-despite-water-and-peatland-concerns",
-        "pubDate": "Wed, 05 Aug 2026 15:44:17 GMT",
+        "title": "German Minister Hails Hydrogen-Based Steel Plant Set to Begin Production in 2027",
+        "link": "https://fuelcellsworks.com/2026/08/02/green-hydrogen/german-economy-minister-backs-salzgitter-hydrogen-steel-project-as-first-production-nears",
+        "pubDate": "Thu, 06 Aug 2026 16:12:15 GMT",
         "description": "",
-        "title_cn": "尽管存在水和泥炭地的担忧， Protium仍赢得了15MW苏格兰氢电厂的批准"
+        "title_cn": "德国部长称氢基钢厂将于2027年投产"
       },
       {
-        "title": "South Korean Coal-Power Hub Pivots to Green Hydrogen With 2.5MW Electrolyser Plant",
-        "link": "https://fuelcellsworks.com/2026/08/05/h2/south-korean-coal-power-hub-pivots-to-green-hydrogen-with-2-5mw-electrolyser-plant",
-        "pubDate": "Wed, 05 Aug 2026 15:28:15 GMT",
+        "title": "EU Approves €780M Dutch Green Hydrogen Subsidy Scheme Targeting 400MW of Electrolysers",
+        "link": "https://fuelcellsworks.com/2026/08/06/electrolyzer/eu-approves-780m-dutch-green-hydrogen-subsidy-scheme-targeting-400mw-of-electrolysers",
+        "pubDate": "Thu, 06 Aug 2026 15:37:33 GMT",
         "description": "",
-        "title_cn": "韩国煤电枢纽通过2.5MW电解槽工厂转向绿色氢"
+        "title_cn": "欧盟批准€ 7.8亿荷兰绿色氢气补贴计划，目标是4亿瓦电解槽"
       },
       {
-        "title": "ZeroAvia Leads HyPRIME Project to Demonstrate Hydrogen Infrastructure for the Future of Commercial Aviation",
-        "link": "https://fuelcellsworks.com/2026/08/05/fuel-cells/zeroavia-leads-hyprime-project-to-demonstrate-hydrogen-infrastructure-for-the-future-of-commercial-aviation",
-        "pubDate": "Wed, 05 Aug 2026 15:27:24 GMT",
+        "title": "University of Illinois Urbana-Champaign and GenH2 Advance Liquid Hydrogen Research for Next-Generation Aviation",
+        "link": "https://fuelcellsworks.com/2026/08/06/green-technology/university-of-illinois-urbana-champaign-and-genh2-advance-liquid-hydrogen-research-for-next-generation-aviation",
+        "pubDate": "Thu, 06 Aug 2026 15:29:26 GMT",
         "description": "",
-        "title_cn": "ZeroAvia领导HyPRIME项目，为商用航空的未来展示氢基础设施"
+        "title_cn": "伊利诺伊大学香槟分校和GenH2推进下一代航空液氢研究"
       },
       {
-        "title": "Hydrogen Heating Developer Clears Regulatory Hurdles Ahead of Commercial Push",
-        "link": "https://fuelcellsworks.com/2026/08/05/clean-energy/hydrogen-heating-developer-clears-regulatory-hurdles-ahead-of-commercial-push",
-        "pubDate": "Wed, 05 Aug 2026 15:19:22 GMT",
+        "title": "Green Hydrogen Has Not Failed — It Is Entering a Commercial Reality Check, Chilean Researcher Says",
+        "link": "https://fuelcellsworks.com/2026/08/06/h2/green-hydrogen-has-not-failed-it-is-entering-a-commercial-reality-check-chilean-researcher-says",
+        "pubDate": "Thu, 06 Aug 2026 15:26:52 GMT",
         "description": "",
-        "title_cn": "氢能供暖开发商在商业推动之前清除了监管障碍"
+        "title_cn": "智利研究人员表示，绿色氢气并未失败—它正在进入商业现实检查"
       },
       {
-        "title": "Historic Achievement for HyDriven at the Red Bull Ring",
-        "link": "https://fuelcellsworks.com/2026/08/03/h2/historic-achievement-for-hydriven-at-the-red-bull-ring",
-        "pubDate": "Wed, 05 Aug 2026 15:13:40 GMT",
+        "title": "Snowfox Discovery Secures 10,000 Acres in Iowa for Natural Hydrogen Exploration",
+        "link": "https://fuelcellsworks.com/2026/08/06/green-hydrogen/snowfox-discovery-secures-10-000-acres-in-iowa-for-natural-hydrogen-exploration",
+        "pubDate": "Thu, 06 Aug 2026 15:07:51 GMT",
         "description": "",
-        "title_cn": "HyDriven在红牛擂台的历史性成就"
+        "title_cn": "Snowfox Discovery在爱荷华州占地10,000英亩，用于天然氢勘探"
       },
       {
-        "title": "KAIST-MIT Team Turns Seawater Carbon Into Solid Minerals While Producing Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/08/05/energy-innovation/kaist-mit-team-turns-seawater-carbon-into-solid-minerals-while-producing-hydrogen",
-        "pubDate": "Wed, 05 Aug 2026 15:10:27 GMT",
+        "title": "Nuvora Energy Completes Pre-Feasibility Study and Independent Review for 300 MWth Advanced Nuclear and Hydrogen Platform",
+        "link": "https://fuelcellsworks.com/2026/08/06/electrolyzer/nuvora-energy-completes-pre-feasibility-study-and-independent-review-for-300-mwth-advanced-nuclear-and-hydrogen-platform",
+        "pubDate": "Thu, 06 Aug 2026 14:50:45 GMT",
         "description": "",
-        "title_cn": "KAIST-MIT团队在生产氢气的同时将海水碳转化为固体矿物质"
+        "title_cn": "Nuvora Energy完成300兆瓦先进核能和氢能平台的预可行性研究和独立审查"
       },
       {
-        "title": "Gold Hydrogen Flows, Purifies and Bottles Helium at South Australian Exploration Well",
-        "link": "https://fuelcellsworks.com/2026/08/05/h2/gold-hydrogen-flows-purifies-and-bottles-helium-at-south-australian-exploration-well",
-        "pubDate": "Wed, 05 Aug 2026 15:03:04 GMT",
+        "title": "Green Hydrogen Loses Competitiveness as Marginal Production Costs Rise Week on Week",
+        "link": "https://fuelcellsworks.com/2026/08/04/green-hydrogen/green-hydrogen-loses-competitiveness-as-marginal-production-costs-rise-week-on-week",
+        "pubDate": "Thu, 06 Aug 2026 14:38:08 GMT",
         "description": "",
-        "title_cn": "南澳大利亚勘探井的黄金氢气流动、净化和瓶装氦气"
+        "title_cn": "随着边际生产成本逐周上升，绿色氢失去竞争力"
       },
       {
-        "title": "Abu Dhabi Strengthens Position in Global Hydrogen Economy, Report Finds",
-        "link": "https://fuelcellsworks.com/2026/08/05/h2/abu-dhabi-strengthens-position-in-global-hydrogen-economy-report-finds",
-        "pubDate": "Wed, 05 Aug 2026 14:53:21 GMT",
+        "title": "Vortex Energy Receives Final Technical Study Results for the Robinsons River Salt Project",
+        "link": "https://fuelcellsworks.com/2026/08/06/clean-energy/vortex-energy-receives-final-technical-study-results-for-the-robinsons-river-salt-project",
+        "pubDate": "Thu, 06 Aug 2026 14:37:26 GMT",
         "description": "",
-        "title_cn": "报告发现，阿布扎比在全球氢经济中的地位得到巩固"
+        "title_cn": "Vortex Energy获得Robinsons River Salt项目的最终技术研究结果"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2608.06276v1",
-        "pubDate": "2026-08-06T17:05:19Z",
-        "description": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static objects and provide limited frameworks for probabilistic modelin",
-        "title_cn": "基于强化学习的持久图空间随机动力学"
+        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+        "link": "https://arxiv.org/abs/2608.06362v1",
+        "pubDate": "2026-08-06T17:57:11Z",
+        "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be ",
+        "title_cn": "AV-AIVAT ： 74倍便宜的代理评估，通过认证的任何时间-在不完美的信息游戏中有效停止"
       },
       {
-        "title": "An \"inside-out\" approach to modeling supermassive black hole binary inspiral",
-        "link": "https://arxiv.org/abs/2608.06269v1",
-        "pubDate": "2026-08-06T17:00:07Z",
-        "description": "The inspiral and merger of two supermassive black holes (SMBHs) releases immense energy in low-frequency gravitational waves (GWs). Recent pulsar timing array (PTA) observations of the stochastic nHz GW background (GWB) are consistent with a SMBH binary origin. GW data from PTAs and from the upcomin",
-        "title_cn": "一种“由内而外”的方法来模拟超大质量黑洞双星"
+        "title": "On generalised d'Alembert-type integral representations for damped wave equations on the quarter-plane",
+        "link": "https://arxiv.org/abs/2608.06355v1",
+        "pubDate": "2026-08-06T17:53:49Z",
+        "description": "We rigorously construct and verify a posteriori new closed-form solutions for the forced Maxwell-Cattaneo-Vernotte equation (also broadly known as the damped wave equation, hyperbolic heat, and telegrapher's equation on lossy transmission lines) posed on the spatiotemporal quarter-plane with general",
+        "title_cn": "关于四分之一平面上阻尼波方程的广义d 'Alembert型积分表示"
       },
       {
-        "title": "Almost sure path localisation for the derivative martingale of branching Brownian motion",
-        "link": "https://arxiv.org/abs/2608.06263v1",
-        "pubDate": "2026-08-06T16:54:12Z",
-        "description": "The evolution of the front of branching Brownian motion is determined by the limit of the derivative martingale. In this work, we characterise which particles contribute to this limit. Precisely, we establish a sharp almost sure path localisation result which shows that the limit is determined by th",
-        "title_cn": "分支布朗运动的导数Martingale几乎可以肯定的路径定位"
+        "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+        "link": "https://arxiv.org/abs/2608.06351v1",
+        "pubDate": "2026-08-06T17:53:10Z",
+        "description": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for expla",
+        "title_cn": "静态和不断变化的数据解释方法评估面临的挑战"
       },
       {
-        "title": "Game Hopping in Lean",
-        "link": "https://arxiv.org/abs/2608.06261v1",
-        "pubDate": "2026-08-06T16:52:16Z",
-        "description": "We present HOPSCOTCH, a Lean 4 framework for mechanizing computationally sound, game-based cryptographic proofs. Security definitions are expressed as indistinguishability between stateful probabilistic oracles, and proofs follow the standard game-hopping paradigm. HOPSCOTCH uses a shallow embedding",
-        "title_cn": "精益游戏之旅"
+        "title": "Clump Migration in Disk Galaxies: Revisiting Chandrasekhar's Dynamical Friction",
+        "link": "https://arxiv.org/abs/2608.06350v1",
+        "pubDate": "2026-08-06T17:53:02Z",
+        "description": "Massive stellar clumps are thought to migrate toward galactic centers through dynamical friction, contributing to bulge growth and the structural evolution of disk galaxies. While the classical Chandrasekhar formalism is widely used to estimate clump inspiral times, its validity for extended, evolvi",
+        "title_cn": "圆盘星系中的团块迁移：重温钱德拉塞卡的动态摩擦"
       },
       {
-        "title": "NP-Hardness of Non-Crossing Hamiltonian Path and Cycle in Non-Planar Graphs",
-        "link": "https://arxiv.org/abs/2608.06255v1",
-        "pubDate": "2026-08-06T16:44:37Z",
-        "description": "We seek to disentangle the hardness of finding a Hamiltonian path or cycle from the hardness of finding a non-crossing path or cycle by giving a direct reduction from 3-SAT to the non-crossing Hamiltonian path and cycle problems on non-planar graphs. Prior hardness proofs proceed by reduction to pla",
-        "title_cn": "非平面图中非交叉哈密顿路径和循环的NP硬度"
+        "title": "Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation",
+        "link": "https://arxiv.org/abs/2608.06341v1",
+        "pubDate": "2026-08-06T17:50:06Z",
+        "description": "High shares of distributed energy resources (DERs) transform distribution systems into active participants in integrated transmission and distribution (ITD) operations. Linear models enable scalable distribution-level flexibility aggregation but can misclassify AC feasible operating points, whereas ",
+        "title_cn": "具有非线性灵活性聚合的传输分配系统的分布式协调"
       },
       {
-        "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
-        "link": "https://arxiv.org/abs/2608.06243v1",
-        "pubDate": "2026-08-06T16:29:24Z",
-        "description": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying ",
-        "title_cn": "DASH ：推理模型按政策自我蒸馏的发散自适应监督视野"
+        "title": "On number of cyclic $n$-roots and disjointness of Fourier supports",
+        "link": "https://arxiv.org/abs/2608.06335v1",
+        "pubDate": "2026-08-06T17:41:34Z",
+        "description": "A cyclic $n$-root is an $n$-dimensional complex vector that solves a particular set of multivariate homogeneous polynomial equations. There is a one-to-one correspondence between unimodular cyclic $n$-roots and bi-unimodular vectors (CAZAC sequences) with leading entry one. It was conjectured by Bjö",
+        "title_cn": "关于循环$ n $ -根的数量和傅里叶支持的不相交性"
       },
       {
-        "title": "Exponential logical-error reduction in quantum memories via optimal syndrome-measurement timing",
-        "link": "https://arxiv.org/abs/2608.06242v1",
-        "pubDate": "2026-08-06T16:27:55Z",
-        "description": "Syndrome-measurements timing is usually treated as a fixed clock cycle of a quantum error-correcting code. For quantum memories, however, the intra-measurement interval is itself an optimizable control parameter: measuring too rarely allows idling errors to accumulate, whereas measuring too often in",
-        "title_cn": "通过最优综合征测量时间在量子记忆中指数逻辑误差减少"
+        "title": "Decomposition of Solar Wind Velocity Distribution Functions with Orthogonal Polynomials",
+        "link": "https://arxiv.org/abs/2608.06324v1",
+        "pubDate": "2026-08-06T17:38:25Z",
+        "description": "We present a framework for decomposing solar-wind velocity distribution functions (VDFs) using orthogonal polynomial bases. We aim to establish a practical procedure for applying polynomial decompositions to in-situ spacecraft VDFs and to clarify how the resulting spectra of expansion-coefficient po",
+        "title_cn": "用正交多项式分解太阳风风速分布函数"
       },
       {
-        "title": "Depth-Guided Video Object Counting in Crowded Scenes",
-        "link": "https://arxiv.org/abs/2608.06236v1",
-        "pubDate": "2026-08-06T16:24:41Z",
-        "description": "Our primary objective is to advance video object counting in crowded scenes, aiming to robustly count all instances of a target category based on given text or visual prompts. Existing methods rely on RGB information, limiting their discriminative ability in crowded and occluded conditions. To addre",
-        "title_cn": "拥挤场景中的深度引导视频对象计数"
+        "title": "The good reduction of generalized Kummer surfaces in the non-supersingular case",
+        "link": "https://arxiv.org/abs/2608.06323v1",
+        "pubDate": "2026-08-06T17:37:11Z",
+        "description": "In this article, we study the good reduction of generalized Kummer surfaces, which are K3 surfaces obtained as minimal resolutions of quotients of abelian surfaces by finite groups. In particular, we establish a criterion for good reduction when the abelian surface has non-supersingular reduction an",
+        "title_cn": "在非超奇异情况下，广义Kummer曲面的良好缩减"
       },
       {
-        "title": "Quantum noise reduction schemes for KAGRA post-O5 upgrade",
-        "link": "https://arxiv.org/abs/2608.06229v1",
-        "pubDate": "2026-08-06T16:18:22Z",
-        "description": "Quantum noise, arising from the quantisation of electromagnetic field, has been a limiting noise source for current gravitational wave (GW) detectors. Squeezed vacuum modifies quantum fluctuations and has been routinely employed. To reduce quantum noise, the current solution is to combine squeezed v",
-        "title_cn": "KAGRA O5后升级的量子降噪方案"
+        "title": "The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation",
+        "link": "https://arxiv.org/abs/2608.06319v1",
+        "pubDate": "2026-08-06T17:33:55Z",
+        "description": "Rare fluctuations in physical systems depend on the detailed microphysics responsible for the fluctuations. In classical statistical systems, the large deviation principle has elucidated the role of semi-classics in describing this regime, and has simultaneously provided a the mathematical foundatio",
+        "title_cn": "罕见事件的量子力学：从量子行走到随机通货膨胀"
       },
       {
-        "title": "Geometric closure of classical nucleation theory for magnetic-field-controlled nanoparticle size across magnetic classes",
-        "link": "https://arxiv.org/abs/2608.06220v1",
-        "pubDate": "2026-08-06T16:11:56Z",
-        "description": "Controlling nanoparticle size during synthesis remains a central challenge in nanoscience, particularly in systems where external magnetic fields are used as continuous control parameters. Existing descriptions of magnetic-field-assisted nucleation are typically material-specific or rely on computat",
-        "title_cn": "跨磁类磁场控制纳米颗粒尺寸的经典成核理论的几何闭包"
+        "title": "Three-layer water flows: Dirichlet-Neumann operators and approximations",
+        "link": "https://arxiv.org/abs/2608.06314v1",
+        "pubDate": "2026-08-06T17:28:13Z",
+        "description": "The object of investigation in this paper are the nonlinear equations of motion for two-dimensional inviscid water flows with piecewise constant density stratification in a three-layer fluid with a flat bottom, a free surface and two interfaces. We establish a Hamiltonian formulation for the nonline",
+        "title_cn": "三层水流： Dirichlet-Neumann算子和近似"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "policy_nea": {
     "items": [
@@ -421,20 +421,20 @@
         "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 10:11:08 GMT",
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-07 01:27 UTC"
+    "updated": "2026-08-07 04:21 UTC"
   }
 }
