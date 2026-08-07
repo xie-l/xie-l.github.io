@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Operational Tropical Cyclone Forecasting with AI",
+        "link": "https://www.nature.com/articles/s41586-026-10953-2",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/s41586-026-10953-2 Operational Tropical Cyclone Forecasting with AI",
+        "title_cn": "使用人工智能进行运营热带气旋预报"
+      },
+      {
         "title": "Pumas are drivers’ guardian angels",
         "link": "https://www.nature.com/articles/d41586-026-02429-0",
         "pubDate": "2026-08-06",
@@ -9,124 +16,117 @@
         "title_cn": "美洲狮是司机的守护天使"
       },
       {
+        "title": "How a steady drip-drip can erode the hardest stone",
+        "link": "https://www.nature.com/articles/d41586-026-02360-4",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02360-4 Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power.",
+        "title_cn": "稳定的滴水如何侵蚀最坚硬的石头"
+      },
+      {
+        "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+        "link": "https://www.nature.com/articles/d41586-026-02458-9",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
+        "title_cn": "磁场悬浮传感器可以检测超微弱的大脑活动"
+      },
+      {
+        "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+        "link": "https://www.nature.com/articles/d41586-026-02430-7",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
+        "title_cn": "热浪已造成数百万人死亡。以下是科学家如何计算失去的生命"
+      },
+      {
+        "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+        "link": "https://www.nature.com/articles/d41586-026-02235-8",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
+        "title_cn": "人工智能代理正在检查科学文献—并发现数十年前的错误"
+      },
+      {
+        "title": "Scientists up in arms about cuts to UK physics and astronomy",
+        "link": "https://www.nature.com/articles/d41586-026-02460-1",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
+        "title_cn": "科学家们对英国物理和天文学的削减持怀疑态度"
+      },
+      {
         "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
         "link": "https://www.nature.com/articles/s41586-026-10970-1",
         "pubDate": "2026-08-05",
         "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10970-1 Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
         "title_cn": "通过甲脒共晶热蒸发的钙钛矿/硅串联"
-      },
-      {
-        "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
-        "link": "https://www.nature.com/articles/s41586-026-10963-0",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10963-0 Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
-        "title_cn": "出版商更正：结直肠癌转移过程中的进行性可塑性"
-      },
-      {
-        "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
-        "link": "https://www.nature.com/articles/s41586-026-10977-8",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10977-8 Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
-        "title_cn": "关注点编辑表达：肿瘤外泌体整合素决定器官向性转移"
-      },
-      {
-        "title": "Junk plastic turns into high-value commodity with chemistry trick",
-        "link": "https://www.nature.com/articles/d41586-026-02445-0",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/d41586-026-02445-0 Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug.",
-        "title_cn": "垃圾塑料通过化学技巧变成高价值商品"
-      },
-      {
-        "title": "An expanded codebook of human transcription factor DNA-binding specificity",
-        "link": "https://www.nature.com/articles/s41586-026-10798-9",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10798-9 Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors.",
-        "title_cn": "扩展的人类转录因子DNA结合特异性码本"
-      },
-      {
-        "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
-        "link": "https://www.nature.com/articles/s41586-026-10871-3",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10871-3 High-spatial-resolution observations of the solar photosphere reveal a far more complex and dynamic solar scene than previously observed and show that ubiquitous Kelvin–Helmholtz instabilities drive plasma mixing on the Sun.",
-        "title_cn": "无处不在的Kelvin–Helmholtz不稳定性驱动太阳上的等离子体混合"
-      },
-      {
-        "title": "ZFP36L2 orchestrates stress-adaptive plasticity in regeneration and cancer",
-        "link": "https://www.nature.com/articles/s41586-026-10890-0",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10890-0 The RNA-binding protein ZFP36L2 mediates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis.",
-        "title_cn": "ZFP36L2在再生和癌症中协调应激适应可塑性"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "Climate Change Is Rewriting Europe’s Nuclear Cooling Assumptions",
-        "link": "https://cleantechnica.com/2026/08/06/climate-change-europe-nuclear-cooling-assumptions/",
-        "pubDate": "Thu, 06 Aug 2026 06:50:39 +0000",
-        "description": "Romania gave Europe the kind of energy-transition image that should make planners uncomfortable. On August 3, Romanian naval engineers used 180 kilograms of explosives to remove a rock outcrop in the Bala Canal, a branch of the Danube. The controlled blast cleared the way for a temporary dam intende",
-        "title_cn": "气候变化正在改写欧洲的核冷却假设"
+        "title": "VICTORY: Court Overturns Trump Administration’s Wind Pause",
+        "link": "https://cleantechnica.com/2026/08/06/victory-court-overturns-trump-administrations-wind-pause/",
+        "pubDate": "Thu, 06 Aug 2026 22:51:35 +0000",
+        "description": "Portland, Oregon — Today, the United States District Court for the District of Oregon ruled in favor of clean energy developers in a legal challenge against Donald Trump’s Department of Defense for freezing reviews of wind projects and delaying development for renewable energy. The review freeze cre",
+        "title_cn": "胜利：法院推翻特朗普政府的风暂停"
       },
       {
-        "title": "European Countries Cut Tens of Billions of Euros of Fossil Fuel Imports from Wind & Solar Power Growth",
-        "link": "https://cleantechnica.com/2026/08/05/european-countries-cut-tens-of-billions-of-euros-of-fossil-fuel-imports-from-wind-solar-power-growth/",
-        "pubDate": "Thu, 06 Aug 2026 02:30:19 +0000",
-        "description": "I wrote a handful of articles last month on the 75th edition of the Statistical Review of World Energy. There was one more thing in there that I wanted to cover, though. There&#8217;s a chart eleven pages in that shows how much money different countries have saved from switching to wind ... [continu",
-        "title_cn": "欧洲国家从风能和太阳能增长中削减了数百亿欧元的化石燃料进口"
+        "title": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
+        "link": "https://cleantechnica.com/2026/08/06/donald-trump-pays-off-5th-energy-company-in-attack-on-renewable-energy/",
+        "pubDate": "Thu, 06 Aug 2026 22:46:25 +0000",
+        "description": "Washington, D.C. — Today, energy company RWE announced a deal with the Trump administration in which the administration will pay the company $1.22 billion in exchange for the company cancelling three offshore wind projects and doubling down on LNG. This is the fifth time Donald Trump has paid off en",
+        "title_cn": "唐纳德特朗普在攻击可再生能源方面回报了第五家能源公司"
       },
       {
-        "title": "Latin America EV Sales Report: 10% EV Market Share Surpassed in Q2!",
-        "link": "https://cleantechnica.com/2026/08/05/latin-america-ev-sales-report-10-ev-market-share-surpassed-in-q2/",
-        "pubDate": "Thu, 06 Aug 2026 02:02:03 +0000",
-        "description": "Three months ago, in our previous quarterly report, I wrote the following: If costumer interest remains and high oil prices start to hit the region, there’s a very real chance we will surpass 10% at some point this year. By this, I meant I was hopeful that, if the stars ... [continued] The post Lati",
-        "title_cn": "拉丁美洲电动汽车销售报告：第二季度电动汽车市场份额超过10% ！"
+        "title": "China Unveils Safety Standards for Autonomous Driving Systems",
+        "link": "https://cleantechnica.com/2026/08/06/china-unveils-safety-standards-for-autonomous-driving-systems/",
+        "pubDate": "Thu, 06 Aug 2026 22:38:29 +0000",
+        "description": "The Chinese government has released new mandatory national standards regarding the safety requirements of autonomous driving systems. Nothing needs to be done urgently, as the new standards don&#8217;t go into effect until July 1, 2027. The standards apply to M- and N-category vehicles with Level 3 ",
+        "title_cn": "中国发布自动驾驶系统安全标准"
       },
       {
-        "title": "Lucid Aims Another Salvo At Tesla’s Robotaxi Business",
-        "link": "https://cleantechnica.com/2026/08/05/lucid-evs-robotaxi-driverless-tesla-cybercab-elon-musk/",
-        "pubDate": "Thu, 06 Aug 2026 01:55:55 +0000",
-        "description": "The EV startup Lucid aims to focus more resources on its Robotaxi partnership with Uber, Nuro, and the Hertz affiliate Oro. The post Lucid Aims Another Salvo At Tesla&#8217;s Robotaxi Business appeared first on CleanTechnica .",
-        "title_cn": "Lucid再次瞄准特斯拉的机器人出租车业务"
+        "title": "Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,350 MSRP",
+        "link": "https://cleantechnica.com/2026/08/06/ford-fathom-electric-pickup-truck-ev-affordable/",
+        "pubDate": "Thu, 06 Aug 2026 22:08:16 +0000",
+        "description": "Ford is still playing its forthcoming midsized electric pickup truck close to the vest, but the EV finally has a name: Fathom. The post Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,350 MSRP appeared first on CleanTechnica .",
+        "title_cn": "全新福特Fathom电动皮卡，价格仅（支票） $ 28,350建议零售价"
       },
       {
-        "title": "More Than 100,000 Pre-Orders For The Xiaomi Sky Nomad?",
-        "link": "https://cleantechnica.com/2026/08/05/more-than-100000-pre-orders-for-the-xiaomi-sky-nomad/",
-        "pubDate": "Thu, 06 Aug 2026 01:17:49 +0000",
-        "description": "There are many hot new thangs in the Chinese EV market, but I don&#8217;t think any company has made a hotter overall splash in the past few years than Xiaomi. The consumer electronics company stormed into the EV market and was immediately a huge hit. Its first couple of models ... [continued] The p",
-        "title_cn": "小米Sky Nomad超过10万次预购？"
+        "title": "UK Driver Jailed After “My EV Went Crazy!” Scam",
+        "link": "https://cleantechnica.com/2026/08/06/uk-driver-jailed-after-my-ev-went-crazy-scam/",
+        "pubDate": "Thu, 06 Aug 2026 20:19:25 +0000",
+        "description": "On March 6, 2024, Nathan Owen, a resident of the UK, phoned police and told them his Jaguar I-Pace electric car had gone berserk on a motorway in Merseyside, a seaside area that includes the city of Liverpool. He told the police his car had suddenly accelerated and he could ... [continued] The post ",
+        "title_cn": "英国司机因“我的电动汽车疯了！”骗局被判入狱"
       },
       {
-        "title": "Wayve & Uber Can Now Deploy Robotaxis in London",
-        "link": "https://cleantechnica.com/2026/08/05/wayve-uber-can-now-deploy-robotaxis-in-london/",
-        "pubDate": "Thu, 06 Aug 2026 00:55:30 +0000",
-        "description": "The year of robotaxis moves forward, and we have another robotaxi update today. The autonomous driving firm Wayve and partner Uber were granted Private Hire Vehicle licences from Transport for London (TfL) and can now deploy robotaxis in The Swinging City. That said, they must include human supervis",
-        "title_cn": "Wayve和优步现在可以在伦敦部署机器人出租车"
+        "title": "Musk’s Mayhem Continues Beyond DOGE Into Our Everyday Lives",
+        "link": "https://cleantechnica.com/2026/08/06/musks-mayhem-continues-beyond-doge-into-our-everyday-lives/",
+        "pubDate": "Thu, 06 Aug 2026 16:02:30 +0000",
+        "description": "It&#8217;s been over a year since Elon Musk’s so-called Department of Government Efficiency (DOGE) charged into the US federal government. His team fired thousands of government employees. Then they realized that so many problems emerged that they had to restaff many of those positions. Oops! It was",
+        "title_cn": "马斯克的混乱继续超越总督进入我们的日常生活"
       },
       {
-        "title": "Eugene Clean Energy Fund Officially Qualifies for the November 2026 Ballot",
-        "link": "https://cleantechnica.com/2026/08/05/eugene-clean-energy-fund-officially-qualifies-for-the-november-2026-ballot/",
-        "pubDate": "Thu, 06 Aug 2026 00:10:32 +0000",
-        "description": "Voters will decide whether to place a fee on billion-dollar corporations to fund clean energy jobs EUGENE, Oregon — The Eugene Clean Energy Fund, backed by environmental organizations and labor unions, has officially qualified for the November 2026 ballot, after the Eugene City Recorder certified th",
-        "title_cn": "尤金清洁能源基金正式有资格参加2026年11月的投票"
+        "title": "The Messaging Skills That Have Blown Up The AI Bubble",
+        "link": "https://cleantechnica.com/2026/08/06/the-messaging-skills-that-have-blown-up-the-ai-bubble/",
+        "pubDate": "Thu, 06 Aug 2026 15:53:59 +0000",
+        "description": "AI is useful. Let me get that out of the way. What we are mostly referring to as AI at the moment (Claude, ChatGPT, Google Gemini, Microsoft Pilot, etc.) can do useful things. The point of there being an AI bubble is not that it isn&#8217;t useful — it&#8217;s that ... [continued] The post The Messa",
+        "title_cn": "引爆人工智能泡沫的消息传递技巧"
       },
       {
-        "title": "Electric Mining Truck Uses Sodium-Ion Batteries",
-        "link": "https://cleantechnica.com/2026/08/05/electric-mining-truck-uses-sodium-ion-batteries/",
-        "pubDate": "Thu, 06 Aug 2026 00:04:28 +0000",
-        "description": "Sodium-ion batteries are one of the hot new things in the EV and broader cleantech industry. They are providing a next era of electrification. That even includes electric mining trucks now! Hina Battery and Shaanxi Tonly Heavy Industries are collaborating on these mining trucks, which are reportedly",
-        "title_cn": "电动矿用卡车使用钠离子电池"
+        "title": "BYD Just Sells Cheap EVs? Check Out This $216,000 Yangwang",
+        "link": "https://cleantechnica.com/2026/08/06/byd-just-sells-cheap-evs-check-out-this-216000-yangwang/",
+        "pubDate": "Thu, 06 Aug 2026 13:50:12 +0000",
+        "description": "People often think of Chinese cars being cheap. There is a full blown EV revolution underway in China, and many of the electric car models are priced lower than similar options elsewhere, and there are also small, cheap options that aren&#8217;t in many markets, but China is also selling and ... [co",
+        "title_cn": "比亚迪只卖廉价电动汽车？看看这个$ 216,000阳旺"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "energy": {
     "items": [
@@ -188,27 +188,33 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "五份“十五五”重磅文件密集部署氢能！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqWWtnUHBidXhzbVZhbUVKTE5yb1ozQ1JscnVrdmJUUmx3OWtsYVg4U2llangwVGRoMFpLcXBabDY1bGl5Znh0bE1nbTYtREdIV2h6ekxDYXdUMGF6UWw0?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 01:28:57 GMT",
-        "description": "五份“十五五”重磅文件密集部署氢能！ &nbsp;&nbsp; 碳索氢能网"
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
+        "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - mh2.in-en.com",
+        "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOb201Q2xDTXA0b0Z0VlVUUXdGbENOTGZPYmFqd3VQMFQ1ZXFVQnFXcHhPTDVJbUJJUTM0ejMyVWlodTNIQUs2N19seGJERC1PQUtPcVdB?oc=5",
+        "pubDate": "Thu, 06 Aug 2026 09:53:09 GMT",
+        "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; mh2.in-en.com"
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 10:02:55 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "五份“十五五”重磅文件密集部署氢能！ - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZExhUjV4N2xiZ1B4Wk5iZ2NSLTlFQTFnbm9xcHZkSEZkZE5velZoSTBsMzJGSDhaa090MGE2NE5CWG9ZbFhRLVlGXzFRQ1h6YzdqUnZZYVdGUFJueURmZw?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 01:28:57 GMT",
+        "description": "五份“十五五”重磅文件密集部署氢能！ &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "“十五五”新型电力系统建设点题氢能！ - 搜狐网",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Machine-Learning Search for Lax Connections",
-        "link": "https://arxiv.org/abs/2608.05146v1",
-        "pubDate": "2026-08-05T17:59:26Z",
-        "description": "We apply a machine learning framework to search for Lax connections in two-dimensional non-linear sigma models using local current data. For the $SU(2)$ principal chiral model and the symmetric coset $S^2 = SU(2)/U(1)$, the method successfully recovers the full spectral-parameter families without us",
-        "title_cn": "LAX连接的机器学习搜索"
+        "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2608.06276v1",
+        "pubDate": "2026-08-06T17:05:19Z",
+        "description": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static objects and provide limited frameworks for probabilistic modelin",
+        "title_cn": "基于强化学习的持久图空间随机动力学"
       },
       {
-        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-        "link": "https://arxiv.org/abs/2608.05144v1",
-        "pubDate": "2026-08-05T17:58:58Z",
-        "description": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and ",
-        "title_cn": "Argus ：长期推理的通用Agent运行时"
+        "title": "An \"inside-out\" approach to modeling supermassive black hole binary inspiral",
+        "link": "https://arxiv.org/abs/2608.06269v1",
+        "pubDate": "2026-08-06T17:00:07Z",
+        "description": "The inspiral and merger of two supermassive black holes (SMBHs) releases immense energy in low-frequency gravitational waves (GWs). Recent pulsar timing array (PTA) observations of the stochastic nHz GW background (GWB) are consistent with a SMBH binary origin. GW data from PTAs and from the upcomin",
+        "title_cn": "一种“由内而外”的方法来模拟超大质量黑洞双星"
       },
       {
-        "title": "Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings",
-        "link": "https://arxiv.org/abs/2608.05132v1",
-        "pubDate": "2026-08-05T17:53:33Z",
-        "description": "Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. Existing longitudinal mesh predictors either extrapolate shape trajectories via high-dimensional embeddings or regress vertex deformations directly. We instead pre",
-        "title_cn": "使用MT-GNN预测大脑形态学：使用基于图的度量张量嵌入在连续时间内进行网格演化"
+        "title": "Almost sure path localisation for the derivative martingale of branching Brownian motion",
+        "link": "https://arxiv.org/abs/2608.06263v1",
+        "pubDate": "2026-08-06T16:54:12Z",
+        "description": "The evolution of the front of branching Brownian motion is determined by the limit of the derivative martingale. In this work, we characterise which particles contribute to this limit. Precisely, we establish a sharp almost sure path localisation result which shows that the limit is determined by th",
+        "title_cn": "分支布朗运动的导数Martingale几乎可以肯定的路径定位"
       },
       {
-        "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
-        "link": "https://arxiv.org/abs/2608.05120v1",
-        "pubDate": "2026-08-05T17:48:45Z",
-        "description": "Kinetic model discovery is a central challenge in chemical engineering, as accurate rate expressions are essential for understanding and controlling chemical and biological processes. Symbolic regression (SR) has emerged as a powerful data-driven approach for identifying interpretable kinetic models",
-        "title_cn": "DASyR-LLM ：使用LLM进行动力学模型发现的领域感知符号回归"
+        "title": "Game Hopping in Lean",
+        "link": "https://arxiv.org/abs/2608.06261v1",
+        "pubDate": "2026-08-06T16:52:16Z",
+        "description": "We present HOPSCOTCH, a Lean 4 framework for mechanizing computationally sound, game-based cryptographic proofs. Security definitions are expressed as indistinguishability between stateful probabilistic oracles, and proofs follow the standard game-hopping paradigm. HOPSCOTCH uses a shallow embedding",
+        "title_cn": "精益游戏之旅"
       },
       {
-        "title": "Cardinal Grid Slime Trail is PSPACE-Complete",
-        "link": "https://arxiv.org/abs/2608.05118v1",
-        "pubDate": "2026-08-05T17:47:55Z",
-        "description": "Slime Trail is a two-player combinatorial game in which the players alternately move a shared token to an adjacent vertex, permanently removing each vertex the token leaves, while attempting to reach a goal node. Ferland and Burke (2017) proved that Slime Trail is PSPACE-complete on arbitrary planar",
-        "title_cn": "Cardinal Grid Slime Trail是PSPACE-Complete"
+        "title": "NP-Hardness of Non-Crossing Hamiltonian Path and Cycle in Non-Planar Graphs",
+        "link": "https://arxiv.org/abs/2608.06255v1",
+        "pubDate": "2026-08-06T16:44:37Z",
+        "description": "We seek to disentangle the hardness of finding a Hamiltonian path or cycle from the hardness of finding a non-crossing path or cycle by giving a direct reduction from 3-SAT to the non-crossing Hamiltonian path and cycle problems on non-planar graphs. Prior hardness proofs proceed by reduction to pla",
+        "title_cn": "非平面图中非交叉哈密顿路径和循环的NP硬度"
       },
       {
-        "title": "Spherically Polarized Alfvén Waves and the Gosling Boost",
-        "link": "https://arxiv.org/abs/2608.05091v1",
-        "pubDate": "2026-08-05T17:28:29Z",
-        "description": "Alfvén waves are thought to play critical roles in solar wind acceleration and plasma heating in the solar corona and inner heliosphere. Parker Solar Probe (PSP) has highlighted the role of large amplitude Spherically Polarized Alfvén Waves (SPAWs), where the locally constant magnetic field magnitud",
-        "title_cn": "球偏振Alfvén波和Gosling Boost"
+        "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
+        "link": "https://arxiv.org/abs/2608.06243v1",
+        "pubDate": "2026-08-06T16:29:24Z",
+        "description": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level. On-policy self-distillation (OPSD) mitigates this sparsity by querying ",
+        "title_cn": "DASH ：推理模型按政策自我蒸馏的发散自适应监督视野"
       },
       {
-        "title": "It Takes Two to Tribo: Stochastic Charge Evolution in Repeated Binary Collisions of Acoustically Levitated Particles",
-        "link": "https://arxiv.org/abs/2608.05083v1",
-        "pubDate": "2026-08-05T17:22:24Z",
-        "description": "The mechanisms governing triboelectric charging between insulating particles of the same material remain an open question in nonequilibrium physics, with several competing models proposed to explain observed charging behaviour. Here, we investigate charge evolution in a minimal system consisting of ",
-        "title_cn": "Tribo需要两个：声学悬浮粒子重复二元碰撞中的随机电荷演化"
+        "title": "Exponential logical-error reduction in quantum memories via optimal syndrome-measurement timing",
+        "link": "https://arxiv.org/abs/2608.06242v1",
+        "pubDate": "2026-08-06T16:27:55Z",
+        "description": "Syndrome-measurements timing is usually treated as a fixed clock cycle of a quantum error-correcting code. For quantum memories, however, the intra-measurement interval is itself an optimizable control parameter: measuring too rarely allows idling errors to accumulate, whereas measuring too often in",
+        "title_cn": "通过最优综合征测量时间在量子记忆中指数逻辑误差减少"
       },
       {
-        "title": "Generalized Glauber theorem for dark-matter axion and graviton detection",
-        "link": "https://arxiv.org/abs/2608.05082v1",
-        "pubDate": "2026-08-05T17:22:14Z",
-        "description": "We revisit the generalized Glauber theorem motivated by recent applications to dark-matter axion searches and graviton production. For Hamiltonian containing up to quadratic terms in annihilation and creation operators coupled to classical sources, the time-evolution operator can be factorized into ",
-        "title_cn": "暗物质轴子和引力子探测的广义Glauber定理"
+        "title": "Depth-Guided Video Object Counting in Crowded Scenes",
+        "link": "https://arxiv.org/abs/2608.06236v1",
+        "pubDate": "2026-08-06T16:24:41Z",
+        "description": "Our primary objective is to advance video object counting in crowded scenes, aiming to robustly count all instances of a target category based on given text or visual prompts. Existing methods rely on RGB information, limiting their discriminative ability in crowded and occluded conditions. To addre",
+        "title_cn": "拥挤场景中的深度引导视频对象计数"
       },
       {
-        "title": "Effective single particle picture for anharmonic lattice dynamics: a Rosetta stone for electronic and ionic response",
-        "link": "https://arxiv.org/abs/2608.05068v1",
-        "pubDate": "2026-08-05T17:12:25Z",
-        "description": "We establish a theoretical framework for the dynamics of a lattice of ions in a mean-field approach, where anharmonicity is included via self-consistency. In this picture, the many-body dynamics of a system of $N$ atoms in three dimensions is mapped onto two kinds of $6N$-dimensional vectors: the ph",
-        "title_cn": "用于非谐晶格动力学的有效单粒子图像：用于电子和离子响应的罗塞塔石"
+        "title": "Quantum noise reduction schemes for KAGRA post-O5 upgrade",
+        "link": "https://arxiv.org/abs/2608.06229v1",
+        "pubDate": "2026-08-06T16:18:22Z",
+        "description": "Quantum noise, arising from the quantisation of electromagnetic field, has been a limiting noise source for current gravitational wave (GW) detectors. Squeezed vacuum modifies quantum fluctuations and has been routinely employed. To reduce quantum noise, the current solution is to combine squeezed v",
+        "title_cn": "KAGRA O5后升级的量子降噪方案"
       },
       {
-        "title": "Analyzing the daily flows: Exploring shared micro-mobility factors in Venice",
-        "link": "https://arxiv.org/abs/2608.05065v1",
-        "pubDate": "2026-08-05T17:11:11Z",
-        "description": "Shared micro-mobility has emerged as a key component of a sustainable urban transportation system, however, limited research exists on how environmental factors influence the mobility demand between specific origin-destination (OD) locations. This work extends research on the demand-side perspective",
-        "title_cn": "分析日常流动：探索威尼斯的共享微出行因素"
+        "title": "Geometric closure of classical nucleation theory for magnetic-field-controlled nanoparticle size across magnetic classes",
+        "link": "https://arxiv.org/abs/2608.06220v1",
+        "pubDate": "2026-08-06T16:11:56Z",
+        "description": "Controlling nanoparticle size during synthesis remains a central challenge in nanoscience, particularly in systems where external magnetic fields are used as continuous control parameters. Existing descriptions of magnetic-field-assisted nucleation are typically material-specific or rely on computat",
+        "title_cn": "跨磁类磁场控制纳米颗粒尺寸的经典成核理论的几何闭包"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -392,9 +392,15 @@
       },
       {
         "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iSkZFaGY2aHlDSWNRdzZ2TzlxZkFYdXpFYTVZck9UcXItbGNuQVQtcWh4cjVGd0diMHRQVXZZQWFFQ1FsekNsanNaZGRSUDd1TnNBOA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 09:30:04 GMT",
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -415,26 +421,20 @@
         "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 10:11:08 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -481,13 +481,13 @@
         "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
       },
       {
-        "title": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qM1p5YndDZk82RG56Qk9YcV9TUU0xak9uYzQ0bVNCYmhmNG1VaGs4dXYtalVwRXVHcjZNQTFtRzFyMHR4ZVF3a1I4bGVLZ0dEdFdSaW4tbi1aWEd5QWRaSHU1dDdFQmtY?oc=5",
-        "pubDate": "Thu, 16 Oct 2025 07:00:00 GMT",
-        "description": "重磅！国家发改委：零碳园区、绿色甲醇将获中央专项资金支持 &nbsp;&nbsp; 国际新能源网"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-06 09:35 UTC"
+    "updated": "2026-08-07 01:27 UTC"
   }
 }
