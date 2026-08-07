@@ -9,6 +9,13 @@
         "title_cn": "简报聊天： DNA修复是长寿的秘诀吗？鲸鱼和鼹鼠提供诱人的暗示"
       },
       {
+        "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+        "link": "https://www.nature.com/articles/d41586-026-02462-z",
+        "pubDate": "2026-08-07",
+        "description": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02462-z Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.",
+        "title_cn": "肺炎球菌疾病的通用疫苗更接近现实"
+      },
+      {
         "title": "Operational Tropical Cyclone Forecasting with AI",
         "link": "https://www.nature.com/articles/s41586-026-10953-2",
         "pubDate": "2026-08-06",
@@ -49,25 +56,53 @@
         "pubDate": "2026-08-06",
         "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02460-1 Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope.",
         "title_cn": "科学家们对英国物理和天文学的削减持怀疑态度"
-      },
-      {
-        "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-        "link": "https://www.nature.com/articles/d41586-026-02458-9",
-        "pubDate": "2026-08-06",
-        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
-        "title_cn": "磁场悬浮传感器可以检测超微弱的大脑活动"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Oh, So Trump Loves Solar Power After All?",
+        "link": "https://cleantechnica.com/2026/08/07/solar-power-us-trade-tariffs-trump-manufacturing-polysilicon/",
+        "pubDate": "Fri, 07 Aug 2026 21:53:48 +0000",
+        "description": "Photo: The US solar power profile keeps growing, and some solar stakeholders anticipate an additional boost from the President's new Section 232 order under the 1962 Trade Expansion Act. The post Oh, So Trump Loves Solar Power After All? appeared first on CleanTechnica .",
+        "title_cn": "哦，那么特朗普毕竟喜欢太阳能？"
+      },
+      {
+        "title": "New Mexico Court Orders Meta To Pay $942 Million Over Harm To Children",
+        "link": "https://cleantechnica.com/2026/08/07/new-mexico-court-orders-meta-to-pay-942-million-over-harm-to-children/",
+        "pubDate": "Fri, 07 Aug 2026 20:09:30 +0000",
+        "description": "In March, after a trial that lasted seven weeks, a jury in New Mexico found that Meta had violated the state&#8217;s consumer protection laws by creating online products that are harmful to the mental health of children. The jury determined the company hid what it knew about the dangers of ... [cont",
+        "title_cn": "新墨西哥州法院命令META因伤害儿童支付9.42亿美元$"
+      },
+      {
+        "title": "Reports of Doug Burgum’s Smug Incompetence Are No Surprise",
+        "link": "https://cleantechnica.com/2026/08/07/reports-of-doug-burgums-smug-incompetence-are-no-surprise/",
+        "pubDate": "Fri, 07 Aug 2026 19:21:01 +0000",
+        "description": "WASHINGTON, D.C. — Recent reporting has raised serious questions about Interior Secretary Doug Burgum&#8217;s leadership of the Department of the Interior, describing an agency plagued by dysfunction, rampant staff departures, secrecy, and a management culture that has left career employees demorali",
+        "title_cn": "关于Doug Burgum自以为是的无能的报道并不令人惊讶"
+      },
+      {
+        "title": "New Anti-Energy Efficiency Bill Will Cost Consumers, Waste Energy",
+        "link": "https://cleantechnica.com/2026/08/07/new-anti-energy-efficiency-bill-will-cost-consumers-waste-energy/",
+        "pubDate": "Fri, 07 Aug 2026 19:16:13 +0000",
+        "description": "Washington, DC — Yesterday, Senator Mike Lee (R-AZ) introduced a bill that would roll back existing energy efficiency standards and prevent the Department of Energy from updating existing or implementing new strong efficiency standards. The bill would result in energy waste, adding extra strain to t",
+        "title_cn": "新的反能源效率法案将使消费者付出代价，浪费能源"
+      },
+      {
+        "title": "U.S. Solar and Storage Industry Statement on New Sec. 232 Tariffs on Solar",
+        "link": "https://cleantechnica.com/2026/08/07/u-s-solar-and-storage-industry-statement-on-new-sec-232-tariffs-on-solar/",
+        "pubDate": "Fri, 07 Aug 2026 19:13:58 +0000",
+        "description": "WASHINGTON D.C. — Today the Trump administration is imposing new tariffs and establishing minimum import prices on polysilicon and polysilicon derivative products including ingots, wafer, solar cells, and modules. Following is a statement from Tim Pawlenty, CEO of the Solar Energy Industries Associa",
+        "title_cn": "美国太阳能和储能行业关于新增第232条太阳能关税的声明"
+      },
       {
         "title": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
         "link": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
@@ -88,45 +123,10 @@
         "pubDate": "Fri, 07 Aug 2026 02:27:17 +0000",
         "description": "The race is on in the robotaxi industry to get into new markets, build up customer bases, and edge out the competition before they arrive — or at least at these nascent stages when no one is too massive or dominant. I just covered news of Zoox launching paid service ... [continued] The post Waymo Ja",
         "title_cn": "华盛顿特区的Waymo Jacks Up游说活动"
-      },
-      {
-        "title": "Zoox To Start Charging Passengers Next Week",
-        "link": "https://cleantechnica.com/2026/08/06/zoox-to-start-charging-passengers-next-week/",
-        "pubDate": "Fri, 07 Aug 2026 01:33:34 +0000",
-        "description": "Zoox has been allowed to do self-driving vehicle and robotaxi testing for a long time, but it hasn&#8217;t been allowed to charge passengers for them. Now, however, that has changed — Zoox got approval last week from the National Highway Traffic Safety Administration (NHTSA) to deploy up to 5,000 ro",
-        "title_cn": "Zoox将于下周开始向乘客收费"
-      },
-      {
-        "title": "VICTORY: Court Overturns Trump Administration’s Wind Pause",
-        "link": "https://cleantechnica.com/2026/08/06/victory-court-overturns-trump-administrations-wind-pause/",
-        "pubDate": "Thu, 06 Aug 2026 22:51:35 +0000",
-        "description": "Portland, Oregon — Today, the United States District Court for the District of Oregon ruled in favor of clean energy developers in a legal challenge against Donald Trump’s Department of Defense for freezing reviews of wind projects and delaying development for renewable energy. The review freeze cre",
-        "title_cn": "胜利：法院推翻特朗普政府的风暂停"
-      },
-      {
-        "title": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
-        "link": "https://cleantechnica.com/2026/08/06/donald-trump-pays-off-5th-energy-company-in-attack-on-renewable-energy/",
-        "pubDate": "Thu, 06 Aug 2026 22:46:25 +0000",
-        "description": "Washington, D.C. — Today, energy company RWE announced a deal with the Trump administration in which the administration will pay the company $1.22 billion in exchange for the company cancelling three offshore wind projects and doubling down on LNG. This is the fifth time Donald Trump has paid off en",
-        "title_cn": "唐纳德特朗普在攻击可再生能源方面回报了第五家能源公司"
-      },
-      {
-        "title": "China Unveils Safety Standards for Autonomous Driving Systems",
-        "link": "https://cleantechnica.com/2026/08/06/china-unveils-safety-standards-for-autonomous-driving-systems/",
-        "pubDate": "Thu, 06 Aug 2026 22:38:29 +0000",
-        "description": "The Chinese government has released new mandatory national standards regarding the safety requirements of autonomous driving systems. Nothing needs to be done urgently, as the new standards don&#8217;t go into effect until July 1, 2027. The standards apply to M- and N-category vehicles with Level 3 ",
-        "title_cn": "中国发布自动驾驶系统安全标准"
-      },
-      {
-        "title": "Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,350 MSRP",
-        "link": "https://cleantechnica.com/2026/08/06/ford-fathom-electric-pickup-truck-ev-affordable/",
-        "pubDate": "Thu, 06 Aug 2026 22:08:16 +0000",
-        "description": "Ford is still playing its forthcoming midsized electric pickup truck close to the vest, but the EV finally has a name: Fathom. The post Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,350 MSRP appeared first on CleanTechnica .",
-        "title_cn": "全新福特Fathom电动皮卡，价格仅（支票） $ 28,350建议零售价"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,16 +199,16 @@
         "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIVUk1dUVzUDRlZFQxSC1Qdk5qQ1MwNmNQS2hCQTM2RVBsbDRfSGxQSVN4cmdWN2RadFBmWkVMSUM2V2JPY3ZxOWMwaVVSNU13UmVVSA?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 02:25:27 GMT",
-        "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
         "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIVUk1dUVzUDRlZFQxSC1Qdk5qQ1MwNmNQS2hCQTM2RVBsbDRfSGxQSVN4cmdWN2RadFBmWkVMSUM2V2JPY3ZxOWMwaVVSNU13UmVVSA?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 02:25:27 GMT",
+        "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索氢能网",
@@ -223,16 +223,16 @@
         "description": "国家能源局拟立项43项氢能标准 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
         "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TE1JTGZmWDJFOHZuVGpsUnFqdV9UMUVKV0JUZ0I0aHRueU1fc0IyZm5ibkxLWjRpU2NZMFNrTmJ5aEFqS2VBZHdQaEF4STNVbWgyMEwtR0poNjQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:48:00 GMT",
         "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -397,10 +397,10 @@
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 09:30:04 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -434,15 +434,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -451,22 +457,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "title": "山西开启绿色能源发展新篇章 - paper.people.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; paper.people.com.cn"
       },
       {
         "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - 凤凰网江西",
@@ -481,13 +481,13 @@
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-07 14:46 UTC"
+    "updated": "2026-08-07 22:27 UTC"
   }
 }
