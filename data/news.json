@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+        "link": "https://www.nature.com/articles/d41586-026-02488-3",
+        "pubDate": "2026-08-07",
+        "description": "Nature, Published online: 07 August 2026; doi:10.1038/d41586-026-02488-3 Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+        "title_cn": "简报聊天： DNA修复是长寿的秘诀吗？鲸鱼和鼹鼠提供诱人的暗示"
+      },
+      {
         "title": "Operational Tropical Cyclone Forecasting with AI",
         "link": "https://www.nature.com/articles/s41586-026-10953-2",
         "pubDate": "2026-08-06",
@@ -23,14 +30,7 @@
         "title_cn": "稳定的滴水如何侵蚀最坚硬的石头"
       },
       {
-        "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
-        "link": "https://www.nature.com/articles/d41586-026-02458-9",
-        "pubDate": "2026-08-06",
-        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
-        "title_cn": "磁场悬浮传感器可以检测超微弱的大脑活动"
-      },
-      {
-        "title": "Heat waves have killed millions. Here’s how scientists tally lives lost",
+        "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
         "link": "https://www.nature.com/articles/d41586-026-02430-7",
         "pubDate": "2026-08-06",
         "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02430-7 Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
@@ -51,23 +51,30 @@
         "title_cn": "科学家们对英国物理和天文学的削减持怀疑态度"
       },
       {
-        "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
-        "link": "https://www.nature.com/articles/s41586-026-10970-1",
-        "pubDate": "2026-08-05",
-        "description": "Nature, Published online: 05 August 2026; doi:10.1038/s41586-026-10970-1 Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
-        "title_cn": "通过甲脒共晶热蒸发的钙钛矿/硅串联"
+        "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+        "link": "https://www.nature.com/articles/d41586-026-02458-9",
+        "pubDate": "2026-08-06",
+        "description": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02458-9 The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.",
+        "title_cn": "磁场悬浮传感器可以检测超微弱的大脑活动"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
+        "link": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
+        "pubDate": "Fri, 07 Aug 2026 09:37:07 +0000",
+        "description": "India&#8217;s first hydrogen passenger train arrived with an impressive label attached: the world&#8217;s most powerful hydrogen train. That&#8217;s a genuine engineering accomplishment, but it isn&#8217;t the competition railway operators are trying to win. They need trains that leave the depot, co",
+        "title_cn": "氢能列车成为头条新闻。使用电池列车。"
+      },
       {
         "title": "New Zealand Electric Vehicle Market Rises from the Depths! (CHARTS)",
         "link": "https://cleantechnica.com/2026/08/06/new-zealand-electric-vehicle-market-rises-from-the-depths-charts/",
@@ -116,17 +123,10 @@
         "pubDate": "Thu, 06 Aug 2026 22:08:16 +0000",
         "description": "Ford is still playing its forthcoming midsized electric pickup truck close to the vest, but the EV finally has a name: Fathom. The post Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,350 MSRP appeared first on CleanTechnica .",
         "title_cn": "全新福特Fathom电动皮卡，价格仅（支票） $ 28,350建议零售价"
-      },
-      {
-        "title": "UK Driver Jailed After “My EV Went Crazy!” Scam",
-        "link": "https://cleantechnica.com/2026/08/06/uk-driver-jailed-after-my-ev-went-crazy-scam/",
-        "pubDate": "Thu, 06 Aug 2026 20:19:25 +0000",
-        "description": "On March 6, 2024, Nathan Owen, a resident of the UK, phoned police and told them his Jaguar I-Pace electric car had gone berserk on a motorway in Merseyside, a seaside area that includes the city of Liverpool. He told the police his car had suddenly accelerated and he could ... [continued] The post ",
-        "title_cn": "英国司机因“我的电动汽车疯了！”骗局被判入狱"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,28 +199,28 @@
         "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOb201Q2xDTXA0b0Z0VlVUUXdGbENOTGZPYmFqd3VQMFQ1ZXFVQnFXcHhPTDVJbUJJUTM0ejMyVWlodTNIQUs2N19seGJERC1PQUtPcVdB?oc=5",
-        "pubDate": "Thu, 06 Aug 2026 09:53:09 GMT",
-        "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIVUk1dUVzUDRlZFQxSC1Qdk5qQ1MwNmNQS2hCQTM2RVBsbDRfSGxQSVN4cmdWN2RadFBmWkVMSUM2V2JPY3ZxOWMwaVVSNU13UmVVSA?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 02:25:27 GMT",
+        "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - mh2.in-en.com",
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; mh2.in-en.com"
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "五份“十五五”重磅文件密集部署氢能！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIZExhUjV4N2xiZ1B4Wk5iZ2NSLTlFQTFnbm9xcHZkSEZkZE5velZoSTBsMzJGSDhaa090MGE2NE5CWG9ZbFhRLVlGXzFRQ1h6YzdqUnZZYVdGUFJueURmZw?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 01:28:57 GMT",
-        "description": "五份“十五五”重磅文件密集部署氢能！ &nbsp;&nbsp; 碳索氢能网"
+        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aV292UUZPcWRMbkg2a2V1TU1LZDBPQ0NPd2FkQi1POUJwSWw3U3Z2Ty1zcktaVEFDSG4tX3pFMWFwb0dJZ2k2V0RDVGdTS1BHZy1SVHRBZTJCQ0M4U1RR?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
+        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - nengyuanjie.net",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TE1JTGZmWDJFOHZuVGpsUnFqdV9UMUVKV0JUZ0I0aHRueU1fc0IyZm5ibkxLWjRpU2NZMFNrTmJ5aEFqS2VBZHdQaEF4STNVbWgyMEwtR0poNjQ?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 02:48:00 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; nengyuanjie.net"
+        "title": "国家能源局拟立项43项氢能标准 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydHNZVEdOQnc3U1BDWU5vczRvMkYwX1JpdzJWZGNIdHBvYjc1ZDRsanRLTXQ5ck1iem9vUkJ4RjJCQlh2OE5GZGtkVUctRF9MN3BId2d3?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局拟立项43项氢能标准 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -229,20 +229,20 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
+        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TE1JTGZmWDJFOHZuVGpsUnFqdV9UMUVKV0JUZ0I0aHRueU1fc0IyZm5ibkxLWjRpU2NZMFNrTmJ5aEFqS2VBZHdQaEF4STNVbWgyMEwtR0poNjQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 02:48:00 GMT",
+        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 能源界"
+      },
+      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
-      },
-      {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "papers": {
     "items": [
@@ -380,16 +380,10 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 08:07:53 GMT",
-        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -397,10 +391,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - mh2.in-en.com",
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
         "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; mh2.in-en.com"
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 09:30:04 GMT",
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -434,15 +434,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -451,22 +451,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
-      },
-      {
-        "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - 凤凰网江西",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44dHhGTlNORGw5T0U4RXk3YWRlUDN0TWVBekJMVmhJTERaQ3Nlc0sxbmJhNmdFbnR3YmVBM0pRLU5fdGFodU1ELXRR?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 02:24:55 GMT",
-        "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
-      },
-      {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -475,19 +463,31 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCcEdTZkNUc3R0cnJjNTQwOWdtYXpzZl9fLXpSSjBMaWs0UEVQZDdJUWg1NFc5T1lwZDkybzd5UlZnbHlqSXVpa0hGM2V4UGRhNDl4TnN5dk13R3BxcXBV?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "国家能源局局长王宏志深圳调研：要积极发展绿色燃料！ &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
         "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - 凤凰网江西",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44dHhGTlNORGw5T0U4RXk3YWRlUDN0TWVBekJMVmhJTERaQ3Nlc0sxbmJhNmdFbnR3YmVBM0pRLU5fdGFodU1ELXRR?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 02:24:55 GMT",
+        "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
+      },
+      {
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-07 08:08 UTC"
+    "updated": "2026-08-07 14:46 UTC"
   }
 }
