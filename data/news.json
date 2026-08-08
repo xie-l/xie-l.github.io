@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 1: Asia)",
+        "link": "https://cleantechnica.com/2026/08/08/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-1-asia/",
+        "pubDate": "Sat, 08 Aug 2026 06:42:57 +0000",
+        "description": "In my recent trips globally have exposed me how the traditional petrol station model is undergoing a change as major oil and power companies scramble to adapt to rapid electric vehicle adoption. In Amsterdam I saw Total which is now Total Energies, Shell has Recharge, Sinopec in China, Idemitsu in .",
+        "title_cn": "加油站正在全球范围内发生变化。您所在的城镇发生了怎样的变化？ （第1部分：亚洲）"
+      },
+      {
+        "title": "Supercritical CO₂ Is Useful. The System Claims Are The Problem.",
+        "link": "https://cleantechnica.com/2026/08/08/supercritical-co2-carbon-capture-power-cycles/",
+        "pubDate": "Sat, 08 Aug 2026 05:47:21 +0000",
+        "description": "Supercritical carbon dioxide is genuinely useful stuff. Above roughly 31° Celsius and 73.8 bar, CO₂ enters a state that combines gas-like flow behavior with densities that can become much closer to liquids. Engineers have found good uses for that combination. It can extract caffeine from coffee, sep",
+        "title_cn": "超临界二氧化碳是有用的。系统声明是问题所在。"
+      },
       {
         "title": "XPENG Set to Enter the Philippines with the Globalized Mona",
         "link": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 08 Aug 2026 00:32:31 +0000",
         "description": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, ",
         "title_cn": "过去三年，美国电池存储容量平均增长70%"
-      },
-      {
-        "title": "First Fully Electric VW ID. ERA Vehicle — ID. ERA 5X SUV",
-        "link": "https://cleantechnica.com/2026/08/07/first-fully-electric-vw-id-era-vehicle-id-era-5x-suv/",
-        "pubDate": "Sat, 08 Aug 2026 00:18:01 +0000",
-        "description": "SAIC Volkswagen, a joint venture between SAIC and Volkswagen (duh) in China, has submitted a filing for the company&#8217;s first fully electric ID. ERA vehicle, the ID. ERA 5X SUV. XPENG was involved a bit too, but I&#8217;ll come back to that later. Earlier today, China&#8217;s Ministry of Industr",
-        "title_cn": "第一个全电动大众ID。ERA车辆— ID. ERA 5X SUV"
-      },
-      {
-        "title": "Oh, So Trump Loves Solar Power After All?",
-        "link": "https://cleantechnica.com/2026/08/07/solar-power-us-trade-tariffs-trump-manufacturing-polysilicon/",
-        "pubDate": "Fri, 07 Aug 2026 21:53:48 +0000",
-        "description": "Photo: The US solar power profile keeps growing, and some solar stakeholders anticipate an additional boost from the President's new Section 232 order under the 1962 Trade Expansion Act. The post Oh, So Trump Loves Solar Power After All? appeared first on CleanTechnica .",
-        "title_cn": "哦，那么特朗普毕竟喜欢太阳能？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "energy_cn": {
     "items": [
@@ -235,14 +235,14 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - paper.people.com.cn",
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; paper.people.com.cn"
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "policy_nea": {
     "items": [
@@ -427,23 +427,17 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
-      },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
@@ -457,10 +451,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "山西开启绿色能源发展新篇章 - paper.people.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; paper.people.com.cn"
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
+        "pubDate": "Tue, 28 Jul 2026 00:52:26 GMT",
+        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -469,25 +469,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
-        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - jx.ifeng.com",
+        "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - 凤凰网江西",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44dHhGTlNORGw5T0U4RXk3YWRlUDN0TWVBekJMVmhJTERaQ3Nlc0sxbmJhNmdFbnR3YmVBM0pRLU5fdGFodU1ELXRR?oc=5",
         "pubDate": "Fri, 17 Apr 2026 02:24:55 GMT",
-        "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; jx.ifeng.com"
+        "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-08 03:18 UTC"
+    "updated": "2026-08-08 07:41 UTC"
   }
 }
