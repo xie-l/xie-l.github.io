@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
+        "link": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+        "pubDate": "Sat, 08 Aug 2026 10:11:14 +0000",
+        "description": "CLEAN energy technology developer Envision Group just completed the final stages of the incorporation of an artificial intelligence (AI) management system into the 12.8-gigawatt-hour battery storage network in northern China it brought online last February. Sources at Envision told Cleantechnica tha",
+        "title_cn": "全球最大的12.8GWh电池存储集群在中国启动"
+      },
+      {
+        "title": "Huawei Scales EV Platform Deliveries As Automated Driving Partnerships Expand Across China",
+        "link": "https://cleantechnica.com/2026/08/08/huawei-scales-ev-platform-deliveries-as-automated-driving-partnerships-expand-across-china/",
+        "pubDate": "Sat, 08 Aug 2026 08:27:56 +0000",
+        "description": "BEIJING — Huawei Technologies Co. expanded its foothold in the electric vehicle sector through July, scaling sales across its smart vehicle alliance while integrating automated driving software into major automotive manufacturing groups. Rather than assembling vehicles under its own name, the techno",
+        "title_cn": "随着自动驾驶合作伙伴关系在中国各地扩张，华为扩大了电动汽车平台的交付规模"
+      },
       {
         "title": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 1: Asia)",
         "link": "https://cleantechnica.com/2026/08/08/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-1-asia/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 08 Aug 2026 01:47:33 +0000",
         "description": "NIO has basically stood alone in its long-term commitment to EV battery swapping technology and infrastructure. Now, its youngest sub-brand, Firefly, is getting access to these battery swapping stations. Additionally, the company is starting to roll out its new, 5th-generation battery swapping stati",
         "title_cn": "蔚来向Firefly开放电池交换并推出第五代交换站"
-      },
-      {
-        "title": "Waymo CEO: Don’t Move Fast & Break Things With Physical AI",
-        "link": "https://cleantechnica.com/2026/08/07/waymo-ceo-dont-move-fast-break-things-with-physical-ai/",
-        "pubDate": "Sat, 08 Aug 2026 01:24:06 +0000",
-        "description": "Silicon Valley and the tech industry are known for their &#8220;move fast and break things&#8221; mantra. This has been how the software industry has operated forever basically. In fact, the modus operandi has probably accelerated in recent years. Breaking things almost seems like the goal sometimes",
-        "title_cn": "Waymo首席执行官：不要用物理人工智能快速行动并打破局面"
-      },
-      {
-        "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
-        "link": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
-        "pubDate": "Sat, 08 Aug 2026 00:32:31 +0000",
-        "description": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, ",
-        "title_cn": "过去三年，美国电池存储容量平均增长70%"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,12 +211,6 @@
         "description": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "国家能源局拟立项43项氢能标准 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydHNZVEdOQnc3U1BDWU5vczRvMkYwX1JpdzJWZGNIdHBvYjc1ZDRsanRLTXQ5ck1iem9vUkJ4RjJCQlh2OE5GZGtkVUctRF9MN3BId2d3?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局拟立项43项氢能标准 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "中国能建国际集团党委书记、董事长乔旭斌会见南非电力与能源部部长拉莫豪帕 - power.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40STdTUEhIS2JUZnIwUS04cGluRmF3UkQ1STBRMVM5cXlqRTlMTy1KNkdoMThjbC1vdUR1VzVOYWdEcXdyQUl0OGpvX3kzTDZkdGNaa09BRG5JalYx?oc=5",
         "pubDate": "Tue, 04 Aug 2026 02:46:39 GMT",
@@ -227,6 +221,12 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
+        "pubDate": "Fri, 31 Jul 2026 10:02:55 GMT",
+        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "policy_nea": {
     "items": [
@@ -427,17 +427,23 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+      },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
@@ -449,18 +455,6 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
-      },
-      {
-        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
-        "pubDate": "Tue, 28 Jul 2026 00:52:26 GMT",
-        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -481,13 +475,19 @@
         "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
       },
       {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
+        "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-08 07:41 UTC"
+    "updated": "2026-08-08 14:24 UTC"
   }
 }
