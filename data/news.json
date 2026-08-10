@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "NBA’s Paul George On XPENG G9L: “I Need One”",
+        "link": "https://cleantechnica.com/2026/08/09/nbas-paul-george-on-xpeng-g9l-i-need-one/",
+        "pubDate": "Sun, 09 Aug 2026 22:17:33 +0000",
+        "description": "Boston Celtics forward Paul George recently appeared on video exploring the upcoming XPENG G9L. The global 5-seat electric SUV was revealed last week, although we will have to wait for its official launch to know details. The premium vehicle is also anticipated to launch in Europe at the Paris Motor",
+        "title_cn": "NBA保罗·乔治谈XPENG G9L ： “我需要一个”"
+      },
       {
         "title": "Jeff Bezos Plans To Enrich Himself With Mammoth Carbon Dioxide Emissions In Texas",
         "link": "https://cleantechnica.com/2026/08/09/jeff-bezos-plans-to-enrich-himself-with-mammoth-carbon-dioxide-emissions-in-texas/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 08 Aug 2026 10:11:14 +0000",
         "description": "CLEAN energy technology developer Envision Group just completed the final stages of the incorporation of an artificial intelligence (AI) management system into the 12.8-gigawatt-hour battery storage network in northern China it brought online last February. Sources at Envision told Cleantechnica tha",
         "title_cn": "全球最大的12.8GWh电池存储集群在中国启动"
-      },
-      {
-        "title": "Huawei Scales EV Platform Deliveries As Automated Driving Partnerships Expand Across China",
-        "link": "https://cleantechnica.com/2026/08/08/huawei-scales-ev-platform-deliveries-as-automated-driving-partnerships-expand-across-china/",
-        "pubDate": "Sat, 08 Aug 2026 08:27:56 +0000",
-        "description": "BEIJING — Huawei Technologies Co. expanded its foothold in the electric vehicle sector through July, scaling sales across its smart vehicle alliance while integrating automated driving software into major automotive manufacturing groups. Rather than assembling vehicles under its own name, the techno",
-        "title_cn": "随着自动驾驶合作伙伴关系在中国各地扩张，华为扩大了电动汽车平台的交付规模"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "全国高校区域技术转移转化中心（福建）来校交流 - news.ncepu.edu.cn",
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
         "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
-        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; news.ncepu.edu.cn"
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
         "title": "远景与全球能源化工巨头Sasol签署绿氢合作，新型电力系统赋能非洲能源转型 - 世纪新能源网",
@@ -211,10 +211,10 @@
         "description": "国家能源局：氢能领域投资同比增速超160% &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
@@ -235,14 +235,14 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "中国能建国际集团党委书记、董事长乔旭斌会见南非电力与能源部部长拉莫豪帕 - power.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40STdTUEhIS2JUZnIwUS04cGluRmF3UkQ1STBRMVM5cXlqRTlMTy1KNkdoMThjbC1vdUR1VzVOYWdEcXdyQUl0OGpvX3kzTDZkdGNaa09BRG5JalYx?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 02:46:39 GMT",
-        "description": "中国能建国际集团党委书记、董事长乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; power.in-en.com"
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
-        "link": "https://arxiv.org/abs/2608.06362v1",
-        "pubDate": "2026-08-06T17:57:11Z",
-        "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be ",
-        "title_cn": "AV-AIVAT ： 74倍便宜的代理评估，通过认证的任何时间-在不完美的信息游戏中有效停止"
+        "title": "Efficient three-dimensional variational data assimilation of multi-plane PIV data",
+        "link": "https://arxiv.org/abs/2608.07469v1",
+        "pubDate": "2026-08-07T17:59:14Z",
+        "description": "We perform three-dimensional variational data assimilation (3DVar) using a discrete adjoint approach to optimise the time-averaged momentum equations. The experimental data consist of sparse stereoscopic particle image velocimetry (PIV) measurements collected along $12$ cross-stream planes in the wa",
+        "title_cn": "多平面PIV数据的高效三维变分数据同化"
       },
       {
-        "title": "On generalised d'Alembert-type integral representations for damped wave equations on the quarter-plane",
-        "link": "https://arxiv.org/abs/2608.06355v1",
-        "pubDate": "2026-08-06T17:53:49Z",
-        "description": "We rigorously construct and verify a posteriori new closed-form solutions for the forced Maxwell-Cattaneo-Vernotte equation (also broadly known as the damped wave equation, hyperbolic heat, and telegrapher's equation on lossy transmission lines) posed on the spatiotemporal quarter-plane with general",
-        "title_cn": "关于四分之一平面上阻尼波方程的广义d 'Alembert型积分表示"
+        "title": "Quantum de Sitter and Analytically Continued Chern Simons Theory",
+        "link": "https://arxiv.org/abs/2608.07467v1",
+        "pubDate": "2026-08-07T17:58:42Z",
+        "description": "We give a Lefschetz thimble definition of the Chern--Simons--Kodama wavefunctional in Lorentzian self-dual gravity with positive cosmological constant. By complexifying the connection and choosing the Lefschetz thimble attached to the self-dual de~Sitter saddle, Witten's analytic continuation of Che",
+        "title_cn": "量子德西特和分析继续陈西蒙斯理论"
       },
       {
-        "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
-        "link": "https://arxiv.org/abs/2608.06351v1",
-        "pubDate": "2026-08-06T17:53:10Z",
-        "description": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for expla",
-        "title_cn": "静态和不断变化的数据解释方法评估面临的挑战"
+        "title": "White Dwarf Kicks via Episodic Mass Ejection from Red Giant Stars",
+        "link": "https://arxiv.org/abs/2608.07455v1",
+        "pubDate": "2026-08-07T17:47:58Z",
+        "description": "Recent observations have found evidence that white dwarf (WD) stars receive a kick of $\\sim$1 km/s as the envelopes of their red giant progenitors are expelled. We show that these kicks can arise from asymmetric and episodic mass loss of red giant stars. Based on simple hydrodynamic models of red gi",
+        "title_cn": "白矮星通过红巨星的偶发性物质弹射踢出"
       },
       {
-        "title": "Clump Migration in Disk Galaxies: Revisiting Chandrasekhar's Dynamical Friction",
-        "link": "https://arxiv.org/abs/2608.06350v1",
-        "pubDate": "2026-08-06T17:53:02Z",
-        "description": "Massive stellar clumps are thought to migrate toward galactic centers through dynamical friction, contributing to bulge growth and the structural evolution of disk galaxies. While the classical Chandrasekhar formalism is widely used to estimate clump inspiral times, its validity for extended, evolvi",
-        "title_cn": "圆盘星系中的团块迁移：重温钱德拉塞卡的动态摩擦"
+        "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+        "link": "https://arxiv.org/abs/2608.07449v1",
+        "pubDate": "2026-08-07T17:40:33Z",
+        "description": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context without weight updates. Recent methods refine skills through iterative task execution, failure diagnosis,",
+        "title_cn": "SkillProx ：通过近端文本梯度下降实现自我进化的座席技能"
       },
       {
-        "title": "Distributed coordination for transmission-distribution systems with nonlinear flexibility aggregation",
-        "link": "https://arxiv.org/abs/2608.06341v1",
-        "pubDate": "2026-08-06T17:50:06Z",
-        "description": "High shares of distributed energy resources (DERs) transform distribution systems into active participants in integrated transmission and distribution (ITD) operations. Linear models enable scalable distribution-level flexibility aggregation but can misclassify AC feasible operating points, whereas ",
-        "title_cn": "具有非线性灵活性聚合的传输分配系统的分布式协调"
+        "title": "A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy",
+        "link": "https://arxiv.org/abs/2608.07427v1",
+        "pubDate": "2026-08-07T17:14:45Z",
+        "description": "LLM inference accounts for over 90% of AI operational energy, scaling directly with input token count---a critical inefficiency for telecom network analytics and numerical time-series data analysis (NTSDA), where raw multivariate KPI windows from 4G/5G cell sites expand into thousands of floating-po",
+        "title_cn": "一张图片值一千个代币：视觉语言模型如何在提高准确性的同时降低人工智能能源成本"
       },
       {
-        "title": "On number of cyclic $n$-roots and disjointness of Fourier supports",
-        "link": "https://arxiv.org/abs/2608.06335v1",
-        "pubDate": "2026-08-06T17:41:34Z",
-        "description": "A cyclic $n$-root is an $n$-dimensional complex vector that solves a particular set of multivariate homogeneous polynomial equations. There is a one-to-one correspondence between unimodular cyclic $n$-roots and bi-unimodular vectors (CAZAC sequences) with leading entry one. It was conjectured by Bjö",
-        "title_cn": "关于循环$ n $ -根的数量和傅里叶支持的不相交性"
+        "title": "Efficient Discrete Position Design for Movable Antenna Systems: Low Complexity and Robustness",
+        "link": "https://arxiv.org/abs/2608.07413v1",
+        "pubDate": "2026-08-07T16:59:42Z",
+        "description": "Building on advances in reconfigurable antenna techniques, movable antennas (MAs) can dynamically reshape antenna arrays and introduce additional spatial degrees of freedom (DoFs), thereby further improving communication performance. Despite these benefits, existing MA design algorithms often entail",
+        "title_cn": "可移动天线系统的高效分立位置设计：低复杂性和鲁棒性"
       },
       {
-        "title": "Decomposition of Solar Wind Velocity Distribution Functions with Orthogonal Polynomials",
-        "link": "https://arxiv.org/abs/2608.06324v1",
-        "pubDate": "2026-08-06T17:38:25Z",
-        "description": "We present a framework for decomposing solar-wind velocity distribution functions (VDFs) using orthogonal polynomial bases. We aim to establish a practical procedure for applying polynomial decompositions to in-situ spacecraft VDFs and to clarify how the resulting spectra of expansion-coefficient po",
-        "title_cn": "用正交多项式分解太阳风风速分布函数"
+        "title": "PACE: Primitive-Aware Code Evolution for Automated Algorithm Design",
+        "link": "https://arxiv.org/abs/2608.07395v1",
+        "pubDate": "2026-08-07T16:40:03Z",
+        "description": "Large Language Model (LLM)-based automated algorithm design typically evolves algorithms as complete, indivisible programs. While this whole-program perspective simplifies the search space, it fundamentally couples the useful local logic to its host program. Consequently, valuable code snippets vani",
+        "title_cn": "PACE ：用于自动化算法设计的原始感知代码演化"
       },
       {
-        "title": "The good reduction of generalized Kummer surfaces in the non-supersingular case",
-        "link": "https://arxiv.org/abs/2608.06323v1",
-        "pubDate": "2026-08-06T17:37:11Z",
-        "description": "In this article, we study the good reduction of generalized Kummer surfaces, which are K3 surfaces obtained as minimal resolutions of quotients of abelian surfaces by finite groups. In particular, we establish a criterion for good reduction when the abelian surface has non-supersingular reduction an",
-        "title_cn": "在非超奇异情况下，广义Kummer曲面的良好缩减"
+        "title": "LYRA: Label-Free Structural Synchronization and Resource Allocation for UAV Edge Networks",
+        "link": "https://arxiv.org/abs/2608.07392v1",
+        "pubDate": "2026-08-07T16:37:03Z",
+        "description": "While deploying hierarchical vision models to process mission-critical tasks, UAV edge systems must adaptively update the models to sustain inference reliability under low-level environmental corruption. However, existing work has overlooked the optimal timing for model updates, the impracticality o",
+        "title_cn": "LYRA ：无人机边缘网络的无标签结构同步和资源分配"
       },
       {
-        "title": "The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation",
-        "link": "https://arxiv.org/abs/2608.06319v1",
-        "pubDate": "2026-08-06T17:33:55Z",
-        "description": "Rare fluctuations in physical systems depend on the detailed microphysics responsible for the fluctuations. In classical statistical systems, the large deviation principle has elucidated the role of semi-classics in describing this regime, and has simultaneously provided a the mathematical foundatio",
-        "title_cn": "罕见事件的量子力学：从量子行走到随机通货膨胀"
+        "title": "Core-Collapse Supernova detections from Einstein Telescope within the Milky Way",
+        "link": "https://arxiv.org/abs/2608.07391v1",
+        "pubDate": "2026-08-07T16:37:01Z",
+        "description": "Core-collapse supernovae are key drivers of galaxy evolution and promising sources of gravitational waves, which provide a unique probe of the physics driving their explosion mechanism. Third-generation detectors, such as the Einstein Telescope, will dramatically improve the prospects for detecting ",
+        "title_cn": "爱因斯坦望远镜在银河系内的核心坍缩超新星探测"
       },
       {
-        "title": "Three-layer water flows: Dirichlet-Neumann operators and approximations",
-        "link": "https://arxiv.org/abs/2608.06314v1",
-        "pubDate": "2026-08-06T17:28:13Z",
-        "description": "The object of investigation in this paper are the nonlinear equations of motion for two-dimensional inviscid water flows with piecewise constant density stratification in a three-layer fluid with a flat bottom, a free surface and two interfaces. We establish a Hamiltonian formulation for the nonline",
-        "title_cn": "三层水流： Dirichlet-Neumann算子和近似"
+        "title": "Beyond the Four-Decade DIIS Default:Auxiliary-Curvature Acceleration of Self-Consistent-Field Calculations",
+        "link": "https://arxiv.org/abs/2608.07354v1",
+        "pubDate": "2026-08-07T15:46:51Z",
+        "description": "Direct inversion in the iterative subspace (DIIS), introduced in 1980, remains the practical default for accelerating Hartree-Fock and Kohn-Sham self-consistent-field (SCF) calculations. Many later methods improve robustness or iteration count, but the near-zero overhead of DIIS makes a broad reduct",
+        "title_cn": "超越四十年的DIIS默认值：自洽场计算的辅助曲率加速"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,22 +391,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - mh2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; mh2.in-en.com"
+        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - mh2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
+        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -431,10 +425,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3NSa0pndHdGTWw0MjA4akJqendLbEktRm1zLURmb2NUQ3E3SUJYSVBreUF5dkRVZk91LUJZOGhjLUh0X2o4SS11bGZYUk55d2treHFXZGdsYjU2RmxXVlpHYVhXOFF5a0l1ZWczSmFKWHJvMGU4ek9BTHcwcWxES0pfN01xNG90OWhOLQ?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,10 +451,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -475,10 +475,10 @@
         "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
       },
       {
-        "title": "14地绿电直连政策汇总！10地明确配储！ - mchuneng.in-en.com",
+        "title": "14地绿电直连政策汇总！10地明确配储！ - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQQUNmSnVGcE5IZGxabGNad2htSzBZcWlDMkNLUUt2SDF3VUk0TzJDTW02OGFQSTA3ZzlhX0x6SUN5c1NZd3BvanBVUWctUTNmcnR5eDVpQVNkM3FubU9ZVGl3?oc=5",
         "pubDate": "Tue, 20 Jan 2026 08:00:00 GMT",
-        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; mchuneng.in-en.com"
+        "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-09 22:21 UTC"
+    "updated": "2026-08-10 03:46 UTC"
   }
 }
