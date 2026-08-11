@@ -59,12 +59,12 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,86 +304,21 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "A Quantum Coherence Microscope in the Hubbard Regime",
-        "link": "https://arxiv.org/abs/2608.09924v1",
-        "pubDate": "2026-08-10T17:59:02Z",
-        "description": "Quantum coherence underlies collective quantum phenomena and emerging quantum technologies. Quantum gas microscopes have transformed quantum simulation by providing projective snapshots of many-body states with single-atom resolution, but spatially resolved measurements of off-diagonal correlations ",
-        "title_cn": "哈伯德体制下的量子相干显微镜"
-      },
-      {
-        "title": "IPA: Morphology and Kinematics of Molecular Hydrogen Winds in Five Young Protostars across the Mass Spectrum Observed with JWST",
-        "link": "https://arxiv.org/abs/2608.09920v1",
-        "pubDate": "2026-08-10T17:57:48Z",
-        "description": "Molecular winds may play a key role in governing angular momentum transport and accretion during the early evolution of protostars. We present the morphology and kinematic properties of the H$_2$ emission in five young, envelope-dominated, protostars across a broad bolometric luminosity range, from ",
-        "title_cn": "IPA ： JWST观测的五颗年轻原恒星在质谱上的分子氢风的形态和运动学"
-      },
-      {
-        "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
-        "link": "https://arxiv.org/abs/2608.09919v1",
-        "pubDate": "2026-08-10T17:57:37Z",
-        "description": "Python is a widely adopted programming language, valued for its simplicity and flexibility. However, automated refactoring for Python remains challenging, even though refactoring is an essential practice in software evolution aimed at improving internal code structure without changing external behav",
-        "title_cn": "使用基础模型检测Python重构实现中的行为变化"
-      },
-      {
-        "title": "Learning Clifford-structured quantum unitaries and Hamiltonians",
-        "link": "https://arxiv.org/abs/2608.09912v1",
-        "pubDate": "2026-08-10T17:54:14Z",
-        "description": "Learning algorithms for structured quantum unitaries and Hamiltonians have primarily considered classes of processes that are local or sparse in the Pauli basis. We turn our attention to learning $n$-qubit quantum unitaries $U$ and Hamiltonians $H$, given query access to $U$ or the unitary evolution",
-        "title_cn": "学习克利福德结构量子单元和汉密尔顿量子"
-      },
-      {
-        "title": "Substrate-dependent thermally driven morphological evolution of Pt$_{0.9}$Ni$_{0.1}$ thin films on sapphire and langasite",
-        "link": "https://arxiv.org/abs/2608.09909v1",
-        "pubDate": "2026-08-10T17:53:06Z",
-        "description": "We examine the thermal evolution of 100-nm-thick Pt$_{0.9}$Ni$_{0.1}$ alloy films on sapphire and langasite substrates with a 10-nm Zr adhesion layer. Sequential vacuum annealing from room temperature to 800 $^\\circ$C produces a substrate-dependent morphological pathway that is quantified by atomic ",
-        "title_cn": "蓝宝石和红石上Pt $_{0.9} $ Ni $_{0.1} $薄膜的衬底依赖性热驱动形态演化"
-      },
-      {
-        "title": "From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping",
-        "link": "https://arxiv.org/abs/2608.09903v1",
-        "pubDate": "2026-08-10T17:49:22Z",
-        "description": "Nonlinear stochastic differential equations (SDEs) underlie molecular modeling and drug discovery, quantitative finance, stochastic learning, and uncertainty quantification. Their expectations, event probabilities, and time correlations are therefore natural targets for quantum computation, but nonl",
-        "title_cn": "从非线性随机微分方程到量子通道： Kolmogorov-Lindblad映射"
-      },
-      {
-        "title": "Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass",
-        "link": "https://arxiv.org/abs/2608.09896v1",
-        "pubDate": "2026-08-10T17:44:10Z",
-        "description": "Envelope-embedded protostellar disks represent the earliest stage of protoplanetary disk evolution, but their masses and sizes are difficult to measure because disk emission is entangled with the envelope. We analyze 26 protostellar disk systems in Taurus using ALMA Band 7 (345 GHz; ~0.3'') and VLA ",
-        "title_cn": "金牛座（ NEST ）的新生嵌入式原恒星勘测II ：测量尘埃质量、磁盘大小和气体质量"
-      },
-      {
-        "title": "Peak 'Nebular' Emission and Early Flux Excesses in Ca-strong Supernovae",
-        "link": "https://arxiv.org/abs/2608.09890v1",
-        "pubDate": "2026-08-10T17:40:16Z",
-        "description": "Calcium-strong supernovae (Ca-strong SNe) are a class of thermonuclear transient characterised by rapid photometric evolution (rise times of <= 16 d) and nebular-phase spectra dominated by strong [Ca II]7291,7324 emission, in comparison to the strength of [O I]6300,6364 emission. Despite their disti",
-        "title_cn": "钙强超新星的“星云”发射峰值和早期通量过剩"
-      },
-      {
-        "title": "Infrared Spectroscopy and Photochemistry of Aromatic Nitriles in Para-Hydrogen Matrices",
-        "link": "https://arxiv.org/abs/2608.09889v1",
-        "pubDate": "2026-08-10T17:39:38Z",
-        "description": "Motivated by recent detections of several aromatic nitriles in Taurus Molecular Cloud-1, we report laboratory and theoretical investigations of the vibrational spectroscopy and photochemistry of singly and doubly cyano-substituted benzene in solid para-hydrogen matrices. We compare the photochemistr",
-        "title_cn": "对氢基质中芳香腈的红外光谱和光化学"
-      },
-      {
-        "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
-        "link": "https://arxiv.org/abs/2608.09885v1",
-        "pubDate": "2026-08-10T17:35:08Z",
-        "description": "The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that manages context, memory, tools, permissions, and runtime control. Existing safety mechanisms often treat the harness as a fixed deployment artifact, limiting their ability to evolve w",
-        "title_cn": "她： LLM客服代表轨迹驱动的安全带演变"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 03:45:00 GMT",
+        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -425,16 +360,10 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -481,13 +410,13 @@
         "description": "14地绿电直连政策汇总！10地明确配储！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-11 03:28 UTC"
+    "updated": "2026-08-11 08:05 UTC"
   }
 }
