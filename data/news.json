@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+        "link": "https://www.nature.com/articles/s41586-026-10991-w",
+        "pubDate": "2026-08-11",
+        "description": "Nature, Published online: 11 August 2026; doi:10.1038/s41586-026-10991-w Phosphine-mediated azine C–H couplings with water and ammonia",
+        "title_cn": "膦介导的嗪C–H与水和氨的偶联"
+      },
+      {
         "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
         "link": "https://www.nature.com/articles/s41586-026-10947-0",
         "pubDate": "2026-08-11",
@@ -23,6 +30,13 @@
         "title_cn": "负责任的科学行动主义案例"
       },
       {
+        "title": "Shipping on rivers packs a surprisingly large climate punch",
+        "link": "https://www.nature.com/articles/d41586-026-02431-6",
+        "pubDate": "2026-08-11",
+        "description": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02431-6 Growing traffic on inland waterways could offer an opportunity for cutting emissions.",
+        "title_cn": "河流航运带来了令人惊讶的巨大气候冲击"
+      },
+      {
         "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
         "link": "https://www.nature.com/articles/d41586-026-02490-9",
         "pubDate": "2026-08-11",
@@ -42,32 +56,46 @@
         "pubDate": "2026-08-11",
         "description": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02491-8 Will AI make our dreams all look the same?",
         "title_cn": "人工智能会让我们的梦想看起来都一样吗？"
-      },
-      {
-        "title": "The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?",
-        "link": "https://www.nature.com/articles/d41586-026-02454-z",
-        "pubDate": "2026-08-11",
-        "description": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02454-z It is shameful that half the country’s population continues to be overlooked by the international community.",
-        "title_cn": "被遗忘的2000万人：为什么世界忽视阿富汗的女孩和妇女？"
-      },
-      {
-        "title": "Seven tips for a graceful lab exit",
-        "link": "https://www.nature.com/articles/d41586-026-02452-1",
-        "pubDate": "2026-08-11",
-        "description": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02452-1 Job transitions are challenging, but good communication and planning will help.",
-        "title_cn": "优雅的实验室退出的七个技巧"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Flock Cameras Spark Community Backlash",
+        "link": "https://cleantechnica.com/2026/08/11/flock-cameras-spark-community-backlash/",
+        "pubDate": "Tue, 11 Aug 2026 21:56:48 +0000",
+        "description": "&#8220;If you haven&#8217;t done anything wrong, you&#8217;ve got nothing to worry about.&#8221; That is the mantra of those who believe surveillance technology is a public benefit. The UK has perhaps the largest number of security cameras per capita of any nation, and its citizens seem to be perfec",
+        "title_cn": "Flock相机引发社区反弹"
+      },
+      {
+        "title": "ACMobility Sets Up Chargers Supporting Public Transport",
+        "link": "https://cleantechnica.com/2026/08/11/acmobility-sets-up-chargers-supporting-public-transport-in-the-philippines/",
+        "pubDate": "Tue, 11 Aug 2026 20:38:03 +0000",
+        "description": "MANILA, Philippines — ACMobility has expanded its electric vehicle infrastructure initiatives to strengthen public transportation networks through dual partnerships with Basic Energy Corporation and Grab Philippines. The Ayala Group&#8217;s mobility unit is deploying physical charging stations along",
+        "title_cn": "ACMobility设置充电器支持公共交通"
+      },
+      {
+        "title": "AI Data Centers Are A Regional US Grid Issue, Not A Global Power Crisis",
+        "link": "https://cleantechnica.com/2026/08/11/ai-data-center-electricity-demand-us-grid/",
+        "pubDate": "Tue, 11 Aug 2026 17:27:43 +0000",
+        "description": "AI has changed the data-center electricity story. Demand is rising much faster than it did through much of the 2000s and 2010s, hyperscale facilities are being proposed and built at extraordinary scale, and utilities in several US regions are confronting loads large enough to affect generation plann",
+        "title_cn": "人工智能数据中心是美国地区电网问题，而不是全球电力危机"
+      },
+      {
+        "title": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
+        "link": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
+        "pubDate": "Tue, 11 Aug 2026 16:54:43 +0000",
+        "description": "Despite the sharp U-turn in federal energy policy, US innovators continue to push the long duration energy storage envelope, with organic flow batteries in play among other solutions. The post Organic Flow Batteries Get Another Shot At Long Duration Energy Storage appeared first on CleanTechnica .",
+        "title_cn": "有机液流电池在长时间的储能下再次拍摄"
+      },
       {
         "title": "Burchda Y3 AWD — Powerful, Long-Range, All-Terrain Electric Bike",
         "link": "https://cleantechnica.com/2026/08/11/burchda-y3-awd-powerful-long-range-all-terrain-electric-bike/",
@@ -95,38 +123,10 @@
         "pubDate": "Tue, 11 Aug 2026 02:23:53 +0000",
         "description": "So much to share with you. First, we have the overall picture from the Australian Energy Market Operator&#8217;s (AEMO’s) latest Quarterly Energy Dynamics (QED) report. As gentailers increase their charges to stay profitable, Australia is producing record renewable energy output. Couple that with th",
         "title_cn": "稳步进展重塑澳大利亚能源市场— 2026年7月更新"
-      },
-      {
-        "title": "Colorado District Court Latest to Dismiss Industry Lawsuit against Building Updates",
-        "link": "https://cleantechnica.com/2026/08/10/colorado-district-court-latest-to-dismiss-industry-lawsuit-against-building-updates/",
-        "pubDate": "Tue, 11 Aug 2026 01:18:03 +0000",
-        "description": "Denver’s Energy Code aims to cut pollution, energy bills for households &#38; businesses A Colorado District Court Judge has dismissed a corporate-backed lawsuit against Denver ordinances aimed at reducing air pollution from buildings and reducing energy bills for owners and tenants. The court agree",
-        "title_cn": "科罗拉多州地方法院最近驳回针对建筑更新的行业诉讼"
-      },
-      {
-        "title": "Avatr 07L Launches in Big Segment",
-        "link": "https://cleantechnica.com/2026/08/10/avatr-07l-launches-in-big-segment/",
-        "pubDate": "Tue, 11 Aug 2026 01:12:11 +0000",
-        "description": "The EV company Avatr has launched a new small SUV called the 07L that is aiming right for one of the most popular segments in the market. The vehicle comes at a price of 219,900 yuan ($32,590) for a limited time. Beyond launch, here are the prices of the different ... [continued] The post Avatr 07L ",
-        "title_cn": "Avatr 07L在大型细分市场推出"
-      },
-      {
-        "title": "SolarAnywhere® Supports Solar PV & Unmanned Flight!",
-        "link": "https://cleantechnica.com/2026/08/10/solaranywhere-supports-solar-pv-unmanned-flight/",
-        "pubDate": "Mon, 10 Aug 2026 22:59:21 +0000",
-        "description": "SolarAnywhere® is often associated with utility-scale or distributed PV, but our solar irradiance data powers a lot more than solar plants. A great example: Piotr Lichota at the Warsaw University of Technology is using SolarAnywhere to figure out when to launch solar-assisted Unmanned Aerial Vehicle",
-        "title_cn": "SolarAnywhere ®支持太阳能光伏和无人飞行！"
-      },
-      {
-        "title": "CATL Battery for Electric Aviation Passes Important Safety Test",
-        "link": "https://cleantechnica.com/2026/08/10/catl-battery-for-electric-aviation-passes-important-safety-test/",
-        "pubDate": "Mon, 10 Aug 2026 22:36:28 +0000",
-        "description": "The #1 battery maker in the world, CATL, has developed a battery for use in electric aircraft — in particular, for passenger eVTOL aircraft (electric vertical takeoff and landing aircraft). The battery has now passed an important safety test. The company intentionally triggered two adjacent cells an",
-        "title_cn": "电动航空用宁德时代电池通过重要安全测试"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "energy": {
     "items": [
@@ -188,21 +188,27 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "远景能源携手Sasol推进南非绿氢研究 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DX1NPb3UtYnpXRmVEN2lUTnBOWVF2YzdjR20yc2Z6UDZDYk42WEszeWNIU05iMHJzaHNZdTR0Q3lwQk10bXRHbW15YzZVQlk3aENJUw?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 02:26:00 GMT",
-        "description": "远景能源携手Sasol推进南非绿氢研究 &nbsp;&nbsp; 见道网"
+        "title": "用电击碎岩石，地下制氢新技术能否改变能源格局？-能源电力 - zhiding.cn",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96S0pmc0R3a29HRVZSN3htbEl1ZldxcWc4dXJ0LUhJdUlXamhfVmRJNU80M2NZdnR2a0hkVVhUWi1tU0U5OXRPdHd0N1FFVGZpdVVja0JEVjFRd3NCMEtsNm5VOA?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 16:08:55 GMT",
+        "description": "用电击碎岩石，地下制氢新技术能否改变能源格局？-能源电力 &nbsp;&nbsp; zhiding.cn"
       },
       {
         "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
         "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
         "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
+      },
+      {
+        "title": "远景能源携手Sasol推进南非绿氢研究 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DX1NPb3UtYnpXRmVEN2lUTnBOWVF2YzdjR20yc2Z6UDZDYk42WEszeWNIU05iMHJzaHNZdTR0Q3lwQk10bXRHbW15YzZVQlk3aENJUw?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 02:26:00 GMT",
+        "description": "远景能源携手Sasol推进南非绿氢研究 &nbsp;&nbsp; 见道网"
       },
       {
         "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
@@ -229,20 +235,14 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - cn-heipa.com",
+        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; cn-heipa.com"
-      },
-      {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aV292UUZPcWRMbkg2a2V1TU1LZDBPQ0NPd2FkQi1POUJwSWw3U3Z2Ty1zcktaVEFDSG4tX3pFMWFwb0dJZ2k2V0RDVGdTS1BHZy1SVHRBZTJCQ0M4U1RR?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索氢能网"
+        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "A Quantum Coherence Microscope in the Hubbard Regime",
-        "link": "https://arxiv.org/abs/2608.09924v1",
-        "pubDate": "2026-08-10T17:59:02Z",
-        "description": "Quantum coherence underlies collective quantum phenomena and emerging quantum technologies. Quantum gas microscopes have transformed quantum simulation by providing projective snapshots of many-body states with single-atom resolution, but spatially resolved measurements of off-diagonal correlations ",
-        "title_cn": "哈伯德体制下的量子相干显微镜"
-      },
-      {
-        "title": "IPA: Morphology and Kinematics of Molecular Hydrogen Winds in Five Young Protostars across the Mass Spectrum Observed with JWST",
-        "link": "https://arxiv.org/abs/2608.09920v1",
-        "pubDate": "2026-08-10T17:57:48Z",
-        "description": "Molecular winds may play a key role in governing angular momentum transport and accretion during the early evolution of protostars. We present the morphology and kinematic properties of the H$_2$ emission in five young, envelope-dominated, protostars across a broad bolometric luminosity range, from ",
-        "title_cn": "IPA ： JWST观测的五颗年轻原恒星在质谱上的分子氢风的形态和运动学"
-      },
-      {
-        "title": "Detecting Behavioral Changes in Python Refactoring Implementations with Foundation Models",
-        "link": "https://arxiv.org/abs/2608.09919v1",
-        "pubDate": "2026-08-10T17:57:37Z",
-        "description": "Python is a widely adopted programming language, valued for its simplicity and flexibility. However, automated refactoring for Python remains challenging, even though refactoring is an essential practice in software evolution aimed at improving internal code structure without changing external behav",
-        "title_cn": "使用基础模型检测Python重构实现中的行为变化"
-      },
-      {
-        "title": "Learning Clifford-structured quantum unitaries and Hamiltonians",
-        "link": "https://arxiv.org/abs/2608.09912v1",
-        "pubDate": "2026-08-10T17:54:14Z",
-        "description": "Learning algorithms for structured quantum unitaries and Hamiltonians have primarily considered classes of processes that are local or sparse in the Pauli basis. We turn our attention to learning $n$-qubit quantum unitaries $U$ and Hamiltonians $H$, given query access to $U$ or the unitary evolution",
-        "title_cn": "学习克利福德结构量子单元和汉密尔顿量子"
-      },
-      {
-        "title": "Substrate-dependent thermally driven morphological evolution of Pt$_{0.9}$Ni$_{0.1}$ thin films on sapphire and langasite",
-        "link": "https://arxiv.org/abs/2608.09909v1",
-        "pubDate": "2026-08-10T17:53:06Z",
-        "description": "We examine the thermal evolution of 100-nm-thick Pt$_{0.9}$Ni$_{0.1}$ alloy films on sapphire and langasite substrates with a 10-nm Zr adhesion layer. Sequential vacuum annealing from room temperature to 800 $^\\circ$C produces a substrate-dependent morphological pathway that is quantified by atomic ",
-        "title_cn": "蓝宝石和红石上Pt $_{0.9} $ Ni $_{0.1} $薄膜的衬底依赖性热驱动形态演化"
-      },
-      {
-        "title": "From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping",
-        "link": "https://arxiv.org/abs/2608.09903v1",
-        "pubDate": "2026-08-10T17:49:22Z",
-        "description": "Nonlinear stochastic differential equations (SDEs) underlie molecular modeling and drug discovery, quantitative finance, stochastic learning, and uncertainty quantification. Their expectations, event probabilities, and time correlations are therefore natural targets for quantum computation, but nonl",
-        "title_cn": "从非线性随机微分方程到量子通道： Kolmogorov-Lindblad映射"
-      },
-      {
-        "title": "Nascent Embedded-protostar Survey in Taurus (NEST) II: Measuring Dust Mass, Disk Size, and Gas Mass",
-        "link": "https://arxiv.org/abs/2608.09896v1",
-        "pubDate": "2026-08-10T17:44:10Z",
-        "description": "Envelope-embedded protostellar disks represent the earliest stage of protoplanetary disk evolution, but their masses and sizes are difficult to measure because disk emission is entangled with the envelope. We analyze 26 protostellar disk systems in Taurus using ALMA Band 7 (345 GHz; ~0.3'') and VLA ",
-        "title_cn": "金牛座（ NEST ）的新生嵌入式原恒星勘测II ：测量尘埃质量、磁盘大小和气体质量"
-      },
-      {
-        "title": "Peak 'Nebular' Emission and Early Flux Excesses in Ca-strong Supernovae",
-        "link": "https://arxiv.org/abs/2608.09890v1",
-        "pubDate": "2026-08-10T17:40:16Z",
-        "description": "Calcium-strong supernovae (Ca-strong SNe) are a class of thermonuclear transient characterised by rapid photometric evolution (rise times of <= 16 d) and nebular-phase spectra dominated by strong [Ca II]7291,7324 emission, in comparison to the strength of [O I]6300,6364 emission. Despite their disti",
-        "title_cn": "钙强超新星的“星云”发射峰值和早期通量过剩"
-      },
-      {
-        "title": "Infrared Spectroscopy and Photochemistry of Aromatic Nitriles in Para-Hydrogen Matrices",
-        "link": "https://arxiv.org/abs/2608.09889v1",
-        "pubDate": "2026-08-10T17:39:38Z",
-        "description": "Motivated by recent detections of several aromatic nitriles in Taurus Molecular Cloud-1, we report laboratory and theoretical investigations of the vibrational spectroscopy and photochemistry of singly and doubly cyano-substituted benzene in solid para-hydrogen matrices. We compare the photochemistr",
-        "title_cn": "对氢基质中芳香腈的红外光谱和光化学"
-      },
-      {
-        "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
-        "link": "https://arxiv.org/abs/2608.09885v1",
-        "pubDate": "2026-08-10T17:35:08Z",
-        "description": "The safety of large language model (LLM) agents depends not only on model weights but also on the agent harness that manages context, memory, tools, permissions, and runtime control. Existing safety mechanisms often treat the harness as a fixed deployment artifact, limiting their ability to evolve w",
-        "title_cn": "她： LLM客服代表轨迹驱动的安全带演变"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,10 +320,22 @@
         "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
       },
       {
+        "title": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDM5bGlFQ25Yc1RzZ1pDZWczVXg3V1JzTVNlT1U0NkFROEhMVy12ck1naHJfMkYxZnpyZUoySWpHblo5OUtxSkRPbl9CVTI1VjJmVE83UHhtWG13b3FKeHBfaXN5clFIRkZNRHJNUmVrNVlMV2NPUXN0al9jREd4MVRKNTJGekxHMGRfMQ?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 08:43:03 GMT",
+        "description": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 &nbsp;&nbsp; 搜狐网"
+      },
+      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
+        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - 国际氢能网",
@@ -409,32 +350,20 @@
         "description": "四份国家级文件落地！氢能“十五五”路线图加速明朗 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbGVaT3VIQ3hHTWltb2hjdjE4c2t5cVRXSXRROHc5VHdOVkpnNXM3NHc2UUFPU196RGhlTnJUYU5QNzNkSDJDTGNMdWEzSld6RzB6VXlQNA?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
       },
       {
         "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
         "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -446,15 +375,15 @@
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -488,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-11 14:51 UTC"
+    "updated": "2026-08-11 22:33 UTC"
   }
 }
