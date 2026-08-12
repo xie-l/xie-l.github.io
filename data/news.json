@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Germany’s Hydrogen Industry Is Overselling Its 6 GW Reservation Headline",
+        "link": "https://cleantechnica.com/2026/08/12/germany-6-gw-hydrogen-reservations-demand/",
+        "pubDate": "Wed, 12 Aug 2026 06:36:12 +0000",
+        "description": "Germany’s hydrogen industry finally has a demand number it can put in a headline: nearly 6 GW of paid reservations on the country’s emerging hydrogen core network. FNB Gas presented the reservations and customers’ willingness to pay as a strong indication that the hydrogen economy is gathering momen",
+        "title_cn": "德国氢能行业正在超卖其6吉瓦的预订标题"
+      },
       {
         "title": "Scaling Autonomous Freight: Inside Pony.ai’s Robotruck Business",
         "link": "https://cleantechnica.com/2026/08/11/scaling-autonomous-freight-inside-pony-ais-robotruck-business/",
@@ -116,17 +123,10 @@
         "pubDate": "Tue, 11 Aug 2026 20:38:03 +0000",
         "description": "MANILA, Philippines — ACMobility has expanded its electric vehicle infrastructure initiatives to strengthen public transportation networks through dual partnerships with Basic Energy Corporation and Grab Philippines. The Ayala Group&#8217;s mobility unit is deploying physical charging stations along",
         "title_cn": "ACMobility设置充电器支持公共交通"
-      },
-      {
-        "title": "AI Data Centers Are A Regional US Grid Issue, Not A Global Power Crisis",
-        "link": "https://cleantechnica.com/2026/08/11/ai-data-center-electricity-demand-us-grid/",
-        "pubDate": "Tue, 11 Aug 2026 17:27:43 +0000",
-        "description": "AI has changed the data-center electricity story. Demand is rising much faster than it did through much of the 2000s and 2010s, hyperscale facilities are being proposed and built at extraordinary scale, and utilities in several US regions are confronting loads large enough to affect generation plann",
-        "title_cn": "人工智能数据中心是美国地区电网问题，而不是全球电力危机"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "policy_nea": {
     "items": [
@@ -326,12 +326,6 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDM5bGlFQ25Yc1RzZ1pDZWczVXg3V1JzTVNlT1U0NkFROEhMVy12ck1naHJfMkYxZnpyZUoySWpHblo5OUtxSkRPbl9CVTI1VjJmVE83UHhtWG13b3FKeHBfaXN5clFIRkZNRHJNUmVrNVlMV2NPUXN0al9jREd4MVRKNTJGekxHMGRfMQ?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 08:43:03 GMT",
-        "description": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -342,6 +336,12 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
         "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
         "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDM5bGlFQ25Yc1RzZ1pDZWczVXg3V1JzTVNlT1U0NkFROEhMVy12ck1naHJfMkYxZnpyZUoySWpHblo5OUtxSkRPbl9CVTI1VjJmVE83UHhtWG13b3FKeHBfaXN5clFIRkZNRHJNUmVrNVlMV2NPUXN0al9jREd4MVRKNTJGekxHMGRfMQ?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 08:43:03 GMT",
+        "description": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 &nbsp;&nbsp; Sohu"
       },
       {
         "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - 能源界",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -381,15 +381,9 @@
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLV1B4YnBGaWN1cUJfbjl3Um13cHphM1RQajRBQjBZX2MyUjNjMFJFWDRuSVlyLXktOC1KYi1jQ1lzeXBMdl9KQmtoNWdJcTRoelg5dnljcTRkbDVfX2VwTw?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 02:18:47 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -398,25 +392,31 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
         "title": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” - 凤凰网江西",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44dHhGTlNORGw5T0U4RXk3YWRlUDN0TWVBekJMVmhJTERaQ3Nlc0sxbmJhNmdFbnR3YmVBM0pRLU5fdGFodU1ELXRR?oc=5",
         "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
         "description": "江西省发改委、省能源局印发实施方案 有序推动“绿电直连” &nbsp;&nbsp; 凤凰网江西"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪网",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪网"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "title": "江苏盐城大丰港经开区绿电直连工作实施方案：打造一批绿电直连示范项目 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GTUY2dTdfTnB2Q2hCYUZOWTh4VnhOM1F0dlUyYlhncWhORzVydDlnVWhwblN4eXFadUVpX09zUnJTZnVFZW1DejRkXzgtZ1VnekE?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "江苏盐城大丰港经开区绿电直连工作实施方案：打造一批绿电直连示范项目 &nbsp;&nbsp; gdshe.org"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-12 03:58 UTC"
+    "updated": "2026-08-12 08:10 UTC"
   }
 }
