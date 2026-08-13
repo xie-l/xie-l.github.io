@@ -59,12 +59,12 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
+        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - news.un.org",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
         "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
-        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
+        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; news.un.org"
       },
       {
         "title": "用电击碎岩石，地下制氢新技术能否改变能源格局？-能源电力 - 至顶网",
@@ -235,14 +235,14 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
+        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - cn-heipa.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; cn-heipa.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,20 +304,91 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+        "link": "https://arxiv.org/abs/2608.12314v1",
+        "pubDate": "2026-08-12T17:58:07Z",
+        "description": "Previsualization is an intermediate layer between ideas and production in film, games, architecture, and urban design. It lets creators iteratively refine scenes, actions, cameras, and spatial-temporal dynamics. Yet existing generative methods rely on simple prompts to jointly control all of these f",
+        "title_cn": "StateFlow ：构建、演进和访问3D世界状态以进行预可视化"
+      },
+      {
+        "title": "A Multiplicative Fourier Proof of the Length-Four Index Conjecture",
+        "link": "https://arxiv.org/abs/2608.12310v1",
+        "pubDate": "2026-08-12T17:57:06Z",
+        "description": "Let $C_n$ be a cyclic group of order $n$. The index conjecture in zero-sum theory asserts that if $(n,6)=1$, then every minimal zero-sum sequence of length four over $C_n$ has index one. Ge proved the conjecture for all sufficiently large $n$, and Pendleton reduced the known explicit threshold to $4",
+        "title_cn": "长度-四指数猜想的乘法傅立叶证明"
+      },
+      {
+        "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+        "link": "https://arxiv.org/abs/2608.12302v1",
+        "pubDate": "2026-08-12T17:46:00Z",
+        "description": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task described in natural language, our process produces a linear reward function in three steps",
+        "title_cn": "设计奖励功能的框架：从目标到功能，再到与人类相一致的奖励功能"
+      },
+      {
+        "title": "Measurement of the $\\bar ν_μ-$Hydrogen Charged-Current Quasi-Elastic Cross Section using the NOvA Near Detector",
+        "link": "https://arxiv.org/abs/2608.12293v1",
+        "pubDate": "2026-08-12T17:36:02Z",
+        "description": "We report a measurement of the total cross section for muon antineutrino charged-current quasi-elastic scattering on hydrogen, $\\bar ν_μ{\\rm H} \\to μ^+ n$, in the NOvA near detector using a $1.2\\times10^{21}$ proton-on-target exposure in the NuMI beam. A selection based on topological and kinematic ",
+        "title_cn": "使用NOvA近探测器测量$\\ bar ν_μ- $氢气充电电流准弹性截面"
+      },
+      {
+        "title": "XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling",
+        "link": "https://arxiv.org/abs/2608.12276v1",
+        "pubDate": "2026-08-12T17:15:42Z",
+        "description": "High-fidelity image generation faces a trade-off between speed and quality. Diffusion models produce strong visuals but require costly iterative sampling. Existing efficient methods mainly distill pretrained models into few-step samplers, a challenging process that depends heavily on teacher-model q",
+        "title_cn": "XYZFlow ：缩放多维快捷方式流以实现高效生成建模"
+      },
+      {
+        "title": "A Unified Quantum Interferometric Framework for Interaction-Free Measurement and Delayed-Choice Experiments",
+        "link": "https://arxiv.org/abs/2608.12268v1",
+        "pubDate": "2026-08-12T17:08:23Z",
+        "description": "A theoretical unified interferometric framework is developed for interaction-free measurement (IFM) and delayed-choice (DC) experiments. The proposed model leads to a quantum circuit based architecture in which an ancillary qubit coherently controls the interaction between a photon and a bomb, allow",
+        "title_cn": "用于无交互测量和延迟选择实验的统一量子干涉测量框架"
+      },
+      {
+        "title": "Hemispheric Asymmetry of Solar Active Regions Arises from a Nested Population",
+        "link": "https://arxiv.org/abs/2608.12263v1",
+        "pubDate": "2026-08-12T17:04:41Z",
+        "description": "We investigate the longitude--time distribution of NOAA active regions (ARs) during Solar Cycles 22--24 and find statistically significant North--South asymmetry in AR emergence. Using an activity-nest identification algorithm, we show that this asymmetry is concentrated in the subset of ARs that pa",
+        "title_cn": "太阳活动区域的半球不对称性源于嵌套种群"
+      },
+      {
+        "title": "A systematic comparison of green valley selection criteria across multiparameter spaces using a homogeneous ultraviolet-optical dataset",
+        "link": "https://arxiv.org/abs/2608.12260v1",
+        "pubDate": "2026-08-12T17:03:35Z",
+        "description": "We present a systematic comparison of commonly adopted green valley (GV) selection criteria by examining their distributions across multiple observational and physical parameter spaces. Using a homogeneous ultraviolet-optical dataset constructed from the Galaxy Evolution Explorer (GALEX) and the Slo",
+        "title_cn": "使用均匀紫外光学数据集对跨多参数空间的绿色山谷选择标准进行系统比较"
+      },
+      {
+        "title": "Capability-Adaptive Cryptanalysis with Reduced-Space Quantum Verification",
+        "link": "https://arxiv.org/abs/2608.12234v1",
+        "pubDate": "2026-08-12T16:29:53Z",
+        "description": "Efficient integration of cryptanalytic evidence with quantum verification remains a fundamental challenge in hybrid classical-quantum cryptanalysis. This work presents a capability-adaptive cryptanalytic framework that unifies linear cryptanalysis, differential cryptanalysis, and side-channel leakag",
+        "title_cn": "采用简化空间量子验证的能力自适应密码分析"
+      },
+      {
+        "title": "Effective Dynamics of Disclination Pairs",
+        "link": "https://arxiv.org/abs/2608.12233v1",
+        "pubDate": "2026-08-12T16:29:51Z",
+        "description": "The dissipative dynamics of a pair of wedge disclinations with opposite Frank angles confined to a circular domain is investigated under the assumption of radially symmetric motion. Two distinct dynamical regimes are identified: a diverging-disclination regime and an annihilating-dipole regime. The ",
+        "title_cn": "披露对的有效动态"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
+        "title": "《中国氢能发展报告（2026）》发布 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
         "pubDate": "Tue, 11 Aug 2026 03:45:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
@@ -332,16 +403,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - mh2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
-        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; mh2.in-en.com"
-      },
-      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - mh2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
+        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "《中国氢能发展报告 2026》深度解读 ——绿氨醇一体化与工业脱碳新机遇 - Sohu",
@@ -356,14 +427,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - 能源界",
+        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
         "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
-        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; 能源界"
+        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; nengyuanjie.net"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -374,10 +445,10 @@
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -398,25 +469,25 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - finance.sina.com.cn",
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
         "title": "江苏盐城大丰港经开区绿电直连工作实施方案：打造一批绿电直连示范项目 - gdshe.org",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GTUY2dTdfTnB2Q2hCYUZOWTh4VnhOM1F0dlUyYlhncWhORzVydDlnVWhwblN4eXFadUVpX09zUnJTZnVFZW1DejRkXzgtZ1VnekE?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
         "description": "江苏盐城大丰港经开区绿电直连工作实施方案：打造一批绿电直连示范项目 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-13 04:03 UTC"
+    "updated": "2026-08-13 08:13 UTC"
   }
 }
