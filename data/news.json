@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Wowza — Joby Buys Defense Company For Half A Billion Dollars",
+        "link": "https://cleantechnica.com/2026/08/13/wowza-joby-buys-defense-company-for-half-a-billion-dollars/",
+        "pubDate": "Fri, 14 Aug 2026 03:50:10 +0000",
+        "description": "Electric vertical takeoff and landing (eVTOL) aircraft startup Joby is one of those startups that seems to have been around for ages, but it&#8217;s been hard to know if any of these eVTOL aircraft companies are going anywhere. We&#8217;re yet to find out if any of these eVTOL companies have ... [co",
+        "title_cn": "Wowza — Joby以5亿美元收购国防公司"
+      },
       {
         "title": "Tesla Reportedly Cutting Production In China In January — Not Clear Why",
         "link": "https://cleantechnica.com/2026/08/13/tesla-reportedly-cutting-production-in-china-in-january-not-clear-why/",
@@ -116,17 +123,10 @@
         "pubDate": "Thu, 13 Aug 2026 19:18:51 +0000",
         "description": "Ford anticipates that its forthcoming, mysteriously shrouded Fathom electric pickup truck will give it an edge as EV sales recover from the crash of 2025. The post Crack Spread Explodes, EV Sales Stabilize, And Here Comes The Mysterious Ford Fathom appeared first on CleanTechnica .",
         "title_cn": "裂缝蔓延爆发，电动汽车销量稳定，神秘的福特Fathom来了"
-      },
-      {
-        "title": "XPENG Releases New G9L Details & Presale Price",
-        "link": "https://cleantechnica.com/2026/08/13/xpeng-releases-new-g9l-details-presale-price/",
-        "pubDate": "Thu, 13 Aug 2026 18:38:48 +0000",
-        "description": "XPENG recently revealed new details about the upcoming G9L. We have already seen a preview of the G9L and still must wait for final details at the official launch. However, after watching the press conference, the G9L seems to be advancing XPENG’s technology-fueled push into global premium vehicles.",
-        "title_cn": "XPENG发布新的G9L详情和预售价格"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "energy_cn": {
     "items": [
@@ -223,12 +223,6 @@
         "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
-        "title": "“人工智能时代电力基础设施大转型，应关注氢能作用” - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00SFFKblVyN2hQT1R4WUpzaE5WUDVVaVctYXNzYUVmSXZZWjNORlhOckEwUTBlLWpZd3JCWVY5bjI1Y3hMTDR1UURxdnU5cXY3RkZ5ZnhpTUt1b0NESjF6VVZwQm8?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 06:42:19 GMT",
-        "description": "“人工智能时代电力基础设施大转型，应关注氢能作用” &nbsp;&nbsp; 아시아경제"
-      },
-      {
         "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aV292UUZPcWRMbkg2a2V1TU1LZDBPQ0NPd2FkQi1POUJwSWw3U3Z2Ty1zcktaVEFDSG4tX3pFMWFwb0dJZ2k2V0RDVGdTS1BHZy1SVHRBZTJCQ0M4U1RR?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "“人工智能时代电力基础设施大转型，应关注氢能作用” - 아시아경제",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00SFFKblVyN2hQT1R4WUpzaE5WUDVVaVctYXNzYUVmSXZZWjNORlhOckEwUTBlLWpZd3JCWVY5bjI1Y3hMTDR1UURxdnU5cXY3RkZ5ZnhpTUt1b0NESjF6VVZwQm8?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 06:42:19 GMT",
+        "description": "“人工智能时代电力基础设施大转型，应关注氢能作用” &nbsp;&nbsp; 아시아경제"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "papers": {
     "items": [
@@ -380,10 +380,16 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihainews.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
+        "pubDate": "Fri, 14 Aug 2026 04:50:00 GMT",
+        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; bihainews.com"
+      },
       {
         "title": "《中国氢能发展报告（2026）》发布 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
@@ -425,16 +431,10 @@
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORXQzVHRHOWQtRFlHVTJhVzA2OHFyOW1xR0k4ZUZhenp2MGl5T0VfYVJqUU5yX2NNUEt0MVI3cGxEVG9Mc1ZTejlkQ0ZFT0l5REozOW9EaUtUVFVCWGZVbVBGZ1hiYWVXcGw0?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
         "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
-      },
-      {
-        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-14 03:59 UTC"
+    "updated": "2026-08-14 08:08 UTC"
   }
 }
