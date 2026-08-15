@@ -59,12 +59,12 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -211,16 +217,16 @@
         "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
         "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
         "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -229,20 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索储能网",
+        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - cn.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索储能网"
-      },
-      {
-        "title": "“人工智能时代电力基础设施大转型，应关注氢能作用” - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00SFFKblVyN2hQT1R4WUpzaE5WUDVVaVctYXNzYUVmSXZZWjNORlhOckEwUTBlLWpZd3JCWVY5bjI1Y3hMTDR1UURxdnU5cXY3RkZ5ZnhpTUt1b0NESjF6VVZwQm8?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 06:42:19 GMT",
-        "description": "“人工智能时代电力基础设施大转型，应关注氢能作用” &nbsp;&nbsp; 아시아경제"
+        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; cn.solarbe.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,16 +409,16 @@
         "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; 能源界"
       },
       {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
-        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
-        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -427,14 +427,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
+        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORXQzVHRHOWQtRFlHVTJhVzA2OHFyOW1xR0k4ZUZhenp2MGl5T0VfYVJqUU5yX2NNUEt0MVI3cGxEVG9Mc1ZTejlkQ0ZFT0l5REozOW9EaUtUVFVCWGZVbVBGZ1hiYWVXcGw0?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
+        "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
+        "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
+        "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ - 雪球",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseGdZcjhBcFk1NENXSFVMWmNWVEJpQ0dBZUpNS1B6QUMxMndReWlkNGUzWlNTeFlrVWNIWmJLNnZYSDU1Y29kbGVWQ0lpb2xo?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "description": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ &nbsp;&nbsp; 雪球"
+        "title": "绿电直连新政：一对多模式全面落地 - seetao.com",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; seetao.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-15 14:14 UTC"
+    "updated": "2026-08-15 22:13 UTC"
   }
 }
