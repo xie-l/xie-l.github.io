@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value",
+        "link": "https://cleantechnica.com/2026/08/15/new-byd-seal-06-qin-max-part-2-affordability-value/",
+        "pubDate": "Sun, 16 Aug 2026 02:03:35 +0000",
+        "description": "Earlier this week, BYD launched the new Seal 06 and Qin Max. In Part 1, I focused on the changes to the vehicles and their positioning. However, where these vehicles stand out is in their affordability and value. Capability has been upgraded, including the fastest charging in this class, without ...",
+        "title_cn": "新比亚迪印章06 & QIN MAX第2部分：实惠性和价值"
+      },
+      {
+        "title": "Bombshell! Porsche To End Taycan Production",
+        "link": "https://cleantechnica.com/2026/08/15/bombshell-porsche-to-end-taycan-production/",
+        "pubDate": "Sun, 16 Aug 2026 01:13:14 +0000",
+        "description": "A decade ago, the automotive world was gaga over the news that Porsche had decided to move forward with the Mission E, the car that ultimately became the Taycan. The automotive world was over the moon with the news that mighty Porsche &#8212; the company that dominated Le Mans for ... [continued] Th",
+        "title_cn": "重磅！保时捷将结束Taycan的生产"
+      },
       {
         "title": "Community-Led Climate Resilience With The Solution Project Help People To Thrive",
         "link": "https://cleantechnica.com/2026/08/15/community-led-climate-resilience-with-the-solution-project-help-people-to-thrive/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 15 Aug 2026 06:59:20 +0000",
         "description": "VinFast delivered 21,781 electric vehicles in Vietnam in July, bringing its sales for the first seven months of 2026 to 137,697 vehicles and putting the company on course to substantially exceed last year&#8217;s record in its home market. July deliveries increased 21.3% from June&#8217;s 17,955 veh",
         "title_cn": "随着电动汽车进入临界点， VinFast的越南销售额激增"
-      },
-      {
-        "title": "China Is Making More Aluminum. Its Emissions May Still Be Peaking.",
-        "link": "https://cleantechnica.com/2026/08/15/china-aluminum-emissions-peak-output-rising/",
-        "pubDate": "Sat, 15 Aug 2026 06:30:53 +0000",
-        "description": "Earlier this year I argued that China’s aluminum-sector carbon emissions had probably peaked around 2024. Since then, the output data have weakened one important part of that case. China produced 45.02 million tonnes of primary aluminum in 2025, 2.4% more than the year before, and another 23.19 mill",
-        "title_cn": "中国正在生产更多的铝。其排放量可能仍在达到峰值。"
-      },
-      {
-        "title": "Porsche Ditches Volkswagen Group Emissions Pool, Joins Up With XPENG",
-        "link": "https://cleantechnica.com/2026/08/14/porsche-ditches-volkswagen-group-emissions-pool-joins-up-with-xpeng/",
-        "pubDate": "Sat, 15 Aug 2026 03:55:02 +0000",
-        "description": "Well, this is an interesting one&#8230;. For some background, regulations in the European Union require that automakers reduce the CO2 emissions that the cars they sell create. Year after year, they have to cut their average fleet emissions. If they don&#8217;t cut their emissions to the necessary l",
-        "title_cn": "保时捷抛弃大众集团排放池，加入XPENG"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "energy_cn": {
     "items": [
@@ -235,14 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - cn.solarbe.com",
+        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索储能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; cn.solarbe.com"
+        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索储能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,16 +403,16 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
-        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - nengyuanjie.net",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
+        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -427,14 +427,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - 搜狐网",
+        "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORXQzVHRHOWQtRFlHVTJhVzA2OHFyOW1xR0k4ZUZhenp2MGl5T0VfYVJqUU5yX2NNUEt0MVI3cGxEVG9Mc1ZTejlkQ0ZFT0l5REozOW9EaUtUVFVCWGZVbVBGZ1hiYWVXcGw0?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; 搜狐网"
+        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,10 +445,10 @@
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -469,10 +469,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -481,13 +481,13 @@
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - seetao.com",
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
         "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; seetao.com"
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-15 22:13 UTC"
+    "updated": "2026-08-16 02:53 UTC"
   }
 }
