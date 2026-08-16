@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "New Science Says Scrapping A Working Gas Car For An EV Is Usually Greener",
+        "link": "https://cleantechnica.com/2026/08/16/scrapping-working-gas-car-for-ev-can-be-greener/",
+        "pubDate": "Sun, 16 Aug 2026 11:47:02 +0000",
+        "description": "“The greenest car is the one already built” has been one of the more durable arguments against replacing internal combustion cars with EVs. It sounds sensible enough. Manufacturing a new vehicle has a carbon cost, while continuing to drive an existing car avoids another manufacturing event. But that",
+        "title_cn": "新科学说，为电动汽车报废一辆工作汽油车通常更环保"
+      },
+      {
+        "title": "Op-Ed: Hiroshi Okuda–The Man Who Saved Toyota by Forcing It to Change",
+        "link": "https://cleantechnica.com/2026/08/16/op-ed-hiroshi-okuda-the-man-who-saved-toyota-by-forcing-it-to-change/",
+        "pubDate": "Sun, 16 Aug 2026 09:56:43 +0000",
+        "description": "THE automotive world lost a visionary on August 8. Hiroshi Okuda, the former chairman of Toyota Motor Corporation, who passed at 93, was the first outsider to break the Toyoda family&#8217;s grip on the company. But his true epitaph is this: he was the ruthless pragmatist who dragged a reluctant, ..",
+        "title_cn": "专栏：奥田宏-通过迫使丰田改变来拯救丰田的人"
+      },
+      {
+        "title": "I watched Vietnam Fall for the VinFast VF 3",
+        "link": "https://cleantechnica.com/2026/08/16/i-watched-vietnam-fall-for-the-vinfast-vf-3/",
+        "pubDate": "Sun, 16 Aug 2026 05:20:42 +0000",
+        "description": "HANOI, Vietnam — I have driven through enough of Vietnam to get a good sense of what belongs on its roads. Over the past two years, my trips have taken me from Hanoi and Ho Chi Minh City to Da Nang, Hai Phong and Can Tho, and through Dong Nai, ... [continued] The post I watched Vietnam Fall for the ",
+        "title_cn": "我看过越南Fall for the VinFast VF 3"
+      },
       {
         "title": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value",
         "link": "https://cleantechnica.com/2026/08/15/new-byd-seal-06-qin-max-part-2-affordability-value/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 15 Aug 2026 12:35:03 +0000",
         "description": "TANGERANG, Indonesia — GAC Indonesia recorded 2,170 vehicle orders at the 2026 Gaikindo Indonesia International Auto Show, with the larger AION V electric SUV accounting for more than half of the total and the smaller AION UT urban hatchback providing most of the remainder. The results offer a snaps",
         "title_cn": "广汽印尼电动汽车战略将客户反馈置于发展的中心"
-      },
-      {
-        "title": "Chery Previews New EV and Hybrid Lineup at GIIAS 2026 ahead of Philippine Debuts",
-        "link": "https://cleantechnica.com/2026/08/15/chery-previews-new-ev-and-hybrid-lineup-at-giias-2026-ahead-of-philippine-debuts/",
-        "pubDate": "Sat, 15 Aug 2026 12:24:11 +0000",
-        "description": "TANGERANG, Indonesia — Chery is using Indonesia as more than a sales market for electrified vehicles, with the company developing products around local driving conditions while using the country as a base for its wider Southeast Asian strategy. That approach was evident at the 2026 Gaikindo Indonesi",
-        "title_cn": "在菲律宾首次亮相之前，奇瑞在GIIAS 2026上预览新的电动汽车和混合动力车型阵容"
-      },
-      {
-        "title": "The Blades Aren’t Spinning for Wind Projects in Luzon",
-        "link": "https://cleantechnica.com/2026/08/15/the-blades-arent-spinning-for-wind-projects-in-luzon/",
-        "pubDate": "Sat, 15 Aug 2026 11:48:55 +0000",
-        "description": "The ambitious push by the Department of Energy (DOE) in the Philippines to accelerate clean energy transitions is encountering major friction on the ground. As developers race to build onshore wind facilities to hit national decarbonization targets, projects are running directly into complex regulat",
-        "title_cn": "吕宋岛风电项目的叶片不是旋转的"
-      },
-      {
-        "title": "VinFast’s Vietnam Sales Surge as EVs Enter a Tipping Point",
-        "link": "https://cleantechnica.com/2026/08/15/vinfasts-vietnam-sales-surge-as-evs-enter-a-tipping-point/",
-        "pubDate": "Sat, 15 Aug 2026 06:59:20 +0000",
-        "description": "VinFast delivered 21,781 electric vehicles in Vietnam in July, bringing its sales for the first seven months of 2026 to 137,697 vehicles and putting the company on course to substantially exceed last year&#8217;s record in its home market. July deliveries increased 21.3% from June&#8217;s 17,955 veh",
-        "title_cn": "随着电动汽车进入临界点， VinFast的越南销售额激增"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "energy_cn": {
     "items": [
@@ -197,12 +197,6 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -223,10 +217,16 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
+        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - cn-heipa.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
         "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; cn-heipa.com"
+      },
+      {
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,16 +403,10 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - nengyuanjie.net",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
-        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; nengyuanjie.net"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -421,20 +415,26 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMjRTOXo2X0pScHluTTZpNFFndzBSd2hQbXpVeU5OQVg2RjRkRE5udUdBVjNzbEIxbkU2bnk1TmhiQTZ2b1F3RUV6MkI1X25MVklybzNBSEViLWc?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 03:43:00 GMT",
+        "description": "国家发改委、国家能源局印发《煤炭工业发展“十五五”规划》 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "民科园企业入选国家能源局合作专项双工作组 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBORXQzVHRHOWQtRFlHVTJhVzA2OHFyOW1xR0k4ZUZhenp2MGl5T0VfYVJqUU5yX2NNUEt0MVI3cGxEVG9Mc1ZTejlkQ0ZFT0l5REozOW9EaUtUVFVCWGZVbVBGZ1hiYWVXcGw0?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "民科园企业入选国家能源局合作专项双工作组 &nbsp;&nbsp; Sohu"
+        "title": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2MWpkQklEYlhJTzBGZkoxNUg0X25POEZ0THotS2ZkZWlyUWtpQUloTTZxa1laY3BTeEJqdDdET185eW82RlltWW43YUZrdlNya09rS0VR?oc=5",
+        "pubDate": "Mon, 20 Jul 2026 00:44:46 GMT",
+        "description": "氢能「周事迹」事关国家能源局/财政部/中国石化/中国能建/天际氢能/氢辉能源/云韬氢能/兰石集团/中电丰业/兴燃科技 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
+        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,10 +445,10 @@
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -469,25 +469,25 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREtPTDZlWXNITnNWUjZkNGNFSzN6UnNLQWhjVGtXMjlpMGFnRThuSm1DRkJhenc2MjBHVzlLeFNMSWVfSTRhQzlweEk0REtjTWJCTjIyaXlvVXNDNnFQRDdReDZJaGlLaVhhR25SU2Y3dDQ4SWJzRlJ2cjVMVzN1TGdUV2pPRkdlbE5HdQ?oc=5",
         "pubDate": "Wed, 19 Nov 2025 08:00:00 GMT",
         "description": "“绿电直连”风起 高耗能企业迎降本减碳新机 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-16 02:53 UTC"
+    "updated": "2026-08-16 14:15 UTC"
   }
 }
