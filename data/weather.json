@@ -2,9 +2,9 @@
   "Beijing": {
     "name": "北京",
     "current": {
-      "temp": 24,
-      "icon": "☁️",
-      "desc": "阴"
+      "temp": 30,
+      "icon": "🌤️",
+      "desc": "晴间多云"
     },
     "daily": [
       {
@@ -58,14 +58,14 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-08-17 22:17 UTC"
+    "updated": "2026-08-18 07:31 UTC"
   },
   "Shanghai": {
     "name": "上海",
     "current": {
-      "temp": 25,
-      "icon": "☁️",
-      "desc": "阴"
+      "temp": 29,
+      "icon": "⛈️",
+      "desc": "雷阵雨"
     },
     "daily": [
       {
@@ -119,14 +119,14 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-08-17 22:17 UTC"
+    "updated": "2026-08-18 07:31 UTC"
   },
   "Nanchang": {
     "name": "南昌",
     "current": {
-      "temp": 27,
-      "icon": "⛅",
-      "desc": "多云"
+      "temp": 32,
+      "icon": "⛈️",
+      "desc": "雷阵雨"
     },
     "daily": [
       {
@@ -180,14 +180,14 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-08-17 22:17 UTC"
+    "updated": "2026-08-18 07:31 UTC"
   },
   "Xining": {
     "name": "西宁",
     "current": {
-      "temp": 12,
-      "icon": "🌤️",
-      "desc": "晴间多云"
+      "temp": 24,
+      "icon": "☀️",
+      "desc": "晴"
     },
     "daily": [
       {
@@ -241,14 +241,14 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-08-17 22:17 UTC"
+    "updated": "2026-08-18 07:31 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
     "current": {
-      "temp": 22,
-      "icon": "☀️",
-      "desc": "晴"
+      "temp": 28,
+      "icon": "🌦️",
+      "desc": "阵雨"
     },
     "daily": [
       {
@@ -302,6 +302,6 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-08-17 22:17 UTC"
+    "updated": "2026-08-18 07:31 UTC"
   }
 }
