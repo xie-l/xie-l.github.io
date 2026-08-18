@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Climate Change Is Happening, So Let’s Just Enjoy The Warmth! — Reform UK",
+        "link": "https://cleantechnica.com/2026/08/18/climate-change-is-happening-so-lets-just-enjoy-the-warmth-reform-uk/",
+        "pubDate": "Tue, 18 Aug 2026 17:27:32 +0000",
+        "description": "There is a story &#8212; which may be apocryphal &#8212; about the dean of an elite women&#8217;s college in northwest Massachusetts who once counseled her students, &#8220;When rape is inevitable, lean back and enjoy it.&#8221; Suffice to say, this was before the Women&#8217;s Lib movement clicked ",
+        "title_cn": "气候变化正在发生，让我们尽情享受温暖吧！ — Reform UK"
+      },
+      {
+        "title": "About $100 Billion Vanished After My Technology Warnings Were Public",
+        "link": "https://cleantechnica.com/2026/08/18/technology-warnings-100-billion-investor-losses/",
+        "pubDate": "Tue, 18 Aug 2026 16:28:04 +0000",
+        "description": "The Financial Times supplied an interesting prompt this week. Short sellers have made an estimated $2.1 billion betting against Oklo, NuScale and Nano Nuclear, while $30.3 billion of their combined market value has disappeared since the three small modular reactor developers peaked in October 2025. ",
+        "title_cn": "在我的技术警告公开后，大约有1000亿美元$消失了"
+      },
+      {
+        "title": "750 Gigawatts Of Energy Storage, And Nowhere To Go — Yet",
+        "link": "https://cleantechnica.com/2026/08/18/energy-storage-demand-us-new-factory-deltax-georgia/",
+        "pubDate": "Tue, 18 Aug 2026 14:38:56 +0000",
+        "description": "Another renewables-friendly battery maker sets up shop in the US as demand for energy storage soars and grid reliability issues rise. The post 750 Gigawatts Of Energy Storage, And Nowhere To Go &#8212; Yet appeared first on CleanTechnica .",
+        "title_cn": "750千兆瓦的储能，但却无处可去"
+      },
       {
         "title": "Yet Another US Automaker Rushes Into EV Gap Left By Tesla",
         "link": "https://cleantechnica.com/2026/08/18/evs-class-3-trucks-us-market-startups-tesla-competition/",
@@ -102,31 +123,10 @@
         "pubDate": "Tue, 18 Aug 2026 02:50:59 +0000",
         "description": "Voltus will tap into Sunrun’s storage-plus-solar systems to deliver immediate Bring Your Own Capacity™ megawatts to AI hyperscalers, strengthening grid reliability while creating economic benefits for customers across the PJM and MISO regions SAN FRANCISCO — Sunrun (Nasdaq: RUN), America&#8217;s lar",
         "title_cn": "Sunrun为Voltus提供AI超大规模协议的能源容量"
-      },
-      {
-        "title": "ScottishPower Renewables & Masdar Mark Major Engineering Milestone at East Anglia THREE Windfarm",
-        "link": "https://cleantechnica.com/2026/08/17/scottishpower-renewables-masdar-mark-major-engineering-milestone-at-east-anglia-three-windfarm/",
-        "pubDate": "Tue, 18 Aug 2026 02:38:23 +0000",
-        "description": "95 foundations now installed at East Anglia THREE offshore windfarm, off the coast of Suffolk The £4 billion project is a joint venture between green energy company, ScottishPower and Masdar, a global clean energy leader Milestone marks major engineering feat for project that will generate 1.4GW of ",
-        "title_cn": "苏格兰电力可再生能源和马斯达尔标志着东安格利亚三风电场的重大工程里程碑"
-      },
-      {
-        "title": "Middle East Green Initiative Announces Participation in UNCCD COP17 to Bolster Regional Cooperation in Combating Desertification and Restoring Degraded Land",
-        "link": "https://cleantechnica.com/2026/08/17/middle-east-green-initiative-announces-participation-in-unccd-cop17-to-bolster-regional-cooperation-in-combating-desertification-and-restoring-degraded-land/",
-        "pubDate": "Tue, 18 Aug 2026 02:12:01 +0000",
-        "description": "Demonstrating its expanding regional leadership, the Middle East Green Initiative (MGI) has announced its participation in the 17th Conference of the Parties (COP17), to be held in Ulaanbaatar, Mongolia, from August 17 to 28, 2026. MGI’s presence underscores a unified effort across 35 member states ",
-        "title_cn": "中东绿色倡议宣布参加《荒漠化公约》第十七届缔约方会议，以加强防治荒漠化和恢复退化土地方面的区域合作"
-      },
-      {
-        "title": "Earthjustice & Sierra Club Urge FAA to Keep Ban on Commercial Supersonic Flight",
-        "link": "https://cleantechnica.com/2026/08/17/earthjustice-sierra-club-urge-faa-to-keep-ban-on-commercial-supersonic-flight/",
-        "pubDate": "Tue, 18 Aug 2026 00:52:04 +0000",
-        "description": "The long-held rule is a commonsense protection against sonic booms and unnecessary climate emissions. Washington, D.C. — Today, Earthjustice and Sierra Club filed comments urging the Federal Aviation Administration (FAA) not to repeal its long-held ban on commercial supersonic flight over land. “The",
-        "title_cn": "Earthjustice和Sierra Club敦促美国联邦航空局继续禁止商业超音速飞行"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "含氢能领域！青海省征集能源领域专家库入库专家 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMEZnZHJBbWhBZ3pHWmo0ajlYX2h2cmpOMktHaEwyaTE5d2U4VUoxc3dxdVEwRlZPNHNkQVhxajhWS3duczVsMjdCaWZUaHM4cWgwbw?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 04:07:30 GMT",
+        "description": "含氢能领域！青海省征集能源领域专家库入库专家 &nbsp;&nbsp; 国际氢能网"
+      },
       {
         "title": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 - 维度网",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qMUMxN0Y0YklmdTIwbXR1b3AwS2VSd2RLaEdpbEN1TGZXeUhuRE83WTlvWnFoTEZkZmx5OWE4X0RfYUd5M25UOWFnVGlhTl9fTzU1Yk1IRmI?oc=5",
@@ -217,32 +223,26 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
-        "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
-        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcS1PZ09zM1lDcGRDNUNMM1hhdUJmVDBjTXVfS0FVOC11MWFOWUVvWVgtU0l4Q3JHbXpWcUlfZTVnd3hvZ3pya2tEZ3dTUGQtQmJCd3hxejNhLXM3N0E?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 01:11:34 GMT",
-        "description": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 &nbsp;&nbsp; 中华网"
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
+        "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
-        "pubDate": "Tue, 04 Aug 2026 00:46:41 GMT",
-        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
+        "title": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 - mtz.china.com",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcS1PZ09zM1lDcGRDNUNMM1hhdUJmVDBjTXVfS0FVOC11MWFOWUVvWVgtU0l4Q3JHbXpWcUlfZTVnd3hvZ3pya2tEZ3dTUGQtQmJCd3hxejNhLXM3N0E?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 01:11:34 GMT",
+        "description": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 &nbsp;&nbsp; mtz.china.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "papers": {
     "items": [
@@ -380,21 +380,21 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETGN5TXdhUE5JWGZxTXQxTldScGRkRlNsQTRHcXA2OWJWdXUwaHpHQndXUkNVRGRSS1ZVb2dnT2J1YURYRHMxcW5uU0prWjBWdXNFQ2FQZTBsUGs3WWgyeg?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
-        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETGN5TXdhUE5JWGZxTXQxTldScGRkRlNsQTRHcXA2OWJWdXUwaHpHQndXUkNVRGRSS1ZVb2dnT2J1YURYRHMxcW5uU0prWjBWdXNFQ2FQZTBsUGs3WWgyeg?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
+        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihainews.com",
@@ -409,16 +409,16 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50MWRDNVpWQm5mRXJHMFU1OEZ0U2dtX0JkYTNVSG9qM0NlRkhrM3FOa25oenVGOWl4dFB2cGd4amEyNjI2N0liSHpiZVdBaUNTTWRyNF9GNVQwTHJjMXlv?oc=5",
         "pubDate": "Tue, 11 Aug 2026 00:56:12 GMT",
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -463,10 +463,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-18 14:24 UTC"
+    "updated": "2026-08-18 22:14 UTC"
   }
 }
