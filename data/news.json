@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "OCTA Is Spending Again On Hydrogen Because The Fuel Chain Failed",
+        "link": "https://cleantechnica.com/2026/08/19/octa-hydrogen-bus-fuel-supply-risk/",
+        "pubDate": "Wed, 19 Aug 2026 06:43:05 +0000",
+        "description": "The Orange County Transportation Authority is spending another $27.6 million on hydrogen infrastructure as it expands its fuel-cell bus fleet from 10 buses toward 50. Read the announcement quickly and it sounds like ordinary fleet growth: more buses require more fueling capacity. OCTA’s history make",
+        "title_cn": "由于燃料链故障， OCTA再次在氢气上花费"
+      },
+      {
+        "title": "Solar Power Passes 3 Terawatts!",
+        "link": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/",
+        "pubDate": "Wed, 19 Aug 2026 03:28:22 +0000",
+        "description": "Solar power has passed another big milestone. Solar has reached and quickly surpassed the 3-terawatt — yes, terawatt — marker globally. That&#8217;s how much solar power is installed across the world. Naturally, a lot of the growth was from China, but a lot of it was also from emerging markets ... [",
+        "title_cn": "太阳能功率超过3太瓦！"
+      },
+      {
+        "title": "Pony AI Plans to Deploy 1,000 Autonomous Heavy Trucks",
+        "link": "https://cleantechnica.com/2026/08/18/pony-ai-plans-to-deploy-1000-autonomous-heavy-trucks/",
+        "pubDate": "Wed, 19 Aug 2026 03:06:37 +0000",
+        "description": "Just yesterday, I wrote about Einride and DAF Trucks partnering on a new, serious autonomous trucking initiative. There&#8217;s another recent autonomous trucking story that slipped through the cracks. Autonomous driving company Pony.AI is reportedly looking to deploy 1,000 autonomous heavy-duty ele",
+        "title_cn": "Pony AI计划部署1000辆自动驾驶重型卡车"
+      },
       {
         "title": "Sierra Club Statement on USDA Announcement to Remove Roadless Rule Protections",
         "link": "https://cleantechnica.com/2026/08/18/sierra-club-statement-on-usda-announcement-to-remove-roadless-rule-protections/",
@@ -102,31 +123,10 @@
         "pubDate": "Wed, 19 Aug 2026 00:22:18 +0000",
         "description": "It wasn’t a totally new bike, it was the replacement for a 5-year-old Bulls mountain ebike which I had to abandon because Bulls could not supply me with a functioning battery for the Brose motor. For only $3,000, they upgraded me to their latest Copperhead model with Bosch motor and ... [continued] ",
         "title_cn": "配备蓝牙显示屏的高科技控制系统登上山地电动自行车"
-      },
-      {
-        "title": "Climate Change Is Happening, So Let’s Just Enjoy The Warmth! — Reform UK",
-        "link": "https://cleantechnica.com/2026/08/18/climate-change-is-happening-so-lets-just-enjoy-the-warmth-reform-uk/",
-        "pubDate": "Tue, 18 Aug 2026 17:27:32 +0000",
-        "description": "There is a story &#8212; which may be apocryphal &#8212; about the dean of an elite women&#8217;s college in northwest Massachusetts who once counseled her students, &#8220;When rape is inevitable, lean back and enjoy it.&#8221; Suffice to say, this was before the Women&#8217;s Lib movement clicked ",
-        "title_cn": "气候变化正在发生，让我们尽情享受温暖吧！ — Reform UK"
-      },
-      {
-        "title": "About $100 Billion Vanished After My Technology Warnings Were Public",
-        "link": "https://cleantechnica.com/2026/08/18/technology-warnings-100-billion-investor-losses/",
-        "pubDate": "Tue, 18 Aug 2026 16:28:04 +0000",
-        "description": "The Financial Times supplied an interesting prompt this week. Short sellers have made an estimated $2.1 billion betting against Oklo, NuScale and Nano Nuclear, while $30.3 billion of their combined market value has disappeared since the three small modular reactor developers peaked in October 2025. ",
-        "title_cn": "在我的技术警告公开后，大约有1000亿美元$消失了"
-      },
-      {
-        "title": "750 Gigawatts Of Energy Storage, And Nowhere To Go — Yet",
-        "link": "https://cleantechnica.com/2026/08/18/energy-storage-demand-us-new-factory-deltax-georgia/",
-        "pubDate": "Tue, 18 Aug 2026 14:38:56 +0000",
-        "description": "Another renewables-friendly battery maker sets up shop in the US as demand for energy storage soars and grid reliability issues rise. The post 750 Gigawatts Of Energy Storage, And Nowhere To Go &#8212; Yet appeared first on CleanTechnica .",
-        "title_cn": "750千兆瓦的储能，但却无处可去"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,16 +211,16 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 - 维度网",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qMUMxN0Y0YklmdTIwbXR1b3AwS2VSd2RLaEdpbEN1TGZXeUhuRE83WTlvWnFoTEZkZmx5OWE4X0RfYUd5M25UOWFnVGlhTl9fTzU1Yk1IRmI?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 03:44:00 GMT",
-        "description": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 &nbsp;&nbsp; 维度网"
-      },
-      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 - 维度网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qMUMxN0Y0YklmdTIwbXR1b3AwS2VSd2RLaEdpbEN1TGZXeUhuRE83WTlvWnFoTEZkZmx5OWE4X0RfYUd5M25UOWFnVGlhTl9fTzU1Yk1IRmI?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 03:44:00 GMT",
+        "description": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 &nbsp;&nbsp; 维度网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -229,10 +229,10 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - news.ncepu.edu.cn",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
         "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
-        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; news.ncepu.edu.cn"
       },
       {
         "title": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 - 中华网",
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Portuguese Gas Network Could Carry 20% Hydrogen With Upgrades Costing Just 3% of Asset Value",
-        "link": "https://fuelcellsworks.com/2026/08/11/h2/portuguese-gas-network-could-carry-20-percent-hydrogen-with-upgrades-costing-just-3-percent-of-asset-value",
-        "pubDate": "Mon, 17 Aug 2026 15:42:59 GMT",
+        "title": "Hellesylt Hydrogen Hub Becomes the First RFNBO-Certified Hydrogen Production Site in Norway",
+        "link": "https://fuelcellsworks.com/2026/08/18/electrolyzer/hellesylt-hydrogen-hub-becomes-the-first-rfnbo-certified-hydrogen-production-site-in-norway",
+        "pubDate": "Tue, 18 Aug 2026 15:58:04 GMT",
         "description": "",
-        "title_cn": "葡萄牙天然气网络可以携带20 ％的氢气，升级成本仅为资产价值的3 ％"
+        "title_cn": "Hellesylt氢气中心成为挪威首个获得RFNBO认证的氢气生产基地"
       },
       {
-        "title": "Sunfire Ships 100MW of Electrolysers by Barge to RWE’s Giant German Green Hydrogen Project",
-        "link": "https://fuelcellsworks.com/2026/08/17/electrolyzer/sunfire-ships-100mw-of-electrolysers-by-barge-to-rwe-s-giant-german-green-hydrogen-project",
-        "pubDate": "Mon, 17 Aug 2026 15:38:01 GMT",
+        "title": "Florida Startup Tests 1MW Containerized Hydrogen Power System for Off-Grid Use",
+        "link": "https://fuelcellsworks.com/2026/08/18/h2/florida-startup-tests-1mw-containerized-hydrogen-power-system-for-off-grid-use",
+        "pubDate": "Tue, 18 Aug 2026 15:44:48 GMT",
         "description": "",
-        "title_cn": "Sunfire通过驳船向RWE的德国巨型绿色氢气项目运送100MW电解槽"
+        "title_cn": "佛罗里达州初创公司测试离网使用的1MW集装箱氢动力系统"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: August 10-14, 2026",
-        "link": "https://fuelcellsworks.com/2026/08/16/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-august-10-14-2026",
-        "pubDate": "Mon, 17 Aug 2026 15:26:37 GMT",
+        "title": "San Bernardino International Airport and Total Hydrogen Development to Produce Clean, Low-Cost Hydrogen in the Inland Empire",
+        "link": "https://fuelcellsworks.com/2026/08/18/fuel-cells/san-bernardino-international-airport-and-total-hydrogen-development-to-produce-clean-low-cost-hydrogen-in-the-inland-empire",
+        "pubDate": "Tue, 18 Aug 2026 15:35:54 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年8月10-14日"
+        "title_cn": "圣贝纳迪诺国际机场和Total Hydrogen Development在内陆帝国生产清洁、低成本的氢气"
       },
       {
-        "title": "Nordenham Commissions Green Hydrogen and Methanol Demonstration Plant",
-        "link": "https://fuelcellsworks.com/2026/08/17/green-hydrogen/nordenham-commissions-green-hydrogen-and-methanol-demonstration-plant",
-        "pubDate": "Mon, 17 Aug 2026 15:22:34 GMT",
+        "title": "Wuhan Deploys First Customized Hydrogen-Powered Two-Wheelers in Optics Valley",
+        "link": "https://fuelcellsworks.com/2026/08/18/fuel-cells/wuhan-deploys-first-customized-hydrogen-powered-two-wheelers-in-optics-valley",
+        "pubDate": "Tue, 18 Aug 2026 15:02:39 GMT",
         "description": "",
-        "title_cn": "Nordenham委托建造绿色氢气和甲醇示范工厂"
+        "title_cn": "武汉在光谷部署首批定制氢动力两轮车"
       },
       {
-        "title": "France’s 800Km HY-FEN Hydrogen Pipeline Moves to Public Consultation",
-        "link": "https://fuelcellsworks.com/2026/08/17/h2/france-s-800km-hy-fen-hydrogen-pipeline-moves-to-public-consultation",
-        "pubDate": "Mon, 17 Aug 2026 14:58:52 GMT",
+        "title": "DayOne Raises SGD 530M for Hydrogen-Ready Singapore Data Centre",
+        "link": "https://fuelcellsworks.com/2026/08/18/green-investment/dayone-raises-sgd-530m-for-hydrogen-ready-singapore-data-centre",
+        "pubDate": "Tue, 18 Aug 2026 14:57:17 GMT",
         "description": "",
-        "title_cn": "法国800公里HY-FEN氢气管道进入公众咨询阶段"
+        "title_cn": "DayOne为Hydrogen-Ready新加坡数据中心筹集5.3亿新元"
       },
       {
-        "title": "Global Power Solutions Advances Modular Hydrogen Power System With Proposed First Equipment Purchase",
-        "link": "https://fuelcellsworks.com/2026/08/17/energy-innovation/global-power-solutions-advances-modular-hydrogen-power-system-with-proposed-first-equipment-purchase",
-        "pubDate": "Mon, 17 Aug 2026 14:44:40 GMT",
+        "title": "South Korea Certifies Hanwha Aerospace Maritime Hydrogen Fuel-Cell Technology",
+        "link": "https://fuelcellsworks.com/2026/08/17/fuel-cells/south-korea-certifies-hanwha-aerospace-maritime-hydrogen-fuel-cell-technology",
+        "pubDate": "Tue, 18 Aug 2026 14:44:59 GMT",
         "description": "",
-        "title_cn": "全球电力解决方案推进模块化氢动力系统，拟首次购买设备"
+        "title_cn": "韩国认证韩华航空航天海上氢燃料电池技术"
       },
       {
-        "title": "Geely Adds New Fuel-Cell Bus to Chinese Market as Hydrogen Transit Push Continues",
-        "link": "https://fuelcellsworks.com/2026/08/09/fuel-cells/geely-adds-new-fuel-cell-bus-to-chinese-market-as-hydrogen-transit-push-continues",
-        "pubDate": "Mon, 17 Aug 2026 14:38:18 GMT",
+        "title": "Finland’s P2X Solutions Signs Green Hydrogen E-Methane Supply Deal",
+        "link": "https://fuelcellsworks.com/2026/08/18/green-hydrogen/finland-s-p2x-solutions-signs-green-hydrogen-e-methane-supply-deal",
+        "pubDate": "Tue, 18 Aug 2026 14:43:31 GMT",
         "description": "",
-        "title_cn": "随着氢能运输的持续推进，吉利向中国市场推出新的燃料电池公交车"
+        "title_cn": "芬兰的P2X解决方案签署绿色氢电子甲烷供应协议"
       },
       {
-        "title": "ATOME Says Villeta’s 2029 Schedule Still Intact as Paraguay Targets September Power-Tariff Decision",
-        "link": "https://fuelcellsworks.com/2026/08/17/energy-innovation/atome-says-villeta-s-2029-schedule-still-intact-as-paraguay-targets-september-power-tariff-decision",
-        "pubDate": "Mon, 17 Aug 2026 14:34:56 GMT",
+        "title": "Vortex Energy Announces Final Ambient Noise Tomography Results for the Robinsons River Salt Project",
+        "link": "https://fuelcellsworks.com/2026/08/18/green-investment/vortex-energy-announces-final-ambient-noise-tomography-results-for-the-robinsons-river-salt-project",
+        "pubDate": "Tue, 18 Aug 2026 14:28:05 GMT",
         "description": "",
-        "title_cn": "ATOME表示，由于巴拉圭瞄准9月电力关税决定， Villeta的2029年时间表仍然完好无损"
+        "title_cn": "Vortex Energy宣布Robinsons River Salt项目的最终环境噪声断层扫描结果"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "policy_nea": {
     "items": [
@@ -421,34 +421,40 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "湖北多用户绿电直连方案印发直连！ - 国际新能源网",
+        "title": "湖北多用户绿电直连方案印发直连！ - newenergy.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlWUdqUV83ai1VZ01VWGdvTkNvVnF2STdnNUlGS20wTkU5d1Z1M0ZhZnBiQnRxdG45RXBydzVvVWI2RVEzQmF5SEFoU3lxaE4xOEw2RWdFX3psNEp1TWNzTzBmQTB5QmM?oc=5",
         "pubDate": "Mon, 17 Aug 2026 01:31:46 GMT",
-        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; 国际新能源网"
+        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; newenergy.in-en.com"
       },
       {
         "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
         "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -463,10 +469,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -479,15 +485,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
         "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-19 02:51 UTC"
+    "updated": "2026-08-19 07:31 UTC"
   }
 }
