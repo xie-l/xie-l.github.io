@@ -2,6 +2,34 @@
   "tech": {
     "items": [
       {
+        "title": "Twenty-two easy ways to power up your lab meetings",
+        "link": "https://www.nature.com/articles/d41586-026-02037-y",
+        "pubDate": "2026-08-19",
+        "description": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02037-y Scientists share help and advice on how they got their research discussions flowing.",
+        "title_cn": "二十二种简单的方法来强化您的实验室会议"
+      },
+      {
+        "title": "South Africa’s scientists must register with official body or risk prison, according to draft law",
+        "link": "https://www.nature.com/articles/d41586-026-02516-2",
+        "pubDate": "2026-08-19",
+        "description": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02516-2 Many researchers are unaware of an upcoming law that will require them to register with a regulatory body, as is the case for engineers and healthcare professonals.",
+        "title_cn": "根据法律草案，南非的科学家必须在官方机构或风险监狱登记"
+      },
+      {
+        "title": "Screening babies’ genomes could save lives. Here’s how it would work",
+        "link": "https://www.nature.com/articles/d41586-026-02528-y",
+        "pubDate": "2026-08-19",
+        "description": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02528-y Massive genomic newborn-screening studies are under way all over the globe. But questions about scalability, feasibility and net benefit remain.",
+        "title_cn": "筛查婴儿的基因组可以挽救生命。工作原理如下"
+      },
+      {
+        "title": "Delisted",
+        "link": "https://www.nature.com/articles/d41586-026-02410-x",
+        "pubDate": "2026-08-19",
+        "description": "Nature, Published online: 19 August 2026; doi:10.1038/d41586-026-02410-x Called to account.",
+        "title_cn": "已下市"
+      },
+      {
         "title": "Heatwaves expose weak links in food systems",
         "link": "https://www.nature.com/articles/d41586-026-02577-3",
         "pubDate": "2026-08-18",
@@ -28,43 +56,15 @@
         "pubDate": "2026-08-18",
         "description": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2 Europe must adapt to live with megafires",
         "title_cn": "欧洲必须适应与巨型火灾共存"
-      },
-      {
-        "title": "Asia’s longevity gains must be translated into better health",
-        "link": "https://www.nature.com/articles/d41586-026-02576-4",
-        "pubDate": "2026-08-18",
-        "description": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02576-4 Asia’s longevity gains must be translated into better health",
-        "title_cn": "亚洲的寿命增长必须转化为更好的健康"
-      },
-      {
-        "title": "How to get the most out of an informational interview",
-        "link": "https://www.nature.com/articles/d41586-026-01932-8",
-        "pubDate": "2026-08-18",
-        "description": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-01932-8 These informal meetings can help you to explore new career opportunities, but there is a knack to getting them right.",
-        "title_cn": "如何充分利用信息面试"
-      },
-      {
-        "title": "Will you be wearing an exoskeleton in ten years? The tech that could change how we move",
-        "link": "https://www.nature.com/articles/d41586-026-02527-z",
-        "pubDate": "2026-08-18",
-        "description": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02527-z Robotic supports were once designed for clinical use, but researchers are now developing cheaper, smaller devices aimed at everyone — from people with ageing knees to 20-somethings seeking to climb mountains.",
-        "title_cn": "十年后你会穿外骨骼吗？可以改变我们出行方式的技术"
-      },
-      {
-        "title": "Mathematics holds the secret to ‘ladder-proof’ knitting",
-        "link": "https://www.nature.com/articles/d41586-026-02466-9",
-        "pubDate": "2026-08-18",
-        "description": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02466-9 A topological description of ‘knittability’ can be used to design yarn patterns that are resistant to unravelling.",
-        "title_cn": "数学掌握“防梯”编织的秘诀"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中广核北方中心落子雄安 能源电力央企集聚再提速 - k.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWGl0UVYyTXBaX25rdWI0U242RGV1TjMyWHFXRGpIOXBQN2J2TEFZUG5GYi1sWTE0NmlmOTVoYVp5aWtNemVrdVppS2J5R180UzFlQU1iX2Jfb2pLdGt4SncyRXktSndaUVZCNGNfUDU?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 09:35:00 GMT",
+        "description": "中广核北方中心落子雄安 能源电力央企集聚再提速 &nbsp;&nbsp; k.sina.com.cn"
+      },
       {
         "title": "含氢能领域！青海省征集能源领域专家库入库专家 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZMEZnZHJBbWhBZ3pHWmo0ajlYX2h2cmpOMktHaEwyaTE5d2U4VUoxc3dxdVEwRlZPNHNkQVhxajhWS3duczVsMjdCaWZUaHM4cWgwbw?oc=5",
@@ -229,20 +235,14 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
       },
       {
-        "title": "全国高校区域技术转移转化中心（福建）来校交流 - news.ncepu.edu.cn",
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
         "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
-        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; news.ncepu.edu.cn"
-      },
-      {
-        "title": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcS1PZ09zM1lDcGRDNUNMM1hhdUJmVDBjTXVfS0FVOC11MWFOWUVvWVgtU0l4Q3JHbXpWcUlfZTVnd3hvZ3pya2tEZ3dTUGQtQmJCd3hxejNhLXM3N0E?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 01:11:34 GMT",
-        "description": "一场展会定义AI能源新秩序，2026国际数字能源展9月深圳启幕 &nbsp;&nbsp; 中华网"
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "papers": {
     "items": [
@@ -380,10 +380,16 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "湖北省：优先支持绿色氢氨醇等未来产业开展多用户绿电直连 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9USkVodnBqZV9ZOW1nVmpxUHB2Rk9OQ0FqZTBhLTlzeUstTnowbkROdjMwMXg1eEtQWTh1N3M4X0JNWWxnN3NqaXlrSEtVWU5XMzRsdg?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 04:50:13 GMT",
+        "description": "湖北省：优先支持绿色氢氨醇等未来产业开展多用户绿电直连 &nbsp;&nbsp; 国际氢能网"
+      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -395,12 +401,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
         "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
         "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; bihainews.com"
-      },
-      {
-        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ETGN5TXdhUE5JWGZxTXQxTldScGRkRlNsQTRHcXA2OWJWdXUwaHpHQndXUkNVRGRSS1ZVb2dnT2J1YURYRHMxcW5uU0prWjBWdXNFQ2FQZTBsUGs3WWgyeg?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
-        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -421,28 +421,28 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
+        "title": "[国家能源局]：中国氢能发展报告2026 - 发现报告",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xeU1kOTFERDNTTTF0TUFVLVg3T0V4M3A1UG00VVdjWlVNaUUtZGRRXzMzM1k0TWU3LTlnTXVaTzVMc0YwNnM3MktEYlV2d0Vh?oc=5",
+        "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "description": "[国家能源局]：中国氢能发展报告2026 &nbsp;&nbsp; 发现报告"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "湖北多用户绿电直连方案印发直连！ - newenergy.in-en.com",
+        "title": "湖北多用户绿电直连方案印发直连！ - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlWUdqUV83ai1VZ01VWGdvTkNvVnF2STdnNUlGS20wTkU5d1Z1M0ZhZnBiQnRxdG45RXBydzVvVWI2RVEzQmF5SEFoU3lxaE4xOEw2RWdFX3psNEp1TWNzTzBmQTB5QmM?oc=5",
         "pubDate": "Mon, 17 Aug 2026 01:31:46 GMT",
-        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; newenergy.in-en.com"
+        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
@@ -463,16 +463,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-19 07:31 UTC"
+    "updated": "2026-08-19 14:24 UTC"
   }
 }
