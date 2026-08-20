@@ -2,11 +2,32 @@
   "tech": {
     "items": [
       {
+        "title": "To shield the fetus, link a protein to these drugs",
+        "link": "https://www.nature.com/articles/d41586-026-02553-x",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+        "title_cn": "为了保护胎儿，将蛋白质与这些药物"
+      },
+      {
         "title": "These trees are making air quality in cities worse",
         "link": "https://www.nature.com/articles/d41586-026-02586-2",
         "pubDate": "2026-08-20",
         "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
         "title_cn": "这些树木正在使城市的空气质量恶化"
+      },
+      {
+        "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+        "link": "https://www.nature.com/articles/d41586-026-02612-3",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+        "title_cn": "Moderna癌症疫苗阻止黑色素瘤复发：个性化治疗的下一步是什么？"
+      },
+      {
+        "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+        "link": "https://www.nature.com/articles/d41586-026-02549-7",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
+        "title_cn": "投资者的潜行巅峰：这个人工智能工具能否发现将导致专利的科学？"
       },
       {
         "title": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
@@ -35,45 +56,52 @@
         "pubDate": "2026-08-19",
         "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10776-1 Reply to: Artefacts in single-cell mtDNA analyses misinform phylogenies",
         "title_cn": "回复：单细胞mtDNA中的人工制品分析了错误的系统发育信息"
-      },
-      {
-        "title": "Artefacts in single-cell mtDNA analyses misinform phylogenies",
-        "link": "https://www.nature.com/articles/s41586-026-10777-0",
-        "pubDate": "2026-08-19",
-        "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10777-0 Artefacts in single-cell mtDNA analyses misinform phylogenies",
-        "title_cn": "单细胞mtDNA中的人工产物分析了错误的系统发育信息"
-      },
-      {
-        "title": "Functional role of skull lymphoid structures in CNS immunosurveillance",
-        "link": "https://www.nature.com/articles/s41586-026-10951-4",
-        "pubDate": "2026-08-19",
-        "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10951-4 Functional lymphoid structures within the skull bone marrow enable central nervous system immunosurveillance and shape immune responses to brain disease.",
-        "title_cn": "颅骨淋巴结构在中枢神经系统免疫监测中的功能作用"
-      },
-      {
-        "title": "Observation of conformal field theory spectra in a quantum simulator",
-        "link": "https://www.nature.com/articles/s41586-026-10904-x",
-        "pubDate": "2026-08-19",
-        "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10904-x Measurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field theory.",
-        "title_cn": "量子模拟器中共形场论光谱的观测"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Why Does It Feel Like The US And Iran Are Stuck In An Endless Conflict Loop?",
+        "link": "https://cleantechnica.com/2026/08/20/why-does-it-feel-like-the-us-and-iran-are-stuck-in-an-endless-conflict-loop/",
+        "pubDate": "Thu, 20 Aug 2026 11:39:08 +0000",
+        "description": "If you feel a sense of déjà vu with the state of the US–Iran war, you’re not alone. In recent days, Iran has again demanded the Trump administration lift sanctions on the country, unfreeze Iranian assets and remove its military blockade, in return for Iran opening the Strait of Hormuz. This basicall",
+        "title_cn": "为什么感觉美国和伊朗陷入了无休止的冲突循环？"
+      },
+      {
+        "title": "Why A Vote On Taxing California’s Billionaires Is Being Watched Around The World",
+        "link": "https://cleantechnica.com/2026/08/20/why-a-vote-on-taxing-californias-billionaires-is-being-watched-around-the-world/",
+        "pubDate": "Thu, 20 Aug 2026 11:32:25 +0000",
+        "description": "In November, California will vote on a proposal to levy a one-off 5% tax on the wealth of all billionaires in the state. Google co-founder and billionaire Sergey Brin has already spent US$100 million on political donations to a group opposing the tax. Brin is hoping to avoid a potential tax bill ...",
+        "title_cn": "为什么世界各地都在关注对加州亿万富翁征税的投票"
+      },
+      {
+        "title": "The Media Has Made Donald Trump Look More Coherent Than He Is. It’s Called ‘Sanewashing’",
+        "link": "https://cleantechnica.com/2026/08/20/the-media-has-made-donald-trump-look-more-coherent-than-he-is-its-called-sanewashing/",
+        "pubDate": "Thu, 20 Aug 2026 11:24:26 +0000",
+        "description": "On September 5, 2024, after giving a speech about his economic plans for the United States, Donald Trump was asked what he would do, if re-elected president, to make childcare more affordable. Trump then offered a nonsensical, 374-word response: well, I would do that, and we’re sitting down — you kn",
+        "title_cn": "媒体让唐纳德·特朗普看起来比他更连贯。它被称为“洗涤剂”"
+      },
       {
         "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
         "link": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
         "pubDate": "Thu, 20 Aug 2026 06:31:58 +0000",
         "description": "High-voltage direct current transmission used to look like a specialist technology reserved for unusually long lines, subsea links or awkward grid problems. That is changing. In a recent Redefining Energy conversation, Cornelis Plet, CTO of Grid Systems Integration at GE Vernova, described HVDC as s",
         "title_cn": "2 GW HVDC正在成为标准。电网的其余部分不是。"
+      },
+      {
+        "title": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
+        "link": "https://cleantechnica.com/2026/08/19/asahi-kasei-develops-novel-lithium-pre-doping-technology-to-raise-energy-density-and-lower-cost-of-silicon-rich-lithium-ion-batteries/",
+        "pubDate": "Thu, 20 Aug 2026 03:55:39 +0000",
+        "description": "Novel lithium pre-doping technology to raise energy density and lower cost Enables the use of low-cost lithium carbonate with existing production lines Global PoC evaluations and licensing to accelerate commercialization TOKYO — Asahi Kasei (TOKYO:3407), a diversified global company, has developed a",
+        "title_cn": "旭化成开发新型锂预掺杂技术，以提高能量密度并降低富硅锂离子电池的成本"
       },
       {
         "title": "SolarAnywhere® Supports Solar PV & Unmanned Flight!",
@@ -95,41 +123,20 @@
         "pubDate": "Thu, 20 Aug 2026 02:13:37 +0000",
         "description": "Collaboration Will Advance Research and Technical Insights Needed To Support Reliable, Resilient Energy Future for More Than 400 Million North Americans By Madeline Geocaris, NLR The National Laboratory of the Rockies (NLR) and the North American Electric Reliability Corporation (NERC) announced a n",
         "title_cn": "NLR与北美电力可靠性公司建立合作伙伴关系，提升北美电网可靠性"
-      },
-      {
-        "title": "Translucent Solar Starts Producing Solar Panels in South Carolina",
-        "link": "https://cleantechnica.com/2026/08/19/translucent-solar-starts-producing-solar-panels-in-south-carolina/",
-        "pubDate": "Thu, 20 Aug 2026 00:39:41 +0000",
-        "description": "There&#8217;s been a push for the past several years to get more cleantech products produced in the United States. One of the key target products is solar panels, as well as the various components of solar panels. That has been encouraged through a variety of strong production incentives (brought in",
-        "title_cn": "Translucent Solar开始在南卡罗来纳州生产太阳能电池板"
-      },
-      {
-        "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
-        "link": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
-        "pubDate": "Wed, 19 Aug 2026 23:39:03 +0000",
-        "description": "Bouge RV has been a staple brand in the affordable solar and portable refrigeration space for years. Over the last few years, they have really ramped up their efforts to flesh out the product line, improving the quality of their products at the same time. Disclaimer: Bouge RV provided the ... [conti",
-        "title_cn": "Bouge RV的电池供电便携式冰箱可轻松脱离电网（ CleanTechnica测试）"
-      },
-      {
-        "title": "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey",
-        "link": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
-        "pubDate": "Wed, 19 Aug 2026 23:24:05 +0000",
-        "description": "16 agrivoltaic projects in the state of New Jersey have just gotten approval to move forward by the New Jersey Board of Public Utilities (NJBPU). Together, the projects aren&#8217;t huge, but they do total 52.06 more megawatts of clean, renewable energy, produced on land productively being used for ",
-        "title_cn": "新泽西州当地农场的16个农业光伏项目向前发展"
-      },
-      {
-        "title": "Can Legacy Automakers Survive Without Exports?",
-        "link": "https://cleantechnica.com/2026/08/19/can-legacy-automakers-survive-without-exports/",
-        "pubDate": "Wed, 19 Aug 2026 22:44:16 +0000",
-        "description": "It appears that Chinese carmakers are working around the US tariff wall, by targeting other export markets. Southeast Asia and Latin America are importing record numbers of Chinese EVs. Some Chinese carmakers are not just exporting to these markets, but setting up shop. Which leads me to ask the que",
-        "title_cn": "传统汽车制造商能否在没有出口的情况下生存？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Iron-mediated reversible lattice-oxygen redox enables stable 200 Wh kg −1 sodium-ion batteries",
+        "link": "https://www.nature.com/articles/s41560-026-02112-8",
+        "pubDate": "2026-08-20",
+        "description": "Nature Energy, Published online: 20 August 2026; doi:10.1038/s41560-026-02112-8 Lattice-oxygen redox can raise the energy density of layered oxide cathodes, but poor reversibility causes structural degradation and capacity loss. Here the authors use iron as a bulk redox mediator to boost oxygen-redo",
+        "title_cn": "铁介导的可逆晶格-氧氧化还原可实现稳定的200 Wh kg − 1钠离子电池"
+      },
       {
         "title": "Best practices for measuring the performance and stability of indoor photovoltaic devices",
         "link": "https://www.nature.com/articles/s41560-026-02101-x",
@@ -178,17 +185,10 @@
         "pubDate": "2026-08-05",
         "description": "Nature Energy, Published online: 05 August 2026; doi:10.1038/s41560-026-02125-3 The performance of perovskite/Cu(In,Ga)Se2 tandem solar cells is limited by optical and electronic losses at the interfaces between layers. By engineering two of these interfaces, Zeng, Wang, Tang et al. achieve a certif",
         "title_cn": "改善高效钙钛矿/Cu (In, Ga) Se 2串联太阳能电池的界面介导载流子传输"
-      },
-      {
-        "title": "Coordinating EV charging modes and energy system planning reveals uneven savings across Europe",
-        "link": "https://www.nature.com/articles/s41560-026-02121-7",
-        "pubDate": "2026-08-04",
-        "description": "Nature Energy, Published online: 04 August 2026; doi:10.1038/s41560-026-02121-7 Including the costs of charging infrastructure in a European energy system model reveals that unidirectional smart charging delivers up to 4.5% in annual system cost savings, whereas bidirectional charging technology gen",
-        "title_cn": "协调电动汽车充电模式和能源系统规划，显示整个欧洲的节省不均衡"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-20 07:34 UTC"
+    "updated": "2026-08-20 14:27 UTC"
   }
 }
