@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
+        "link": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
+        "pubDate": "Thu, 20 Aug 2026 06:31:58 +0000",
+        "description": "High-voltage direct current transmission used to look like a specialist technology reserved for unusually long lines, subsea links or awkward grid problems. That is changing. In a recent Redefining Energy conversation, Cornelis Plet, CTO of Grid Systems Integration at GE Vernova, described HVDC as s",
+        "title_cn": "2 GW HVDC正在成为标准。电网的其余部分不是。"
+      },
+      {
+        "title": "SolarAnywhere® Supports Solar PV & Unmanned Flight!",
+        "link": "https://cleantechnica.com/2026/08/19/solaranywhere-supports-solar-pv-unmanned-flight-2/",
+        "pubDate": "Thu, 20 Aug 2026 03:50:09 +0000",
+        "description": "SolarAnywhere® is often associated with utility-scale or distributed PV, but our solar irradiance data powers a lot more than solar plants. A great example: Piotr Lichota at the Warsaw University of Technology is using SolarAnywhere to figure out when to launch solar-assisted Unmanned Aerial Vehicle",
+        "title_cn": "SolarAnywhere ®支持太阳能光伏和无人飞行！"
+      },
       {
         "title": "Cadillac CELESTIQ Night Test Is Inspired By The Quiet, After-hours World Where Real Performance Is Honed",
         "link": "https://cleantechnica.com/2026/08/19/cadillac-celestiq-night-test-is-inspired-by-the-quiet-after-hours-world-where-real-performance-is-honed/",
@@ -109,24 +123,10 @@
         "pubDate": "Wed, 19 Aug 2026 22:44:16 +0000",
         "description": "It appears that Chinese carmakers are working around the US tariff wall, by targeting other export markets. Southeast Asia and Latin America are importing record numbers of Chinese EVs. Some Chinese carmakers are not just exporting to these markets, but setting up shop. Which leads me to ask the que",
         "title_cn": "传统汽车制造商能否在没有出口的情况下生存？"
-      },
-      {
-        "title": "If Toyota Sells EVs, People Will Buy Them",
-        "link": "https://cleantechnica.com/2026/08/19/if-toyota-sells-evs-people-will-buy-them/",
-        "pubDate": "Wed, 19 Aug 2026 22:10:40 +0000",
-        "description": "New Sales Data Shows Potential of Investment in More Fuel-Efficient Vehicles New sales data shows that Toyota’s plug-in hybrid vehicle (PHEV) sales are increasing due to the automaker expanding availability of the PHEV models to dealers across the country. The strong rise in Toyota’s hybrid sales th",
-        "title_cn": "如果丰田出售电动汽车，人们会购买它们"
-      },
-      {
-        "title": "Famous US Automaker Faces The Music As Million-Dollar Vote Scheme Goes South",
-        "link": "https://cleantechnica.com/2026/08/19/elon-musk-fraud-lawsuit-2024-elections-class-action/",
-        "pubDate": "Wed, 19 Aug 2026 17:08:15 +0000",
-        "description": "A fraud lawsuit against Tesla CEO Elon Musk is moving to the next step, in which class action status will be determined in regards to his pledge to select random voters to receive $1 million each, if they sign petitions circulated by his America PAC. The post Famous US Automaker Faces The Music As M",
-        "title_cn": "随着数百万美元的投票计划走向南方，美国著名汽车制造商面临音乐"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Hellesylt Hydrogen Hub Becomes the First RFNBO-Certified Hydrogen Production Site in Norway",
-        "link": "https://fuelcellsworks.com/2026/08/18/electrolyzer/hellesylt-hydrogen-hub-becomes-the-first-rfnbo-certified-hydrogen-production-site-in-norway",
-        "pubDate": "Tue, 18 Aug 2026 15:58:04 GMT",
+        "title": "Px Group and SoHHytec Launch Industrial Solar-to-Hydrogen Demonstration Project",
+        "link": "https://fuelcellsworks.com/2026/08/17/green-hydrogen/px-group-and-sohhytec-launch-industrial-solar-to-hydrogen-demonstration-project",
+        "pubDate": "Wed, 19 Aug 2026 15:28:26 GMT",
         "description": "",
-        "title_cn": "Hellesylt氢气中心成为挪威首个获得RFNBO认证的氢气生产基地"
+        "title_cn": "Px集团携手SoHytec启动工业太阳能制氢示范项目"
       },
       {
-        "title": "Florida Startup Tests 1MW Containerized Hydrogen Power System for Off-Grid Use",
-        "link": "https://fuelcellsworks.com/2026/08/18/h2/florida-startup-tests-1mw-containerized-hydrogen-power-system-for-off-grid-use",
-        "pubDate": "Tue, 18 Aug 2026 15:44:48 GMT",
+        "title": "Sunfire Begins Building Megawatt-Scale SOEC Plant at BASF Site With Eye on 89% Efficiency",
+        "link": "https://fuelcellsworks.com/2026/08/19/green-investment/sunfire-begins-building-megawatt-scale-soec-plant-at-basf-site-with-eye-on-89-percent-efficiency",
+        "pubDate": "Wed, 19 Aug 2026 15:23:08 GMT",
         "description": "",
-        "title_cn": "佛罗里达州初创公司测试离网使用的1MW集装箱氢动力系统"
+        "title_cn": "Sunfire开始在巴斯夫工厂建设兆瓦级SOEC工厂，效率达89%"
       },
       {
-        "title": "San Bernardino International Airport and Total Hydrogen Development to Produce Clean, Low-Cost Hydrogen in the Inland Empire",
-        "link": "https://fuelcellsworks.com/2026/08/18/fuel-cells/san-bernardino-international-airport-and-total-hydrogen-development-to-produce-clean-low-cost-hydrogen-in-the-inland-empire",
-        "pubDate": "Tue, 18 Aug 2026 15:35:54 GMT",
+        "title": "Iwatani Launches Hydrogen-Compatible Industrial Hot Air Generator From ¥10 Million",
+        "link": "https://fuelcellsworks.com/2026/08/17/h2/iwatani-launches-hydrogen-compatible-industrial-hot-air-generator-from-10-million",
+        "pubDate": "Wed, 19 Aug 2026 15:10:12 GMT",
         "description": "",
-        "title_cn": "圣贝纳迪诺国际机场和Total Hydrogen Development在内陆帝国生产清洁、低成本的氢气"
+        "title_cn": "Iwatani推出氢气兼容型工业热风发电机，起价1000万美元¥"
       },
       {
-        "title": "Wuhan Deploys First Customized Hydrogen-Powered Two-Wheelers in Optics Valley",
-        "link": "https://fuelcellsworks.com/2026/08/18/fuel-cells/wuhan-deploys-first-customized-hydrogen-powered-two-wheelers-in-optics-valley",
-        "pubDate": "Tue, 18 Aug 2026 15:02:39 GMT",
+        "title": "Detecting Ammonia Leaks at Concentrations as Low as 1 Ppm!",
+        "link": "https://fuelcellsworks.com/2026/08/19/clean-energy/detecting-ammonia-leaks-at-concentrations-as-low-as-1-ppm",
+        "pubDate": "Wed, 19 Aug 2026 15:02:36 GMT",
         "description": "",
-        "title_cn": "武汉在光谷部署首批定制氢动力两轮车"
+        "title_cn": "在低至1 ppm的浓度下检测氨泄漏！"
       },
       {
-        "title": "DayOne Raises SGD 530M for Hydrogen-Ready Singapore Data Centre",
-        "link": "https://fuelcellsworks.com/2026/08/18/green-investment/dayone-raises-sgd-530m-for-hydrogen-ready-singapore-data-centre",
-        "pubDate": "Tue, 18 Aug 2026 14:57:17 GMT",
+        "title": "TH₂ECO Seeks Funding for First Ten Hydrogen Trucks as Erfurt Freight Hub Moves Toward Deployment",
+        "link": "https://fuelcellsworks.com/2026/08/17/h2/th-eco-seeks-funding-for-first-ten-hydrogen-trucks-as-erfurt-freight-hub-moves-toward-deployment",
+        "pubDate": "Wed, 19 Aug 2026 14:43:35 GMT",
         "description": "",
-        "title_cn": "DayOne为Hydrogen-Ready新加坡数据中心筹集5.3亿新元"
+        "title_cn": "随着爱尔福特货运枢纽迈向部署， TH ₂ ECO为前十辆氢能卡车寻求资金"
       },
       {
-        "title": "South Korea Certifies Hanwha Aerospace Maritime Hydrogen Fuel-Cell Technology",
-        "link": "https://fuelcellsworks.com/2026/08/17/fuel-cells/south-korea-certifies-hanwha-aerospace-maritime-hydrogen-fuel-cell-technology",
-        "pubDate": "Tue, 18 Aug 2026 14:44:59 GMT",
+        "title": "VIVIFY Technology Opens HOG™ Hydrogen Platform to Independent Validation Testing",
+        "link": "https://fuelcellsworks.com/2026/08/19/green-technology/vivify-technology-opens-hog-hydrogen-platform-to-independent-validation-testing",
+        "pubDate": "Wed, 19 Aug 2026 14:40:21 GMT",
         "description": "",
-        "title_cn": "韩国认证韩华航空航天海上氢燃料电池技术"
+        "title_cn": "VIVIFY Technology向独立验证测试开放HOG™氢平台"
       },
       {
-        "title": "Finland’s P2X Solutions Signs Green Hydrogen E-Methane Supply Deal",
-        "link": "https://fuelcellsworks.com/2026/08/18/green-hydrogen/finland-s-p2x-solutions-signs-green-hydrogen-e-methane-supply-deal",
-        "pubDate": "Tue, 18 Aug 2026 14:43:31 GMT",
+        "title": "Researchers Find Up to 98% Pure Natural Hydrogen in China’s Sichuan Basin",
+        "link": "https://fuelcellsworks.com/2026/08/19/h2/researchers-find-up-to-98-percent-pure-natural-hydrogen-in-china-s-sichuan-basin",
+        "pubDate": "Wed, 19 Aug 2026 14:22:52 GMT",
         "description": "",
-        "title_cn": "芬兰的P2X解决方案签署绿色氢电子甲烷供应协议"
+        "title_cn": "研究人员在中国四川盆地发现高达98%的纯天然氢"
       },
       {
-        "title": "Vortex Energy Announces Final Ambient Noise Tomography Results for the Robinsons River Salt Project",
-        "link": "https://fuelcellsworks.com/2026/08/18/green-investment/vortex-energy-announces-final-ambient-noise-tomography-results-for-the-robinsons-river-salt-project",
-        "pubDate": "Tue, 18 Aug 2026 14:28:05 GMT",
+        "title": "Enapter AG Starts Stack Production in China",
+        "link": "https://fuelcellsworks.com/2026/08/19/electrolyzer/enapter-ag-starts-stack-production-in-china",
+        "pubDate": "Wed, 19 Aug 2026 14:06:04 GMT",
         "description": "",
-        "title_cn": "Vortex Energy宣布Robinsons River Salt项目的最终环境噪声断层扫描结果"
+        "title_cn": "Enapter AG在中国开始堆叠生产"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-20 02:50 UTC"
+    "updated": "2026-08-20 07:34 UTC"
   }
 }
