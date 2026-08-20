@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "These trees are making air quality in cities worse",
+        "link": "https://www.nature.com/articles/d41586-026-02586-2",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+        "title_cn": "这些树木正在使城市的空气质量恶化"
+      },
+      {
         "title": "Evidence for vacuum-enhanced superconductivity in NbSe 2",
         "link": "https://www.nature.com/articles/s41586-026-11037-x",
         "pubDate": "2026-08-19",
@@ -49,25 +56,60 @@
         "pubDate": "2026-08-19",
         "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10904-x Measurements on an array of optically trapped neutral atoms at a quantum phase transition provide a direct observation of the universal excitation spectrum predicted by conformal field theory.",
         "title_cn": "量子模拟器中共形场论光谱的观测"
-      },
-      {
-        "title": "Wake-activated neuronal populations that regulate sleep drive",
-        "link": "https://www.nature.com/articles/s41586-026-10928-3",
-        "pubDate": "2026-08-19",
-        "description": "Nature, Published online: 19 August 2026; doi:10.1038/s41586-026-10928-3 Whole-brain activity mapping, targeted cell manipulations and electrophysiology in mice identify wake-activated neuronal populations that are crucial for sleep drive and can persistently reduce daily sleep amount.",
-        "title_cn": "调节睡眠驱动的唤醒激活神经元群体"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Cadillac CELESTIQ Night Test Is Inspired By The Quiet, After-hours World Where Real Performance Is Honed",
+        "link": "https://cleantechnica.com/2026/08/19/cadillac-celestiq-night-test-is-inspired-by-the-quiet-after-hours-world-where-real-performance-is-honed/",
+        "pubDate": "Thu, 20 Aug 2026 02:30:45 +0000",
+        "description": "Every champion is born in private. Far away from the crowd, performance is relentlessly honed, obsessively optimized. This is not spectacle — it&#8217;s the unseen work of thousands of hours of painstaking practice. It’s the dance of brutal precision where perfection is earned, unfolding under the c",
+        "title_cn": "凯迪拉克CELESTIQ夜间测试的灵感来自安静的下班后世界，在这里，真正的性能得到了磨练"
+      },
+      {
+        "title": "NLR & North American Electric Reliability Corporation Launch Partnership To Advance North American Grid Reliability",
+        "link": "https://cleantechnica.com/2026/08/19/nlr-north-american-electric-reliability-corporation-launch-partnership-to-advance-north-american-grid-reliability/",
+        "pubDate": "Thu, 20 Aug 2026 02:13:37 +0000",
+        "description": "Collaboration Will Advance Research and Technical Insights Needed To Support Reliable, Resilient Energy Future for More Than 400 Million North Americans By Madeline Geocaris, NLR The National Laboratory of the Rockies (NLR) and the North American Electric Reliability Corporation (NERC) announced a n",
+        "title_cn": "NLR与北美电力可靠性公司建立合作伙伴关系，提升北美电网可靠性"
+      },
+      {
+        "title": "Translucent Solar Starts Producing Solar Panels in South Carolina",
+        "link": "https://cleantechnica.com/2026/08/19/translucent-solar-starts-producing-solar-panels-in-south-carolina/",
+        "pubDate": "Thu, 20 Aug 2026 00:39:41 +0000",
+        "description": "There&#8217;s been a push for the past several years to get more cleantech products produced in the United States. One of the key target products is solar panels, as well as the various components of solar panels. That has been encouraged through a variety of strong production incentives (brought in",
+        "title_cn": "Translucent Solar开始在南卡罗来纳州生产太阳能电池板"
+      },
+      {
+        "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+        "link": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+        "pubDate": "Wed, 19 Aug 2026 23:39:03 +0000",
+        "description": "Bouge RV has been a staple brand in the affordable solar and portable refrigeration space for years. Over the last few years, they have really ramped up their efforts to flesh out the product line, improving the quality of their products at the same time. Disclaimer: Bouge RV provided the ... [conti",
+        "title_cn": "Bouge RV的电池供电便携式冰箱可轻松脱离电网（ CleanTechnica测试）"
+      },
+      {
+        "title": "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey",
+        "link": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
+        "pubDate": "Wed, 19 Aug 2026 23:24:05 +0000",
+        "description": "16 agrivoltaic projects in the state of New Jersey have just gotten approval to move forward by the New Jersey Board of Public Utilities (NJBPU). Together, the projects aren&#8217;t huge, but they do total 52.06 more megawatts of clean, renewable energy, produced on land productively being used for ",
+        "title_cn": "新泽西州当地农场的16个农业光伏项目向前发展"
+      },
+      {
+        "title": "Can Legacy Automakers Survive Without Exports?",
+        "link": "https://cleantechnica.com/2026/08/19/can-legacy-automakers-survive-without-exports/",
+        "pubDate": "Wed, 19 Aug 2026 22:44:16 +0000",
+        "description": "It appears that Chinese carmakers are working around the US tariff wall, by targeting other export markets. Southeast Asia and Latin America are importing record numbers of Chinese EVs. Some Chinese carmakers are not just exporting to these markets, but setting up shop. Which leads me to ask the que",
+        "title_cn": "传统汽车制造商能否在没有出口的情况下生存？"
+      },
       {
         "title": "If Toyota Sells EVs, People Will Buy Them",
         "link": "https://cleantechnica.com/2026/08/19/if-toyota-sells-evs-people-will-buy-them/",
@@ -81,52 +123,10 @@
         "pubDate": "Wed, 19 Aug 2026 17:08:15 +0000",
         "description": "A fraud lawsuit against Tesla CEO Elon Musk is moving to the next step, in which class action status will be determined in regards to his pledge to select random voters to receive $1 million each, if they sign petitions circulated by his America PAC. The post Famous US Automaker Faces The Music As M",
         "title_cn": "随着数百万美元的投票计划走向南方，美国著名汽车制造商面临音乐"
-      },
-      {
-        "title": "OCTA Is Spending Again On Hydrogen Because The Fuel Chain Failed",
-        "link": "https://cleantechnica.com/2026/08/19/octa-hydrogen-bus-fuel-supply-risk/",
-        "pubDate": "Wed, 19 Aug 2026 06:43:05 +0000",
-        "description": "The Orange County Transportation Authority is spending another $27.6 million on hydrogen infrastructure as it expands its fuel-cell bus fleet from 10 buses toward 50. Read the announcement quickly and it sounds like ordinary fleet growth: more buses require more fueling capacity. OCTA’s history make",
-        "title_cn": "由于燃料链故障， OCTA再次在氢气上花费"
-      },
-      {
-        "title": "Solar Power Passes 3 Terawatts!",
-        "link": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/",
-        "pubDate": "Wed, 19 Aug 2026 03:28:22 +0000",
-        "description": "Solar power has passed another big milestone. Solar has reached and quickly surpassed the 3-terawatt — yes, terawatt — marker globally. That&#8217;s how much solar power is installed across the world. Naturally, a lot of the growth was from China, but a lot of it was also from emerging markets ... [",
-        "title_cn": "太阳能功率超过3太瓦！"
-      },
-      {
-        "title": "Pony AI Plans to Deploy 1,000 Autonomous Heavy Trucks",
-        "link": "https://cleantechnica.com/2026/08/18/pony-ai-plans-to-deploy-1000-autonomous-heavy-trucks/",
-        "pubDate": "Wed, 19 Aug 2026 03:06:37 +0000",
-        "description": "Just yesterday, I wrote about Einride and DAF Trucks partnering on a new, serious autonomous trucking initiative. There&#8217;s another recent autonomous trucking story that slipped through the cracks. Autonomous driving company Pony.AI is reportedly looking to deploy 1,000 autonomous heavy-duty ele",
-        "title_cn": "Pony AI计划部署1000辆自动驾驶重型卡车"
-      },
-      {
-        "title": "Sierra Club Statement on USDA Announcement to Remove Roadless Rule Protections",
-        "link": "https://cleantechnica.com/2026/08/18/sierra-club-statement-on-usda-announcement-to-remove-roadless-rule-protections/",
-        "pubDate": "Wed, 19 Aug 2026 02:35:02 +0000",
-        "description": "WASHINGTON, D.C. — Today, the U.S. Department of Agriculture announced its latest step to eliminate protections under the Roadless Area Conservation Rule, claiming the move is necessary to reduce wildfire risk and expand forest management. Since the Forest Service created the Roadless Rule in 2001, ",
-        "title_cn": "Sierra Club关于美国农业部宣布取消无路规则保护的声明"
-      },
-      {
-        "title": "Duke’s New Energy Plan for Data Centers Requires Consumer Protections Now",
-        "link": "https://cleantechnica.com/2026/08/18/dukes-new-energy-plan-for-data-centers-requires-consumer-protections-now/",
-        "pubDate": "Wed, 19 Aug 2026 02:22:21 +0000",
-        "description": "COLUMBIA, S.C. — Duke Energy released its latest long-range energy plan, which proposes two additional gas plants and extends costly coal plant operations based on speculative data center developments, according to its own documents released last Friday. This alarming development underscores the nee",
-        "title_cn": "杜克大学的数据中心新能源计划现在需要消费者保护"
-      },
-      {
-        "title": "Unearthing the Future: Inside NLR’s Summer Educational Programs",
-        "link": "https://cleantechnica.com/2026/08/18/unearthing-the-future-inside-nlrs-summer-educational-programs/",
-        "pubDate": "Wed, 19 Aug 2026 01:12:41 +0000",
-        "description": "An underground mine provided some welcomed cool on a peak-summer day in the mountains west of Denver, Colorado, for a group of 21 undergraduate interns from the U.S. Department of Energy’s National Laboratory of the Rockies (NLR). Outfitted with hard hats, and as gravel crunched under their closed-t",
-        "title_cn": "探索未来：深入了解荷兰国立大学的暑期教育计划"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "energy_cn": {
     "items": [
@@ -217,12 +217,6 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 - 维度网",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qMUMxN0Y0YklmdTIwbXR1b3AwS2VSd2RLaEdpbEN1TGZXeUhuRE83WTlvWnFoTEZkZmx5OWE4X0RfYUd5M25UOWFnVGlhTl9fTzU1Yk1IRmI?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 03:44:00 GMT",
-        "description": "韩国东南电力签署320MW绿色氢能综合体谅解备忘录 &nbsp;&nbsp; 维度网"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Long-time fermionic quantum transport with controlled full-state error using an adaptive reservoir-mode window",
-        "link": "https://arxiv.org/abs/2608.18049v1",
-        "pubDate": "2026-08-18T17:43:34Z",
-        "description": "Real-time simulations of interacting nanostructures coupled to fermionic reservoirs can require a growing number of environmental degrees of freedom to retain long-lived correlations. We introduce tape-recorder coarse graining, which reorganizes each noninteracting lead into incoming, active, and ou",
-        "title_cn": "使用自适应储器模式窗口控制全状态误差的长时间费米子量子传输"
+        "title": "Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows",
+        "link": "https://arxiv.org/abs/2608.19198v1",
+        "pubDate": "2026-08-19T17:59:27Z",
+        "description": "Wasserstein gradient flows are intimately connected with evolution partial differential equations and diffusion processes. We take the first step in developing such connections for inner product Gromov--Wasserstein (IGW) gradient flows by studying the IGW gradient flow of the relative entropy $\\math",
+        "title_cn": "Gromov-Wasserstein梯度流的概率表示和收敛"
       },
       {
-        "title": "Global Optimization of Flexible District Heating Networks",
-        "link": "https://arxiv.org/abs/2608.18046v1",
-        "pubDate": "2026-08-18T17:40:12Z",
-        "description": "District heating networks are a central tool to achieve low-carbon heat supplies. In this realm, they face the challenge of dealing with increasingly heterogeneous, partially time-varying renewable sources, thermal storage, and meshed topologies. This paper examines global optimization of the operat",
-        "title_cn": "柔性区域供热网络的全局优化"
+        "title": "The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications",
+        "link": "https://arxiv.org/abs/2608.19191v1",
+        "pubDate": "2026-08-19T17:57:18Z",
+        "description": "We define and study the Structured Totient Preimage (STP) problem as a restricted reconstruction relation with a direct cryptographic motivation. Let $p_1,\\ldots,p_k$ be distinct primes of the same bit length and reveal only $x=\\prod_{i=1}^k(p_i-1)$. Given $(x,λ,k)$, STP asks for any set of $k$ dist",
+        "title_cn": "结构化原始图像问题：重建、碰撞和密码学含义"
       },
       {
-        "title": "The Polyglot's Dilemma: Conformance Testing a Dozen Specs in as Many Languages",
-        "link": "https://arxiv.org/abs/2608.18039v1",
-        "pubDate": "2026-08-18T17:32:47Z",
-        "description": "MongoDB maintains client libraries in a dozen programming languages, used by tens of thousands of organizations and millions of developers. Most are implemented natively rather than as wrappers around a shared core. Ensuring consistent behavior across these libraries, comprising millions of lines of",
-        "title_cn": "多语种的困境：以多种语言对十几种规格进行一致性测试"
+        "title": "Cell-Probe Lower Bounds and Complexity-Preserving Reductions for Suffix Array Queries",
+        "link": "https://arxiv.org/abs/2608.19172v1",
+        "pubDate": "2026-08-19T17:50:21Z",
+        "description": "For a text $T$ of length $n$ over an alphabet of size $σ$, its suffix array lists the starting positions of the suffixes of $T$ in lexicographic order, and its inverse suffix array gives the lexicographic rank of the suffix starting at each position. Since the introduction of the FM-index and the co",
+        "title_cn": "后缀数组查询的单元格探针下限和复杂度保留缩减"
       },
       {
-        "title": "Confining density functional approach to the QCD phase diagram at low temperatures and thermal twin stars",
-        "link": "https://arxiv.org/abs/2608.18038v1",
-        "pubDate": "2026-08-18T17:32:19Z",
-        "description": "We present a density functional-based equation of state for warm, dense nuclear matter with a transition to deconfined quark matter for applications to simulations of supernova explosions and neutron star mergers, but also for the cosmological evolution of Q-balls. For the quark matter equation of s",
-        "title_cn": "QCD相图在低温和热孪星条件下的局限密度泛函方法"
+        "title": "Second-Level Concavity of the Riemann $Ξ$ Kernel",
+        "link": "https://arxiv.org/abs/2608.19160v1",
+        "pubDate": "2026-08-19T17:43:05Z",
+        "description": "Let $Φ$ be the classical Jacobi-theta kernel in the Fourier representation of the Riemann $Ξ$-function, set $s(t)=Φ(\\sqrt t)$, and define the first Laguerre expression $f(t)=s'(t)^2-s(t)s''(t)$. Csordas and Dimitrov (2000) conjectured that $\\log f$ is strictly concave on $(0,\\infty)$; Csordas (2015)",
+        "title_cn": "黎曼核的二级凹度"
       },
       {
-        "title": "AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation",
-        "link": "https://arxiv.org/abs/2608.17995v1",
-        "pubDate": "2026-08-18T16:42:09Z",
-        "description": "Diffusion Transformers (DiTs) achieve high-quality generation but are costly due to iterative sampling. Dynamic-resolution sampling reduces early-stage cost by denoising at low resolution; however, uniformly upsampling all latent tokens at resolution transitions incurs redundant computation and may ",
-        "title_cn": "AViTS ：自适应时空令牌选择，实现高效动态分辨率生成"
+        "title": "Inferring the Dark from the Observable: Estimating Halo Masses Using Galaxy Properties",
+        "link": "https://arxiv.org/abs/2608.19154v1",
+        "pubDate": "2026-08-19T17:40:44Z",
+        "description": "The formation and evolution of galaxies are interconnected with that of their host halos. Given this closely related evolutionary history, it should follow that galaxy properties are correlated with their host halo mass. Previous works have shown that star formation rates of galaxies in cluster halo",
+        "title_cn": "从可观测值推断黑暗：使用星系属性估计光环质量"
       },
       {
-        "title": "Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media",
-        "link": "https://arxiv.org/abs/2608.17987v1",
-        "pubDate": "2026-08-18T16:33:32Z",
-        "description": "The rapid growth of social media has greatly influenced political discourse, highlighting the need to understand individual political ideologies and their temporal dynamics. This task faces challenges such as data scarcity, abundant non-political content, costly and bias-prone manual annotation, and",
-        "title_cn": "反对政治两极分化：在社交媒体上追踪不断演变的政治意识形态的统一框架"
+        "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
+        "link": "https://arxiv.org/abs/2608.19133v1",
+        "pubDate": "2026-08-19T17:27:25Z",
+        "description": "We present a novel application of embedding-based dynamic topic modeling techniques to detect and quantify topic drift at the comment level in a massive corpus. By leveraging pretrained language models to generate contextualized semantic embeddings for short text, we analyzed 12.7 billion Reddit com",
+        "title_cn": "Reddit语料库中的评论级主题漂移分析"
       },
       {
-        "title": "The Roman Coronagraph Community Participation Program: data reduction pipeline astrometric calibration",
-        "link": "https://arxiv.org/abs/2608.17985v1",
-        "pubDate": "2026-08-18T16:31:36Z",
-        "description": "The Nancy Grace Roman Space Telescope will be equipped with a Technology Demonstration Coronagraph Instrument that will push the current limits of high contrast imaging for exoplanets ($10^{-9}$ contrast). The Roman Coronagraph Community Participation Program has developed corgidrp, a python-based d",
-        "title_cn": "罗马Coronagraph社区参与计划：数据减少管道天体测量校准"
+        "title": "Toward Quantum Advantage in Learning Parities with Structured Noise via Lower Bound Optimization of the Condition Number",
+        "link": "https://arxiv.org/abs/2608.19122v1",
+        "pubDate": "2026-08-19T17:17:31Z",
+        "description": "Learning Parities with Structured Noise (LPSN) can be reduced to solving nonlinear Boolean systems. In quantum computing, such systems are typically transformed into Macaulay linear systems and solved via quantum linear system algorithms, a process severely limited by the condition number. To addres",
+        "title_cn": "通过条件数的下限优化实现结构化噪声学习奇偶校验的量子优势"
       },
       {
-        "title": "Recirculation",
-        "link": "https://arxiv.org/abs/2608.17981v1",
-        "pubDate": "2026-08-18T16:30:21Z",
-        "description": "We describe an inference-time architectural enhancement for off-the-shelf foundation models that markedly reduces perplexity and boosts accuracy across generation and reasoning tasks. Our approach incurs essentially no additional latency during generation, though it requires serial processing in the",
-        "title_cn": "再循环"
+        "title": "Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets",
+        "link": "https://arxiv.org/abs/2608.19103v1",
+        "pubDate": "2026-08-19T16:54:17Z",
+        "description": "The practical implementation of quantum algorithms on noisy intermediate-scale quantum devices encounters operational limitations due to decoherence and other sources of noise inherent in real hardware. To mitigate these errors while preserving the original functionality of the algorithm, shorter qu",
+        "title_cn": "使用深度强化学习的量子电路优化：跨多个门集的应用"
       },
       {
-        "title": "Mathematical modelling of immune persistence and relapse pathways in CAR T-cell therapy for B-ALL",
-        "link": "https://arxiv.org/abs/2608.17955v1",
-        "pubDate": "2026-08-18T16:09:02Z",
-        "description": "Chimeric antigen receptor (CAR) T-cell therapy has transformed the treatment of B-cell acute lymphoblastic leukaemia (B-ALL). Despite high initial response rates, a substantial fraction of patients relapse, often due to loss of CAR T-cell persistence, antigen escape, or immune-privileged sites that ",
-        "title_cn": "B-ALL CAR-T细胞治疗中免疫持续性和复发途径的数学建模"
+        "title": "The Limits of Black-Box Reductions for All-Pairs Triangle Detection",
+        "link": "https://arxiv.org/abs/2608.19092v1",
+        "pubDate": "2026-08-19T16:42:21Z",
+        "description": "For any tripartite relation $R\\subseteq \\mathbb{Z}^3$, the $R$-Triangle problem asks, given an edge-weighted graph, whether it contains a triangle whose weights form a triple in $R$. The All-Edge $R$-Triangle problem asks to determine for every edge whether it is contained in such a triangle. It is ",
+        "title_cn": "全对三角形检测的黑盒减少的极限"
       },
       {
-        "title": "EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection",
-        "link": "https://arxiv.org/abs/2608.17933v1",
-        "pubDate": "2026-08-18T15:55:32Z",
-        "description": "Financial time series exhibit non-stationary and heterogeneous statistical properties, making change-point detection challenging because no single unsupervised algorithm performs consistently across assets and market regimes. Conventional workflows consequently depend heavily on expert-driven model ",
-        "title_cn": "EvoTS-Agent ：用于财务时间序列变更点检测的自我发展LLM代理"
+        "title": "Non-Local Search-to-Decision Reduction over F2",
+        "link": "https://arxiv.org/abs/2608.19091v1",
+        "pubDate": "2026-08-19T16:40:55Z",
+        "description": "Non-local search-to-decision asks whether two noncommunicating parties, given the two shares of a bipartite encoding of a uniformly random string $x\\in \\mathbb{F}_2^n$, can both predict the same random parity $\\langle r,x\\rangle$ without there also being local measurements with which both parties re",
+        "title_cn": "与F2相比，非本地搜索决策减少"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "policy_nea": {
     "items": [
@@ -397,16 +397,10 @@
         "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihai123.com",
+        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - 币海财经",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
         "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
-        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; bihai123.com"
-      },
-      {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; 币海财经"
       },
       {
         "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
@@ -415,16 +409,22 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,6 +451,12 @@
         "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
@@ -463,10 +469,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -479,15 +485,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
         "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-19 22:16 UTC"
+    "updated": "2026-08-20 02:50 UTC"
   }
 }
