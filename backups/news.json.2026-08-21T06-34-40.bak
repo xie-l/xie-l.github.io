@@ -1,0 +1,493 @@
+{
+  "tech": {
+    "items": [
+      {
+        "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
+        "link": "https://www.nature.com/articles/s41586-026-11043-z",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-z Dialkyl ether synthesis through heteroatom homolytic substitution",
+        "title_cn": "通过杂原子均解取代合成二烷基醚"
+      },
+      {
+        "title": "Hidden volcanoes hint at Moon’s turbulent past",
+        "link": "https://www.nature.com/articles/d41586-026-02555-9",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9 A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.",
+        "title_cn": "隐藏的火山暗示了月球动荡的过去"
+      },
+      {
+        "title": "To shield the fetus, link a protein to these drugs",
+        "link": "https://www.nature.com/articles/d41586-026-02553-x",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
+        "title_cn": "为了保护胎儿，将蛋白质与这些药物"
+      },
+      {
+        "title": "Astronaut vest cuts radiation exposure in half",
+        "link": "https://www.nature.com/articles/d41586-026-02556-8",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
+        "title_cn": "宇航员背心将辐射暴露减少一半"
+      },
+      {
+        "title": "These trees are making air quality in cities worse",
+        "link": "https://www.nature.com/articles/d41586-026-02586-2",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
+        "title_cn": "这些树木正在使城市的空气质量恶化"
+      },
+      {
+        "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
+        "link": "https://www.nature.com/articles/d41586-026-02574-6",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02574-6 The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.",
+        "title_cn": "独家： NSF将发放40年来最低数量的新补助金"
+      },
+      {
+        "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
+        "link": "https://www.nature.com/articles/d41586-026-02612-3",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
+        "title_cn": "Moderna癌症疫苗阻止黑色素瘤复发：个性化治疗的下一步是什么？"
+      },
+      {
+        "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
+        "link": "https://www.nature.com/articles/d41586-026-02549-7",
+        "pubDate": "2026-08-20",
+        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
+        "title_cn": "投资者的潜行巅峰：这个人工智能工具能否发现将导致专利的科学？"
+      }
+    ],
+    "source": "Nature",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "tech_cn": {
+    "items": [],
+    "source": "36氪",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "energy_intl": {
+    "items": [
+      {
+        "title": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
+        "link": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
+        "pubDate": "Fri, 21 Aug 2026 02:31:34 +0000",
+        "description": "The Princeton University spinout will use the funding to expand sales and commercial deployments of its revolutionary brine-based lithium production platform in the U.S. and South America. PRINCETON, N.J. — Princeton Critical Minerals (PCM), a startup developing technologies to accelerate and increa",
+        "title_cn": "普林斯顿关键矿物公司筹集$ 1600万扩大锂生产技术"
+      },
+      {
+        "title": "Waymo Fully Launches Robotaxi Service in Houston",
+        "link": "https://cleantechnica.com/2026/08/20/waymo-fully-launches-robotaxi-service-in-houston/",
+        "pubDate": "Fri, 21 Aug 2026 02:17:10 +0000",
+        "description": "Waymo fully launched robotaxi service in Houston, Texas, today. You may recall that Waymo started inviting customers to use its service in Space City about 6 months ago. I didn&#8217;t recall that at first when I saw the news today that Waymo was launching in Houston, but I suspected it ... [continu",
+        "title_cn": "Waymo在休斯敦全面推出机器人出租车服务"
+      },
+      {
+        "title": "Waymo — “A look under our trunk: what’s in our compute”",
+        "link": "https://cleantechnica.com/2026/08/20/waymo-a-look-under-our-trunk-whats-in-our-compute/",
+        "pubDate": "Fri, 21 Aug 2026 01:38:46 +0000",
+        "description": "Compute is the brain of the Waymo Driver, translating raw sensor data into real-time driving commands. Operating demonstrably safe, physical AI on the road demands a fundamental shift towards a system engineered for deterministic, low-latency performance. Over the past decade, we have co-designed ou",
+        "title_cn": "Waymo — “看看我们的后备箱：我们的计算机里有什么”"
+      },
+      {
+        "title": "Sunrun Shifts Away from Affiliates to Direct Sales",
+        "link": "https://cleantechnica.com/2026/08/20/sunrun-shifts-away-from-affiliates-to-direct-sales/",
+        "pubDate": "Fri, 21 Aug 2026 00:38:41 +0000",
+        "description": "Sunrun has been the #1 rooftop solar power installed in the United States for several years now, since SolarCity got swallowed up by Tesla and dwindled to a relatively low level. But that doesn&#8217;t mean Sunrun hasn&#8217;t been facing its own challenges. Apparently, getting business through affi",
+        "title_cn": "Sunrun从关联公司转向直接销售"
+      },
+      {
+        "title": "TVA Approves Gas-Powered Data Center Plan",
+        "link": "https://cleantechnica.com/2026/08/20/tva-approves-gas-powered-data-center-plan/",
+        "pubDate": "Fri, 21 Aug 2026 00:04:50 +0000",
+        "description": "MEMPHIS, Tennessee — Today, the Tennessee Valley Authority approved its 2026 Integrated Resource Plan, setting the stage to overbuild risky gas power plants to serve A.I. data center interests. TVA’s 2026 IRP lays out a dangerous and expensive roadmap for the people of the Tennessee Valley, where ou",
+        "title_cn": "TVA批准燃气数据中心计划"
+      },
+      {
+        "title": "California Solar Power Bills Move Forward to Support Balcony Solar, Community Solar, and VPPs",
+        "link": "https://cleantechnica.com/2026/08/20/california-solar-power-bills-move-forward-to-support-balcony-solar-community-solar-and-vpps/",
+        "pubDate": "Thu, 20 Aug 2026 23:28:25 +0000",
+        "description": "A few bills have moved forward in California that would advance solar power in the state in various ways. The state was long a leader in solar power legislation and growth, but that changed when the Golden State changed its net metering policy. Perhaps things will swing back in the ... [continued] T",
+        "title_cn": "加州太阳能法案向前推进，以支持阳台太阳能、社区太阳能和VPP"
+      },
+      {
+        "title": "Mahle Introduces Range Extender For Electric Trucks",
+        "link": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
+        "pubDate": "Thu, 20 Aug 2026 17:33:02 +0000",
+        "description": "In reality, the battery electric heavy trucks of today have insufficient range for many applications. Even the mighty Tesla Semi (once it actually becomes widely available) will have its limitations. No matter how aerodynamic the shape of the cab or how large the battery, hauling a fully loaded semi",
+        "title_cn": "Mahle推出电动卡车增程器"
+      },
+      {
+        "title": "Lynk & Co 08 Demonstrates All-Round Capability on a 3,200+ km Desert Expedition",
+        "link": "https://cleantechnica.com/2026/08/20/lynk-co-08-demonstrates-all-round-capability-on-a-3200-km-desert-expedition/",
+        "pubDate": "Thu, 20 Aug 2026 17:21:20 +0000",
+        "description": "Gothenburg — Lynk &#38; Co 08 partnered with QUEST DAKAR 2026, an automotive expedition held from July 15 to August 2, 2026, connecting Casablanca with Dakar across Morocco, Mauritania and Senegal. As the official expedition vehicle, the Lynk &#38; Co 08 was driven by professional rally drivers alon",
+        "title_cn": "Lynk ＆ Co 08在3200多公里的沙漠探险中展示了全方位的能力"
+      }
+    ],
+    "source": "CleanTechnica",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "energy": {
+    "items": [
+      {
+        "title": "Iron-mediated reversible lattice-oxygen redox enables stable 200 Wh kg −1 sodium-ion batteries",
+        "link": "https://www.nature.com/articles/s41560-026-02112-8",
+        "pubDate": "2026-08-20",
+        "description": "Nature Energy, Published online: 20 August 2026; doi:10.1038/s41560-026-02112-8 Lattice-oxygen redox can raise the energy density of layered oxide cathodes, but poor reversibility causes structural degradation and capacity loss. Here the authors use iron as a bulk redox mediator to boost oxygen-redo",
+        "title_cn": "铁介导的可逆晶格-氧氧化还原可实现稳定的200 Wh kg − 1钠离子电池"
+      },
+      {
+        "title": "Best practices for measuring the performance and stability of indoor photovoltaic devices",
+        "link": "https://www.nature.com/articles/s41560-026-02101-x",
+        "pubDate": "2026-08-18",
+        "description": "Nature Energy, Published online: 18 August 2026; doi:10.1038/s41560-026-02101-x A major challenge for indoor photovoltaics is the absence of harmonized testing protocols, standards, and shared performance benchmarks. This Consensus Statement outlines recommended practices for testing and reporting d",
+        "title_cn": "测量室内光伏设备性能和稳定性的最佳实践"
+      },
+      {
+        "title": "Interface engineering towards high-efficiency perovskite/CIGS tandem solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02124-4",
+        "pubDate": "2026-08-17",
+        "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02124-4 The efficiency of perovskite/Cu(In,Ga)Se2 (CIGS) tandem solar cells has been limited by interfacial challenges. Now, a dual-interface engineering strategy enables conformal perovskite coverage on textured CIGS bottom-cel",
+        "title_cn": "针对高效钙钛矿/CIGS串联太阳能电池的接口工程"
+      },
+      {
+        "title": "Diffusionless mechanisms produce diffusion-like electrochemistry in battery particles",
+        "link": "https://www.nature.com/articles/s41560-026-02123-5",
+        "pubDate": "2026-08-17",
+        "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02123-5 Overpotentials at low frequencies in Li-ion battery active particles have long been attributed to solid diffusion. Now, electrolyte penetration in battery agglomerate particles is shown to make interior surfaces electroc",
+        "title_cn": "无扩散机制在电池颗粒中产生类似扩散的电化学"
+      },
+      {
+        "title": "Economic and behavioural policy coupling has divergent effects on electric vehicle adoption at individual and system scales",
+        "link": "https://www.nature.com/articles/s41560-026-02114-6",
+        "pubDate": "2026-08-17",
+        "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02114-6 Policy mixes are widely used to accelerate low-carbon transitions, but their effects across different levels are unclear. Here the researchers show that a carbon tax and information intervention additively boost individu",
+        "title_cn": "经济和行为政策耦合对个人和系统规模的电动汽车采用有不同的影响"
+      },
+      {
+        "title": "Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batteries",
+        "link": "https://www.nature.com/articles/s41560-026-02090-x",
+        "pubDate": "2026-08-17",
+        "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02090-x Physical self-discharge critically limits the lifetime of all-solid-state batteries (ASSBs). Wang et al. showed that the non-negligible electronic conductivity of solid-state electrolytes can lead to substantial physical",
+        "title_cn": "固体电解质的电子导电性导致全固态电池物理自放电"
+      },
+      {
+        "title": "Author Correction: High-performance perovskite/silicon tandem solar cells enabled by multifunctional titanium oxynitride recombination layers",
+        "link": "https://www.nature.com/articles/s41560-026-02137-z",
+        "pubDate": "2026-08-14",
+        "description": "Nature Energy, Published online: 14 August 2026; doi:10.1038/s41560-026-02137-z Author Correction: High-performance perovskite/silicon tandem solar cells enabled by multifunctional titanium oxynitride recombination layers",
+        "title_cn": "作者修正：通过多功能氮氧化钛复合层实现的高性能钙钛矿/硅串联太阳能电池"
+      },
+      {
+        "title": "Improving interface-mediated carrier transport for efficient perovskite/Cu(In,Ga)Se 2 tandem solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02125-3",
+        "pubDate": "2026-08-05",
+        "description": "Nature Energy, Published online: 05 August 2026; doi:10.1038/s41560-026-02125-3 The performance of perovskite/Cu(In,Ga)Se2 tandem solar cells is limited by optical and electronic losses at the interfaces between layers. By engineering two of these interfaces, Zeng, Wang, Tang et al. achieve a certif",
+        "title_cn": "改善高效钙钛矿/Cu (In, Ga) Se 2串联太阳能电池的界面介导载流子传输"
+      }
+    ],
+    "source": "Nature Energy",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "energy_cn": {
+    "items": [
+      {
+        "title": "中广核北方中心落子雄安 能源电力央企集聚再提速 - 中国雄安官网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT01BWi12Y2YtejY5OXBFVXRTcGpMaHpqcjhmaGdzSS1NR1VMNEZnaDR6dTJSYTEtMHFrWGlpWU56WmlWd2piZjlIMGVYSHFPaVFWcUF5d01taWx5bnF4ZDhhdHhQZmFFRjJlZHlzN0pMZTZJQnFYUkNDeXFKZ2c?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 07:10:02 GMT",
+        "description": "中广核北方中心落子雄安 能源电力央企集聚再提速 &nbsp;&nbsp; 中国雄安官网"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
+        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
+        "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
+        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "成都如何打造公园城市绿色能源样板？雷宪章院士：电氢协同开辟零碳新赛道 - 封面新闻",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeU9Cc3ZBWm9QVTNlMEVvYmJGSjBVbjZXVWNhcjluM08xMUNDVFNJcmRwdGg0NU1CRWtlb3JBaTNXVDdQQVJJa1NUT0d0Wmx4U2VSRk1LTmFFWFNvdE5Ncl9Ya1Z6LWdhZXdXcEN4ZWRWWEVCOTRnenJORXV2VUpsYm1OVQ?oc=5",
+        "pubDate": "Mon, 27 Jul 2026 07:00:00 GMT",
+        "description": "成都如何打造公园城市绿色能源样板？雷宪章院士：电氢协同开辟零碳新赛道 &nbsp;&nbsp; 封面新闻"
+      }
+    ],
+    "source": "Google新闻·能源",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "hydrogen": {
+    "items": [
+      {
+        "title": "Britain Puts £28M Behind Storing Power for Four Days — and Hydrogen Caverns Are Half the Answer",
+        "link": "https://fuelcellsworks.com/2026/08/20/h2/britain-puts-28m-behind-storing-power-for-four-days-and-hydrogen-caverns-are-half-the-answer",
+        "pubDate": "Thu, 20 Aug 2026 17:14:59 GMT",
+        "description": "",
+        "title_cn": "英国在四天内减少了2800万£的储能—而氢洞是答案的一半"
+      },
+      {
+        "title": "RVK Enters the Production of Green Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/08/20/clean-hydrogen/rvk-enters-the-production-of-green-hydrogen",
+        "pubDate": "Thu, 20 Aug 2026 16:05:47 GMT",
+        "description": "",
+        "title_cn": "RVK开始生产绿色氢气"
+      },
+      {
+        "title": "Perdaman Appoints Electric Hydrogen as Preferred Electrolyser Vendor for Project Helios",
+        "link": "https://fuelcellsworks.com/2026/08/20/clean-energy/perdaman-appoints-electric-hydrogen-as-preferred-electrolyser-vendor-for-project-helios",
+        "pubDate": "Thu, 20 Aug 2026 15:36:57 GMT",
+        "description": "",
+        "title_cn": "Perdaman任命Electric Hydrogen为Helios项目的首选电解槽供应商"
+      },
+      {
+        "title": "Buan Builds Local Green Hydrogen Network With Electrolysis, Pipelines and Fuel Cells",
+        "link": "https://fuelcellsworks.com/2026/08/17/electrolyzer/buan-builds-local-green-hydrogen-network-with-electrolysis-pipelines-and-fuel-cells",
+        "pubDate": "Thu, 20 Aug 2026 15:28:47 GMT",
+        "description": "",
+        "title_cn": "Buan通过电解、管道和燃料电池构建本地绿色氢网络"
+      },
+      {
+        "title": "Bloom Energy Introduces Power Connect, Cutting Onsite Power Installation Time by Over 40%",
+        "link": "https://fuelcellsworks.com/2026/08/20/energy-innovation/bloom-energy-introduces-power-connect-cutting-onsite-power-installation-time-by-over-40-percent",
+        "pubDate": "Thu, 20 Aug 2026 15:24:56 GMT",
+        "description": "",
+        "title_cn": "Bloom Energy推出Power Connect ，将现场电源安装时间缩短40%以上"
+      },
+      {
+        "title": "EPS Energy Ships First Integrated Wind-Solar-Hydrogen System Overseas",
+        "link": "https://fuelcellsworks.com/2026/08/19/electrolyzer/eps-energy-ships-first-integrated-wind-solar-hydrogen-system-overseas",
+        "pubDate": "Thu, 20 Aug 2026 15:11:35 GMT",
+        "description": "",
+        "title_cn": "EPS Energy首次在海外推出风能-太阳能-氢能一体化系统"
+      },
+      {
+        "title": "HD Hyundai Oilbank Commercializes Korea’s First Engine Oil for Hydrogen Combustion Engines",
+        "link": "https://fuelcellsworks.com/2026/08/20/fuel-cells/hd-hyundai-oilbank-commercializes-korea-s-first-engine-oil-for-hydrogen-combustion-engines",
+        "pubDate": "Thu, 20 Aug 2026 14:54:02 GMT",
+        "description": "",
+        "title_cn": "HD Hyundai Oilbank将韩国首款氢气内燃机用发动机油商业化"
+      },
+      {
+        "title": "Green Hydrogen: France Finally Loosens the Regulatory Stranglehold on Electrolysis",
+        "link": "https://fuelcellsworks.com/2026/08/19/h2/green-hydrogen-france-finally-loosens-the-regulatory-stranglehold-on-electrolysis",
+        "pubDate": "Thu, 20 Aug 2026 14:49:52 GMT",
+        "description": "",
+        "title_cn": "绿色氢气：法国终于放松了对电解的监管"
+      }
+    ],
+    "source": "Fuel Cells Works",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "papers": {
+    "items": [
+      {
+        "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
+        "link": "https://arxiv.org/abs/2608.20284v1",
+        "pubDate": "2026-08-20T17:18:02Z",
+        "description": "Reliable surgical planning requires models to anticipate not only how instruments will move, but also how the operative visual state will evolve together with such motion. Existing approaches typically treat future scene generation and instrument trajectory prediction as two separate tasks. Scene-on",
+        "title_cn": "走向手术世界-行动建模：手术运动规划的初步联合视觉轨迹预测"
+      },
+      {
+        "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+        "link": "https://arxiv.org/abs/2608.20256v1",
+        "pubDate": "2026-08-20T16:54:08Z",
+        "description": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems and insufficient computation on difficult ones. We study whether a model can learn to allocate its ow",
+        "title_cn": "学习何时思考：测试时间计算分配的自适应推理"
+      },
+      {
+        "title": "Logarithmic depth compression of Heisenberg Hamiltonian simulation by fan-out parallelization, with built-in error detection",
+        "link": "https://arxiv.org/abs/2608.20250v1",
+        "pubDate": "2026-08-20T16:46:41Z",
+        "description": "Noisy intermediate-scale quantum computers are constrained by circuit depth, while product-formula simulation of spin systems leads to narrow and deep circuits. Here we introduce a fan-out-based gadget compiler that trades circuit depth for width in simulations of Heisenberg-type nuclear magnetic re",
+        "title_cn": "通过扇出并行化对海森堡哈密顿模拟的对数深度压缩，内置错误检测"
+      },
+      {
+        "title": "A Bayesian Edge-Space Framework for Whole-Connectome Inference in Multisite Autism Neuroimaging",
+        "link": "https://arxiv.org/abs/2608.20243v1",
+        "pubDate": "2026-08-20T16:36:56Z",
+        "description": "Autism spectrum disorder (ASD) is associated with heterogeneous alterations across distributed brain systems, creating challenges for whole-connectome inference. The difficulty arises not only from the large number of connections, but also from dependence among effects indexed by anatomically and fu",
+        "title_cn": "多部位自闭症神经影像学中全连接组推断的贝叶斯边缘空间框架"
+      },
+      {
+        "title": "Re-evaluating the resolved mass-metallicity relation with a self-consistent metallicity calibration",
+        "link": "https://arxiv.org/abs/2608.20239v1",
+        "pubDate": "2026-08-20T16:29:21Z",
+        "description": "Aims. The mass-metallicity relation (MZR) is essential for understanding the chemical evolution of galaxies. Whether the star formation rate (SFR) plays a role in setting the metallicity has long been debated. Using various metallicity calibrations can result in different conclusions for this fundam",
+        "title_cn": "使用自洽金属度校准重新评估已解析的质量金属度关系"
+      },
+      {
+        "title": "ALOHA IRDCs Molecular Line Follow-up: I. Gas properties and kinematics",
+        "link": "https://arxiv.org/abs/2608.20238v1",
+        "pubDate": "2026-08-20T16:28:52Z",
+        "description": "Infrared Dark Clouds are ideal sites for investigating the initial conditions of massive star and cluster formation. The A Lei Of the Habitat and Assembly of Infrared Dark Clouds (ALOHA IRDCs), a James Clerk Maxwell Telescope (JCMT) Large Program, has mapped nearby IRDCs with SCUBA-2. Complementary ",
+        "title_cn": "ALOHA IRDCS分子线随访： I.气体性质和运动学"
+      },
+      {
+        "title": "Novel models of trait evolution via an expansion of Lande's fitness function: The Ornstein-Uhlenbeck process meets the Little Prince's boa",
+        "link": "https://arxiv.org/abs/2608.20232v1",
+        "pubDate": "2026-08-20T16:26:38Z",
+        "description": "Adaptive topographies form the foundation for much of our understanding of evolutionary change. Lande's 1976 influential paper on the adaptive topography of phenotypes demonstrated how the concept is inherent in both phenotypic and genetic models of evolution, and how the concept can be used to test",
+        "title_cn": "通过Lande适应度函数的扩展，性状进化的新模型： Ornstein-Uhlenbeck过程与小王子的蟒蛇相遇"
+      },
+      {
+        "title": "Three-dimensional imaging of oxygen dopant distribution in Sr$_2$CuO$_{3+δ}$ by electron ptychography",
+        "link": "https://arxiv.org/abs/2608.20199v1",
+        "pubDate": "2026-08-20T15:56:40Z",
+        "description": "Oxygen dopants play a critical role in tuning the properties of cuprate superconductors, yet it is challenging to visualize them at the atomic scale. Here, we use multislice electron ptychography to directly image oxygen dopants in a Sr2CuO3+delta film. We observe oxygen dopants at interstitial site",
+        "title_cn": "Sr $_2 $ CuO $_{3 + δ} $中氧掺杂物分布的电子脉冲三维成像"
+      },
+      {
+        "title": "Floquet Theory for Light-Driven Rotation of Dipolar and Multipolar Particles",
+        "link": "https://arxiv.org/abs/2608.20197v1",
+        "pubDate": "2026-08-20T15:54:25Z",
+        "description": "Nano- or micro-particle rotation driven by light has been well known in the fields of optical manipulation and optical physics since the end of the last century. It is viewed as a sort of angular-momentum transfer from light to material, but its microscopic analysis based on the Hamiltonian or the e",
+        "title_cn": "双极粒子和多极粒子光驱动旋转的Floquet理论"
+      },
+      {
+        "title": "Observables and Anti-Hermitian Generators in Time-Dependent Unitary Coupled Cluster Theory",
+        "link": "https://arxiv.org/abs/2608.20194v1",
+        "pubDate": "2026-08-20T15:51:37Z",
+        "description": "This work presents a time-dependent (TD) unitary coupled-cluster (UCC) formulation for electronic quantum dynamics, including the propagation of excited states and their superpositions, in both single- and multi-reference regimes. Standard TD coupled-cluster techniques offer size-extensivity, but th",
+        "title_cn": "时间相关单耦合聚类理论中的可观测量和反厄米特生成器"
+      }
+    ],
+    "source": "arXiv",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "policy_nea": {
+    "items": [
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
+        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
+      },
+      {
+        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - 币海财经",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
+        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
+        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; 币海财经"
+      },
+      {
+        "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50MWRDNVpWQm5mRXJHMFU1OEZ0U2dtX0JkYTNVSG9qM0NlRkhrM3FOa25oenVGOWl4dFB2cGd4amEyNjI2N0liSHpiZVdBaUNTTWRyNF9GNVQwTHJjMXlv?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 00:56:12 GMT",
+        "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
+        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
+      }
+    ],
+    "source": "国家能源局",
+    "updated": "2026-08-21 02:55 UTC"
+  },
+  "policy_ndrc": {
+    "items": [
+      {
+        "title": "湖北多用户绿电直连方案印发直连！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlWUdqUV83ai1VZ01VWGdvTkNvVnF2STdnNUlGS20wTkU5d1Z1M0ZhZnBiQnRxdG45RXBydzVvVWI2RVEzQmF5SEFoU3lxaE4xOEw2RWdFX3psNEp1TWNzTzBmQTB5QmM?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 01:31:46 GMT",
+        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
+      }
+    ],
+    "source": "发改委政策",
+    "updated": "2026-08-21 02:55 UTC"
+  }
+}
