@@ -9,6 +9,13 @@
         "title_cn": "简报聊天：新的嗜睡症药物可以解锁许多新型脑疗法"
       },
       {
+        "title": "Earth-shaking thunder probes underground geology",
+        "link": "https://www.nature.com/articles/d41586-026-02596-0",
+        "pubDate": "2026-08-21",
+        "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02596-0 Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity.",
+        "title_cn": "地下地质震地雷探测器"
+      },
+      {
         "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
         "link": "https://www.nature.com/articles/d41586-026-02566-6",
         "pubDate": "2026-08-21",
@@ -49,25 +56,32 @@
         "pubDate": "2026-08-20",
         "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
         "title_cn": "宇航员背心将辐射暴露减少一半"
-      },
-      {
-        "title": "These trees are making air quality in cities worse",
-        "link": "https://www.nature.com/articles/d41586-026-02586-2",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
-        "title_cn": "这些树木正在使城市的空气质量恶化"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Yewt & Minivan Roadshow",
+        "link": "https://cleantechnica.com/2026/08/21/the-yewt-minivan-roadshow/",
+        "pubDate": "Fri, 21 Aug 2026 22:03:14 +0000",
+        "description": "Could ACEEV’s Yewt herald the rebirth of the Australian car industry? Well, it isn’t the electric Commodore from General Motors Holden, but CEO Greg McGarvey is hoping that the ACE EV (Australian Clean Energy Electric Vehicles) will be the seed from which the Australian auto industry can regrow. Cle",
+        "title_cn": "Yewt & Minivan路演"
+      },
+      {
+        "title": "Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space",
+        "link": "https://cleantechnica.com/2026/08/21/energy-storage-exists-time-space-us-new-factory/",
+        "pubDate": "Fri, 21 Aug 2026 18:11:19 +0000",
+        "description": "US Interior Secretary Doug Burgum marks the launch of a new battery factory, admitting that energy storage actually does exist after all. The post Government Clown Finally Admits Energy Storage Is A Thing That Exists In Time And Space appeared first on CleanTechnica .",
+        "title_cn": "政府小丑终于承认储能是一种存在于时间和空间中的东西"
+      },
       {
         "title": "Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery",
         "link": "https://cleantechnica.com/2026/08/21/toyota-fluoride-ev-battery-us-electric-vehicles/",
@@ -109,24 +123,10 @@
         "pubDate": "Fri, 21 Aug 2026 00:38:41 +0000",
         "description": "Sunrun has been the #1 rooftop solar power installed in the United States for several years now, since SolarCity got swallowed up by Tesla and dwindled to a relatively low level. But that doesn&#8217;t mean Sunrun hasn&#8217;t been facing its own challenges. Apparently, getting business through affi",
         "title_cn": "Sunrun从关联公司转向直接销售"
-      },
-      {
-        "title": "TVA Approves Gas-Powered Data Center Plan",
-        "link": "https://cleantechnica.com/2026/08/20/tva-approves-gas-powered-data-center-plan/",
-        "pubDate": "Fri, 21 Aug 2026 00:04:50 +0000",
-        "description": "MEMPHIS, Tennessee — Today, the Tennessee Valley Authority approved its 2026 Integrated Resource Plan, setting the stage to overbuild risky gas power plants to serve A.I. data center interests. TVA’s 2026 IRP lays out a dangerous and expensive roadmap for the people of the Tennessee Valley, where ou",
-        "title_cn": "TVA批准燃气数据中心计划"
-      },
-      {
-        "title": "California Solar Power Bills Move Forward to Support Balcony Solar, Community Solar, and VPPs",
-        "link": "https://cleantechnica.com/2026/08/20/california-solar-power-bills-move-forward-to-support-balcony-solar-community-solar-and-vpps/",
-        "pubDate": "Thu, 20 Aug 2026 23:28:25 +0000",
-        "description": "A few bills have moved forward in California that would advance solar power in the state in various ways. The state was long a leader in solar power legislation and growth, but that changed when the Golden State changed its net metering policy. Perhaps things will swing back in the ... [continued] T",
-        "title_cn": "加州太阳能法案向前推进，以支持阳台太阳能、社区太阳能和VPP"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "energy": {
     "items": [
@@ -188,13 +188,13 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "energy_cn": {
     "items": [
       {
         "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTzlGRGs4eWJJbzNkWGdiMmlQWm4zQnB5UTR2aVZZOXVIbHV1MkpOQVZtaklrZnJXS2VrNUhnY1lTUHZiblB1TGt3WEkzZmVzdUJzc2VWNkhST1lLUlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZOEhuRFVZT05TUVhKNGM3X1FQbUxxczdxaHVRd2dmeTdZcEhlTms5aGZhQktWSURiajR5U1MyMnF4WnVEMGtfXzROb0tfYUFRMFdwalg1VmY?oc=5",
         "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
@@ -205,10 +205,10 @@
         "description": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "中广核北方中心落子雄安 能源电力央企集聚再提速 - 中国雄安官网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CT01BWi12Y2YtejY5OXBFVXRTcGpMaHpqcjhmaGdzSS1NR1VMNEZnaDR6dTJSYTEtMHFrWGlpWU56WmlWd2piZjlIMGVYSHFPaVFWcUF5d01taWx5bnF4ZDhhdHhQZmFFRjJlZHlzN0pMZTZJQnFYUkNDeXFKZ2c?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 07:10:02 GMT",
-        "description": "中广核北方中心落子雄安 能源电力央企集聚再提速 &nbsp;&nbsp; 中国雄安官网"
+        "title": "中广核北方中心落子雄安 能源电力央企集聚再提速 - 手机新浪网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtWGl0UVYyTXBaX25rdWI0U242RGV1TjMyWHFXRGpIOXBQN2J2TEFZUG5GYi1sWTE0NmlmOTVoYVp5aWtNemVrdVppS2J5R180UzFlQU1iX2Jfb2pLdGt4SncyRXktSndaUVZCNGNfUDU?oc=5",
+        "pubDate": "Wed, 19 Aug 2026 09:35:33 GMT",
+        "description": "中广核北方中心落子雄安 能源电力央企集聚再提速 &nbsp;&nbsp; 手机新浪网"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "policy_nea": {
     "items": [
@@ -415,26 +415,26 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - 币海财经",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
-        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
-        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; 币海财经"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
+        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihainews.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
+        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
+        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; bihainews.com"
+      },
+      {
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
         "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-21 14:26 UTC"
+    "updated": "2026-08-21 22:15 UTC"
   }
 }
