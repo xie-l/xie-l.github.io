@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
+        "link": "https://www.nature.com/articles/d41586-026-02626-x",
+        "pubDate": "2026-08-21",
+        "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02626-x Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet.",
+        "title_cn": "简报聊天：新的嗜睡症药物可以解锁许多新型脑疗法"
+      },
+      {
+        "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
+        "link": "https://www.nature.com/articles/d41586-026-02566-6",
+        "pubDate": "2026-08-21",
+        "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6 Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
+        "title_cn": "为什么我们必须停止谈论通用人工智能，而是建立“亲工人”的人工智能"
+      },
+      {
+        "title": "Sleuth identifies dozens of studies that used the wrong antibody",
+        "link": "https://www.nature.com/articles/d41586-026-02352-4",
+        "pubDate": "2026-08-21",
+        "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.",
+        "title_cn": "Sleuth确定了使用错误抗体的数十项研究"
+      },
+      {
         "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
         "link": "https://www.nature.com/articles/s41586-026-11043-z",
         "pubDate": "2026-08-20",
@@ -35,39 +56,25 @@
         "pubDate": "2026-08-20",
         "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02586-2 They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem.",
         "title_cn": "这些树木正在使城市的空气质量恶化"
-      },
-      {
-        "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-        "link": "https://www.nature.com/articles/d41586-026-02574-6",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02574-6 The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project.",
-        "title_cn": "独家： NSF将发放40年来最低数量的新补助金"
-      },
-      {
-        "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-        "link": "https://www.nature.com/articles/d41586-026-02612-3",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02612-3 Promising trial results suggest cancer vaccines work and could be used to target other tumours.",
-        "title_cn": "Moderna癌症疫苗阻止黑色素瘤复发：个性化治疗的下一步是什么？"
-      },
-      {
-        "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
-        "link": "https://www.nature.com/articles/d41586-026-02549-7",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02549-7 The approach could speed up investment decisions, but researchers say it has flaws.",
-        "title_cn": "投资者的潜行巅峰：这个人工智能工具能否发现将导致专利的科学？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery",
+        "link": "https://cleantechnica.com/2026/08/21/toyota-fluoride-ev-battery-us-electric-vehicles/",
+        "pubDate": "Fri, 21 Aug 2026 14:12:51 +0000",
+        "description": "Toyota is still working on a futuristic fluoride-ion EV battery while growing its electrified vehicle footprint in the US market here and now. The post Toyota Is Still Working On That Futuristic Fluoride-Ion EV Battery appeared first on CleanTechnica .",
+        "title_cn": "丰田仍在研发未来型氟离子电动汽车电池"
+      },
       {
         "title": "Poland Created Hydrogen Bus Demand. Polenergia Still Walked Away From Supply.",
         "link": "https://cleantechnica.com/2026/08/21/poland-hydrogen-bus-demand-polenergia/",
@@ -116,17 +123,10 @@
         "pubDate": "Thu, 20 Aug 2026 23:28:25 +0000",
         "description": "A few bills have moved forward in California that would advance solar power in the state in various ways. The state was long a leader in solar power legislation and growth, but that changed when the Golden State changed its net metering policy. Perhaps things will swing back in the ... [continued] T",
         "title_cn": "加州太阳能法案向前推进，以支持阳台太阳能、社区太阳能和VPP"
-      },
-      {
-        "title": "Mahle Introduces Range Extender For Electric Trucks",
-        "link": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
-        "pubDate": "Thu, 20 Aug 2026 17:33:02 +0000",
-        "description": "In reality, the battery electric heavy trucks of today have insufficient range for many applications. Even the mighty Tesla Semi (once it actually becomes widely available) will have its limitations. No matter how aerodynamic the shape of the cab or how large the battery, hauling a fully loaded semi",
-        "title_cn": "Mahle推出电动卡车增程器"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "energy_cn": {
     "items": [
@@ -197,6 +197,12 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTzlGRGs4eWJJbzNkWGdiMmlQWm4zQnB5UTR2aVZZOXVIbHV1MkpOQVZtaklrZnJXS2VrNUhnY1lTUHZiblB1TGt3WEkzZmVzdUJzc2VWNkhST1lLUlE?oc=5",
         "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
+        "title": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBROV9ITTNSOS1qZU5BQm1xY3dISi1aVUtNUnNmb3d1bk1OMHVQN2JiMy1QNDdIRE1ZX3QxYjhNaDAxYUhYeFRmdmd2SmtwU1FrRE8tTFdR?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 08:46:18 GMT",
+        "description": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "中广核北方中心落子雄安 能源电力央企集聚再提速 - 中国雄安官网",
@@ -209,12 +215,6 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
-        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,16 +409,16 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - 币海财经",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
-        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
-        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; 币海财经"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - 币海财经",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
+        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
+        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; 币海财经"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -427,14 +427,14 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDE4cDl0c09DbjRVNUZid3c3c1lzS3FxcE9pTExwX012YmI4UEFKSk5RTC1jS1dZY1NPQThqNFowQUVGUHJpT3JScl84Wmdwd3M0NFJYc1NWbmFxX2wtVl9xa1NiZHBVeEhRVmFBTTdSd3NxZ0h6cjNKVFJyRHo0WVdJWUs?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 11:36:42 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - finance.sina.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+        "title": "山西开启绿色能源发展新篇章 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
+        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
+        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-21 07:36 UTC"
+    "updated": "2026-08-21 14:26 UTC"
   }
 }
