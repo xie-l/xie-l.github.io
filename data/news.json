@@ -59,15 +59,57 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
+        "link": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
+        "pubDate": "Fri, 21 Aug 2026 02:31:34 +0000",
+        "description": "The Princeton University spinout will use the funding to expand sales and commercial deployments of its revolutionary brine-based lithium production platform in the U.S. and South America. PRINCETON, N.J. — Princeton Critical Minerals (PCM), a startup developing technologies to accelerate and increa",
+        "title_cn": "普林斯顿关键矿物公司筹集$ 1600万扩大锂生产技术"
+      },
+      {
+        "title": "Waymo Fully Launches Robotaxi Service in Houston",
+        "link": "https://cleantechnica.com/2026/08/20/waymo-fully-launches-robotaxi-service-in-houston/",
+        "pubDate": "Fri, 21 Aug 2026 02:17:10 +0000",
+        "description": "Waymo fully launched robotaxi service in Houston, Texas, today. You may recall that Waymo started inviting customers to use its service in Space City about 6 months ago. I didn&#8217;t recall that at first when I saw the news today that Waymo was launching in Houston, but I suspected it ... [continu",
+        "title_cn": "Waymo在休斯敦全面推出机器人出租车服务"
+      },
+      {
+        "title": "Waymo — “A look under our trunk: what’s in our compute”",
+        "link": "https://cleantechnica.com/2026/08/20/waymo-a-look-under-our-trunk-whats-in-our-compute/",
+        "pubDate": "Fri, 21 Aug 2026 01:38:46 +0000",
+        "description": "Compute is the brain of the Waymo Driver, translating raw sensor data into real-time driving commands. Operating demonstrably safe, physical AI on the road demands a fundamental shift towards a system engineered for deterministic, low-latency performance. Over the past decade, we have co-designed ou",
+        "title_cn": "Waymo — “看看我们的后备箱：我们的计算机里有什么”"
+      },
+      {
+        "title": "Sunrun Shifts Away from Affiliates to Direct Sales",
+        "link": "https://cleantechnica.com/2026/08/20/sunrun-shifts-away-from-affiliates-to-direct-sales/",
+        "pubDate": "Fri, 21 Aug 2026 00:38:41 +0000",
+        "description": "Sunrun has been the #1 rooftop solar power installed in the United States for several years now, since SolarCity got swallowed up by Tesla and dwindled to a relatively low level. But that doesn&#8217;t mean Sunrun hasn&#8217;t been facing its own challenges. Apparently, getting business through affi",
+        "title_cn": "Sunrun从关联公司转向直接销售"
+      },
+      {
+        "title": "TVA Approves Gas-Powered Data Center Plan",
+        "link": "https://cleantechnica.com/2026/08/20/tva-approves-gas-powered-data-center-plan/",
+        "pubDate": "Fri, 21 Aug 2026 00:04:50 +0000",
+        "description": "MEMPHIS, Tennessee — Today, the Tennessee Valley Authority approved its 2026 Integrated Resource Plan, setting the stage to overbuild risky gas power plants to serve A.I. data center interests. TVA’s 2026 IRP lays out a dangerous and expensive roadmap for the people of the Tennessee Valley, where ou",
+        "title_cn": "TVA批准燃气数据中心计划"
+      },
+      {
+        "title": "California Solar Power Bills Move Forward to Support Balcony Solar, Community Solar, and VPPs",
+        "link": "https://cleantechnica.com/2026/08/20/california-solar-power-bills-move-forward-to-support-balcony-solar-community-solar-and-vpps/",
+        "pubDate": "Thu, 20 Aug 2026 23:28:25 +0000",
+        "description": "A few bills have moved forward in California that would advance solar power in the state in various ways. The state was long a leader in solar power legislation and growth, but that changed when the Golden State changed its net metering policy. Perhaps things will swing back in the ... [continued] T",
+        "title_cn": "加州太阳能法案向前推进，以支持阳台太阳能、社区太阳能和VPP"
+      },
       {
         "title": "Mahle Introduces Range Extender For Electric Trucks",
         "link": "https://cleantechnica.com/2026/08/20/mahle-introduces-range-extender-for-electric-trucks/",
@@ -81,52 +123,10 @@
         "pubDate": "Thu, 20 Aug 2026 17:21:20 +0000",
         "description": "Gothenburg — Lynk &#38; Co 08 partnered with QUEST DAKAR 2026, an automotive expedition held from July 15 to August 2, 2026, connecting Casablanca with Dakar across Morocco, Mauritania and Senegal. As the official expedition vehicle, the Lynk &#38; Co 08 was driven by professional rally drivers alon",
         "title_cn": "Lynk ＆ Co 08在3200多公里的沙漠探险中展示了全方位的能力"
-      },
-      {
-        "title": "A Vacation Farmhouse In Vermont Inspires A Renewable Energy Travelogue",
-        "link": "https://cleantechnica.com/2026/08/20/a-vacation-farmhouse-in-vermont-inspires-a-renewable-energy-travelogue/",
-        "pubDate": "Thu, 20 Aug 2026 16:56:19 +0000",
-        "description": "This week, as part of our summer travels around New England, hubby and I have reserved a Vermont farmhouse. The rolling hills are lush and verdant. Generations of farmers have planted creamy hydrangea and purple phlox. Native columbine, wild grapes, and milkweed feed pollinators are among the thousa",
-        "title_cn": "佛蒙特州的度假农舍激发了可再生能源旅行者的灵感"
-      },
-      {
-        "title": "Electric Trucks In Play As New, Trump-Endorsed Lithium-Ion Battery Factory Takes Shape",
-        "link": "https://cleantechnica.com/2026/08/20/batteries-lithium-ion-us-factory-forge-nano-samsung-sdi/",
-        "pubDate": "Thu, 20 Aug 2026 16:14:05 +0000",
-        "description": "A forthcoming 3 gigawatt-hour factory in North Carolina will help nail down an ample supply of Made-in-the-USA lithium-ion batteries, supported by a $100 million grant from the US Department of Energy. The post Electric Trucks In Play As New, Trump-Endorsed Lithium-Ion Battery Factory Takes Shape ap",
-        "title_cn": "特朗普认可的锂离子电池工厂正在成形"
-      },
-      {
-        "title": "Why Does It Feel Like The US And Iran Are Stuck In An Endless Conflict Loop?",
-        "link": "https://cleantechnica.com/2026/08/20/why-does-it-feel-like-the-us-and-iran-are-stuck-in-an-endless-conflict-loop/",
-        "pubDate": "Thu, 20 Aug 2026 11:39:08 +0000",
-        "description": "If you feel a sense of déjà vu with the state of the US–Iran war, you’re not alone. In recent days, Iran has again demanded the Trump administration lift sanctions on the country, unfreeze Iranian assets and remove its military blockade, in return for Iran opening the Strait of Hormuz. This basicall",
-        "title_cn": "为什么感觉美国和伊朗陷入了无休止的冲突循环？"
-      },
-      {
-        "title": "Why A Vote On Taxing California’s Billionaires Is Being Watched Around The World",
-        "link": "https://cleantechnica.com/2026/08/20/why-a-vote-on-taxing-californias-billionaires-is-being-watched-around-the-world/",
-        "pubDate": "Thu, 20 Aug 2026 11:32:25 +0000",
-        "description": "In November, California will vote on a proposal to levy a one-off 5% tax on the wealth of all billionaires in the state. Google co-founder and billionaire Sergey Brin has already spent US$100 million on political donations to a group opposing the tax. Brin is hoping to avoid a potential tax bill ...",
-        "title_cn": "为什么世界各地都在关注对加州亿万富翁征税的投票"
-      },
-      {
-        "title": "The Media Has Made Donald Trump Look More Coherent Than He Is. It’s Called ‘Sanewashing’",
-        "link": "https://cleantechnica.com/2026/08/20/the-media-has-made-donald-trump-look-more-coherent-than-he-is-its-called-sanewashing/",
-        "pubDate": "Thu, 20 Aug 2026 11:24:26 +0000",
-        "description": "On September 5, 2024, after giving a speech about his economic plans for the United States, Donald Trump was asked what he would do, if re-elected president, to make childcare more affordable. Trump then offered a nonsensical, 374-word response: well, I would do that, and we’re sitting down — you kn",
-        "title_cn": "媒体让唐纳德·特朗普看起来比他更连贯。它被称为“洗涤剂”"
-      },
-      {
-        "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
-        "link": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
-        "pubDate": "Thu, 20 Aug 2026 06:31:58 +0000",
-        "description": "High-voltage direct current transmission used to look like a specialist technology reserved for unusually long lines, subsea links or awkward grid problems. That is changing. In a recent Redefining Energy conversation, Cornelis Plet, CTO of Grid Systems Integration at GE Vernova, described HVDC as s",
-        "title_cn": "2 GW HVDC正在成为标准。电网的其余部分不是。"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,145 +242,145 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Px Group and SoHHytec Launch Industrial Solar-to-Hydrogen Demonstration Project",
-        "link": "https://fuelcellsworks.com/2026/08/17/green-hydrogen/px-group-and-sohhytec-launch-industrial-solar-to-hydrogen-demonstration-project",
-        "pubDate": "Wed, 19 Aug 2026 15:28:26 GMT",
+        "title": "Britain Puts £28M Behind Storing Power for Four Days — and Hydrogen Caverns Are Half the Answer",
+        "link": "https://fuelcellsworks.com/2026/08/20/h2/britain-puts-28m-behind-storing-power-for-four-days-and-hydrogen-caverns-are-half-the-answer",
+        "pubDate": "Thu, 20 Aug 2026 17:14:59 GMT",
         "description": "",
-        "title_cn": "Px集团携手SoHytec启动工业太阳能制氢示范项目"
+        "title_cn": "英国在四天内减少了2800万£的储能—而氢洞是答案的一半"
       },
       {
-        "title": "Sunfire Begins Building Megawatt-Scale SOEC Plant at BASF Site With Eye on 89% Efficiency",
-        "link": "https://fuelcellsworks.com/2026/08/19/green-investment/sunfire-begins-building-megawatt-scale-soec-plant-at-basf-site-with-eye-on-89-percent-efficiency",
-        "pubDate": "Wed, 19 Aug 2026 15:23:08 GMT",
+        "title": "RVK Enters the Production of Green Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/08/20/clean-hydrogen/rvk-enters-the-production-of-green-hydrogen",
+        "pubDate": "Thu, 20 Aug 2026 16:05:47 GMT",
         "description": "",
-        "title_cn": "Sunfire开始在巴斯夫工厂建设兆瓦级SOEC工厂，效率达89%"
+        "title_cn": "RVK开始生产绿色氢气"
       },
       {
-        "title": "Iwatani Launches Hydrogen-Compatible Industrial Hot Air Generator From ¥10 Million",
-        "link": "https://fuelcellsworks.com/2026/08/17/h2/iwatani-launches-hydrogen-compatible-industrial-hot-air-generator-from-10-million",
-        "pubDate": "Wed, 19 Aug 2026 15:10:12 GMT",
+        "title": "Perdaman Appoints Electric Hydrogen as Preferred Electrolyser Vendor for Project Helios",
+        "link": "https://fuelcellsworks.com/2026/08/20/clean-energy/perdaman-appoints-electric-hydrogen-as-preferred-electrolyser-vendor-for-project-helios",
+        "pubDate": "Thu, 20 Aug 2026 15:36:57 GMT",
         "description": "",
-        "title_cn": "Iwatani推出氢气兼容型工业热风发电机，起价1000万美元¥"
+        "title_cn": "Perdaman任命Electric Hydrogen为Helios项目的首选电解槽供应商"
       },
       {
-        "title": "Detecting Ammonia Leaks at Concentrations as Low as 1 Ppm!",
-        "link": "https://fuelcellsworks.com/2026/08/19/clean-energy/detecting-ammonia-leaks-at-concentrations-as-low-as-1-ppm",
-        "pubDate": "Wed, 19 Aug 2026 15:02:36 GMT",
+        "title": "Buan Builds Local Green Hydrogen Network With Electrolysis, Pipelines and Fuel Cells",
+        "link": "https://fuelcellsworks.com/2026/08/17/electrolyzer/buan-builds-local-green-hydrogen-network-with-electrolysis-pipelines-and-fuel-cells",
+        "pubDate": "Thu, 20 Aug 2026 15:28:47 GMT",
         "description": "",
-        "title_cn": "在低至1 ppm的浓度下检测氨泄漏！"
+        "title_cn": "Buan通过电解、管道和燃料电池构建本地绿色氢网络"
       },
       {
-        "title": "TH₂ECO Seeks Funding for First Ten Hydrogen Trucks as Erfurt Freight Hub Moves Toward Deployment",
-        "link": "https://fuelcellsworks.com/2026/08/17/h2/th-eco-seeks-funding-for-first-ten-hydrogen-trucks-as-erfurt-freight-hub-moves-toward-deployment",
-        "pubDate": "Wed, 19 Aug 2026 14:43:35 GMT",
+        "title": "Bloom Energy Introduces Power Connect, Cutting Onsite Power Installation Time by Over 40%",
+        "link": "https://fuelcellsworks.com/2026/08/20/energy-innovation/bloom-energy-introduces-power-connect-cutting-onsite-power-installation-time-by-over-40-percent",
+        "pubDate": "Thu, 20 Aug 2026 15:24:56 GMT",
         "description": "",
-        "title_cn": "随着爱尔福特货运枢纽迈向部署， TH ₂ ECO为前十辆氢能卡车寻求资金"
+        "title_cn": "Bloom Energy推出Power Connect ，将现场电源安装时间缩短40%以上"
       },
       {
-        "title": "VIVIFY Technology Opens HOG™ Hydrogen Platform to Independent Validation Testing",
-        "link": "https://fuelcellsworks.com/2026/08/19/green-technology/vivify-technology-opens-hog-hydrogen-platform-to-independent-validation-testing",
-        "pubDate": "Wed, 19 Aug 2026 14:40:21 GMT",
+        "title": "EPS Energy Ships First Integrated Wind-Solar-Hydrogen System Overseas",
+        "link": "https://fuelcellsworks.com/2026/08/19/electrolyzer/eps-energy-ships-first-integrated-wind-solar-hydrogen-system-overseas",
+        "pubDate": "Thu, 20 Aug 2026 15:11:35 GMT",
         "description": "",
-        "title_cn": "VIVIFY Technology向独立验证测试开放HOG™氢平台"
+        "title_cn": "EPS Energy首次在海外推出风能-太阳能-氢能一体化系统"
       },
       {
-        "title": "Researchers Find Up to 98% Pure Natural Hydrogen in China’s Sichuan Basin",
-        "link": "https://fuelcellsworks.com/2026/08/19/h2/researchers-find-up-to-98-percent-pure-natural-hydrogen-in-china-s-sichuan-basin",
-        "pubDate": "Wed, 19 Aug 2026 14:22:52 GMT",
+        "title": "HD Hyundai Oilbank Commercializes Korea’s First Engine Oil for Hydrogen Combustion Engines",
+        "link": "https://fuelcellsworks.com/2026/08/20/fuel-cells/hd-hyundai-oilbank-commercializes-korea-s-first-engine-oil-for-hydrogen-combustion-engines",
+        "pubDate": "Thu, 20 Aug 2026 14:54:02 GMT",
         "description": "",
-        "title_cn": "研究人员在中国四川盆地发现高达98%的纯天然氢"
+        "title_cn": "HD Hyundai Oilbank将韩国首款氢气内燃机用发动机油商业化"
       },
       {
-        "title": "Enapter AG Starts Stack Production in China",
-        "link": "https://fuelcellsworks.com/2026/08/19/electrolyzer/enapter-ag-starts-stack-production-in-china",
-        "pubDate": "Wed, 19 Aug 2026 14:06:04 GMT",
+        "title": "Green Hydrogen: France Finally Loosens the Regulatory Stranglehold on Electrolysis",
+        "link": "https://fuelcellsworks.com/2026/08/19/h2/green-hydrogen-france-finally-loosens-the-regulatory-stranglehold-on-electrolysis",
+        "pubDate": "Thu, 20 Aug 2026 14:49:52 GMT",
         "description": "",
-        "title_cn": "Enapter AG在中国开始堆叠生产"
+        "title_cn": "绿色氢气：法国终于放松了对电解的监管"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Probabilistic Representation and Convergence of Gromov-Wasserstein Gradient Flows",
-        "link": "https://arxiv.org/abs/2608.19198v1",
-        "pubDate": "2026-08-19T17:59:27Z",
-        "description": "Wasserstein gradient flows are intimately connected with evolution partial differential equations and diffusion processes. We take the first step in developing such connections for inner product Gromov--Wasserstein (IGW) gradient flows by studying the IGW gradient flow of the relative entropy $\\math",
-        "title_cn": "Gromov-Wasserstein梯度流的概率表示和收敛"
+        "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
+        "link": "https://arxiv.org/abs/2608.20284v1",
+        "pubDate": "2026-08-20T17:18:02Z",
+        "description": "Reliable surgical planning requires models to anticipate not only how instruments will move, but also how the operative visual state will evolve together with such motion. Existing approaches typically treat future scene generation and instrument trajectory prediction as two separate tasks. Scene-on",
+        "title_cn": "走向手术世界-行动建模：手术运动规划的初步联合视觉轨迹预测"
       },
       {
-        "title": "The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications",
-        "link": "https://arxiv.org/abs/2608.19191v1",
-        "pubDate": "2026-08-19T17:57:18Z",
-        "description": "We define and study the Structured Totient Preimage (STP) problem as a restricted reconstruction relation with a direct cryptographic motivation. Let $p_1,\\ldots,p_k$ be distinct primes of the same bit length and reveal only $x=\\prod_{i=1}^k(p_i-1)$. Given $(x,λ,k)$, STP asks for any set of $k$ dist",
-        "title_cn": "结构化原始图像问题：重建、碰撞和密码学含义"
+        "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+        "link": "https://arxiv.org/abs/2608.20256v1",
+        "pubDate": "2026-08-20T16:54:08Z",
+        "description": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems and insufficient computation on difficult ones. We study whether a model can learn to allocate its ow",
+        "title_cn": "学习何时思考：测试时间计算分配的自适应推理"
       },
       {
-        "title": "Cell-Probe Lower Bounds and Complexity-Preserving Reductions for Suffix Array Queries",
-        "link": "https://arxiv.org/abs/2608.19172v1",
-        "pubDate": "2026-08-19T17:50:21Z",
-        "description": "For a text $T$ of length $n$ over an alphabet of size $σ$, its suffix array lists the starting positions of the suffixes of $T$ in lexicographic order, and its inverse suffix array gives the lexicographic rank of the suffix starting at each position. Since the introduction of the FM-index and the co",
-        "title_cn": "后缀数组查询的单元格探针下限和复杂度保留缩减"
+        "title": "Logarithmic depth compression of Heisenberg Hamiltonian simulation by fan-out parallelization, with built-in error detection",
+        "link": "https://arxiv.org/abs/2608.20250v1",
+        "pubDate": "2026-08-20T16:46:41Z",
+        "description": "Noisy intermediate-scale quantum computers are constrained by circuit depth, while product-formula simulation of spin systems leads to narrow and deep circuits. Here we introduce a fan-out-based gadget compiler that trades circuit depth for width in simulations of Heisenberg-type nuclear magnetic re",
+        "title_cn": "通过扇出并行化对海森堡哈密顿模拟的对数深度压缩，内置错误检测"
       },
       {
-        "title": "Second-Level Concavity of the Riemann $Ξ$ Kernel",
-        "link": "https://arxiv.org/abs/2608.19160v1",
-        "pubDate": "2026-08-19T17:43:05Z",
-        "description": "Let $Φ$ be the classical Jacobi-theta kernel in the Fourier representation of the Riemann $Ξ$-function, set $s(t)=Φ(\\sqrt t)$, and define the first Laguerre expression $f(t)=s'(t)^2-s(t)s''(t)$. Csordas and Dimitrov (2000) conjectured that $\\log f$ is strictly concave on $(0,\\infty)$; Csordas (2015)",
-        "title_cn": "黎曼核的二级凹度"
+        "title": "A Bayesian Edge-Space Framework for Whole-Connectome Inference in Multisite Autism Neuroimaging",
+        "link": "https://arxiv.org/abs/2608.20243v1",
+        "pubDate": "2026-08-20T16:36:56Z",
+        "description": "Autism spectrum disorder (ASD) is associated with heterogeneous alterations across distributed brain systems, creating challenges for whole-connectome inference. The difficulty arises not only from the large number of connections, but also from dependence among effects indexed by anatomically and fu",
+        "title_cn": "多部位自闭症神经影像学中全连接组推断的贝叶斯边缘空间框架"
       },
       {
-        "title": "Inferring the Dark from the Observable: Estimating Halo Masses Using Galaxy Properties",
-        "link": "https://arxiv.org/abs/2608.19154v1",
-        "pubDate": "2026-08-19T17:40:44Z",
-        "description": "The formation and evolution of galaxies are interconnected with that of their host halos. Given this closely related evolutionary history, it should follow that galaxy properties are correlated with their host halo mass. Previous works have shown that star formation rates of galaxies in cluster halo",
-        "title_cn": "从可观测值推断黑暗：使用星系属性估计光环质量"
+        "title": "Re-evaluating the resolved mass-metallicity relation with a self-consistent metallicity calibration",
+        "link": "https://arxiv.org/abs/2608.20239v1",
+        "pubDate": "2026-08-20T16:29:21Z",
+        "description": "Aims. The mass-metallicity relation (MZR) is essential for understanding the chemical evolution of galaxies. Whether the star formation rate (SFR) plays a role in setting the metallicity has long been debated. Using various metallicity calibrations can result in different conclusions for this fundam",
+        "title_cn": "使用自洽金属度校准重新评估已解析的质量金属度关系"
       },
       {
-        "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
-        "link": "https://arxiv.org/abs/2608.19133v1",
-        "pubDate": "2026-08-19T17:27:25Z",
-        "description": "We present a novel application of embedding-based dynamic topic modeling techniques to detect and quantify topic drift at the comment level in a massive corpus. By leveraging pretrained language models to generate contextualized semantic embeddings for short text, we analyzed 12.7 billion Reddit com",
-        "title_cn": "Reddit语料库中的评论级主题漂移分析"
+        "title": "ALOHA IRDCs Molecular Line Follow-up: I. Gas properties and kinematics",
+        "link": "https://arxiv.org/abs/2608.20238v1",
+        "pubDate": "2026-08-20T16:28:52Z",
+        "description": "Infrared Dark Clouds are ideal sites for investigating the initial conditions of massive star and cluster formation. The A Lei Of the Habitat and Assembly of Infrared Dark Clouds (ALOHA IRDCs), a James Clerk Maxwell Telescope (JCMT) Large Program, has mapped nearby IRDCs with SCUBA-2. Complementary ",
+        "title_cn": "ALOHA IRDCS分子线随访： I.气体性质和运动学"
       },
       {
-        "title": "Toward Quantum Advantage in Learning Parities with Structured Noise via Lower Bound Optimization of the Condition Number",
-        "link": "https://arxiv.org/abs/2608.19122v1",
-        "pubDate": "2026-08-19T17:17:31Z",
-        "description": "Learning Parities with Structured Noise (LPSN) can be reduced to solving nonlinear Boolean systems. In quantum computing, such systems are typically transformed into Macaulay linear systems and solved via quantum linear system algorithms, a process severely limited by the condition number. To addres",
-        "title_cn": "通过条件数的下限优化实现结构化噪声学习奇偶校验的量子优势"
+        "title": "Novel models of trait evolution via an expansion of Lande's fitness function: The Ornstein-Uhlenbeck process meets the Little Prince's boa",
+        "link": "https://arxiv.org/abs/2608.20232v1",
+        "pubDate": "2026-08-20T16:26:38Z",
+        "description": "Adaptive topographies form the foundation for much of our understanding of evolutionary change. Lande's 1976 influential paper on the adaptive topography of phenotypes demonstrated how the concept is inherent in both phenotypic and genetic models of evolution, and how the concept can be used to test",
+        "title_cn": "通过Lande适应度函数的扩展，性状进化的新模型： Ornstein-Uhlenbeck过程与小王子的蟒蛇相遇"
       },
       {
-        "title": "Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets",
-        "link": "https://arxiv.org/abs/2608.19103v1",
-        "pubDate": "2026-08-19T16:54:17Z",
-        "description": "The practical implementation of quantum algorithms on noisy intermediate-scale quantum devices encounters operational limitations due to decoherence and other sources of noise inherent in real hardware. To mitigate these errors while preserving the original functionality of the algorithm, shorter qu",
-        "title_cn": "使用深度强化学习的量子电路优化：跨多个门集的应用"
+        "title": "Three-dimensional imaging of oxygen dopant distribution in Sr$_2$CuO$_{3+δ}$ by electron ptychography",
+        "link": "https://arxiv.org/abs/2608.20199v1",
+        "pubDate": "2026-08-20T15:56:40Z",
+        "description": "Oxygen dopants play a critical role in tuning the properties of cuprate superconductors, yet it is challenging to visualize them at the atomic scale. Here, we use multislice electron ptychography to directly image oxygen dopants in a Sr2CuO3+delta film. We observe oxygen dopants at interstitial site",
+        "title_cn": "Sr $_2 $ CuO $_{3 + δ} $中氧掺杂物分布的电子脉冲三维成像"
       },
       {
-        "title": "The Limits of Black-Box Reductions for All-Pairs Triangle Detection",
-        "link": "https://arxiv.org/abs/2608.19092v1",
-        "pubDate": "2026-08-19T16:42:21Z",
-        "description": "For any tripartite relation $R\\subseteq \\mathbb{Z}^3$, the $R$-Triangle problem asks, given an edge-weighted graph, whether it contains a triangle whose weights form a triple in $R$. The All-Edge $R$-Triangle problem asks to determine for every edge whether it is contained in such a triangle. It is ",
-        "title_cn": "全对三角形检测的黑盒减少的极限"
+        "title": "Floquet Theory for Light-Driven Rotation of Dipolar and Multipolar Particles",
+        "link": "https://arxiv.org/abs/2608.20197v1",
+        "pubDate": "2026-08-20T15:54:25Z",
+        "description": "Nano- or micro-particle rotation driven by light has been well known in the fields of optical manipulation and optical physics since the end of the last century. It is viewed as a sort of angular-momentum transfer from light to material, but its microscopic analysis based on the Hamiltonian or the e",
+        "title_cn": "双极粒子和多极粒子光驱动旋转的Floquet理论"
       },
       {
-        "title": "Non-Local Search-to-Decision Reduction over F2",
-        "link": "https://arxiv.org/abs/2608.19091v1",
-        "pubDate": "2026-08-19T16:40:55Z",
-        "description": "Non-local search-to-decision asks whether two noncommunicating parties, given the two shares of a bipartite encoding of a uniformly random string $x\\in \\mathbb{F}_2^n$, can both predict the same random parity $\\langle r,x\\rangle$ without there also being local measurements with which both parties re",
-        "title_cn": "与F2相比，非本地搜索决策减少"
+        "title": "Observables and Anti-Hermitian Generators in Time-Dependent Unitary Coupled Cluster Theory",
+        "link": "https://arxiv.org/abs/2608.20194v1",
+        "pubDate": "2026-08-20T15:51:37Z",
+        "description": "This work presents a time-dependent (TD) unitary coupled-cluster (UCC) formulation for electronic quantum dynamics, including the propagation of excited states and their superpositions, in both single- and multi-reference regimes. Standard TD coupled-cluster techniques offer size-extensivity, but th",
+        "title_cn": "时间相关单耦合聚类理论中的可观测量和反厄米特生成器"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-20 22:19 UTC"
+    "updated": "2026-08-21 02:55 UTC"
   }
 }
