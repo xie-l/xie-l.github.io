@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Red States Are Killin’ It With Their Solar Factories",
+        "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
+        "pubDate": "Sat, 22 Aug 2026 23:47:54 +0000",
+        "description": "The solar-enabled microgrid specialist Translucent Energy has just added a new 1.3 gigawatt solar factory in South Carolina to its portfolio, with plans for further expansion already under way. The post Red States Are Killin&#8217; It With Their Solar Factories appeared first on CleanTechnica .",
+        "title_cn": "红色国家正在用他们的太阳能工厂杀死它"
+      },
+      {
+        "title": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
+        "link": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
+        "pubDate": "Sat, 22 Aug 2026 22:40:43 +0000",
+        "description": "Tesla didn&#8217;t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to &#8220;de-chrome&#8221; their cars. But Tesla, under Elon Musk&#8217;s direction, took the idea and ran with it when it in",
+        "title_cn": "中国加强对电动门把手的限制，迫使特斯拉召回300万辆汽车"
+      },
       {
         "title": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
         "link": "https://cleantechnica.com/2026/08/22/for-lagging-automakers-stop-pouring-money-into-the-wrong-powertrains/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 22 Aug 2026 06:32:08 +0000",
         "description": "Heart Aerospace’s X1 demonstrator flew for 27 minutes on August 12 from Plattsburgh International Airport, powered entirely by batteries. The aircraft has a 106-foot wingspan, weighed more than 25,000 pounds at takeoff and drew more than a megawatt at peak. Heart calls it the largest battery-electri",
         "title_cn": "HEART Aerospace刚刚让航空转型投资者投入了数十亿美元"
-      },
-      {
-        "title": "Who Was Right About Tesla Robotaxi Deployment in 2025?",
-        "link": "https://cleantechnica.com/2026/08/21/who-was-right-about-tesla-robotaxi-deployment-in-2025/",
-        "pubDate": "Sat, 22 Aug 2026 03:55:58 +0000",
-        "description": "Tesla has had more good news regarding its robotaxi rollout this past week. Nevada has decided that the company can deploy up to 5,000 robotaxis in the state, up from just 10 on the Las Vegas Strip. That&#8217;s a huge potential increase in vehicles. However, &#8220;Tesla representatives at the meet",
-        "title_cn": "关于2025年特斯拉机器人出租车的部署，谁是正确的？"
-      },
-      {
-        "title": "Genesis Ushers In A New Age of Fully Electric Luxury with the Flagship GV90 SUV",
-        "link": "https://cleantechnica.com/2026/08/21/genesis-ushers-in-a-new-age-of-fully-electric-luxury-with-the-flagship-gv90-suv/",
-        "pubDate": "Sat, 22 Aug 2026 02:22:18 +0000",
-        "description": "At a packed event in San Francisco, California, Genesis unveiled its new flagship electric SUV, the GV90. The GV90 is a full-sized three-row SUV that is also offered in a fully loaded GV90 Neolun spec aimed at people who want to be driven rather than to drive. Disclaimer: the author&#8217;s ... [con",
-        "title_cn": "创世纪旗舰GV90 SUV开启全电动豪华新时代"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,22 +205,16 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
-        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEN1Ri16X1R4eEo0SGlFaDUyZHZtSkxRSjd2U0c5X09jRzVMOW1IVHEtTUZLZFZFMFpKbkFpRW1JcGw4dzU0ZHZvRHRtUG5sNEFwSnEyai1XaW5ZN2tDVnVOUGxNYWJWZE5SaTd2STFlQTBJREVpdDB5dTJCWFR4Mg?oc=5",
+        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "description": "突破电氢协同关键技术 新能源消纳有了新路径 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
@@ -235,6 +229,12 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
+        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
+        "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
         "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索储能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "papers": {
     "items": [
@@ -380,15 +380,15 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
@@ -415,16 +415,16 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
         "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihainews.com",
@@ -434,16 +434,10 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "湖北多用户绿电直连方案印发直连！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlWUdqUV83ai1VZ01VWGdvTkNvVnF2STdnNUlGS20wTkU5d1Z1M0ZhZnBiQnRxdG45RXBydzVvVWI2RVEzQmF5SEFoU3lxaE4xOEw2RWdFX3psNEp1TWNzTzBmQTB5QmM?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 01:31:46 GMT",
-        "description": "湖北多用户绿电直连方案印发直连！ &nbsp;&nbsp; 国际新能源网"
-      },
       {
         "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
@@ -455,6 +449,12 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -481,13 +481,13 @@
         "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-22 22:13 UTC"
+    "updated": "2026-08-23 02:55 UTC"
   }
 }
