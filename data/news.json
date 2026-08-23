@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
+        "link": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
+        "pubDate": "Sun, 23 Aug 2026 06:35:44 +0000",
+        "description": "At the Port of Tilbury on the Thames, GeoPura recently put one of its hydrogen power units on a floating platform and used it to charge a commercial electric vessel. The system delivered 300 kW through five Ballard fuel cells. It was visually irresistible: a barge, hydrogen equipment, a working ... ",
+        "title_cn": "氢气发生器为一艘电动船充电。为什么氢在那里？"
+      },
       {
         "title": "Red States Are Killin’ It With Their Solar Factories",
         "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 22 Aug 2026 13:58:20 +0000",
         "description": "This is my 194th article for CleanTechnica. I think you might say that I am a CleanTechnica (e.g. clean energy) evangelist. I also have taken my electric cars to car shows and driven them in 4th of July parades for 10 years. I also promote EVs and green lifestyles whenever ... [continued] The post C",
         "title_cn": "CleanTechnica布道者报告卡"
-      },
-      {
-        "title": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
-        "link": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
-        "pubDate": "Sat, 22 Aug 2026 06:32:08 +0000",
-        "description": "Heart Aerospace’s X1 demonstrator flew for 27 minutes on August 12 from Plattsburgh International Airport, powered entirely by batteries. The aircraft has a 106-foot wingspan, weighed more than 25,000 pounds at takeoff and drew more than a megawatt at peak. Heart calls it the largest battery-electri",
-        "title_cn": "HEART Aerospace刚刚让航空转型投资者投入了数十亿美元"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,22 +205,10 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
-      },
-      {
         "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEN1Ri16X1R4eEo0SGlFaDUyZHZtSkxRSjd2U0c5X09jRzVMOW1IVHEtTUZLZFZFMFpKbkFpRW1JcGw4dzU0ZHZvRHRtUG5sNEFwSnEyai1XaW5ZN2tDVnVOUGxNYWJWZE5SaTd2STFlQTBJREVpdDB5dTJCWFR4Mg?oc=5",
         "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
         "description": "突破电氢协同关键技术 新能源消纳有了新路径 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "全国高校区域技术转移转化中心（福建）来校交流 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hclpCc1g3NUI1RUxCWU0xTWk2OG9hdDNHS0ZaejlleTJCUFhYSlI3d2lqdkxPSEtoelZoU3N1c3NzUXVJY0lSR21NM1habTZicURFajljN09sYlhKb19TSXZzMW5tSEJMN0F5X2tHZnkxS2Z4WVE?oc=5",
-        "pubDate": "Thu, 06 Aug 2026 21:03:35 GMT",
-        "description": "全国高校区域技术转移转化中心（福建）来校交流 &nbsp;&nbsp; 华北电力大学"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -239,10 +227,22 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
         "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
         "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索储能网"
+      },
+      {
+        "title": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tN3Y5YTNQaEl2NlNNSTNtTmVYbnkzTWhiOXN0bURpT1BFTFVjR3BuNnhpX1NyX3lEeWpOT3pXRFlMOXIwRl9UX0QwVFRzQlRnc210Z0p3?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "description": "拓展绿电制氢氨醇、氢储能、火电掺氢等应用场景！国家发改委发布新型电力系统建设“十五五”规划 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
+        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -463,16 +463,16 @@
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
         "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "山西开启绿色能源发展新篇章 - 人民日报",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-23 02:55 UTC"
+    "updated": "2026-08-23 07:27 UTC"
   }
 }
