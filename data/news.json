@@ -16,6 +16,13 @@
         "title_cn": "前沿技术市场过于狭窄—以下是如何扩大它们"
       },
       {
+        "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
+        "link": "https://www.nature.com/articles/d41586-026-02620-3",
+        "pubDate": "2026-08-24",
+        "description": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02620-3 Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge.",
+        "title_cn": "价值数十亿美元的机器旨在创造核聚变能源记录--并研究核武器"
+      },
+      {
         "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
         "link": "https://www.nature.com/articles/d41586-026-02616-z",
         "pubDate": "2026-08-24",
@@ -49,25 +56,32 @@
         "pubDate": "2026-08-21",
         "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02566-6 Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity.",
         "title_cn": "为什么我们必须停止谈论通用人工智能，而是建立“亲工人”的人工智能"
-      },
-      {
-        "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-        "link": "https://www.nature.com/articles/d41586-026-02352-4",
-        "pubDate": "2026-08-21",
-        "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.",
-        "title_cn": "Sleuth确定了使用错误抗体的数十项研究"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Coalition Urges EPA to Keep Public Participation Requirements for Air Permits",
+        "link": "https://cleantechnica.com/2026/08/24/coalition-urges-epa-to-keep-public-participation-requirements-for-air-permits/",
+        "pubDate": "Mon, 24 Aug 2026 17:33:27 +0000",
+        "description": "WASHINGTON — A coalition of nearly 200 environmental, health, and community groups filed comments late Friday urging the U.S. Environmental Protection Agency to withdraw its proposal to eliminate the minimum public participation requirements for air pollution permits often used for data centers, pow",
+        "title_cn": "联盟敦促美国环保署保持对航空许可证的公众参与要求"
+      },
+      {
+        "title": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 3: Africa)",
+        "link": "https://cleantechnica.com/2026/08/24/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-3-africa/",
+        "pubDate": "Mon, 24 Aug 2026 16:33:40 +0000",
+        "description": "While Europe and Asia redesign their roadside service stations around high-powered charging plugs for passenger cars, the African continent is charting an entirely different course for the retail forecourt. In Nairobi, Kigali, Cotonou, and Johannesburg, the traditional petrol station is transforming",
+        "title_cn": "加油站正在全球范围内发生变化。您所在的城镇发生了怎样的变化？ （第3部分：非洲）"
+      },
       {
         "title": "Broad Coalition of 95 Organizations Urges Congress to Reject Attacks on Long-Standing Clean Air Protections",
         "link": "https://cleantechnica.com/2026/08/24/broad-coalition-of-95-organizations-urges-congress-to-reject-attacks-on-long-standing-clean-air-protections/",
@@ -109,24 +123,10 @@
         "pubDate": "Sun, 23 Aug 2026 06:35:44 +0000",
         "description": "At the Port of Tilbury on the Thames, GeoPura recently put one of its hydrogen power units on a floating platform and used it to charge a commercial electric vessel. The system delivered 300 kW through five Ballard fuel cells. It was visually irresistible: a barge, hydrogen equipment, a working ... ",
         "title_cn": "氢气发生器为一艘电动船充电。为什么氢在那里？"
-      },
-      {
-        "title": "Red States Are Killin’ It With Their Solar Factories",
-        "link": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
-        "pubDate": "Sat, 22 Aug 2026 23:47:54 +0000",
-        "description": "The solar-enabled microgrid specialist Translucent Energy has just added a new 1.3 gigawatt solar factory in South Carolina to its portfolio, with plans for further expansion already under way. The post Red States Are Killin&#8217; It With Their Solar Factories appeared first on CleanTechnica .",
-        "title_cn": "红色国家正在用他们的太阳能工厂杀死它"
-      },
-      {
-        "title": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
-        "link": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
-        "pubDate": "Sat, 22 Aug 2026 22:40:43 +0000",
-        "description": "Tesla didn&#8217;t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to &#8220;de-chrome&#8221; their cars. But Tesla, under Elon Musk&#8217;s direction, took the idea and ran with it when it in",
-        "title_cn": "中国加强对电动门把手的限制，迫使特斯拉召回300万辆汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -397,10 +397,10 @@
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
@@ -409,32 +409,32 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
         "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
         "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
         "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "2026年7月氢能政策汇总 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMTlDUURSbjd4ekFSREs4NnFjRks2R3c1TFlMZ2RZMkwweHBzd0owbGNpdV9fLUl6bE9QT0V1V1F5Q1lBYzE5U3lwVU9tT1UzNzNCTVp3?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "2026年7月氢能政策汇总 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
+        "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -469,16 +469,16 @@
         "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
       },
       {
+        "title": "政策催化绿色增长，科创新能源ETF易方达涨1.15% - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UbnktUVc3dTBKdURlSEVHOGVkWUJSWGFCcS16WVR3TVlfc2gtZEtpSXRxUWJkNkZoNDY2NGFrSkxYek84SU9iME4tTHQ4Ukx5NXJsVDVB?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "description": "政策催化绿色增长，科创新能源ETF易方达涨1.15% &nbsp;&nbsp; QQ News"
+      },
+      {
         "title": "绿电直连新政：一对多模式全面落地 - 见道网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
         "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
         "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
-      },
-      {
-        "title": "从“单用户”到“多用户”，绿电直连将迎来重大政策破局 - QQ News",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EY211cUZ4NndOQ0tpOVZIX3NUclRidzJvV1VMbzFIWUQwMW5neU02QWtkV3RUaHdQRDdzMm9jTUVMZE02Z3lmR3laM19EZURmQlRvUG5B?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "从“单用户”到“多用户”，绿电直连将迎来重大政策破局 &nbsp;&nbsp; QQ News"
       },
       {
         "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-24 14:33 UTC"
+    "updated": "2026-08-24 22:18 UTC"
   }
 }
