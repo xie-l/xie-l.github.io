@@ -2,6 +2,34 @@
   "tech": {
     "items": [
       {
+        "title": "The exoskeletons are coming (to a store near you)",
+        "link": "https://www.nature.com/articles/d41586-026-02641-y",
+        "pubDate": "2026-08-24",
+        "description": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02641-y Technology to help people walk, run and jump is moving rapidly from labs to hiking trails.",
+        "title_cn": "外骨骼即将到来（前往您附近的商店）"
+      },
+      {
+        "title": "Frontier-technology markets are too narrow — here’s how to widen them",
+        "link": "https://www.nature.com/articles/d41586-026-02572-8",
+        "pubDate": "2026-08-24",
+        "description": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02572-8 Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.",
+        "title_cn": "前沿技术市场过于狭窄—以下是如何扩大它们"
+      },
+      {
+        "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
+        "link": "https://www.nature.com/articles/d41586-026-02616-z",
+        "pubDate": "2026-08-24",
+        "description": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02616-z Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision.",
+        "title_cn": "将患者自身的线粒体注射到眼睛中，试图恢复视力"
+      },
+      {
+        "title": "Can AI ever be conscious? The question stems from a misconception",
+        "link": "https://www.nature.com/articles/d41586-026-02571-9",
+        "pubDate": "2026-08-24",
+        "description": "Nature, Published online: 24 August 2026; doi:10.1038/d41586-026-02571-9 A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body.",
+        "title_cn": "AI能有意识吗？这个问题源于一个误解"
+      },
+      {
         "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
         "link": "https://www.nature.com/articles/d41586-026-02626-x",
         "pubDate": "2026-08-21",
@@ -28,46 +56,25 @@
         "pubDate": "2026-08-21",
         "description": "Nature, Published online: 21 August 2026; doi:10.1038/d41586-026-02352-4 The case is the latest example of a scientific workhorse being misused in experiments.",
         "title_cn": "Sleuth确定了使用错误抗体的数十项研究"
-      },
-      {
-        "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-        "link": "https://www.nature.com/articles/s41586-026-11043-z",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/s41586-026-11043-z Dialkyl ether synthesis through heteroatom homolytic substitution",
-        "title_cn": "通过杂原子均解取代合成二烷基醚"
-      },
-      {
-        "title": "Hidden volcanoes hint at Moon’s turbulent past",
-        "link": "https://www.nature.com/articles/d41586-026-02555-9",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02555-9 A pair of massive shield volcanoes have been pinpointed by lunar spacecraft.",
-        "title_cn": "隐藏的火山暗示了月球动荡的过去"
-      },
-      {
-        "title": "To shield the fetus, link a protein to these drugs",
-        "link": "https://www.nature.com/articles/d41586-026-02553-x",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02553-x Adding albumin to popular antibody-based medicines helps to block their passage through the placenta.",
-        "title_cn": "为了保护胎儿，将蛋白质与这些药物"
-      },
-      {
-        "title": "Astronaut vest cuts radiation exposure in half",
-        "link": "https://www.nature.com/articles/d41586-026-02556-8",
-        "pubDate": "2026-08-20",
-        "description": "Nature, Published online: 20 August 2026; doi:10.1038/d41586-026-02556-8 Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms.",
-        "title_cn": "宇航员背心将辐射暴露减少一半"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Broad Coalition of 95 Organizations Urges Congress to Reject Attacks on Long-Standing Clean Air Protections",
+        "link": "https://cleantechnica.com/2026/08/24/broad-coalition-of-95-organizations-urges-congress-to-reject-attacks-on-long-standing-clean-air-protections/",
+        "pubDate": "Mon, 24 Aug 2026 14:07:04 +0000",
+        "description": "WASHINGTON, DC — A broad coalition today urged Congress to reject four Congressional Review Act resolutions that would overturn long-standing Clean Air Act preemption waivers relied upon by states to protect public health and air quality. The waivers cover established standards for passenger cars, l",
+        "title_cn": "由95个组织组成的广泛联盟敦促国会拒绝对长期清洁空气保护措施的攻击"
+      },
       {
         "title": "Canada Needs Industrial Policy That Lets The Market Say No",
         "link": "https://cleantechnica.com/2026/08/24/canada-industrial-policy-markets-say-no/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 22 Aug 2026 22:40:43 +0000",
         "description": "Tesla didn&#8217;t start the electric door handle craze. Hotrodders in the late 1940s and early 1950s substituted electric buttons for mechanical door handles in their effort to &#8220;de-chrome&#8221; their cars. But Tesla, under Elon Musk&#8217;s direction, took the idea and ran with it when it in",
         "title_cn": "中国加强对电动门把手的限制，迫使特斯拉召回300万辆汽车"
-      },
-      {
-        "title": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
-        "link": "https://cleantechnica.com/2026/08/22/for-lagging-automakers-stop-pouring-money-into-the-wrong-powertrains/",
-        "pubDate": "Sat, 22 Aug 2026 20:49:36 +0000",
-        "description": "If you’re a company like Honda, Toyota, GM, Ford, Nissan, or any other volume manufacturer that’s still playing catchup on electrification, the next few years will decide whether you remain a real product company or slowly turn into a dealer network for stronger players. Capital is finite. Engineeri",
-        "title_cn": "对于落后的汽车制造商：停止向错误的动力系统投入资金"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "policy_nea": {
     "items": [
@@ -395,12 +395,6 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZOEhuRFVZT05TUVhKNGM3X1FQbUxxczdxaHVRd2dmeTdZcEhlTms5aGZhQktWSURiajR5U1MyMnF4WnVEMGtfXzROb0tfYUFRMFdwalg1VmY?oc=5",
         "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
-      },
-      {
-        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
-        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -421,6 +415,12 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
+        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
+        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       },
       {
+        "title": "从“单用户”到“多用户”，绿电直连将迎来重大政策破局 - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EY211cUZ4NndOQ0tpOVZIX3NUclRidzJvV1VMbzFIWUQwMW5neU02QWtkV3RUaHdQRDdzMm9jTUVMZE02Z3lmR3laM19EZURmQlRvUG5B?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "从“单用户”到“多用户”，绿电直连将迎来重大政策破局 &nbsp;&nbsp; QQ News"
+      },
+      {
         "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
         "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 - Jiemian.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ScnhQcFB5VC1NVVpOV3Q1TGxNVFVBMUxval8wdHZhNkJPQ3NIcWNzM1NYOGhKX29zcTRvT1RMcEdkZUtHSDV6RVBWSTlnOFk4a3N2enNYVXE?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 06:51:00 GMT",
-        "description": "算电协同首入政府工作报告背后：电力Token化出海，绿电直连提速 &nbsp;&nbsp; Jiemian.com"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-24 07:51 UTC"
+    "updated": "2026-08-24 14:33 UTC"
   }
 }
