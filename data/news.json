@@ -59,12 +59,12 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning",
-        "link": "https://arxiv.org/abs/2608.20284v1",
-        "pubDate": "2026-08-20T17:18:02Z",
-        "description": "Reliable surgical planning requires models to anticipate not only how instruments will move, but also how the operative visual state will evolve together with such motion. Existing approaches typically treat future scene generation and instrument trajectory prediction as two separate tasks. Scene-on",
-        "title_cn": "走向手术世界-行动建模：手术运动规划的初步联合视觉轨迹预测"
+        "title": "Cohomological Reduction for Fiber-Contracting Extensions:From Subcohomology to Thermodynamic Formalism",
+        "link": "https://arxiv.org/abs/2608.21352v1",
+        "pubDate": "2026-08-21T17:56:14Z",
+        "description": "We develop a reduction and transfer framework for cohomological, variational, and thermodynamic problems in fiber-contracting extensions of local homeomorphisms. Under uniform contraction along the fibers and the existence of a continuous global section, every Hölder potential admits the explicit de",
+        "title_cn": "纤维收缩扩展的上同调约简：从亚同调到热力学形式主义"
       },
       {
-        "title": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
-        "link": "https://arxiv.org/abs/2608.20256v1",
-        "pubDate": "2026-08-20T16:54:08Z",
-        "description": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problems and insufficient computation on difficult ones. We study whether a model can learn to allocate its ow",
-        "title_cn": "学习何时思考：测试时间计算分配的自适应推理"
+        "title": "Truthful Calibration Measures for Sequential Prediction",
+        "link": "https://arxiv.org/abs/2608.21348v1",
+        "pubDate": "2026-08-21T17:54:05Z",
+        "description": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) proposed an approximately truthful calibration measure for online prediction, leaving o",
+        "title_cn": "顺序预测的真实校准措施"
       },
       {
-        "title": "Logarithmic depth compression of Heisenberg Hamiltonian simulation by fan-out parallelization, with built-in error detection",
-        "link": "https://arxiv.org/abs/2608.20250v1",
-        "pubDate": "2026-08-20T16:46:41Z",
-        "description": "Noisy intermediate-scale quantum computers are constrained by circuit depth, while product-formula simulation of spin systems leads to narrow and deep circuits. Here we introduce a fan-out-based gadget compiler that trades circuit depth for width in simulations of Heisenberg-type nuclear magnetic re",
-        "title_cn": "通过扇出并行化对海森堡哈密顿模拟的对数深度压缩，内置错误检测"
+        "title": "Dirac Surface States and Nonlocal Quantum Tunneling in Topological Semiconductor Mo$_2$SeTe$_3$ for High-Performance Tunnel FETs",
+        "link": "https://arxiv.org/abs/2608.21333v1",
+        "pubDate": "2026-08-21T17:40:27Z",
+        "description": "A first-principles and device-level study of the quasi-two-dimensional transition-metal chalcogenide Mo$_2$SeTe$_3$ is performed. The material is found to be a weak topological semiconductor with a finite bulk band gap and symmetry-protected Dirac surface states, indicating strong potential for next",
+        "title_cn": "拓扑半导体中的Dirac表面状态和非局部量子隧穿Mo $_2 $ SeTe $_3 $用于高性能隧道FET"
       },
       {
-        "title": "A Bayesian Edge-Space Framework for Whole-Connectome Inference in Multisite Autism Neuroimaging",
-        "link": "https://arxiv.org/abs/2608.20243v1",
-        "pubDate": "2026-08-20T16:36:56Z",
-        "description": "Autism spectrum disorder (ASD) is associated with heterogeneous alterations across distributed brain systems, creating challenges for whole-connectome inference. The difficulty arises not only from the large number of connections, but also from dependence among effects indexed by anatomically and fu",
-        "title_cn": "多部位自闭症神经影像学中全连接组推断的贝叶斯边缘空间框架"
+        "title": "Dynamics of localized solutions in three core coupled waveguides with quasi-periodic nonlinearity",
+        "link": "https://arxiv.org/abs/2608.21331v1",
+        "pubDate": "2026-08-21T17:38:18Z",
+        "description": "In this paper we investigate the behavior of localized solutions, specifically solitons, in a system of three coupled waveguides. The nonlinearity is modeled by a quasi-periodic modulation influencing the interaction between the waveguides. We analyze the evolution of the soliton profiles and their ",
+        "title_cn": "准周期非线性三芯耦合波导局部解的动力学"
       },
       {
-        "title": "Re-evaluating the resolved mass-metallicity relation with a self-consistent metallicity calibration",
-        "link": "https://arxiv.org/abs/2608.20239v1",
-        "pubDate": "2026-08-20T16:29:21Z",
-        "description": "Aims. The mass-metallicity relation (MZR) is essential for understanding the chemical evolution of galaxies. Whether the star formation rate (SFR) plays a role in setting the metallicity has long been debated. Using various metallicity calibrations can result in different conclusions for this fundam",
-        "title_cn": "使用自洽金属度校准重新评估已解析的质量金属度关系"
+        "title": "On-Detector Machine Learning for Beam-Induced Background Rejection at a 10 TeV Muon Collider",
+        "link": "https://arxiv.org/abs/2608.21327v1",
+        "pubDate": "2026-08-21T17:34:22Z",
+        "description": "A 10 TeV Muon Collider is a compelling candidate for a future energy-frontier facility, offering unprecedented opportunities to explore the fundamental laws of particle physics. Muon decays in the collider ring produce intense beam-induced background (BIB) that can overwhelm detector occupancy and e",
+        "title_cn": "用于10 TeV Muon对撞机波束诱导背景抑制的探测器上机器学习"
       },
       {
-        "title": "ALOHA IRDCs Molecular Line Follow-up: I. Gas properties and kinematics",
-        "link": "https://arxiv.org/abs/2608.20238v1",
-        "pubDate": "2026-08-20T16:28:52Z",
-        "description": "Infrared Dark Clouds are ideal sites for investigating the initial conditions of massive star and cluster formation. The A Lei Of the Habitat and Assembly of Infrared Dark Clouds (ALOHA IRDCs), a James Clerk Maxwell Telescope (JCMT) Large Program, has mapped nearby IRDCs with SCUBA-2. Complementary ",
-        "title_cn": "ALOHA IRDCS分子线随访： I.气体性质和运动学"
+        "title": "Diversity of Galaxy Centers from Small-Scale Isocurvature",
+        "link": "https://arxiv.org/abs/2608.21323v1",
+        "pubDate": "2026-08-21T17:30:37Z",
+        "description": "The observed diversity of galaxy centers motivates the possibility that the local dark matter composition may vary among galaxies. In conventional multicomponent dark matter scenarios, however, large stochastic variations in the relative abundances are not generically expected, with the cold compone",
+        "title_cn": "从小尺度等化到星系中心的多样性"
       },
       {
-        "title": "Novel models of trait evolution via an expansion of Lande's fitness function: The Ornstein-Uhlenbeck process meets the Little Prince's boa",
-        "link": "https://arxiv.org/abs/2608.20232v1",
-        "pubDate": "2026-08-20T16:26:38Z",
-        "description": "Adaptive topographies form the foundation for much of our understanding of evolutionary change. Lande's 1976 influential paper on the adaptive topography of phenotypes demonstrated how the concept is inherent in both phenotypic and genetic models of evolution, and how the concept can be used to test",
-        "title_cn": "通过Lande适应度函数的扩展，性状进化的新模型： Ornstein-Uhlenbeck过程与小王子的蟒蛇相遇"
+        "title": "VLASS Discovery of a Luminous Galactic Radio Transient Evolving on Decade Timescales",
+        "link": "https://arxiv.org/abs/2608.21320v1",
+        "pubDate": "2026-08-21T17:29:26Z",
+        "description": "We present a multiwavelength analysis of the radio transient VT J1906+0849, discovered as a 70 mJy source in Epoch 1 of the Very Large Array Sky Survey (VLASS), 21 yr after an NRAO VLA Sky Survey (NVSS) non-detection. Radio observations reveal the source was first detected in 2005, peaking at $\\gtrs",
+        "title_cn": "VLASS发现在十年时间尺度上演变的发光银河系无线电瞬态"
       },
       {
-        "title": "Three-dimensional imaging of oxygen dopant distribution in Sr$_2$CuO$_{3+δ}$ by electron ptychography",
-        "link": "https://arxiv.org/abs/2608.20199v1",
-        "pubDate": "2026-08-20T15:56:40Z",
-        "description": "Oxygen dopants play a critical role in tuning the properties of cuprate superconductors, yet it is challenging to visualize them at the atomic scale. Here, we use multislice electron ptychography to directly image oxygen dopants in a Sr2CuO3+delta film. We observe oxygen dopants at interstitial site",
-        "title_cn": "Sr $_2 $ CuO $_{3 + δ} $中氧掺杂物分布的电子脉冲三维成像"
+        "title": "Neural quantum states in condensed matter: advances, best practices, and prospects",
+        "link": "https://arxiv.org/abs/2608.21291v1",
+        "pubDate": "2026-08-21T16:51:31Z",
+        "description": "Neural quantum states provide flexible variational representations of quantum many-body wave functions by combining neural-network parametrizations with Monte Carlo sampling. In this perspective, we review recent advances in their application to condensed-matter systems, focusing on frustrated quant",
+        "title_cn": "凝聚态中的神经量子态：进展、最佳实践和前景"
       },
       {
-        "title": "Floquet Theory for Light-Driven Rotation of Dipolar and Multipolar Particles",
-        "link": "https://arxiv.org/abs/2608.20197v1",
-        "pubDate": "2026-08-20T15:54:25Z",
-        "description": "Nano- or micro-particle rotation driven by light has been well known in the fields of optical manipulation and optical physics since the end of the last century. It is viewed as a sort of angular-momentum transfer from light to material, but its microscopic analysis based on the Hamiltonian or the e",
-        "title_cn": "双极粒子和多极粒子光驱动旋转的Floquet理论"
+        "title": "VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation",
+        "link": "https://arxiv.org/abs/2608.21290v1",
+        "pubDate": "2026-08-21T16:50:02Z",
+        "description": "We propose VT-MUSE, a Multimodal Unified SEquential representation learning framework for visuotactilemanipulation. Existing approaches often encode visual and tactile observations independently before fusion, limiting their ability to capture fine-grained cross-modal dependencies. Moreover, most me",
+        "title_cn": "VT-MUSE ：用于操作的多模态统一顺序视觉触觉表示学习"
       },
       {
-        "title": "Observables and Anti-Hermitian Generators in Time-Dependent Unitary Coupled Cluster Theory",
-        "link": "https://arxiv.org/abs/2608.20194v1",
-        "pubDate": "2026-08-20T15:51:37Z",
-        "description": "This work presents a time-dependent (TD) unitary coupled-cluster (UCC) formulation for electronic quantum dynamics, including the propagation of excited states and their superpositions, in both single- and multi-reference regimes. Standard TD coupled-cluster techniques offer size-extensivity, but th",
-        "title_cn": "时间相关单耦合聚类理论中的可观测量和反厄米特生成器"
+        "title": "Does Cumulative XUV Unify the Neptunian Desert?",
+        "link": "https://arxiv.org/abs/2608.21285v1",
+        "pubDate": "2026-08-21T16:42:48Z",
+        "description": "The architecture of close-in planetary systems includes a conspicuous scarcity of Neptune-size worlds, known as the Neptunian desert. The deficit spans roughly $2$--$10\\,R_{\\oplus}$ at orbital periods of a few days. Atmospheric erosion by stellar X-rays and extreme-ultraviolet (XUV) radiation may sh",
+        "title_cn": "累积的XUV是否统一了海王星沙漠？"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -427,14 +427,14 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 - bihainews.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iYmRxZElEM054QWMzM0YxSkpVQXJENVZLVGtVNnVnOEI1aFJWWFpkMkR2djhCRUpBTk0xMVlhNFdMQnNWLTI5Q1lRbzRtU19yTUIyYTQ3MFptLThfMzNaZjNNcEVfUXc?oc=5",
-        "pubDate": "Fri, 14 Aug 2026 16:50:02 GMT",
-        "description": "国家能源局：氢能正在从“试点探索”冲向“万亿规模”_商品_全球资讯 &nbsp;&nbsp; bihainews.com"
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-23 22:13 UTC"
+    "updated": "2026-08-24 02:56 UTC"
   }
 }
