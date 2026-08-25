@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Massachusetts Is Taking Steps to Lower Energy Costs. Let’s Get the Details Right.",
+        "link": "https://cleantechnica.com/2026/08/24/massachusetts-is-taking-steps-to-lower-energy-costs-lets-get-the-details-right/",
+        "pubDate": "Tue, 25 Aug 2026 03:12:21 +0000",
+        "description": "Massachusetts lawmakers are working to make electricity more affordable. Both the Massachusetts House and Senate passed energy bills (S.3166 and H.5175) this year that would support grid reliability and lower electricity costs through measures such as flexible interconnection, a retail storage progr",
+        "title_cn": "马萨诸塞州正在采取措施降低能源成本。让我们正确地了解细节。"
+      },
       {
         "title": "When Do You Trade In Your EV For A New One?",
         "link": "https://cleantechnica.com/2026/08/24/when-do-you-trade-in-your-ev-for-a-new-one/",
@@ -116,17 +123,10 @@
         "pubDate": "Mon, 24 Aug 2026 17:33:27 +0000",
         "description": "WASHINGTON — A coalition of nearly 200 environmental, health, and community groups filed comments late Friday urging the U.S. Environmental Protection Agency to withdraw its proposal to eliminate the minimum public participation requirements for air pollution permits often used for data centers, pow",
         "title_cn": "联盟敦促美国环保署保持对航空许可证的公众参与要求"
-      },
-      {
-        "title": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 3: Africa)",
-        "link": "https://cleantechnica.com/2026/08/24/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-3-africa/",
-        "pubDate": "Mon, 24 Aug 2026 16:33:40 +0000",
-        "description": "While Europe and Asia redesign their roadside service stations around high-powered charging plugs for passenger cars, the African continent is charting an entirely different course for the retail forecourt. In Nairobi, Kigali, Cotonou, and Johannesburg, the traditional petrol station is transforming",
-        "title_cn": "加油站正在全球范围内发生变化。您所在的城镇发生了怎样的变化？ （第3部分：非洲）"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,22 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 凤凰网",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 凤凰网"
+      },
+      {
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 投资界",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91aEQwZTdQQmRrcHFJSXI1Sk5Wb1lVbnZEY2ZuN2ZaWVJmc291WnE1ekZFR2JBX1d1bUppOFUxRm5lZGx5dXcxOFhZeXZlbXFuTzF1eHZLY2o?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:15:00 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 投资界"
+      },
       {
         "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
@@ -205,16 +217,16 @@
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "阿塞拜疆加速能源转型，中国大唐输出氢能储能技术培训 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVGbEVxOTZDM2xHS3UtZm5IRkcxZTRZMUcxNkhERVF0YmQtbzJxT2kyM3NzeWJrRXdJUEVOd0hLT1JsSllvTHFyTDdFM3RuNHo2Vy10eVU5SVdtYkhxNXRjRHN2emJZQ0x3Y284ZDE2YmZoV1hkM0pzcHhsVVZLN1dhN3JZQU5NWDhzMw?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
-        "description": "阿塞拜疆加速能源转型，中国大唐输出氢能储能技术培训 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "阿塞拜疆加速能源转型，中国大唐输出氢能储能技术培训 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEVGbEVxOTZDM2xHS3UtZm5IRkcxZTRZMUcxNkhERVF0YmQtbzJxT2kyM3NzeWJrRXdJUEVOd0hLT1JsSllvTHFyTDdFM3RuNHo2Vy10eVU5SVdtYkhxNXRjRHN2emJZQ0x3Y284ZDE2YmZoV1hkM0pzcHhsVVZLN1dhN3JZQU5NWDhzMw?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 00:01:00 GMT",
+        "description": "阿塞拜疆加速能源转型，中国大唐输出氢能储能技术培训 &nbsp;&nbsp; 搜狐网"
       },
       {
         "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
@@ -227,84 +239,72 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "华北电力大学刘建国：破解氢能“落地难”的改革考题 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01RXZVdWcyYjc0cnVWbHJTek9PUXhtdnMycGEwOHpoTkU3YTBIa0JuRGNSVzRrdHdvNThqdHBLY1dVNkhkSi1BcFdBSFhURzR6Wmx1a2xR?oc=5",
-        "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-        "description": "华北电力大学刘建国：破解氢能“落地难”的改革考题 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "乔旭斌会见南非电力与能源部部长拉莫豪帕 - 碳索储能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43OW1FX2F1T2VWQ3hhVnF2RVFaZkpFQWFsSi1ieFVnak1RSUdMS3FjZ3RNUDltejZKNUVxMVg4QUcxYVBYd1FnOG9SX1RyU1YtVTgtbTZnMHBEQ0dOXzd3?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 02:00:41 GMT",
-        "description": "乔旭斌会见南非电力与能源部部长拉莫豪帕 &nbsp;&nbsp; 碳索储能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Next-Generation Propulsion Technologies Target Lower-Emission Regional Aviation",
-        "link": "https://fuelcellsworks.com/2026/08/16/h2/next-generation-propulsion-technologies-target-lower-emission-regional-aviation",
-        "pubDate": "Fri, 21 Aug 2026 15:54:09 GMT",
+        "title": "Exxon Beats Antitrust Claim in $7.5Bn Blue-Ammonia Dispute — but Clean Hydrogen Works Lawsuit Survives",
+        "link": "https://fuelcellsworks.com/2026/08/23/h2/exxon-beats-antitrust-claim-in-7-5bn-blue-ammonia-dispute-but-clean-hydrogen-works-lawsuit-survives",
+        "pubDate": "Mon, 24 Aug 2026 15:47:17 GMT",
         "description": "",
-        "title_cn": "下一代推进技术以低排放区域航空为目标"
+        "title_cn": "埃克森美孚在75亿美元的蓝氨争端中击败了反垄断索赔—但清洁氢厂诉讼仍然存在"
       },
       {
-        "title": "Manawatū Becomes Home to New Zealand’s First Toyota Mirai Rental Fleet",
-        "link": "https://fuelcellsworks.com/2026/08/21/fuel-cells/manawatu-becomes-home-to-new-zealand-s-first-toyota-mirai-rental-fleet",
-        "pubDate": "Fri, 21 Aug 2026 15:53:16 GMT",
+        "title": "Hydros Power to Participate in the Development of the First Hydrogen-Powered Boat in the Basque Country",
+        "link": "https://fuelcellsworks.com/2026/08/24/clean-energy/hydros-power-to-participate-in-the-development-of-the-first-hydrogen-powered-boat-in-the-basque-country",
+        "pubDate": "Mon, 24 Aug 2026 15:38:43 GMT",
         "description": "",
-        "title_cn": "Manawatū成为新西兰首个丰田Mirai租赁车队的所在地"
+        "title_cn": "Hydros Power将参与巴斯克地区首艘氢动力船的开发"
       },
       {
-        "title": "Colruyt Group and Scania Are Pioneering the Use of Hydrogen Trucks in Day-to-Day Operations",
-        "link": "https://fuelcellsworks.com/2026/08/21/fuel-cells/colruyt-group-and-scania-are-pioneering-the-use-of-hydrogen-trucks-in-day-to-day-operations",
-        "pubDate": "Fri, 21 Aug 2026 15:43:05 GMT",
+        "title": "Japan Throws ¥15.1 Billion [$95 Million] at Zero-Emission Ships — Hydrogen and Ammonia Get the Best Deal",
+        "link": "https://fuelcellsworks.com/2026/08/24/h2/japan-throws-15-1-billion-95-million-at-zero-emission-ships-hydrogen-and-ammonia-get-the-best-deal",
+        "pubDate": "Mon, 24 Aug 2026 15:19:09 GMT",
         "description": "",
-        "title_cn": "Colruyt集团和斯堪尼亚率先在日常运营中使用氢气卡车"
+        "title_cn": "日本向零排放船舶投入151亿日元（ 9500万美元） —氢气和氨气获得最优惠的价格"
       },
       {
-        "title": "GWM Brings Hydrogen-Powered Truck, ORA 5 and Electrification Experiments to Rio Innovation Week 2026.",
-        "link": "https://fuelcellsworks.com/2026/08/21/energy-innovation/gwm-brings-hydrogen-powered-truck-ora-5-and-electrification-experiments-to-rio-innovation-week-2026",
-        "pubDate": "Fri, 21 Aug 2026 15:33:28 GMT",
+        "title": "Japan's Yamanashi and India's Uttar Pradesh Sign Green Hydrogen MoU — Over 200 Delegates Seal the Deal in Varanasi",
+        "link": "https://fuelcellsworks.com/2026/08/24/energy-policy/japan-s-yamanashi-and-india-s-uttar-pradesh-sign-green-hydrogen-mou-over-200-delegates-seal-the-deal-in-varanasi",
+        "pubDate": "Mon, 24 Aug 2026 15:15:31 GMT",
         "description": "",
-        "title_cn": "GWM将氢动力卡车、ORA 5和电气化实验带入2026年里约创新周。"
+        "title_cn": "日本山梨县和印度北方邦签署绿色氢气谅解备忘录--200多名代表在瓦拉纳西签署协议"
       },
       {
-        "title": "Yamanashi Wants to Become a Global Hub for Hydrogen Deployment Knowledge",
-        "link": "https://fuelcellsworks.com/2026/08/17/h2/yamanashi-wants-to-become-a-global-hub-for-hydrogen-deployment-knowledge",
-        "pubDate": "Fri, 21 Aug 2026 15:18:01 GMT",
+        "title": "China Deploys First Batch of Hydrogen Fuel-Cell Excavators in Mining Operations",
+        "link": "https://fuelcellsworks.com/2026/08/09/fuel-cells/china-deploys-first-batch-of-hydrogen-fuel-cell-excavators-in-mining-operations",
+        "pubDate": "Mon, 24 Aug 2026 14:41:55 GMT",
         "description": "",
-        "title_cn": "山梨县希望成为氢能部署知识的全球枢纽"
+        "title_cn": "中国在采矿作业中部署首批氢燃料电池挖掘机"
       },
       {
-        "title": "Sweco Supports Hydrogen Pipeline HYBOR in East Germany",
-        "link": "https://fuelcellsworks.com/2026/08/21/energy-innovation/sweco-supports-hydrogen-pipeline-hybor-in-east-germany",
-        "pubDate": "Fri, 21 Aug 2026 15:16:20 GMT",
+        "title": "Turning Metal Waste Into a Catalyst for Hydrogen Production",
+        "link": "https://fuelcellsworks.com/2026/08/24/clean-energy/turning-metal-waste-into-a-catalyst-for-hydrogen-production",
+        "pubDate": "Mon, 24 Aug 2026 14:31:25 GMT",
         "description": "",
-        "title_cn": "Sweco支持东德氢气管道HYBOR"
+        "title_cn": "将金属废物转化为制氢催化剂"
       },
       {
-        "title": "Four New Rongcheng Hydrogen Commercial Vehicles Added to China’s MIIT Product List",
-        "link": "https://fuelcellsworks.com/2026/08/17/fuel-cells/four-new-rongcheng-hydrogen-commercial-vehicles-added-to-china-s-miit-product-list",
-        "pubDate": "Fri, 21 Aug 2026 14:58:24 GMT",
+        "title": "Chinese One-Step Catalyst Could Slash the Cost of Making E-SAF From CO₂ and Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/08/24/h2/chinese-one-step-catalyst-could-slash-the-cost-of-making-e-saf-from-co-and-hydrogen",
+        "pubDate": "Mon, 24 Aug 2026 14:24:02 GMT",
         "description": "",
-        "title_cn": "工信部新增四款荣成氢能商用车"
+        "title_cn": "中国的一步催化剂可以降低利用二氧化碳和氢气制造E-SAF的成本"
       },
       {
-        "title": "Q2 Interim Report: Strong Order Intake – System Orders in Two Main Segments",
-        "link": "https://fuelcellsworks.com/2026/08/21/green-investment/q2-interim-report-strong-order-intake-system-orders-in-two-main-segments",
-        "pubDate": "Fri, 21 Aug 2026 14:52:30 GMT",
+        "title": "Primary Hydrogen Stakes 65 Km² Seagull North Project Adjoining Active Drilling Targeting Natural Hydrogen And Helium In Northwestern Ontario",
+        "link": "https://fuelcellsworks.com/2026/08/24/green-investment/primary-hydrogen-stakes-65-km-seagull-north-project-adjoining-active-drilling-targeting-natural-hydrogen-and-helium-in-northwestern-ontario",
+        "pubDate": "Mon, 24 Aug 2026 14:22:37 GMT",
         "description": "",
-        "title_cn": "第二季度中期报告：强劲的订单接收–两个主要细分市场的系统订单"
+        "title_cn": "毗邻安大略省西北部以天然氢和氦为目标的活跃钻井的65平方公里海鸥北部项目的主要氢气桩"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,10 +409,10 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
-        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
+        "title": "国家发改委 国家能源局：鼓励煤化工项目开展规模化绿氢利用替代，合理布局建设加氢站 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yazJDamN5TzNkRGNtaERnY3laZnZwOG9mbXNkcXVsREcwWFhjdmZteXhxdU53cVVsTmhiR0R2SElydkdzcTRmVFNHNkZ4d01VNFpIWlhR?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委 国家能源局：鼓励煤化工项目开展规模化绿氢利用替代，合理布局建设加氢站 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-25 02:51 UTC"
+    "updated": "2026-08-25 07:37 UTC"
   }
 }
