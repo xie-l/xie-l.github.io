@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "A 1995 Dodge Ram Shows What US EV Policy Keeps Missing",
+        "link": "https://cleantechnica.com/2026/08/26/1995-dodge-ram-ev-scrappage-incentives/",
+        "pubDate": "Wed, 26 Aug 2026 05:17:03 +0000",
+        "description": "A reader who owns a hand-me-down 1995 Dodge Ram plans to keep repairing it until rust, gasoline prices or regulation finally stop him. I think he is making a rational household decision. The truck is paid for, he knows how to maintain it, and a repair bill of hundreds or ... [continued] The post A 1",
+        "title_cn": "1995年道奇Ram展示了美国电动汽车政策一直缺失的东西"
+      },
+      {
+        "title": "Kia EV3 To Give Americans A Cheap Electric Car Option",
+        "link": "https://cleantechnica.com/2026/08/25/kia-ev3-to-give-americans-a-cheap-electric-car-option/",
+        "pubDate": "Wed, 26 Aug 2026 03:50:09 +0000",
+        "description": "Most of the time, new electric car models in the United States are located way up in the premium vehicle territory. Well, nowadays, you hardly get any new electric vehicles at all in the country, since the Trump administration has been busy gutting clean air standards, fuel economy standards, and ..",
+        "title_cn": "起亚EV3为美国人提供便宜的电动汽车选择"
+      },
       {
         "title": "Energy Storage Is Strengthening Reliability. These 5 States Are Leading the Charge.",
         "link": "https://cleantechnica.com/2026/08/25/energy-storage-is-strengthening-reliability-these-5-states-are-leading-the-charge/",
@@ -109,24 +123,10 @@
         "pubDate": "Tue, 25 Aug 2026 21:55:49 +0000",
         "description": "Lexington, Kentucky — On Thursday, the Lexington-Fayette Urban County Council will hear a zoning ordinance text amendment (ZOTA) that would open up no greater than one percent of Fayette County, including agriculturally zoned land, for large-scale solar development. The ZOTA would require that any s",
         "title_cn": "列克星敦-费耶特县太阳能分区修正案对实现气候目标和降低成本至关重要"
-      },
-      {
-        "title": "Homes In London Are Cracking As The Clay They Are Built On Shrinks",
-        "link": "https://cleantechnica.com/2026/08/25/homes-in-london-are-cracking-as-the-clay-they-are-built-on-shrinks/",
-        "pubDate": "Tue, 25 Aug 2026 21:41:41 +0000",
-        "description": "If you are a homeowner, the last word you want to hear is &#8220;subsidence,&#8221; which is defined as the gradual caving in or sinking of an area of land. It means the foundation beneath your structure is no longer capable of handling its weight and is slowly settling. It is happening ... [continu",
-        "title_cn": "伦敦的房屋正在破裂，因为它们建在收缩上的粘土上"
-      },
-      {
-        "title": "Suzuki Unveils it BEV Kei Car for Release This Autumn",
-        "link": "https://cleantechnica.com/2026/08/25/suzuki-unveils-it-bev-kei-car-for-release-this-autumn/",
-        "pubDate": "Tue, 25 Aug 2026 15:45:06 +0000",
-        "description": "Suzuki has unveiled the e SKY, its first battery-electric passenger kei car, with a reference driving range of 310 kilometers as the Japanese automaker prepares to enter one of the country’s most competitive small-car segments. Suzuki released preliminary information on Aug. 24 and plans to launch t",
-        "title_cn": "铃木推出BEV Kei汽车，将于今年秋季发布"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "energy_cn": {
     "items": [
@@ -217,6 +217,12 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
+        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
+        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
         "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEN1Ri16X1R4eEo0SGlFaDUyZHZtSkxRSjd2U0c5X09jRzVMOW1IVHEtTUZLZFZFMFpKbkFpRW1JcGw4dzU0ZHZvRHRtUG5sNEFwSnEyai1XaW5ZN2tDVnVOUGxNYWJWZE5SaTd2STFlQTBJREVpdDB5dTJCWFR4Mg?oc=5",
         "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "国家能源局拟立项43项氢能标准 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBydHNZVEdOQnc3U1BDWU5vczRvMkYwX1JpdzJWZGNIdHBvYjc1ZDRsanRLTXQ5ck1iem9vUkJ4RjJCQlh2OE5GZGtkVUctRF9MN3BId2d3?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局拟立项43项氢能标准 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-26 02:57 UTC"
+    "updated": "2026-08-26 07:39 UTC"
   }
 }
