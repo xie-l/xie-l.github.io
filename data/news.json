@@ -2,6 +2,48 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: How Dolly Parton left her mark on science",
+        "link": "https://www.nature.com/articles/d41586-026-02732-w",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
+        "title_cn": "简报聊天： Dolly Parton如何在科学上留下自己的印记"
+      },
+      {
+        "title": "Mysteries of the deep and AI friendship: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-02725-9",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "深度与人工智能友谊之谜：书籍简介"
+      },
+      {
+        "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
+        "link": "https://www.nature.com/articles/d41586-026-02680-5",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
+        "title_cn": "Moderna癌症疫苗带来了希望—现在我们必须加快个性化治疗"
+      },
+      {
+        "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+        "link": "https://www.nature.com/articles/d41586-026-02688-x",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
+        "title_cn": "Heisuke Hironaka讣告：抚平几何复杂性的数学家"
+      },
+      {
+        "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
+        "link": "https://www.nature.com/articles/d41586-026-02733-9",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
+        "title_cn": "Meta的交易是否会为儿童提供安全的社交媒体？研究人员对此表示怀疑"
+      },
+      {
+        "title": "What employers are looking for in the age of AI — and four ways to provide it",
+        "link": "https://www.nature.com/articles/d41586-026-01913-x",
+        "pubDate": "2026-08-28",
+        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
+        "title_cn": "雇主在人工智能时代寻找什么—以及提供它的四种方式"
+      },
+      {
         "title": "A solution to the mystery of the missing neutrinos",
         "link": "https://www.nature.com/articles/d41586-026-02628-9",
         "pubDate": "2026-08-27",
@@ -14,60 +56,32 @@
         "pubDate": "2026-08-27",
         "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02629-8 Geochemical clues hint that worm-like creatures in the Ediacaran period benefited from symbiosis with bacteria.",
         "title_cn": "动物-微生物伙伴关系可以追溯到复杂生命的曙光"
-      },
-      {
-        "title": "‘Robot Olympics’ reveal humanoids' rapid progress — but hurdles remain",
-        "link": "https://www.nature.com/articles/d41586-026-02713-z",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02713-z Humanoid robots broke records at sporting events such as sprints, but struggled at practical tasks such as hammering nails.",
-        "title_cn": "“机器人奥运会”揭示了人形的快速发展—但障碍仍然存在"
-      },
-      {
-        "title": "Glacier collapse caused Nepal’s deadly flash flood — a sign of things to come?",
-        "link": "https://www.nature.com/articles/d41586-026-02716-w",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02716-w Global warming is making high-altitude regions unstable, and could trigger more frequent landslides and floods.",
-        "title_cn": "冰川崩塌导致了尼泊尔致命的山洪暴发--这是即将发生的事情的迹象吗？"
-      },
-      {
-        "title": "Women face bans on research underground — here’s how to modernize the system",
-        "link": "https://www.nature.com/articles/d41586-026-02679-y",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02679-y In many countries, female engineers are barred from entering deep mines to carry out studies. Differentiating risks can increase access while protecting safety.",
-        "title_cn": "女性面临地下研究禁令—以下是如何实现系统现代化"
-      },
-      {
-        "title": "The Roman telescope is about to take planet-hunting to the next level",
-        "link": "https://www.nature.com/articles/d41586-026-02662-7",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02662-7 NASA’s Nancy Grace Roman Space Telescope, set to launch shortly, could find 40 times the number of distant worlds as have been detected so far.",
-        "title_cn": "罗马望远镜即将将行星狩猎提升到一个新的水平"
-      },
-      {
-        "title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
-        "link": "https://www.nature.com/articles/d41586-026-02717-9",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9 A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
-        "title_cn": "为什么厄尔尼诺现象越来越强大？气候变化的1000年纪录点"
-      },
-      {
-        "title": "Highest-ever ocean temperatures recorded as El Niño intensifies",
-        "link": "https://www.nature.com/articles/d41586-026-02681-4",
-        "pubDate": "2026-08-26",
-        "description": "Nature, Published online: 26 August 2026; doi:10.1038/d41586-026-02681-4 Why extreme temperatures are expected to weaken ocean carbon sinks — plus, how mitochondrial injections could treat vision loss.",
-        "title_cn": "随着厄尔尼诺现象加剧，有史以来最高的海洋温度"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Elon Musk Fails In His Attempt To Subvert First Amendment Considerations For Social Media",
+        "link": "https://cleantechnica.com/2026/08/28/elon-musk-fails-in-his-attempt-to-subvert-first-amendment-considerations-for-social-media/",
+        "pubDate": "Fri, 28 Aug 2026 15:36:34 +0000",
+        "description": "Once upon a time, Elon Musk tweeted on his then-new social media platform, “Free speech is the bedrock of a functioning democracy.” He, of course, was referring to the First Amendment to the US Constitution, which declares that “Congress shall make no law … abridging the freedom of speech, or ... [c",
+        "title_cn": "伊隆·马斯克（ Elon Musk ）未能颠覆社交媒体的第一修正案考虑因素"
+      },
+      {
+        "title": "Energy Security Is Increasing The Value Of Cross-Border Electricity",
+        "link": "https://cleantechnica.com/2026/08/28/cross-border-electricity-energy-security-hvdc/",
+        "pubDate": "Fri, 28 Aug 2026 07:25:59 +0000",
+        "description": "Energy independence was an understandable slogan in Europe after Russia’s invasion of Ukraine sent gas and electricity prices through the roof. But it was also the wrong lesson. European countries had not erred by depending on one another. They had allowed too much of a critical energy supply to dep",
+        "title_cn": "能源安全正在提高跨境电力的价值"
+      },
       {
         "title": "Climate Change Exposes 580 Million Children to 20 Extra “Heat-Stress Days” Every Year",
         "link": "https://cleantechnica.com/2026/08/27/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year/",
@@ -109,27 +123,20 @@
         "pubDate": "Fri, 28 Aug 2026 00:30:42 +0000",
         "description": "Groups challenge EPA&#8217;s decision on smog that flouts the law and hands polluters a free pass CLEVELAND — A coalition of environmental and public health organizations filed a federal lawsuit today challenging the U.S. Environmental Protection Agency&#8217;s decision to let Cleveland off the hook",
         "title_cn": "诉讼旨在阻止EPA放弃克利夫兰人的健康"
-      },
-      {
-        "title": "Dolly Parton Or Elon Musk — Who Is The True Humanitarian?",
-        "link": "https://cleantechnica.com/2026/08/27/dolly-parton-or-elon-musk-who-is-the-true-humanitarian/",
-        "pubDate": "Thu, 27 Aug 2026 22:17:04 +0000",
-        "description": "I was thinking the other day about how the tech bros &#8212; Musk, Thiel, Andreesen, Huang, Zuckerberg, Bezos, Altman, and so many others &#8212; are very good at acquiring wealth but very poor at sharing it. These acquisitive types revel in their riches, as if money somehow makes them superior ... ",
-        "title_cn": "多莉·帕顿（ Dolly Parton ）或伊隆·马斯克（ Elon Musk ） —谁是真正"
-      },
-      {
-        "title": "Oil Sheen in Cook Inlet Underscores Risks of Offshore Drilling",
-        "link": "https://cleantechnica.com/2026/08/27/oil-sheen-in-cook-inlet-underscores-risks-of-offshore-drilling/",
-        "pubDate": "Thu, 27 Aug 2026 21:55:30 +0000",
-        "description": "ANCHORAGE, Alaska — A miles-long sheen reported near an inactive oil and gas platform in Cook Inlet is raising renewed concerns about the risks posed by aging offshore infrastructure as the Trump administration and Congress push additional offshore oil and gas lease sales in the region. Authorities ",
-        "title_cn": "库克进口的油光泽强调了海上钻井的风险"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Heat-driven elastocaloric cooling with shape memory films",
+        "link": "https://www.nature.com/articles/s41560-026-02122-6",
+        "pubDate": "2026-08-28",
+        "description": "Nature Energy, Published online: 28 August 2026; doi:10.1038/s41560-026-02122-6 Elastocaloric cooling in shape memory alloy films is efficient but limited by electrically powered actuators. Here the authors demonstrate a heat-driven system that achieves a temperature span of up to 12.9 K (4.0 K at d",
+        "title_cn": "采用形状记忆薄膜的热驱动弹性热量冷却"
+      },
       {
         "title": "Quantifying the impact of cell-to-cell inconsistency on electric vehicle battery degradation and utilization",
         "link": "https://www.nature.com/articles/s41560-026-02131-5",
@@ -178,25 +185,18 @@
         "pubDate": "2026-08-17",
         "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02090-x Physical self-discharge critically limits the lifetime of all-solid-state batteries (ASSBs). Wang et al. showed that the non-negligible electronic conductivity of solid-state electrolytes can lead to substantial physical",
         "title_cn": "固体电解质的电子导电性导致全固态电池物理自放电"
-      },
-      {
-        "title": "Author Correction: High-performance perovskite/silicon tandem solar cells enabled by multifunctional titanium oxynitride recombination layers",
-        "link": "https://www.nature.com/articles/s41560-026-02137-z",
-        "pubDate": "2026-08-14",
-        "description": "Nature Energy, Published online: 14 August 2026; doi:10.1038/s41560-026-02137-z Author Correction: High-performance perovskite/silicon tandem solar cells enabled by multifunctional titanium oxynitride recombination layers",
-        "title_cn": "作者修正：通过多功能氮氧化钛复合层实现的高性能钙钛矿/硅串联太阳能电池"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - hkong.cn",
+        "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - 香港新聞社",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
         "pubDate": "Wed, 26 Aug 2026 18:14:00 GMT",
-        "description": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 &nbsp;&nbsp; hkong.cn"
+        "description": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 &nbsp;&nbsp; 香港新聞社"
       },
       {
         "title": "中国能建倪真拜会湖北省委书记关志鸥！深化在氢能产业等领域合作 - 国际氢能网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "policy_nea": {
     "items": [
@@ -389,6 +389,12 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -425,16 +431,10 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
         "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
         "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -469,6 +469,12 @@
         "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
@@ -479,15 +485,9 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-28 05:53 UTC"
+    "updated": "2026-08-28 19:10 UTC"
   }
 }
