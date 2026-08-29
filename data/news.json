@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "US Army Aims To Capture Energy From “The Environment”",
+        "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
+        "pubDate": "Sat, 29 Aug 2026 11:39:19 +0000",
+        "description": "The US startup Chariot Defense is pitching a microgrid that replaces hot, noisy, logistically burdened diesel generators with batteries that scavenge energy from the battlefield. The post US Army Aims To Capture Energy From &#8220;The Environment&#8221; appeared first on CleanTechnica .",
+        "title_cn": "美国陆军的目标是从“环境”中获取能量"
+      },
+      {
+        "title": "Methane Thermolysis Has A Carbon Market Problem",
+        "link": "https://cleantechnica.com/2026/08/29/methane-thermolysis-carbon-market-problem/",
+        "pubDate": "Sat, 29 Aug 2026 06:36:18 +0000",
+        "description": "Methane thermolysis has one of the cleaner propositions in the hydrogen space. The process is also commonly called methane pyrolysis, but I prefer thermolysis. An engineer and founder working in the field pointed out to me that the useful distinction is straightforward: it is heat, not flames, doing",
+        "title_cn": "甲烷热解存在碳市场问题"
+      },
+      {
+        "title": "Vycarb Successfully Stores Low-Purity CO2 In Seawater",
+        "link": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
+        "pubDate": "Sat, 29 Aug 2026 03:57:39 +0000",
+        "description": "Brooklyn-based Vycarb recently reached a significant milestone in storing low-purity CO2 in sea water. This convenient, low-cost solution has the potential to make CCS more affordable and accessible. I recently met with Vycarb CEO and Founder Dr. Garrett Boudinot to see the progress at their Brookly",
+        "title_cn": "Vycarb在海水中成功储存低纯度二氧化碳"
+      },
       {
         "title": "The Real Electric Aviation Revolution Is Being Strangled To Enrich Don Jr. & Other Trump Associates",
         "link": "https://cleantechnica.com/2026/08/28/the-real-electric-aviation-revolution-is-being-strangled-to-enrich-don-jr-other-trump-associates/",
@@ -102,31 +123,10 @@
         "pubDate": "Fri, 28 Aug 2026 23:11:16 +0000",
         "description": "Secret proposal would give developer access through one of America’s most treasured National Parks WASHINGTON, D.C. — The Trump administration has spent over a year quietly pressing the National Park Service to give up land inside Yosemite National Park so a private developer can build a road connec",
         "title_cn": "塞拉俱乐部抨击特朗普计划为私人开发商拆分优胜美地"
-      },
-      {
-        "title": "Kentucky PSC Opens Investigation into High Electricity Costs, Affordability Concerns",
-        "link": "https://cleantechnica.com/2026/08/28/kentucky-psc-opens-investigation-into-high-electricity-costs-affordability-concerns/",
-        "pubDate": "Fri, 28 Aug 2026 22:44:00 +0000",
-        "description": "Yesterday, the Kentucky Public Service Commission opened a case that will allow all stakeholders, including local utilities and utility customers, to identify the causes and consequences of rising energy costs and discuss potential solutions. This news follows fierce advocacy by Sierra Club and part",
-        "title_cn": "肯塔基州PSC对高电力成本、可负担性问题展开调查"
-      },
-      {
-        "title": "El Niño Leads To More Global Heating While More Global Heating Leads To Stronger El Nino — Study",
-        "link": "https://cleantechnica.com/2026/08/28/el-nino-leads-to-more-global-heating-while-more-global-heating-leads-to-stronger-el-nino-study/",
-        "pubDate": "Fri, 28 Aug 2026 22:30:51 +0000",
-        "description": "Talk about a vicious circle. A team of climate scientists lead by Judith Cole at the University of Michigan has published new research in the journal Science this week. Here&#8217;s what Cole told The Guardian about that research. “We are seeing a trend of stronger El Niños and the one ... [continue",
-        "title_cn": "厄尔尼诺现象导致更多的全球供暖，而更多的全球供暖导致更强的厄尔尼诺现象—研究"
-      },
-      {
-        "title": "Elon Musk Fails In His Attempt To Subvert First Amendment Considerations For Social Media",
-        "link": "https://cleantechnica.com/2026/08/28/elon-musk-fails-in-his-attempt-to-subvert-first-amendment-considerations-for-social-media/",
-        "pubDate": "Fri, 28 Aug 2026 15:36:34 +0000",
-        "description": "Once upon a time, Elon Musk tweeted on his then-new social media platform, “Free speech is the bedrock of a functioning democracy.” He, of course, was referring to the First Amendment to the US Constitution, which declares that “Congress shall make no law … abridging the freedom of speech, or ... [c",
-        "title_cn": "伊隆·马斯克（ Elon Musk ）未能颠覆社交媒体的第一修正案考虑因素"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "energy": {
     "items": [
@@ -188,21 +188,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 - mpower.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HYm9EZ21jdFF3M0xFeEhjblR0R05QT0RTMjgwdE54eDFqb2dsYXVkR2FlR3BRVXFCWG9nTll5Mk1HZGNJaDJWcjFST3lBcjlESXNiQVY1QkRqQ0NZ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 23:58:12 GMT",
+        "description": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 &nbsp;&nbsp; mpower.in-en.com"
+      },
       {
         "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - 香港新聞社",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
         "pubDate": "Wed, 26 Aug 2026 18:14:00 GMT",
         "description": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 &nbsp;&nbsp; 香港新聞社"
-      },
-      {
-        "title": "中国能建倪真拜会湖北省委书记关志鸥！深化在氢能产业等领域合作 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3SnFvWm1vbThPYzFqV1laNXhCWnpNVmtaZEUwdXV6SzR1ZjVqcmtadU1MY0JmZERyUWhFS0dDd01OU0Q5b1pQbjJhbjFVb3VnNG1rTg?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 00:56:06 GMT",
-        "description": "中国能建倪真拜会湖北省委书记关志鸥！深化在氢能产业等领域合作 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 投资界",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "hydrogen": {
     "items": [
@@ -251,7 +251,7 @@
         "link": "https://fuelcellsworks.com/2026/08/28/fuel-cells/tauron-h2-and-pkm-tychy-want-to-cooperate-to-develop-hydrogen-powered-public-transport",
         "pubDate": "Fri, 28 Aug 2026 15:55:52 GMT",
         "description": "",
-        "title_cn": "TAURON H2 和 PKM Tychy 希望合作开发氢动力公共交通"
+        "title_cn": "TAURON H2和PKM Tychy希望合作开发氢动力公共交通工具"
       },
       {
         "title": "Rio Grande Do Norte Uses New Hydrogen Rules as Data Centre Regulation Lags",
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "policy_nea": {
     "items": [
@@ -415,26 +415,26 @@
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "国家发改委 国家能源局：鼓励煤化工项目开展规模化绿氢利用替代，合理布局建设加氢站 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yazJDamN5TzNkRGNtaERnY3laZnZwOG9mbXNkcXVsREcwWFhjdmZteXhxdU53cVVsTmhiR0R2SElydkdzcTRmVFNHNkZ4d01VNFpIWlhR?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委 国家能源局：鼓励煤化工项目开展规模化绿氢利用替代，合理布局建设加氢站 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
         "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,10 +475,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-29 03:26 UTC"
+    "updated": "2026-08-29 12:54 UTC"
   }
 }
