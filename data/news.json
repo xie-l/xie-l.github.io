@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "MediaEd Insights: Food as Ecomedia Literacy",
+        "link": "https://cleantechnica.com/2026/08/29/mediaed-insights-food-as-ecomedia-literacy/",
+        "pubDate": "Sat, 29 Aug 2026 15:48:38 +0000",
+        "description": "I have been a fellow of the Media Education Lab (MEL) at the University of Rhode Island for a couple of decades. That means I&#8217;m part of a community of international, national, and regional leaders who promote media literacy. I&#8217;ve run MEL conferences, delivered workshops, co-authored whit",
+        "title_cn": "MediaEd Insights ：食品作为Ecomedia素养"
+      },
       {
         "title": "US Army Aims To Capture Energy From “The Environment”",
         "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
@@ -116,17 +123,10 @@
         "pubDate": "Fri, 28 Aug 2026 23:20:02 +0000",
         "description": "WASHINGTON, D.C. — Today, the Trump administration finalized a rule setting up a weakening Corporate Average Fuel Economy (CAFE) standards for heavy-duty commercial vehicles. Heavy-duty vehicles are responsible for a significant share of the transportation sector’s pollution. Weakening fuel efficien",
         "title_cn": "随着柴油价格飙升，特朗普政府采取行动，使加油大型卡车更加昂贵"
-      },
-      {
-        "title": "Sierra Club Slams Trump Plan to Carve Up Yosemite for Private Developer",
-        "link": "https://cleantechnica.com/2026/08/28/sierra-club-slams-trump-plan-to-carve-up-yosemite-for-private-developer/",
-        "pubDate": "Fri, 28 Aug 2026 23:11:16 +0000",
-        "description": "Secret proposal would give developer access through one of America’s most treasured National Parks WASHINGTON, D.C. — The Trump administration has spent over a year quietly pressing the National Park Service to give up land inside Yosemite National Park so a private developer can build a road connec",
-        "title_cn": "塞拉俱乐部抨击特朗普计划为私人开发商拆分优胜美地"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "energy": {
     "items": [
@@ -188,16 +188,10 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 - mpower.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HYm9EZ21jdFF3M0xFeEhjblR0R05QT0RTMjgwdE54eDFqb2dsYXVkR2FlR3BRVXFCWG9nTll5Mk1HZGNJaDJWcjFST3lBcjlESXNiQVY1QkRqQ0NZ?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 23:58:12 GMT",
-        "description": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 &nbsp;&nbsp; mpower.in-en.com"
-      },
       {
         "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - 香港新聞社",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
@@ -209,12 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91aEQwZTdQQmRrcHFJSXI1Sk5Wb1lVbnZEY2ZuN2ZaWVJmc291WnE1ekZFR2JBX1d1bUppOFUxRm5lZGx5dXcxOFhZeXZlbXFuTzF1eHZLY2o?oc=5",
         "pubDate": "Tue, 25 Aug 2026 03:15:00 GMT",
         "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 投资界"
-      },
-      {
-        "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwTzlGRGs4eWJJbzNkWGdiMmlQWm4zQnB5UTR2aVZZOXVIbHV1MkpOQVZtaklrZnJXS2VrNUhnY1lTUHZiblB1TGt3WEkzZmVzdUJzc2VWNkhST1lLUlE?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
-        "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
         "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
@@ -235,14 +223,26 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
-        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBROV9ITTNSOS1qZU5BQm1xY3dISi1aVUtNUnNmb3d1bk1OMHVQN2JiMy1QNDdIRE1ZX3QxYjhNaDAxYUhYeFRmdmd2SmtwU1FrRE8tTFdR?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 08:46:18 GMT",
+        "description": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,32 +409,32 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OQWZaUXpUM3I2eFA1MEE4U0VHNWNIZkRJTnlDT01rSUg0TDBhTV94b2pvZmo4enZjVXlmdTNQUVhERHJEZ2M2T0JJQjNPaTd4bU03Vg?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
-        "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
-      },
-      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
         "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
+        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,10 +475,10 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-29 12:54 UTC"
+    "updated": "2026-08-29 17:27 UTC"
   }
 }
