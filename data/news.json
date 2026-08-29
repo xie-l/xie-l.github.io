@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
+        "link": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
+        "pubDate": "Sat, 29 Aug 2026 18:08:44 +0000",
+        "description": "Videos of burning Teslas more than a decade ago may have been the single biggest factor in the anti-EV attitudes of millions of people. They were damned scary, and even those of us who were staunch advocates of the EV revolution were shocked by how violent they were. Blaring headlines ... [continued",
+        "title_cn": "大多数“停在外面”警告涉及使用内燃机的车辆"
+      },
+      {
+        "title": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
+        "link": "https://cleantechnica.com/2026/08/29/europe-ev-sales-report-bevs-reach-26-market-share/",
+        "pubDate": "Sat, 29 Aug 2026 17:57:49 +0000",
+        "description": "Europe is no longer dependent on one player for the EV revolution. In a month that Tesla was down 36% YoY, BEVs jumped 51% YoY! Thanks to a number of factors (new cheaper models, high gas prices, mass arrival of Chinese models, etc.), BEVs are currently in high demand in ... [continued] The post Eur",
+        "title_cn": "欧洲电动汽车销售报告： BEV市场份额达到26% ！"
+      },
       {
         "title": "MediaEd Insights: Food as Ecomedia Literacy",
         "link": "https://cleantechnica.com/2026/08/29/mediaed-insights-food-as-ecomedia-literacy/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 29 Aug 2026 01:03:28 +0000",
         "description": "I was going to say that one of the craziest things Trump has done as president is cancel billions of dollars of wind power leases and pay off companies to not build wind farms. But then, yeah, it quickly hit me this isn&#8217;t even close to one of the craziest ... [continued] The post California Su",
         "title_cn": "加州起诉特朗普取消荒谬的风力发电计划"
-      },
-      {
-        "title": "Multisensor Data Fusion Optimizes Traffic Flow & Intersection Safety, Delivering Cost & Time Savings",
-        "link": "https://cleantechnica.com/2026/08/28/multisensor-data-fusion-optimizes-traffic-flow-intersection-safety-delivering-cost-time-savings/",
-        "pubDate": "Fri, 28 Aug 2026 23:44:24 +0000",
-        "description": "Digital-Twin Framework Provides Real-Time Visibility Into Traffic Conditions We have all been there: stopped at a red light at an empty intersection or narrowly avoiding a collision after a driver runs a red light. Researchers at the National Laboratory of the Rockies (NLR) are working to reduce suc",
-        "title_cn": "多传感器数据融合优化交通流量和交叉路口安全性，节省成本和时间"
-      },
-      {
-        "title": "As Diesel Prices Surge, Trump Administration Moves to Make Fueling Large Trucks Even More Expensive",
-        "link": "https://cleantechnica.com/2026/08/28/as-diesel-prices-surge-trump-administration-moves-to-make-fueling-large-trucks-even-more-expensive/",
-        "pubDate": "Fri, 28 Aug 2026 23:20:02 +0000",
-        "description": "WASHINGTON, D.C. — Today, the Trump administration finalized a rule setting up a weakening Corporate Average Fuel Economy (CAFE) standards for heavy-duty commercial vehicles. Heavy-duty vehicles are responsible for a significant share of the transportation sector’s pollution. Weakening fuel efficien",
-        "title_cn": "随着柴油价格飙升，特朗普政府采取行动，使加油大型卡车更加昂贵"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 - mpower.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HYm9EZ21jdFF3M0xFeEhjblR0R05QT0RTMjgwdE54eDFqb2dsYXVkR2FlR3BRVXFCWG9nTll5Mk1HZGNJaDJWcjFST3lBcjlESXNiQVY1QkRqQ0NZ?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 23:58:12 GMT",
+        "description": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 &nbsp;&nbsp; mpower.in-en.com"
+      },
       {
         "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - 香港新聞社",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
@@ -205,16 +211,16 @@
         "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 投资界"
       },
       {
-        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
-        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
+        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -223,26 +229,20 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
+        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
-      },
-      {
-        "title": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBROV9ITTNSOS1qZU5BQm1xY3dISi1aVUtNUnNmb3d1bk1OMHVQN2JiMy1QNDdIRE1ZX3QxYjhNaDAxYUhYeFRmdmd2SmtwU1FrRE8tTFdR?oc=5",
-        "pubDate": "Fri, 21 Aug 2026 08:46:18 GMT",
-        "description": "670MW！新加坡再下一城，氢能燃机瞄准2031年投运 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,14 +434,14 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 10:18:41 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tLUI5MHZvaHd6ZEJoZWx2NmRTNXJudFNsVjdPMGR0ajFHOVE5Z1kzUU9xTHMta3I1dXJiOEdYMnA4bVlFN0hCMDE0ajNRTU90WXozMHV3cUY?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 09:08:28 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-29 17:27 UTC"
+    "updated": "2026-08-29 23:47 UTC"
   }
 }
