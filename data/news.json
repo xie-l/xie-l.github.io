@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
+        "link": "https://www.nature.com/articles/d41586-026-02727-7",
+        "pubDate": "2026-08-30",
+        "description": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02727-7 The space observatory will have an expansive view of the Universe as well as sharp resolution.",
+        "title_cn": "升空！美国宇航局发射罗马太空望远镜以解决暗能量之谜"
+      },
+      {
         "title": "Briefing Chat: How Dolly Parton left her mark on science",
         "link": "https://www.nature.com/articles/d41586-026-02732-w",
         "pubDate": "2026-08-28",
@@ -49,25 +56,60 @@
         "pubDate": "2026-08-27",
         "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02628-9 Lecture preparations prompt a scientist to poke holes in the ‘gallium anomaly’.",
         "title_cn": "解决失踪中微子之谜的方法"
-      },
-      {
-        "title": "Animal-microbe partnerships date back to the dawn of complex life",
-        "link": "https://www.nature.com/articles/d41586-026-02629-8",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02629-8 Geochemical clues hint that worm-like creatures in the Ediacaran period benefited from symbiosis with bacteria.",
-        "title_cn": "动物-微生物伙伴关系可以追溯到复杂生命的曙光"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Hyundai Bets Big On Extended-Range Electric Vehicles",
+        "link": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
+        "pubDate": "Sun, 30 Aug 2026 15:46:32 +0000",
+        "description": "EREV &#8212; it means extended-range electric vehicle and it has become a core vehicle category in China due to policy changes in the country in recent years. For many years, auto manufacturers have been building cars with conventional combustion engine powertrains and adding a small electric motor ",
+        "title_cn": "现代在增程电动汽车上下大赌注"
+      },
+      {
+        "title": "Online Army Draws Attention To Elon Musk And The Nepal Flood Disaster",
+        "link": "https://cleantechnica.com/2026/08/30/elon-musk-nepal-flood-disaster-doge-budget-cuts/",
+        "pubDate": "Sun, 30 Aug 2026 15:43:53 +0000",
+        "description": "Tesla CEO Elon Musk's work at the \"DOGE\" budget-cutting office is in the news again, following the devastating flood in Nepal last week. The post Online Army Draws Attention To Elon Musk And The Nepal Flood Disaster appeared first on CleanTechnica .",
+        "title_cn": "在线军队关注埃隆·马斯克和尼泊尔洪水灾难"
+      },
+      {
+        "title": "XPENG Drives Physical AI To Next Level",
+        "link": "https://cleantechnica.com/2026/08/30/xpeng-drives-physical-ai-to-next-level/",
+        "pubDate": "Sun, 30 Aug 2026 14:57:42 +0000",
+        "description": "The next evolution XPENG’s physical AI is beginning to emerge. Announcements over the past week indicate major developments for IRON humanoid robot, VLA 2.0 intelligent driving and the business overall. Many of these developments have not yet been realized in revenue and profits, but are poised to d",
+        "title_cn": "XPENG将物理AI提升到一个新的水平"
+      },
+      {
+        "title": "Stranded Asset, What Happens When A Gas Car Becomes Worth Less Than Zero As Transportation?",
+        "link": "https://cleantechnica.com/2026/08/30/stranded-asset-what-happens-when-a-gas-car-becomes-worth-less-than-zero-as-transportation/",
+        "pubDate": "Sun, 30 Aug 2026 14:34:04 +0000",
+        "description": "In this article, I&#8217;ll make a five-year bet. I&#8217;m not making a claim about your local lot in 2026, but about where we&#8217;ll be in 2031. I think ordinary gasoline and diesel cars in the US will be worth less than the fuel, maintenance, and repairs it takes to keep ... [continued] The pos",
+        "title_cn": "搁浅的资产，当一辆汽油车作为交通工具的价值低于零时会发生什么？"
+      },
+      {
+        "title": "Op-Ed: The World Lost A Stealth Eco-Monarch with the Passing of King Harald V",
+        "link": "https://cleantechnica.com/2026/08/30/op-ed-the-world-lost-a-stealth-eco-monarch-with-the-passing-of-king-harald-v/",
+        "pubDate": "Sun, 30 Aug 2026 14:09:48 +0000",
+        "description": "How Norway championed clean tech without ever breaking constitutional neutrality I just send condolences to my Tita Marita who is a Norwegian on the passing of her king, Harald V of Norway who died on August 28, 2026, at 89. His passing closes a 35-year reign for a monarch remembered ... [continued]",
+        "title_cn": "专栏：随着哈拉尔五世国王的逝世，世界失去了隐形的生态君主"
+      },
+      {
+        "title": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car",
+        "link": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/",
+        "pubDate": "Sun, 30 Aug 2026 12:54:50 +0000",
+        "description": "Bentley is aiming to attract urban drivers with the new Torcal SUV, its first ever 100% electric car produced in-house, sprinkled lavishly with high end pixie dust and peak Bentley-ness. The post Bentley Launches Its Very First &#8212; No, Second &#8212; No, Third &#8212; Electric Car appeared first",
+        "title_cn": "宾利推出首款—不，第二—不，第三—电动汽车"
+      },
       {
         "title": "Poland’s Coal Problem Has Changed",
         "link": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
@@ -81,52 +123,10 @@
         "pubDate": "Sun, 30 Aug 2026 03:35:34 +0000",
         "description": "Plugin vehicle registrations were up 7% year over year (YoY) globally in July, ending the month at around 1.8 million units. Once again, BEVs (+16% YoY) and PHEVs (-11% YoY) are experiencing opposite dynamics, with pure electrics firm in double-digit growth while plugin hybrids remain in deep red (s",
         "title_cn": "全球畅销电动汽车— 7月份电动汽车份额为27% ！"
-      },
-      {
-        "title": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
-        "link": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
-        "pubDate": "Sat, 29 Aug 2026 18:08:44 +0000",
-        "description": "Videos of burning Teslas more than a decade ago may have been the single biggest factor in the anti-EV attitudes of millions of people. They were damned scary, and even those of us who were staunch advocates of the EV revolution were shocked by how violent they were. Blaring headlines ... [continued",
-        "title_cn": "大多数“停在外面”警告涉及使用内燃机的车辆"
-      },
-      {
-        "title": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
-        "link": "https://cleantechnica.com/2026/08/29/europe-ev-sales-report-bevs-reach-26-market-share/",
-        "pubDate": "Sat, 29 Aug 2026 17:57:49 +0000",
-        "description": "Europe is no longer dependent on one player for the EV revolution. In a month that Tesla was down 36% YoY, BEVs jumped 51% YoY! Thanks to a number of factors (new cheaper models, high gas prices, mass arrival of Chinese models, etc.), BEVs are currently in high demand in ... [continued] The post Eur",
-        "title_cn": "欧洲电动汽车销售报告： BEV市场份额达到26% ！"
-      },
-      {
-        "title": "MediaEd Insights: Food as Ecomedia Literacy",
-        "link": "https://cleantechnica.com/2026/08/29/mediaed-insights-food-as-ecomedia-literacy/",
-        "pubDate": "Sat, 29 Aug 2026 15:48:38 +0000",
-        "description": "I have been a fellow of the Media Education Lab (MEL) at the University of Rhode Island for a couple of decades. That means I&#8217;m part of a community of international, national, and regional leaders who promote media literacy. I&#8217;ve run MEL conferences, delivered workshops, co-authored whit",
-        "title_cn": "MediaEd Insights ：食品作为Ecomedia素养"
-      },
-      {
-        "title": "US Army Aims To Capture Energy From “The Environment”",
-        "link": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
-        "pubDate": "Sat, 29 Aug 2026 11:39:19 +0000",
-        "description": "The US startup Chariot Defense is pitching a microgrid that replaces hot, noisy, logistically burdened diesel generators with batteries that scavenge energy from the battlefield. The post US Army Aims To Capture Energy From &#8220;The Environment&#8221; appeared first on CleanTechnica .",
-        "title_cn": "美国陆军的目标是从“环境”中获取能量"
-      },
-      {
-        "title": "Methane Thermolysis Has A Carbon Market Problem",
-        "link": "https://cleantechnica.com/2026/08/29/methane-thermolysis-carbon-market-problem/",
-        "pubDate": "Sat, 29 Aug 2026 06:36:18 +0000",
-        "description": "Methane thermolysis has one of the cleaner propositions in the hydrogen space. The process is also commonly called methane pyrolysis, but I prefer thermolysis. An engineer and founder working in the field pointed out to me that the useful distinction is straightforward: it is heat, not flames, doing",
-        "title_cn": "甲烷热解存在碳市场问题"
-      },
-      {
-        "title": "Vycarb Successfully Stores Low-Purity CO2 In Seawater",
-        "link": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
-        "pubDate": "Sat, 29 Aug 2026 03:57:39 +0000",
-        "description": "Brooklyn-based Vycarb recently reached a significant milestone in storing low-purity CO2 in sea water. This convenient, low-cost solution has the potential to make CCS more affordable and accessible. I recently met with Vycarb CEO and Founder Dr. Garrett Boudinot to see the progress at their Brookly",
-        "title_cn": "Vycarb在海水中成功储存低纯度二氧化碳"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,10 @@
         "description": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 &nbsp;&nbsp; mpower.in-en.com"
       },
       {
-        "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - 香港新聞社",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 18:14:00 GMT",
-        "description": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 &nbsp;&nbsp; 香港新聞社"
+        "title": "倪真拜会湖北省委书记关志鸥 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeFlQdEcyMHg3YVRtc2JQVUpJU2xucmdPYTVCdFBNYWpWTW5TazdCcE9YZzFfTnI0THgxelhEUEVpSTBQd25RLTVKWUpUeERkX2NaMlM2Vl9xRUdVZG53?oc=5",
+        "pubDate": "Thu, 27 Aug 2026 02:39:47 GMT",
+        "description": "倪真拜会湖北省委书记关志鸥 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 投资界",
@@ -223,16 +223,16 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
-        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
-      },
-      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
+        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-30 07:43 UTC"
+    "updated": "2026-08-30 17:51 UTC"
   }
 }
