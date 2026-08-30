@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Poland’s Coal Problem Has Changed",
+        "link": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
+        "pubDate": "Sun, 30 Aug 2026 07:05:33 +0000",
+        "description": "Poland’s coal transition is moving much faster than the country’s reputation suggests. Coal supplied 72.5% of Polish electricity in 2021. By 2025 it was down to 52.7%, while renewables reached 31.4%. Coal supplied less than half of generation in five separate months, and in June renewables generated",
+        "title_cn": "波兰的煤炭问题已经改变"
+      },
+      {
+        "title": "Top Selling Electric Vehicles in the World — 27% EV Share in July!",
+        "link": "https://cleantechnica.com/2026/08/29/top-selling-electric-vehicles-in-the-world-27-ev-share-in-july/",
+        "pubDate": "Sun, 30 Aug 2026 03:35:34 +0000",
+        "description": "Plugin vehicle registrations were up 7% year over year (YoY) globally in July, ending the month at around 1.8 million units. Once again, BEVs (+16% YoY) and PHEVs (-11% YoY) are experiencing opposite dynamics, with pure electrics firm in double-digit growth while plugin hybrids remain in deep red (s",
+        "title_cn": "全球畅销电动汽车— 7月份电动汽车份额为27% ！"
+      },
       {
         "title": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
         "link": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 29 Aug 2026 03:57:39 +0000",
         "description": "Brooklyn-based Vycarb recently reached a significant milestone in storing low-purity CO2 in sea water. This convenient, low-cost solution has the potential to make CCS more affordable and accessible. I recently met with Vycarb CEO and Founder Dr. Garrett Boudinot to see the progress at their Brookly",
         "title_cn": "Vycarb在海水中成功储存低纯度二氧化碳"
-      },
-      {
-        "title": "The Real Electric Aviation Revolution Is Being Strangled To Enrich Don Jr. & Other Trump Associates",
-        "link": "https://cleantechnica.com/2026/08/28/the-real-electric-aviation-revolution-is-being-strangled-to-enrich-don-jr-other-trump-associates/",
-        "pubDate": "Sat, 29 Aug 2026 01:56:45 +0000",
-        "description": "For years, venture capitalists and tech bros have burned through billions of dollars promising us flying electric cars. We have all seen the slick CGI videos of battery-powered air taxis whisking executives over gridlocked highway traffic. Yet, while Silicon Valley was busy chasing vaporware, a quie",
-        "title_cn": "真正的电动航空革命正在被勒死，以丰富小唐&其他特朗普同事"
-      },
-      {
-        "title": "California Sues Trump Over Ridiculous Wind Power Cancellations",
-        "link": "https://cleantechnica.com/2026/08/28/california-sues-trump-over-ridiculous-wind-power-cancellations/",
-        "pubDate": "Sat, 29 Aug 2026 01:03:28 +0000",
-        "description": "I was going to say that one of the craziest things Trump has done as president is cancel billions of dollars of wind power leases and pay off companies to not build wind farms. But then, yeah, it quickly hit me this isn&#8217;t even close to one of the craziest ... [continued] The post California Su",
-        "title_cn": "加州起诉特朗普取消荒谬的风力发电计划"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,6 +211,12 @@
         "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 投资界"
       },
       {
+        "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jRU5OUnlkRVZJaWtYc0Vnd2VXYUhVWVcwcGdUZnYzWVF5N2RvcUlBb0tFbHBTWTF6NmVIWDZhbklUbWZMLUpBb0dvMnc2OUZGVzZaVTJR?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
+        "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -229,12 +235,6 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
-        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,6 +409,12 @@
         "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jRU5OUnlkRVZJaWtYc0Vnd2VXYUhVWVcwcGdUZnYzWVF5N2RvcUlBb0tFbHBTWTF6NmVIWDZhbklUbWZMLUpBb0dvMnc2OUZGVzZaVTJR?oc=5",
+        "pubDate": "Fri, 21 Aug 2026 00:08:00 GMT",
+        "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
+      },
+      {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
         "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
@@ -425,16 +431,10 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSXd2eTVlWjFta3VIVnlrdmhybHpHUnEyVFRpdjdpbUZ4VkQ1Z1RaRTVSdEI4UzFYWFhIT21iSUFWU0tCeWg3SGwzcVZPSnh6eF9PZzhVSjJvMWp4Q3RSYjNn?oc=5",
-        "pubDate": "Tue, 18 Aug 2026 01:32:06 GMT",
-        "description": "重磅！国家发改委 国家能源局：油气与氢氨醇储运体系相融合，实施清洁低碳氢替代 &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-29 23:47 UTC"
+    "updated": "2026-08-30 07:43 UTC"
   }
 }
