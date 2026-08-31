@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
+        "link": "https://www.nature.com/articles/d41586-026-02684-1",
+        "pubDate": "2026-08-30",
+        "description": "Nature, Published online: 30 August 2026; doi:10.1038/d41586-026-02684-1 Spread of diseases between humans and animals is an issue around the world. But AI models can be used to monitor their progress.",
+        "title_cn": "人工智能模型正被用于跟踪人畜共患病。他们会预防下一次大流行吗？"
+      },
+      {
         "title": "Lift-off! NASA launches Roman Space Telescope to tackle dark-energy mysteries",
         "link": "https://www.nature.com/articles/d41586-026-02727-7",
         "pubDate": "2026-08-30",
@@ -49,22 +56,15 @@
         "pubDate": "2026-08-28",
         "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
         "title_cn": "雇主在人工智能时代寻找什么—以及提供它的四种方式"
-      },
-      {
-        "title": "A solution to the mystery of the missing neutrinos",
-        "link": "https://www.nature.com/articles/d41586-026-02628-9",
-        "pubDate": "2026-08-27",
-        "description": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02628-9 Lecture preparations prompt a scientist to poke holes in the ‘gallium anomaly’.",
-        "title_cn": "解决失踪中微子之谜的方法"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,10 +205,10 @@
         "description": "倪真拜会湖北省委书记关志鸥 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 投资界",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91aEQwZTdQQmRrcHFJSXI1Sk5Wb1lVbnZEY2ZuN2ZaWVJmc291WnE1ekZFR2JBX1d1bUppOFUxRm5lZGx5dXcxOFhZeXZlbXFuTzF1eHZLY2o?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 03:15:00 GMT",
-        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 投资界"
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 凤凰网财经",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 凤凰网财经"
       },
       {
         "title": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 - ideacarbon.org",
@@ -229,20 +229,20 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
-        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+      },
+      {
+        "title": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
+        "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "hydrogen": {
     "items": [
@@ -272,115 +272,44 @@
         "link": "https://fuelcellsworks.com/2026/08/26/electrolyzer/ishikawa-and-toyama-firm-test-low-cost-mobile-hydrogen-dispenser-in-kanazawa",
         "pubDate": "Fri, 28 Aug 2026 15:41:33 GMT",
         "description": "",
-        "title_cn": "石川和富山公司在金泽测试低成本移动式加氢机"
+        "title_cn": ""
       },
       {
         "title": "NLR Hydrogen Drone Flies at Airport: A First for Rotterdam the Hague Airport",
         "link": "https://fuelcellsworks.com/2026/08/28/energy-innovation/nlr-hydrogen-drone-flies-at-airport-a-first-for-rotterdam-the-hague-airport",
         "pubDate": "Fri, 28 Aug 2026 15:38:45 GMT",
         "description": "",
-        "title_cn": "NLR氢能无人机在机场飞行：首次飞往鹿特丹海牙机场"
+        "title_cn": ""
       },
       {
         "title": "MHIET Establishes Hydrogen Co-Firing Specifications for the KU Series Gas Engine for Power Generation -- Commencing Proposal Activities for Hydrogen-Capable Solutions Supporting Energy Transition",
         "link": "https://fuelcellsworks.com/2026/08/28/fuel-cells/mhiet-establishes-hydrogen-co-firing-specifications-for-the-ku-series-gas-engine-for-power-generation-commencing-proposal-activities-for-hydrogen-capable-solutions-supporting-energy-transition",
         "pubDate": "Fri, 28 Aug 2026 15:30:44 GMT",
         "description": "",
-        "title_cn": "MHIET为用于发电的KU系列燃气发动机建立氢气共燃规范--开始支持En的氢气解决方案的提案活动"
+        "title_cn": ""
       },
       {
         "title": "China’s Green Hydrogen Hits Grey-Hydrogen Price Parity as Costs Fall to 11.2 Yuan/Kg [$1.67/Kg]",
         "link": "https://fuelcellsworks.com/2026/08/27/h2/china-s-green-hydrogen-hits-grey-hydrogen-price-parity-as-costs-fall-to-11-2-yuan-kg-1-67-kg",
         "pubDate": "Fri, 28 Aug 2026 15:02:38 GMT",
         "description": "",
-        "title_cn": "中国绿色氢气价格降至11.2元/公斤[$ 1.67/公斤]"
+        "title_cn": ""
       },
       {
         "title": "Ballard Closes Acquisition of GeoPura, Becoming an Integrated Hydrogen Energy Solutions Provider",
         "link": "https://fuelcellsworks.com/2026/08/28/hydrogen-economy/ballard-closes-acquisition-of-geopura-becoming-an-integrated-hydrogen-energy-solutions-provider",
         "pubDate": "Fri, 28 Aug 2026 14:53:41 GMT",
         "description": "",
-        "title_cn": "Ballard完成对GeoPura的收购，成为综合氢能解决方案提供商"
+        "title_cn": ""
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Spectral Fingerprints of Gauge Theories on a Quantum Computer",
-        "link": "https://arxiv.org/abs/2608.27457v1",
-        "pubDate": "2026-08-27T17:59:51Z",
-        "description": "Maximally mixed state spectral sampling is an unbiased quantum algorithm that allows for extraction of a finite-resolution spectral distribution from a Hamiltonian over potentially the entire allowed range of energies. We show how it may be focused on any desired area of the spectrum in order to lea",
-        "title_cn": "量子计算机上仪表理论的光谱指纹"
-      },
-      {
-        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-        "link": "https://arxiv.org/abs/2608.27454v1",
-        "pubDate": "2026-08-27T17:59:11Z",
-        "description": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill developme",
-        "title_cn": "维基技能：将代理经验编译为技能进化的持久知识"
-      },
-      {
-        "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-        "link": "https://arxiv.org/abs/2608.27439v1",
-        "pubDate": "2026-08-27T17:55:33Z",
-        "description": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agen",
-        "title_cn": "RedEvoAgent ：经验驱动技能进化的自动红色团队代理"
-      },
-      {
-        "title": "Low-Dimensional Reduction Theory for Populations of Phase Oscillators with a Gaussian Frequency Distribution",
-        "link": "https://arxiv.org/abs/2608.27436v1",
-        "pubDate": "2026-08-27T17:54:34Z",
-        "description": "Low-dimensional reduction theories such as the Ott-Antonsen ansatz have played a crucial role in the study of populations of coupled oscillators. Their application, however, has largely been restricted to systems with frequency distributions of rational-function form, such as the Cauchy distribution",
-        "title_cn": "具有高斯频率分布的相位振荡器群的低维还原理论"
-      },
-      {
-        "title": "Reservoir: A Large-Scale Simulated Dataset for Training and Evaluating Epidemiological Models",
-        "link": "https://arxiv.org/abs/2608.27408v1",
-        "pubDate": "2026-08-27T17:36:46Z",
-        "description": "Large-scale, standardized datasets have driven many advances in AI-based scientific modeling, from protein structure prediction to natural language processing. Infectious disease epidemiology is increasingly adopting AI methods for forecasting, surveillance, and outbreak analytics, but the time-seri",
-        "title_cn": "RESERVOIR ：用于培训和评估流行病学模型的大规模模拟数据集"
-      },
-      {
-        "title": "An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions",
-        "link": "https://arxiv.org/abs/2608.27401v1",
-        "pubDate": "2026-08-27T17:29:35Z",
-        "description": "Many sub-Neptunes are expected to contain long-lived molten silicate interiors beneath dense H2-rich envelopes. At pressures and temperatures near the atmosphere-interior boundary, MgSiO3 and H2 may become fully miscible, forming a supercritical silicate-hydrogen fluid. Here we use density functiona",
-        "title_cn": "亚海王星内部条件下超临界硅酸盐-氢混合物的状态方程"
-      },
-      {
-        "title": "Map of the Interstellar Continuum FUV Field within 800 Parsecs",
-        "link": "https://arxiv.org/abs/2608.27400v1",
-        "pubDate": "2026-08-27T17:29:22Z",
-        "description": "The far-ultraviolet (FUV) field, consisting of photons with energies between 6 and 13.6 electron volts, plays an important role in the chemical and thermodynamical evolution of the interstellar medium. FUV continuum radiation is produced by bright stars in the galaxy and absorbed by interstellar dus",
-        "title_cn": "800 Parsecs内的星际连续FUV场地图"
-      },
-      {
-        "title": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions",
-        "link": "https://arxiv.org/abs/2608.27392v1",
-        "pubDate": "2026-08-27T17:23:14Z",
-        "description": "Camera-derived remote photoplethysmography (rPPG) is commonly validated through endpoint accuracy, but endpoint performance does not establish whether other physiological properties of source contact photoplethysmography (PPG) remain preserved recording by recording. We evaluated property-specific P",
-        "title_cn": "在异质观测条件下，接触PPG到相机rPPG的特定属性可恢复性"
-      },
-      {
-        "title": "Real-Time Emergence of Charge-Transfer-to-Solvent States from Core Excitation",
-        "link": "https://arxiv.org/abs/2608.27385v1",
-        "pubDate": "2026-08-27T17:20:38Z",
-        "description": "Charge-transfer-to-solvent (CTTS) excitations provide a chemically central route to generating hydrated electrons and initiating redox chemistry in solution, yet the earliest stage of CTTS---the formation of the excited state itself---is usually treated as instantaneous. Here we present a time-domai",
-        "title_cn": "核心激发电荷转移到溶剂状态的实时出现"
-      },
-      {
-        "title": "Mobility Enhancement in Si/SiGe Quantum Well Enabled by a Buried Si Layer Trapping Oxygen Impurities",
-        "link": "https://arxiv.org/abs/2608.27377v1",
-        "pubDate": "2026-08-27T17:15:14Z",
-        "description": "Reducing disorder in undoped Si/SiGe field-effect heterostructures remains an important materials challenge for scalable quantum devices, particularly electron spin qubits. Background impurities such as oxygen have been identified as mobility-limiting, yet practical heterostructure-design strategies",
-        "title_cn": "通过掩埋硅层捕获氧杂质实现Si/SiGe量子阱中的迁移率增强"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "policy_nea": {
     "items": [
@@ -421,20 +350,20 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; finance.sina.com.cn"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +404,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 08:44:37 GMT",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-30 17:51 UTC"
+    "updated": "2026-08-31 00:06 UTC"
   }
 }
