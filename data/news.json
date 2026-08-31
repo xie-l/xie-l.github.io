@@ -2,6 +2,41 @@
   "tech": {
     "items": [
       {
+        "title": "Scale of snakebites estimated globally",
+        "link": "https://www.nature.com/articles/d41586-026-02642-x",
+        "pubDate": "2026-08-31",
+        "description": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02642-x Using available data and modelling to assess the incidence of snakebites and associated deaths provides information needed for efforts to tackle this public-health concern.",
+        "title_cn": "全球估计的蛇咬伤规模"
+      },
+      {
+        "title": "What’s your lab’s archetype? The answer could inform how you use AI",
+        "link": "https://www.nature.com/articles/d41586-026-02543-z",
+        "pubDate": "2026-08-31",
+        "description": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02543-z A white paper gives research groups four priority models, each of which uses artificial intelligence differently.",
+        "title_cn": "您的实验室原型是什么？答案可以告诉你如何使用人工智能"
+      },
+      {
+        "title": "Order from disorder: do we need a new law of physics?",
+        "link": "https://www.nature.com/articles/d41586-026-02685-0",
+        "pubDate": "2026-08-31",
+        "description": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02685-0 A radical proposal that evolutionary pressures apply to atoms as much as animals should provoke scientific debate.",
+        "title_cn": "无序的秩序：我们是否需要一个新的物理定律？"
+      },
+      {
+        "title": "The leap second is dead. Long live the leap hour?",
+        "link": "https://www.nature.com/articles/d41586-026-02669-0",
+        "pubDate": "2026-08-31",
+        "description": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02669-0 Fear of a possible ‘negative’ leap second is accelerating plans to abolish the practice.",
+        "title_cn": "闰秒已死。闰年万岁？"
+      },
+      {
+        "title": "Why are rich people so pessimistic? What the numbers say",
+        "link": "https://www.nature.com/articles/d41586-026-02687-y",
+        "pubDate": "2026-08-31",
+        "description": "Nature, Published online: 31 August 2026; doi:10.1038/d41586-026-02687-y Optimism about the future can seem in short supply nowadays, but people’s age, where they live and their expectations have a lot to do with it.",
+        "title_cn": "为什么富人如此悲观？数字怎么说"
+      },
+      {
         "title": "AI models are being used to track zoonotic diseases. Will they prevent the next pandemic?",
         "link": "https://www.nature.com/articles/d41586-026-02684-1",
         "pubDate": "2026-08-30",
@@ -21,53 +56,32 @@
         "pubDate": "2026-08-28",
         "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02732-w Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
         "title_cn": "简报聊天： Dolly Parton如何在科学上留下自己的印记"
-      },
-      {
-        "title": "Mysteries of the deep and AI friendship: Books in brief",
-        "link": "https://www.nature.com/articles/d41586-026-02725-9",
-        "pubDate": "2026-08-28",
-        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02725-9 Andrew Robinson reviews five of the best science picks.",
-        "title_cn": "深度与人工智能友谊之谜：书籍简介"
-      },
-      {
-        "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
-        "link": "https://www.nature.com/articles/d41586-026-02680-5",
-        "pubDate": "2026-08-28",
-        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02680-5 A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
-        "title_cn": "Moderna癌症疫苗带来了希望—现在我们必须加快个性化治疗"
-      },
-      {
-        "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
-        "link": "https://www.nature.com/articles/d41586-026-02688-x",
-        "pubDate": "2026-08-28",
-        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02688-x His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
-        "title_cn": "Heisuke Hironaka讣告：抚平几何复杂性的数学家"
-      },
-      {
-        "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
-        "link": "https://www.nature.com/articles/d41586-026-02733-9",
-        "pubDate": "2026-08-28",
-        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-02733-9 Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
-        "title_cn": "Meta的交易是否会为儿童提供安全的社交媒体？研究人员对此表示怀疑"
-      },
-      {
-        "title": "What employers are looking for in the age of AI — and four ways to provide it",
-        "link": "https://www.nature.com/articles/d41586-026-01913-x",
-        "pubDate": "2026-08-28",
-        "description": "Nature, Published online: 28 August 2026; doi:10.1038/d41586-026-01913-x For applicants whose knowledge of AI stops at the name ChatGPT, Nature spoke to academics, employers and early-career researchers to find out what you need to expand your understanding.",
-        "title_cn": "雇主在人工智能时代寻找什么—以及提供它的四种方式"
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Pssst, Hey There Elon Musk! Twitter Is Coming Back",
+        "link": "https://cleantechnica.com/2026/08/31/elon-musk-twitter-x-operation-bluebird-trademark/",
+        "pubDate": "Mon, 31 Aug 2026 13:02:57 +0000",
+        "description": "The US startup Operation Bluebird has launched a new social media platform under the Twitter name, claiming that Elon Musk's X Corporation abandoned the trademark. The post Pssst, Hey There Elon Musk! Twitter Is Coming Back appeared first on CleanTechnica .",
+        "title_cn": "嘘，你好，伊隆·马斯克！ Twitter即将回归"
+      },
+      {
+        "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
+        "link": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
+        "pubDate": "Mon, 31 Aug 2026 08:25:17 +0000",
+        "description": "Hydrogen occupies an unusually large share of the energy-transition information stream for the amount of physical deployment behind it. Fuel-cell trucks, buses, trains, ships, storage projects, demonstrations and records recur through corporate releases, government announcements, trade publications ",
+        "title_cn": "氢能得到的关注远远超过其部署所证明的"
+      },
       {
         "title": "Hyundai Bets Big On Extended-Range Electric Vehicles",
         "link": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
@@ -100,7 +114,7 @@
         "title": "Op-Ed: The World Lost A Stealth Eco-Monarch with the Passing of King Harald V",
         "link": "https://cleantechnica.com/2026/08/30/op-ed-the-world-lost-a-stealth-eco-monarch-with-the-passing-of-king-harald-v/",
         "pubDate": "Sun, 30 Aug 2026 14:09:48 +0000",
-        "description": "How Norway championed clean tech without ever breaking constitutional neutrality I just send condolences to my Tita Marita who is a Norwegian on the passing of her king, Harald V of Norway who died on August 28, 2026, at 89. His passing closes a 35-year reign for a monarch remembered ... [continued]",
+        "description": "How Norway championed clean tech without ever breaking constitutional neutrality I just sent my condolences to my Tita Marita, a Filipina who is now Norwegian on the passing of her king, Harald V of Norway who died on August 28, 2026, at 89. His passing closes a 35-year reign for ... [continued] The",
         "title_cn": "专栏：随着哈拉尔五世国王的逝世，世界失去了隐形的生态君主"
       },
       {
@@ -108,25 +122,11 @@
         "link": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/",
         "pubDate": "Sun, 30 Aug 2026 12:54:50 +0000",
         "description": "Bentley is aiming to attract urban drivers with the new Torcal SUV, its first ever 100% electric car produced in-house, sprinkled lavishly with high end pixie dust and peak Bentley-ness. The post Bentley Launches Its Very First &#8212; No, Second &#8212; No, Third &#8212; Electric Car appeared first",
-        "title_cn": ""
-      },
-      {
-        "title": "Poland’s Coal Problem Has Changed",
-        "link": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
-        "pubDate": "Sun, 30 Aug 2026 07:05:33 +0000",
-        "description": "Poland’s coal transition is moving much faster than the country’s reputation suggests. Coal supplied 72.5% of Polish electricity in 2021. By 2025 it was down to 52.7%, while renewables reached 31.4%. Coal supplied less than half of generation in five separate months, and in June renewables generated",
-        "title_cn": "波兰的煤炭问题已经改变"
-      },
-      {
-        "title": "Top Selling Electric Vehicles in the World — 27% EV Share in July!",
-        "link": "https://cleantechnica.com/2026/08/29/top-selling-electric-vehicles-in-the-world-27-ev-share-in-july/",
-        "pubDate": "Sun, 30 Aug 2026 03:35:34 +0000",
-        "description": "Plugin vehicle registrations were up 7% year over year (YoY) globally in July, ending the month at around 1.8 million units. Once again, BEVs (+16% YoY) and PHEVs (-11% YoY) are experiencing opposite dynamics, with pure electrics firm in double-digit growth while plugin hybrids remain in deep red (s",
-        "title_cn": "全球畅销电动汽车— 7月份电动汽车份额为27% ！"
+        "title_cn": "宾利推出首款—不，第二—不，第三—电动汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,12 +211,6 @@
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 凤凰网",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
-        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 凤凰网"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -227,6 +221,12 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - finance.ifeng.com",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; finance.ifeng.com"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "papers": {
     "items": [
@@ -355,7 +355,7 @@
         "link": "https://arxiv.org/abs/2608.28538v1",
         "pubDate": "2026-08-28T17:13:07Z",
         "description": "As part of JWST's Exoplanet Grand Tour Survey, we use panchromatic transmission spectroscopy to connect HAT-P-1 b's previously studied optical and near-infrared atmosphere to the longer-wavelength molecular bands accessible with JWST. We present JWST NIRSpec G395H transmission spectroscopy of the ho",
-        "title_cn": ""
+        "title_cn": "更清晰的HAT-P-1 b视图： JWST NIRSpec G395H揭示了水、二氧化碳和可能的硫化氢"
       },
       {
         "title": "Compaction in a deformable porous cylinder with elastic boundaries",
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,16 +445,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -463,10 +463,10 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - mnewenergy.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
         "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; mnewenergy.in-en.com"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-31 07:57 UTC"
+    "updated": "2026-08-31 19:46 UTC"
   }
 }
