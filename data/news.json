@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Ford’s Road to EV Success?",
+        "link": "https://cleantechnica.com/2026/08/31/fords-road-to-ev-success/",
+        "pubDate": "Tue, 01 Sep 2026 00:19:49 +0000",
+        "description": "There&#8217;s almost dead silence on the US market when it comes to electric vehicles (EVs). Republicans in Congress and the White House abandoned almost all support for EVs when they took power, and automakers quickly took the opportunity to shut down big EV programs, end production of various EV m",
+        "title_cn": "福特电动汽车成功之路？"
+      },
+      {
+        "title": "Science, Attribution Studies, & Identifying Climate Criminals",
+        "link": "https://cleantechnica.com/2026/08/31/science-attribution-studies-identifying-climate-criminals/",
+        "pubDate": "Mon, 31 Aug 2026 22:57:01 +0000",
+        "description": "The word &#8220;science,&#8221; according to Wikipedia, is derived from the Latin verb &#8220;scire, meaning &#8216;to know,&#8217; specifically its present participle sciens, meaning &#8216;knowing.'&#8221; The root word scire is also connected to English words like conscience &#8212; shared knowle",
+        "title_cn": "科学、归因研究和识别气候罪犯"
+      },
+      {
+        "title": "Jackery Adds Capability & Expandability To New HomePower 1000 Plus v2 Portable Battery",
+        "link": "https://cleantechnica.com/2026/08/31/jackery-adds-capability-expandability-to-new-homepower-1000-plus-v2/",
+        "pubDate": "Mon, 31 Aug 2026 20:38:02 +0000",
+        "description": "Jackery recently launched the new HomePower 1000 Plus v2, offering greater flexibility and capability for the home, outdoors and worksite while adding expandability to the portable battery. Within the compact case is 1024 kWh of battery storage. However, unlike its predecessor, the new battery also ",
+        "title_cn": "Jackery为全新HomePower 1000 Plus v2便携式电池增加了功能和扩展性"
+      },
       {
         "title": "Pssst, Hey There Elon Musk! Twitter Is Coming Back",
         "link": "https://cleantechnica.com/2026/08/31/elon-musk-twitter-x-operation-bluebird-trademark/",
@@ -102,31 +123,10 @@
         "pubDate": "Sun, 30 Aug 2026 14:57:42 +0000",
         "description": "The next evolution XPENG’s physical AI is beginning to emerge. Announcements over the past week indicate major developments for IRON humanoid robot, VLA 2.0 intelligent driving and the business overall. Many of these developments have not yet been realized in revenue and profits, but are poised to d",
         "title_cn": "XPENG将物理AI提升到一个新的水平"
-      },
-      {
-        "title": "Stranded Asset, What Happens When A Gas Car Becomes Worth Less Than Zero As Transportation?",
-        "link": "https://cleantechnica.com/2026/08/30/stranded-asset-what-happens-when-a-gas-car-becomes-worth-less-than-zero-as-transportation/",
-        "pubDate": "Sun, 30 Aug 2026 14:34:04 +0000",
-        "description": "In this article, I&#8217;ll make a five-year bet. I&#8217;m not making a claim about your local lot in 2026, but about where we&#8217;ll be in 2031. I think ordinary gasoline and diesel cars in the US will be worth less than the fuel, maintenance, and repairs it takes to keep ... [continued] The pos",
-        "title_cn": "搁浅的资产，当一辆汽油车作为交通工具的价值低于零时会发生什么？"
-      },
-      {
-        "title": "Op-Ed: The World Lost A Stealth Eco-Monarch with the Passing of King Harald V",
-        "link": "https://cleantechnica.com/2026/08/30/op-ed-the-world-lost-a-stealth-eco-monarch-with-the-passing-of-king-harald-v/",
-        "pubDate": "Sun, 30 Aug 2026 14:09:48 +0000",
-        "description": "How Norway championed clean tech without ever breaking constitutional neutrality I just sent my condolences to my Tita Marita, a Filipina who is now Norwegian on the passing of her king, Harald V of Norway who died on August 28, 2026, at 89. His passing closes a 35-year reign for ... [continued] The",
-        "title_cn": "专栏：随着哈拉尔五世国王的逝世，世界失去了隐形的生态君主"
-      },
-      {
-        "title": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car",
-        "link": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/",
-        "pubDate": "Sun, 30 Aug 2026 12:54:50 +0000",
-        "description": "Bentley is aiming to attract urban drivers with the new Torcal SUV, its first ever 100% electric car produced in-house, sprinkled lavishly with high end pixie dust and peak Bentley-ness. The post Bentley Launches Its Very First &#8212; No, Second &#8212; No, Third &#8212; Electric Car appeared first",
-        "title_cn": "宾利推出首款—不，第二—不，第三—电动汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,22 +211,16 @@
         "description": "深化氢电协同融合 助力新型能源体系建设——《中国氢能发展报告（2026）》解读 &nbsp;&nbsp; ideacarbon.org"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - finance.ifeng.com",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
-        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; finance.ifeng.com"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcTNxVXhzcElmbEQ2TlZKbXpPNHN5Z2dXUExVb19HX1h3YTlNcmJDNjNSM1psdW1kV0VHZnRvT2hqUzBWTVN4LXlERFBvblRERDh2elRn?oc=5",
         "pubDate": "Tue, 11 Aug 2026 10:04:47 GMT",
         "description": "国氢科技全面贯彻落实国家电投集团2026年年中工作会部署 &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 凤凰网财经",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 凤凰网财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,10 +391,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,34 +445,28 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
+      },
+      {
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - mnewenergy.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; mnewenergy.in-en.com"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
@@ -485,9 +479,15 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-08-31 19:46 UTC"
+    "updated": "2026-09-01 00:55 UTC"
   }
 }
