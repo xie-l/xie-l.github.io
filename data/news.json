@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Moonrider Battery Electric Tractor From GoSun Is Priced At $19,995",
+        "link": "https://cleantechnica.com/2026/09/01/the-moonrider-battery-electric-tractor-from-gosun-is-priced-at-19995/",
+        "pubDate": "Tue, 01 Sep 2026 17:35:21 +0000",
+        "description": "If you happen to be attending the Farm Progress Show in Boone, Iowa, this weekend, stop by Booth VITW2200 to view the Moonrider battery electric tractor from GoSun, a pioneer in solar-powered appliances and portable clean energy solutions. The Moonrider tractor makes it possible for farmers, homeste",
+        "title_cn": "GoSun的Moonrider电动拖拉机售价为$ 19,995"
+      },
       {
         "title": "Solar Power Leaps Key Cost Barrier As Coal And Gas Sidelined (Shocker!)",
         "link": "https://cleantechnica.com/2026/09/01/solar-power-cost-distributed-aligned-climate-capital-fund-us/",
@@ -116,20 +123,20 @@
         "pubDate": "Tue, 01 Sep 2026 02:02:57 +0000",
         "description": "Washington, DC — Reporting today indicates that Donald Trump plans to host oil industry executives at the White House tomorrow, even as the average gas price is over $4 a gallon and Big Oil companies reported $85.2 billion in combined Q2 profits. Much of that windfall came from the surge in oil pric",
         "title_cn": "特朗普将接待大型石油公司的首席执行官，因为天然气平均价格仍在每加仑4 $以上"
-      },
-      {
-        "title": "Most EU Ships Are Being Scrapped in South Asia Despite Sufficient Domestic Recycling Capacity, Confirms New Study",
-        "link": "https://cleantechnica.com/2026/08/31/most-eu-ships-are-being-scrapped-in-south-asia-despite-sufficient-domestic-recycling-capacity-confirms-new-study/",
-        "pubDate": "Tue, 01 Sep 2026 01:49:34 +0000",
-        "description": "Only 5% of EU ships&#8217; tonnage was dismantled in Europe despite the capacity to recycle much more. Vast majority of end-of-life ships are sent for beaching in India, Pakistan, and Bangladesh under poor environmental and safety standards. The vast majority of EU-owned or EU-flagged ships are bein",
-        "title_cn": "新研究证实，尽管国内回收能力充足，但大多数欧盟船舶仍在南亚报废"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Industrializing reactive capture of CO 2",
+        "link": "https://www.nature.com/articles/s41560-026-02113-7",
+        "pubDate": "2026-09-01",
+        "description": "Nature Energy, Published online: 01 September 2026; doi:10.1038/s41560-026-02113-7 Reactive capture of CO2 integrates capture and conversion, bypassing regeneration and potentially simplifying upstream–downstream process integration, but its deployment readiness is unclear. In this Perspective the a",
+        "title_cn": "CO 2的工业化反应捕获"
+      },
       {
         "title": "Heat-driven elastocaloric cooling with shape memory films",
         "link": "https://www.nature.com/articles/s41560-026-02122-6",
@@ -178,17 +185,10 @@
         "pubDate": "2026-08-17",
         "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02114-6 Policy mixes are widely used to accelerate low-carbon transitions, but their effects across different levels are unclear. Here the researchers show that a carbon tax and information intervention additively boost individu",
         "title_cn": "经济和行为政策耦合对个人和系统规模的电动汽车采用有不同的影响"
-      },
-      {
-        "title": "Electronic conductivity of solid electrolytes causes physical self-discharge in all-solid-state batteries",
-        "link": "https://www.nature.com/articles/s41560-026-02090-x",
-        "pubDate": "2026-08-17",
-        "description": "Nature Energy, Published online: 17 August 2026; doi:10.1038/s41560-026-02090-x Physical self-discharge critically limits the lifetime of all-solid-state batteries (ASSBs). Wang et al. showed that the non-negligible electronic conductivity of solid-state electrolytes can lead to substantial physical",
-        "title_cn": "固体电解质的电子导电性导致全固态电池物理自放电"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,16 +451,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
-        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
-      },
-      {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
+        "pubDate": "Wed, 05 Aug 2026 06:05:00 GMT",
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-01 17:30 UTC"
+    "updated": "2026-09-01 23:42 UTC"
   }
 }
