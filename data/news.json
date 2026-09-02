@@ -1,13 +1,70 @@
 {
   "tech": {
-    "items": [],
+    "items": [
+      {
+        "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
+        "link": "https://www.nature.com/articles/s41586-026-11104-3",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11104-3 Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
+        "title_cn": "作者更正：内源性大麻素通过逆行增益控制促进奖励参与"
+      },
+      {
+        "title": "Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
+        "link": "https://www.nature.com/articles/s41586-026-11080-8",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11080-8 Author Correction: Signalling thresholds and negative B-cell selection in acute lymphoblastic leukaemia",
+        "title_cn": "作者更正：急性淋巴细胞白血病的信号阈值和阴性B细胞选择"
+      },
+      {
+        "title": "Retraction Note: Warming accelerates global drought severity",
+        "link": "https://www.nature.com/articles/s41586-026-11027-z",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-11027-z Retraction Note: Warming accelerates global drought severity",
+        "title_cn": "撤回说明：变暖加速了全球干旱的严重程度"
+      },
+      {
+        "title": "Audio long read: Could mending damaged DNA prolong life?",
+        "link": "https://www.nature.com/articles/d41586-026-02762-4",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02762-4 Researchers are hunting for ways to enhance DNA repair with the hopes that this will keep people healthier for longer.",
+        "title_cn": "音频长读：修复受损的DNA可以延长寿命吗？"
+      },
+      {
+        "title": "Functional chimeric mRNAs encode proteins in mammalian immunity",
+        "link": "https://www.nature.com/articles/s41586-026-10982-x",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x Inflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically relevant, functional proteins.",
+        "title_cn": "功能性嵌合mRNA编码哺乳动物免疫中的蛋白质"
+      },
+      {
+        "title": "3D epigenome of glial cell types in developing human cortex",
+        "link": "https://www.nature.com/articles/s41586-026-10987-6",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10987-6 Integrative 3D epigenomic profiling of four glial cell types from the mid-gestation human cortex reveals cell-type-specific regulatory elements and chromatin interactions that illuminate the roles of non-coding variants in n",
+        "title_cn": "发育人皮层中神经胶质细胞类型的3D表观基因组"
+      },
+      {
+        "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
+        "link": "https://www.nature.com/articles/s41586-026-10690-6",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10690-6 Connectomics, electrophysiology and modelling of electric fish neural circuits shows how distributed synaptic plasticity across multiple network layers cooperates to enable fast, accurate and noise-robust sensory learning.",
+        "title_cn": "用于感觉预测的小脑样回路的连接体分析"
+      },
+      {
+        "title": "Designing physics experiments with artificial intelligence",
+        "link": "https://www.nature.com/articles/s41586-026-10898-6",
+        "pubDate": "2026-09-02",
+        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10898-6 Artificial intelligence in physics experimental design is explored on the basis of searching for optima over a vast space of hardware configurations and proposing entirely new experimental layouts, rather than tuning a handf",
+        "title_cn": "用人工智能设计物理实验"
+      }
+    ],
     "source": "Nature",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "energy_intl": {
     "items": [
@@ -69,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "energy": {
     "items": [
@@ -131,21 +188,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUG1tWUx0bnV6YXMyRVhFbHpHUDFNdEw5NGJOSzJHWlVndjd1SHEtRG5oUGUtWm5kZjMtV3NWQjlDM2FOU2xNRjZfZWNUOWtkZTJxYWdlUWdiSW45ZmRFaEtHblM0N0hMY1BqMUhxVFp3aWpldlFya2pDend4M3JLRUdWeElfbU0?oc=5",
+        "pubDate": "Tue, 01 Sep 2026 07:11:00 GMT",
+        "description": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 &nbsp;&nbsp; 新浪财经"
+      },
       {
         "title": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 - mpower.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HYm9EZ21jdFF3M0xFeEhjblR0R05QT0RTMjgwdE54eDFqb2dsYXVkR2FlR3BRVXFCWG9nTll5Mk1HZGNJaDJWcjFST3lBcjlESXNiQVY1QkRqQ0NZ?oc=5",
         "pubDate": "Thu, 27 Aug 2026 23:58:12 GMT",
         "description": "中国能建与湖北省深化合作，共促能源电力与新型储能产业发展 &nbsp;&nbsp; mpower.in-en.com"
-      },
-      {
-        "title": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 - finance.sina.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUG1tWUx0bnV6YXMyRVhFbHpHUDFNdEw5NGJOSzJHWlVndjd1SHEtRG5oUGUtWm5kZjMtV3NWQjlDM2FOU2xNRjZfZWNUOWtkZTJxYWdlUWdiSW45ZmRFaEtHblM0N0hMY1BqMUhxVFp3aWpldlFya2pDend4M3JLRUdWeElfbU0?oc=5",
-        "pubDate": "Tue, 01 Sep 2026 07:11:00 GMT",
-        "description": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 &nbsp;&nbsp; finance.sina.com.cn"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -158,12 +215,6 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "倪真拜会湖北省委书记关志鸥 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeFlQdEcyMHg3YVRtc2JQVUpJU2xucmdPYTVCdFBNYWpWTW5TazdCcE9YZzFfTnI0THgxelhEUEVpSTBQd25RLTVKWUpUeERkX2NaMlM2Vl9xRUdVZG53?oc=5",
-        "pubDate": "Thu, 27 Aug 2026 02:39:47 GMT",
-        "description": "倪真拜会湖北省委书记关志鸥 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
@@ -182,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 凤凰网财经",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xbFhRV3p4TTRLeDR0MmN2a3V5SG0xN2p3cTVTLUxyV2p2OURFaHNCR2tjRE8xV3d6MEt6QmtlQ0dkSWp2UHpQT1M0aXhSWlBz?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 03:31:59 GMT",
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 凤凰网财经"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "papers": {
     "items": [
@@ -323,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "policy_nea": {
     "items": [
@@ -340,16 +397,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - cls.cn",
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; cls.cn"
-      },
-      {
-        "title": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50MWRDNVpWQm5mRXJHMFU1OEZ0U2dtX0JkYTNVSG9qM0NlRkhrM3FOa25oenVGOWl4dFB2cGd4amEyNjI2N0liSHpiZVdBaUNTTWRyNF9GNVQwTHJjMXlv?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 00:56:12 GMT",
-        "description": "开展氢能矿卡规模化替代燃油重卡！《煤炭工业发展“十五五”规划》发布 &nbsp;&nbsp; 碳索氢能网"
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -364,20 +415,26 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - yicai.com",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
-        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; yicai.com"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
-        "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家能源局：将制定氢能“十五五”发展目标任务 - 第一财经",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80anJYZHY4YzdIVzlGaW4tazRZRXNIMVN5cGtmV1NqZlB1VUFtS0V1cUtVUnJNU0RuMEVpT3dJX3g5LUlpOVJqRVNLaE9rUGhZa3lN?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 12:45:08 GMT",
+        "description": "国家能源局：将制定氢能“十五五”发展目标任务 &nbsp;&nbsp; 第一财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -386,6 +443,12 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 10:18:41 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+      },
+      {
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -406,31 +469,25 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "政策催化绿色增长，科创新能源ETF易方达涨1.15% - QQ News",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UbnktUVc3dTBKdURlSEVHOGVkWUJSWGFCcS16WVR3TVlfc2gtZEtpSXRxUWJkNkZoNDY2NGFrSkxYek84SU9iME4tTHQ4Ukx5NXJsVDVB?oc=5",
+        "pubDate": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "description": "政策催化绿色增长，科创新能源ETF易方达涨1.15% &nbsp;&nbsp; QQ News"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-02 11:53 UTC"
+    "updated": "2026-09-02 17:32 UTC"
   }
 }
