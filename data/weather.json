@@ -2,123 +2,172 @@
   "Beijing": {
     "name": "北京",
     "current": {
-      "temp": 29,
-      "icon": "🌡️",
-      "desc": "未知"
+      "temp": 23,
+      "icon": "☀️",
+      "desc": "晴"
     },
     "daily": [
-      {
-        "date": "2026-09-02",
-        "icon": "☀️",
-        "desc": "晴",
-        "max": 32,
-        "min": 19
-      },
       {
         "date": "2026-09-03",
         "icon": "☀️",
         "desc": "晴",
-        "max": 33,
+        "max": 32,
         "min": 21
       },
       {
         "date": "2026-09-04",
         "icon": "☁️",
         "desc": "阴",
+        "max": 33,
+        "min": 22
+      },
+      {
+        "date": "2026-09-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 33,
+        "min": 22
+      },
+      {
+        "date": "2026-09-06",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 31,
+        "min": 22
+      },
+      {
+        "date": "2026-09-07",
+        "icon": "🌦️",
+        "desc": "小雨",
         "max": 32,
-        "min": 21
+        "min": 23
+      },
+      {
+        "date": "2026-09-08",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 26,
+        "min": 19
+      },
+      {
+        "date": "2026-09-09",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 26,
+        "min": 19
       }
     ],
-    "source": "wttr.in (3天)",
-    "updated": "2026-09-02 11:54 UTC"
+    "source": "Open-Meteo",
+    "updated": "2026-09-02 23:45 UTC"
   },
   "Shanghai": {
     "name": "上海",
     "current": {
-      "temp": 25,
-      "icon": "🌦️",
-      "desc": "阵雨"
+      "temp": 28,
+      "icon": "⛅",
+      "desc": "多云"
     },
     "daily": [
       {
-        "date": "2026-09-02",
+        "date": "2026-09-03",
+        "icon": "⛈️",
+        "desc": "雷阵雨",
+        "max": 30,
+        "min": 25
+      },
+      {
+        "date": "2026-09-04",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 31,
+        "min": 26
+      },
+      {
+        "date": "2026-09-05",
         "icon": "🌦️",
         "desc": "小雨",
         "max": 30,
         "min": 25
       },
       {
-        "date": "2026-09-03",
-        "icon": "🌦️",
-        "desc": "阵雨",
-        "max": 28,
+        "date": "2026-09-06",
+        "icon": "🌧️",
+        "desc": "中雨",
+        "max": 30,
         "min": 24
       },
       {
-        "date": "2026-09-04",
-        "icon": "☁️",
-        "desc": "阴",
-        "max": 28,
+        "date": "2026-09-07",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 29,
         "min": 23
+      },
+      {
+        "date": "2026-09-08",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 29,
+        "min": 24
+      },
+      {
+        "date": "2026-09-09",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 27,
+        "min": 25
       }
     ],
-    "source": "wttr.in (3天)",
-    "updated": "2026-09-02 11:54 UTC"
+    "source": "Open-Meteo",
+    "updated": "2026-09-02 23:45 UTC"
   },
   "Nanchang": {
     "name": "南昌",
     "current": {
-      "temp": 21,
+      "temp": 22,
       "icon": "🌦️",
-      "desc": "阵雨"
+      "desc": "小雨"
     },
     "daily": [
-      {
-        "date": "2026-09-02",
-        "icon": "🌦️",
-        "desc": "阵雨",
-        "max": 24,
-        "min": 21
-      },
       {
         "date": "2026-09-03",
         "icon": "🌦️",
         "desc": "小雨",
-        "max": 27,
+        "max": 25,
         "min": 21
       },
       {
         "date": "2026-09-04",
         "icon": "☁️",
         "desc": "阴",
-        "max": 26,
-        "min": 21
+        "max": 27,
+        "min": 22
+      },
+      {
+        "date": "2026-09-05",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 29,
+        "min": 22
       }
     ],
     "source": "wttr.in (3天)",
-    "updated": "2026-09-02 11:54 UTC"
+    "updated": "2026-09-02 23:45 UTC"
   },
   "Xining": {
     "name": "西宁",
     "current": {
-      "temp": 18,
-      "icon": "☀️",
-      "desc": "晴"
+      "temp": 10,
+      "icon": "☁️",
+      "desc": "阴"
     },
     "daily": [
       {
-        "date": "2026-09-02",
-        "icon": "☀️",
-        "desc": "晴",
-        "max": 23,
-        "min": 10
-      },
-      {
         "date": "2026-09-03",
         "icon": "☁️",
-        "desc": "阴",
-        "max": 21,
-        "min": 11
+        "desc": "阴天",
+        "max": 22,
+        "min": 10
       },
       {
         "date": "2026-09-04",
@@ -126,26 +175,26 @@
         "desc": "晴",
         "max": 22,
         "min": 12
+      },
+      {
+        "date": "2026-09-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 23,
+        "min": 11
       }
     ],
     "source": "wttr.in (3天)",
-    "updated": "2026-09-02 11:54 UTC"
+    "updated": "2026-09-02 23:45 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
     "current": {
-      "temp": 17,
+      "temp": 13,
       "icon": "☀️",
       "desc": "晴"
     },
     "daily": [
-      {
-        "date": "2026-09-02",
-        "icon": "🌦️",
-        "desc": "小雨",
-        "max": 21,
-        "min": 14
-      },
       {
         "date": "2026-09-03",
         "icon": "☀️",
@@ -155,41 +204,20 @@
       },
       {
         "date": "2026-09-04",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 24,
-        "min": 13
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 23,
+        "min": 14
       },
       {
         "date": "2026-09-05",
-        "icon": "☁️",
-        "desc": "阴",
+        "icon": "☀️",
+        "desc": "晴",
         "max": 25,
         "min": 15
-      },
-      {
-        "date": "2026-09-06",
-        "icon": "☁️",
-        "desc": "阴",
-        "max": 27,
-        "min": 16
-      },
-      {
-        "date": "2026-09-07",
-        "icon": "🌦️",
-        "desc": "阵雨",
-        "max": 22,
-        "min": 13
-      },
-      {
-        "date": "2026-09-08",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 19,
-        "min": 10
       }
     ],
-    "source": "Open-Meteo",
-    "updated": "2026-09-02 11:54 UTC"
+    "source": "wttr.in (3天)",
+    "updated": "2026-09-02 23:45 UTC"
   }
 }
