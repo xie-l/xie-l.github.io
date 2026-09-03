@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+        "link": "https://www.nature.com/articles/s41586-026-11091-5",
+        "pubDate": "2026-09-03",
+        "description": "Nature, Published online: 03 September 2026; doi:10.1038/s41586-026-11091-5 Ketone homologation via palladium-catalysed decarboxylative rearrangement",
+        "title_cn": "通过钯催化的脱羧重排进行酮同源化"
+      },
+      {
+        "title": "Immune therapy engineered inside the body eases multiple sclerosis",
+        "link": "https://www.nature.com/articles/d41586-026-02765-1",
+        "pubDate": "2026-09-03",
+        "description": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02765-1 Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells.",
+        "title_cn": "体内设计的免疫疗法可缓解多发性硬化症"
+      },
+      {
+        "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
+        "link": "https://www.nature.com/articles/d41586-026-02517-1",
+        "pubDate": "2026-09-03",
+        "description": "Nature, Published online: 03 September 2026; doi:10.1038/d41586-026-02517-1 India, Peru and Vietnam are rolling out policies that limit opportunities for scientists who fall foul of research-integrity guidelines.",
+        "title_cn": "扩大研究计划的国家对渎职行为实施全面处罚"
+      },
+      {
         "title": "Author Correction: Endocannabinoids facilitate reward engagement through retrograde gain control",
         "link": "https://www.nature.com/articles/s41586-026-11104-3",
         "pubDate": "2026-09-02",
@@ -35,39 +56,39 @@
         "pubDate": "2026-09-02",
         "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10982-x Inflammation induces interchromosomal DNA interactions that bring parent genes into close proximity, facilitating the formation of chimeric mRNAs that encode physiologically relevant, functional proteins.",
         "title_cn": "功能性嵌合mRNA编码哺乳动物免疫中的蛋白质"
-      },
-      {
-        "title": "3D epigenome of glial cell types in developing human cortex",
-        "link": "https://www.nature.com/articles/s41586-026-10987-6",
-        "pubDate": "2026-09-02",
-        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10987-6 Integrative 3D epigenomic profiling of four glial cell types from the mid-gestation human cortex reveals cell-type-specific regulatory elements and chromatin interactions that illuminate the roles of non-coding variants in n",
-        "title_cn": "发育人皮层中神经胶质细胞类型的3D表观基因组"
-      },
-      {
-        "title": "Connectome analysis of a cerebellum-like circuit for sensory prediction",
-        "link": "https://www.nature.com/articles/s41586-026-10690-6",
-        "pubDate": "2026-09-02",
-        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10690-6 Connectomics, electrophysiology and modelling of electric fish neural circuits shows how distributed synaptic plasticity across multiple network layers cooperates to enable fast, accurate and noise-robust sensory learning.",
-        "title_cn": "用于感觉预测的小脑样回路的连接体分析"
-      },
-      {
-        "title": "Designing physics experiments with artificial intelligence",
-        "link": "https://www.nature.com/articles/s41586-026-10898-6",
-        "pubDate": "2026-09-02",
-        "description": "Nature, Published online: 02 September 2026; doi:10.1038/s41586-026-10898-6 Artificial intelligence in physics experimental design is explored on the basis of searching for optima over a vast space of hardware configurations and proposing entirely new experimental layouts, rather than tuning a handf",
-        "title_cn": "用人工智能设计物理实验"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "It’s Game On As Ford Fathom Steals Thunder From Tesla Cybercab Launch",
+        "link": "https://cleantechnica.com/2026/09/03/ford-fathom-tesla-cybercab-affordability-public-relations-evs/",
+        "pubDate": "Thu, 03 Sep 2026 15:15:13 +0000",
+        "description": "Ford has touched off a PR war, going all-out to promote its forthcoming Fathom electric pickup truck on the eve of a major Tesla Cybercab event in Texas. The post It&#8217;s Game On As Ford Fathom Steals Thunder From Tesla Cybercab Launch appeared first on CleanTechnica .",
+        "title_cn": "福特Fathom从特斯拉Cybercab发布会上窃取雷霆"
+      },
+      {
+        "title": "Electric Car Batteries Hold Up Really Well — These Are “The Best”",
+        "link": "https://cleantechnica.com/2026/09/03/electric-car-batteries-hold-up-really-well-these-are-the-best/",
+        "pubDate": "Thu, 03 Sep 2026 14:09:04 +0000",
+        "description": "In general, there&#8217;s far more concern about electric car range and electric car battery longevity than there needs to be. We&#8217;ve got a 2019 Tesla Model 3 SR+ and a 2018 BMW i3 REx and just need to charge them up once or twice a week overnight at home. Electric ... [continued] The post Elec",
+        "title_cn": "电动汽车电池非常耐用-这些是“最好的”"
+      },
+      {
+        "title": "Our Food System Is In Trouble, And It’s Time To Change The Language We Use To Describe It",
+        "link": "https://cleantechnica.com/2026/09/03/our-food-system-is-in-trouble-and-its-time-to-change-the-language-we-use-to-describe-it/",
+        "pubDate": "Thu, 03 Sep 2026 11:50:29 +0000",
+        "description": "If you&#8217;ve been following my work recently, you know that I&#8217;ve been celebrating several fine authors who have contributed to a Media Education Lab special issue. The August edition of MediaEd Insights was titled, &#8220;What’s for Dinner? Food as an Ecomedia Literacy.&#8221; The fourth es",
+        "title_cn": "我们的食物系统陷入困境，是时候改变我们用来描述它的语言了"
+      },
       {
         "title": "Could Canada Get Fresh BYDs, Rather Than Leftovers?",
         "link": "https://cleantechnica.com/2026/09/03/could-canada-get-fresh-byds-rather-than-leftovers/",
@@ -102,31 +123,10 @@
         "pubDate": "Thu, 03 Sep 2026 02:46:12 +0000",
         "description": "The Tesla Model Y continues to hold a strong position in EV sales globally and in the US, but a suspension problem has left a bitter taste in the mouths of some Model Y drivers. The post Tesla Model Y Suspension Problems Reported In China&#8230;And Some In US, Too appeared first on CleanTechnica .",
         "title_cn": "中国报告了特斯拉Model Y停产问题……美国也报告了一些问题"
-      },
-      {
-        "title": "Bill Goes Electric with Tesla Model Y Despite Musk",
-        "link": "https://cleantechnica.com/2026/09/02/bill-goes-electric-with-tesla-model-y-despite-musk/",
-        "pubDate": "Thu, 03 Sep 2026 00:47:54 +0000",
-        "description": "After trying other cars in his search for the best electric option, Bill chose a Tesla Model Y despite his antipathy to Elon Musk. Our coffee, cake, and EV mornings always provide good stories of people making the transition from fossil fuels to electric vehicles. We give good experiential informati",
-        "title_cn": "尽管有马斯克，比尔与特斯拉Model Y电动化"
-      },
-      {
-        "title": "Sierra Club Florida Reacts: Vickie Cavey Resigns as JEA Chief Executive Officer",
-        "link": "https://cleantechnica.com/2026/09/02/sierra-club-florida-reacts-vickie-cavey-resigns-as-jea-chief-executive-officer/",
-        "pubDate": "Thu, 03 Sep 2026 00:38:10 +0000",
-        "description": "JACKSONVILLE, Florida — Vickie Cavey has resigned as Chief Executive Officer and Managing Director of Jacksonville Energy Authority (JEA) effective September 25. Serving as CEO since 2024, Cavey first undertook an extended leave of absence in July following intense public scrutiny and investigations",
-        "title_cn": "佛罗里达塞拉俱乐部回应： Vickie Cavey辞去JEA首席执行官一职"
-      },
-      {
-        "title": "Trump Twiddles Thumbs While The Balcony Solar Movement Takes Off",
-        "link": "https://cleantechnica.com/2026/09/02/balcony-solar-movement-grows-us-nine-states-approve-law/",
-        "pubDate": "Thu, 03 Sep 2026 00:35:10 +0000",
-        "description": "Nine US states have now adopted legislation that clears the path for plug-in balcony solar kits, including Utah, Maine, Virginia, Colorado, Maryland, New Hampshire, Connecticut, Vermont, and New Jersey. The post Trump Twiddles Thumbs While The Balcony Solar Movement Takes Off appeared first on Clean",
-        "title_cn": "当阳台太阳能运动起飞时，特朗普挥舞着拇指"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "energy": {
     "items": [
@@ -188,123 +188,74 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "energy_cn": {
-    "items": [
-      {
-        "title": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUG1tWUx0bnV6YXMyRVhFbHpHUDFNdEw5NGJOSzJHWlVndjd1SHEtRG5oUGUtWm5kZjMtV3NWQjlDM2FOU2xNRjZfZWNUOWtkZTJxYWdlUWdiSW45ZmRFaEtHblM0N0hMY1BqMUhxVFp3aWpldlFya2pDend4M3JLRUdWeElfbU0?oc=5",
-        "pubDate": "Tue, 01 Sep 2026 07:11:00 GMT",
-        "description": "能建绿色氢氨新能源（松原）有限公司获20年发电类电力业务许可证，新能源电力业务运营资质落地 &nbsp;&nbsp; 新浪财经"
-      },
-      {
-        "title": "总理：砂2030年目标发电1万兆瓦 加速推动氢能及区域电力共享 - 诗华日报",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kMHFuUWlwZGtyZ0xVZENRWnZwdFNCeEl6Tk1lT3M4SzJMMXRDblZoZ1dwakN5VlBhRG1PcmhlaDRoSVNFYUVEcDFtSU1QZw?oc=5",
-        "pubDate": "Thu, 03 Sep 2026 11:01:22 GMT",
-        "description": "总理：砂2030年目标发电1万兆瓦 加速推动氢能及区域电力共享 &nbsp;&nbsp; 诗华日报"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
-      },
-      {
-        "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEN1Ri16X1R4eEo0SGlFaDUyZHZtSkxRSjd2U0c5X09jRzVMOW1IVHEtTUZLZFZFMFpKbkFpRW1JcGw4dzU0ZHZvRHRtUG5sNEFwSnEyai1XaW5ZN2tDVnVOUGxNYWJWZE5SaTd2STFlQTBJREVpdDB5dTJCWFR4Mg?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "突破电氢协同关键技术 新能源消纳有了新路径 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYam02THdFUi1UUDhuUkY1eE5oWkpvNGlldG5qUkp2NzhXZUtnVGFHZElQX0phYzhmYjQ1clZRVEtWNk82bW5JR3dDOVd5QUNOcndLTXktaTNyMWtEeTBB?oc=5",
-        "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "description": "重磅！绿氢氨醇等非电消费首次纳入考核，可再生能源消费新规出台 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 - hkong.cn",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHUEdMYjdvcVd5OGZYWVpBLXItZHZvUWtfeF9PR1ZUdkdTajRJV0E3QjgzeXhqYXdCdG5TRlRWMml4Uy1pQ3JXWFlGX2JNWFhlYXhWOQ?oc=5",
-        "pubDate": "Wed, 26 Aug 2026 18:14:00 GMT",
-        "description": "全港首个发电厂掺氢发电项目龙鼓滩展开 中电料2028年完成测试 &nbsp;&nbsp; hkong.cn"
-      },
-      {
-        "title": "我国氢能产业处于向规模化迈进的关键阶段 - sinopecnews.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYkJ0MkM5TGhJU25QSVl2dFBJWFpHMmlMY0ZGaFF3R3VpSVRmb1lYYl9MVFVZSUVjVVpPZUR3UDVBYk93REg3aU8wcUFVNkYxdXlWUWV3UUZoYTVmX0p0YXlPWi1Rc1JUdzdDckY0ckJ2ZHhLZTNUaXBuN0NBc0VXSg?oc=5",
-        "pubDate": "Tue, 25 Nov 2025 08:00:00 GMT",
-        "description": "我国氢能产业处于向规模化迈进的关键阶段 &nbsp;&nbsp; sinopecnews.com.cn"
-      }
-    ],
+    "items": [],
     "source": "Google新闻·能源",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Wales & West Utilities Sets Its Sights on Low Emission Hydrogen Vehicles",
-        "link": "https://fuelcellsworks.com/2026/09/02/fuel-cells/wales-and-west-utilities-sets-its-sights-on-low-emission-hydrogen-vehicles",
-        "pubDate": "Wed, 02 Sep 2026 16:04:48 GMT",
+        "title": "University of Valparaíso and Mario Molina Center Join Forces on Green Hydrogen and Zero-Emission Mobility",
+        "link": "https://fuelcellsworks.com/2026/09/03/h2/university-of-valparaiso-and-mario-molina-center-join-forces-on-green-hydrogen-and-zero-emission-mobility",
+        "pubDate": "Thu, 03 Sep 2026 13:48:49 GMT",
         "description": "",
-        "title_cn": "威尔士和西部公用事业公司将目光投向低排放氢车辆"
+        "title_cn": "瓦尔帕莱索大学和马里奥·莫利纳中心携手推进绿色氢能和零排放交通"
       },
       {
-        "title": "Dongfeng Hydrogen-Powered Heavy Trucks Are Accelerating Towards Normalized Commercial Operation.",
-        "link": "https://fuelcellsworks.com/2026/09/01/fuel-cells/dongfeng-hydrogen-powered-heavy-trucks-are-accelerating-towards-normalized-commercial-operation",
-        "pubDate": "Wed, 02 Sep 2026 15:56:19 GMT",
+        "title": "ZeroAvia Leads HyPRIME Project to Demonstrate Hydrogen Infrastructure for the Future of Commercial Aviation",
+        "link": "https://fuelcellsworks.com/2026/09/02/fuel-cells/zeroavia-leads-hyprime-project-to-demonstrate-hydrogen-infrastructure-for-the-future-of-commercial-aviation-c20411946",
+        "pubDate": "Thu, 03 Sep 2026 13:40:53 GMT",
         "description": "",
-        "title_cn": "东风氢动力重型卡车正在加速走向正常化的商业运营。"
+        "title_cn": "ZeroAvia领导HyPRIME项目，为商用航空的未来展示氢基础设施"
       },
       {
-        "title": "KoneCranes Straddle Carrier Outfitted with zepp.solutions Hydrogen System",
-        "link": "https://fuelcellsworks.com/2026/09/02/h2/konecranes-straddle-carrier-outfitted-with-zepp-solutions-hydrogen-system",
-        "pubDate": "Wed, 02 Sep 2026 15:47:50 GMT",
+        "title": "South Korea's Ministry Leaves Clean Hydrogen Import Budgets Unspent for Two Consecutive Years — Industry Pushes Back",
+        "link": "https://fuelcellsworks.com/2026/09/01/h2/south-korea-s-ministry-leaves-clean-hydrogen-import-budgets-unspent-for-two-consecutive-years-industry-pushes-back",
+        "pubDate": "Thu, 03 Sep 2026 13:32:40 GMT",
         "description": "",
-        "title_cn": "KoneCranes跨车配备zepp.solutions氢气系统"
+        "title_cn": "韩国氢气部连续两年未动用清洁氢气进口预算--行业反弹"
       },
       {
-        "title": "SK Innovation E&S and Deokyang Energen Sign MOU to Build Five Combined Hydrogen Refuelling Stations in South Korea",
-        "link": "https://fuelcellsworks.com/2026/09/02/electrolyzer/sk-innovation-e-and-s-and-deokyang-energen-sign-mou-to-build-five-combined-hydrogen-refuelling-stations-in-south-korea",
-        "pubDate": "Wed, 02 Sep 2026 15:30:02 GMT",
+        "title": "Heven AeroTech Launches Multi-Site Manufacturing Network for Hydrogen-Powered UAS with the Opening of First East Coast Facility",
+        "link": "https://fuelcellsworks.com/2026/09/02/fuel-cells/heven-aerotech-launches-multi-site-manufacturing-network-for-hydrogen-powered-uas-with-the-opening-of-first-east-coast-facility",
+        "pubDate": "Thu, 03 Sep 2026 13:22:03 GMT",
         "description": "",
-        "title_cn": "SK Innovation E&S与Deokyang Energen签署在韩国建造五座联合加氢站的谅解备忘录"
+        "title_cn": "Heven AeroTech推出氢动力无人机多站点制造网络，开设首个东海岸工厂"
       },
       {
-        "title": "Brazil Approves NEBRA Hydrogen Research Facility at Parnaíba Export Zone",
-        "link": "https://fuelcellsworks.com/2026/09/01/h2/brazil-approves-nebra-hydrogen-research-facility-at-parnaiba-export-zone",
-        "pubDate": "Wed, 02 Sep 2026 15:18:11 GMT",
+        "title": "EIB Triples Nordic Ren-Gas Financing Framework to €680 Million for Finnish E-Methane Portfolio",
+        "link": "https://fuelcellsworks.com/2026/09/03/h2/eib-triples-nordic-ren-gas-financing-framework-to-680-million-for-finnish-e-methane-portfolio",
+        "pubDate": "Thu, 03 Sep 2026 13:07:55 GMT",
         "description": "",
-        "title_cn": "巴西批准Parnaíba出口区Nebra氢研究设施"
+        "title_cn": "欧洲投资银行将芬兰E-Methane投资组合的北欧Ren-Gas融资框架增加三倍至6.8亿美元（ € ）"
       },
       {
-        "title": "OroCarbo Reserves 12 SYNOCA® C-iC Units From Haffner Energy, Representing Up to €30 Million in Potential Revenue",
-        "link": "https://fuelcellsworks.com/2026/09/02/h2/orocarbo-reserves-12-synoca-c-ic-units-from-haffner-energy-representing-up-to-30-million-in-potential-revenue",
-        "pubDate": "Wed, 02 Sep 2026 15:06:28 GMT",
+        "title": "Industry Leaders to Join Forces to Scale Hydrogen Mobility",
+        "link": "https://fuelcellsworks.com/2026/09/03/fuel-cells/industry-leaders-to-join-forces-to-scale-hydrogen-mobility",
+        "pubDate": "Thu, 03 Sep 2026 12:55:39 GMT",
         "description": "",
-        "title_cn": "OroCarbo从Haffner Energy储备了12个SYNOCA ® C-iC单元，潜在收入高达3000万美元€"
+        "title_cn": "行业领导者将联手扩大氢气流动性"
       },
       {
-        "title": "Korea: Seongnam Council Vice Chair Calls for More Hydrogen Refuelling Stations",
-        "link": "https://fuelcellsworks.com/2026/09/01/fuel-cells/seongnam-council-vice-chair-calls-for-more-hydrogen-refuelling-stations",
-        "pubDate": "Wed, 02 Sep 2026 14:56:54 GMT",
+        "title": "EU Approves Germany's €35 Billion Hydrogen-Ready Gas Power Plant Scheme — First Auction Closes September 8",
+        "link": "https://fuelcellsworks.com/2026/09/02/h2/ceo-gives-a-presentation-at-the-hydrogen-state-of-industry-forum",
+        "pubDate": "Thu, 03 Sep 2026 12:53:19 GMT",
         "description": "",
-        "title_cn": "韩国：城南市议会副主席呼吁增加加氢站数量"
+        "title_cn": "欧盟批准德国350亿欧元的氢能发电厂计划--首次拍卖将于9月8日结束"
       },
       {
-        "title": "Riverside Transit Agency Opens Hydrogen Fuelling Station and Puts First Five Fuel Cell Buses on the Road",
-        "link": "https://fuelcellsworks.com/2026/09/01/electrolyzer/riverside-transit-agency-opens-hydrogen-fuelling-station-and-puts-first-five-fuel-cell-buses-on-the-road",
-        "pubDate": "Wed, 02 Sep 2026 14:48:45 GMT",
+        "title": "Enapter Receives Pilot Order From a US Drone Manufacturer",
+        "link": "https://fuelcellsworks.com/2026/09/03/electrolyzer/enapter-receives-pilot-order-from-a-us-drone-manufacturer",
+        "pubDate": "Thu, 03 Sep 2026 12:33:40 GMT",
         "description": "",
-        "title_cn": "Riverside Transit Agency开设加氢站，首批五辆燃料电池公交车上路"
+        "title_cn": "Enapter收到美国无人机制造商的试点订单"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +331,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,10 +342,10 @@
         "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -421,73 +372,24 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - 中国科技网",
+        "title": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 - stdaily.com",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WkFxWHFkTDB5NFp6T05wemhzRTFuS1YyTExiS0VpRHlzSnRUNE1BWDFzNlRWeG5IaVIxbTRISjlPd1BUY3NHeEVib1FhZFhLWUxlcmtQdUVHNG1NVndhUzZoS3daTGwzdkpPQjQ2Zkg?oc=5",
         "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; 中国科技网"
+        "description": "2026中国氢能展暨国际氢能大会在京举行 院士专家共议“十五五”氢能产业发展新路径 &nbsp;&nbsp; stdaily.com"
       },
       {
-        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnFHYVB6T3lUTHlwMGFuVy1TSzcwR1MyaExuV3pYV0tvX3JTQUpwcWI2UkFGXzE2S2s2Z25YU1Q0NDMzR1hPQ0I3b0pja0hCWlhfUnNPVUJ2d213YW5fVkxZOU0wc2FhSTdGUXNrSjVmT0hDN0ZjSTN5aVExMUp0SkpPSWJwZmEyOWhjSExrOA?oc=5",
-        "pubDate": "Mon, 20 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 21财经"
+        "title": "国家发改委、国家能源局发布《可再生能源发展“十五五”规划》 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03VEhvLXVKZ2dWcXNHVEdMaTE4QU9mM3JaYlJOWUZHLW9WZEJleUxlLVNUTF9CSE05OU9BY011REVvUTVIZXYxR2lqNVZyUEZsYXduUnRRMkxsS28?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局发布《可再生能源发展“十五五”规划》 &nbsp;&nbsp; 能源界"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   },
   "policy_ndrc": {
-    "items": [
-      {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 10:18:41 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - caixin.com",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; caixin.com"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      }
-    ],
+    "items": [],
     "source": "发改委政策",
-    "updated": "2026-09-03 11:52 UTC"
+    "updated": "2026-09-03 17:25 UTC"
   }
 }
