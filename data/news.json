@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Renewable Energy And Storage Solve Massive Grid Problem In US",
+        "link": "https://cleantechnica.com/2026/09/05/renewable-energy-virtual-power-plants-us-texas-octopus/",
+        "pubDate": "Sat, 05 Sep 2026 15:04:15 +0000",
+        "description": "Renewable energy and storage are credited with resolving longstanding grid reliability issues in Texas, even during extreme hot weather. The post Renewable Energy And Storage Solve Massive Grid Problem In US appeared first on CleanTechnica .",
+        "title_cn": "可再生能源和储能解决了美国的大规模电网问题"
+      },
+      {
+        "title": "IFA Berlin Recap Part 1: Diverse Approaches To Sustainability",
+        "link": "https://cleantechnica.com/2026/09/05/ifa-berlin-recap-part-1-diverse-approaches-to-sustainability/",
+        "pubDate": "Sat, 05 Sep 2026 11:08:03 +0000",
+        "description": "IFA Berlin, which stands for “Innovation For All,” is a diverse technology show. There were numerous mobile, entertainment and AI-enabled devices, but there were also a range of clean technology products. On the first day of IFA, I saw several different paths to sustainability. Products from large c",
+        "title_cn": "IFA柏林回顾第1部分：可持续发展的多元化方法"
+      },
       {
         "title": "Hydrogen Learning Curves Are Counting The Wrong Doublings",
         "link": "https://cleantechnica.com/2026/09/05/electrolyzer-learning-rates-plant-scale/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 05 Sep 2026 02:07:11 +0000",
         "description": "Donut Lab revealed its solid-state battery to the world at CES 2026, to the amazement of many and to the dismay of others shocked by their achievement and performance claims. No other company has a practical fully solid-state battery in production as of this writing. Many, like Quantumscape, have tr",
         "title_cn": "甜甜圈实验室揭示了惊人的性能测试"
-      },
-      {
-        "title": "Geely’s BEV Sales Grow 29% in August",
-        "link": "https://cleantechnica.com/2026/09/04/geelys-bev-sales-grow-29-in-august/",
-        "pubDate": "Sat, 05 Sep 2026 00:11:16 +0000",
-        "description": "It hasn&#8217;t been the best of years for electric vehicle sales in China. But it has been the best year by far for Chinese EV sales abroad. It looks like Geely is following that trend. The Chinese automaker, one of the largest in the world, had modest sales growth in ... [continued] The post Geely",
-        "title_cn": "吉利8月BEV销量增长29%"
-      },
-      {
-        "title": "Hyundai Motor Group Partners with Oman to Drive Green Mobility Transition under Oman Vision 2040",
-        "link": "https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/",
-        "pubDate": "Sat, 05 Sep 2026 00:10:18 +0000",
-        "description": "Hyundai Motor Group Signs Historic Partnership Agreements with Oman’s Ministry of Transport, Communications and Information Technology The Group Teams Up with Mwasalat to Launch Oman&#8217;s First Hydrogen City Bus in Muscat Oman Oil Marketing Company and EV Charging Brand EVO Join Forces with the G",
-        "title_cn": "现代汽车集团与阿曼合作，根据阿曼2040年愿景推动绿色出行转型"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -235,76 +235,76 @@
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       },
       {
-        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - 见道网",
+        "title": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 - seetao.com",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wVTRSVDBTZkZqS0RsYWZPRlBTWUV4alowTEJRWlZ0U3lkemtFc2RZTUJ0OVRVWGdBQnFmRTNHY1BZOVpqREppN1JfczdJbS1NUUtyOQ?oc=5",
         "pubDate": "Tue, 25 Aug 2026 00:36:00 GMT",
-        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; 见道网"
+        "description": "中国大唐为阿塞拜疆能源专家办培训，氢能储能技术成重点 &nbsp;&nbsp; seetao.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Listing Transfer of Lhyfe's Shares to the Euronext Growth Paris Market Effective on 8 September 2026",
-        "link": "https://fuelcellsworks.com/2026/09/04/electrolyzer/listing-transfer-of-lhyfe-s-shares-to-the-euronext-growth-paris-market-effective-on-8-september-2026",
-        "pubDate": "Fri, 04 Sep 2026 13:46:20 GMT",
+        "title": "DHL Freight Adds Second Hydrogen Truck in Netherlands — This One in Houten for Trans24",
+        "link": "https://fuelcellsworks.com/2026/08/27/fuel-cells/dhl-freight-adds-second-hydrogen-truck-in-netherlands-this-one-in-houten-for-trans24",
+        "pubDate": "Fri, 04 Sep 2026 16:07:19 GMT",
         "description": "",
-        "title_cn": "于2026年9月8日生效的Lhyfe股份向巴黎泛欧交易所市场的上市转让"
+        "title_cn": "DHL Freight在荷兰新增第二辆氢能卡车--这辆位于Houten的Trans24氢能卡车"
       },
       {
-        "title": "Atawey Joins HyMobility Consortium as Hydrogen Refuelling Station Supplier",
-        "link": "https://fuelcellsworks.com/2026/09/04/fuel-cells/atawey-joins-hymobility-consortium-as-hydrogen-refuelling-station-supplier",
-        "pubDate": "Fri, 04 Sep 2026 13:35:36 GMT",
+        "title": "Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales",
+        "link": "https://fuelcellsworks.com/2026/09/02/h2/essity-invests-2-85-million-in-hydrogen-ready-burners-at-oakenholt-mill-in-north-wales",
+        "pubDate": "Fri, 04 Sep 2026 15:54:06 GMT",
         "description": "",
-        "title_cn": "Atawey加入HyMobility财团，成为加氢站供应商"
+        "title_cn": "Essity在北威尔士的Oakenholt工厂投资285万英镑用于氢气燃烧器"
       },
       {
-        "title": "Stanford Researchers Develop an Improved Method for Producing Sustainable Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/09/04/h2/stanford-researchers-develop-an-improved-method-for-producing-sustainable-hydrogen",
-        "pubDate": "Fri, 04 Sep 2026 13:27:59 GMT",
+        "title": "TU Graz Commissions 1.25MW Hydrogen Engine to Cover University's Base Electricity Load During Trials",
+        "link": "https://fuelcellsworks.com/2026/09/02/electrolyzer/tu-graz-commissions-1-25mw-hydrogen-engine-to-cover-university-s-base-electricity-load-during-trials",
+        "pubDate": "Fri, 04 Sep 2026 15:36:37 GMT",
         "description": "",
-        "title_cn": "斯坦福大学的研究人员开发了一种生产可持续氢气的改进方法"
+        "title_cn": "TU Graz委托1.25 MW氢气发动机在试验期间覆盖大学的基础电力负荷"
       },
       {
-        "title": "Valencia Grants BP €76 Million for New Castellón Hydrogen and Sustainable Fuels Projects",
-        "link": "https://fuelcellsworks.com/2026/09/04/green-hydrogen/valencia-grants-bp-76-million-for-new-castellon-hydrogen-and-sustainable-fuels-projects",
-        "pubDate": "Fri, 04 Sep 2026 13:14:41 GMT",
+        "title": "€1.5M [$1.74M] Grant Backs Research Into Hydrogen Leaks, Ignition and Flame Spread",
+        "link": "https://fuelcellsworks.com/2026/09/03/h2/1-5m-1-74m-grant-backs-research-into-hydrogen-leaks-ignition-and-flame-spread",
+        "pubDate": "Fri, 04 Sep 2026 15:29:34 GMT",
         "description": "",
-        "title_cn": "瓦伦西亚向英国石油公司提供7600万€ ，用于新的卡斯特利翁氢能和可持续燃料项目"
+        "title_cn": "€ 150万[$ 174万]补助支持对氢气泄漏、点火和火焰扩散的研究"
       },
       {
-        "title": "QYResearch Sees Hydrogen Heavy-Truck Market Reaching $28.9Bn by 2032 — but Forecast Figures Conflict",
-        "link": "https://fuelcellsworks.com/2026/09/03/fuel-cells/qyresearch-sees-hydrogen-heavy-truck-market-reaching-28-9bn-by-2032-but-forecast-figures-conflict",
-        "pubDate": "Fri, 04 Sep 2026 13:08:53 GMT",
+        "title": "KBR to Design Nebraska E-NG Project Using 250MW of Renewable Hydrogen Electrolysis",
+        "link": "https://fuelcellsworks.com/2026/09/03/electrolyzer/kbr-to-design-nebraska-e-ng-project-using-250mw-of-renewable-hydrogen-electrolysis",
+        "pubDate": "Fri, 04 Sep 2026 15:12:52 GMT",
         "description": "",
-        "title_cn": "QYResearch认为，到2032年，氢重型卡车市场将达到289亿美元，但预测数字存在冲突"
+        "title_cn": "KBR将使用250MW可再生氢电解设计内布拉斯加E-NG项目"
       },
       {
-        "title": "Uniper Advances 350,000-Tonne Hydrogen Import Terminal After Securing Capacity Reservations",
-        "link": "https://fuelcellsworks.com/2026/09/04/h2/uniper-advances-350-000-tonne-hydrogen-import-terminal-after-securing-capacity-reservations",
-        "pubDate": "Fri, 04 Sep 2026 13:02:28 GMT",
+        "title": "Ansaldo Energia GT36 Gains Hydrogen Readiness Certification as AE94.3A Passes HVO Validation",
+        "link": "https://fuelcellsworks.com/2026/09/01/h2/ansaldo-energia-gt36-gains-hydrogen-readiness-certification-as-ae94-3a-passes-hvo-validation",
+        "pubDate": "Fri, 04 Sep 2026 15:03:05 GMT",
         "description": "",
-        "title_cn": "Uniper在确保产能预订后提前35万吨氢气进口码头"
+        "title_cn": "Ansaldo Energia GT36获得氢气就绪认证， AE94.3A通过HVO验证"
       },
       {
-        "title": "UK Hydrogen Aviation Alliance Warns of Falling Behind — Calls for National Hydrogen Flight Programme",
-        "link": "https://fuelcellsworks.com/2026/09/03/h2/uk-hydrogen-aviation-alliance-warns-of-falling-behind-calls-for-national-hydrogen-flight-programme",
-        "pubDate": "Fri, 04 Sep 2026 12:58:18 GMT",
+        "title": "GenH2 Announced as a Finalist for the Platts Global Energy Awards",
+        "link": "https://fuelcellsworks.com/2026/09/03/h2/genh2-announced-as-a-finalist-for-the-platts-global-energy-awards",
+        "pubDate": "Fri, 04 Sep 2026 14:55:15 GMT",
         "description": "",
-        "title_cn": "英国氢能航空联盟警告落后—呼吁国家氢能飞行计划"
+        "title_cn": "GenH2宣布入围普氏全球能源奖"
       },
       {
-        "title": "Hyundai and Mwasalat to Run Oman's First Hydrogen City Bus on Muscat Routes",
-        "link": "https://fuelcellsworks.com/2026/09/04/fuel-cells/hyundai-puts-oman-s-first-hydrogen-city-bus-on-muscat-public-transit-routes",
-        "pubDate": "Fri, 04 Sep 2026 12:40:13 GMT",
+        "title": "Hydrogen Put to the Test: Ten Years of Research Into Safe Networks",
+        "link": "https://fuelcellsworks.com/2026/09/04/h2/hydrogen-put-to-the-test-ten-years-of-research-into-safe-networks",
+        "pubDate": "Fri, 04 Sep 2026 14:33:55 GMT",
         "description": "",
-        "title_cn": "现代和Mwasalat将在马斯喀特路线上运行阿曼首辆氢能城市巴士"
+        "title_cn": "氢能经受考验：对安全网络的十年研究"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,16 +445,22 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - mnewenergy.in-en.com",
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zdWg3ZjZXTWdvUTUzT2tVOWYwWDBaQlZJTGhOdDFMR2JXYlI3OGhPSXN4LXl1Sk5rd0VLWFNycmw2UTBNVnJBUy1COGl2cG54UV9SdFlFSkxjeGlPV1I2T1l4aXpBRWs5?oc=5",
         "pubDate": "Tue, 11 Aug 2026 01:05:02 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; mnewenergy.in-en.com"
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
@@ -463,22 +469,16 @@
         "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "山西开启绿色能源发展新篇章 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmo3TGF1dVRaZ1Z4UFo3c0l1cG1zSlRydnBNU2RKWG44YUdlQjZhZG9OaVVXalFOMWVYaC1vVllOVFVkUmZzZkxkcGZCdHNUalpTdEdENV9rbl96dkpTcDRHRXY2N3Q1Y0w2WnhqZXlIeS1UaHNEREpGMGN3V09nY2hB?oc=5",
-        "pubDate": "Mon, 22 Sep 2025 07:00:00 GMT",
-        "description": "山西开启绿色能源发展新篇章 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "“绿电直连”风起 高耗能企业迎降本减碳新机 - 21财经",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-05 11:04 UTC"
+    "updated": "2026-09-05 16:26 UTC"
   }
 }
