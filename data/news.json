@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Chinese & US Truckmakers Set To Gain Over A Quarter Of European Electric Truck Market By 2030",
+        "link": "https://cleantechnica.com/2026/09/09/chinese-us-truckmakers-set-to-gain-over-a-quarter-of-european-electric-truck-market-by-2030/",
+        "pubDate": "Wed, 09 Sep 2026 23:07:21 +0000",
+        "description": "T&#38;E warns that maintaining ambition of the truck CO2 standards will be critical to EU manufacturers remaining market leaders European truckmakers must accelerate electrification or risk losing a quarter of the e-truck market to new entrants by 2030, T&#38;E analysis has found. T&#38;E’s analysis",
+        "title_cn": "中国和美国卡车制造商到2030年将占欧洲电动卡车市场的四分之一以上"
+      },
       {
         "title": "Denmark Can Produce 140% Of Its Electricity Demand From Wind Power…So What Happens To The Extra 40%?",
         "link": "https://cleantechnica.com/2026/09/09/wind-power-denmark-energy-islands-us-trump/",
@@ -116,17 +123,10 @@
         "pubDate": "Wed, 09 Sep 2026 01:33:52 +0000",
         "description": "All-electric IONIQ 6 N named Best Electric Performance Car at the 2026 What Car? Electric Car Awards Current TUCSON Plug-in Hybrid named Best Used Hybrid Family SUV Previous-generation SANTA FE named Best Used Hybrid Seven-Seat MPV Awards decided annually by What Car?’s panel of expert testers, reco",
         "title_cn": "现代汽车在2026年荣获三项荣誉What Car?电动汽车大奖"
-      },
-      {
-        "title": "Hyundai Fights Childhood Cancer — But How Much Does It Really?",
-        "link": "https://cleantechnica.com/2026/09/08/hyundai-fights-childhood-cancer-but-how-much-does-it-really/",
-        "pubDate": "Wed, 09 Sep 2026 00:43:07 +0000",
-        "description": "Hyundai had a press release out recently highlighting that it has provided $303 million in lifetime giving via its Hyundai Hope on Wheels nonprofit. The nonprofit is also supported by the brand&#8217;s 855+ US dealers, and the $303 million has been provided across 28 years. One thing in particular t",
-        "title_cn": "现代抗击儿童癌症—但它到底有多少？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "energy_cn": {
     "items": [
@@ -223,10 +223,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
@@ -242,145 +242,74 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Spain Approves 40MW Moreruela II Green Hydrogen Plant",
-        "link": "https://fuelcellsworks.com/2026/09/03/electrolyzer/spain-approves-40mw-moreruela-ii-green-hydrogen-plant-as-water",
-        "pubDate": "Tue, 08 Sep 2026 16:16:48 GMT",
+        "title": "Hydrogen Becomes Grid Backup for Electric Trucks at New €6M [$7.0M] German Refuelling Hub",
+        "link": "https://fuelcellsworks.com/2026/09/05/electrolyzer/hydrogen-becomes-grid-backup-for-electric-trucks-at-new-6m-7-0m-german-refuelling-hub",
+        "pubDate": "Wed, 09 Sep 2026 16:15:13 GMT",
         "description": "",
-        "title_cn": "西班牙批准40MW Moreruela II绿色氢电厂"
+        "title_cn": "Hydrogen在新的600万欧元[700万美元]德国加油中心成为电动卡车的电网备份"
       },
       {
-        "title": "Hydrogen Innovations at Volvo Trucks at IAA Transportation 2026",
-        "link": "https://fuelcellsworks.com/2026/09/07/fuel-cells/hydrogen-innovations-at-volvo-trucks-at-iaa-transportation-2026",
-        "pubDate": "Tue, 08 Sep 2026 16:10:16 GMT",
+        "title": "Moeve and ArcelorMittal Team Up to Put Green Hydrogen to Work in Steelmaking",
+        "link": "https://fuelcellsworks.com/2026/09/09/h2/moeve-and-arcelormittal-team-up-to-put-green-hydrogen-to-work-in-steelmaking",
+        "pubDate": "Wed, 09 Sep 2026 16:03:12 GMT",
         "description": "",
-        "title_cn": "沃尔沃卡车氢能创新亮相IAA Transportation 2026"
+        "title_cn": "Moeve和安赛乐米塔尔携手合作，将绿色氢用于炼钢"
       },
       {
-        "title": "Germany Marks Ten Years of Its Clean-Tech Export Programme — €82 Million Deployed Across 200+ Projects in 97 Countries",
-        "link": "https://fuelcellsworks.com/2026/09/05/fuel-cells/germany-s-clean-tech-export-programme-deploys-82m-95-2m-across-203-projects-in-97-countries",
-        "pubDate": "Tue, 08 Sep 2026 16:02:55 GMT",
+        "title": "Hebei Haiwei Takes Small Stake in Sungrow Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/09/08/h2/hebei-haiwei-takes-small-stake-in-sungrow-hydrogen",
+        "pubDate": "Wed, 09 Sep 2026 15:59:42 GMT",
         "description": "",
-        "title_cn": "德国庆祝其清洁技术出口计划十年—在97个国家的200多个项目中部署了8200万美元€"
+        "title_cn": "河北海威小股权收购Sungrow Hydrogen"
       },
       {
-        "title": "Primary Hydrogen Completes Initial Soil Sampling, Engages Contractors and Sets October 1 Drill Start at Wicheeda North",
-        "link": "https://fuelcellsworks.com/2026/09/08/h2/primary-hydrogen-completes-initial-soil-sampling-engages-contractors-and-sets-october-1-drill-start-at-wicheeda-north",
-        "pubDate": "Tue, 08 Sep 2026 16:01:07 GMT",
+        "title": "Winter Hydrogen Trial at Exeter Airport Strengthens Case for Lower-Carbon Ground Operations",
+        "link": "https://fuelcellsworks.com/2026/09/09/clean-energy/winter-hydrogen-trial-at-exeter-airport-strengthens-case-for-lower-carbon-ground-operations",
+        "pubDate": "Wed, 09 Sep 2026 15:43:00 GMT",
         "description": "",
-        "title_cn": "初级氢气完成初始土壤采样，聘请承包商并于10月1日在Wicheeda North开始钻探"
+        "title_cn": "埃克塞特机场的冬季氢气试验加强了低碳地面运营的理由"
       },
       {
-        "title": "Enagás Takes 31.5% Stake in France's Teréga — H2med Partners Deepen Ties",
-        "link": "https://fuelcellsworks.com/2026/09/06/h2/enagas-takes-31-5-percent-stake-in-france-s-terega-h2med-partners-deepen-ties",
-        "pubDate": "Tue, 08 Sep 2026 15:54:03 GMT",
+        "title": "Germany Researchers Hydrogen Backup Power to Keep Mobile Networks Running Through Multi-Day Blackouts",
+        "link": "https://fuelcellsworks.com/2026/09/07/h2/germany-researchers-hydrogen-backup-power-to-keep-mobile-networks-running-through-multi-day-blackouts",
+        "pubDate": "Wed, 09 Sep 2026 15:24:41 GMT",
         "description": "",
-        "title_cn": "Enagás持有法国Teréga 31.5%的股份- H2med Partners深化关系"
+        "title_cn": "德国研究人员利用氢气备用电源使移动网络在多日停电中保持运行"
       },
       {
-        "title": "Bloom Energy to Join S&P 500",
-        "link": "https://fuelcellsworks.com/2026/09/08/fuel-cells/bloom-energy-to-join-s-and-p-500",
-        "pubDate": "Tue, 08 Sep 2026 15:47:27 GMT",
+        "title": "Dutch Green Hydrogen R&D Included in €661 Million [$769.3 Million] EU Recovery Payment Request",
+        "link": "https://fuelcellsworks.com/2026/09/09/green-investment/dutch-green-hydrogen-r-and-d-included-in-661-million-769-3-million-eu-recovery-payment-request",
+        "pubDate": "Wed, 09 Sep 2026 15:18:05 GMT",
         "description": "",
-        "title_cn": "Bloom Energy将加入标准普尔500指数"
+        "title_cn": "荷兰绿色氢能研发包含在€ 6.61亿[$ 7.693亿]欧盟回收赔付申请中"
       },
       {
-        "title": "SAG Group's Liquid Hydrogen Tank System Receives EU Type Approval for Heavy Trucks",
-        "link": "https://fuelcellsworks.com/2026/09/06/h2/sag-group-s-liquid-hydrogen-tank-system-receives-eu-type-approval-for-heavy-trucks",
-        "pubDate": "Tue, 08 Sep 2026 15:34:36 GMT",
+        "title": "South Africa Heads to Japan to Push Green Hydrogen Production and Export Plans",
+        "link": "https://fuelcellsworks.com/2026/09/09/h2/outh-africa-heads-to-japan-to-push-green-hydrogen-production-and-export-plans",
+        "pubDate": "Wed, 09 Sep 2026 14:51:11 GMT",
         "description": "",
-        "title_cn": "SAG集团的液氢储罐系统获得欧盟重型卡车型式认证"
+        "title_cn": "南非前往日本推动绿色氢气生产和出口计划"
       },
       {
-        "title": "Kevin Hansen and Molly Taylor to Lead Veloce Racing Into FIA Extreme H World Cup",
-        "link": "https://fuelcellsworks.com/2026/09/07/fuel-cells/kevin-hansen-and-molly-taylor-to-lead-veloce-racing-into-fia-extreme-h-world-cup",
-        "pubDate": "Tue, 08 Sep 2026 15:24:28 GMT",
+        "title": "HTWO Guangzhou Files New 4.5-Tonne Fuel Cell Refrigerated Truck in China",
+        "link": "https://fuelcellsworks.com/2026/09/08/fuel-cells/htwo-guangzhou-files-new-4-5-tonne-fuel-cell-refrigerated-truck-in-china",
+        "pubDate": "Wed, 09 Sep 2026 14:44:31 GMT",
         "description": "",
-        "title_cn": "凯文·汉森（ Kevin Hansen ）和莫莉·泰勒（ Molly Taylor ）将带领Veloce参加FIA Extreme H世界杯"
+        "title_cn": "HTWO广州在中国推出4.5吨燃料电池冷藏车"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-        "link": "https://arxiv.org/abs/2609.09153v1",
-        "pubDate": "2026-09-08T17:59:41Z",
-        "description": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which con",
-        "title_cn": "程序图： LLM代理的自我进化执行结构"
-      },
-      {
-        "title": "Green's Functions from Sample-based Krylov Quantum Diagonalization: An Impurity Solver for Dynamical Mean-Field Theory",
-        "link": "https://arxiv.org/abs/2609.09147v1",
-        "pubDate": "2026-09-08T17:59:00Z",
-        "description": "We generalize the sample-based Krylov quantum diagonalization (SKQD) method from ground-state calculations to the evaluation of single-particle Green's functions. By constructing and sampling unitary Krylov subspaces in the N +/- 1 particle-number sectors and evaluating all sector-connecting overlap",
-        "title_cn": "基于样本的克雷洛夫量子对角化的格林函数：动态平均场理论的杂质求解器"
-      },
-      {
-        "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-        "link": "https://arxiv.org/abs/2609.09140v1",
-        "pubDate": "2026-09-08T17:56:13Z",
-        "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI models often struggle to capture the complex, irregular tempor",
-        "title_cn": "诺亚：学习完整的患者之旅。一种用于表示和预测的纵向多模态时间感知模型"
-      },
-      {
-        "title": "Large-scale dynamics of integrable quenches",
-        "link": "https://arxiv.org/abs/2609.09139v1",
-        "pubDate": "2026-09-08T17:56:05Z",
-        "description": "The Ballistic Macroscopic Fluctuation Theory (BMFT) is a path-integral based approach to treat large-scale correlations in interacting integrable systems which, so far, has only been applied to quasi-equilibrium settings. In this paper we extend this approach to integrable quench problems and, to il",
-        "title_cn": "可积淬火的大规模动力学"
-      },
-      {
-        "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-        "link": "https://arxiv.org/abs/2609.09134v1",
-        "pubDate": "2026-09-08T17:53:49Z",
-        "description": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller models to perform well on domain-specific tasks at a fraction of frontier-model cost. S",
-        "title_cn": "共同发展的线束和模型：政策纠正有助于较弱的模型追赶模仿失败的地方"
-      },
-      {
-        "title": "The fading hierarchy of Galactic open clusters",
-        "link": "https://arxiv.org/abs/2609.09122v1",
-        "pubDate": "2026-09-08T17:48:47Z",
-        "description": "Galactic open clusters provide a record of both hierarchical star formation and the subsequent dynamical evolution of the Milky Way disk. We use the two-point correlation function to characterize the spatial and kinematic clustering of open clusters in the solar neighborhood, considering their three",
-        "title_cn": "银河系疏散星团的衰落层次结构"
-      },
-      {
-        "title": "Hydrodynamic attractors",
-        "link": "https://arxiv.org/abs/2609.09114v1",
-        "pubDate": "2026-09-08T17:45:55Z",
-        "description": "Attractors are effective low-dimensional structures, defined in a chosen set of observables, that trajectories from different initial states approach; hydrodynamic attractors are those on which the late-time evolution is governed by hydrodynamic constitutive relations. Motivated by nuclear collision",
-        "title_cn": "流体动力吸引器"
-      },
-      {
-        "title": "Two-Loop Anomalous Dimension for Non-Global and Clustering Logarithms",
-        "link": "https://arxiv.org/abs/2609.09104v1",
-        "pubDate": "2026-09-08T17:41:02Z",
-        "description": "We derive the two-loop anomalous dimension relevant for the resummation of subleading non-global and, for the first time, also clustering logarithms within the framework of effective field theory. Special emphasis is put on the choice of the renormalization scheme. We show that the modified minimal ",
-        "title_cn": "非全局和聚类对数的双回路异常维数"
-      },
-      {
-        "title": "TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization",
-        "link": "https://arxiv.org/abs/2609.09102v1",
-        "pubDate": "2026-09-08T17:40:36Z",
-        "description": "Reconstructing the initial conditions (ICs) of the matter field for an observed volume gives a complete picture of that region's temporal evolution. IC reconstruction is common at low redshifts but largely unexplored during the epoch of reionization (EoR; $z\\gtrsim 5$), partly due to difficulties mo",
-        "title_cn": "TILING I ：再电离时代宇宙学初始条件的场级贝叶斯重建"
-      },
-      {
-        "title": "Ozaki 2.5: Engineering the Deconstruction Path of fp64-Emulated Dense Matrix Multiplication on FP8 Tensor Cores",
-        "link": "https://arxiv.org/abs/2609.09095v1",
-        "pubDate": "2026-09-08T17:38:03Z",
-        "description": "FP8 Ozaki II emulates FP64 matrix multiplication by tensor-core products over a CRT residue system; converting the operands into residue planes (the deconstruction term in the Tensor-Memory Equilibrium model of the companion paper \"FP8 is All You Need, Part 1\") costs integer-pipe and memory resource",
-        "title_cn": "Ozaki 2.5 ：在FP8张量核上设计fp64模拟密集矩阵乘法的解构路径"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,10 +332,10 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
@@ -434,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-09 17:27 UTC"
+    "updated": "2026-09-09 23:43 UTC"
   }
 }
