@@ -2,6 +2,41 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
+        "link": "https://www.nature.com/articles/d41586-026-02893-8",
+        "pubDate": "2026-09-11",
+        "description": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02893-8 Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone.",
+        "title_cn": "简报聊天：本生燃烧器神话原来只是热空气"
+      },
+      {
+        "title": "People trust scientists seen to be 'on their side', UK study find",
+        "link": "https://www.nature.com/articles/d41586-026-02883-w",
+        "pubDate": "2026-09-11",
+        "description": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02883-w Politics and personal values influence people’s confidence in scientists, finds new report",
+        "title_cn": "英国研究发现，人们信任被认为“站在他们一边”的科学家"
+      },
+      {
+        "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
+        "link": "https://www.nature.com/articles/d41586-026-02763-3",
+        "pubDate": "2026-09-11",
+        "description": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02763-3 Evoking emotions is more likely to prompt people to engage with climate efforts than are data alone.",
+        "title_cn": "厄尔尼诺现象迅速传播--科学家们了解是什么让人们关心气候"
+      },
+      {
+        "title": "Successful early-career scientists rely on network of mentors",
+        "link": "https://www.nature.com/articles/d41586-026-02827-4",
+        "pubDate": "2026-09-11",
+        "description": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02827-4 Large networks are particularly beneficial to researchers in under-represented groups.",
+        "title_cn": "成功的早期职业科学家依靠导师网络"
+      },
+      {
+        "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
+        "link": "https://www.nature.com/articles/d41586-026-02828-3",
+        "pubDate": "2026-09-11",
+        "description": "Nature, Published online: 11 September 2026; doi:10.1038/d41586-026-02828-3 Small trial hints at regenerative potential of bone-seeking marrow cells.",
+        "title_cn": "骨质疏松症影响数百万人：改良细胞能否重建骨骼？"
+      },
+      {
         "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
         "link": "https://www.nature.com/articles/s41586-026-11079-1",
         "pubDate": "2026-09-10",
@@ -21,53 +56,53 @@
         "pubDate": "2026-09-10",
         "description": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02809-6 Seismic data pinpoint the collapse of an underwater volcano, and reveal how the eruption triggered a destructive tsunami.",
         "title_cn": "遥远的传感器宣布可怕的海啸诞生"
-      },
-      {
-        "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
-        "link": "https://www.nature.com/articles/d41586-026-02026-1",
-        "pubDate": "2026-09-10",
-        "description": "Nature, Published online: 10 September 2026; doi:10.1038/d41586-026-02026-1 Academics explain that their research freedom beats the increased salary they would get in the corporate sector, but emerging hybrid models might allow them to get the best of both worlds.",
-        "title_cn": "人工智能研究人员估计$ 150万的“学术界税”"
-      },
-      {
-        "title": "Highly efficient base editing at PCSK9 and normal human embryo development",
-        "link": "https://www.nature.com/articles/s41586-026-11118-x",
-        "pubDate": "2026-09-09",
-        "description": "Nature, Published online: 09 September 2026; doi:10.1038/s41586-026-11118-x Highly efficient base editing at PCSK9 and normal human embryo development",
-        "title_cn": "PCSK9和正常人类胚胎发育的高效碱基编辑"
-      },
-      {
-        "title": "Phone tutoring boosts math scores when schools are forced to close",
-        "link": "https://www.nature.com/articles/d41586-026-02843-4",
-        "pubDate": "2026-09-09",
-        "description": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02843-4 Evidence suggests that regular calls can keep kids learning when schooling is disrupted — plus, why a familiar world map may be about to change.",
-        "title_cn": "当学校被迫关闭时，电话辅导可提高数学成绩"
-      },
-      {
-        "title": "How AI is changing PhD programmes: join our free webinar",
-        "link": "https://www.nature.com/articles/d41586-026-02751-7",
-        "pubDate": "2026-09-09",
-        "description": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02751-7 Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it.",
-        "title_cn": "人工智能如何改变博士课程：加入我们的免费网络研讨会"
-      },
-      {
-        "title": "Bacteria recruited to treat cancer",
-        "link": "https://www.nature.com/articles/d41586-026-02823-8",
-        "pubDate": "2026-09-09",
-        "description": "Nature, Published online: 09 September 2026; doi:10.1038/d41586-026-02823-8 Anticancer drugs could be manufactured and delivered by modified microorganisms.",
-        "title_cn": "招募用于治疗癌症的细菌"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla Superchargers For Non-Tesla EVs On The Mass Pike!",
+        "link": "https://cleantechnica.com/2026/09/11/tesla-superchargers-for-non-tesla-evs-on-the-mass-pike/",
+        "pubDate": "Fri, 11 Sep 2026 16:50:21 +0000",
+        "description": "I was wedged between tractor trailers as I held to the extreme right hand lane. Vehicles entered from frequent on-ramps and forced me to make quick lane changes to the left. Road construction narrowed lanes and forced me to merge into oncoming traffic. I veered in and out, around vehicles ... [conti",
+        "title_cn": "适用于大众派克非特斯拉电动汽车的特斯拉增压器！"
+      },
+      {
+        "title": "VICTORY: Court Rules Against Trump’s Michigan Coal Bailout",
+        "link": "https://cleantechnica.com/2026/09/11/victory-court-rules-against-trumps-michigan-coal-bailout/",
+        "pubDate": "Fri, 11 Sep 2026 16:36:24 +0000",
+        "description": "WASHINGTON, D.C. — Today, the U.S. District Circuit Court for the District of Columbia ruled in favor of the Sierra Club, overturning the Department of Energy’s“emergency” order overriding the state’s and utility’s decision to close the J.H. Campbell coal-fired power plant. In May 2025, Trump’s Depa",
+        "title_cn": "胜利：法院对特朗普密歇根州煤炭救助案的裁决"
+      },
+      {
+        "title": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back",
+        "link": "https://cleantechnica.com/2026/09/11/solar-power-us-energy-policy-pacs-elections-2026/",
+        "pubDate": "Fri, 11 Sep 2026 15:26:43 +0000",
+        "description": "Solar power is outpacing all other forms of domestic energy in terms of additions to the US grid despite the political headwinds, and the best is yet to come as new solar materials emerge on the market. The post Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back appeared first on Cl",
+        "title_cn": "太阳能胜过煤炭和天然气，双手被绑在背后"
+      },
+      {
+        "title": "Lynk & Co Chooses Volvo Cars As Exclusive European Distributor",
+        "link": "https://cleantechnica.com/2026/09/11/lynk-co-chooses-volvo-cars-as-exclusive-european-distributor/",
+        "pubDate": "Fri, 11 Sep 2026 14:07:29 +0000",
+        "description": "Lynk &#38; Co is one of those 100% plugin vehicle brands sitting under the giant Geely umbrella. It has had its ups and downs, and it&#8217;s not blazing a rapid, insane path of growth like a few other Chinese EV startups, but it&#8217;s doing alright. A key focus of the ... [continued] The post Lyn",
+        "title_cn": "Lynk & Co选择沃尔沃汽车作为欧洲独家经销商"
+      },
+      {
+        "title": "BLUETTI Launches New Energy Solutions for Work, Home, & Life on the Move at IFA 2026",
+        "link": "https://cleantechnica.com/2026/09/11/bluetti-launches-new-energy-solutions-for-work-home-life-on-the-move-at-ifa-2026/",
+        "pubDate": "Fri, 11 Sep 2026 13:49:33 +0000",
+        "description": "BLUETTI* used IFA 2026 to stretch the idea of power stations in several directions. The BLUETTI IFA 2026 lineup covered balcony solar, home energy management, compact batteries, and a 5,000W jobsite E-Generator, with products for apartments, road trips, outages, and worksites. More interestingly, th",
+        "title_cn": "BLUETTI在IFA 2026上推出适用于工作、家庭和生活的新能源解决方案"
+      },
       {
         "title": "China Aims For 70% Plugin Vehicle Sales By 2030 — Hit 61% In August",
         "link": "https://cleantechnica.com/2026/09/10/china-aims-for-70-plugin-vehicle-sales-by-2030-hit-61-in-august/",
@@ -88,45 +123,10 @@
         "pubDate": "Fri, 11 Sep 2026 02:23:44 +0000",
         "description": "CUMBERLAND CITY, Tennessee — This week, the Southern Environmental Law Center, on behalf of Appalachian Voices and the Sierra Club, sued the Tennessee Valley Authority over the utility’s failure to take federally required steps to protect Middle Tennessee communities from the harmful air pollution i",
         "title_cn": "TVA因其坎伯兰化石厂违反《联邦清洁空气法》而被起诉"
-      },
-      {
-        "title": "Installed Solar Power Now Enough For 50 Million US Homes",
-        "link": "https://cleantechnica.com/2026/09/10/solar-power-now-enough-for-50-million-us-homes/",
-        "pubDate": "Fri, 11 Sep 2026 02:08:18 +0000",
-        "description": "There&#8217;s now enough solar power installed in the United States to power approximately one-third of the homes in the nation. There&#8217;s enough capacity installed to power around 50 million US homes. That&#8217;s according to the latest edition of the US Solar Market Insight report, which is p",
-        "title_cn": ""
-      },
-      {
-        "title": "California’s Landmark Tire Efficiency Standards Are a Win for Consumers, Climate, and Public Health",
-        "link": "https://cleantechnica.com/2026/09/10/californias-landmark-tire-efficiency-standards-are-a-win-for-consumers-climate-and-public-health/",
-        "pubDate": "Fri, 11 Sep 2026 00:26:48 +0000",
-        "description": "The state just adopted the nation’s first efficiency standards for replacement tires. By Beth Hammon, Senior Advocate, EV Infrastructure, Climate &#38; Energy California is demonstrating something increasingly important for climate policy: Reducing pollution and addressing affordability can and shou",
-        "title_cn": "加利福尼亚州具有里程碑意义的轮胎效率标准是消费者、气候和公共卫生的胜利"
-      },
-      {
-        "title": "Volvo Updates the XC40 & EX40 with Longer Range and Updated Aesthetics",
-        "link": "https://cleantechnica.com/2026/09/10/volvo-updates-the-xc40-ex40-with-longer-range-and-updated-aesthetics/",
-        "pubDate": "Thu, 10 Sep 2026 23:59:07 +0000",
-        "description": "Volvo brought us out to London for an early look at the road ahead for the brand. Volvo is updating both the XC40 and the fully electric EX40 with new looks and meaningful updates that keep them fresh and relevant in today&#8217;s chaotic global EV landscape. Disclaimer: Volvo paid for ... [continue",
-        "title_cn": "沃尔沃更新了XC40和EX40 ，具有更长的续航里程和更新的美学"
-      },
-      {
-        "title": "RGGI Is Funding Lower Household Bills as Data Centers Spike Prices",
-        "link": "https://cleantechnica.com/2026/09/10/rggi-is-funding-lower-household-bills-as-data-centers-spike-prices/",
-        "pubDate": "Thu, 10 Sep 2026 22:33:57 +0000",
-        "description": "States are investing in clean energy and lowering electricity bills through the Regional Greenhouse Gas Initiative. Demand for energy is growing in the Northeast and mid-Atlantic, spiking electricity bills and pollution in some states. A recent report confirms that the Regional Greenhouse Gas Initia",
-        "title_cn": "随着数据中心价格飙升， RGGI正在为较低的家庭账单提供资金"
-      },
-      {
-        "title": "The Needle Is Beginning To Move On EVs, But Not Necessarily Because Of Fuel Prices",
-        "link": "https://cleantechnica.com/2026/09/10/ev-sales-us-driver-confidence-public-charging-stations/",
-        "pubDate": "Thu, 10 Sep 2026 15:10:56 +0000",
-        "description": "The new \"HERE-SBD EV Index 2026\" report indicates that rising consumer confidence is a key factor with implications for an EV sales comeback in the US. The post The Needle Is Beginning To Move On EVs, But Not Necessarily Because Of Fuel Prices appeared first on CleanTechnica .",
-        "title_cn": "电动汽车的针头开始移动，但不一定是因为燃油价格"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "energy": {
     "items": [
@@ -156,7 +156,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02132-4",
         "pubDate": "2026-09-10",
         "description": "Nature Energy, Published online: 10 September 2026; doi:10.1038/s41560-026-02132-4 Integrated photovoltaics need design innovation and cross-sector collaboration",
-        "title_cn": ""
+        "title_cn": "集成光伏需要设计创新和跨部门合作"
       },
       {
         "title": "Lithium–disulfur dichloride batteries",
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
+        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZFlDQUNidEt5QjhJcnRwM01OMkpOd1p1Mkh5QUQ5UjF6Q1pwYkNUa0ZDNTJlQ09jTllGWTV0NURCSDR1UW9kUExjc01iM3ZNZUlMdGxYUUlTUHQxVnZR?oc=5",
         "pubDate": "Fri, 04 Sep 2026 01:20:19 GMT",
-        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
+        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -223,10 +223,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+        "title": "含氢能领域！青海省征集能源领域专家库入库专家 - mh2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12a0lFTnY3akZiZWpzbG8wam5Ncnlxd0pLWXpXelZXX296Q1kzMTM0ZzB6M0lsaS0tZGVHTE5XdHk4QUVGY0tTUXBNOWJpcnBDZ0xxSmhR?oc=5",
+        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "description": "含氢能领域！青海省征集能源领域专家库入库专家 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,22 +391,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - 碳索氢能网",
+        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - mh2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcGtJYVhRV19XcFNYWXQ4SVR1WTRXTVdsaEpUVVcwbTFjRXR2SXFPZFdRd0JZeDZNZmVuQWI1aW9KR3hrcVBxTlN6MDVNZ2gzdFJLaGJYd3JfeVM3U3Zhdw?oc=5",
         "pubDate": "Mon, 07 Sep 2026 01:00:43 GMT",
-        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 碳索氢能网"
+        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; mh2.solarbe.com"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
@@ -427,14 +421,20 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - cn-heipa.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; cn-heipa.com"
+      },
+      {
+        "title": "国家能源局召开民营企业座谈会 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISGEzLUxxQXFIejRVZGNxb0d0V2paOGtqVnlHVFp3TmtBc040NE83c09tLWJoc3N0M1NNMEI3RDd3bXo5dDVDRXlhOXdmRlZySXYtSVRwbjZHSzFROFlRZ2RxckZWVkVmNVFnaFVhbVE?oc=5",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,16 +451,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -469,25 +469,25 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
-        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
-        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
+        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-11 11:57 UTC"
+    "updated": "2026-09-11 17:26 UTC"
   }
 }
