@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Integrating Starlink LEO Infrastructure with Zimbabwe’s Terrestrial Fibre Networks",
+        "link": "https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/",
+        "pubDate": "Sat, 12 Sep 2026 15:23:13 +0000",
+        "description": "Conceptualising a twelve-month roadmap for domestic gateway teleports, Q/V band licensing and a Harare Point of Presence. By Willard Shoko The Satellite Evolution: From Mazowe to LEO Constellations Zimbabwe&#8217;s satellite telecommunications journey began following an official state visit to Japan",
+        "title_cn": "将Starlink LEO基础设施与津巴布韦的地面光纤网络集成"
+      },
+      {
+        "title": "Dense-Fluid Pumped Hydro Works. Scaling It Is The Problem.",
+        "link": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
+        "pubDate": "Sat, 12 Sep 2026 13:32:45 +0000",
+        "description": "RheEnergise deserves credit for something a lot of energy-storage startups never accomplish: it built the thing. At Cornwood in Devon, the company constructed upper and lower reservoirs, installed pumps, pipes and generating equipment, manufactured hundreds of cubic metres of its proprietary high-de",
+        "title_cn": "密集流体泵送水利工程。扩展是问题所在。"
+      },
+      {
+        "title": "VinFast PH Opens More Dealers Nearing 60 Dealer Total Before Year Ends",
+        "link": "https://cleantechnica.com/2026/09/12/vinfast-ph-opens-more-dealers-nearing-60-dealer-total-before-year-ends/",
+        "pubDate": "Sat, 12 Sep 2026 11:49:43 +0000",
+        "description": "Vietnam-based electric vehicle manufacturer VinFast has accelerated its market penetration in the Philippines by signing strategic Memoranda of Understanding with 13 major local automotive dealer partners. The agreements pave the way for the establishment of 27 new showrooms nationwide, marking a cr",
+        "title_cn": "VinFast PH在年底前开设更多经销商，总数接近60家经销商"
+      },
       {
         "title": "Philippine University-Developed Electric Tricycles Ready for Commercial Production",
         "link": "https://cleantechnica.com/2026/09/12/philippine-university-developed-electric-tricycles-ready-for-commercial-production/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 12 Sep 2026 02:32:28 +0000",
         "description": "US Energy Secretary Chris Wright claps back at federal judges with yet another coal power plant emergeny order. The post Government Clown Just Can&#8217;t Quit Coal Power appeared first on CleanTechnica .",
         "title_cn": "政府小丑不能放弃煤电"
-      },
-      {
-        "title": "Aberdeen Paid £556k Per Hydrogen Bus. Five Years Later, First Bus Is Paying £30k",
-        "link": "https://cleantechnica.com/2026/09/11/aberdeen-hydrogen-buses-30000-residual-value/",
-        "pubDate": "Sat, 12 Sep 2026 01:07:42 +0000",
-        "description": "Aberdeen’s hydrogen double-deckers have finally produced a useful market price, and it is more revealing than another theoretical argument about fuel-cell efficiency, hydrogen costs or refuelling infrastructure. First Bus is set to buy 23 Wrightbus StreetDeck Hydroliners for £30,000 each. Aberdeen C",
-        "title_cn": "阿伯丁每辆氢气巴士支付£ 556k。五年后，第一辆公交车将支付£ 30k"
-      },
-      {
-        "title": "Finance Beyond the COP: How India Is Rebuilding the Case for Global Climate Finance",
-        "link": "https://cleantechnica.com/2026/09/11/finance-beyond-the-cop-how-india-is-rebuilding-the-case-for-global-climate-finance/",
-        "pubDate": "Sat, 12 Sep 2026 01:03:50 +0000",
-        "description": "As India hosts the BRICS leaders’ summit in September and the world heads to Antalya, Turkey, for COP31, India is making the case for why international climate finance must flow differently. By Dr. Vyoma Jha, India Clean Energy Senior Advocate, International, NRDC The world is going electric. The We",
-        "title_cn": "缔约方大会之外的融资：印度如何重建全球气候融资的理由"
-      },
-      {
-        "title": "New Kind Of Surfer Is Riding Waves — And Producing Power",
-        "link": "https://cleantechnica.com/2026/09/11/new-kind-of-surfer-is-riding-waves-and-producing-power/",
-        "pubDate": "Sat, 12 Sep 2026 00:34:01 +0000",
-        "description": "NLR and University of Hawaii Deploy Wave Energy Device, Capturing and Sharing Data for Marine Energy Industry By Samantha Cuneo, NLR Like a surfer, the Small Underwater Research Flap Wave Energy Converter, or SURF-WEC, rides the ocean&#8217;s waves—but this system converts wave motion into electrici",
-        "title_cn": "新型冲浪者正在冲浪—并产生动力"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Anomalous Dimensions, Matching, and Phenomenology of Dirac Fermionic Dark Matter Effective Interactions",
-        "link": "https://arxiv.org/abs/2609.11914v1",
-        "pubDate": "2026-09-10T17:57:21Z",
-        "description": "We explore a fermionic dark matter (DM) extension of the Standard Model Effective Field Theory (SMEFT) and establish a complete renormalisation-group framework for its phenomenological investigation. We derive the anomalous-dimension matrix of all relevant dimension-five and dimension-six operators ",
-        "title_cn": "狄拉克费米子暗物质有效相互作用的异常尺寸、匹配和现象学"
-      },
-      {
-        "title": "A Multi-Axion Ladder Across Cosmic History: From Inflation, BBN, and Early Dark Energy to Late-Time Accelerated Expansion",
-        "link": "https://arxiv.org/abs/2609.11907v1",
-        "pubDate": "2026-09-10T17:56:27Z",
-        "description": "What if dark energy is recurrent throughout cosmic history? In this picture, episodes of scalar-field dark energy become less surprising and more natural features of cosmic evolution. We construct a homogeneous multi-axion cosmology with a transient contribution during Big Bang nucleosynthesis, two ",
-        "title_cn": "跨越宇宙历史的多轴阶梯：从通货膨胀、BBN和早期暗能量到后期加速扩张"
-      },
-      {
-        "title": "Hierarchical Population Inference with Normalizing Flows for Binary Black Holes",
-        "link": "https://arxiv.org/abs/2609.11885v1",
-        "pubDate": "2026-09-10T17:49:31Z",
-        "description": "Low-dimensional parametric mass models are standard in gravitational-wave population inference, but their rigidity can bias the recovered distribution and the conclusions drawn from it. We present a pipeline in which the source-frame binary-black-hole population in $(z,m_1,m_2)$ is represented by a ",
-        "title_cn": "二进制黑洞归一化流的分层种群推断"
-      },
-      {
-        "title": "Domain-Specific Hallucination Detection in Large Language Models",
-        "link": "https://arxiv.org/abs/2609.11878v1",
-        "pubDate": "2026-09-10T17:45:36Z",
-        "description": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 classification, Monte Carlo (MC) Dropout uncertainty quantification, and temperature-scaled calibration f",
-        "title_cn": "大型语言模型中的领域特异性幻觉检测"
-      },
-      {
-        "title": "UniMPA: A Unified Memory-Prediction-Action Model via Action-Grounded Transition Modeling",
-        "link": "https://arxiv.org/abs/2609.11875v1",
-        "pubDate": "2026-09-10T17:45:03Z",
-        "description": "Recent advances in Vision-Language-Action (VLA) models have improved robotic manipulation, yet observation-to-action learning remains limited by a fundamental transition realizability gap, manifested in three tightly coupled problems: (i) Transition ambiguity. Visually similar current observations m",
-        "title_cn": "UniMPA ：基于动作接地过渡建模的统一内存预测动作模型"
-      },
-      {
-        "title": "Every subset of a topological Ramsey space is Ramsey in the Solovay model",
-        "link": "https://arxiv.org/abs/2609.11866v1",
-        "pubDate": "2026-09-10T17:42:06Z",
-        "description": "We provide a proof, free of ultrafilters and almost reduction, that every subset of a topological Ramsey space is Ramsey in the Solovay model.",
-        "title_cn": "拓扑Ramsey空间的每个子集都是Solovay模型中的Ramsey"
-      },
-      {
-        "title": "The cost of simulating classically tractable quantum circuits and dynamics",
-        "link": "https://arxiv.org/abs/2609.11847v1",
-        "pubDate": "2026-09-10T17:34:39Z",
-        "description": "Determining whether a quantum evolution can be efficiently simulated classically is central to understanding the boundary between classical and quantum computation. However, polynomial-time simulability is an asymptotic statement, and does not by itself determine whether the (quantum-inspired) class",
-        "title_cn": "模拟经典易处理量子电路和动力学的成本"
-      },
-      {
-        "title": "Coupling periodic-cell and finite-bunch dynamics for structured photocathodes",
-        "link": "https://arxiv.org/abs/2609.11844v1",
-        "pubDate": "2026-09-10T17:32:59Z",
-        "description": "Patterning a photocathode with submicrometre features can enhance nonlinear photoemission by concentrating the optical field, but the surface geometry can also increase the transverse momentum spread of the emitted electrons. Resolving nanoscale surface fields across an injector-scale illuminated ar",
-        "title_cn": "结构光电阴极的耦合周期电池和有限束动力学"
-      },
-      {
-        "title": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
-        "link": "https://arxiv.org/abs/2609.11842v1",
-        "pubDate": "2026-09-10T17:30:44Z",
-        "description": "Diffusion and flow-matching schedules control the signal and noise coefficients that mix data and noise along affine probability paths. Minimizing a kinetic action defined on coefficient paths, motivated by optimal transport, helps explain strong baselines but remains model-agnostic and ignores pred",
-        "title_cn": "模型感知调度通过光纤优化传输改进生成"
-      },
-      {
-        "title": "Free-Probabilistic State Evolution and Random Matrix Discrepancy",
-        "link": "https://arxiv.org/abs/2609.11836v1",
-        "pubDate": "2026-09-10T17:28:09Z",
-        "description": "Let $A_1,\\ldots,A_n$ be independent $d \\times d$ real symmetric Gaussian random matrices, and consider the linear operator $A(x) = n^{-1/2}\\sum_{i=1}^n x_i A_i$, $x\\in \\mathbb{R}^n$. We construct an iterative algorithm in the Approximate Message Passing family which iterates over $A$ and its adjoint",
-        "title_cn": "自由概率状态演化和随机矩阵差异"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "policy_nea": {
     "items": [
@@ -401,12 +330,6 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
-      },
-      {
-        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
-        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
-        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
         "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
@@ -431,10 +354,16 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
         "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局召开民营企业座谈会 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISGEzLUxxQXFIejRVZGNxb0d0V2paOGtqVnlHVFp3TmtBc040NE83c09tLWJoc3N0M1NNMEI3RDd3bXo5dDVDRXlhOXdmRlZySXYtSVRwbjZHSzFROFlRZ2RxckZWVkVmNVFnaFVhbVE?oc=5",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,16 +380,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
-      },
-      {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -469,25 +398,25 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - mnewenergy.in-en.com",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
         "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
-        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; mnewenergy.in-en.com"
+        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-12 11:24 UTC"
+    "updated": "2026-09-12 16:39 UTC"
   }
 }
