@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "IFA Berlin Recap Part 2: More Diverse Sustainability Approaches",
+        "link": "https://cleantechnica.com/2026/09/12/ifa-berlin-recap-part-2-more-diverse-sustainability-approaches/",
+        "pubDate": "Sat, 12 Sep 2026 21:16:36 +0000",
+        "description": "Earlier this week, IFA Berlin wrapped up. If there was a consistent theme around clean technology, it was that sustainability is not just one thing, but a diverse range of approaches. Some of the innovations that we focus on in the US have become routine in Germany. Although I had ... [continued] Th",
+        "title_cn": "IFA柏林回顾第2部分：更多样化的可持续发展方法"
+      },
+      {
+        "title": "US District Court Strips Away Insane JH Campbell Fake Emergency Order",
+        "link": "https://cleantechnica.com/2026/09/12/us-district-court-strips-away-insane-jh-campbell-fake-emergency-order/",
+        "pubDate": "Sat, 12 Sep 2026 19:41:36 +0000",
+        "description": "The J.H. Campbell generating station first went into service in 1962. It is located in West Olive, Michigan in the western part of the state, just a few miles from the shores of Lake Donald Lake Michigan. At its peak, it supplied 1,420 MW of coal fired electricity from three separate ... [continued]",
+        "title_cn": "美国地方法院撤销疯狂的JH Campbell假紧急命令"
+      },
       {
         "title": "Integrating Starlink LEO Infrastructure with Zimbabwe’s Terrestrial Fibre Networks",
         "link": "https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 12 Sep 2026 09:40:06 +0000",
         "description": "MANILA, Philippines — SAIC Motor-backed MG Motor Philippines expanded its local electric vehicle lineup late last month with the official launch of the S5 EV, a rear-wheel-drive compact crossover aimed squarely at the country&#8217;s growing battery-electric vehicle market. The debut, held at the Tr",
         "title_cn": "MG Motors Philippines推出新款电动汽车"
-      },
-      {
-        "title": "The Electric Vehicles Leading Their Categories in California",
-        "link": "https://cleantechnica.com/2026/09/11/the-electric-vehicles-leading-their-categories-in-california/",
-        "pubDate": "Sat, 12 Sep 2026 03:50:33 +0000",
-        "description": "Electric vehicles have seen a real drop-off of sales across the US this year, including in California, the main EV market in the country by far. Whereas in previous quarters and years electric vehicle models were peppered across the top 5 of numerous vehicle categories — even topping a few ... [cont",
-        "title_cn": "电动汽车在加利福尼亚州占据主导地位"
-      },
-      {
-        "title": "Government Clown Just Can’t Quit Coal Power",
-        "link": "https://cleantechnica.com/2026/09/11/government-clown-just-cant-quit-coal-power/",
-        "pubDate": "Sat, 12 Sep 2026 02:32:28 +0000",
-        "description": "US Energy Secretary Chris Wright claps back at federal judges with yet another coal power plant emergeny order. The post Government Clown Just Can&#8217;t Quit Coal Power appeared first on CleanTechnica .",
-        "title_cn": "政府小丑不能放弃煤电"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,10 +205,10 @@
         "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "policy_nea": {
     "items": [
@@ -330,6 +330,12 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "2026中国氢能展暨国际氢能大会开幕 - ceic.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObWRIRVVnVTdzX0dNMUltRGNQa2lHeC1PbHg1dkJmZjFHUXBsYjdtdF8yUEVPZlVudDB4WjdEa2lvS3pzYkE1VmdubHNueEp4NjU4eEF2ZG9sc3JyaXpmOHpnb0hnbFhmUHZoSW5yRXFPRk9XaGdmdHRNdFpmX285OWxBYVpjSnNCMDdfMHN3?oc=5",
+        "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+        "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
         "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
@@ -354,16 +360,10 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
         "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "国家能源局召开民营企业座谈会 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISGEzLUxxQXFIejRVZGNxb0d0V2paOGtqVnlHVFp3TmtBc040NE83c09tLWJoc3N0M1NNMEI3RDd3bXo5dDVDRXlhOXdmRlZySXYtSVRwbjZHSzFROFlRZ2RxckZWVkVmNVFnaFVhbVE?oc=5",
-        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 中国能源新闻网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -380,28 +380,22 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
@@ -414,9 +408,15 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-12 16:39 UTC"
+    "updated": "2026-09-12 23:38 UTC"
   }
 }
