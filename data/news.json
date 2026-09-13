@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Trump’s Geothermal Energy Time Bomb Is About To Explode",
+        "link": "https://cleantechnica.com/2026/09/13/geothermal-energy-threatens-us-coal-industry/",
+        "pubDate": "Sun, 13 Sep 2026 18:06:31 +0000",
+        "description": "Geothermal energy has emerged as another up-and-coming existential threat to the US coal industry, with support from the Trump administration. The post Trump&#8217;s Geothermal Energy Time Bomb Is About To Explode appeared first on CleanTechnica .",
+        "title_cn": "特朗普地热能定时炸弹即将爆炸"
+      },
       {
         "title": "ARES’ Nevada Demonstrator Shows Why Rail Gravity Storage Is A Train Wreck",
         "link": "https://cleantechnica.com/2026/09/13/rail-gravity-storage-a-train-wreck/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 12 Sep 2026 15:23:13 +0000",
         "description": "Conceptualising a twelve-month roadmap for domestic gateway teleports, Q/V band licensing and a Harare Point of Presence. By Willard Shoko The Satellite Evolution: From Mazowe to LEO Constellations Zimbabwe&#8217;s satellite telecommunications journey began following an official state visit to Japan",
         "title_cn": "将Starlink LEO基础设施与津巴布韦的地面光纤网络集成"
-      },
-      {
-        "title": "Dense-Fluid Pumped Hydro Works. Scaling It Is The Problem.",
-        "link": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
-        "pubDate": "Sat, 12 Sep 2026 13:32:45 +0000",
-        "description": "RheEnergise deserves credit for something a lot of energy-storage startups never accomplish: it built the thing. At Cornwood in Devon, the company constructed upper and lower reservoirs, installed pumps, pipes and generating equipment, manufactured hundreds of cubic metres of its proprietary high-de",
-        "title_cn": "密集流体泵送水利工程。扩展是问题所在。"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "policy_nea": {
     "items": [
@@ -363,15 +363,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "绿电消费纳入建材企业申报门槛释放多重政策信号 - 新浪网",
+        "title": "绿电消费纳入建材企业申报门槛释放多重政策信号 - k.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa19XMHlXM3liVk5VTXQtTmRKazBxQ2U4RHpIcWxZSGFuOWNlTmJiU01DRGQzZ1ZDcFM1eDVlMzMtR0R0Ri0zOW9KNmRyVUR3RWpGM3ZIWWpaRzRmZTFTZzBoMUpfUWlDVkVHbkwtUGpmMlhZNzJyMGRZVkRQNmRvTVVzeXlVQjFQZ3lsVmxua3J5aEVraXY4WF92X01OZGRSVC15NF9qQm9QTFZ4NXdHMUpxYWNMdWV1cy1KZ3hnRGdxU0VkNEZRcGM5dFBuX05qcy1DenJXY2dUalVfcTMwc014MUcwZw?oc=5",
         "pubDate": "Wed, 09 Sep 2026 05:43:33 GMT",
-        "description": "绿电消费纳入建材企业申报门槛释放多重政策信号 &nbsp;&nbsp; 新浪网"
+        "description": "绿电消费纳入建材企业申报门槛释放多重政策信号 &nbsp;&nbsp; k.sina.com.cn"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -386,10 +386,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -404,19 +404,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNbERNWnF3ZlZCYzF3bko5LUtsdVM4MUowODJBUHIyRU9hLTIzNVB2enlVM091MnRZdTJOM19MdFV4QmdhSG9KaTYwTnQwbFdmbDNkQXA5ekdWSlFzQ3laZmttMUJfS01D?oc=5",
-        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
-        "description": "福建绿电直连规定！风光项目需纳入建设方案，暂不支持离网型绿电直连项目 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbTdlc3ZNYWxMZVJNYThrRU5nTm5nbWZzZmZCblFUXy1qYWdfQUd2OGcyYWtYcjhQOGtET2o5YWZPQWV6TnVhX1lWR2xzV0RGTEhSVDJzS3ZnMzNrOVdYdnV3?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-13 17:09 UTC"
+    "updated": "2026-09-13 23:49 UTC"
   }
 }
