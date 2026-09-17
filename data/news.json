@@ -59,15 +59,50 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Building Waymo’s Risk & Insurance Foundation in Europe with Allianz Partners",
+        "link": "https://cleantechnica.com/2026/09/16/building-waymos-risk-insurance-foundation-in-europe-with-allianz-partners/",
+        "pubDate": "Thu, 17 Sep 2026 03:40:49 +0000",
+        "description": "Over years of operating a commercial rider-only service across the U.S. — serving more than half a million paid trips weekly — we have learned that bringing autonomous driving technology to new regions requires building a robust ecosystem of trusted, local partners. As we look toward our commercial ",
+        "title_cn": "与Allianz Partners一起在欧洲建立Waymo的风险与保险基金会"
+      },
+      {
+        "title": "Trump Administration Further Guts Endangered Species Act Implementation With Two New Rules",
+        "link": "https://cleantechnica.com/2026/09/16/trump-administration-further-guts-endangered-species-act-implementation-with-two-new-rules-2/",
+        "pubDate": "Thu, 17 Sep 2026 02:39:49 +0000",
+        "description": "WASHINGTON, D.C. — The Trump administration is finalizing two new regulations that will undermine the implementation of federal protections for wildlife under the Endangered Species Act (ESA), the nation’s cornerstone conservation law. One rule rescinds the longstanding blanket 4(d) rule, ending the",
+        "title_cn": "特朗普政府通过两项新规则进一步实施《濒危物种法》"
+      },
+      {
+        "title": "Sierra Club Strongly Opposes Bill to Give Legal Immunity to Fossil Fuel Companies",
+        "link": "https://cleantechnica.com/2026/09/16/sierra-club-strongly-opposes-bill-to-give-legal-immunity-to-fossil-fuel-companies/",
+        "pubDate": "Thu, 17 Sep 2026 02:18:39 +0000",
+        "description": "Washington, DC — Today, the U.S. House Judiciary Committee will markup H.R. 8330, a bill that would shield fossil fuel companies from laws or lawsuits that would hold them accountable for their role in the climate crisis and related disasters. Fossil fuel corporations knew they were causing climate ",
+        "title_cn": "塞拉俱乐部强烈反对给予化石燃料公司法律豁免权的法案"
+      },
+      {
+        "title": "Solar Energy Industries Association to Combine with Coalition for Community Solar Access, Strengthening Advocacy for Entire Solar & Storage Industry Across the Country",
+        "link": "https://cleantechnica.com/2026/09/16/solar-energy-industries-association-to-combine-with-coalition-for-community-solar-access-strengthening-advocacy-for-entire-solar-storage-industry-across-the-country/",
+        "pubDate": "Thu, 17 Sep 2026 02:11:49 +0000",
+        "description": "WASHINGTON D.C. — The Solar Energy Industries Association (SEIA) and Coalition for Community Solar Access (CCSA) today announced that the two organizations will combine following approval from each organization’s Boards of Directors. Effective in early October, CCSA will integrate its team, resource",
+        "title_cn": "太阳能行业协会将与社区太阳能接入联盟合并，加强全国整个太阳能和储能行业的宣传"
+      },
+      {
+        "title": "Reckless Expansion Plans Blow Past European Airports Carbon Limits",
+        "link": "https://cleantechnica.com/2026/09/16/reckless-expansion-plans-blow-past-european-airports-carbon-limits/",
+        "pubDate": "Thu, 17 Sep 2026 01:23:43 +0000",
+        "description": "A new T&#38;E study finds expansions across twenty of Europe&#8217;s largest airports overshoot the 1.7 °C emissions budget by up to three times Planned expansions at twenty of Europe’s largest airports are incompatible with national climate targets and global warming limits. According to new resear",
+        "title_cn": "鲁莽的扩张计划打击了欧洲机场的碳排放限制"
+      },
       {
         "title": "Most Americans Now Thinking About Electric Cars, Thanks To High Gas Prices",
         "link": "https://cleantechnica.com/2026/09/16/most-americans-now-thinking-about-electric-cars-thanks-to-high-gas-prices/",
@@ -88,45 +123,10 @@
         "pubDate": "Wed, 16 Sep 2026 15:54:44 +0000",
         "description": "This week, CleanTechnica has been covering news about commercial trucks at the annual IAA Transportation trade show in Hannover, Germany. Our first story focused on the latest battery electric heavy duty tractors being offered by various manufacturers as well as a look at battery powered delivery va",
         "title_cn": "德国IAA运输展的好消息和坏消息"
-      },
-      {
-        "title": "600 More Curbside EV Charging Stations For New York City",
-        "link": "https://cleantechnica.com/2026/09/16/curbside-ev-charging-new-york-city-news/",
-        "pubDate": "Wed, 16 Sep 2026 14:09:21 +0000",
-        "description": "Curbside EV charging is expanding in New York City, with the aim of adding 600 new Level 2 stations to the city's existing roster of just 88 Level 2 curbside stations. The post 600 More Curbside EV Charging Stations For New York City appeared first on CleanTechnica .",
-        "title_cn": "纽约市600多个路边电动汽车充电站"
-      },
-      {
-        "title": "Europe’s Electric Backbone",
-        "link": "https://cleantechnica.com/2026/09/16/europes-electric-backbone/",
-        "pubDate": "Wed, 16 Sep 2026 14:07:50 +0000",
-        "description": "A strategy for the future of batteries Batteries are the backbone of Europe’s future energy system, its industrial base and its defence readiness. Europe is embedding them across systems at record pace while producing almost none of the key inputs. All of that is supported by public money. This pape",
-        "title_cn": "欧洲电力骨干"
-      },
-      {
-        "title": "Why Allowing “e-HEFA” to Count Towards the ReFuelEU e-SAF Mandate Would Be a Strategic Mistake",
-        "link": "https://cleantechnica.com/2026/09/16/why-allowing-e-hefa-to-count-towards-the-refueleu-e-saf-mandate-would-be-a-strategic-mistake/",
-        "pubDate": "Wed, 16 Sep 2026 14:02:10 +0000",
-        "description": "Under the ReFuelEU regulation, jet fuel suppliers face a dedicated sub-mandate requiring a growing share of synthetic aviation fuel (e-SAF), i.e. SAF produced from green hydrogen combined with captured CO2, starting in 2030. Despite this obligation being known for years, most fuel suppliers have not",
-        "title_cn": "为什么允许“e-HEFA”计入ReFuelEU e-SAF任务将是一个战略错误"
-      },
-      {
-        "title": "Safeguarding the Integrity of EU Synthetic Fuels Targets under ReFuelEU Aviation & FuelEU Maritime",
-        "link": "https://cleantechnica.com/2026/09/16/safeguarding-the-integrity-of-eu-synthetic-fuels-targets-under-refueleu-aviation-fueleu-maritime/",
-        "pubDate": "Wed, 16 Sep 2026 13:53:52 +0000",
-        "description": "Director-General Céline Gauer , DG ENER Director Lukasz Kolinski, DG ENER Head of Unit Kitti Nyitrai, DG ENER Director-General Magda Kopczynska, DG MOVE Director-General Kurt Vandenberghe, DG CLIMA Member State Expert Group on Renewable Fuels We, the undersigned, are writing to express our concern r",
-        "title_cn": "根据ReFuelEU航空和FuelEU海运保障欧盟合成燃料目标的完整性"
-      },
-      {
-        "title": "ActionAid Report Argues For Cancelling Debt In Climate-Vulnerable Countries",
-        "link": "https://cleantechnica.com/2026/09/16/actionaid-report-argues-for-cancelling-debt-in-climate-vulnerable-countries/",
-        "pubDate": "Wed, 16 Sep 2026 13:33:13 +0000",
-        "description": "All too often, climate-vulnerable countries find themselves tangled with opposing tensions. Sovereign debt invites a country&#8217;s growth, but the inherent burden blocks their ability to take important climate action. That conundrum has been revealed in a new report from ActionAid, alongside a ser",
-        "title_cn": "援助行动组织报告主张取消气候脆弱国家的债务"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "energy_cn": {
     "items": [
@@ -197,12 +197,6 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yWTFQUGdsT0xNOElxbzFmNngzS1ppcFJ4Tm5mWW9PQU1PeElKdE5yS0JKN05GOTJ4YUdSY3JQdWdqS3pOb2RDSzYwUTRHdw?oc=5",
         "pubDate": "Mon, 14 Sep 2026 03:15:00 GMT",
         "description": "将氢能产业打造为经济发展新动能 &nbsp;&nbsp; 川观新闻"
-      },
-      {
-        "title": "现代汽车集团提出电动汽车补充战略 建议长途运输使用氢能 - 汽车之家",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UzlkS182RUo4YlpHMUJsN2s4a1plVUVjNzVXX2NjUTQybDZlQnpkeHJod0xueHViUlkzSUh3eGpGLTZGV2puOXJvQWlsek9LQ0g1VFI1Y09XRzg?oc=5",
-        "pubDate": "Wed, 16 Sep 2026 06:47:22 GMT",
-        "description": "现代汽车集团提出电动汽车补充战略 建议长途运输使用氢能 &nbsp;&nbsp; 汽车之家"
       },
       {
         "title": "国家电投董事长刘明胜：未来产业布局绿色氢基能源排首位！ - 世纪新能源网",
@@ -215,6 +209,12 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94NnFkNmtxdjN6UEdMamhjbklJNmtkTS10YXN1ajEycEhabXhWOXV5TjV2bmpYd0hmQThmeEp3Mm5RQTZxbTRrM0lTYmtySXd0V3o4VA?oc=5",
         "pubDate": "Fri, 11 Sep 2026 08:59:38 GMT",
         "description": "国家能源局公示12项氢能技术装备！涉及中国石化、国网、大唐、华电、国家能源集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "现代汽车集团提出电动汽车补充战略 建议长途运输使用氢能 - 汽车之家",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UzlkS182RUo4YlpHMUJsN2s4a1plVUVjNzVXX2NjUTQybDZlQnpkeHJod0xueHViUlkzSUh3eGpGLTZGV2puOXJvQWlsek9LQ0g1VFI1Y09XRzg?oc=5",
+        "pubDate": "Wed, 16 Sep 2026 06:47:22 GMT",
+        "description": "现代汽车集团提出电动汽车补充战略 建议长途运输使用氢能 &nbsp;&nbsp; 汽车之家"
       },
       {
         "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
@@ -235,14 +235,14 @@
         "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       },
       {
-        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - tech.china.com",
+        "title": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11SkVIQ2lwd0doZ1BaTjlxREpLWkUteGxxY0RBdm03ZUVVa3I3M00xR19mVFhXT2U5ZkNzV00zbmhrY19WYzB4dEptV1lUU0ZodzdFTGNFZ0pONU85YlpQa1R3Vlp6VUpYQ0dMay1zcGw?oc=5",
         "pubDate": "Tue, 25 Aug 2026 02:59:41 GMT",
-        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; tech.china.com"
+        "description": "新型电力系统建设“十五五”规划发布 浩运固态储氢助力“电-氢-电”氢储能 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "policy_nea": {
     "items": [
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -374,16 +374,16 @@
         "description": "绿电消费纳入建材企业申报门槛释放多重政策信号 &nbsp;&nbsp; 手机新浪网"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - news.hubeidaily.net",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; news.hubeidaily.net"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -398,10 +398,10 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-16 23:59 UTC"
+    "updated": "2026-09-17 06:58 UTC"
   }
 }
