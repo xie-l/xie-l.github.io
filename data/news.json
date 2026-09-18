@@ -9,6 +9,13 @@
         "title_cn": "认知弹性有助于预测阿尔茨海默氏痴呆"
       },
       {
+        "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+        "link": "https://www.nature.com/articles/d41586-026-02945-z",
+        "pubDate": "2026-09-18",
+        "description": "Nature, Published online: 18 September 2026; doi:10.1038/d41586-026-02945-z Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS).",
+        "title_cn": "首次用于RNA治疗：罕见运动神经元疾病患者在治疗后有所改善"
+      },
+      {
         "title": "Chinese companies doubled down on science after US tech restrictions",
         "link": "https://www.nature.com/articles/d41586-026-02946-y",
         "pubDate": "2026-09-18",
@@ -49,22 +56,15 @@
         "pubDate": "2026-09-17",
         "description": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02621-2 Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place – but it’s too early to draw definitive conclusions.",
         "title_cn": "独家：图坦卡蒙坟墓外隐藏房间的新证据"
-      },
-      {
-        "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
-        "link": "https://www.nature.com/articles/d41586-026-02911-9",
-        "pubDate": "2026-09-17",
-        "description": "Nature, Published online: 17 September 2026; doi:10.1038/d41586-026-02911-9 Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision.",
-        "title_cn": "冒险还是谨慎行事？神经元拔河有助于大脑决定"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "energy": {
     "items": [
@@ -188,27 +188,27 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "中国工业新闻网 - 中国工业新闻网",
+        "title": "新能源电力创新学院举办名师导学系列活动 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWU1kN3FYek9jWXJ6aS1qYlp0WGJrTVo5VE8zUXpoRllWcndCbjlnQkw5cHRNUGtSSV8wVjYxa193cmpONmVGb2RQTTJrUkluNGlnUDBYLVF5T251UWNObDEzQUR6S1JYX2liVC1LOW40bmlNMEE?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 07:53:58 GMT",
+        "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
+        "title": "中国工业新闻网 - cinn.cn",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45bWtwQnA2c2tTUElJTHVmYTZjYUVMV0h6TWxzUXVtWGJsOVRxWXl0alJCbllBdjMyeHQwOE5mNjQ4WmRpdS1LTlRDRFU3bjFMUDVnSHlBUEpOZ00?oc=5",
         "pubDate": "Wed, 16 Sep 2026 15:46:00 GMT",
-        "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
+        "description": "中国工业新闻网 &nbsp;&nbsp; cinn.cn"
       },
       {
         "title": "将氢能产业打造为经济发展新动能 - 川观新闻",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yWTFQUGdsT0xNOElxbzFmNngzS1ppcFJ4Tm5mWW9PQU1PeElKdE5yS0JKN05GOTJ4YUdSY3JQdWdqS3pOb2RDSzYwUTRHdw?oc=5",
         "pubDate": "Mon, 14 Sep 2026 03:15:00 GMT",
         "description": "将氢能产业打造为经济发展新动能 &nbsp;&nbsp; 川观新闻"
-      },
-      {
-        "title": "国家电投董事长刘明胜：未来产业布局绿色氢基能源排首位！ - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HcEM3Q2VFV3VRdWhvb1VvcDBJTVhGUURqeTZkWVJGLU9fVXpnbW1OX2oteW82NnVSdFRyN2FoYWdwLVdITVpHbW9SdF8tMnRwcmVBQw?oc=5",
-        "pubDate": "Mon, 14 Sep 2026 10:07:30 GMT",
-        "description": "国家电投董事长刘明胜：未来产业布局绿色氢基能源排首位！ &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -344,10 +344,10 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 新浪财经_金融信息服务商",
+        "title": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGcFNUTlJqcmdiRlpiUVJfSk1aX1pjd0s3a1UwajF5bk1kZUF6V0NHdFY3WU5YajU4cllVYzRYX0F0d0V2QXk3M2xIN2hpS2FjbXhNM09DcWtyVTRkY3hJV3czSlVEVFFTeXk3cGRud0dtWEpMcExLcQ?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 新浪财经_金融信息服务商"
+        "description": "加快培育氢能未来产业，国家能源局部署下一阶段重点任务 &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -363,21 +363,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - news.hubeidaily.net",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; news.hubeidaily.net"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -386,10 +380,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -398,10 +392,16 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经_金融信息服务商",
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经_金融信息服务商"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-18 06:55 UTC"
+    "updated": "2026-09-18 12:00 UTC"
   }
 }
