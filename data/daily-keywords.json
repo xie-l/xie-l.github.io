@@ -1,40 +1,40 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "keywords": [
     {
       "id": 1,
-      "term": "技术成熟度",
-      "category": "管理",
-      "definition": "<strong>含义：</strong>TRL（Technology Readiness Level），NASA提出的9级量表，衡量技术从基础研究到商业部署的成熟程度，是投资和政策决策的重要参考。",
-      "example": "<strong>举例：</strong>PEM电解制氢约TRL7-8（已有商业化产品但成本偏高）；固态储氢约TRL4-5（实验室验证阶段）；TRL越低，技术风险越大但潜在收益也越高。"
+      "term": "强化学习",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>AI通过与环境交互、获取奖励信号来学习最优决策策略的方法，已在棋类、机器人控制、材料合成路径规划中取得重大突破。",
+      "example": "<strong>举例：</strong>AlphaFold2用强化学习优化蛋白质结构预测；类似方法正被用于优化催化剂合成工艺——让机器自主“试错”找到最优合成参数。"
     },
     {
       "id": 2,
-      "term": "生命周期评估",
-      "category": "环境",
-      "definition": "<strong>含义：</strong>LCA（Life Cycle Assessment），量化产品从摇篮到坟墓全过程的环境影响，是绿氢等清洁能源“到底有多绿”的科学评判标准。",
-      "example": "<strong>举例：</strong>绿氢LCA分析需包括光伏组件制造（含采矿）、电解槽制造、运营用电、废弃处置的全程碳排放，不能只算“烧氢不排碳”。"
+      "term": "主成分分析",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>PCA，将多维数据降维，用少数几个“主成分”解释数据方差，常用于材料数据可视化和特征压缩。",
+      "example": "<strong>举例：</strong>用PCA分析50种催化剂的10个电化学参数，发现前2个主成分解释了80%的方差，在二维图上清晰看到高活性和低活性样品的聚类规律。"
     },
     {
       "id": 3,
-      "term": "全生命周期",
-      "category": "工程",
-      "definition": "<strong>含义：</strong>对产品或项目从原材料→生产→使用→废弃的全过程进行成本、碳排放或影响的综合评估，避免片面只看某一阶段。",
-      "example": "<strong>举例：</strong>电动车单次行驶碳排放低，但制造电池时碳排放高；全生命周期分析才能真正评估其减排价值，不能只看使用阶段。"
+      "term": "碳封存",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>将CO₂从大气或排放源捕集后，长期储存于地质层（咸水层、废弃油气田）或矿化为固体碳酸盐的技术，是CCUS的最终处置环节。",
+      "example": "<strong>举例：</strong>挪威Northern Lights项目将工业排放的CO₂通过船运和管道注入北海海底咸水层，设计封存量每年达数百万吨，是欧洲最大的CCUS商业项目之一。"
     },
     {
       "id": 4,
-      "term": "d带理论",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>过渡金属催化活性与其d轨道电子能带中心位置相关的理论模型，是预测和优化催化剂电子结构的重要框架。",
-      "example": "<strong>举例：</strong>d带中心越接近费米能级，与吸附物的结合越强；d带理论帮助解释了Pt族金属为何是优异的HER催化剂。"
+      "term": "大数据",
+      "category": "科技",
+      "definition": "<strong>含义：</strong>体量巨大、来源多样、产生速度极快的数据集合，通过分析挖掘可发现传统方法无法察觉的规律和价值。",
+      "example": "<strong>举例：</strong>国家能源集团监控几千台风机的传感器数据，通过大数据分析提前预判设备故障，将计划外停机减少60%。"
     },
     {
       "id": 5,
-      "term": "MOF",
+      "term": "能量密度",
       "category": "材料",
-      "definition": "<strong>含义：</strong>金属有机框架（Metal-Organic Framework），多孔晶体材料，比表面积超高（可达7000m²/g），可作储氢材料或催化剂前驱体。",
-      "example": "<strong>举例：</strong>将MOF高温热解可以制备出高密度单原子催化剂；MOF直接用于储氢在-196℃低温下表现优异，但常温储氢能力有限。"
+      "definition": "<strong>含义：</strong>单位体积或质量储存能量的能力，是评价储能材料和电池性能的核心指标，体积能量密度和质量能量密度分别对应不同应用场景的需求。",
+      "example": "<strong>举例：</strong>锂离子电池能量密度约250-300Wh/kg，是铅酸电池的5倍；固态电池有望达到500Wh/kg，届时电动汽车续航将翻番。"
     }
   ]
 }
