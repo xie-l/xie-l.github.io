@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "EV Sales At 32% — No, Make That 38%! — By 2030",
+        "link": "https://cleantechnica.com/2026/09/20/ev-sales-us-trump-vehicle-electrification-harvard-study/",
+        "pubDate": "Sun, 20 Sep 2026 22:11:47 +0000",
+        "description": "Harvard economists calculate that EV sales will accelerate rapidly in the US, despite last year's sharp U-turn in federal energy policy. The post EV Sales At 32% &#8212; No, Make That 38%! &#8212; By 2030 appeared first on CleanTechnica .",
+        "title_cn": "电动汽车销量为32% —不，实现38% ！ —到2030年"
+      },
+      {
+        "title": "Montana Anti-Citizens United Bill Is A Form Of Soft Secession",
+        "link": "https://cleantechnica.com/2026/09/20/montana-anti-citizens-united-bill-is-a-form-of-soft-secession/",
+        "pubDate": "Sun, 20 Sep 2026 21:00:28 +0000",
+        "description": "Montana may seem like a solidly red state, but its people tend to be pragmatic rather than dogmatic in their views. For instance, Section I of Article IX of the Montana Constitution reads: The state and each person shall maintain and improve a clean and healthful environment in Montana for ... [cont",
+        "title_cn": "蒙大拿州反公民联合法案是一种软分裂形式"
+      },
+      {
+        "title": "China Is Doing About 30 Times More Agricultural Drone Work Than The U.S.",
+        "link": "https://cleantechnica.com/2026/09/20/china-agricultural-drones-30-times-us/",
+        "pubDate": "Sun, 20 Sep 2026 17:31:58 +0000",
+        "description": "Agricultural spray drones are no longer an emerging technology in China. They are ordinary farm machinery at extraordinary scale. China entered 2026 with about 309,000 plant-protection drones, and those aircraft performed roughly 203 million hectare-treatments during 2025. A hectare treated three ti",
+        "title_cn": "中国的农业无人机工作量是美国的30倍"
+      },
       {
         "title": "Streisand Effect Goes to Work on New Elon Musk Documentary",
         "link": "https://cleantechnica.com/2026/09/20/elon-musk-movie-publicity-streisand-effect-us-elections/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 19 Sep 2026 15:13:34 +0000",
         "description": "Qualms about Chinese cars seem to have vanished, as prices come down and technology goes up. Meet the Jaecoo J5. The Jaecoo J5 has been a consistent high seller since its debut only a few months ago. We first wrote about it here. As I complied my monthly update of ... [continued] The post Jaecoo J5 ",
         "title_cn": "Jaecoo J5 —物超所值的澳大利亚销售奇迹"
-      },
-      {
-        "title": "China’s Electric Aviation Advantage Is A Transport System, Not A Prototype",
-        "link": "https://cleantechnica.com/2026/09/19/china-electric-aviation-transport-system/",
-        "pubDate": "Sat, 19 Sep 2026 14:25:28 +0000",
-        "description": "The electric-aviation contest is often presented as a race between aircraft startups. That is probably the wrong unit of analysis. An airplane that flies once, wins a certification milestone or accumulates a large order book has demonstrated something useful, but it has not demonstrated an industry.",
-        "title_cn": "中国电动航空优势是交通系统，不是原型"
-      },
-      {
-        "title": "An EV Is Not The Same As A Conventional Car. Who Knew?",
-        "link": "https://cleantechnica.com/2026/09/19/an-ev-is-not-the-same-as-a-conventional-car-who-knew/",
-        "pubDate": "Sat, 19 Sep 2026 14:24:29 +0000",
-        "description": "Electric, shmetric. A car is a car, right? You get in, start it up, and go where you need to go. What&#8217;s the big deal? That sort of thinking is what nearly killed Hertz after its owners &#8212; a couple of B School whiz kids with more money than brains ... [continued] The post An EV Is Not The ",
-        "title_cn": "电动汽车与传统汽车不同。谁知道呢？"
-      },
-      {
-        "title": "The Day My Swifty Died … And I Had To Go Electric With The MG4 EV Urban",
-        "link": "https://cleantechnica.com/2026/09/18/the-day-my-swifty-died-and-i-had-to-go-electric-with-the-mg4-ev-urban/",
-        "pubDate": "Sat, 19 Sep 2026 03:57:08 +0000",
-        "description": "It was the phone call most fathers dread. “Dad, I’ve blown up the car!” I asked her what had happened to her 20 year old Suzuki Swift (Swifty). “So, the Swift has been making a rattly can noise on and off the whole time I&#8217;ve had it. Hubby described it ... [continued] The post The Day My Swifty",
-        "title_cn": "我的Swifty去世的那一天……我不得不用MG4 EV Urban电动车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,10 @@
         "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
       },
       {
-        "title": "新能源电力创新学院举办名师导学系列活动 - news.ncepu.edu.cn",
+        "title": "新能源电力创新学院举办名师导学系列活动 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWU1kN3FYek9jWXJ6aS1qYlp0WGJrTVo5VE8zUXpoRllWcndCbjlnQkw5cHRNUGtSSV8wVjYxa193cmpONmVGb2RQTTJrUkluNGlnUDBYLVF5T251UWNObDEzQUR6S1JYX2liVC1LOW40bmlNMEE?oc=5",
         "pubDate": "Fri, 18 Sep 2026 08:13:53 GMT",
-        "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; news.ncepu.edu.cn"
+        "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
       },
       {
         "title": "《可再生能源电力制氢场站接入电网技术要求》等4项国家标准立项计划研讨会在京召开 - 电力头条",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "policy_nea": {
     "items": [
@@ -344,10 +344,10 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
       },
       {
         "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -392,10 +392,10 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-20 17:12 UTC"
+    "updated": "2026-09-20 23:45 UTC"
   }
 }
