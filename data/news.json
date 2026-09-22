@@ -30,6 +30,13 @@
         "title_cn": "拉斯维加斯发生的事情：一位讲师寻找投影仪"
       },
       {
+        "title": "Dust in the wind is on the decline",
+        "link": "https://www.nature.com/articles/d41586-026-02979-3",
+        "pubDate": "2026-09-22",
+        "description": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02979-3 The global decrease in atmospheric dust might be affecting Earth’s temperature.",
+        "title_cn": "风中的灰尘正在减少"
+      },
+      {
         "title": "About to give your first lecture? Read this first",
         "link": "https://www.nature.com/articles/d41586-026-02369-9",
         "pubDate": "2026-09-22",
@@ -49,25 +56,25 @@
         "pubDate": "2026-09-22",
         "description": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-02942-2 The instrument, which operates near absolute zero for hours, will soon ship to a few labs. Researchers are thrilled.",
         "title_cn": "这种超冷显微镜可以刺激量子革命"
-      },
-      {
-        "title": "Why AI companies can’t be trusted to self-regulate",
-        "link": "https://www.nature.com/articles/d41586-026-03014-1",
-        "pubDate": "2026-09-22",
-        "description": "Nature, Published online: 22 September 2026; doi:10.1038/d41586-026-03014-1 From aviation to banking, high-risk industries are subject to independent oversight and meaningful penalties. AI companies should be no exception.",
-        "title_cn": "为什么不能信任人工智能公司进行自我监管"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Nissan Rogue Hybrid — Look, Ma, No Plug!",
+        "link": "https://cleantechnica.com/2026/09/22/nissan-rogue-hybrid-look-ma-no-plug/",
+        "pubDate": "Tue, 22 Sep 2026 20:56:44 +0000",
+        "description": "Nissan has a spiffy new model for the US market &#8212; the Rogue Hybrid &#8212; which uses what the company calls its e-POWER technology. Unlike conventional hybrids, which have a direct mechanical connection between the gasoline engine and the wheels, with e-POWER the engine does absolutely nothin",
+        "title_cn": "日产Rogue Hybrid —看，妈妈，没有插头！"
+      },
       {
         "title": "Why Tugboats Fit Batteries Better Than Their Power Ratings Suggest",
         "link": "https://cleantechnica.com/2026/09/22/electric-tugboats-battery-duty-cycle/",
@@ -116,17 +123,10 @@
         "pubDate": "Tue, 22 Sep 2026 03:52:49 +0000",
         "description": "SPANISH electric bus manufacturer Irizar e-mobility has completed delivery of 31 battery-electric buses to Górnośląsko-Zagłębiowska Metropolia (GZM), adding a sizeable new electric fleet to public transportation in Poland&#8217;s Upper Silesian metropolitan area. GZM presented the new Irizar ie buse",
         "title_cn": "Irizar完成向波兰GZM网络交付31辆电动公交车"
-      },
-      {
-        "title": "Norway’s Electric Ferries Could Find a Big Market in the Philippines",
-        "link": "https://cleantechnica.com/2026/09/21/norways-electric-ferries-could-find-a-big-market-in-the-philippines/",
-        "pubDate": "Tue, 22 Sep 2026 03:42:34 +0000",
-        "description": "IT HAS been almost a year since the first Norway-Philippines Electric Ferries Conference was held in Manila in November 2025, and interest in electric and hybrid propulsion for ferries appears to be gaining some traction. The conference brought Norwegian ferry and maritime technology companies toget",
-        "title_cn": "挪威的电动渡轮可以在菲律宾找到一个大市场"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,10 +211,10 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
+        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZFlDQUNidEt5QjhJcnRwM01OMkpOd1p1Mkh5QUQ5UjF6Q1pwYkNUa0ZDNTJlQ09jTllGWTV0NURCSDR1UW9kUExjc01iM3ZNZUlMdGxYUUlTUHQxVnZR?oc=5",
         "pubDate": "Fri, 04 Sep 2026 01:20:19 GMT",
-        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
+        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "突破电氢协同关键技术 新能源消纳有了新路径 - 人民日报",
@@ -242,74 +242,74 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Lower Saxony Approves 20Km Wilhelmshaven Hydrogen Pipeline",
-        "link": "https://fuelcellsworks.com/2026/09/17/h2/lower-saxony-approves-20km-wilhelmshaven-hydrogen-pipeline",
-        "pubDate": "Mon, 21 Sep 2026 16:14:42 GMT",
+        "title": "Chinese Researchers Build 250kW System that Produces Hydrogen and Fresh Water From Seawater",
+        "link": "https://fuelcellsworks.com/2026/09/21/h2/chinese-researchers-build-250kw-system-that-produces-hydrogen-and-fresh-water-from-seawater",
+        "pubDate": "Tue, 22 Sep 2026 16:06:52 GMT",
         "description": "",
-        "title_cn": "下萨克森州批准20公里Wilhelmshaven氢气管道"
+        "title_cn": "中国研究人员建造250kW系统，从海水中生产氢气和淡水"
       },
       {
-        "title": "GAZOO Racing Announces Official Partners for Its FCEV* Challenge on the 2027 Dakar Rally",
-        "link": "https://fuelcellsworks.com/2026/09/21/clean-energy/gazoo-racing-announces-official-partners-for-its-fcev-challenge-on-the-2027-dakar-rally",
-        "pubDate": "Mon, 21 Sep 2026 16:08:40 GMT",
+        "title": "VERDE HYDROGEN’s World-First 5,000 Nm³/H Asymmetric 'Five-to-One' Water Electrolysis System Runs Safely for 760+ Days",
+        "link": "https://fuelcellsworks.com/2026/09/21/electrolyzer/verde-hydrogen-s-world-first-5-000-nm-h-asymmetric-five-to-one-water-electrolysis-system-runs-safely-for-760-days",
+        "pubDate": "Tue, 22 Sep 2026 15:55:23 GMT",
         "description": "",
-        "title_cn": "GAZOO Racing宣布其2027年达喀尔拉力赛FCEV *挑战赛的官方合作伙伴"
+        "title_cn": "VERDE氢能全球首个5000 Nm ³/H不对称“五比一”水电解系统安全运行760多天"
       },
       {
-        "title": "Fuel Cell and Hydrogen News Highlights From China: Sept. 14-Sept. 18, 2026",
-        "link": "https://fuelcellsworks.com/2026/09/19/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-sept-14-sept-18-2026",
-        "pubDate": "Mon, 21 Sep 2026 15:59:54 GMT",
+        "title": "Italy: Abruzzo Points to CNR Hydrogen Study as Region Pushes Vasto Green Hydrogen Project",
+        "link": "https://fuelcellsworks.com/2026/09/20/h2/italy-abruzzo-points-to-cnr-hydrogen-study-as-region-pushes-vasto-green-hydrogen-project",
+        "pubDate": "Tue, 22 Sep 2026 15:51:19 GMT",
         "description": "",
-        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年9月14日至18日"
+        "title_cn": "意大利：阿布鲁佐指向CNR氢能研究，因为该地区推动了Vasto绿色氢能项目"
       },
       {
-        "title": "Cefmof Hydrogen and Reduciner Deepen Cooperation to Develop New Applications for Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/09/21/h2/cefmof-hydrogen-and-reduciner-deepen-cooperation-to-develop-new-applications-for-hydrogen",
-        "pubDate": "Mon, 21 Sep 2026 15:56:41 GMT",
+        "title": "Eclipse Energy and Wood Validate Pathway to Low-Cost, Ultra-Low-Carbon Hydrogen From Depleted Oil Reservoirs",
+        "link": "https://fuelcellsworks.com/2026/09/22/h2/eclipse-energy-and-wood-validate-pathway-to-low-cost-ultra-low-carbon-hydrogen-from-depleted-oil-reservoirs",
+        "pubDate": "Tue, 22 Sep 2026 15:46:38 GMT",
         "description": "",
-        "title_cn": "Cefmof氢气和还原剂深化合作，开发氢气的新应用"
+        "title_cn": "Eclipse Energy和Wood验证了从枯竭的油藏获得低成本、超低碳氢的途径"
       },
       {
-        "title": "Dutch Trio Unveils What They Say Is the First Fuel Cell Vehicle Purpose-Built for Infrastructure Work at IAA",
-        "link": "https://fuelcellsworks.com/2026/09/14/fuel-cells/dutch-trio-unveils-what-they-say-is-the-first-fuel-cell-vehicle-purpose-built-for-infrastructure-work-at-iaa",
-        "pubDate": "Mon, 21 Sep 2026 15:50:41 GMT",
+        "title": "Seawater Cooling System Under Development for Marine Hydrogen Fuel Cells",
+        "link": "https://fuelcellsworks.com/2026/09/22/electrolyzer/hopium-and-mota-turn-to-seawater-cooling-for-marine-hydrogen-fuel-cells",
+        "pubDate": "Tue, 22 Sep 2026 15:39:31 GMT",
         "description": "",
-        "title_cn": "Dutch Trio推出他们所说的IAA首款专为基础设施工作打造的燃料电池汽车"
+        "title_cn": "船用氢燃料电池海水冷却系统正在开发中"
       },
       {
-        "title": "HyOrc Completes Off-Site Modular Build of First Commercial Waste-to-Methanol Plant Bound for Porto",
-        "link": "https://fuelcellsworks.com/2026/09/21/clean-energy/hyorc-completes-off-site-modular-build-of-first-commercial-waste-to-methanol-plant-bound-for-porto",
-        "pubDate": "Mon, 21 Sep 2026 15:40:18 GMT",
+        "title": "HyTerra Opens Kansas Hydrogen Data to Three US Universities",
+        "link": "https://fuelcellsworks.com/2026/09/21/h2/hyterra-opens-kansas-hydrogen-data-to-three-us-universities",
+        "pubDate": "Tue, 22 Sep 2026 15:23:28 GMT",
         "description": "",
-        "title_cn": "HyOrc完成波尔图首个商业废弃物制甲醇工厂的非现场模块化建造"
+        "title_cn": "HyTerra向美国三所大学开放堪萨斯氢能数据"
       },
       {
-        "title": "Enagás CEO Arturo Gonzalo: Spain Needs at Least 79 Hydrogen Stations by 2030 Under EU Targets",
-        "link": "https://fuelcellsworks.com/2026/09/21/fuel-cells/enagas-ceo-arturo-gonzalo-spain-needs-at-least-79-hydrogen-stations-by-2030",
-        "pubDate": "Mon, 21 Sep 2026 15:30:57 GMT",
+        "title": "France: Lorient Puts Second Hydrogen Bus Into Service as Fleet Grows Toward 11 Vehicles",
+        "link": "https://fuelcellsworks.com/2026/09/20/fuel-cells/france-lorient-puts-second-hydrogen-bus-into-service-as-fleet-grows-toward-11-vehicles",
+        "pubDate": "Tue, 22 Sep 2026 15:06:55 GMT",
         "description": "",
-        "title_cn": "Enagás首席执行官Arturo Gonzalo ：根据欧盟的目标，到2030年西班牙至少需要79个加氢站"
+        "title_cn": "法国：随着车队向11辆汽车扩张， Lorient第二辆氢能客车投入使用"
       },
       {
-        "title": "Axens and Wison Engineering Sign Memorandum of Understanding to Advance eSAF Project Development",
-        "link": "https://fuelcellsworks.com/2026/09/20/clean-energy/axens-and-wison-engineering-sign-memorandum-of-understanding-to-advance-esaf-project-development",
-        "pubDate": "Mon, 21 Sep 2026 15:19:32 GMT",
+        "title": "H2SITE Secures €3.4 Million (NOK 39.1 Million) in Enova Funding to Scale Onboard Ammonia-To-Power for Commercial Maritime Applications",
+        "link": "https://fuelcellsworks.com/2026/09/22/electrolyzer/h2site-secures-3-4-million-nok-39-1-million-in-enova-funding-to-scale-onboard-ammonia-to-power-for-commercial-maritime-applications",
+        "pubDate": "Tue, 22 Sep 2026 14:59:10 GMT",
         "description": "",
-        "title_cn": "Axens与惠生工程签署谅解备忘录，推进eSAF项目开发"
+        "title_cn": "H2SITE获得340万€ （ 3910万挪威克朗） Enova资金，用于扩展船载氨转化为电力的商业海事应用"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -344,10 +344,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
@@ -356,22 +356,22 @@
         "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - cn-heipa.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; cn-heipa.com"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -380,16 +380,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
@@ -398,10 +392,16 @@
         "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经_金融信息服务商",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经_金融信息服务商"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-22 17:51 UTC"
+    "updated": "2026-09-22 23:56 UTC"
   }
 }
