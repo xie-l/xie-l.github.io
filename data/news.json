@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Juiced Bikes Scrambler — CleanTechnica Tested",
+        "link": "https://cleantechnica.com/2026/09/23/the-juiced-bikes-scrambler-cleantechnica-tested/",
+        "pubDate": "Thu, 24 Sep 2026 01:14:37 +0000",
+        "description": "Juiced Bikes has been one of the leaders in the long-range, durable ebikes category. Its bikes often stretch the definition of an ebike, even consistently landing in the electric moped category with motors that exceed the 750 watts typically allowed in the US for ebikes. In 2024, Juiced Bikes declar",
+        "title_cn": "Juiced Bikes Scrambler — CleanTechnica已测试"
+      },
       {
         "title": "New National Sierra Club Report Spotlights We Energies Failing the Clean Energy Transition Amid Data Center Surge",
         "link": "https://cleantechnica.com/2026/09/23/new-national-sierra-club-report-spotlights-we-energies-failing-the-clean-energy-transition-amid-data-center-surge/",
@@ -116,17 +123,10 @@
         "pubDate": "Wed, 23 Sep 2026 13:56:38 +0000",
         "description": "Something interesting is going on in China, and I&#8217;m not exactly sure what to make of it. Typically, I don&#8217;t see a lot of rival narratives in Chinese media. One story is often covered the same across the industry, and there&#8217;s not a ton of competing narratives arguing with each ... [",
         "title_cn": "关于宁德时代在中国的有趣消息大战"
-      },
-      {
-        "title": "Offshore Wind Battle Heats Up, Now With Geothermal Energy Twist",
-        "link": "https://cleantechnica.com/2026/09/23/geothermal-energy-offshore-wind-lawsuits-illegal-payoffs/",
-        "pubDate": "Wed, 23 Sep 2026 13:55:06 +0000",
-        "description": "Trump is transferring money from allegedly illegal offshore wind deals to support geothermal energy projects, and nine coastal states are fighting back in court. The post Offshore Wind Battle Heats Up, Now With Geothermal Energy Twist appeared first on CleanTechnica .",
-        "title_cn": "海上风电战斗升温，现在有了地热能"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,22 +211,22 @@
         "description": "高交会“大能源”巨头云集新型电力、储能、氢能、充电桩与算力共绘产业新图景_行业动态 &nbsp;&nbsp; 投资界"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
       },
       {
-        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZFlDQUNidEt5QjhJcnRwM01OMkpOd1p1Mkh5QUQ5UjF6Q1pwYkNUa0ZDNTJlQ09jTllGWTV0NURCSDR1UW9kUExjc01iM3ZNZUlMdGxYUUlTUHQxVnZR?oc=5",
         "pubDate": "Fri, 04 Sep 2026 01:20:19 GMT",
-        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "突破电氢协同关键技术 新能源消纳有了新路径 - paper.people.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEN1Ri16X1R4eEo0SGlFaDUyZHZtSkxRSjd2U0c5X09jRzVMOW1IVHEtTUZLZFZFMFpKbkFpRW1JcGw4dzU0ZHZvRHRtUG5sNEFwSnEyai1XaW5ZN2tDVnVOUGxNYWJWZE5SaTd2STFlQTBJREVpdDB5dTJCWFR4Mg?oc=5",
-        "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
-        "description": "突破电氢协同关键技术 新能源消纳有了新路径 &nbsp;&nbsp; paper.people.com.cn"
+        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -235,14 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
+        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - Caijing",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
+        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; Caijing"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -338,16 +338,16 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
-        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - 东方财富",
+        "title": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 - eastmoney.com",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43SXQzdmQ1NHhwT3R5WEZmbF9tQVZkVnk0LXhSX1VRQnN2VXp2LTBrQmk1REVpSmtRMkx4RVZ5LVA1NmNzakJMUVlGWVROWWFlZzEyOWhTQm9WbTlJRnZkdA?oc=5",
         "pubDate": "Sat, 25 Apr 2026 10:11:23 GMT",
-        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; 东方财富"
+        "description": "国家能源局鼓励氢能交易；工业产品绿色设计指南发布丨碳中和周报 &nbsp;&nbsp; eastmoney.com"
       },
       {
         "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -374,10 +374,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -386,16 +386,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - nengyuanjie.net",
+        "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; nengyuanjie.net"
+        "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - paper.people.com.cn",
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; paper.people.com.cn"
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-24 00:09 UTC"
+    "updated": "2026-09-24 07:00 UTC"
   }
 }
