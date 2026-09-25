@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Why science wouldn’t exist without alchemy, curiosity and great writing: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-03032-z",
+        "pubDate": "2026-09-25",
+        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "为什么没有炼金术、好奇心和伟大写作，科学就不会存在：书籍简介"
+      },
+      {
         "title": "AI bots are flooding researchers with requests for money and time",
         "link": "https://www.nature.com/articles/d41586-026-03005-2",
         "pubDate": "2026-09-25",
@@ -44,27 +51,20 @@
         "title_cn": "人工智能代理首次入侵政府网站：为什么这次入侵很重要"
       },
       {
-        "title": "AlphaFold 'goes viral': database adds protein complexes of common viruses",
-        "link": "https://www.nature.com/articles/d41586-026-03022-1",
+        "title": "Daily briefing: Will AI really be the death of us all?",
+        "link": "https://www.nature.com/articles/d41586-026-03029-8",
         "pubDate": "2026-09-24",
-        "description": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03022-1 AI predictions could help with pandemic preparedness, but they will need experimental confirmation.",
-        "title_cn": "AlphaFold “病毒化” ：数据库添加常见病毒的蛋白质复合物"
-      },
-      {
-        "title": "Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
-        "link": "https://www.nature.com/articles/s41586-026-11189-w",
-        "pubDate": "2026-09-23",
-        "description": "Nature, Published online: 23 September 2026; doi:10.1038/s41586-026-11189-w Author Correction: Large recoverable elastic energy in chiral metamaterials via twist buckling",
-        "title_cn": "作者修正：通过扭曲屈曲在手性超材料中获得较大的可回收弹性能量"
+        "description": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-03029-8 Nature unpacks why AI companies are calling for a slowdown. Plus, the best clock ever and a new, unusual phase of boron.",
+        "title_cn": "每日简报：人工智能真的会成为我们所有人的死亡吗？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "energy_cn": {
     "items": [
@@ -200,7 +200,7 @@
       },
       {
         "title": "氢能如何撑起德国的能源网络 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCSDJ4TlJfd1NxYlI4QmRZRmhFOG4wclFSd204THE4NVdFUnl3ZUhsYlhyZGNvQnBQRU9DWkwzcGdGV1FhR21JV3pXNk9GbFFLcG0yZXZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ta1M0U2QtUzBYTjBuU0dNcVlUdGJJY2J4UDBMLXYybE53VXNEaHhabzNnTndGOWZvdDNmaTJyelN1NHlEYUFHZ1pQb2lFMWZNZzUwaQ?oc=5",
         "pubDate": "Wed, 23 Sep 2026 06:27:52 GMT",
         "description": "氢能如何撑起德国的能源网络 &nbsp;&nbsp; 国际氢能网"
       },
@@ -217,22 +217,22 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "新能源电力创新学院举办名师导学系列活动 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWU1kN3FYek9jWXJ6aS1qYlp0WGJrTVo5VE8zUXpoRllWcndCbjlnQkw5cHRNUGtSSV8wVjYxa193cmpONmVGb2RQTTJrUkluNGlnUDBYLVF5T251UWNObDEzQUR6S1JYX2liVC1LOW40bmlNMEE?oc=5",
-        "pubDate": "Fri, 18 Sep 2026 08:13:53 GMT",
-        "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
-      },
-      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - h2.solarbe.com",
+        "title": "新能源电力创新学院举办名师导学系列活动 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWU1kN3FYek9jWXJ6aS1qYlp0WGJrTVo5VE8zUXpoRllWcndCbjlnQkw5cHRNUGtSSV8wVjYxa193cmpONmVGb2RQTTJrUkluNGlnUDBYLVF5T251UWNObDEzQUR6S1JYX2liVC1LOW40bmlNMEE?oc=5",
+        "pubDate": "Fri, 18 Sep 2026 08:13:53 GMT",
+        "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
+        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZFlDQUNidEt5QjhJcnRwM01OMkpOd1p1Mkh5QUQ5UjF6Q1pwYkNUa0ZDNTJlQ09jTllGWTV0NURCSDR1UW9kUExjc01iM3ZNZUlMdGxYUUlTUHQxVnZR?oc=5",
         "pubDate": "Fri, 04 Sep 2026 01:20:19 GMT",
-        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "policy_nea": {
     "items": [
@@ -326,22 +326,22 @@
         "description": "预计到2030年，可再生能源制氢量有望达到500万吨！《全国碳市场发展报告（2026）》公布-氢能政策 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - ceic.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; ceic.com"
-      },
-      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - h2.solarbe.com",
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -350,20 +350,20 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - cn-heipa.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; cn-heipa.com"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ISGEzLUxxQXFIejRVZGNxb0d0V2paOGtqVnlHVFp3TmtBc040NE83c09tLWJoc3N0M1NNMEI3RDd3bXo5dDVDRXlhOXdmRlZySXYtSVRwbjZHSzFROFlRZ2RxckZWVkVmNVFnaFVhbVE?oc=5",
-        "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; gdshe.org"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -374,10 +374,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -386,16 +386,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
         "title": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9obWJEdHc4TmFlOHRfb0ZiX0tNZnRqTHZiazJxc1JqZjFzSmxlZVUtcHc5ZThFZnJXVXNPdTc0bVBldVdtNHg5TUVPLTFFUkpUUHI5Q1p4c1k4VTA?oc=5",
         "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
         "description": "《辽宁省推动多用户绿电直连建设实施方案》公开征求意见 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-25 06:57 UTC"
+    "updated": "2026-09-25 12:33 UTC"
   }
 }
