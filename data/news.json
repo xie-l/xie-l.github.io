@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Nissan Taps China JV To Power Philippine EV Push",
+        "link": "https://cleantechnica.com/2026/09/26/nissan-taps-china-jv-to-power-philippine-ev-push/",
+        "pubDate": "Sat, 26 Sep 2026 10:56:52 +0000",
+        "description": "With Plug-In Navara And Primera EV MANILA — Nissan Philippines is anchoring its upcoming electrified vehicle lineup on products developed in China, turning to its joint venture with Dongfeng Motor to bring the Navara Pro Plug-in Hybrid pickup and Primera EV sedan to the local market on Nov. 6. The .",
+        "title_cn": "日产利用中国合资企业为菲律宾电动汽车提供动力"
+      },
+      {
+        "title": "Green SM Starts Amsterdam Taxi Pilot, Bringing the Green EV to Europe",
+        "link": "https://cleantechnica.com/2026/09/26/green-sm-starts-amsterdam-taxi-pilot-bringing-the-green-ev-to-europe/",
+        "pubDate": "Sat, 26 Sep 2026 09:19:11 +0000",
+        "description": "AMSTERDAM — Vietnamese electric mobility company Green SM began a pilot electric taxi service in Amsterdam on Thursday, making the Netherlands its second European market after Denmark and extending the commercial use of VinFast vehicles in a market where the automaker established a presence four yea",
+        "title_cn": "Green SM启动阿姆斯特丹出租车试点项目，将绿色电动汽车引入欧洲"
+      },
       {
         "title": "XPENG Grows in Malaysia, & Readies G9L for Global Launch",
         "link": "https://cleantechnica.com/2026/09/25/xpeng-grows-in-malaysia-readies-g9l-for-global-launch/",
@@ -109,24 +123,10 @@
         "pubDate": "Fri, 25 Sep 2026 23:30:54 +0000",
         "description": "MANILA, Philippines — XPENG formally launched in the Philippines on Friday, September 25, with six variants of its L03 and X9, expanding its initial two-model offering to three battery-electric L03s, a range-extended version and two versions of the X9 electric MPV. Attendees called the launch at the",
         "title_cn": "XPENG在菲律宾推出六款电动汽车"
-      },
-      {
-        "title": "Green Lightning’s Fertilizer Claim Doesn’t Add Up",
-        "link": "https://cleantechnica.com/2026/09/25/green-lightning-fertilizer-claim-doesnt-add-up/",
-        "pubDate": "Fri, 25 Sep 2026 19:58:47 +0000",
-        "description": "Green Lightning really does make nitrogen fertilizer from air and electricity, but it makes very little of it compared with what its marketing says it can replace. Nitrogen is not merely something that encourages a plant to grow. Nitrogen atoms become part of the plant itself, incorporated into prot",
-        "title_cn": "绿色闪电的肥料索赔不加起来"
-      },
-      {
-        "title": "Harvard Study Predicts 32 Percent Of US New Car Sales In US In 2030 Will Be EVs",
-        "link": "https://cleantechnica.com/2026/09/25/harvard-study-predicts-32-percent-of-us-new-car-sales-in-us-in-2030-will-be-evs/",
-        "pubDate": "Fri, 25 Sep 2026 19:25:31 +0000",
-        "description": "A study by the Salata Institute for Climate and Sustainability at Harvard University comes to a rather startling conclusion. Despite all the roadblocks put in the way of the EV revolution by the present US administration, the researchers predict EV sales in the US will quadruple from 8 percent today",
-        "title_cn": "哈佛研究预测2030年美国新车销量32%将是电动汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -200,7 +200,7 @@
       },
       {
         "title": "氢能如何撑起德国的能源网络 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ta1M0U2QtUzBYTjBuU0dNcVlUdGJJY2J4UDBMLXYybE53VXNEaHhabzNnTndGOWZvdDNmaTJyelN1NHlEYUFHZ1pQb2lFMWZNZzUwaQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCSDJ4TlJfd1NxYlI4QmRZRmhFOG4wclFSd204THE4NVdFUnl3ZUhsYlhyZGNvQnBQRU9DWkwzcGdGV1FhR21JV3pXNk9GbFFLcG0yZXZR?oc=5",
         "pubDate": "Wed, 23 Sep 2026 06:27:52 GMT",
         "description": "氢能如何撑起德国的能源网络 &nbsp;&nbsp; 国际氢能网"
       },
@@ -229,10 +229,10 @@
         "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - h2.solarbe.com",
+        "title": "国务院国资委专题：8大央企“一把手”谈氢能 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zZFlDQUNidEt5QjhJcnRwM01OMkpOd1p1Mkh5QUQ5UjF6Q1pwYkNUa0ZDNTJlQ09jTllGWTV0NURCSDR1UW9kUExjc01iM3ZNZUlMdGxYUUlTUHQxVnZR?oc=5",
         "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
-        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "国务院国资委专题：8大央企“一把手”谈氢能 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -320,10 +320,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - cls.cn",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; cls.cn"
       },
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-26 06:55 UTC"
+    "updated": "2026-09-26 12:00 UTC"
   }
 }
