@@ -16,6 +16,13 @@
         "title_cn": "为什么没有炼金术、好奇心和伟大写作，科学就不会存在：书籍简介"
       },
       {
+        "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
+        "link": "https://www.nature.com/articles/d41586-026-03039-6",
+        "pubDate": "2026-09-25",
+        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
+        "title_cn": "Anthropic的AI生物实验室在病毒中发现“CRISPR样” DNA。下一步是什么？"
+      },
+      {
         "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
         "link": "https://www.nature.com/articles/d41586-026-03023-0",
         "pubDate": "2026-09-25",
@@ -49,25 +56,46 @@
         "pubDate": "2026-09-25",
         "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
         "title_cn": "人工智能机器人充斥着对金钱和时间的要求"
-      },
-      {
-        "title": "Bumblebees don’t mind a little plastic in their honeypots",
-        "link": "https://www.nature.com/articles/d41586-026-02988-2",
-        "pubDate": "2026-09-24",
-        "description": "Nature, Published online: 24 September 2026; doi:10.1038/d41586-026-02988-2 Insects show off their adaptability by incorporating unfamiliar construction materials to build honey-storage vessels.",
-        "title_cn": "大黄蜂不介意蜜罐里放一点塑料"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Groups Sue TVA Over Clean Air Act Violations at Kingston Site",
+        "link": "https://cleantechnica.com/2026/09/25/groups-sue-tva-over-clean-air-act-violations-at-kingston-site/",
+        "pubDate": "Fri, 25 Sep 2026 23:44:32 +0000",
+        "description": "Harriman, Tennessee — On Thursday, the Southern Environmental Law Center, on behalf of Appalachian Voices and the Sierra Club, sued the Tennessee Valley Authority for violating the Clean Air Act and putting public health at risk by building its new Kingston Gas Plant, which TVA plans to operate alon",
+        "title_cn": "团体Sue TVA在金斯敦工地违反《清洁空气法》"
+      },
+      {
+        "title": "XPENG Launches in the Philippines With Six EV Variants",
+        "link": "https://cleantechnica.com/2026/09/25/xpeng-launches-in-the-philippines-with-six-ev-variants/",
+        "pubDate": "Fri, 25 Sep 2026 23:30:54 +0000",
+        "description": "MANILA, Philippines — XPENG formally launched in the Philippines on Friday, September 25 with six variants of its L03 and X9, expanding its initial two-model offering to three battery-electric L03s, a range-extended version and two versions of the X9 electric MPV. Attendees called the launch at the ",
+        "title_cn": "XPENG在菲律宾推出六款电动汽车"
+      },
+      {
+        "title": "Green Lightning’s Fertilizer Claim Doesn’t Add Up",
+        "link": "https://cleantechnica.com/2026/09/25/green-lightning-fertilizer-claim-doesnt-add-up/",
+        "pubDate": "Fri, 25 Sep 2026 19:58:47 +0000",
+        "description": "Green Lightning really does make nitrogen fertilizer from air and electricity, but it makes very little of it compared with what its marketing says it can replace. Nitrogen is not merely something that encourages a plant to grow. Nitrogen atoms become part of the plant itself, incorporated into prot",
+        "title_cn": "绿色闪电的肥料索赔不加起来"
+      },
+      {
+        "title": "Harvard Study Predicts 32 Percent Of US New Car Sales In US In 2030 Will Be EVs",
+        "link": "https://cleantechnica.com/2026/09/25/harvard-study-predicts-32-percent-of-us-new-car-sales-in-us-in-2030-will-be-evs/",
+        "pubDate": "Fri, 25 Sep 2026 19:25:31 +0000",
+        "description": "A study by the Salata Institute for Climate and Sustainability at Harvard University comes to a rather startling conclusion. Despite all the roadblocks put in the way of the EV revolution by the present US administration, the researchers predict EV sales in the US will quadruple from 8 percent today",
+        "title_cn": "哈佛研究预测2030年美国新车销量32%将是电动汽车"
+      },
       {
         "title": "Tesla Claims Its Full Self Driving (FSD) Saves Lives, But Wants You To Pay $99/Month To Get It",
         "link": "https://cleantechnica.com/2026/09/25/tesla-claims-its-full-self-driving-fsd-saves-lives-but-wants-you-to-pay-99-month-to-get-it/",
@@ -95,38 +123,10 @@
         "pubDate": "Fri, 25 Sep 2026 00:43:06 +0000",
         "description": "Latin America’s small champion keeps making headlines and surpassing even the most optimistic expectations. Uruguay’s EV adoption has diverged from the region and reached a level that many of us would’ve though irrationally optimist only two years ago. Amidst a booming vehicle market, Uruguay EV sal",
         "title_cn": "乌拉圭电动汽车销售报告： 8月份销量飙升，市场份额达到56% ！"
-      },
-      {
-        "title": "Taiga Launches OS-5 Software, Bringing Industry-First Geofencing Its Electric Fleet",
-        "link": "https://cleantechnica.com/2026/09/24/taiga-launches-os-5-software-bringing-industry-first-geofencing-its-electric-fleet/",
-        "pubDate": "Fri, 25 Sep 2026 00:19:47 +0000",
-        "description": "MONTREAL, Canada — Taiga, a pioneering manufacturer of electric off-road vehicles and watercraft, today announced a major update to its vehicle operating system. The new software introduces a suite of advanced features, including inbuilt mapping and industry-first geofencing technology designed to r",
-        "title_cn": "Taiga推出OS-5软件，为其电动车队带来业界首创的地理围栏"
-      },
-      {
-        "title": "Utah Advocates Call for Air Agency to Hold Strong on Coal Plant Shutdown Date in Latest Regional Haze Plan",
-        "link": "https://cleantechnica.com/2026/09/24/utah-advocates-call-for-air-agency-to-hold-strong-on-coal-plant-shutdown-date-in-latest-regional-haze-plan/",
-        "pubDate": "Fri, 25 Sep 2026 00:01:37 +0000",
-        "description": "Salt Lake City — Today, the Utah Division of Air Quality (UDAQ) held a public hearing on a revision to its regional haze plan that continues to fail to reduce pollution from Utah’s worst coal offenders. In the hearing, advocates called on the agency to retain the requirement in its ... [continued] T",
-        "title_cn": "犹他州倡导者呼吁航空公司在最新的区域雾霾计划中保持煤电厂关闭日期的强劲势头"
-      },
-      {
-        "title": "LA Metro Secures 220 New Battery-Electric Transit Buses",
-        "link": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
-        "pubDate": "Thu, 24 Sep 2026 23:51:37 +0000",
-        "description": "LOS ANGELES — Today, LA Metro approved the purchase of 220 battery-electric buses, one of the largest electric transit bus purchases in the country and a major step towards Metro accelerating implementation of its zero-emission bus commitment to 100% electric buses. The 220-bus purchase will more th",
-        "title_cn": "洛杉矶地铁获得220辆新型电池电动公交车"
-      },
-      {
-        "title": "Sierra Club Welcomes NYC Comptroller’s $5B Private-Market Climate Investment Proposal",
-        "link": "https://cleantechnica.com/2026/09/24/sierra-club-welcomes-nyc-comptrollers-5b-private-market-climate-investment-proposal/",
-        "pubDate": "Thu, 24 Sep 2026 22:59:37 +0000",
-        "description": "New focus aims to strengthen real-world impact of pensions’ climate-solutions investment strategy NEW YORK, NY — New York City Comptroller Mark Levine announced Wednesday that the Bureau of Asset Management expects to present a total of $5 billion in new private-market climate investment opportuniti",
-        "title_cn": "Sierra Club欢迎纽约市主计长提出的$ 50亿私人市场气候投资建议"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,10 @@
         "description": "政策赋能氢电协同双向创新突破——2026年氢电协同创新发展交流会成功举办 &nbsp;&nbsp; 电力头条"
       },
       {
-        "title": "氢能如何撑起德国的能源网络 - h2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ta1M0U2QtUzBYTjBuU0dNcVlUdGJJY2J4UDBMLXYybE53VXNEaHhabzNnTndGOWZvdDNmaTJyelN1NHlEYUFHZ1pQb2lFMWZNZzUwaQ?oc=5",
+        "title": "氢能如何撑起德国的能源网络 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCSDJ4TlJfd1NxYlI4QmRZRmhFOG4wclFSd204THE4NVdFUnl3ZUhsYlhyZGNvQnBQRU9DWkwzcGdGV1FhR21JV3pXNk9GbFFLcG0yZXZR?oc=5",
         "pubDate": "Wed, 23 Sep 2026 06:27:52 GMT",
-        "description": "氢能如何撑起德国的能源网络 &nbsp;&nbsp; h2.in-en.com"
+        "description": "氢能如何撑起德国的能源网络 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 - gessey.com",
@@ -211,10 +211,10 @@
         "description": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 &nbsp;&nbsp; gessey.com"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - news.cn",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; news.cn"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -242,74 +242,74 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Haffner Energy Brings the Cost of Renewable Diesel and SAF Closer to that of Fossil Fuels with SB-HEFA",
-        "link": "https://fuelcellsworks.com/2026/09/24/clean-energy/haffner-energy-brings-the-cost-of-renewable-diesel-and-saf-closer-to-that-of-fossil-fuels-with-sb-hefa",
-        "pubDate": "Thu, 24 Sep 2026 15:59:27 GMT",
+        "title": "How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem",
+        "link": "https://fuelcellsworks.com/2026/09/25/green-hydrogen/how-an-ai-run-lab-cracked-open-green-hydrogen-s-catalyst-problem",
+        "pubDate": "Fri, 25 Sep 2026 16:14:18 GMT",
         "description": "",
-        "title_cn": "Haffner Energy通过SB-HEFA使可再生柴油和SAF的成本更接近化石燃料"
+        "title_cn": "人工智能实验室如何破解绿色氢气的催化剂问题"
       },
       {
-        "title": "Floating Testbed Moves Closer to Sea Trials for Next-Generation Marine Power",
-        "link": "https://fuelcellsworks.com/2026/09/21/h2/dlr-launches-modularis-research-vessel-to-test-hydrogen-batteries-and-ammonia-at-sea",
-        "pubDate": "Thu, 24 Sep 2026 15:49:13 GMT",
+        "title": "170 Companies Urge Brussels to Keep Binding RFNBO Hydrogen Targets Beyond 2030",
+        "link": "https://fuelcellsworks.com/2026/09/24/h2/170-companies-urge-brussels-to-keep-binding-rfnbo-hydrogen-targets-beyond-2030",
+        "pubDate": "Fri, 25 Sep 2026 15:39:01 GMT",
         "description": "",
-        "title_cn": "浮动试验台更接近下一代船舶动力的海上试验"
+        "title_cn": "170家公司敦促布鲁塞尔在2030年后继续约束RFNBO的氢目标"
       },
       {
-        "title": "Hyundai E&C Sets Out to Secure Core Technology for Next-Generation Hydrogen Production via Water Electrolysis",
-        "link": "https://fuelcellsworks.com/2026/09/24/h2/hyundai-e-and-c-sets-out-to-secure-core-technology-for-next-generation-hydrogen-production-via-water-electrolysis",
-        "pubDate": "Thu, 24 Sep 2026 15:40:22 GMT",
+        "title": "Armenia Explores Hydrogen Safety Cooperation with Fraunhofer",
+        "link": "https://fuelcellsworks.com/2026/09/21/h2/armenia-explores-hydrogen-safety-cooperation-with-fraunhofer",
+        "pubDate": "Fri, 25 Sep 2026 15:29:01 GMT",
         "description": "",
-        "title_cn": "现代E ＆ C着手确保通过水电解生产下一代氢的核心技术的安全性"
+        "title_cn": "亚美尼亚探索与Fraunhofer的氢能安全合作"
       },
       {
-        "title": "Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose.",
-        "link": "https://fuelcellsworks.com/2026/09/22/h2/moselle-sits-on-two-energy-futures-fossil-gas-now-or-the-world-s-biggest-natural-hydrogen-deposit-later-france-just-got-asked-to-choose",
-        "pubDate": "Thu, 24 Sep 2026 15:23:06 GMT",
+        "title": "India Opens New 54,000-Tonne Green Ammonia Auction for Dhule Fertiliser Plant",
+        "link": "https://fuelcellsworks.com/2026/09/25/clean-energy/india-opens-new-54-000-tonne-green-ammonia-auction-for-dhule-fertiliser-plant",
+        "pubDate": "Fri, 25 Sep 2026 15:27:25 GMT",
         "description": "",
-        "title_cn": "摩泽尔位于两个能源期货—现在是化石燃料，或者后来是世界上最大的天然氢矿床。法国刚刚被要求做出选择。"
+        "title_cn": "印度为Dhule化肥厂开设54,000吨新绿色氨拍卖"
       },
       {
-        "title": "BNamericas: Hydrogen Council CEO Talks State of Play, Outlook, Energy Shocks",
-        "link": "https://fuelcellsworks.com/2026/09/24/h2/bnamericas-hydrogen-council-ceo-talks-state-of-play-outlook-energy-shocks",
-        "pubDate": "Thu, 24 Sep 2026 15:20:20 GMT",
+        "title": "Atlas Copco Introduces H2Y Hydraulic Booster to Support Next Phase of UK Hydrogen Rollout",
+        "link": "https://fuelcellsworks.com/2026/09/21/h2/atlas-copco-introduces-h2y-hydraulic-booster-to-support-next-phase-of-uk-hydrogen-rollout",
+        "pubDate": "Fri, 25 Sep 2026 15:19:53 GMT",
         "description": "",
-        "title_cn": "BNamericas ：氢能委员会首席执行官谈论现状，展望，能源冲击"
+        "title_cn": "阿特拉斯·科普柯推出H2Y液压助力器，以支持英国氢能部署的下一阶段"
       },
       {
-        "title": "Weichai Brings 710Hp Hydrogen Hybrid and Second Engine to IAA — Two Months After China VI Certification",
-        "link": "https://fuelcellsworks.com/2026/09/22/h2/outstanding-university-of-leicester-researchers-secure-uk-government-s-prestigious-leadership-fellowship",
-        "pubDate": "Thu, 24 Sep 2026 15:15:02 GMT",
+        "title": "Cyprus Looks to Greek Hydrogen Valley for Development Model",
+        "link": "https://fuelcellsworks.com/2026/09/24/h2/new-hydrogen-valley-plans-take-shape-using-lessons-from-existing-regional-project",
+        "pubDate": "Fri, 25 Sep 2026 15:07:46 GMT",
         "description": "",
-        "title_cn": "潍柴在中国VI认证两个月后将710Hp氢混合动力和第二台发动机带入IAA"
+        "title_cn": "塞浦路斯将希腊氢能谷作为发展模式"
       },
       {
-        "title": "Green Light for Standardised Hydrogen Swappable Containers for Inland Shipping",
-        "link": "https://fuelcellsworks.com/2026/09/23/h2/green-light-for-standardised-hydrogen-swappable-containers-for-inland-shipping",
-        "pubDate": "Thu, 24 Sep 2026 15:10:35 GMT",
+        "title": "Maruti Suzuki Commissions Its First Green Hydrogen Plant at Its Manesar Facility in Haryana",
+        "link": "https://fuelcellsworks.com/2026/09/24/h2/maruti-suzuki-commissions-its-first-green-hydrogen-plant-at-its-manesar-facility-in-haryana",
+        "pubDate": "Fri, 25 Sep 2026 15:06:30 GMT",
         "description": "",
-        "title_cn": "用于内陆运输的标准化氢气可更换容器的绿灯"
+        "title_cn": "Maruti Suzuki在其位于哈里亚纳邦的Manesar工厂委托建造其第一座绿色氢气工厂"
       },
       {
-        "title": "The Ain Transit Authority Is Already Running on Hydrogen — Part of a Regional Network Betting Big on Fuel-Cell Buses",
-        "link": "https://fuelcellsworks.com/2026/09/22/fuel-cells/the-ain-transit-authority-is-already-running-on-hydrogen-part-of-a-regional-network-betting-big-on-fuel-cell-buses",
-        "pubDate": "Thu, 24 Sep 2026 14:53:56 GMT",
+        "title": "Construction Starts on Kenya Green Hydrogen Centre to Supply Coffee Farm With Fertiliser and Hospital With Oxygen",
+        "link": "https://fuelcellsworks.com/2026/09/25/h2/construction-starts-on-kenya-green-hydrogen-centre-to-supply-coffee-farm-with-fertiliser-and-hospital-with-oxygen",
+        "pubDate": "Fri, 25 Sep 2026 15:04:06 GMT",
         "description": "",
-        "title_cn": "AIN Transit Authority已经在氢气上运行—在燃料电池公交车上投入巨资的区域网络的一部分"
+        "title_cn": "肯尼亚绿色氢能中心开工建设，为咖啡农场提供肥料，为医院提供氧气"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -320,16 +320,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "预计到2030年，可再生能源制氢量有望达到500万吨！《全国碳市场发展报告（2026）》公布-氢能政策 - h2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWDdhVXhOanJkU3J5a3E4YldfRUk0WmR3cTBWb29oUnNBRmhfajZVZW1zR1V5X0JSOW1ubUNvOEM1M21COU94MndSMEJYbG1EQklReA?oc=5",
-        "pubDate": "Tue, 22 Sep 2026 01:21:00 GMT",
-        "description": "预计到2030年，可再生能源制氢量有望达到500万吨！《全国碳市场发展报告（2026）》公布-氢能政策 &nbsp;&nbsp; h2.in-en.com"
-      },
-      {
         "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - ceic.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
         "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
         "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; ceic.com"
+      },
+      {
+        "title": "预计到2030年，可再生能源制氢量有望达到500万吨！《全国碳市场发展报告（2026）》公布-氢能政策 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWDdhVXhOanJkU3J5a3E4YldfRUk0WmR3cTBWb29oUnNBRmhfajZVZW1zR1V5X0JSOW1ubUNvOEM1M21COU94MndSMEJYbG1EQklReA?oc=5",
+        "pubDate": "Tue, 22 Sep 2026 01:21:00 GMT",
+        "description": "预计到2030年，可再生能源制氢量有望达到500万吨！《全国碳市场发展报告（2026）》公布-氢能政策 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -374,10 +374,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -392,16 +392,16 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - news.hubeidaily.net",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; news.hubeidaily.net"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - gdshe.org",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; gdshe.org"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-25 18:09 UTC"
+    "updated": "2026-09-26 00:18 UTC"
   }
 }
