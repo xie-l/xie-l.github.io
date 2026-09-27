@@ -59,15 +59,57 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Case For Buying A Used EV Just Got Loads Better",
+        "link": "https://cleantechnica.com/2026/09/27/used-evs-more-reliable-high-mileage-new-study-uk-data/",
+        "pubDate": "Sun, 27 Sep 2026 17:26:34 +0000",
+        "description": "Car dealers in the UK can add high-mileage reliability to their sales pitch for used EVs, as supported by a new study of standard road safety tests comparing electric cars with gas-powered cars. The post The Case For Buying A Used EV Just Got Loads Better appeared first on CleanTechnica .",
+        "title_cn": "购买二手电动汽车的案例只是装载得更好"
+      },
+      {
+        "title": "Ports Need More Capital As Their Bulk Cargo Base Shrinks",
+        "link": "https://cleantechnica.com/2026/09/27/ports-capital-shrinking-bulk-cargo/",
+        "pubDate": "Sun, 27 Sep 2026 14:26:04 +0000",
+        "description": "Ports are being asked to make infrastructure decisions that will last thirty, forty or fifty years while several of the assumptions that paid for their existing infrastructure are changing at the same time. Ships are getting larger, requiring deeper channels, larger cranes and more capable tug fleet",
+        "title_cn": "随着散货基地的缩小，港口需要更多的资本"
+      },
+      {
+        "title": "The SsangYong CCR-1: An Early Korean EV Experiment",
+        "link": "https://cleantechnica.com/2026/09/27/the-ssangyong-ccr-1-an-early-korean-ev-experiment/",
+        "pubDate": "Sun, 27 Sep 2026 14:02:01 +0000",
+        "description": "SEOUL, South Korea — Long before SsangYong Motor became part of the electric-vehicle transition now reshaping South Korea&#8217;s automotive industry, it built an electric sports car that looked as if it had arrived from a different future. The SsangYong CCR-1, short for Clean Car 1, was unveiled in",
+        "title_cn": "双龙CCR-1 ：早期的韩国电动汽车实验"
+      },
+      {
+        "title": "The Philippines’ Electric Vehicle Push Cannot Afford to Ignore ASEAN",
+        "link": "https://cleantechnica.com/2026/09/27/the-philippines-electric-vehicle-push-cannot-afford-to-ignore-asean/",
+        "pubDate": "Sun, 27 Sep 2026 13:59:45 +0000",
+        "description": "MANILA, Philippines — On the surface, the transition to electric mobility looks like an intensely domestic fight. Commuters in Metro Manila complain about erratic fuel pump prices, local transport cooperatives struggle to finance modern electric jeepneys, and utility companies work to install chargi",
+        "title_cn": "菲律宾电动汽车的推动力无法忽视东盟"
+      },
+      {
+        "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
+        "link": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
+        "pubDate": "Sun, 27 Sep 2026 08:46:28 +0000",
+        "description": "Capable of 1,000-kilometer range for commercial vehicles HANOVER, Germany — Chinese battery maker Contemporary Amperex Technology Co. Ltd. unveiled a new modular battery platform for commercial vehicles at IAA Transportation 2026, with its heavy-duty version offering up to 1,000 kilometers of range ",
+        "title_cn": "宁德时代在IAA运输展上推出TECTRANS II电池平台"
+      },
+      {
+        "title": "Volvo’s Electric Trucks Win International Truck of the Year 2027 at IAA",
+        "link": "https://cleantechnica.com/2026/09/27/volvos-electric-truck-range-wins-international-truck-of-the-year-2027-at-iaa/",
+        "pubDate": "Sun, 27 Sep 2026 08:34:52 +0000",
+        "description": "VOLVO Trucks’ new generation of heavy-duty electric trucks has been named International Truck of the Year 2027, giving the Swedish manufacturer its eighth win in the prestigious award and putting battery-electric heavy trucks at the center of its IAA Transportation 2026 presentation in Hanover, Germ",
+        "title_cn": "沃尔沃电动卡车在IAA赢得2027年国际卡车大奖"
+      },
       {
         "title": "Elon Musk A No-Show At Tesla Semi Event Because …",
         "link": "https://cleantechnica.com/2026/09/26/tesla-semi-truck-elon-musk-lawsuit-documentary-white-house-dinner/",
@@ -81,52 +123,10 @@
         "pubDate": "Sat, 26 Sep 2026 17:58:55 +0000",
         "description": "OceanX gave me two immediate reasons to be skeptical. It puts two turbines on one floating platform, and it puts the rotors downwind of their supports rather than in front of them. I had looked at both ideas years ago and found good reasons why the wind industry had largely ... [continued] The post ",
         "title_cn": "OceanX让顺风漂浮风更值得一看"
-      },
-      {
-        "title": "The Geothermal Energy Wild Card Is Getting Wilder",
-        "link": "https://cleantechnica.com/2026/09/26/geothermal-energy-us-policy-renewable-sustainable/",
-        "pubDate": "Sat, 26 Sep 2026 15:35:54 +0000",
-        "description": "Despite last year's sharp U-turn in federal energy policy, the Energy Department is banking on geothermal energy for rapid scale-up. The post The Geothermal Energy Wild Card Is Getting Wilder appeared first on CleanTechnica .",
-        "title_cn": "地热能外卡越来越疯狂"
-      },
-      {
-        "title": "Publish Your Book Through CleanTechnica Press",
-        "link": "https://cleantechnica.com/2026/09/26/publish-your-book-through-cleantechnica-press/",
-        "pubDate": "Sat, 26 Sep 2026 14:01:03 +0000",
-        "description": "Authors writing a book about clean energy technologies, if you&#8217;re interested in working with CleanTechnica Press, we are officially going to start taking submissions for books to produce. We&#8217;ve launched CleanTechnica Press with my latest book, Outta Gas. We are of course promoting the bo",
-        "title_cn": "通过CleanTechnica Press出版您的书籍"
-      },
-      {
-        "title": "Tesla Full Self Driving Unsupervised Soon? And Further Conversations with Ara (the Grok AI Bot)",
-        "link": "https://cleantechnica.com/2026/09/26/tesla-full-self-driving-unsupervised-soon-and-further-conversations-with-ara-the-grok-ai-bot/",
-        "pubDate": "Sat, 26 Sep 2026 13:51:54 +0000",
-        "description": "First, a disclaimer: I find Musk’s recent rants about remigration (sending all US immigrants with skin color at least slightly darker than his back to their country of origin) despicable. Apparently, his upbringing in Apartheid South Africa continues to color his world view. That’s very ironic becau",
-        "title_cn": "特斯拉全自动驾驶，无人监督？以及与Ara （ Grok AI机器人）的进一步对话"
-      },
-      {
-        "title": "Nissan Releases Pixo for Europe, Not Yet for Japan",
-        "link": "https://cleantechnica.com/2026/09/26/nissan-releases-pixo-for-europe/",
-        "pubDate": "Sat, 26 Sep 2026 13:43:04 +0000",
-        "description": "NISSAN Motor Corporation announced on September 23, 2026, its strategic return to the European A-segment with the unveiling of the all-new Nissan Pixo electric city car. Built under the company&#8217;s &#8220;Mobility Intelligence for Everyday Life&#8221; roadmap, the Pixo represents Nissan&#8217;s ",
-        "title_cn": "日产面向欧洲发布Pixo ，但尚未面向日本发布"
-      },
-      {
-        "title": "Op-Ed: How America Is Ceding the Clean Tech Century to China",
-        "link": "https://cleantechnica.com/2026/09/26/op-ed-how-america-is-ceding-the-clean-tech-century-to-china/",
-        "pubDate": "Sat, 26 Sep 2026 12:17:33 +0000",
-        "description": "THE HIGH-STAKES state visit between Chinese President Xi Jinping and U.S. President Donald Trump at the White House highlights a stark industrial contrast between the two global powers. Beneath the diplomatic pageantry and White House state dinners lies a sobering reality: the world&#8217;s two larg",
-        "title_cn": "专栏：美国如何将清洁技术世纪让给中国"
-      },
-      {
-        "title": "Nissan Taps China JV To Power Philippine EV Push",
-        "link": "https://cleantechnica.com/2026/09/26/nissan-taps-china-jv-to-power-philippine-ev-push/",
-        "pubDate": "Sat, 26 Sep 2026 10:56:52 +0000",
-        "description": "With Plug-In Navara And Primera EV MANILA — Nissan Philippines is anchoring its upcoming electrified vehicle lineup on products developed in China, turning to its joint venture with Dongfeng Motor to bring the Navara Pro Plug-in Hybrid pickup and Primera EV sedan to the local market on Nov. 6. The .",
-        "title_cn": "日产利用中国合资企业为菲律宾电动汽车提供动力"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,10 @@
         "description": "政策赋能氢电协同双向创新突破——2026年氢电协同创新发展交流会成功举办 &nbsp;&nbsp; 电力头条"
       },
       {
-        "title": "氢能如何撑起德国的能源网络 - h2.in-en.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ta1M0U2QtUzBYTjBuU0dNcVlUdGJJY2J4UDBMLXYybE53VXNEaHhabzNnTndGOWZvdDNmaTJyelN1NHlEYUFHZ1pQb2lFMWZNZzUwaQ?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 06:27:52 GMT",
-        "description": "氢能如何撑起德国的能源网络 &nbsp;&nbsp; h2.in-en.com"
+        "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MFNkY08yQ3lKVTVTcmZobnVhbXdNcmpXZE5yX213MFl0RWd3LTZsUjUtMDhpYkhTUnpzNWw1TTJEUzItQkl0NHE3VXMtX2JMVHpIQ241NEpUY0lFZFpJTlFQa2VNOVQt?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 07:13:08 GMT",
+        "description": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 - gessey.com",
@@ -211,22 +211,10 @@
         "description": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 &nbsp;&nbsp; gessey.com"
       },
       {
-        "title": "[能源奥德赛]⑦现代汽车在新万金的梦想：氢能能否成为未来能源？ - 아시아경제",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mbFdXRVQwQjRFeDJYcVJjNXI0dW9MQmJteElGUk9NNnF4YS0xLUplRHRVOEh5YW5MY05yNF83eUY0djJ6ZTRwY3VYQ1ZVX0JQM3RlYWFhZE9DR1hYWm41SGxZZzk?oc=5",
-        "pubDate": "Sat, 26 Sep 2026 22:30:00 GMT",
-        "description": "[能源奥德赛]⑦现代汽车在新万金的梦想：氢能能否成为未来能源？ &nbsp;&nbsp; 아시아경제"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "新能源电力创新学院举办名师导学系列活动 - 华北电力大学",
@@ -235,14 +223,26 @@
         "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
       },
       {
+        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
+        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
+        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -356,23 +356,17 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
@@ -380,10 +374,16 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -392,10 +392,10 @@
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
@@ -410,13 +410,13 @@
         "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       },
       {
-        "title": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ - 雪球",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseGdZcjhBcFk1NENXSFVMWmNWVEJpQ0dBZUpNS1B6QUMxMndReWlkNGUzWlNTeFlrVWNIWmJLNnZYSDU1Y29kbGVWQ0lpb2xo?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "description": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ &nbsp;&nbsp; 雪球"
+        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
+        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
+        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-27 07:25 UTC"
+    "updated": "2026-09-27 18:00 UTC"
   }
 }
