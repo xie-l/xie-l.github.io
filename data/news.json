@@ -9,11 +9,39 @@
         "title_cn": "中国目前在下一代CAR-T疗法试验中处于世界领先地位"
       },
       {
-        "title": "Transplanted hearts adjust their biological age to that of their host",
+        "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+        "link": "https://www.nature.com/articles/d41586-026-02959-7",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02959-7 An elegant account of the physicist’s unusual life story highlights the relationships that inspired him.",
+        "title_cn": "斯蒂芬·霍金传记探索“异常清晰，整洁的头脑”"
+      },
+      {
+        "title": "Bigger than CRISPR? A guide to the latest genome editors",
+        "link": "https://www.nature.com/articles/d41586-026-02964-w",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02964-w Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.",
+        "title_cn": "比CRISPR更强大？最新基因组编辑器指南"
+      },
+      {
+        "title": "Vaping in childhood has bigger health risks than we’d thought",
+        "link": "https://www.nature.com/articles/d41586-026-02962-y",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02962-y Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.",
+        "title_cn": "童年吸电子烟的健康风险比我们想象的要大"
+      },
+      {
+        "title": "Old hearts age backwards: transplanted organs adjust to host's biological age",
         "link": "https://www.nature.com/articles/d41586-026-03043-w",
         "pubDate": "2026-09-28",
         "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.",
-        "title_cn": "移植的心脏将其生物学年龄调整为宿主的年龄"
+        "title_cn": "老年心脏衰老倒退：移植器官适应宿主的生物学年龄"
+      },
+      {
+        "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+        "link": "https://www.nature.com/articles/d41586-026-02277-y",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-02277-y Freelance peer-review jobs through third-party companies raise practical and ethical questions.",
+        "title_cn": "付费同行评审：公司正在向研究人员支付费用，以评估期刊的手稿"
       },
       {
         "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
@@ -28,46 +56,39 @@
         "pubDate": "2026-09-25",
         "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03032-z Andrew Robinson reviews five of the best science picks.",
         "title_cn": "为什么没有炼金术、好奇心和伟大写作，科学就不会存在：书籍简介"
-      },
-      {
-        "title": "Anthropic’s AI biolab finds ‘CRISPR-like’ DNA in viruses. What’s next?",
-        "link": "https://www.nature.com/articles/d41586-026-03039-6",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03039-6 The detection effort enlisted roughly 950 AI agents that spent more than 21 hours combing through DNA sequence databases.",
-        "title_cn": "Anthropic的AI生物实验室在病毒中发现“CRISPR样” DNA。下一步是什么？"
-      },
-      {
-        "title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
-        "link": "https://www.nature.com/articles/d41586-026-03023-0",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03023-0 Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.",
-        "title_cn": "即使经过数十年的“绿色”努力，化学家仍难以抛弃有害溶剂"
-      },
-      {
-        "title": "Nepal’s floods expose issues with climate-disaster funding — firmer policies are needed fast",
-        "link": "https://www.nature.com/articles/d41586-026-03016-z",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03016-z The UN’s climate loss and damage fund needs to consider how to make decisions about finance fairly and quickly, without disadvantaging low-resource nations.",
-        "title_cn": "尼泊尔的洪水暴露了气候灾难资金的问题—需要迅速制定更坚定的政策"
-      },
-      {
-        "title": "Exclusive: Sham scientific societies are misleading star researchers",
-        "link": "https://www.nature.com/articles/d41586-026-02980-w",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-02980-w A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices.",
-        "title_cn": "独家：虚假科学社团误导明星研究人员"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Human Cost Of Data Center Pollution",
+        "link": "https://cleantechnica.com/2026/09/28/the-human-cost-of-data-center-pollution/",
+        "pubDate": "Mon, 28 Sep 2026 17:39:18 +0000",
+        "description": "In 2012, the World Health Organization classified the exhaust from diesel engines as a carcinogen. That decision infuriated the German auto manufacturers, primarily Volkswagen, Mercedes, and BMW. They had all profited handsomely from selling diesel powered automobiles following the OPEC oil embargoe",
+        "title_cn": "数据中心污染的人力成本"
+      },
+      {
+        "title": "Leipzig’s Hydrogen Garbage Trucks Fail The Tuesday Test",
+        "link": "https://cleantechnica.com/2026/09/28/leipzig-hydrogen-garbage-trucks-availability/",
+        "pubDate": "Mon, 28 Sep 2026 14:24:23 +0000",
+        "description": "Garbage collection is not a technology demonstration. Municipalities need trucks that leave the depot every working morning, finish predictable routes, operate compactors through hundreds of stops and come back ready to do it again. That is why refuse collection has become such a useful test of comp",
+        "title_cn": "莱比锡的氢气垃圾车未能通过周二测试"
+      },
+      {
+        "title": "Electric Trucks Cheaper To Operate Than Diesel For Almost Half Of Trucks Sold In EU — New Analysis",
+        "link": "https://cleantechnica.com/2026/09/28/electric-trucks-cheaper-to-operate-than-diesel-for-almost-half-of-trucks-sold-in-eu-new-analysis/",
+        "pubDate": "Mon, 28 Sep 2026 14:05:38 +0000",
+        "description": "As EU hauliers face another diesel price shock, electrification offers the only realistic option to protect them against future oil crises. Electric trucks deliver a lower total cost of ownership (TCO) in six out of nine major EU markets, which together account for 46% of all new heavy trucks sold .",
+        "title_cn": "在欧盟销售的近一半卡车中，电动卡车的运营成本低于柴油—新分析"
+      },
       {
         "title": "Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market",
         "link": "https://cleantechnica.com/2026/09/28/tesla-roadster-electric-sports-car-expensive-aspirational-elections2026/",
@@ -102,31 +123,10 @@
         "pubDate": "Sun, 27 Sep 2026 20:43:24 +0000",
         "description": "In the summer of 2026, demand for electricity in Texas broke the previous record of 85.5 GW, set three years ago: 45 times. On July 22, 2026, ERCOT, the Texas grid operator, recorded an all time high peak demand of 91.1 GW. On August 20, Houston, Texas experienced its first ... [continued] The post ",
         "title_cn": "太阳能、风能、电池存储和政治—这很复杂"
-      },
-      {
-        "title": "The Case For Buying A Used EV Just Got Loads Better",
-        "link": "https://cleantechnica.com/2026/09/27/used-evs-more-reliable-high-mileage-new-study-uk-data/",
-        "pubDate": "Sun, 27 Sep 2026 17:26:34 +0000",
-        "description": "Car dealers in the UK can add high-mileage reliability to their sales pitch for used EVs, as supported by a new study of standard road safety tests comparing electric cars with gas-powered cars. The post The Case For Buying A Used EV Just Got Loads Better appeared first on CleanTechnica .",
-        "title_cn": "购买二手电动汽车的案例只是装载得更好"
-      },
-      {
-        "title": "Ports Need More Capital As Their Bulk Cargo Base Shrinks",
-        "link": "https://cleantechnica.com/2026/09/27/ports-capital-shrinking-bulk-cargo/",
-        "pubDate": "Sun, 27 Sep 2026 14:26:04 +0000",
-        "description": "Ports are being asked to make infrastructure decisions that will last thirty, forty or fifty years while several of the assumptions that paid for their existing infrastructure are changing at the same time. Ships are getting larger, requiring deeper channels, larger cranes and more capable tug fleet",
-        "title_cn": "随着散货基地的缩小，港口需要更多的资本"
-      },
-      {
-        "title": "The SsangYong CCR-1: An Early Korean EV Experiment",
-        "link": "https://cleantechnica.com/2026/09/27/the-ssangyong-ccr-1-an-early-korean-ev-experiment/",
-        "pubDate": "Sun, 27 Sep 2026 14:02:01 +0000",
-        "description": "SEOUL, South Korea — Long before SsangYong Motor became part of the electric-vehicle transition now reshaping South Korea&#8217;s automotive industry, it built an electric sports car that looked as if it had arrived from a different future. The SsangYong CCR-1, short for Clean Car 1, was unveiled in",
-        "title_cn": "双龙CCR-1 ：早期的韩国电动汽车实验"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,74 +242,145 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem",
-        "link": "https://fuelcellsworks.com/2026/09/25/green-hydrogen/how-an-ai-run-lab-cracked-open-green-hydrogen-s-catalyst-problem",
-        "pubDate": "Fri, 25 Sep 2026 16:14:18 GMT",
+        "title": "India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says",
+        "link": "https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says",
+        "pubDate": "Mon, 28 Sep 2026 16:44:58 GMT",
         "description": "",
-        "title_cn": "人工智能实验室如何破解绿色氢气的催化剂问题"
+        "title_cn": "印度预计到2030年将有400-500辆氢气公交车和卡车上路， NGHM首席执行官表示"
       },
       {
-        "title": "170 Companies Urge Brussels to Keep Binding RFNBO Hydrogen Targets Beyond 2030",
-        "link": "https://fuelcellsworks.com/2026/09/24/h2/170-companies-urge-brussels-to-keep-binding-rfnbo-hydrogen-targets-beyond-2030",
-        "pubDate": "Fri, 25 Sep 2026 15:39:01 GMT",
+        "title": "Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026",
+        "link": "https://fuelcellsworks.com/2026/09/26/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-sept-21-sep-t-18-2026",
+        "pubDate": "Mon, 28 Sep 2026 16:28:19 GMT",
         "description": "",
-        "title_cn": "170家公司敦促布鲁塞尔在2030年后继续约束RFNBO的氢目标"
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年9月21日至26日"
       },
       {
-        "title": "Armenia Explores Hydrogen Safety Cooperation with Fraunhofer",
-        "link": "https://fuelcellsworks.com/2026/09/21/h2/armenia-explores-hydrogen-safety-cooperation-with-fraunhofer",
-        "pubDate": "Fri, 25 Sep 2026 15:29:01 GMT",
+        "title": "Fuel-Cell Components Hub Opens with Production and Testing Under One Roof",
+        "link": "https://fuelcellsworks.com/2026/09/28/electrolyzer/ufi-hydrogen-inaugurates-mea-production-hub-in-trentino-50-million-investment-plan-by-2029",
+        "pubDate": "Mon, 28 Sep 2026 15:59:20 GMT",
         "description": "",
-        "title_cn": "亚美尼亚探索与Fraunhofer的氢能安全合作"
+        "title_cn": "燃料电池组件枢纽开放，在一个屋檐下进行生产和测试"
       },
       {
-        "title": "India Opens New 54,000-Tonne Green Ammonia Auction for Dhule Fertiliser Plant",
-        "link": "https://fuelcellsworks.com/2026/09/25/clean-energy/india-opens-new-54-000-tonne-green-ammonia-auction-for-dhule-fertiliser-plant",
-        "pubDate": "Fri, 25 Sep 2026 15:27:25 GMT",
+        "title": "Hydrogen's First Kilometers on a Greek Motorway",
+        "link": "https://fuelcellsworks.com/2026/09/27/fuel-cells/hydrogen-s-first-kilometers-on-a-greek-motorway",
+        "pubDate": "Mon, 28 Sep 2026 15:54:45 GMT",
         "description": "",
-        "title_cn": "印度为Dhule化肥厂开设54,000吨新绿色氨拍卖"
+        "title_cn": "希腊高速公路上氢气的第一公里"
       },
       {
-        "title": "Atlas Copco Introduces H2Y Hydraulic Booster to Support Next Phase of UK Hydrogen Rollout",
-        "link": "https://fuelcellsworks.com/2026/09/21/h2/atlas-copco-introduces-h2y-hydraulic-booster-to-support-next-phase-of-uk-hydrogen-rollout",
-        "pubDate": "Fri, 25 Sep 2026 15:19:53 GMT",
+        "title": "Bosch Rexroth and Kawasaki to Cooperate on Future-Proof Solutions for Off-Highway Machines and Hydrogen Applications",
+        "link": "https://fuelcellsworks.com/2026/09/28/h2/bosch-rexroth-and-kawasaki-to-cooperate-on-future-proof-solutions-for-off-highway-machines-and-hydrogen-applications",
+        "pubDate": "Mon, 28 Sep 2026 15:36:18 GMT",
         "description": "",
-        "title_cn": "阿特拉斯·科普柯推出H2Y液压助力器，以支持英国氢能部署的下一阶段"
+        "title_cn": "博世力士乐和川崎将合作开发面向未来的非公路机械和氢气应用解决方案"
       },
       {
-        "title": "Cyprus Looks to Greek Hydrogen Valley for Development Model",
-        "link": "https://fuelcellsworks.com/2026/09/24/h2/new-hydrogen-valley-plans-take-shape-using-lessons-from-existing-regional-project",
-        "pubDate": "Fri, 25 Sep 2026 15:07:46 GMT",
+        "title": "Multi-Billion Incentive Scheme Shifts From Policy Promise to Competitive Project Support",
+        "link": "https://fuelcellsworks.com/2026/09/24/h2/multi-billion-incentive-scheme-shifts-from-policy-promise-to-competitive-project-support",
+        "pubDate": "Mon, 28 Sep 2026 15:08:20 GMT",
         "description": "",
-        "title_cn": "塞浦路斯将希腊氢能谷作为发展模式"
+        "title_cn": "数十亿激励计划从政策承诺转向有竞争力的项目支持"
       },
       {
-        "title": "Maruti Suzuki Commissions Its First Green Hydrogen Plant at Its Manesar Facility in Haryana",
-        "link": "https://fuelcellsworks.com/2026/09/24/h2/maruti-suzuki-commissions-its-first-green-hydrogen-plant-at-its-manesar-facility-in-haryana",
-        "pubDate": "Fri, 25 Sep 2026 15:06:30 GMT",
+        "title": "PacificLight Breaks Ground on S$1.2 Billion Hydrogen-Ready CCGT in Singapore",
+        "link": "https://fuelcellsworks.com/2026/09/28/h2/pacificlight-breaks-ground-on-s-1-2-billion-hydrogen-ready-ccgt-in-singapore",
+        "pubDate": "Mon, 28 Sep 2026 15:05:21 GMT",
         "description": "",
-        "title_cn": "Maruti Suzuki在其位于哈里亚纳邦的Manesar工厂委托建造其第一座绿色氢气工厂"
+        "title_cn": "PacificLight在新加坡斥资12亿新元（ $ ）的氢气就绪型CCGT项目破土动工"
       },
       {
-        "title": "Construction Starts on Kenya Green Hydrogen Centre to Supply Coffee Farm With Fertiliser and Hospital With Oxygen",
-        "link": "https://fuelcellsworks.com/2026/09/25/h2/construction-starts-on-kenya-green-hydrogen-centre-to-supply-coffee-farm-with-fertiliser-and-hospital-with-oxygen",
-        "pubDate": "Fri, 25 Sep 2026 15:04:06 GMT",
+        "title": "Pau Council Debates Future of Fébus Hydrogen Buses as New Majority Moves to Replace Flee",
+        "link": "https://fuelcellsworks.com/2026/09/27/fuel-cells/pau-council-debates-future-of-febus-hydrogen-buses-as-new-majority-moves-to-replace-flee",
+        "pubDate": "Mon, 28 Sep 2026 15:03:17 GMT",
         "description": "",
-        "title_cn": "肯尼亚绿色氢能中心开工建设，为咖啡农场提供肥料，为医院提供氧气"
+        "title_cn": "保罗委员会辩论Fébus氢气巴士的未来，因为新的大多数人采取行动取代逃离"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides",
+        "link": "https://arxiv.org/abs/2609.31616v1",
+        "pubDate": "2026-09-25T17:59:05Z",
+        "description": "Isoelectronic compounds are generally expected to exhibit related electronic, structural, and magnetic behavior. Chromium monopnictides CrX (X= Sb, As, P), however, display a striking evolution from high-temperature altermagnetism in NiAs-type CrSb, through double-helical antiferromagnetism in MnP-t",
+        "title_cn": "Chromium Monopnictides中磁多样性的统一自旋费米子框架"
+      },
+      {
+        "title": "Transition Radiation Detector Upgrade for the GlueX-III Charmonium Program",
+        "link": "https://arxiv.org/abs/2609.31585v1",
+        "pubDate": "2026-09-25T17:41:03Z",
+        "description": "The GlueX-III experiment at Jefferson Lab, planned to run in 2027-2029, will enhance the laboratory's capability to explore charmonium production near threshold and related aspects of QCD in the non-perturbative regime. A central upgrade for GlueX-III is a large-scale triple-GEM Transition Radiation",
+        "title_cn": "GlueX-III Charmonium项目过渡辐射探测器升级"
+      },
+      {
+        "title": "Numerical Simulation of Electrical Properties in Cortical and Trabecular Bone: A Simplified Model",
+        "link": "https://arxiv.org/abs/2609.31584v1",
+        "pubDate": "2026-09-25T17:41:00Z",
+        "description": "The electrical properties of biological tissues depend on their composition and microstructure and determine their response to applied electric fields. In bone tissue, these properties are closely related to its composition, porosity, and microstructural organization. However, simplified models that",
+        "title_cn": "皮质骨和小梁骨电学特性的数值模拟：一个简化模型"
+      },
+      {
+        "title": "Inclination of Miranda as a Constraint on the Tidal Dissipation of Uranus",
+        "link": "https://arxiv.org/abs/2609.31580v1",
+        "pubDate": "2026-09-25T17:39:46Z",
+        "description": "The five major moons of Uranus record a complicated geological history characterized by both tectonic resurfacing and heavy impact cratering, connecting their evolution to dynamical processes in the Solar System. Miranda, the smallest and closest major moon to Uranus, has an unusually large orbital ",
+        "title_cn": "米兰达倾斜对天王星潮汐耗散的限制"
+      },
+      {
+        "title": "A Comprehensive Study of the Magnetic White Dwarfs in DESI DR1",
+        "link": "https://arxiv.org/abs/2609.31565v1",
+        "pubDate": "2026-09-25T17:29:53Z",
+        "description": "As the end point of stellar evolution for most stars, white dwarfs offer powerful insight into stellar magnetism. Multiple formation channels are required to explain the observed properties of magnetic white dwarfs, and the mechanisms that produce unusual objects have potential to unlock new realms ",
+        "title_cn": "DESI DR1中磁性白矮星的综合研究"
+      },
+      {
+        "title": "Online Learning via Learned Latent Bayesian Tracking",
+        "link": "https://arxiv.org/abs/2609.31559v1",
+        "pubDate": "2026-09-25T17:27:14Z",
+        "description": "Online learning in non-stationary environments requires models to adapt rapidly from streaming data under strict computational constraints. A principled approach casts online learning as Bayesian state tracking, where model parameters are updated sequentially via Bayesian filtering. However, applyin",
+        "title_cn": "通过学习的潜在贝叶斯跟踪在线学习"
+      },
+      {
+        "title": "Exact Solutions of the Dunkl--Pauli Equation in the Presence of a Magnetic Field from an su(1,1) Algebraic Approach",
+        "link": "https://arxiv.org/abs/2609.31554v1",
+        "pubDate": "2026-09-25T17:24:34Z",
+        "description": "We investigate the two-dimensional Dunkl--Pauli equation for a spin--$1/2$ particle in the presence of an external magnetic field within an algebraic framework. While previous studies have provided exact solutions of the Dunkl--Pauli system, its underlying dynamical symmetry and algebraic structure ",
+        "title_cn": "Su (1,1)代数方法中存在磁场的Dunkl-Pauli方程的精确解"
+      },
+      {
+        "title": "Cosmic Heterogeneity Shapes the Evolution of Dark Energy and Time",
+        "link": "https://arxiv.org/abs/2609.31543v1",
+        "pubDate": "2026-09-25T17:15:11Z",
+        "description": "Early- and late-Universe measurements of the Hubble constant disagree, a puzzle known as the Hubble tension. We derive cosmological parameters from first principles, using only the dynamics of cosmic volume and the possibility that matter can be unevenly distributed. Within this framework, three of ",
+        "title_cn": "宇宙异质性塑造黑暗能量和时间的演化"
+      },
+      {
+        "title": "Collective impact of opinion formation on agent-based epidemic dynamics",
+        "link": "https://arxiv.org/abs/2609.31536v1",
+        "pubDate": "2026-09-25T17:09:08Z",
+        "description": "Epidemic spread and collective opinion formation are tightly coupled processes: individual beliefs about the severity of an outbreak and the value of protective measures shape behavior, while the evolving epidemic itself reshapes public sentiment through risk perception. We propose an agent-based fr",
+        "title_cn": "意见形成对基于主体的疫情动态的集体影响"
+      },
+      {
+        "title": "Computing the Iwasawa $μ$-Invariants for Elliptic Curves over $\\mathbb{Z}_2$-Extensions",
+        "link": "https://arxiv.org/abs/2609.31532v1",
+        "pubDate": "2026-09-25T17:07:24Z",
+        "description": "Let $E$ be an elliptic curve defined over rational numbers. Further assume $E$ has good ordinary reduction at $p=2$ and $E[4]$ is reducible as a $G_\\mathbb{Q}$-representation. In this paper, we offer sufficient and necessary computational criteria for the algebraic Iwasawa $μ$-invariant over the cyc",
+        "title_cn": "计算椭圆曲线在$\\ mathbb {Z}上的Iwasawa $ μ $ -不变量_2 $ -扩展"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "policy_nea": {
     "items": [
@@ -363,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -386,16 +457,16 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+      },
+      {
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
@@ -404,19 +475,19 @@
         "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
+        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbTdlc3ZNYWxMZVJNYThrRU5nTm5nbWZzZmZCblFUXy1qYWdfQUd2OGcyYWtYcjhQOGtET2o5YWZPQWV6TnVhX1lWR2xzV0RGTEhSVDJzS3ZnMzNrOVdYdnV3?oc=5",
-        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
-        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-28 08:03 UTC"
+    "updated": "2026-09-28 20:19 UTC"
   }
 }
