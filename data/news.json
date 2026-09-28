@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "China now leads the world in trials for next-gen CAR-T therapies",
+        "link": "https://www.nature.com/articles/d41586-026-03004-3",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03004-3 China tests these therapies faster than the rest of the world but regulatory changes could slow them down.",
+        "title_cn": "中国目前在下一代CAR-T疗法试验中处于世界领先地位"
+      },
+      {
+        "title": "Transplanted hearts adjust their biological age to that of their host",
+        "link": "https://www.nature.com/articles/d41586-026-03043-w",
+        "pubDate": "2026-09-28",
+        "description": "Nature, Published online: 28 September 2026; doi:10.1038/d41586-026-03043-w Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.",
+        "title_cn": "移植的心脏将其生物学年龄调整为宿主的年龄"
+      },
+      {
         "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
         "link": "https://www.nature.com/articles/d41586-026-03041-y",
         "pubDate": "2026-09-25",
@@ -42,32 +56,39 @@
         "pubDate": "2026-09-25",
         "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-02980-w A Nature investigation reveals a network of organizations that have been building their ranks through deceptive practices.",
         "title_cn": "独家：虚假科学社团误导明星研究人员"
-      },
-      {
-        "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
-        "link": "https://www.nature.com/articles/d41586-026-03028-9",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03028-9 Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety — and giving AI models a sense of 'taste'.",
-        "title_cn": "OpenAI研究主管在狂野的几周后谈论“文化重置”"
-      },
-      {
-        "title": "AI bots are flooding researchers with requests for money and time",
-        "link": "https://www.nature.com/articles/d41586-026-03005-2",
-        "pubDate": "2026-09-25",
-        "description": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03005-2 Many scientists use artificial intelligence in their work, but agents are increasingly soliciting researchers for collaborations.",
-        "title_cn": "人工智能机器人充斥着对金钱和时间的要求"
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market",
+        "link": "https://cleantechnica.com/2026/09/28/tesla-roadster-electric-sports-car-expensive-aspirational-elections2026/",
+        "pubDate": "Mon, 28 Sep 2026 04:39:38 +0000",
+        "description": "The long-awaited unveiling of the new $200,000 Tesla Roadster electric sports car is set for October 1, just in time to stoke the fires of the affordability crisis in the runup to Election Day 2026. The post Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market appeared first on ",
+        "title_cn": "Tone-Deaf Trillionaire向酸性美国市场推出价值$ 200,000的电动汽车"
+      },
+      {
+        "title": "XPENG VLA 2.0 vs. Tesla FSD in Amsterdam — Part 1: XPENG L03",
+        "link": "https://cleantechnica.com/2026/09/28/xpeng-vla-2-0-vs-tesla-fsd-in-amsterdam-part-1-xpeng-l03/",
+        "pubDate": "Mon, 28 Sep 2026 04:27:45 +0000",
+        "description": "I recently became the first person outside of XPENG to ride in a L03 prototype using XNGP with VLA 2.0 followed by a Tesla Model 3 using FSD on the same roads. Many have experienced FSD, but not on roads where VLA 2.0 is available. People have also driven or ... [continued] The post XPENG VLA 2.0 vs",
+        "title_cn": "XPENG VLA 2.0与阿姆斯特丹的特斯拉FSD —第1部分： XPENG L03"
+      },
+      {
+        "title": "Kia PH Brings EV3 to Shake Up Compact Electric Crossover Market",
+        "link": "https://cleantechnica.com/2026/09/27/kia-ph-brings-ev3-to-shake-up-compact-electric-crossover-market/",
+        "pubDate": "Mon, 28 Sep 2026 02:58:51 +0000",
+        "description": "MAKATI CITY, Philippines — Kia Philippines expanded its local electric lineup with the September 21 rollout of the EV3, pricing the subcompact model at P1.898 million (roughly $30,400) to take aim directly at rival battery-powered options. The Ayala-backed distributor introduced the nameplate in a s",
+        "title_cn": "起亚PH推出EV3撼动紧凑型电动跨界车市场"
+      },
       {
         "title": "Space Squeeze Forces Solar Developers To Get Creative",
         "link": "https://cleantechnica.com/2026/09/27/community-solar-power-plants-tight-spaces-high-density/",
@@ -102,31 +123,10 @@
         "pubDate": "Sun, 27 Sep 2026 14:02:01 +0000",
         "description": "SEOUL, South Korea — Long before SsangYong Motor became part of the electric-vehicle transition now reshaping South Korea&#8217;s automotive industry, it built an electric sports car that looked as if it had arrived from a different future. The SsangYong CCR-1, short for Clean Car 1, was unveiled in",
         "title_cn": "双龙CCR-1 ：早期的韩国电动汽车实验"
-      },
-      {
-        "title": "The Philippines’ Electric Vehicle Push Cannot Afford to Ignore ASEAN",
-        "link": "https://cleantechnica.com/2026/09/27/the-philippines-electric-vehicle-push-cannot-afford-to-ignore-asean/",
-        "pubDate": "Sun, 27 Sep 2026 13:59:45 +0000",
-        "description": "MANILA, Philippines — On the surface, the transition to electric mobility looks like an intensely domestic fight. Commuters in Metro Manila complain about erratic fuel pump prices, local transport cooperatives struggle to finance modern electric jeepneys, and utility companies work to install chargi",
-        "title_cn": "菲律宾电动汽车的推动力无法忽视东盟"
-      },
-      {
-        "title": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
-        "link": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
-        "pubDate": "Sun, 27 Sep 2026 08:46:28 +0000",
-        "description": "Capable of 1,000-kilometer range for commercial vehicles HANOVER, Germany — Chinese battery maker Contemporary Amperex Technology Co. Ltd. unveiled a new modular battery platform for commercial vehicles at IAA Transportation 2026, with its heavy-duty version offering up to 1,000 kilometers of range ",
-        "title_cn": "宁德时代在IAA运输展上推出TECTRANS II电池平台"
-      },
-      {
-        "title": "Volvo’s Electric Trucks Win International Truck of the Year 2027 at IAA",
-        "link": "https://cleantechnica.com/2026/09/27/volvos-electric-truck-range-wins-international-truck-of-the-year-2027-at-iaa/",
-        "pubDate": "Sun, 27 Sep 2026 08:34:52 +0000",
-        "description": "VOLVO Trucks’ new generation of heavy-duty electric trucks has been named International Truck of the Year 2027, giving the Swedish manufacturer its eighth win in the prestigious award and putting battery-electric heavy trucks at the center of its IAA Transportation 2026 presentation in Hanover, Germ",
-        "title_cn": "沃尔沃电动卡车在IAA赢得2027年国际卡车大奖"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,10 @@
         "description": "政策赋能氢电协同双向创新突破——2026年氢电协同创新发展交流会成功举办 &nbsp;&nbsp; 电力头条"
       },
       {
-        "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - mnewenergy.in-en.com",
+        "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MFNkY08yQ3lKVTVTcmZobnVhbXdNcmpXZE5yX213MFl0RWd3LTZsUjUtMDhpYkhTUnpzNWw1TTJEUzItQkl0NHE3VXMtX2JMVHpIQ241NEpUY0lFZFpJTlFQa2VNOVQt?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:13:08 GMT",
-        "description": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 &nbsp;&nbsp; mnewenergy.in-en.com"
+        "description": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 - gessey.com",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "policy_nea": {
     "items": [
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -386,22 +386,22 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+      },
+      {
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-28 00:12 UTC"
+    "updated": "2026-09-28 08:03 UTC"
   }
 }
