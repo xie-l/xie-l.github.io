@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "VLA 2.0 vs. FSD in Amsterdam — Part 2: Tesla Model 3",
+        "link": "https://cleantechnica.com/2026/09/29/vla-2-0-vs-fsd-in-amsterdam-part-2-tesla-model-3/",
+        "pubDate": "Tue, 29 Sep 2026 05:10:51 +0000",
+        "description": "In the first part of this series, we rode in an XPENG L03 with VLA 2.0 in Amsterdam. For context, it is best to read that article first. In the second part, we switch to a Tesla Model 3 with FSD. While FSD is common in the US, it has ... [continued] The post VLA 2.0 vs. FSD in Amsterdam — Part 2: Te",
+        "title_cn": "VLA 2.0与阿姆斯特丹的FSD —第2部分：特斯拉Model 3"
+      },
+      {
+        "title": "Geely Gets 30% of NIO Power",
+        "link": "https://cleantechnica.com/2026/09/28/geely-gets-30-of-nio-power/",
+        "pubDate": "Tue, 29 Sep 2026 02:59:00 +0000",
+        "description": "Battery swapping has been a concept for electric vehicles for much longer than I&#8217;ve been covering the technology (which is more than 14 years). Better Place launched and grew, and then went bankrupt. Some other battery swapping trials have come and gone much more quietly. And then there&#8217;",
+        "title_cn": "吉利获得30%的NIO电力"
+      },
+      {
+        "title": "Trump Administration Finalizes Rule that Makes Cars Less Fuel Efficient",
+        "link": "https://cleantechnica.com/2026/09/28/trump-administration-finalizes-rule-that-makes-cars-less-fuel-efficient/",
+        "pubDate": "Tue, 29 Sep 2026 02:32:45 +0000",
+        "description": "Rule Will Drive Up Costs at the Pump for Families Already Struggling with High Prices WASHINGTON, D.C. — [On Saturday], Donald Trump wrote on Truth Social that the Trump administration has finalized a rule rolling back federal Corporate Average Fuel Economy (CAFE) standards, making vehicles less fue",
+        "title_cn": "特朗普政府最终制定了降低汽车燃油效率的规则"
+      },
       {
         "title": "Are Electric Trucks Cheaper To Operate Than Diesel?",
         "link": "https://cleantechnica.com/2026/09/28/are-electric-trucks-cheaper-to-operate-than-diesel/",
@@ -102,31 +123,10 @@
         "pubDate": "Mon, 28 Sep 2026 14:24:23 +0000",
         "description": "Garbage collection is not a technology demonstration. Municipalities need trucks that leave the depot every working morning, finish predictable routes, operate compactors through hundreds of stops and come back ready to do it again. That is why refuse collection has become such a useful test of comp",
         "title_cn": "莱比锡的氢气垃圾车未能通过周二测试"
-      },
-      {
-        "title": "Electric Trucks Cheaper To Operate Than Diesel For Almost Half Of Trucks Sold In EU — New Analysis",
-        "link": "https://cleantechnica.com/2026/09/28/electric-trucks-cheaper-to-operate-than-diesel-for-almost-half-of-trucks-sold-in-eu-new-analysis/",
-        "pubDate": "Mon, 28 Sep 2026 14:05:38 +0000",
-        "description": "As EU hauliers face another diesel price shock, electrification offers the only realistic option to protect them against future oil crises. Electric trucks deliver a lower total cost of ownership (TCO) in six out of nine major EU markets, which together account for 46% of all new heavy trucks sold .",
-        "title_cn": "在欧盟销售的近一半卡车中，电动卡车的运营成本低于柴油—新分析"
-      },
-      {
-        "title": "Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market",
-        "link": "https://cleantechnica.com/2026/09/28/tesla-roadster-electric-sports-car-expensive-aspirational-elections2026/",
-        "pubDate": "Mon, 28 Sep 2026 04:39:38 +0000",
-        "description": "The long-awaited unveiling of the new $200,000 Tesla Roadster electric sports car is set for October 1, just in time to stoke the fires of the affordability crisis in the runup to Election Day 2026. The post Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market appeared first on ",
-        "title_cn": "Tone-Deaf Trillionaire向酸性美国市场推出价值$ 200,000的电动汽车"
-      },
-      {
-        "title": "XPENG VLA 2.0 vs. Tesla FSD in Amsterdam — Part 1: XPENG L03",
-        "link": "https://cleantechnica.com/2026/09/28/xpeng-vla-2-0-vs-tesla-fsd-in-amsterdam-part-1-xpeng-l03/",
-        "pubDate": "Mon, 28 Sep 2026 04:27:45 +0000",
-        "description": "I recently became the first person outside of XPENG to ride in a L03 prototype using XNGP with VLA 2.0 followed by a Tesla Model 3 using FSD on the same roads. Many have experienced FSD, but not on roads where VLA 2.0 is available. People have also driven or ... [continued] The post XPENG VLA 2.0 vs",
-        "title_cn": "XPENG VLA 2.0与阿姆斯特丹的特斯拉FSD —第1部分： XPENG L03"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "energy": {
     "items": [
@@ -188,16 +188,10 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "政策赋能氢电协同双向创新突破——2026年氢电协同创新发展交流会成功举办 - 电力头条",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKeks4TlhmOEktVnBEQ0libTUwYWVYVFpVc3BZVDdXY3VGZGlWWFZ0U0VkSVVndW9MQWMwNGl6NXluODF0Wk12TEZZQldxTVpQb1BmS2l3VQ?oc=5",
-        "pubDate": "Thu, 24 Sep 2026 18:16:04 GMT",
-        "description": "政策赋能氢电协同双向创新突破——2026年氢电协同创新发展交流会成功举办 &nbsp;&nbsp; 电力头条"
-      },
       {
         "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MFNkY08yQ3lKVTVTcmZobnVhbXdNcmpXZE5yX213MFl0RWd3LTZsUjUtMDhpYkhTUnpzNWw1TTJEUzItQkl0NHE3VXMtX2JMVHpIQ241NEpUY0lFZFpJTlFQa2VNOVQt?oc=5",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Packets, Transactions and Queues: Design Principles for HFT Systems from a Measurement Study of CME Market Data",
-        "link": "https://arxiv.org/abs/2609.32848v1",
-        "pubDate": "2026-09-26T18:22:45Z",
-        "description": "HFT systems are conventionally built as a single-threaded event loop, on the rule that every thread hop adds latency. We test that rule against a measurement study of more than a year of CME market data for the NQ front-month contract, following every packet and matching-engine transaction through t",
-        "title_cn": "数据包、交易和队列： CME市场数据测量研究中的高频交易系统设计原则"
+        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+        "link": "https://arxiv.org/abs/2609.35770v1",
+        "pubDate": "2026-09-28T17:59:58Z",
+        "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variabilit",
+        "title_cn": "FURE ：无动物毛皮数据集的高效实例特异性3D毛皮重建"
       },
       {
-        "title": "Generation of arbitrary quantum states in cavity-atom systems with a three-level ancilla",
-        "link": "https://arxiv.org/abs/2609.32845v1",
-        "pubDate": "2026-09-26T18:19:33Z",
-        "description": "We generalized the seminal work of Law & Eberly, and propose a protocol to generate arbitrary quantum states with a three-level atom as an ancilla in a more efficient manner. This protocol moves two excitations in parallel in each control step, thus reducing the number of evolution steps by half. Fu",
-        "title_cn": "在具有三级祖先的腔原子系统中产生任意量子态"
+        "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+        "link": "https://arxiv.org/abs/2609.35760v1",
+        "pubDate": "2026-09-28T17:59:09Z",
+        "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call.",
+        "title_cn": "TokenCast ：预测LLM代理执行期间的代币消耗量"
       },
       {
-        "title": "HamiFormer: Dual-Expert Diffusion Fields with Affine Symplectic Maps",
-        "link": "https://arxiv.org/abs/2609.32838v1",
-        "pubDate": "2026-09-26T18:10:55Z",
-        "description": "Predicting smooth dynamics and collisions requires modeling continuous evolution and abrupt state changes. We introduce HamiFormer, a dual-expert diffusion field combining whole-window denoising with residual-corrected Hamiltonian propagation. Their mixed-state feedback attenuates the direct contrib",
-        "title_cn": "HamiFormer ：具有仿射辛映射的双专家扩散场"
+        "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+        "link": "https://arxiv.org/abs/2609.35758v1",
+        "pubDate": "2026-09-28T17:59:07Z",
+        "description": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent last-layer adaptive disturbance-rejection methods. Specifically, we introduce a statistica",
+        "title_cn": "复合自适应控制压缩动态表示的统计学习"
       },
       {
-        "title": "Radiomap Blind Prediction under Incomplete Observation: Error Characterization and Correctable Propagation-Prior Learning",
-        "link": "https://arxiv.org/abs/2609.32836v1",
-        "pubDate": "2026-09-26T18:08:41Z",
-        "description": "Radiomap blind prediction aims to infer radiomaps from observable representations of the propagation environment and base station configuration without field measurements. In practice, the observable representations are inherently incomplete. Thus, the target radiomap is not fully determined by the ",
-        "title_cn": "不完全观察下的Radiomap盲预测：错误表征和可纠正的传播-先验学习"
+        "title": "Near-Optimal Bounds for Testing Residual-String Equality and Parenthesis Languages",
+        "link": "https://arxiv.org/abs/2609.35746v1",
+        "pubDate": "2026-09-28T17:56:02Z",
+        "description": "Residual-String Equality, denoted $\\texttt{ResStringEq}$, is the property consisting of all pairs of strings over $\\{0,1,*\\}$ that are equal after deleting all `$*$' symbols from them. This property was first introduced by Fischer, Magniez, and Starikovskaya (SODA 2018), who used it to show a lower ",
+        "title_cn": "测试残余串相等和括号语言的近似最佳界限"
       },
       {
-        "title": "Synchronized Solutions for Liouville Systems with Sign-Changing Coefficients",
-        "link": "https://arxiv.org/abs/2609.32812v1",
-        "pubDate": "2026-09-26T17:36:50Z",
-        "description": "We consider singular Liouville systems on closed Riemann surfaces with a common sign-changing coefficient. Direct continuation from a positive coefficient is obstructed by the unavoidable appearance of degenerate zeroes along such a homotopy. We instead identify an intrinsic ray in the parameter spa",
-        "title_cn": "具有符号变换系数的Liouville系统的同步解决方案"
+        "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
+        "link": "https://arxiv.org/abs/2609.35743v1",
+        "pubDate": "2026-09-28T17:54:32Z",
+        "description": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent hand pose estimators and SLAM systems, resulting in error accumulation, complex pipelines, and severe c",
+        "title_cn": "InfiniHand ：来自自我中心视频的流媒体世界空间手部运动估计"
       },
       {
-        "title": "Commutative algebras are ideals of evolution algebras",
-        "link": "https://arxiv.org/abs/2609.32784v1",
-        "pubDate": "2026-09-26T16:58:52Z",
-        "description": "We prove that every finite-dimensional commutative algebra can be embedded as an ideal of a finite-dimensional evolution algebra. We then determine the smallest possible dimension of an evolution algebra admitting such an embedding and study some structural properties preserved by the construction. ",
-        "title_cn": "交换代数是进化代数的理想"
+        "title": "Fast radio burst - persistent radio source systems III. The relation bewteen PRS luminosity and FRB rotation measure",
+        "link": "https://arxiv.org/abs/2609.35733v1",
+        "pubDate": "2026-09-28T17:51:41Z",
+        "description": "Fast radio bursts (FRBs) are millisecond-duration radio transients of extragalactic origin whose physical origin remains uncertain. A small fraction of FRBs are known to repeat, and some of them are associated with persistent radio sources (PRSs), interpreted as synchrotron-emitting nebulae surround",
+        "title_cn": "快速无线电突发-持久性无线电源系统III. PRS光度和FRB旋转测量之间的关系"
       },
       {
-        "title": "Copper-Policy: Focus on the Representation for Robust Robot Manipulation",
-        "link": "https://arxiv.org/abs/2609.32779v1",
-        "pubDate": "2026-09-26T16:53:28Z",
-        "description": "World Action Models (WAMs) acquire behavioral priors by modeling future scene evolution, but predicting detailed futures in pixel or latent space incurs substantial cost. Recent evidence that co-training gains persist without test-time generation raises a question: what must a WAM learn to improve c",
-        "title_cn": "铜政策：专注于强大机器人操纵的表示"
+        "title": "Empirical determination of the Galactic neutron star--black hole merger rate using StarTrack models",
+        "link": "https://arxiv.org/abs/2609.35723v1",
+        "pubDate": "2026-09-28T17:48:31Z",
+        "description": "The discovery of a pulsar in a binary system with a black hole would provide a unique laboratory for testing general relativity in the strong-field regime and offer vital constraints on massive star evolution. We assess prospects for the detectability of such systems by utilizing the radio pulsar po",
+        "title_cn": "银河系中子星的实证测定--基于StarTrack模型的黑洞合并率"
       },
       {
-        "title": "Robust Bayesian Optimization with Q-Exponential Surrogates",
-        "link": "https://arxiv.org/abs/2609.32775v1",
-        "pubDate": "2026-09-26T16:51:40Z",
-        "description": "Bayesian optimization (BO) is a widely used framework for optimizing expensive black-box objectives, but standard BO methods often use Gaussian process (GP) surrogates whose Gaussian assumption is sensitive to outliers and heavy-tailed noise. We introduce q-ED-BO, a robust BO method whose surrogate ",
-        "title_cn": "使用Q-指数代理的稳健贝叶斯优化"
+        "title": "SN 2025qe: A case study of diversity in low-luminosity thermonuclear explosions",
+        "link": "https://arxiv.org/abs/2609.35720v1",
+        "pubDate": "2026-09-28T17:47:49Z",
+        "description": "We present optical photometric and spectroscopic observations of SN 2025qe, a Type Iax supernova in IC 0529, monitored from $-10$ to $+150$ rest-frame days relative to $g'$-band maximum using the GROWTH-India and the Himalayan Chandra Telescopes. SN 2025qe reaches a peak $g'$-band absolute magnitude",
+        "title_cn": "SN 2025qe ：低亮度热核爆炸多样性案例研究"
       },
       {
-        "title": "Structuring Relations Among Learning Paradigms via Protocol--Objective--Resource Reductions",
-        "link": "https://arxiv.org/abs/2609.32766v1",
-        "pubDate": "2026-09-26T16:38:54Z",
-        "description": "Modern machine learning spans supervised, transfer, continual, meta-learning, and related regimes that often reuse the same hypothesis classes, architectures, and optimizers but differ in information access, objectives, memory, adaptation, and sample accounting. This makes it difficult to determine ",
-        "title_cn": "通过协议构建学习范式之间的关系--目标--减少资源"
+        "title": "RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation",
+        "link": "https://arxiv.org/abs/2609.35717v1",
+        "pubDate": "2026-09-28T17:46:49Z",
+        "description": "Robots with kinematic loops, coupled actuators, and changing contacts require consistent models of configuration, motion, force, and dynamics. Yet these interfaces are often reconstructed separately for control and simulation, making closure and actuation consistency difficult to maintain. This pape",
+        "title_cn": "RoboCompiler ：用于一致建模、控制和仿真的闭链机器人的图原生编译"
       },
       {
-        "title": "CUA-Sandbox: Efficient Environments for Computer-Use Agent Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2609.32750v1",
-        "pubDate": "2026-09-26T16:16:08Z",
-        "description": "Reinforcement learning enables computer-use agents to improve through interaction with real software environments, including websites and desktop applications. However, conventional deployments replicate an initialized runtime for each independent rollout, even when trajectories use the same softwar",
-        "title_cn": "CUA-Sandbox ：计算机使用Agent强化学习的高效环境"
+        "title": "Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective",
+        "link": "https://arxiv.org/abs/2609.35710v1",
+        "pubDate": "2026-09-28T17:45:16Z",
+        "description": "We introduce LHFM, a geometric framework for learning image dynamics. Drawing on structures central to classical mechanics, symplectic geometry, and geometric quantization, LHFM represents each image as an exact Lagrangian graph and models its evolution through image-dependent Hamiltonian flows, whi",
+        "title_cn": "拉格朗日流--用于视频预测和图像生成的哈密顿流：一种辛视角"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,10 +391,10 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - cls.cn",
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
-        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; cls.cn"
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
@@ -409,10 +409,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - h2.solarbe.com",
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -434,10 +434,16 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
@@ -445,22 +451,16 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -481,13 +481,13 @@
         "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "2026年，正在加速推进的八大“绿电直连”制氢项目 - h2.solarbe.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajY3a0pOeWFOS3ZsV0d5QkdjZVVsZnpwcTg0ci1mbVJhNm4xMFRvTmVoN28ycVdBdWJ1N25kZkdEalJ2ZFlfZ1VhcEZvUDBmUkRWdTVBMi1jYmpuNmZB?oc=5",
-        "pubDate": "Wed, 06 May 2026 07:00:00 GMT",
-        "description": "2026年，正在加速推进的八大“绿电直连”制氢项目 &nbsp;&nbsp; h2.solarbe.com"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-29 01:22 UTC"
+    "updated": "2026-09-29 07:44 UTC"
   }
 }
