@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
+        "link": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
+        "pubDate": "Wed, 30 Sep 2026 03:39:44 +0000",
+        "description": "Regardless of the sharp U-turn in federal energy policy, General Motors is on track to manufacture EV batteries based on an LMR formula that delivers improved performance at a lower cost. The post GM Really Wasn&#8217;t Kidding About Those New LMR EV Batteries appeared first on CleanTechnica .",
+        "title_cn": "通用汽车真的不是在开玩笑那些新的LMR电动汽车电池"
+      },
+      {
+        "title": "Driving An EV Now Costs Half As Much As Diesel, New Analysis Shows",
+        "link": "https://cleantechnica.com/2026/09/29/driving-an-ev-now-costs-half-as-much-as-diesel-new-analysis-shows/",
+        "pubDate": "Wed, 30 Sep 2026 01:03:37 +0000",
+        "description": "Diesel drivers in Europe are paying €32 more at the pump than at the beginning of the war in Iran. As Europe’s leaders meet in Brussels to discuss how to tackle the energy crisis, the case for EVs has never been clearer, says T&#38;E. EV drivers are paying, on average, ... [continued] The post Drivi",
+        "title_cn": "新的分析显示，驾驶电动汽车的成本现在只有柴油的一半"
+      },
       {
         "title": "Second-Hand EVs Retain Their Value Better Than Industry Claims — New Study",
         "link": "https://cleantechnica.com/2026/09/29/second-hand-evs-retain-their-value-better-than-industry-claims-new-study/",
@@ -109,24 +123,10 @@
         "pubDate": "Tue, 29 Sep 2026 16:14:20 +0000",
         "description": "Nate Hagens has spent most of his intellectual career inside a forecasting tradition that expected physical resource constraints to force industrial societies into contraction. He was a major contributor to The Oil Drum and eventually its managing editor, while the nonprofit that now produces The Gr",
         "title_cn": "内特·哈根斯（ Nate Hagens ）保住了厄运，打破了瓶颈"
-      },
-      {
-        "title": "Philippines Boosts EV Infrastructure Budget as Charging Network Faces Expansion Test",
-        "link": "https://cleantechnica.com/2026/09/29/philippines-boosts-ev-infrastructure-budget-as-charging-network-faces-expansion-test/",
-        "pubDate": "Tue, 29 Sep 2026 15:25:46 +0000",
-        "description": "MANILA, Philippines — The Philippine government is proposing a more than sevenfold increase in funding for its electric vehicle program in 2027 as electric vehicle sales accelerate and the country works to build the charging infrastructure needed to support them. The Department of Budget and Managem",
-        "title_cn": "随着充电网络面临扩张测试，菲律宾增加了电动汽车基础设施预算"
-      },
-      {
-        "title": "Op-Ed: Upcoming Philippine Electric Vehicle Summit is an Audit of National Policy",
-        "link": "https://cleantechnica.com/2026/09/29/op-ed-upcoming-philippine-electric-vehicle-summit-is-an-audit-of-national-policy/",
-        "pubDate": "Tue, 29 Sep 2026 15:09:44 +0000",
-        "description": "Summit serves as an operational audit of EV progress in the Philippines MANILA, Philippines — When the 14th Philippine Electric Vehicle Summit (PEVS) opens its doors this October, the exhibition floor will look, to casual visitors, like a conventional automotive trade fair. Bright spotlights will bo",
-        "title_cn": "专栏：即将举行的菲律宾电动汽车峰会是对国家政策的审计"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中国首套百千瓦级风光制储氢发电系统交付许继集团 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 06:35:00 GMT",
+        "description": "中国首套百千瓦级风光制储氢发电系统交付许继集团 &nbsp;&nbsp; 能源界"
+      },
       {
         "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MFNkY08yQ3lKVTVTcmZobnVhbXdNcmpXZE5yX213MFl0RWd3LTZsUjUtMDhpYkhTUnpzNWw1TTJEUzItQkl0NHE3VXMtX2JMVHpIQ241NEpUY0lFZFpJTlFQa2VNOVQt?oc=5",
@@ -223,26 +229,20 @@
         "description": "新能源电力创新学院举办名师导学系列活动 &nbsp;&nbsp; 华北电力大学"
       },
       {
+        "title": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 - gessey.com",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QdTRGaFlsWXlrbnljY1NWVXBiM0xWbFM0MjhiVnFONkNpeVpURVJBcmhNSjNrSGEybHFzYXJiLUY1clB5YVlLODlBOVZaMEE?oc=5",
+        "pubDate": "Thu, 24 Sep 2026 05:11:00 GMT",
+        "description": "氢能39项行业标准制修订计划出炉 覆盖绿色甲醇电解槽输氢管道氢储能等领域 &nbsp;&nbsp; gessey.com"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "高交会“大能源”巨头云集 新型电力、储能、氢能、充电桩与算力共绘产业新图景 - news.mydrivers.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZzVFc3pzZExRMm1paFBhcUY0T3BXLVE5ZEM2aWVieXdiVk8xNnJGR1c3ZzlMV2FhdU9UM1pHOEkyNkpmUnRRQ1lXdjlHOFFZSW4yZm9tUUI?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 10:02:00 GMT",
-        "description": "高交会“大能源”巨头云集 新型电力、储能、氢能、充电桩与算力共绘产业新图景 &nbsp;&nbsp; news.mydrivers.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
-        "link": "https://arxiv.org/abs/2609.35770v1",
-        "pubDate": "2026-09-28T17:59:58Z",
-        "description": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variabilit",
-        "title_cn": "FURE ：无动物毛皮数据集的高效实例特异性3D毛皮重建"
+        "title": "Optimal Tolerant Testing of Lindbladian Dissipation",
+        "link": "https://arxiv.org/abs/2609.38160v1",
+        "pubDate": "2026-09-29T17:59:14Z",
+        "description": "Quantifying dissipation is essential for controlling quantum noise and characterizing open-system dynamics. In practical experimental settings, residual noise may still persist despite efforts to suppress it, making it important to determine whether the dissipative strength remains within a prescrib",
+        "title_cn": "Lindbladian耗散的最佳耐受性测试"
       },
       {
-        "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
-        "link": "https://arxiv.org/abs/2609.35760v1",
-        "pubDate": "2026-09-28T17:59:09Z",
-        "description": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call.",
-        "title_cn": "TokenCast ：预测LLM代理执行期间的代币消耗量"
+        "title": "Conservation-Syndrome Quantum Error Correction for Lattice-Boltzmann Quantum Algorithms",
+        "link": "https://arxiv.org/abs/2609.38129v1",
+        "pubDate": "2026-09-29T17:52:39Z",
+        "description": "Reliable multistep quantum lattice-Boltzmann evolution requires controlling computational faults. When ideal collision preserves encoded mass and momentum exactly, changes in those charges can provide syndromes for selected faults at the post-collision checkpoint. A fault that shifts one population ",
+        "title_cn": "格子-玻尔兹曼量子算法的守恒综合量子误差校正"
       },
       {
-        "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
-        "link": "https://arxiv.org/abs/2609.35758v1",
-        "pubDate": "2026-09-28T17:59:07Z",
-        "description": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) to recent last-layer adaptive disturbance-rejection methods. Specifically, we introduce a statistica",
-        "title_cn": "复合自适应控制压缩动态表示的统计学习"
+        "title": "Optimal Ground-State Preparation with a Guiding State",
+        "link": "https://arxiv.org/abs/2609.38091v1",
+        "pubDate": "2026-09-29T17:41:44Z",
+        "description": "Suppose a Hamiltonian $H$ has a unique ground state $|ψ_0\\rangle$ with an eigenvalue $E_0$, and we have an estimate $\\tilde{E}_0$ such that $|\\tilde{E}_0-E_0|\\leqδ$, and there is a gap of at least $3δ$ between $E_0$ and all other eigenvalues. Suppose we have a unitary $A$ available that can produce ",
+        "title_cn": "指导状态下的最佳基态准备"
       },
       {
-        "title": "Near-Optimal Bounds for Testing Residual-String Equality and Parenthesis Languages",
-        "link": "https://arxiv.org/abs/2609.35746v1",
-        "pubDate": "2026-09-28T17:56:02Z",
-        "description": "Residual-String Equality, denoted $\\texttt{ResStringEq}$, is the property consisting of all pairs of strings over $\\{0,1,*\\}$ that are equal after deleting all `$*$' symbols from them. This property was first introduced by Fischer, Magniez, and Starikovskaya (SODA 2018), who used it to show a lower ",
-        "title_cn": "测试残余串相等和括号语言的近似最佳界限"
+        "title": "Learning quantum symmetries",
+        "link": "https://arxiv.org/abs/2609.38085v1",
+        "pubDate": "2026-09-29T17:38:47Z",
+        "description": "Quantum algorithms are powerful tools for finding symmetries of classical objects, most famously through Shor's algorithm and the framework of the Hidden Subgroup Problem (HSP). In this work, we study quantum algorithms for learning symmetries of quantum objects. Our starting point is the recently i",
+        "title_cn": "学习量子对称性"
       },
       {
-        "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
-        "link": "https://arxiv.org/abs/2609.35743v1",
-        "pubDate": "2026-09-28T17:54:32Z",
-        "description": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent hand pose estimators and SLAM systems, resulting in error accumulation, complex pipelines, and severe c",
-        "title_cn": "InfiniHand ：来自自我中心视频的流媒体世界空间手部运动估计"
+        "title": "Surface-Induced Spectral Broadening during Efficient Two-Photon Excitation of Cold $^{133}\\text{Cs}$ Atoms near an Optical Nanofiber",
+        "link": "https://arxiv.org/abs/2609.38062v1",
+        "pubDate": "2026-09-29T17:28:16Z",
+        "description": "We report the experimental observation of the $^{\\text{133}}$Cs 6S$_{\\text{1/2}}$ to 6D$_{\\text{5/2}}$ single-frequency two-photon transition at low excitation power using an optical nanofiber embedded in a cold atom cloud. We investigate the 917 nm fluorescence spectra modified by the surface-induc",
+        "title_cn": "在光学纳米纤维附近的冷$ ^ {133}\\ text {Cs} $原子的有效双光子激发过程中的表面诱导光谱扩展"
       },
       {
-        "title": "Fast radio burst - persistent radio source systems III. The relation bewteen PRS luminosity and FRB rotation measure",
-        "link": "https://arxiv.org/abs/2609.35733v1",
-        "pubDate": "2026-09-28T17:51:41Z",
-        "description": "Fast radio bursts (FRBs) are millisecond-duration radio transients of extragalactic origin whose physical origin remains uncertain. A small fraction of FRBs are known to repeat, and some of them are associated with persistent radio sources (PRSs), interpreted as synchrotron-emitting nebulae surround",
-        "title_cn": "快速无线电突发-持久性无线电源系统III. PRS光度和FRB旋转测量之间的关系"
+        "title": "Kruskal-style algorithm for Boltzmann equation molecule reduction",
+        "link": "https://arxiv.org/abs/2609.38061v1",
+        "pubDate": "2026-09-29T17:27:40Z",
+        "description": "We are interested in the molecule reduction algorithm used by Deng, Hani and Ma. This algorithm allows them to establish a rigidity theorem, which plays a central role in the long-time derivation of the Boltzmann equation using the hard-sphere dynamics. In the present article, we show that this algo",
+        "title_cn": "Boltzmann方程分子约简的Kruskal风格算法"
       },
       {
-        "title": "Empirical determination of the Galactic neutron star--black hole merger rate using StarTrack models",
-        "link": "https://arxiv.org/abs/2609.35723v1",
-        "pubDate": "2026-09-28T17:48:31Z",
-        "description": "The discovery of a pulsar in a binary system with a black hole would provide a unique laboratory for testing general relativity in the strong-field regime and offer vital constraints on massive star evolution. We assess prospects for the detectability of such systems by utilizing the radio pulsar po",
-        "title_cn": "银河系中子星的实证测定--基于StarTrack模型的黑洞合并率"
+        "title": "Science Using Single-Pulse Exploration with Combined Telescopes: II. Pulse profile evolution and single-pulse modulation",
+        "link": "https://arxiv.org/abs/2609.38039v1",
+        "pubDate": "2026-09-29T17:13:47Z",
+        "description": "Aims. We aim to illuminate how the pulsars' integrated pulse profiles and single-pulse modulation evolve with radio frequency, while separating intrinsic and propagation effects. Methods. We present integrated pulse profiles and phase-resolved modulation indices for 12 radio pulsars at up to five fr",
+        "title_cn": "使用组合望远镜进行单脉冲探测的科学： II.脉冲轮廓演化和单脉冲调制"
       },
       {
-        "title": "SN 2025qe: A case study of diversity in low-luminosity thermonuclear explosions",
-        "link": "https://arxiv.org/abs/2609.35720v1",
-        "pubDate": "2026-09-28T17:47:49Z",
-        "description": "We present optical photometric and spectroscopic observations of SN 2025qe, a Type Iax supernova in IC 0529, monitored from $-10$ to $+150$ rest-frame days relative to $g'$-band maximum using the GROWTH-India and the Himalayan Chandra Telescopes. SN 2025qe reaches a peak $g'$-band absolute magnitude",
-        "title_cn": "SN 2025qe ：低亮度热核爆炸多样性案例研究"
+        "title": "PE-EK-PINN: Physics Embedding with Evolving Kernel for Scalable Physics-Informed Neural Networks",
+        "link": "https://arxiv.org/abs/2609.38023v1",
+        "pubDate": "2026-09-29T17:06:08Z",
+        "description": "Physics-Informed Neural Networks (PINNs) embed governing equations into deep learning, but enforce them only through loss residuals, leaving highly oscillatory wave behavior to be discovered by optimization. As a result, methods that achieve relative $L_2$ errors below $10^{-3}$ on standard manufact",
+        "title_cn": "PE-EK-PINN ：用于可扩展物理知情神经网络的进化内核物理嵌入"
       },
       {
-        "title": "RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation",
-        "link": "https://arxiv.org/abs/2609.35717v1",
-        "pubDate": "2026-09-28T17:46:49Z",
-        "description": "Robots with kinematic loops, coupled actuators, and changing contacts require consistent models of configuration, motion, force, and dynamics. Yet these interfaces are often reconstructed separately for control and simulation, making closure and actuation consistency difficult to maintain. This pape",
-        "title_cn": "RoboCompiler ：用于一致建模、控制和仿真的闭链机器人的图原生编译"
+        "title": "Grid Demand Flexibility Assessment of AI Data Centers via Batch Workload Temporal Shifting",
+        "link": "https://arxiv.org/abs/2609.38020v1",
+        "pubDate": "2026-09-29T17:02:41Z",
+        "description": "The rapid growth of artificial intelligence (AI) data centers has introduced new challenges to power system operation. As their power demand becomes larger and more variable, quantitatively characterizing their demand flexibility is increasingly important for effective power system coordination. How",
+        "title_cn": "通过批量工作负载时间转移对人工智能数据中心进行电网需求灵活性评估"
       },
       {
-        "title": "Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective",
-        "link": "https://arxiv.org/abs/2609.35710v1",
-        "pubDate": "2026-09-28T17:45:16Z",
-        "description": "We introduce LHFM, a geometric framework for learning image dynamics. Drawing on structures central to classical mechanics, symplectic geometry, and geometric quantization, LHFM represents each image as an exact Lagrangian graph and models its evolution through image-dependent Hamiltonian flows, whi",
-        "title_cn": "拉格朗日流--用于视频预测和图像生成的哈密顿流：一种辛视角"
+        "title": "KV-Kaizen: Learning Context-Adaptive Cache Compression Choices",
+        "link": "https://arxiv.org/abs/2609.37988v1",
+        "pubDate": "2026-09-29T16:49:46Z",
+        "description": "As the context size of text processed with an LLM grows, the size of KV caches can outstrip the memory allocated for the original model weights. This impacts LLM throughput negatively, since decoding is memory-bound and decode cost grows with cache size. Recent work alleviates this bottleneck by dis",
+        "title_cn": "KV-Kaizen ：学习上下文自适应缓存压缩选择"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,10 +445,16 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
+      },
+      {
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - news.hubeidaily.net",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; news.hubeidaily.net"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -457,16 +463,16 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aNUp4TjI3SUF4TFZQazJabzJTaUw1YVBONnRXY09hbUNsZ19mb0s1NzhxTVdYbkRGanRWWjBNdUljWjhHcV9PQjVHT3lGQjVoc2d1Nm9wMmR3Mm5MZTAyUjFFSkdGZEU?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
@@ -479,15 +485,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
         "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
         "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-09-30 00:56 UTC"
+    "updated": "2026-09-30 07:47 UTC"
   }
 }
