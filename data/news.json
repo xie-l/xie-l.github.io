@@ -2,11 +2,39 @@
   "tech": {
     "items": [
       {
-        "title": "The 'missed disease' that affects 190 million: endometriosis drug shows early promise",
+        "title": "Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+        "link": "https://www.nature.com/articles/s41586-026-11149-4",
+        "pubDate": "2026-10-01",
+        "description": "Nature, Published online: 01 October 2026; doi:10.1038/s41586-026-11149-4 Retraction Note: Ribosomal frameshifting in the CCR5 mRNA is regulated by miRNAs and the NMD pathway",
+        "title_cn": "撤回注意： CCR5 mRNA中的核糖体移位由miRNA和NMD途径调节"
+      },
+      {
+        "title": "Sign of the times: AI lingo muscles into esteemed dictionary",
+        "link": "https://www.nature.com/articles/d41586-026-03044-9",
+        "pubDate": "2026-10-01",
+        "description": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03044-9 ‘Agentic’, ‘prompt engineering’ and other technical terms are among the 1,400 entries added to Merriam-Webster’s online catalogue.",
+        "title_cn": "时代的标志：将AI术语肌肉纳入尊敬的词典"
+      },
+      {
+        "title": "The ‘missed disease’ that affects 190 million: endometriosis drug shows early promise",
         "link": "https://www.nature.com/articles/d41586-026-03042-x",
         "pubDate": "2026-10-01",
-        "description": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition's tell-tale lesions.",
+        "description": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03042-x Modified medication targets the cells implicated in the condition’s tell-tale lesions.",
         "title_cn": "影响1.9亿人的“错过疾病” ：子宫内膜异位症药物显示出早期前景"
+      },
+      {
+        "title": "Gaze into the cosmos and through the eyes of a bee — September’s best science images",
+        "link": "https://www.nature.com/articles/d41586-026-03101-3",
+        "pubDate": "2026-10-01",
+        "description": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03101-3 The month’s sharpest science shots, selected by Nature’s photo team.",
+        "title_cn": "通过蜜蜂的眼睛凝视宇宙—九月最佳科学图像"
+      },
+      {
+        "title": "Battle of the Anthropocene: allegations re-ignite row over proposed geologic epoch",
+        "link": "https://www.nature.com/articles/d41586-026-03118-8",
+        "pubDate": "2026-10-01",
+        "description": "Nature, Published online: 01 October 2026; doi:10.1038/d41586-026-03118-8 Researchers say that a vote to reject the epoch violated procedure and call for transparency.",
+        "title_cn": "人类世之战：指控重新点燃了拟议地质时代的争吵"
       },
       {
         "title": "These optical illusions are why butterflies are so hard to catch",
@@ -28,46 +56,53 @@
         "pubDate": "2026-09-30",
         "description": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02958-8 Scientists say tailored disease treatments require a comprehensive assessment of a person’s lifelong environmental exposures.",
         "title_cn": "暴露组学是实现个性化医疗的关键吗？"
-      },
-      {
-        "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
-        "link": "https://www.nature.com/articles/d41586-026-02965-9",
-        "pubDate": "2026-09-30",
-        "description": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02965-9 Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
-        "title_cn": "超级厄尔尼诺现象正在烹饪珊瑚礁—摇篮曲和益生菌能拯救它们吗？"
-      },
-      {
-        "title": "This award-winning microscopy image used AI — igniting controversy in a prestigious competition",
-        "link": "https://www.nature.com/articles/d41586-026-03086-z",
-        "pubDate": "2026-09-30",
-        "description": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-03086-z Researchers say that using artificial-intelligence tools to visualize scientific images can become problematic when models misrepresent the underlying data.",
-        "title_cn": "这张屡获殊荣的显微镜图像使用了人工智能—在一场著名的比赛中引发了争议"
-      },
-      {
-        "title": "2D semiconductor aims to turbocharge development of high-performance electronics",
-        "link": "https://www.nature.com/articles/d41586-026-02777-x",
-        "pubDate": "2026-09-30",
-        "description": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02777-x An ultrathin semiconductor that conducts electricity using positively charged ‘holes’ might clear the way for next-generation electronic devices.",
-        "title_cn": "2D半导体旨在涡轮增压高性能电子产品的开发"
-      },
-      {
-        "title": "Elena, Aris, Marcus: AI-generated ‘ghosts’ are polluting the scientific literature",
-        "link": "https://www.nature.com/articles/d41586-026-02991-7",
-        "pubDate": "2026-09-30",
-        "description": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02991-7 The overuse of certain names has revealed the scale of fake experts on academic publishing platforms, say researchers.",
-        "title_cn": "Elena、Aris、Marcus ：人工智能生成的“幽灵”正在污染科学文献"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "European Fleet Operators Urge EU Commission Not To Weaken Truck Emissions Policy",
+        "link": "https://cleantechnica.com/2026/10/01/european-fleet-operators-urge-eu-commission-not-to-weaken-truck-emissions-policy/",
+        "pubDate": "Thu, 01 Oct 2026 17:02:34 +0000",
+        "description": "Change seldom happens because of some highfalutin social concerns, although that might have been the case for the bans on DDT and Freon. More often, change happens because of self-interest, which usually involves saving money. As Europe suffers due to skyrocketing prices for diesel fuel, several of ",
+        "title_cn": "欧洲车队运营商敦促欧盟委员会不要削弱卡车排放政策"
+      },
+      {
+        "title": "New EV Charging Checklist: Style, Comfort, And A Cool Place To Hang",
+        "link": "https://cleantechnica.com/2026/10/01/public-ev-charging-us-ionna-rechargery-tesla-supercharger/",
+        "pubDate": "Thu, 01 Oct 2026 16:20:50 +0000",
+        "description": "The IONNA consortium is scaling up its plans for public EV charging stations in the US, anticipating future growth in EV sales despite last year's sharp U-turn in federal energy policy. The post New EV Charging Checklist: Style, Comfort, And A Cool Place To Hang appeared first on CleanTechnica .",
+        "title_cn": "全新电动汽车充电检查清单：风格、舒适性和凉爽的悬挂场所"
+      },
+      {
+        "title": "Reach Stackers Look Like A Hydrogen Use Case. Ports Are Buying Batteries.",
+        "link": "https://cleantechnica.com/2026/10/01/battery-electric-reach-stackers-ports/",
+        "pubDate": "Thu, 01 Oct 2026 15:33:21 +0000",
+        "description": "A reach stacker looks like exactly the sort of machine batteries should struggle with. Large models can weigh more than 70 tonnes before picking anything up, then lift loaded shipping containers weighing another 40 tonnes or more several rows deep and several containers high. They work in busy freig",
+        "title_cn": "Reach堆垛机看起来像一个氢用例。港口正在购买电池。"
+      },
+      {
+        "title": "XPENG Hits Record Deliveries",
+        "link": "https://cleantechnica.com/2026/10/01/xpeng-hits-record-deliveries/",
+        "pubDate": "Thu, 01 Oct 2026 14:12:13 +0000",
+        "description": "XPENG reached record deliveries in the third quarter of 2026. The company nearly reached record deliveries September, building on months of strong results. The company&#8217;s 41,256 vehicle deliveries in September were a 5.5% increase over August deliveries. However, they were also a 0.8% decrease ",
+        "title_cn": "XPENG创下交付记录"
+      },
+      {
+        "title": "XPENG To Launch Its Next-Gen AI Flagship G9L SUV & Showcase Its Physical AI Lineup At The 2026 Paris Motor Show",
+        "link": "https://cleantechnica.com/2026/10/01/xpeng-to-launch-its-next-gen-ai-flagship-g9l-suv-showcase-its-physical-ai-lineup-at-the-2026-paris-motor-show/",
+        "pubDate": "Thu, 01 Oct 2026 13:40:08 +0000",
+        "description": "XPENG will showcase its Physical AI ecosystem spanning its technology stack, humanoid robots, flying cars and AI-defined vehicles, including the G9L, L03, P7+, G6, G9 and X9. The G9L flagship SUV will make its global launch at the Paris Motor Show, with European order books open and pricing revealed",
+        "title_cn": "XPENG将在2026年巴黎车展上推出其下一代AI旗舰G9L SUV并展示其物理AI阵容"
+      },
       {
         "title": "Corrupt Oil Money & Football (Soccer)",
         "link": "https://cleantechnica.com/2026/09/30/corrupt-oil-money-football-soccer/",
@@ -88,45 +123,10 @@
         "pubDate": "Thu, 01 Oct 2026 01:46:57 +0000",
         "description": "We estimate light-duty electric vehicles in the United States consumed 8% more electricity during the first six months of 2026 than in the last half of 2025 (2H25) in our Monthly Energy Review, down from the 13–24% growth seen in six-month periods in recent years. The slowing electric vehicle electr",
         "title_cn": "2026年美国电动汽车用电量增速放缓"
-      },
-      {
-        "title": "Ready to Scale: Europe Will Have Enough Cells to Meet Demand and Grow Its Domestic Battery Value Chain Industry",
-        "link": "https://cleantechnica.com/2026/09/30/ready-to-scale-europe-will-have-enough-cells-to-meet-demand-and-grow-its-domestic-battery-value-chain-industry/",
-        "pubDate": "Thu, 01 Oct 2026 00:36:19 +0000",
-        "description": "Made-in-EU requirements for all battery components would secure cell demand and investments in midstream production. New analysis on the feasibility of cell and cathode requirements¹, finds that by 2030 sufficient amounts of Made-in-EU cells will be available for the IAA scope — including corporate ",
-        "title_cn": "准备扩张：欧洲将有足够的电池来满足需求并发展其国内电池价值链产业"
-      },
-      {
-        "title": "What Is The Situation With Residual Values In Europe?",
-        "link": "https://cleantechnica.com/2026/09/30/what-is-the-situation-with-residual-values-in-europe/",
-        "pubDate": "Wed, 30 Sep 2026 23:39:11 +0000",
-        "description": "Understanding how Residual Values have evolved and what has driven the change over the last years. What is happening to EV depreciation? At first sight, BEVs appear to retain lower residual values than other powertrains. However, the analysis shows that this headline gap is partly driven by temporar",
-        "title_cn": "欧洲的剩余价值情况如何？"
-      },
-      {
-        "title": "VLA 2.0 vs. FSD in Amsterdam — Part 3: Comparing XPENG & Tesla",
-        "link": "https://cleantechnica.com/2026/09/30/vla-2-0-vs-fsd-in-amsterdam-part-3-comparing-xpeng-tesla/",
-        "pubDate": "Wed, 30 Sep 2026 20:26:43 +0000",
-        "description": "In the first two parts of this series, I explored the XPENG L03 with VLA 2.0 and the Tesla Model 3 with FSD from my recent test in Amsterdam. The focus of those two articles was on each intelligent driving system. However, the AI-based systems are just part of the ... [continued] The post VLA 2.0 vs",
-        "title_cn": "VLA 2.0与阿姆斯特丹的FSD —第3部分： XPENG和特斯拉的比较"
-      },
-      {
-        "title": "Germany Pledges To Phase Out Fossil Fuels By 2045",
-        "link": "https://cleantechnica.com/2026/09/30/germany-pledges-to-phase-out-fossil-fuels-by-2045/",
-        "pubDate": "Wed, 30 Sep 2026 18:34:36 +0000",
-        "description": "Politics in Germany is turning ugly, as neo-nazi interests like AfD gain traction with voters, especially in parts of the country that were once part of East Germany. AfD and similar political groups are vehemently opposed to all this &#8220;green&#8221; malarkey. They look askance at electric vehic",
-        "title_cn": "德国承诺到2045年逐步淘汰化石燃料"
-      },
-      {
-        "title": "Who Should **Really** Be Held Accountable For Spreading Fake News?",
-        "link": "https://cleantechnica.com/2026/09/30/who-should-really-be-held-accountable-for-spreading-fake-news/",
-        "pubDate": "Wed, 30 Sep 2026 18:07:08 +0000",
-        "description": "I came across a compelling editorial the other day as I reviewed the morning inbox. A writer from Iowa City was concerned about how fake news is subsuming the US midterm elections. &#8220;President Donald Trump says that CNN, MS Now, and Politico are banned from the White House for promoting ... [co",
-        "title_cn": "谁应该* *真正* *对传播假新闻负责？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 14:52:00 GMT",
+        "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
+      },
       {
         "title": "中国首套百千瓦级风光制储氢发电系统交付许继集团 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
@@ -229,20 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,16 +403,16 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "title": "国家能源局新闻发布会文字实录 - cpnn.com.cn",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; cpnn.com.cn"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -427,28 +427,28 @@
         "description": "2026中国氢能展暨国际氢能大会开幕 &nbsp;&nbsp; ceic.com"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - cn-heipa.com",
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
         "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; cn-heipa.com"
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - secrss.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; secrss.com"
       },
       {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
@@ -457,16 +457,16 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+      },
+      {
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tLUI5MHZvaHd6ZEJoZWx2NmRTNXJudFNsVjdPMGR0ajFHOVE5Z1kzUU9xTHMta3I1dXJiOEdYMnA4bVlFN0hCMDE0ajNRTU90WXozMHV3cUY?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-01 08:06 UTC"
+    "updated": "2026-10-01 19:10 UTC"
   }
 }
