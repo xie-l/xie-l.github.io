@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Europe EV Sales Report: Record Month — BEVs Reach 30% Market Share!",
+        "link": "https://cleantechnica.com/2026/10/03/europe-ev-sales-report-record-month-bevs-reach-30-market-share/",
+        "pubDate": "Sat, 03 Oct 2026 17:39:41 +0000",
+        "description": "BEVs jumped 51% YoY in an off-season month. BEVs remain in high demand in Europe, even in a holiday month, like August. This month, along with July, is unusual because in Europe, most makers and their models slow down their operations because of the holiday season, with the exceptions being ... [con",
+        "title_cn": "欧洲电动汽车销售报告：创纪录的月份— BEV达到30 ％的市场份额！"
+      },
+      {
+        "title": "HyFlux’s Superconducting Motor Might Work. Hydrogen Aviation Is The Hard Part.",
+        "link": "https://cleantechnica.com/2026/10/03/hyflux-superconducting-motor-hydrogen-aviation/",
+        "pubDate": "Sat, 03 Oct 2026 16:37:49 +0000",
+        "description": "HyFlux has an unusually interesting hydrogen-aviation proposition because the technology at its centre appears somewhat credible, if incredibly difficult to engineer and maintain. The UK company wants to exploit the extreme cold of liquid hydrogen already carried aboard a future hydrogen aircraft to",
+        "title_cn": "HyFlux的超导电机可能有效。氢航空是最难的部分。"
+      },
       {
         "title": "BYD BEV Sales Up 33% in September",
         "link": "https://cleantechnica.com/2026/10/02/byd-bev-sales-up-33-in-september/",
@@ -109,24 +123,10 @@
         "pubDate": "Fri, 02 Oct 2026 20:43:37 +0000",
         "description": "Sheldon Whitehouse is my favorite member of Congress. The junior senator from Rhode Island is smart, articulate, and determined. This week, he was instrumental in getting a bill before the Senate that will radically alter how permitting for energy projects in the US gets done. It is not unusual for ",
         "title_cn": "美国参议院提出新的许可框架。它应该成为法律吗？"
-      },
-      {
-        "title": "Discussing VLA 2.0 vs. FSD on Ludicrous Feed",
-        "link": "https://cleantechnica.com/2026/10/02/discussing-vla-2-0-vs-fsd-on-ludicrous-feed/",
-        "pubDate": "Fri, 02 Oct 2026 14:36:52 +0000",
-        "description": "Earlier this week, I joined my friends Tom, Joy, Riz and Roland on Ludicrous Feed to discuss my recent test of the XPENG L03 with VLA 2.0 vs. the Tesla Model 3 with FSD and how the two vehicles and intelligent driving systems compare. For those not familiar with Ludicrous ... [continued] The post Di",
-        "title_cn": "在荒谬的Feed上讨论VLA 2.0与FSD"
-      },
-      {
-        "title": "OTEC Works. The Seawater Flow Is The Problem.",
-        "link": "https://cleantechnica.com/2026/10/02/otec-ocean-thermal-energy-seawater-flow/",
-        "pubDate": "Fri, 02 Oct 2026 14:31:41 +0000",
-        "description": "Ocean thermal energy conversion has an appealing proposition. Tropical oceans can have surface water around 25°C while water roughly a kilometre down is near 4°C to 5°C. Put a heat engine between the two reservoirs, use the warm water to vaporize a working fluid, run it through a turbine, condense .",
-        "title_cn": "OTEC工作。海水流量是问题所在。"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "energy": {
     "items": [
@@ -188,21 +188,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "energy_cn": {
     "items": [
-      {
-        "title": "中国首套百千瓦级风光制储氢发电系统交付许继集团 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
-        "pubDate": "Wed, 30 Sep 2026 06:35:00 GMT",
-        "description": "中国首套百千瓦级风光制储氢发电系统交付许继集团 &nbsp;&nbsp; 能源界"
-      },
       {
         "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
         "pubDate": "Thu, 01 Oct 2026 14:52:00 GMT",
         "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
+      },
+      {
+        "title": "中国首套百千瓦级风光制储氢发电系统交付许继集团 - nengyuanjie.net",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 06:35:00 GMT",
+        "description": "中国首套百千瓦级风光制储氢发电系统交付许继集团 &nbsp;&nbsp; nengyuanjie.net"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,10 +403,10 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -427,14 +427,14 @@
         "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
+        "title": "《中国氢能发展报告（2026）》发布 - nengyuanjie.net",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
         "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; nengyuanjie.net"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -457,37 +457,37 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tLUI5MHZvaHd6ZEJoZWx2NmRTNXJudFNsVjdPMGR0ajFHOVE5Z1kzUU9xTHMta3I1dXJiOEdYMnA4bVlFN0hCMDE0ajNRTU90WXozMHV3cUY?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
-      },
-      {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
+        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aNUp4TjI3SUF4TFZQazJabzJTaUw1YVBONnRXY09hbUNsZ19mb0s1NzhxTVdYbkRGanRWWjBNdUljWjhHcV9PQjVHT3lGQjVoc2d1Nm9wMmR3Mm5MZTAyUjFFSkdGZEU?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
+      },
+      {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - gdshe.org",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
+        "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; gdshe.org"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-03 07:24 UTC"
+    "updated": "2026-10-03 17:42 UTC"
   }
 }
