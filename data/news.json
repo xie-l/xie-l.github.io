@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "BYD BEV Sales Up 33% in September",
+        "link": "https://cleantechnica.com/2026/10/02/byd-bev-sales-up-33-in-september/",
+        "pubDate": "Sat, 03 Oct 2026 03:57:51 +0000",
+        "description": "BYD sales started out slow this year, but they&#8217;re picking up steam &#8230; or electricity. The company had 456,713 passenger vehicle deliveries in September. That&#8217;s 5.4% more than in August 2026 and 16.2% more than in September 2025. The better news is that the company&#8217;s fully elec",
+        "title_cn": "比亚迪9月BEV销量增长33%"
+      },
       {
         "title": "Coalition Sues Trump Administration Over Rule Making Cars Less Fuel Efficient",
         "link": "https://cleantechnica.com/2026/10/02/coalition-sues-trump-administration-over-rule-making-cars-less-fuel-efficient/",
@@ -116,17 +123,10 @@
         "pubDate": "Fri, 02 Oct 2026 14:31:41 +0000",
         "description": "Ocean thermal energy conversion has an appealing proposition. Tropical oceans can have surface water around 25°C while water roughly a kilometre down is near 4°C to 5°C. Put a heat engine between the two reservoirs, use the warm water to vaporize a working fluid, run it through a turbine, condense .",
         "title_cn": "OTEC工作。海水流量是问题所在。"
-      },
-      {
-        "title": "NIO Sales Up 49% in 2026",
-        "link": "https://cleantechnica.com/2026/10/02/nio-sales-up-49-in-2026/",
-        "pubDate": "Fri, 02 Oct 2026 14:10:49 +0000",
-        "description": "NIO had a decent sales month in September, rising 4.4% month over month and rising 7.7% year over year with 37,408 vehicle deliveries. That&#8217;s all fine and well, but the much bigger, brighter number is when you look at how things add up across the first three quarters of the ... [continued] The",
-        "title_cn": "2026年蔚来销售额增长49%"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -463,16 +463,16 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - finance.sina.com.cn",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; finance.sina.com.cn"
+      },
+      {
         "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
         "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
         "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
-      },
-      {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
         "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-03 00:51 UTC"
+    "updated": "2026-10-03 07:24 UTC"
   }
 }
