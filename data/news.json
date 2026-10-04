@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "My Trip To Brazil To See The Rapid Rise Of Chinese Cars, Part 2: Dealer Visits",
+        "link": "https://cleantechnica.com/2026/10/04/my-trip-to-brazil-to-see-the-rapid-rise-of-chinese-cars-part-2-dealer-visits/",
+        "pubDate": "Sun, 04 Oct 2026 15:41:21 +0000",
+        "description": "To read the market overview, see part 1 of this article here. I visited Leapmotor, BYD, Great Wall Motors, and Geely dealers in Sao Paulo. Leapmotor The first dealer I visited was Leapmotor. Leapmotor, the Chinese EV maker sold abroad through Stellantis, entered Brazil in late 2025 with the C10 ... ",
+        "title_cn": "我的巴西之旅，看看中国汽车的迅速崛起，第2部分：经销商参观"
+      },
+      {
+        "title": "Top Selling Electric Vehicles in the World — 27% EV Share in August!",
+        "link": "https://cleantechnica.com/2026/10/04/top-selling-electric-vehicles-in-the-world-27-ev-share-in-august/",
+        "pubDate": "Sun, 04 Oct 2026 14:17:54 +0000",
+        "description": "BEVs Up, PHEVs Down Plugin vehicle registrations were up 5% year over year (YoY) globally in August, ending the month at around 1.8 million units. Once again, BEVs (+13% YoY) and PHEVs (-12% YoY) are experiencing opposite dynamics, with pure electrics firm in double-digit growth while plugin hybrids",
+        "title_cn": "全球畅销电动汽车— 8月份27%的电动汽车份额！"
+      },
       {
         "title": "Jeep’s Recon Isn’t Astronaut Diaper Rated. It’s Trail Rated.",
         "link": "https://cleantechnica.com/2026/10/03/jeeps-recon-isnt-astronaut-diaper-rated-its-trail-rated/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 03 Oct 2026 17:39:41 +0000",
         "description": "BEVs jumped 51% YoY in an off-season month. BEVs remain in high demand in Europe, even in a holiday month, like August. This month, along with July, is unusual because in Europe, most makers and their models slow down their operations because of the holiday season, with the exceptions being ... [con",
         "title_cn": "欧洲电动汽车销售报告：创纪录的月份— BEV达到30 ％的市场份额！"
-      },
-      {
-        "title": "HyFlux’s Superconducting Motor Might Work. Hydrogen Aviation Is The Hard Part.",
-        "link": "https://cleantechnica.com/2026/10/03/hyflux-superconducting-motor-hydrogen-aviation/",
-        "pubDate": "Sat, 03 Oct 2026 16:37:49 +0000",
-        "description": "HyFlux has an unusually interesting hydrogen-aviation proposition because the technology at its centre appears somewhat credible, if incredibly difficult to engineer and maintain. The UK company wants to exploit the extreme cold of liquid hydrogen already carried aboard a future hydrogen aircraft to",
-        "title_cn": "HyFlux的超导电机可能有效。氢航空是最难的部分。"
-      },
-      {
-        "title": "BYD BEV Sales Up 33% in September",
-        "link": "https://cleantechnica.com/2026/10/02/byd-bev-sales-up-33-in-september/",
-        "pubDate": "Sat, 03 Oct 2026 03:57:51 +0000",
-        "description": "BYD sales started out slow this year, but they&#8217;re picking up steam &#8230; or electricity. The company had 456,713 passenger vehicle deliveries in September. That&#8217;s 5.4% more than in August 2026 and 16.2% more than in September 2025. The better news is that the company&#8217;s fully elec",
-        "title_cn": "比亚迪9月BEV销量增长33%"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,28 +199,16 @@
         "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MFNkY08yQ3lKVTVTcmZobnVhbXdNcmpXZE5yX213MFl0RWd3LTZsUjUtMDhpYkhTUnpzNWw1TTJEUzItQkl0NHE3VXMtX2JMVHpIQ241NEpUY0lFZFpJTlFQa2VNOVQt?oc=5",
-        "pubDate": "Wed, 23 Sep 2026 07:13:08 GMT",
-        "description": "国家能源局：发挥吉林资源优势，积极有序推动新能源、氢能和绿色燃料等产业高质量发展 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - cast.org.cn",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; cast.org.cn"
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -235,14 +223,26 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
+      },
+      {
         "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
         "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
         "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
+      },
+      {
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -251,7 +251,7 @@
         "link": "https://fuelcellsworks.com/2026/09/30/h2/everfuel-ceo-relieved-by-danish-pipeline-deal-totally-essential",
         "pubDate": "Fri, 02 Oct 2026 15:56:38 GMT",
         "description": "",
-        "title_cn": ""
+        "title_cn": "Everfuel首席执行官被丹麦管道交易解雇： “绝对必要”"
       },
       {
         "title": "EnBW Inagurates 5MW Hydropower-Fed Hydrogen Plant in Wyhlen",
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "papers": {
     "items": [
@@ -341,14 +341,14 @@
         "link": "https://arxiv.org/abs/2610.02162v1",
         "pubDate": "2026-10-01T17:53:20Z",
         "description": "How can a world model continuously observe regions beyond the actor's current view? Video world models simulate how an environment evolves from an agent's actions, yet remain actor-centric. Once an object leaves the actor's view, they lose direct evidence of its evolution, often failing to preserve ",
-        "title_cn": ""
+        "title_cn": "世界观察家：持久世界建模的联合行为者-观察者生成"
       },
       {
         "title": "A New Framework for Modeling Solar Flares from MHD to Kinetic Processes",
         "link": "https://arxiv.org/abs/2610.02149v1",
         "pubDate": "2026-10-01T17:49:55Z",
         "description": "Physical processes in solar flares span many orders of magnitude in spatiotemporal scales, so a single unified model accounting for all relevant processes remains computationally intractable. Instead, specialized codes have been developed, targeting specific domains that tackle specific aspects of t",
-        "title_cn": ""
+        "title_cn": "从MHD到动力学过程的太阳耀斑建模新框架"
       },
       {
         "title": "Random Quantum Circuits Beyond Moment Matching",
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,10 +403,10 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - mh2.in-en.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; mh2.in-en.com"
       },
       {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - gdshe.org",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "7大院士领衔！中关村绿色产业联盟国家级零碳园区创建专家指导委员会在京成立 - rmzxw.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNFhYWEFKV19WMm5ySWljSmJOY3lGMGtNWFJadGVqbnJZclJjOVhDUVRTemNuZFlEWU9CalY1QzlFRlJ6bjBDTVluemVudmE2M1RRZ3lfLWtuYU55bEFyWThVLWluMV9v?oc=5",
-        "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
-        "description": "7大院士领衔！中关村绿色产业联盟国家级零碳园区创建专家指导委员会在京成立 &nbsp;&nbsp; rmzxw.com.cn"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-04 07:38 UTC"
+    "updated": "2026-10-04 17:55 UTC"
   }
 }
