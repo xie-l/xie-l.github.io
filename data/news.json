@@ -59,17 +59,17 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "energy": {
     "items": [
@@ -131,10 +131,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中国工业新闻网 - 中国工业新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05TWxnaE5KN0Q1cEl1c3IzNzdXb25pb01fbDJrRzNFOUJMYWNjMHVxLS1Td2ZFN2dRZmJqRzBlbVFodGNoS1ZzR0hsQXJWaV9GbVpFdm9YdEg2S00?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 10:26:00 GMT",
+        "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
+      },
       {
         "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
@@ -160,10 +166,10 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; nea.gov.cn"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
@@ -176,16 +182,10 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "氢能受到规划重视，找到买家仍是难题｜解码十五五 - caijing.com.cn",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GYm5POHJhY1BoYkdRMmIzZmZwdkxabW9mdDNqZ0haRmFqRXlTRDBlYWRKSVYzaUpCblFfM0U0SV9OMHZDUE5GQW5kUGJEQk1WWjVJ?oc=5",
-        "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-        "description": "氢能受到规划重视，找到买家仍是难题｜解码十五五 &nbsp;&nbsp; caijing.com.cn"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,83 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Maximum-Entropy Extension of Quantum Correlation Functions from Short Real-Time Dynamics",
-        "link": "https://arxiv.org/abs/2610.03696v1",
-        "pubDate": "2026-10-02T17:54:47Z",
-        "description": "Correlation functions are central to understanding the behavior of quantum systems, with their spectra giving direct access to quasiparticle and collective excitations. However, the long-time evolution required for sufficient spectral resolution is challenging to reach for both classical and quantum",
-        "title_cn": "短实时动力学量子相关函数的最大熵扩展"
+        "title": "Stochastic evolutionary dynamics in structured populations: Network degree governs evolutionary stability",
+        "link": "https://arxiv.org/abs/2610.05857v1",
+        "pubDate": "2026-10-05T06:21:23Z",
+        "description": "Stochasticity shapes evolutionary dynamics in finite populations beyond the reach of infinite-population theories. Using a stochastic birth--death framework on random regular networks, we establish evolutionary stability criteria for finite structured populations playing three-strategy games and ide",
+        "title_cn": "结构化种群中的随机进化动力学：网络度支配进化稳定性"
       },
       {
-        "title": "Efficient Block Encoding of Structured Hamiltonians by Separating Where and What",
-        "link": "https://arxiv.org/abs/2610.03686v1",
-        "pubDate": "2026-10-02T17:50:48Z",
-        "description": "Fault-tolerant block encodings of structured Hamiltonians can reduce their non-Clifford cost in SELECT by selecting where an operator acts separately from what is applied. We construct permute-act-unpermute circuits whose CSWAP networks exploit the support geometry: a selected support is brought to ",
-        "title_cn": "通过分离何处和何物来实现结构化汉密尔顿算子的高效分组编码"
+        "title": "TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel",
+        "link": "https://arxiv.org/abs/2610.05854v1",
+        "pubDate": "2026-10-05T06:16:34Z",
+        "description": "Triangular attention is a core computation in AlphaFold3-style biomolecular models, with cubic cost in token count. Its shared pair bias adds a gradient reduction across attention slices to the usual reductions over queries and keys. The open-source backends we examine handle these reductions throug",
+        "title_cn": "TurboPairFormer ：优化三角注意力内核的快速稳定蛋白质折叠模型训练"
       },
       {
-        "title": "Does a mortality schedule need a Makeham term? Calibrating the likelihood-ratio test",
-        "link": "https://arxiv.org/abs/2610.03685v1",
-        "pubDate": "2026-10-02T17:50:37Z",
-        "description": "Whether a fitted mortality model needs a Makeham term, the non-negative constant representing background mortality, is commonly decided with a likelihood-ratio test. Because the constant cannot be negative, testing its absence places the parameter on the boundary of its range, and the usual chi-squa",
-        "title_cn": "死亡率表是否需要Makeham术语？校准似然比检验"
+        "title": "Deconvoluting Mechanisms of Radiation-Induced Grain Boundary Segregation in Dilute Ni-X (X = Fe, Cr, Mn) Alloys via Ion Irradiation and Phase-field Modeling",
+        "link": "https://arxiv.org/abs/2610.05849v1",
+        "pubDate": "2026-10-05T06:06:22Z",
+        "description": "Radiation-induced composition redistribution at grain boundaries (GBs) in Ni-based structural alloys poses a critical challenge for the long-term deployment of advanced nuclear reactors. The mechanisms governing solute-specific segregation remain poorly understood because defect-mediated transport, ",
+        "title_cn": "稀Ni-X （ X = Fe ， Cr ， Mn ）合金经离子辐射和相场建模的辐射诱导晶界偏析的去卷积机制"
       },
       {
-        "title": "Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules",
-        "link": "https://arxiv.org/abs/2610.03682v1",
-        "pubDate": "2026-10-02T17:48:44Z",
-        "description": "Realizing practical quantum computers requires quantum error correction, but the most widely implemented approach, the planar surface code, demands a substantial physical qubit overhead. Here, we demonstrate that partitioning quantum processors into manageable, flat modules with non-local inter-modu",
-        "title_cn": "使用边界连接平面模块进行低顶置量子误差校正"
+        "title": "Classification of reductive monoids",
+        "link": "https://arxiv.org/abs/2610.05847v1",
+        "pubDate": "2026-10-05T06:03:40Z",
+        "description": "We classify reductive monoids over arbitrary base schemes by descent from the split classification in arXiv:2607.00322. For a reductive group scheme $G$, we construct its sheaf of based root data, abstract Cartan torus, abstract Weyl group, and a scheme of Weyl cones. The last of these represents th",
+        "title_cn": "还原单倍体的分类"
       },
       {
-        "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
-        "link": "https://arxiv.org/abs/2610.03679v1",
-        "pubDate": "2026-10-02T17:46:52Z",
-        "description": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumptions about the underlying process. Wasserstein gradient flows are a common choice, but they cannot d",
-        "title_cn": "基于Wasserstein拉格朗日残差的种群动态无模拟学习"
+        "title": "A Class of Stochastic Partial Differential Equations with Jumps in Fluid Dynamics: Large and Moderate Deviation Asymptotics",
+        "link": "https://arxiv.org/abs/2610.05837v1",
+        "pubDate": "2026-10-05T05:40:14Z",
+        "description": "We establish large and moderate deviation principles for a broad class of nonlinear stochastic partial differential equations driven by multiplicative Poisson random measures in the small-noise regime. Our abstract framework is formulated for locally monotone evolution equations over a Hilbert tripl",
+        "title_cn": "一类具有流体动力学跳跃的随机偏微分方程：大偏差和中偏差渐近"
       },
       {
-        "title": "How I Learned to Stop Worrying and Love the Redfield Equation: Completely-Positive Resummation of Non-Markovian Dynamics",
-        "link": "https://arxiv.org/abs/2610.03676v1",
-        "pubDate": "2026-10-02T17:44:27Z",
-        "description": "The Redfield equation with time-dependent coefficients (or TCL2 equation) gives one of the simplest perturbative descriptions of open quantum system dynamics derived from a microscopic theory. Its status as an approximation is nevertheless subtle: while perturbation theory fixes the reduced dynamics",
-        "title_cn": "我如何学会停止担忧并热爱雷德菲尔德方程：非马尔可夫动力学的完全正复苏"
+        "title": "Spatio-Temporal Stochastic Interventions for Causal Inference in Climate Science",
+        "link": "https://arxiv.org/abs/2610.05827v1",
+        "pubDate": "2026-10-05T05:29:51Z",
+        "description": "Estimating causal effects in climate science, such as the effect of anthropogenic warming on crop loss, is challenging because of complex spatio-temporal dependence and the high-dimensional nature of the treatment. To address this dependence and the resulting poor overlap between observed and counte",
+        "title_cn": "气候科学中因果推断的时空随机干预"
       },
       {
-        "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
-        "link": "https://arxiv.org/abs/2610.03675v1",
-        "pubDate": "2026-10-02T17:44:05Z",
-        "description": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically optimizes performance gain over a fixed number of iterations. We argue that practical optimization shou",
-        "title_cn": "FrugalEvo ：实现成本意识法学硕士指导计划的演变"
+        "title": "Bounded Provisional Visibility: Controlling Poisoning Exposure in Continuously Ingested RAG Vector Stores",
+        "link": "https://arxiv.org/abs/2610.05826v1",
+        "pubDate": "2026-10-05T05:28:57Z",
+        "description": "Continuous ingestion can expose new retrieval-augmented generation (RAG) content to retrieval before vetting completes, creating a temporal attack surface that conventional admission decisions do not capture. We present a fail-closed provisional-visibility protocol that admits new content under a de",
+        "title_cn": "有限的临时可见性：控制连续摄入的RAG载体存储中的中毒暴露"
       },
       {
-        "title": "Quantum simulation of field-tunable spin spectroscopy of the quantum magnet Cs2CoCl4 on a trapped-ion quantum computer",
-        "link": "https://arxiv.org/abs/2610.03671v1",
-        "pubDate": "2026-10-02T17:41:29Z",
-        "description": "The collective excitation spectra of quantum magnets provide a direct test of quantum computers as tools for studying strongly correlated matter. Hardware noise limits the circuit depths available for these calculations, leaving the question of how much magnetic information can survive circuit compr",
-        "title_cn": "俘获离子量子计算机上量子磁体Cs2CoCl4场可调自旋光谱的量子模拟"
+        "title": "Quantum Complexity of Solving Linear Equations on Higher-Order Networks",
+        "link": "https://arxiv.org/abs/2610.05806v1",
+        "pubDate": "2026-10-05T04:57:46Z",
+        "description": "Higher-order networks (HONs) represent interactions among groups of objects, supporting the study of collective behaviour that pairwise models can miss. In simplicial models of these networks, Hodge Laplacian linear systems provide a common mathematical framework for analysis, for example, for solvi",
+        "title_cn": "高阶网络上求解线性方程的量子复杂度"
       },
       {
-        "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
-        "link": "https://arxiv.org/abs/2610.03665v1",
-        "pubDate": "2026-10-02T17:37:51Z",
-        "description": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few commitments during denoising sharply reduce the uncertainty over the remaining masked positions and sh",
-        "title_cn": "Pivot-SD ：掩蔽扩散语言模型的高效自蒸馏"
+        "title": "Multi-type branching diffusions with small mutation rates",
+        "link": "https://arxiv.org/abs/2610.05804v1",
+        "pubDate": "2026-10-05T04:55:34Z",
+        "description": "Approximate solutions are found for Feller-like neutral multi-type branching diffusions $\\big{(}\\mathbf{X}(t)\\big{)}_{t \\in \\mathbb{R}_{\\ge 0}}$ in the limit of small mutation rates. The method employed involves solving approximations to the Laplace transformed forward Kolmogorov equation by integra",
+        "title_cn": "具有小突变率的多类型分支扩散"
       },
       {
-        "title": "Single-Sample Prophet Inequalities: A Combinatorial to Single-Item Reduction",
-        "link": "https://arxiv.org/abs/2610.03660v1",
-        "pubDate": "2026-10-02T17:36:38Z",
-        "description": "We study single-sample prophet inequalities for online combinatorial allocation. Our main contribution is a general reduction from combinatorial to single-item prophet inequalities for valuation classes admitting suitable supporting prices. The reduction uses a free-disposal value to separate buyer-",
-        "title_cn": "单样本先知不等式：组合到单项减少"
+        "title": "From the Milky Way to the Early Universe: How Metallicity Shapes the Formation of Double Neutron Stars",
+        "link": "https://arxiv.org/abs/2610.05773v1",
+        "pubDate": "2026-10-05T04:16:48Z",
+        "description": "Among the compact binaries detected through gravitational wave (GW) emission, double neutron stars (DNSs) hold the unique distinction of having well-characterized local analogs in the Milky Way. However, understanding their broader cosmological population remains challenging due to the complex metal",
+        "title_cn": "从银河系到早期宇宙：金属性如何塑造双中子星的形成"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "policy_nea": {
     "items": [
@@ -352,10 +352,10 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - h2.solarbe.com",
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - nea.gov.cn",
@@ -377,21 +377,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - h2.solarbe.com",
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; h2.solarbe.com"
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -400,37 +394,43 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tLUI5MHZvaHd6ZEJoZWx2NmRTNXJudFNsVjdPMGR0ajFHOVE5Z1kzUU9xTHMta3I1dXJiOEdYMnA4bVlFN0hCMDE0ajNRTU90WXozMHV3cUY?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - bjnews.com.cn",
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; bjnews.com.cn"
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aNUp4TjI3SUF4TFZQazJabzJTaUw1YVBONnRXY09hbUNsZ19mb0s1NzhxTVdYbkRGanRWWjBNdUljWjhHcV9PQjVHT3lGQjVoc2d1Nm9wMmR3Mm5MZTAyUjFFSkdGZEU?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委 国家能源局：促进煤炭与新能源融合发展，支持煤炭企业统筹煤电、新能源产业布局 &nbsp;&nbsp; 国际新能源网"
+        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新"
+      },
+      {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
       },
       {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - gdshe.org",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; gdshe.org"
-      },
-      {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-05 21:28 UTC"
+    "updated": "2026-10-06 01:59 UTC"
   }
 }
