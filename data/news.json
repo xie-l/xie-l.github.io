@@ -2,18 +2,18 @@
   "tech": {
     "items": [
       {
-        "title": "The top cancer success stories of the past 50 years, by the numbers",
-        "link": "https://www.nature.com/articles/d41586-026-03157-1",
-        "pubDate": "2026-10-05",
-        "description": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03157-1 Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
-        "title_cn": "过去50年最成功的癌症案例，按数字排列"
-      },
-      {
         "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
         "link": "https://www.nature.com/articles/d41586-026-03094-z",
         "pubDate": "2026-10-05",
         "description": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-z Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.",
         "title_cn": "（怎么花了这么长时间？ “今年的诺贝尔医学奖得主已经逾期"
+      },
+      {
+        "title": "The top cancer success stories of the past 50 years, by the numbers",
+        "link": "https://www.nature.com/articles/d41586-026-03157-1",
+        "pubDate": "2026-10-05",
+        "description": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03157-1 Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
+        "title_cn": "过去50年最成功的癌症案例，按数字排列"
       },
       {
         "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
@@ -59,17 +59,17 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "energy_cn": {
     "items": [
@@ -172,10 +172,10 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "title": "为什么氢能 数据中心正在引起业界的关注 - sphericalinsights.com",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
         "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; sphericalinsights.com"
       },
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,83 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Stochastic evolutionary dynamics in structured populations: Network degree governs evolutionary stability",
-        "link": "https://arxiv.org/abs/2610.05857v1",
-        "pubDate": "2026-10-05T06:21:23Z",
-        "description": "Stochasticity shapes evolutionary dynamics in finite populations beyond the reach of infinite-population theories. Using a stochastic birth--death framework on random regular networks, we establish evolutionary stability criteria for finite structured populations playing three-strategy games and ide",
-        "title_cn": "结构化种群中的随机进化动力学：网络度支配进化稳定性"
+        "title": "Designing Group-Valued Codes with Full Regular Low-Weight Bases",
+        "link": "https://arxiv.org/abs/2610.06820v1",
+        "pubDate": "2026-10-05T17:56:36Z",
+        "description": "Efficient fault-tolerant quantum computing architectures benefit from low-weight logical operators. However, reported canonical bases for high-rate, high-distance codes can be several times heavier than the code distance, and fundamental obstructions can prevent minimum-weight logical operators from",
+        "title_cn": "使用全常规低重量底座设计组值代码"
       },
       {
-        "title": "TurboPairFormer: Fast and Stable Protein Folding Model Training with an Optimized Triangle Attention Kernel",
-        "link": "https://arxiv.org/abs/2610.05854v1",
-        "pubDate": "2026-10-05T06:16:34Z",
-        "description": "Triangular attention is a core computation in AlphaFold3-style biomolecular models, with cubic cost in token count. Its shared pair bias adds a gradient reduction across attention slices to the usual reductions over queries and keys. The open-source backends we examine handle these reductions throug",
-        "title_cn": "TurboPairFormer ：优化三角注意力内核的快速稳定蛋白质折叠模型训练"
+        "title": "CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables",
+        "link": "https://arxiv.org/abs/2610.06815v1",
+        "pubDate": "2026-10-05T17:55:39Z",
+        "description": "We study a Continuous-Variable Quantum Approximate Optimization Algorithm (CV-QAOA) for high-dimensional continuous optimization. Our formulation extends an earlier CV-QAOA proposal with a variationally optimized initial state and recovers the convergence guarantees of Quantum Hamiltonian Descent (Q",
+        "title_cn": "CV-QAOA ：连续变量的高效低深度量子优化"
       },
       {
-        "title": "Deconvoluting Mechanisms of Radiation-Induced Grain Boundary Segregation in Dilute Ni-X (X = Fe, Cr, Mn) Alloys via Ion Irradiation and Phase-field Modeling",
-        "link": "https://arxiv.org/abs/2610.05849v1",
-        "pubDate": "2026-10-05T06:06:22Z",
-        "description": "Radiation-induced composition redistribution at grain boundaries (GBs) in Ni-based structural alloys poses a critical challenge for the long-term deployment of advanced nuclear reactors. The mechanisms governing solute-specific segregation remain poorly understood because defect-mediated transport, ",
-        "title_cn": "稀Ni-X （ X = Fe ， Cr ， Mn ）合金经离子辐射和相场建模的辐射诱导晶界偏析的去卷积机制"
+        "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+        "link": "https://arxiv.org/abs/2610.06813v1",
+        "pubDate": "2026-10-05T17:55:06Z",
+        "description": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads to quadratic complexity and limits long-sequence inference; unconstrained cross-v",
+        "title_cn": "更少的上下文，更好的几何形状：用于强大3D基础模型的蒙版几何编码器"
       },
       {
-        "title": "Classification of reductive monoids",
-        "link": "https://arxiv.org/abs/2610.05847v1",
-        "pubDate": "2026-10-05T06:03:40Z",
-        "description": "We classify reductive monoids over arbitrary base schemes by descent from the split classification in arXiv:2607.00322. For a reductive group scheme $G$, we construct its sheaf of based root data, abstract Cartan torus, abstract Weyl group, and a scheme of Weyl cones. The last of these represents th",
-        "title_cn": "还原单倍体的分类"
+        "title": "Error Mitigation From a Single Unmodified Error-Corrected Circuit",
+        "link": "https://arxiv.org/abs/2610.06792v1",
+        "pubDate": "2026-10-05T17:48:58Z",
+        "description": "Recent work has shown that syndrome information obtained during error-corrected quantum computation can be utilized for logical error mitigation (LEM), yielding exponential reductions in runtime overhead compared to external'' LEM methods, which do not make use of syndrome data. However, these syndr",
+        "title_cn": "单个未经修改的错误校正电路的错误缓解"
       },
       {
-        "title": "A Class of Stochastic Partial Differential Equations with Jumps in Fluid Dynamics: Large and Moderate Deviation Asymptotics",
-        "link": "https://arxiv.org/abs/2610.05837v1",
-        "pubDate": "2026-10-05T05:40:14Z",
-        "description": "We establish large and moderate deviation principles for a broad class of nonlinear stochastic partial differential equations driven by multiplicative Poisson random measures in the small-noise regime. Our abstract framework is formulated for locally monotone evolution equations over a Hilbert tripl",
-        "title_cn": "一类具有流体动力学跳跃的随机偏微分方程：大偏差和中偏差渐近"
+        "title": "Truly Subquadratic 3SUM and Truly Subcubic APSP via Triangles in Sparse Lopsided Graphs",
+        "link": "https://arxiv.org/abs/2610.06783v1",
+        "pubDate": "2026-10-05T17:44:29Z",
+        "description": "We give the first polynomial improvements over the textbook algorithms for $3$SUM and All-Pairs Shortest Paths (APSP): we show how to deterministically solve $3$SUM on $n$ integers of polynomial size in $O(n^{1.9992})$ time and APSP on directed $n$-vertex graphs with polynomially bounded integer wei",
+        "title_cn": "在稀疏不平方图中通过三角形的真正的次二次3SUM和真正的次三次APSP"
       },
       {
-        "title": "Spatio-Temporal Stochastic Interventions for Causal Inference in Climate Science",
-        "link": "https://arxiv.org/abs/2610.05827v1",
-        "pubDate": "2026-10-05T05:29:51Z",
-        "description": "Estimating causal effects in climate science, such as the effect of anthropogenic warming on crop loss, is challenging because of complex spatio-temporal dependence and the high-dimensional nature of the treatment. To address this dependence and the resulting poor overlap between observed and counte",
-        "title_cn": "气候科学中因果推断的时空随机干预"
+        "title": "Puncture Evolution with Physics-Informed Neural Networks",
+        "link": "https://arxiv.org/abs/2610.06776v1",
+        "pubDate": "2026-10-05T17:42:39Z",
+        "description": "We investigate the application of physics-informed neural networks (PINNs) to solve the vacuum Einstein equations in spherical symmetry. Our neural network architecture is designed to solve the 1+1D moving-puncture evolution, by minimizing a loss that combines a data term, the Ricci tensor of the re",
+        "title_cn": "使用物理知情神经网络的穿刺进化"
       },
       {
-        "title": "Bounded Provisional Visibility: Controlling Poisoning Exposure in Continuously Ingested RAG Vector Stores",
-        "link": "https://arxiv.org/abs/2610.05826v1",
-        "pubDate": "2026-10-05T05:28:57Z",
-        "description": "Continuous ingestion can expose new retrieval-augmented generation (RAG) content to retrieval before vetting completes, creating a temporal attack surface that conventional admission decisions do not capture. We present a fail-closed provisional-visibility protocol that admits new content under a de",
-        "title_cn": "有限的临时可见性：控制连续摄入的RAG载体存储中的中毒暴露"
+        "title": "Fast convergence of propagation algorithms for open quantum systems",
+        "link": "https://arxiv.org/abs/2610.06769v1",
+        "pubDate": "2026-10-05T17:39:20Z",
+        "description": "We establish general conditions for the rapid convergence of propagation algorithms for computing expectation values of local observables in quantum many-body systems, covering both spin and fermionic systems. Our results apply to evolutions that are sufficiently contractive, providing a general mec",
+        "title_cn": "开放量子系统传播算法的快速收敛"
       },
       {
-        "title": "Quantum Complexity of Solving Linear Equations on Higher-Order Networks",
-        "link": "https://arxiv.org/abs/2610.05806v1",
-        "pubDate": "2026-10-05T04:57:46Z",
-        "description": "Higher-order networks (HONs) represent interactions among groups of objects, supporting the study of collective behaviour that pairwise models can miss. In simplicial models of these networks, Hodge Laplacian linear systems provide a common mathematical framework for analysis, for example, for solvi",
-        "title_cn": "高阶网络上求解线性方程的量子复杂度"
+        "title": "Pulsar Constellation Evolution and PPP Convergence using LEO GNSS",
+        "link": "https://arxiv.org/abs/2610.06759v1",
+        "pubDate": "2026-10-05T17:34:07Z",
+        "description": "The objective of this paper is to demonstrate the future impact of a dedicated low-earth-orbit (LEO) Global Navigation Satellite System (GNSS) on positioning, navigation, and timing (PNT), in addition to a reflective discussion on how common GNSS evaluation methods can best reflect LEO satellite dyn",
+        "title_cn": "使用LEO GNSS的脉冲星星座演化和PPP收敛"
       },
       {
-        "title": "Multi-type branching diffusions with small mutation rates",
-        "link": "https://arxiv.org/abs/2610.05804v1",
-        "pubDate": "2026-10-05T04:55:34Z",
-        "description": "Approximate solutions are found for Feller-like neutral multi-type branching diffusions $\\big{(}\\mathbf{X}(t)\\big{)}_{t \\in \\mathbb{R}_{\\ge 0}}$ in the limit of small mutation rates. The method employed involves solving approximations to the Laplace transformed forward Kolmogorov equation by integra",
-        "title_cn": "具有小突变率的多类型分支扩散"
+        "title": "Quenched First-Passage Asymptotics for Branching Random Walk on a Hamming Cube",
+        "link": "https://arxiv.org/abs/2610.06757v1",
+        "pubDate": "2026-10-05T17:33:31Z",
+        "description": "We study continuous-time supercritical branching random walks in space-inhomogeneous random environment on the Hamming cube $\\{0,1,\\dots,b-1\\}^d$, where the reproduction laws at each site are i.i.d. sampled. This serves as an idealized model for RNA sequence evolution with mutation--selection balanc",
+        "title_cn": "汉明立方体上分支随机游走的淬火首次通过渐近"
       },
       {
-        "title": "From the Milky Way to the Early Universe: How Metallicity Shapes the Formation of Double Neutron Stars",
-        "link": "https://arxiv.org/abs/2610.05773v1",
-        "pubDate": "2026-10-05T04:16:48Z",
-        "description": "Among the compact binaries detected through gravitational wave (GW) emission, double neutron stars (DNSs) hold the unique distinction of having well-characterized local analogs in the Milky Way. However, understanding their broader cosmological population remains challenging due to the complex metal",
-        "title_cn": "从银河系到早期宇宙：金属性如何塑造双中子星的形成"
+        "title": "Finite-bath projected ensembles in dual-unitary circuits",
+        "link": "https://arxiv.org/abs/2610.06754v1",
+        "pubDate": "2026-10-05T17:30:51Z",
+        "description": "We study the emergent randomness in projected ensembles generated by dual-unitary circuits. Specifically, we consider evolution by solvable dual-unitary brickwork circuits followed by measurements on part of the system, which induce an ensemble of states on the unmeasured subsystem. Previous work ha",
+        "title_cn": "双单元电路中的有限浴投影集合"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "policy_nea": {
     "items": [
@@ -377,7 +377,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -412,16 +412,16 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
         "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新"
-      },
-      {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - mtz.china.com",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; mtz.china.com"
       },
       {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - gdshe.org",
@@ -431,6 +431,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-06 01:59 UTC"
+    "updated": "2026-10-06 08:48 UTC"
   }
 }
