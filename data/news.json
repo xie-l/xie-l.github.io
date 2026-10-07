@@ -59,17 +59,17 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "energy_cn": {
     "items": [
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,12 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+        "link": "https://arxiv.org/abs/2610.08785v1",
+        "pubDate": "2026-10-06T17:59:11Z",
+        "description": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understo",
+        "title_cn": "共形预测集量化信息增益：理论视角"
+      },
+      {
+        "title": "Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass",
+        "link": "https://arxiv.org/abs/2610.08774v1",
+        "pubDate": "2026-10-06T17:56:48Z",
+        "description": "We study Hamiltonian elliptic systems with prescribed bilinear mass $\\int_{\\mathbb{R}^N}uv=a>0$. We establish a Gagliardo--Nirenberg inequality in the crossed gradient pairing and bilinear mass, on scaling-invariant component-bounded classes. It identifies the critical curve $1/p+1/q=N/(N+2)$ and th",
+        "title_cn": "归一化汉密尔顿椭圆系统：双线性质量的Gagliardo-Nirenberg不等式"
+      },
+      {
+        "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+        "link": "https://arxiv.org/abs/2610.08761v1",
+        "pubDate": "2026-10-06T17:50:29Z",
+        "description": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training examples, limiting further self-improvement. This challenge is even more acute i",
+        "title_cn": "VeriFine ：在具体化推理中进行自我完善的扩展验证"
+      },
+      {
+        "title": "When, Why, and How CMB Compression Fails",
+        "link": "https://arxiv.org/abs/2610.08728v1",
+        "pubDate": "2026-10-06T17:31:44Z",
+        "description": "We test when compressed CMB likelihoods can be reliably used to constrain new physics beyond $Λ$CDM, formulating concrete criteria for \\textit{when}, \\textit{why}, and \\textit{how} CMB compression fails. We derive our conclusions by exploring a broad set of models that modify different aspects of th",
+        "title_cn": "CMB压缩何时、为何以及如何失败"
+      },
+      {
+        "title": "Efficient Learning of Structured Fermionic States under General Quadratic Evolution",
+        "link": "https://arxiv.org/abs/2610.08723v1",
+        "pubDate": "2026-10-06T17:27:45Z",
+        "description": "We prove that unknown pure fermionic states prepared from disjoint-branch fixed-particle-number blocks can be reconstructed after general quadratic evolution, including pair creation and annihilation. For a fixed particle cap per block, adaptive or nonadaptive single-copy Gaussian measurements yield",
+        "title_cn": "一般二次演化下结构化费米子态的有效学习"
+      },
+      {
+        "title": "Entanglement Sudden Death: Eberly's Work and the Limits of Local Dynamics",
+        "link": "https://arxiv.org/abs/2610.08710v1",
+        "pubDate": "2026-10-06T17:18:07Z",
+        "description": "Entanglement sudden death (ESD), explored through a series of works by Yu and Eberly, supports the notion of entanglement vanishing abruptly and completely at a finite time, even when the underlying open-system dynamics remain smooth. In this article, we revisit the development of ESD from bipartite",
+        "title_cn": "纠缠猝死： Eberly的工作和局部动态的局限性"
+      },
+      {
+        "title": "GeneICL: A Tabular Foundation Model for Bulk Transcriptomics",
+        "link": "https://arxiv.org/abs/2610.08694v1",
+        "pubDate": "2026-10-06T17:10:37Z",
+        "description": "Gene expression is widely measured in biomedicine, yet clinical outcome prediction remains challenging due to high dimensionality, strong feature correlations, and limited labeled data. Large self-supervised transcriptomic foundation models often fail to outperform simple supervised baselines. Tabul",
+        "title_cn": "GeneICL ：批量转录组学的表格基础模型"
+      },
+      {
+        "title": "Neural-Operator-Predicted Time-Dependent Reduced Subspaces for Projection-Based Simulation of Nonlinear PDEs",
+        "link": "https://arxiv.org/abs/2610.08693v1",
+        "pubDate": "2026-10-06T17:09:47Z",
+        "description": "Accurate numerical simulation of nonlinear partial differential equation initial value problems typically requires high-dimensional full-order discretizations at substantial computational cost. While purely data-driven surrogates can speed up prediction, these \"black box\" approximations do not neces",
+        "title_cn": "用于基于投影的非线性PDE模拟的神经算子预测时间相关简化子空间"
+      },
+      {
+        "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
+        "link": "https://arxiv.org/abs/2610.08691v1",
+        "pubDate": "2026-10-06T17:08:03Z",
+        "description": "Large language model agents are accelerating scientific automation, yet verified executions rarely become persistent program-level improvements, and existing evaluations do not examine this process across sequential tasks in both the natural and social sciences. We formalize ScienceClaw as fixed-par",
+        "title_cn": "ScienceClaw ：对标人工智能科学代理在自然科学和社会科学领域的持续自我进化"
+      },
+      {
+        "title": "Phase-field insight into the nature of topological polarization structures in uniaxial ferroelectrics",
+        "link": "https://arxiv.org/abs/2610.08687v1",
+        "pubDate": "2026-10-06T17:05:48Z",
+        "description": "Uniaxial ferroelectrics have long served as benchmark systems for time-resolved studies of polarization evolution due to their simple 180-domain structure. However, recent experiments in these materials have revealed complex topological textures with enigmatic features, including the unexpected char",
+        "title_cn": "对单轴铁电体拓扑极化结构性质的相场洞察"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -306,7 +377,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -360,6 +431,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-07 01:09 UTC"
+    "updated": "2026-10-07 08:00 UTC"
   }
 }
