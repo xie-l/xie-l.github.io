@@ -16,6 +16,13 @@
         "title_cn": "2026年诺贝尔奖：大脑开关、“幽灵”粒子猎人和“生命化学”"
       },
       {
+        "title": "NASA releases trove of Moon data from historic Artemis II flight",
+        "link": "https://www.nature.com/articles/d41586-026-03197-7",
+        "pubDate": "2026-10-07",
+        "description": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03197-7 Annotated images and more collected by the four astronauts could inform missions to the lunar surface.",
+        "title_cn": "美国国家航空航天局从历史性的阿尔忒弥斯II飞行中释放大量月球数据"
+      },
+      {
         "title": "How we ditched presentations and embraced silence in our lab meetings",
         "link": "https://www.nature.com/articles/d41586-026-02836-3",
         "pubDate": "2026-10-07",
@@ -49,27 +56,20 @@
         "pubDate": "2026-10-07",
         "description": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03060-9 Ultraprecise clocks that use transitions in atomic nuclei to keep time show promise as a next-generation time standard and for probing fundamental physics.",
         "title_cn": "核时钟首次滴答作响"
-      },
-      {
-        "title": "Retrofitted LLM can count the letter ‘i’s in ‘artificial intelligence’",
-        "link": "https://www.nature.com/articles/d41586-026-03059-2",
-        "pubDate": "2026-10-07",
-        "description": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03059-2 Most LLMs cannot reliably evaluate text on the level of individual letters. A technique called byteification retrofits existing models to enable it.",
-        "title_cn": "经过翻新的法学硕士可以计算“人工智能”中的字母“i”"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "energy_cn": {
     "items": [
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,91 +247,103 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
-        "link": "https://arxiv.org/abs/2610.08785v1",
-        "pubDate": "2026-10-06T17:59:11Z",
-        "description": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic measure of uncertainty, the information-theoretic basis for this interpretation remains poorly understo",
-        "title_cn": "共形预测集量化信息增益：理论视角"
+        "title": "Nonuniform Screening Reshapes Collective Excitons in Molecular Aggregates from Stochastic Bethe-Salpeter Theory",
+        "link": "https://arxiv.org/abs/2610.09924v1",
+        "pubDate": "2026-10-07T12:12:19Z",
+        "description": "We build and apply an $\\textit{ab initio}$ stochastic Bethe-Salpeter Equation (sBSE) approach to planar cyanine dye aggregate clusters containing up to 2,856 valence electrons. Using a transferable, parameterized screened exchange kernel, we resolve dielectric response, exciton delocalization, and o",
+        "title_cn": "非均匀筛选从随机Bethe-Salpeter理论重塑分子聚集体中的集体激发"
       },
       {
-        "title": "Normalised Hamiltonian Elliptic Systems: a Gagliardo-Nirenberg inequality for bilinear mass",
-        "link": "https://arxiv.org/abs/2610.08774v1",
-        "pubDate": "2026-10-06T17:56:48Z",
-        "description": "We study Hamiltonian elliptic systems with prescribed bilinear mass $\\int_{\\mathbb{R}^N}uv=a>0$. We establish a Gagliardo--Nirenberg inequality in the crossed gradient pairing and bilinear mass, on scaling-invariant component-bounded classes. It identifies the critical curve $1/p+1/q=N/(N+2)$ and th",
-        "title_cn": "归一化汉密尔顿椭圆系统：双线性质量的Gagliardo-Nirenberg不等式"
+        "title": "Analysis and Visualization of the Linux Kernel's Software Evolution Using the City Metaphor",
+        "link": "https://arxiv.org/abs/2610.09910v1",
+        "pubDate": "2026-10-07T12:03:36Z",
+        "description": "The Linux kernel is one of the largest and longest-maintained open source projects in existence. With more than 40 million lines of code, understanding the kernel's internal structure and assessing its software evolution is a great challenge. In this paper, we present an approach to visualize the Li",
+        "title_cn": "使用城市隐喻分析和可视化Linux内核的软件演进"
       },
       {
-        "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
-        "link": "https://arxiv.org/abs/2610.08761v1",
-        "pubDate": "2026-10-06T17:50:29Z",
-        "description": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery of useful training examples, limiting further self-improvement. This challenge is even more acute i",
-        "title_cn": "VeriFine ：在具体化推理中进行自我完善的扩展验证"
+        "title": "Scalable persistence pairing graphs on scalar fields with an application to porous media",
+        "link": "https://arxiv.org/abs/2610.09897v1",
+        "pubDate": "2026-10-07T11:56:31Z",
+        "description": "We present a scalable method for computing persistence pairing graphs from large cubical filtrations and use it to test whether graph organization among persistent classes contains information beyond persistence intervals alone. The method cancels equal-value pairs before global reduction, construct",
+        "title_cn": "标量场上的可扩展持久性配对图，适用于多孔介质"
       },
       {
-        "title": "When, Why, and How CMB Compression Fails",
-        "link": "https://arxiv.org/abs/2610.08728v1",
-        "pubDate": "2026-10-06T17:31:44Z",
-        "description": "We test when compressed CMB likelihoods can be reliably used to constrain new physics beyond $Λ$CDM, formulating concrete criteria for \\textit{when}, \\textit{why}, and \\textit{how} CMB compression fails. We derive our conclusions by exploring a broad set of models that modify different aspects of th",
-        "title_cn": "CMB压缩何时、为何以及如何失败"
+        "title": "QCATS: Query Context-Aware Transformer Slicing for Efficient Predictive Query Processing",
+        "link": "https://arxiv.org/abs/2610.09894v1",
+        "pubDate": "2026-10-07T11:52:57Z",
+        "description": "In-database predictive query processing increasingly applies Transformer-based models within relational pipelines. However, existing in-database inference typically exposes only tuple-level model inputs to the inference runtime, leaving relational predicates and metadata statistics invisible to neur",
+        "title_cn": "QCATS ：查询上下文感知变压器切片，实现高效的预测查询处理"
       },
       {
-        "title": "Efficient Learning of Structured Fermionic States under General Quadratic Evolution",
-        "link": "https://arxiv.org/abs/2610.08723v1",
-        "pubDate": "2026-10-06T17:27:45Z",
-        "description": "We prove that unknown pure fermionic states prepared from disjoint-branch fixed-particle-number blocks can be reconstructed after general quadratic evolution, including pair creation and annihilation. For a fixed particle cap per block, adaptive or nonadaptive single-copy Gaussian measurements yield",
-        "title_cn": "一般二次演化下结构化费米子态的有效学习"
+        "title": "A faint dust ring beyond the compact disk of Sz 76",
+        "link": "https://arxiv.org/abs/2610.09881v1",
+        "pubDate": "2026-10-07T11:40:10Z",
+        "description": "We report new ALMA Band 7 high-resolution ($\\sim$0.05$^{''}$) continuum and $^{12}\\text{CO}\\ (J=3\\text{--}2)$ observations of the disk around the young low-mass star Sz 76. Visibility-plane modeling reveals a previously undetected, faint outer dust ring centered at $\\sim$45 au surrounding the compac",
+        "title_cn": "超出Sz 76光盘的微弱尘埃环"
       },
       {
-        "title": "Entanglement Sudden Death: Eberly's Work and the Limits of Local Dynamics",
-        "link": "https://arxiv.org/abs/2610.08710v1",
-        "pubDate": "2026-10-06T17:18:07Z",
-        "description": "Entanglement sudden death (ESD), explored through a series of works by Yu and Eberly, supports the notion of entanglement vanishing abruptly and completely at a finite time, even when the underlying open-system dynamics remain smooth. In this article, we revisit the development of ESD from bipartite",
-        "title_cn": "纠缠猝死： Eberly的工作和局部动态的局限性"
+        "title": "An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling",
+        "link": "https://arxiv.org/abs/2610.09871v1",
+        "pubDate": "2026-10-07T11:32:47Z",
+        "description": "Implicit modeling and Relative Geologic Time are geological modeling techniques that enable more efficient, faster, less biased and more reproducible modeling results. For optimal operation, these techniques require many well-constrained input data. In the framework of the Horizon Europe GO-Forward ",
+        "title_cn": "用于隐式地质建模的人工智能辅助调节和地质解释工作流程"
       },
       {
-        "title": "GeneICL: A Tabular Foundation Model for Bulk Transcriptomics",
-        "link": "https://arxiv.org/abs/2610.08694v1",
-        "pubDate": "2026-10-06T17:10:37Z",
-        "description": "Gene expression is widely measured in biomedicine, yet clinical outcome prediction remains challenging due to high dimensionality, strong feature correlations, and limited labeled data. Large self-supervised transcriptomic foundation models often fail to outperform simple supervised baselines. Tabul",
-        "title_cn": "GeneICL ：批量转录组学的表格基础模型"
+        "title": "DeepTopoClustering: Unsupervised Derivation of Surface Process Taxonomy from 4D Point Clouds for Topographic Monitoring",
+        "link": "https://arxiv.org/abs/2610.09860v1",
+        "pubDate": "2026-10-07T11:16:19Z",
+        "description": "4D point clouds acquired by permanent laser scanning (PLS) enable accurate high-frequency monitoring of surface change in dynamic topographic environments. However, existing methods remain limited in organizing detected surface activities into meaningful process types. We propose DeepTopoClustering ",
+        "title_cn": "DeepTopoClustering ：用于地形监测的4D点云表面过程分类的无监督推导"
       },
       {
-        "title": "Neural-Operator-Predicted Time-Dependent Reduced Subspaces for Projection-Based Simulation of Nonlinear PDEs",
-        "link": "https://arxiv.org/abs/2610.08693v1",
-        "pubDate": "2026-10-06T17:09:47Z",
-        "description": "Accurate numerical simulation of nonlinear partial differential equation initial value problems typically requires high-dimensional full-order discretizations at substantial computational cost. While purely data-driven surrogates can speed up prediction, these \"black box\" approximations do not neces",
-        "title_cn": "用于基于投影的非线性PDE模拟的神经算子预测时间相关简化子空间"
+        "title": "DynaConTalk: Wavelet-Constrained Diffusion for Long-Form and Controllable Holistic Co-Speech 3D Motion",
+        "link": "https://arxiv.org/abs/2610.09846v1",
+        "pubDate": "2026-10-07T11:06:42Z",
+        "description": "Holistic co-speech animation is prone to averaging in both motion representation and speech conditioning. In coordinate-space diffusion, slow body posture, mid-frequency gesture strokes, and fast hand or facial details are entangled in one prediction target, often producing low-variance, over-smooth",
+        "title_cn": "DynaConTalk ：用于长形和可控整体共语音3D运动的小波约束扩散"
       },
       {
-        "title": "ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences",
-        "link": "https://arxiv.org/abs/2610.08691v1",
-        "pubDate": "2026-10-06T17:08:03Z",
-        "description": "Large language model agents are accelerating scientific automation, yet verified executions rarely become persistent program-level improvements, and existing evaluations do not examine this process across sequential tasks in both the natural and social sciences. We formalize ScienceClaw as fixed-par",
-        "title_cn": "ScienceClaw ：对标人工智能科学代理在自然科学和社会科学领域的持续自我进化"
+        "title": "Dynamical pairing in gravitational wave populations",
+        "link": "https://arxiv.org/abs/2610.09834v1",
+        "pubDate": "2026-10-07T10:59:37Z",
+        "description": "Binary black holes formed dynamically in star clusters are often associated with nearly equal-mass pairing. We show that this expectation is incomplete. The more general prediction of dynamical assembly is an ordered-pairing relation in which the two black holes are drawn independently from a common",
+        "title_cn": "引力波种群中的动态配对"
       },
       {
-        "title": "Phase-field insight into the nature of topological polarization structures in uniaxial ferroelectrics",
-        "link": "https://arxiv.org/abs/2610.08687v1",
-        "pubDate": "2026-10-06T17:05:48Z",
-        "description": "Uniaxial ferroelectrics have long served as benchmark systems for time-resolved studies of polarization evolution due to their simple 180-domain structure. However, recent experiments in these materials have revealed complex topological textures with enigmatic features, including the unexpected char",
-        "title_cn": "对单轴铁电体拓扑极化结构性质的相场洞察"
+        "title": "MOTIF: Person-of-Interest Deepfake Detection Beyond 3DMM Coefficients",
+        "link": "https://arxiv.org/abs/2610.09830v1",
+        "pubDate": "2026-10-07T10:51:29Z",
+        "description": "Video deepfakes targeting a specific individual, the Person-of-Interest (POI), are the most harmful ones, and, since a public figure is abundantly recorded, a detector can be built from genuine footage of that individual. Such detectors commonly describe a subject through a 3D Morphable Model (3DMM)",
+        "title_cn": "MOTIF ： 3DMM系数之外的利益相关者Deepfake检测"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "policy_nea": {
     "items": [
+      {
+        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
+        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
+      },
       {
         "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
         "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
         "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
@@ -340,16 +352,16 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
-        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
-      },
-      {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
         "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
         "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
         "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
@@ -362,22 +374,10 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
         "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
         "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
-      },
-      {
-        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
-      },
-      {
-        "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
-        "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -412,16 +412,16 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
-      },
-      {
         "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
         "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
         "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
+      },
+      {
+        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
       },
       {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
@@ -431,6 +431,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-07 19:39 UTC"
+    "updated": "2026-10-08 01:27 UTC"
   }
 }
