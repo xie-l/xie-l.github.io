@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Woody ‘blankets’ deployed on Arctic permafrost to reduce carbon emissions",
+        "link": "https://www.nature.com/articles/d41586-026-03045-8",
+        "pubDate": "2026-10-08",
+        "description": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8 A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
+        "title_cn": "在北极永久冻土上部署木质“毯子” ，以减少碳排放"
+      },
+      {
         "title": "A guide to Nature Index tables",
         "link": "https://www.nature.com/articles/d41586-026-02999-z",
         "pubDate": "2026-10-07",
@@ -49,27 +56,20 @@
         "pubDate": "2026-10-07",
         "description": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03072-5 Most disease-associated genetic alterations do not affect the genes themselves, but instead change how strongly they are expressed, often by modifying genome accessibility. Gene expression and accessibility have now been analy",
         "title_cn": "基因组可及性揭示基因表达缺失的疾病风险"
-      },
-      {
-        "title": "Nuclear clocks tick for the first time",
-        "link": "https://www.nature.com/articles/d41586-026-03060-9",
-        "pubDate": "2026-10-07",
-        "description": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03060-9 Ultraprecise clocks that use transitions in atomic nuclei to keep time show promise as a next-generation time standard and for probing fundamental physics.",
-        "title_cn": "核时钟首次滴答作响"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "energy_cn": {
     "items": [
@@ -154,12 +154,6 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
-        "pubDate": "Thu, 01 Oct 2026 14:52:00 GMT",
-        "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
@@ -178,6 +172,12 @@
         "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       },
       {
+        "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 14:52:00 GMT",
+        "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
+      },
+      {
         "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
         "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,83 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Nonuniform Screening Reshapes Collective Excitons in Molecular Aggregates from Stochastic Bethe-Salpeter Theory",
-        "link": "https://arxiv.org/abs/2610.09924v1",
-        "pubDate": "2026-10-07T12:12:19Z",
-        "description": "We build and apply an $\\textit{ab initio}$ stochastic Bethe-Salpeter Equation (sBSE) approach to planar cyanine dye aggregate clusters containing up to 2,856 valence electrons. Using a transferable, parameterized screened exchange kernel, we resolve dielectric response, exciton delocalization, and o",
-        "title_cn": "非均匀筛选从随机Bethe-Salpeter理论重塑分子聚集体中的集体激发"
+        "title": "Null string holography in AdS from local BRST descent",
+        "link": "https://arxiv.org/abs/2610.10540v1",
+        "pubDate": "2026-10-07T17:59:59Z",
+        "description": "We show that the radial sector of a Carroll-Weyl gauged null string in Poincaré $\\mathrm{AdS}_D$ is locally trivial in BRST cohomology. In a quotient-adapted BFV basis, the radial coordinate, its conjugate momentum, and the associated ghosts form a contractible quartet. An explicit contracting homot",
+        "title_cn": "来自本地BRST下降的AdS中的空字符串全息"
       },
       {
-        "title": "Analysis and Visualization of the Linux Kernel's Software Evolution Using the City Metaphor",
-        "link": "https://arxiv.org/abs/2610.09910v1",
-        "pubDate": "2026-10-07T12:03:36Z",
-        "description": "The Linux kernel is one of the largest and longest-maintained open source projects in existence. With more than 40 million lines of code, understanding the kernel's internal structure and assessing its software evolution is a great challenge. In this paper, we present an approach to visualize the Li",
-        "title_cn": "使用城市隐喻分析和可视化Linux内核的软件演进"
+        "title": "Sharp Polynomial Upper Bounds for Anticanonical Volumes",
+        "link": "https://arxiv.org/abs/2610.10537v1",
+        "pubDate": "2026-10-07T17:59:30Z",
+        "description": "For every positive integer $n$, we prove that there is a constant $C_n$, depending only on $n$, such that $Vol(-K_X) \\leq C_n ε^{-(2^n-n-1)}$ whenever $X$ admits an $ε$-lc log Fano boundary. The exponent is optimal in every dimension at least two, even for toric Fano varieties of Picard number one. ",
+        "title_cn": "反标准体积的尖锐多项式上界"
       },
       {
-        "title": "Scalable persistence pairing graphs on scalar fields with an application to porous media",
-        "link": "https://arxiv.org/abs/2610.09897v1",
-        "pubDate": "2026-10-07T11:56:31Z",
-        "description": "We present a scalable method for computing persistence pairing graphs from large cubical filtrations and use it to test whether graph organization among persistent classes contains information beyond persistence intervals alone. The method cancels equal-value pairs before global reduction, construct",
-        "title_cn": "标量场上的可扩展持久性配对图，适用于多孔介质"
+        "title": "Predictive Rerouting of Connected and Automated Vehicles Using Traffic and Charging Demand Forecasts",
+        "link": "https://arxiv.org/abs/2610.10532v1",
+        "pubDate": "2026-10-07T17:58:52Z",
+        "description": "In this paper, we consider the problem of predictive rerouting of connected and automated vehicles (CAVs) in mixed traffic with electric vehicle charging demand. We provide a framework that combines a diffusion convolutional recurrent neural network (DCRNN) with a routing policy that accounts for co",
+        "title_cn": "使用交通和收费需求预测对联网和自动驾驶车辆进行预测性重新路由"
       },
       {
-        "title": "QCATS: Query Context-Aware Transformer Slicing for Efficient Predictive Query Processing",
-        "link": "https://arxiv.org/abs/2610.09894v1",
-        "pubDate": "2026-10-07T11:52:57Z",
-        "description": "In-database predictive query processing increasingly applies Transformer-based models within relational pipelines. However, existing in-database inference typically exposes only tuple-level model inputs to the inference runtime, leaving relational predicates and metadata statistics invisible to neur",
-        "title_cn": "QCATS ：查询上下文感知变压器切片，实现高效的预测查询处理"
+        "title": "Charge-regular formulation and radiative amplitudes of Kerr-Newman perturbations",
+        "link": "https://arxiv.org/abs/2610.10529v1",
+        "pubDate": "2026-10-07T17:58:15Z",
+        "description": "We establish a charge-regular formulation of separated Kerr--Newman perturbations and an explicit map from master solutions to physical radiative fields. We derive regular angular and radial first-order systems and their second-order reductions, with finite-charge deformations of the spin $\\pm1$ and",
+        "title_cn": "克尔-纽曼扰动的电荷规则公式和辐射振幅"
       },
       {
-        "title": "A faint dust ring beyond the compact disk of Sz 76",
-        "link": "https://arxiv.org/abs/2610.09881v1",
-        "pubDate": "2026-10-07T11:40:10Z",
-        "description": "We report new ALMA Band 7 high-resolution ($\\sim$0.05$^{''}$) continuum and $^{12}\\text{CO}\\ (J=3\\text{--}2)$ observations of the disk around the young low-mass star Sz 76. Visibility-plane modeling reveals a previously undetected, faint outer dust ring centered at $\\sim$45 au surrounding the compac",
-        "title_cn": "超出Sz 76光盘的微弱尘埃环"
+        "title": "Barely Monotone (min,+)-Convolution in Truly Subquadratic Time",
+        "link": "https://arxiv.org/abs/2610.10503v1",
+        "pubDate": "2026-10-07T17:50:31Z",
+        "description": "The (min,+)-convolution of two sequences A and B of length n is the sequence C with C[k] = min_{i+j=k} (A[i]+B[j]). For bounded inputs, whose entries are integers in {0,...,O(n)}, prior work computes it in truly subquadratic time when the inputs are monotone; the algorithm of Chi, Duan, Xie, and Zha",
+        "title_cn": "勉强单调（最小值， + ） -真正的亚二次时间中的卷积"
       },
       {
-        "title": "An AI-assisted conditioning and geological interpretation workflow for usage in implicit geological modeling",
-        "link": "https://arxiv.org/abs/2610.09871v1",
-        "pubDate": "2026-10-07T11:32:47Z",
-        "description": "Implicit modeling and Relative Geologic Time are geological modeling techniques that enable more efficient, faster, less biased and more reproducible modeling results. For optimal operation, these techniques require many well-constrained input data. In the framework of the Horizon Europe GO-Forward ",
-        "title_cn": "用于隐式地质建模的人工智能辅助调节和地质解释工作流程"
+        "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+        "link": "https://arxiv.org/abs/2610.10498v1",
+        "pubDate": "2026-10-07T17:48:02Z",
+        "description": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic ha",
+        "title_cn": "EmbodiedRSI ：通过假设引导的共同进化进行主动持续机器人学习"
       },
       {
-        "title": "DeepTopoClustering: Unsupervised Derivation of Surface Process Taxonomy from 4D Point Clouds for Topographic Monitoring",
-        "link": "https://arxiv.org/abs/2610.09860v1",
-        "pubDate": "2026-10-07T11:16:19Z",
-        "description": "4D point clouds acquired by permanent laser scanning (PLS) enable accurate high-frequency monitoring of surface change in dynamic topographic environments. However, existing methods remain limited in organizing detected surface activities into meaningful process types. We propose DeepTopoClustering ",
-        "title_cn": "DeepTopoClustering ：用于地形监测的4D点云表面过程分类的无监督推导"
+        "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+        "link": "https://arxiv.org/abs/2610.10496v1",
+        "pubDate": "2026-10-07T17:47:17Z",
+        "description": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom classifier -- and ask what architecture search adds, holding the ",
+        "title_cn": "使用Sentinel-2在湖泊中寻找叶绿素的进化建筑- $ a $预测"
       },
       {
-        "title": "DynaConTalk: Wavelet-Constrained Diffusion for Long-Form and Controllable Holistic Co-Speech 3D Motion",
-        "link": "https://arxiv.org/abs/2610.09846v1",
-        "pubDate": "2026-10-07T11:06:42Z",
-        "description": "Holistic co-speech animation is prone to averaging in both motion representation and speech conditioning. In coordinate-space diffusion, slow body posture, mid-frequency gesture strokes, and fast hand or facial details are entangled in one prediction target, often producing low-variance, over-smooth",
-        "title_cn": "DynaConTalk ：用于长形和可控整体共语音3D运动的小波约束扩散"
+        "title": "Stochasticity and Environmental Switching Shape Quorum Sensing Evolution in Bacterial Populations",
+        "link": "https://arxiv.org/abs/2610.10492v1",
+        "pubDate": "2026-10-07T17:45:50Z",
+        "description": "Quorum sensing (QS) is classically understood as a mechanism by which bacterial cells sense their own density, but environmental fluctuations make any single cell's estimate unreliable. An alternative view holds that populations pool individual estimates to reach reliable collective decisions. We in",
+        "title_cn": "细菌种群中的随机性和环境切换形状群体感应演变"
       },
       {
-        "title": "Dynamical pairing in gravitational wave populations",
-        "link": "https://arxiv.org/abs/2610.09834v1",
-        "pubDate": "2026-10-07T10:59:37Z",
-        "description": "Binary black holes formed dynamically in star clusters are often associated with nearly equal-mass pairing. We show that this expectation is incomplete. The more general prediction of dynamical assembly is an ordered-pairing relation in which the two black holes are drawn independently from a common",
-        "title_cn": "引力波种群中的动态配对"
+        "title": "LOCAA: An Agentic System for Automated Lossy Compressor Tuning",
+        "link": "https://arxiv.org/abs/2610.10487v1",
+        "pubDate": "2026-10-07T17:44:31Z",
+        "description": "Large-scale scientific simulations generate substantial data volumes, making lossy compression essential for reducing storage and data movement costs. However, users configure compressors through numerical error bounds (EBs) while often evaluating results using quality metrics and end-to-end perform",
+        "title_cn": "LOCAA ：用于自动有损压缩机调节的代理系统"
       },
       {
-        "title": "MOTIF: Person-of-Interest Deepfake Detection Beyond 3DMM Coefficients",
-        "link": "https://arxiv.org/abs/2610.09830v1",
-        "pubDate": "2026-10-07T10:51:29Z",
-        "description": "Video deepfakes targeting a specific individual, the Person-of-Interest (POI), are the most harmful ones, and, since a public figure is abundantly recorded, a detector can be built from genuine footage of that individual. Such detectors commonly describe a subject through a 3D Morphable Model (3DMM)",
-        "title_cn": "MOTIF ： 3DMM系数之外的利益相关者Deepfake检测"
+        "title": "A finite element exterior-to-interior reconstruction in the fractional conductivity inverse problem",
+        "link": "https://arxiv.org/abs/2610.10484v1",
+        "pubDate": "2026-10-07T17:39:51Z",
+        "description": "We develop a regularized finite element method for the fractional conductivity equation, recovering the conductivity on an exterior observation region from noisy Dirichlet-to-Neumann measurements and using this reconstruction to determine the interior conductivity. Mesh-localized inputs and mass-lum",
+        "title_cn": "分数阶电导率逆问题中的有限元外部到内部重建"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "policy_nea": {
     "items": [
@@ -377,7 +377,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -412,16 +412,16 @@
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      },
-      {
         "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+      },
+      {
+        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
+        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
+        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
       },
       {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
@@ -431,6 +431,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-08 01:27 UTC"
+    "updated": "2026-10-08 08:14 UTC"
   }
 }
