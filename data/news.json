@@ -59,17 +59,17 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "energy_cn": {
     "items": [
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,83 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Antichains for Concurrent Parameterized Games",
-        "link": "https://arxiv.org/abs/2610.11711v1",
-        "pubDate": "2026-10-08T11:16:55Z",
-        "description": "Concurrent parameterized games involve a fixed yet arbitrary number of players. They are described by finite arenas in which the edges are labeled with languages that describe the possible move combinations leading from one vertex to another (n players yield a word of length n). Previous work showed",
-        "title_cn": "并发参数化游戏的反链"
+        "title": "Entanglement entropy and magic of ZX-diagrams",
+        "link": "https://arxiv.org/abs/2610.12447v1",
+        "pubDate": "2026-10-08T17:58:32Z",
+        "description": "Entanglement and non-stabilizerness are complementary resources underlying the complexity of quantum states, yet extracting either quantity from large quantum circuits generally requires exponentially scaling resources. In diagrammatic approaches to quantum computation, such as the ZX-calculus, both",
+        "title_cn": "ZX图的纠缠熵和魔力"
       },
       {
-        "title": "Does an Illumination Prior Help Face-Swap Detection? A Controlled Study of Temporal Self-Blended Images",
-        "link": "https://arxiv.org/abs/2610.11706v1",
-        "pubDate": "2026-10-08T11:12:45Z",
-        "description": "Self-blended images are widely used to train face-swap detectors, but primarily capture blending artifacts. We investigate whether adding illumination inconsistencies improves detection. Temporal Self-Blended Images (T-SBI) transfer lighting statistics between frames of the same video, with the mism",
-        "title_cn": "之前的照明是否有助于面部切换检测？时间自混合图像的对照研究"
+        "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+        "link": "https://arxiv.org/abs/2610.12444v1",
+        "pubDate": "2026-10-08T17:58:09Z",
+        "description": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a ",
+        "title_cn": "预处理器空间的舍入：重新设计4位AdamW优化器-状态量化"
       },
       {
-        "title": "Epistemic Disturbance in the Graph Model for Conflict Resolution: State-Preserving Actions, Four-Valued Assessments, and the Distinction between Capability and Intention",
-        "link": "https://arxiv.org/abs/2610.11690v1",
-        "pubDate": "2026-10-08T11:00:34Z",
-        "description": "In the graph model for conflict resolution (GMCR), a decision maker (DM) either moves the conflict to another state or does nothing. The basic definitions leave inaction implicit, so every action that leaves the state unchanged is treated as doing nothing. Yet announcements, exercises, leaks and sel",
-        "title_cn": "解决冲突的图表模型中的认知障碍：国家保护行动、四值评估以及能力和意图之间的区别"
+        "title": "A real superpotential for M-theory on eight-manifolds",
+        "link": "https://arxiv.org/abs/2610.12439v1",
+        "pubDate": "2026-10-08T17:57:51Z",
+        "description": "We study warped compactifications of eleven-dimensional supergravity on eight-manifolds to Minkowski or AdS vacua preserving $N=1$ supersymmetry in three dimensions. For backgrounds characterised by a local G$_2$ structure, we derive an off-shell real superpotential functional in terms of the intern",
+        "title_cn": "八流形上的M理论的真正超电位"
       },
       {
-        "title": "A Localized Hybrid Finite Element--Random Feature Method for Elliptic Interface Problems on Unfitted Meshes",
-        "link": "https://arxiv.org/abs/2610.11688v1",
-        "pubDate": "2026-10-08T10:59:01Z",
-        "description": "We develop a localized hybrid finite element--random feature method (FEM--RFM) for elliptic interface problems on unfitted background meshes. The central idea is to use the random feature method (RFM) only in the narrow band formed by interface-cut cells of a uniform Cartesian background mesh,while ",
-        "title_cn": "一种局部混合有限元--未拟合网格上椭圆接口问题的随机特征方法"
+        "title": "Parallel Edge Ranking of Trees",
+        "link": "https://arxiv.org/abs/2610.12438v1",
+        "pubDate": "2026-10-08T17:57:38Z",
+        "description": "In this work, we prove that computing the edge ranking of a tree in parallel is P-Complete. An optimal tree edge ranking assigns positive integer ranks to the edges such that any two edges with the same rank are separated by an edge of higher rank, while minimizing the highest rank. Tree edge rankin",
+        "title_cn": "树的平行边缘排名"
       },
       {
-        "title": "Non-Perturbative Vibrational Excitation by Arbitrary Electric Fields from Classical Phase-Space Dynamics",
-        "link": "https://arxiv.org/abs/2610.11686v1",
-        "pubDate": "2026-10-08T10:58:22Z",
-        "description": "We present a non-perturbative framework for the quantum treatment of vibrational excitation in molecular systems driven by electric fields with arbitrary time dependence. For harmonic potentials with linear dipole coupling, the field-induced dynamics is exactly described by a displaced coherent stat",
-        "title_cn": "经典相空间动力学中任意电场的非扰动振动激励"
+        "title": "Global asymptotic stability of homogeneous polynomial vector fields is undecidable",
+        "link": "https://arxiv.org/abs/2610.12434v1",
+        "pubDate": "2026-10-08T17:57:15Z",
+        "description": "We study the decision problem of global asymptotic stability (GAS) of the origin for homogeneous polynomial vector fields with rational coefficients. In the first part of the paper we give, for every fixed dimension $n$ and odd degree $2k+1$, a computable map which sends a homogeneous vector field o",
+        "title_cn": "齐次多项式向量场的全局渐近稳定性不可判定"
       },
       {
-        "title": "Lamarck's Driving School: Discovering Autonomous Driving Training Strategies through Evolutionary Competition",
-        "link": "https://arxiv.org/abs/2610.11662v1",
-        "pubDate": "2026-10-08T10:36:41Z",
-        "description": "Autonomous driving capabilities depend strongly on the distribution of scenarios encountered during training. Existing methods commonly construct or dynamically adapt training scenario distributions using surrogate criteria such as realism, difficulty, or risk. However, these predefined surrogates m",
-        "title_cn": "拉马克驾驶学校：通过进化竞争探索自动驾驶培训策略"
+        "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+        "link": "https://arxiv.org/abs/2610.12424v1",
+        "pubDate": "2026-10-08T17:55:12Z",
+        "description": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that act through code can already repair programs from execution feedback, yet it remains a central challen",
+        "title_cn": "RoboRSI ：在复杂的现实环境中实现稳定、高效和可重复使用的机器人自我进化"
       },
       {
-        "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin",
-        "link": "https://arxiv.org/abs/2610.11655v1",
-        "pubDate": "2026-10-08T10:33:29Z",
-        "description": "Improving a long-horizon LLM agent means evolving the harness around a frozen model or training its weights. We let a self-evolving harness make the system stronger first, then cross seed and evolved harnesses with base and trained weights to learn which gains the trained model keeps and which still",
-        "title_cn": "线束进化触及天花板：何时应该开始重量训练"
+        "title": "ACORN I. Massive Black Hole Seeding and Tidal Disruption Events from Star Clusters in Cosmological Simulations",
+        "link": "https://arxiv.org/abs/2610.12398v1",
+        "pubDate": "2026-10-08T17:41:37Z",
+        "description": "JWST has revealed massive star clusters at $z\\gtrsim 6$, which provide promising environments for massive black hole (MBH) seed formation. We introduce a new MBH seeding model for cosmological simulations, physically motivated by the runaway collisions in star clusters. Subgrid star clusters are gen",
+        "title_cn": "橡子I.宇宙学模拟中的星团大规模黑洞播种和潮汐破坏事件"
       },
       {
-        "title": "Beyond the Dolgov-Kawasaki instability: Covariant scalaron stability, entropy transport, and inner horizons in f(R) gravity",
-        "link": "https://arxiv.org/abs/2610.11649v1",
-        "pubDate": "2026-10-08T10:25:13Z",
-        "description": "The Dolgov-Kawasaki instability tests the local scalaron response in metric $f(R)$ gravity, but does not determine strong-field horizon dynamics. We separate these questions using $F=f_R$ and the Legendre potential $\\mathcal U(F)=FR-f$. The scalaron restoring coefficient is $m_{\\rm sc}^2=(F-Rf_{RR})",
-        "title_cn": "超越Dolgov-Kawasaki不稳定性： f (R)重力下的共变标量稳定性、熵传输和内视野"
+        "title": "Inflow-driven galaxy evolution - II: A hierarchy in the scaling relations of star-forming galaxies",
+        "link": "https://arxiv.org/abs/2610.12394v1",
+        "pubDate": "2026-10-08T17:39:50Z",
+        "description": "The star-forming main sequence (SFMS; $M_\\star$--sSFR), the gas-to-stellar mass relation ($M_\\star$--$M_{\\rm gas}/M_\\star$), and the mass--metallicity relation (MZR; $M_\\star$--$Z_{\\rm gas}$) are three core scaling relations for star-forming galaxies, and together they encode the information about t",
+        "title_cn": "流入驱动星系演化II ：恒星形成星系缩放关系的层次结构"
       },
       {
-        "title": "Revisiting Handcrafted Minutiae Detection: A Simple and Effective Open Source Baseline for Modern Fingerprint Workflows",
-        "link": "https://arxiv.org/abs/2610.11641v1",
-        "pubDate": "2026-10-08T10:18:25Z",
-        "description": "Handcrafted minutiae detection algorithms remain fundamental to biometric science and forensic practice due to their full auditability, adherence to international standards, and operational independence from training datasets or GPU hardware. However, current open-source traditional baselines are se",
-        "title_cn": "重新审视手工制作的细节检测：现代指纹工作流程的简单有效的开源基线"
+        "title": "Tiling 3D by Translates of a Single Polycube is Undecidable",
+        "link": "https://arxiv.org/abs/2610.12392v1",
+        "pubDate": "2026-10-08T17:39:27Z",
+        "description": "We prove co-RE-completeness, and thus undecidability, of the following problem: given a single (connected) polycube, decide whether it tiles 3D Euclidean space by translations. We reduce from Wang tiling using the decorated two-prime Sudoku construction of Greenfeld and Tao and a cyclic encoding ada",
+        "title_cn": "通过单个多立方体的平移进行3D平铺是不可决定的"
       },
       {
-        "title": "TAM: Task-Aware Memory Distillation for Efficient Spatiotemporal Prediction",
-        "link": "https://arxiv.org/abs/2610.11617v1",
-        "pubDate": "2026-10-08T09:58:23Z",
-        "description": "Knowledge distillation enables efficient spatiotemporal prediction by transferring knowledge from an accurate teacher to a compact student. However, matching outputs or features independently for each sample leaves cross-sample predictive structure underused. Exploiting this structure requires repre",
-        "title_cn": "TAM ：任务感知内存蒸馏实现高效时空预测"
+        "title": "GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving",
+        "link": "https://arxiv.org/abs/2610.12391v1",
+        "pubDate": "2026-10-08T17:39:12Z",
+        "description": "Multimodal large language models (MLLMs) often struggle to identify and use geometric relations in diagrams. Recent methods address this challenge by converting geometric entities, relations, and constraints into explicit textual representations for the model to reason over. However, effective forma",
+        "title_cn": "GeoReform ：用于解决多模态几何问题的反射形式化演变"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "policy_nea": {
     "items": [
@@ -377,7 +377,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -431,6 +431,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-09 01:36 UTC"
+    "updated": "2026-10-09 08:16 UTC"
   }
 }
