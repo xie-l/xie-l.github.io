@@ -30,7 +30,7 @@
         "title_cn": "美国建议国际学生从事研究生工作收费$ 100,000"
       },
       {
-        "title": "How to build a mouse: Embryo development captured in stunning detail",
+        "title": "How to build a mouse: embryo development captured in stunning detail",
         "link": "https://www.nature.com/articles/d41586-026-03193-x",
         "pubDate": "2026-10-08",
         "description": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03193-x Gene-editing technologies enabled researchers to trace the cell-by-cell development of a single fertilised mouse egg to a late-stage embryo.",
@@ -44,32 +44,32 @@
         "title_cn": "木质“毯子”正在北极永久冻土上部署，以减少碳排放"
       },
       {
+        "title": "Will AI scoop your science? Some researchers see a gloomy future",
+        "link": "https://www.nature.com/articles/d41586-026-03128-6",
+        "pubDate": "2026-10-08",
+        "description": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03128-6 Scientists worry that increasingly capable large language models will beat them to discoveries.",
+        "title_cn": "人工智能会窃取你的科学知识吗？一些研究人员看到了一个悲观的未来"
+      },
+      {
         "title": "Plague scare: what scientists know — and what Russia won’t say",
         "link": "https://www.nature.com/articles/d41586-026-03215-8",
         "pubDate": "2026-10-08",
         "description": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03215-8 Unverified rumours swirl around the death of a Siberian laboratory technician. Nature talks to a biosecurity specialist to unpack the fallout",
         "title_cn": "瘟疫恐慌：科学家知道什么—以及俄罗斯不会说什么"
-      },
-      {
-        "title": "Big dogs age faster than little ones — rogue ‘jumping genes’ might be to blame",
-        "link": "https://www.nature.com/articles/d41586-026-03199-5",
-        "pubDate": "2026-10-08",
-        "description": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03199-5 Study of almost 900 dogs from roughly 120 breeds finds that rapid ageing of large canines is linked to changes in the epigenome.",
-        "title_cn": "大狗比小狗衰老得更快—流氓“跳跃基因”可能是罪魁祸首"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +131,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "energy_cn": {
     "items": [
@@ -185,7 +185,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,83 +247,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Null string holography in AdS from local BRST descent",
-        "link": "https://arxiv.org/abs/2610.10540v1",
-        "pubDate": "2026-10-07T17:59:59Z",
-        "description": "We show that the radial sector of a Carroll-Weyl gauged null string in Poincaré $\\mathrm{AdS}_D$ is locally trivial in BRST cohomology. In a quotient-adapted BFV basis, the radial coordinate, its conjugate momentum, and the associated ghosts form a contractible quartet. An explicit contracting homot",
-        "title_cn": "来自本地BRST下降的AdS中的空字符串全息"
+        "title": "Antichains for Concurrent Parameterized Games",
+        "link": "https://arxiv.org/abs/2610.11711v1",
+        "pubDate": "2026-10-08T11:16:55Z",
+        "description": "Concurrent parameterized games involve a fixed yet arbitrary number of players. They are described by finite arenas in which the edges are labeled with languages that describe the possible move combinations leading from one vertex to another (n players yield a word of length n). Previous work showed",
+        "title_cn": "并发参数化游戏的反链"
       },
       {
-        "title": "Sharp Polynomial Upper Bounds for Anticanonical Volumes",
-        "link": "https://arxiv.org/abs/2610.10537v1",
-        "pubDate": "2026-10-07T17:59:30Z",
-        "description": "For every positive integer $n$, we prove that there is a constant $C_n$, depending only on $n$, such that $Vol(-K_X) \\leq C_n ε^{-(2^n-n-1)}$ whenever $X$ admits an $ε$-lc log Fano boundary. The exponent is optimal in every dimension at least two, even for toric Fano varieties of Picard number one. ",
-        "title_cn": "反标准体积的尖锐多项式上界"
+        "title": "Does an Illumination Prior Help Face-Swap Detection? A Controlled Study of Temporal Self-Blended Images",
+        "link": "https://arxiv.org/abs/2610.11706v1",
+        "pubDate": "2026-10-08T11:12:45Z",
+        "description": "Self-blended images are widely used to train face-swap detectors, but primarily capture blending artifacts. We investigate whether adding illumination inconsistencies improves detection. Temporal Self-Blended Images (T-SBI) transfer lighting statistics between frames of the same video, with the mism",
+        "title_cn": "之前的照明是否有助于面部切换检测？时间自混合图像的对照研究"
       },
       {
-        "title": "Predictive Rerouting of Connected and Automated Vehicles Using Traffic and Charging Demand Forecasts",
-        "link": "https://arxiv.org/abs/2610.10532v1",
-        "pubDate": "2026-10-07T17:58:52Z",
-        "description": "In this paper, we consider the problem of predictive rerouting of connected and automated vehicles (CAVs) in mixed traffic with electric vehicle charging demand. We provide a framework that combines a diffusion convolutional recurrent neural network (DCRNN) with a routing policy that accounts for co",
-        "title_cn": "使用交通和收费需求预测对联网和自动驾驶车辆进行预测性重新路由"
+        "title": "Epistemic Disturbance in the Graph Model for Conflict Resolution: State-Preserving Actions, Four-Valued Assessments, and the Distinction between Capability and Intention",
+        "link": "https://arxiv.org/abs/2610.11690v1",
+        "pubDate": "2026-10-08T11:00:34Z",
+        "description": "In the graph model for conflict resolution (GMCR), a decision maker (DM) either moves the conflict to another state or does nothing. The basic definitions leave inaction implicit, so every action that leaves the state unchanged is treated as doing nothing. Yet announcements, exercises, leaks and sel",
+        "title_cn": "解决冲突的图表模型中的认知障碍：国家保护行动、四值评估以及能力和意图之间的区别"
       },
       {
-        "title": "Charge-regular formulation and radiative amplitudes of Kerr-Newman perturbations",
-        "link": "https://arxiv.org/abs/2610.10529v1",
-        "pubDate": "2026-10-07T17:58:15Z",
-        "description": "We establish a charge-regular formulation of separated Kerr--Newman perturbations and an explicit map from master solutions to physical radiative fields. We derive regular angular and radial first-order systems and their second-order reductions, with finite-charge deformations of the spin $\\pm1$ and",
-        "title_cn": "克尔-纽曼扰动的电荷规则公式和辐射振幅"
+        "title": "A Localized Hybrid Finite Element--Random Feature Method for Elliptic Interface Problems on Unfitted Meshes",
+        "link": "https://arxiv.org/abs/2610.11688v1",
+        "pubDate": "2026-10-08T10:59:01Z",
+        "description": "We develop a localized hybrid finite element--random feature method (FEM--RFM) for elliptic interface problems on unfitted background meshes. The central idea is to use the random feature method (RFM) only in the narrow band formed by interface-cut cells of a uniform Cartesian background mesh,while ",
+        "title_cn": "一种局部混合有限元--未拟合网格上椭圆接口问题的随机特征方法"
       },
       {
-        "title": "Barely Monotone (min,+)-Convolution in Truly Subquadratic Time",
-        "link": "https://arxiv.org/abs/2610.10503v1",
-        "pubDate": "2026-10-07T17:50:31Z",
-        "description": "The (min,+)-convolution of two sequences A and B of length n is the sequence C with C[k] = min_{i+j=k} (A[i]+B[j]). For bounded inputs, whose entries are integers in {0,...,O(n)}, prior work computes it in truly subquadratic time when the inputs are monotone; the algorithm of Chi, Duan, Xie, and Zha",
-        "title_cn": "勉强单调（最小值， + ） -真正的亚二次时间中的卷积"
+        "title": "Non-Perturbative Vibrational Excitation by Arbitrary Electric Fields from Classical Phase-Space Dynamics",
+        "link": "https://arxiv.org/abs/2610.11686v1",
+        "pubDate": "2026-10-08T10:58:22Z",
+        "description": "We present a non-perturbative framework for the quantum treatment of vibrational excitation in molecular systems driven by electric fields with arbitrary time dependence. For harmonic potentials with linear dipole coupling, the field-induced dynamics is exactly described by a displaced coherent stat",
+        "title_cn": "经典相空间动力学中任意电场的非扰动振动激励"
       },
       {
-        "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-        "link": "https://arxiv.org/abs/2610.10498v1",
-        "pubDate": "2026-10-07T17:48:02Z",
-        "description": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be costly to collect through methods such as teleoperation. Agentic ha",
-        "title_cn": "EmbodiedRSI ：通过假设引导的共同进化进行主动持续机器人学习"
+        "title": "Lamarck's Driving School: Discovering Autonomous Driving Training Strategies through Evolutionary Competition",
+        "link": "https://arxiv.org/abs/2610.11662v1",
+        "pubDate": "2026-10-08T10:36:41Z",
+        "description": "Autonomous driving capabilities depend strongly on the distribution of scenarios encountered during training. Existing methods commonly construct or dynamically adapt training scenario distributions using surrogate criteria such as realism, difficulty, or risk. However, these predefined surrogates m",
+        "title_cn": "拉马克驾驶学校：通过进化竞争探索自动驾驶培训策略"
       },
       {
-        "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
-        "link": "https://arxiv.org/abs/2610.10496v1",
-        "pubDate": "2026-10-07T17:47:17Z",
-        "description": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published model -- a Sentinel-2 algal bloom classifier -- and ask what architecture search adds, holding the ",
-        "title_cn": "使用Sentinel-2在湖泊中寻找叶绿素的进化建筑- $ a $预测"
+        "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin",
+        "link": "https://arxiv.org/abs/2610.11655v1",
+        "pubDate": "2026-10-08T10:33:29Z",
+        "description": "Improving a long-horizon LLM agent means evolving the harness around a frozen model or training its weights. We let a self-evolving harness make the system stronger first, then cross seed and evolved harnesses with base and trained weights to learn which gains the trained model keeps and which still",
+        "title_cn": "线束进化触及天花板：何时应该开始重量训练"
       },
       {
-        "title": "Stochasticity and Environmental Switching Shape Quorum Sensing Evolution in Bacterial Populations",
-        "link": "https://arxiv.org/abs/2610.10492v1",
-        "pubDate": "2026-10-07T17:45:50Z",
-        "description": "Quorum sensing (QS) is classically understood as a mechanism by which bacterial cells sense their own density, but environmental fluctuations make any single cell's estimate unreliable. An alternative view holds that populations pool individual estimates to reach reliable collective decisions. We in",
-        "title_cn": "细菌种群中的随机性和环境切换形状群体感应演变"
+        "title": "Beyond the Dolgov-Kawasaki instability: Covariant scalaron stability, entropy transport, and inner horizons in f(R) gravity",
+        "link": "https://arxiv.org/abs/2610.11649v1",
+        "pubDate": "2026-10-08T10:25:13Z",
+        "description": "The Dolgov-Kawasaki instability tests the local scalaron response in metric $f(R)$ gravity, but does not determine strong-field horizon dynamics. We separate these questions using $F=f_R$ and the Legendre potential $\\mathcal U(F)=FR-f$. The scalaron restoring coefficient is $m_{\\rm sc}^2=(F-Rf_{RR})",
+        "title_cn": "超越Dolgov-Kawasaki不稳定性： f (R)重力下的共变标量稳定性、熵传输和内视野"
       },
       {
-        "title": "LOCAA: An Agentic System for Automated Lossy Compressor Tuning",
-        "link": "https://arxiv.org/abs/2610.10487v1",
-        "pubDate": "2026-10-07T17:44:31Z",
-        "description": "Large-scale scientific simulations generate substantial data volumes, making lossy compression essential for reducing storage and data movement costs. However, users configure compressors through numerical error bounds (EBs) while often evaluating results using quality metrics and end-to-end perform",
-        "title_cn": "LOCAA ：用于自动有损压缩机调节的代理系统"
+        "title": "Revisiting Handcrafted Minutiae Detection: A Simple and Effective Open Source Baseline for Modern Fingerprint Workflows",
+        "link": "https://arxiv.org/abs/2610.11641v1",
+        "pubDate": "2026-10-08T10:18:25Z",
+        "description": "Handcrafted minutiae detection algorithms remain fundamental to biometric science and forensic practice due to their full auditability, adherence to international standards, and operational independence from training datasets or GPU hardware. However, current open-source traditional baselines are se",
+        "title_cn": "重新审视手工制作的细节检测：现代指纹工作流程的简单有效的开源基线"
       },
       {
-        "title": "A finite element exterior-to-interior reconstruction in the fractional conductivity inverse problem",
-        "link": "https://arxiv.org/abs/2610.10484v1",
-        "pubDate": "2026-10-07T17:39:51Z",
-        "description": "We develop a regularized finite element method for the fractional conductivity equation, recovering the conductivity on an exterior observation region from noisy Dirichlet-to-Neumann measurements and using this reconstruction to determine the interior conductivity. Mesh-localized inputs and mass-lum",
-        "title_cn": "分数阶电导率逆问题中的有限元外部到内部重建"
+        "title": "TAM: Task-Aware Memory Distillation for Efficient Spatiotemporal Prediction",
+        "link": "https://arxiv.org/abs/2610.11617v1",
+        "pubDate": "2026-10-08T09:58:23Z",
+        "description": "Knowledge distillation enables efficient spatiotemporal prediction by transferring knowledge from an accurate teacher to a compact student. However, matching outputs or features independently for each sample leaves cross-sample predictive structure underused. Exploiting this structure requires repre",
+        "title_cn": "TAM ：任务感知内存蒸馏实现高效时空预测"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "policy_nea": {
     "items": [
@@ -370,14 +370,14 @@
         "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
       },
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -418,19 +418,19 @@
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
       },
       {
-        "title": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94WTlkaXhLdXFBNDJab19KSC1JWXB5cE9VM3JHSm1feXVURUx1cGJtZzBYOFloZlVORFgxTEZoUXBDN3FkdjFyNkJNZVZIcHFTMlUybTdqMGdERHI4cnc?oc=5",
-        "pubDate": "Sun, 02 Aug 2026 07:00:00 GMT",
-        "description": "聚焦绿色发展，探寻汽车机遇 ——湖北汽车工业学院“绿驰未来”暑期社会实践团队调研纪实 &nbsp;&nbsp; 中华网"
-      },
-      {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
+      },
+      {
+        "title": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ - 国际储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfbTdlc3ZNYWxMZVJNYThrRU5nTm5nbWZzZmZCblFUXy1qYWdfQUd2OGcyYWtYcjhQOGtET2o5YWZPQWV6TnVhX1lWR2xzV0RGTEhSVDJzS3ZnMzNrOVdYdnV3?oc=5",
+        "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+        "description": "四川出台绿色低碳扶持政策！先进独立储能项目最高按总投资15%补助！ &nbsp;&nbsp; 国际储能网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-08 19:35 UTC"
+    "updated": "2026-10-09 01:36 UTC"
   }
 }
