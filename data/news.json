@@ -59,17 +59,17 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "energy_intl": {
     "items": [],
     "source": "CleanTechnica",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "energy": {
     "items": [
@@ -131,12 +131,61 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "energy_cn": {
-    "items": [],
+    "items": [
+      {
+        "title": "中国工业新闻网 - 中国工业新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05TWxnaE5KN0Q1cEl1c3IzNzdXb25pb01fbDJrRzNFOUJMYWNjMHVxLS1Td2ZFN2dRZmJqRzBlbVFodGNoS1ZzR0hsQXJWaV9GbVpFdm9YdEg2S00?oc=5",
+        "pubDate": "Tue, 29 Sep 2026 10:26:00 GMT",
+        "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
+      },
+      {
+        "title": "佛罗里达绿色电网项目：将氢能转化为电力 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTndZR0doWWF0TG8tWlkxcWw1TWdvWHJpUWNIRGhxcVpzSTVpcFhqN2ZMUU5yNDAwOXA2TnZMWWJJYU5tV2d0MlBfVUhMdnRpNlVmNnpKd0NUb1FjVUNzYzdJdzV4bzdsd2U3Tjd3cDhoamszdWNZX2VIMFQ5LUVPd2ZxUjNEVENS?oc=5",
+        "pubDate": "Thu, 01 Oct 2026 14:52:00 GMT",
+        "description": "佛罗里达绿色电网项目：将氢能转化为电力 &nbsp;&nbsp; 搜狐网"
+      },
+      {
+        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
+      },
+      {
+        "title": "第七届能源电力与自动化工程国际学术会议召开 - 科学网—新闻",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tbHVHYXpGWUpuN2MtTXQ5OUFJUUREaHJTaFdZRXNJU1pqNTh4U1I4X2ZpcTRsQWRINlY5ZkpyLWZrYkZiczlBTW0wOFppakNoMF9JQmlQSEdaTkh6aDBvdGZBYXI?oc=5",
+        "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "description": "第七届能源电力与自动化工程国际学术会议召开 &nbsp;&nbsp; 科学网—新闻"
+      }
+    ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "hydrogen": {
     "items": [
@@ -198,7 +247,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "papers": {
     "items": [
@@ -274,16 +323,114 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "policy_nea": {
-    "items": [],
+    "items": [
+      {
+        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56TmRzZ2R5aTJMUGZlTnFCQjc0emhuSUVpVTJLdEFPVFEtNzBPQ3p3b2FRaGNJc29lZEo2dzZIMEVvSWFoR19DcThYb0VTUVJqZVBQRS13?oc=5",
+        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
+        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
+      },
+      {
+        "title": "国家能源局召开民营企业座谈会 - 国家能源局",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
+        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
+        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
+      }
+    ],
     "source": "国家能源局",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   },
   "policy_ndrc": {
-    "items": [],
+    "items": [
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+      },
+      {
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+      },
+      {
+        "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm4wczBsU1NMSzI1NnFqOS13b0xCZG1WWi01c0diMmZ6R2J1OXJJcTR1aGNoLTlXaVBEVm02WUNmRmhBdnd0N3BETXVoeWUwMmF3THUxNzBYY0ZPR2Y1X1pYUkdmOUliNGxmM0tWbU5xQUhXanBkdl9xTGotcWFUVEVR?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
+      }
+    ],
     "source": "发改委政策",
-    "updated": "2026-10-10 07:57 UTC"
+    "updated": "2026-10-10 18:08 UTC"
   }
 }
