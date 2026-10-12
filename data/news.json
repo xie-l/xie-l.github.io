@@ -59,17 +59,74 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "energy_intl": {
-    "items": [],
+    "items": [
+      {
+        "title": "Trump Must Absolutely Love Solar Panels, Because They Help Farmers",
+        "link": "https://cleantechnica.com/2026/10/11/mammoth-solar-panels-agrivoltaic-us-energy-policy-farmers-diesel/",
+        "pubDate": "Sun, 11 Oct 2026 22:49:04 +0000",
+        "description": "The agrivoltaic movement combines solar panels with agriculture, providing farmers with new opportunities to improve their financial situation at a time of skyrocketing fuel costs. The post Trump Must Absolutely Love Solar Panels, Because They Help Farmers appeared first on CleanTechnica .",
+        "title_cn": "特朗普绝对喜欢太阳能电池板，因为它们可以帮助农民"
+      },
+      {
+        "title": "Tesla Enables V2H Bidirectional Charging, Europe Completes EV4EU Trial",
+        "link": "https://cleantechnica.com/2026/10/11/tesla-enables-v2h-bidirectional-charging-europe-completes-ev4eu-trial/",
+        "pubDate": "Sun, 11 Oct 2026 22:37:45 +0000",
+        "description": "Every Tesla Model 3 and Model Y built in the US on or after October 1, 2026, is capable of vehicle to home (V2H) operation, according to Not A Tesla App. In fact, some cars built as long ago as April may have the upgrade available, as some cars were ... [continued] The post Tesla Enables V2H Bidirec",
+        "title_cn": "特斯拉支持V2H双向充电，欧洲完成EV4EU试用"
+      },
+      {
+        "title": "Successful Market Launch of the Electric Urban Car Family: CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross Together for the First Time at the Paris Motor Show",
+        "link": "https://cleantechnica.com/2026/10/11/successful-market-launch-of-the-electric-urban-car-family-cupra-raval-volkswagen-id-polo-skoda-epiq-and-volkswagen-id-cross-together-for-the-first-time-at-the-paris-motor-show/",
+        "pubDate": "Sun, 11 Oct 2026 14:09:33 +0000",
+        "description": "Four entry-level electric models. Three brands. Almost 150,000 orders. Already a joint success story for affordable electric mobility. The Electric Urban Car Family (EUCF) is celebrating a milestone at this year&#8217;s Paris Motor Show: For the first time, all four models will be presented together",
+        "title_cn": "成功推出电动城市汽车系列： CUPRA Raval ，大众ID。Polo、Škoda Epiq和大众ID。首次在巴黎摩托车展（ Paris Motor Sho ）一起穿越"
+      },
+      {
+        "title": "You Can Now Get The Kia EV3 At US Dealerships — Dream EV!",
+        "link": "https://cleantechnica.com/2026/10/11/you-can-now-get-the-kia-ev3-at-us-dealerships-dream-ev/",
+        "pubDate": "Sun, 11 Oct 2026 13:58:51 +0000",
+        "description": "When it comes to most things, you pay less for something that&#8217;s smaller. In the car business, that rule typically holds true as well. Smaller cars typically cost less than larger ones (unless they come with a ton of power). That also gives the impression generally that smaller cars are ... [co",
+        "title_cn": "您现在可以在美国经销商处购买起亚EV3 — Dream EV ！"
+      },
+      {
+        "title": "Battery Swap Uses Fewer Batteries Than You Think",
+        "link": "https://cleantechnica.com/2026/10/10/battery-swap-uses-fewer-batteries-than-you-think/",
+        "pubDate": "Sun, 11 Oct 2026 01:41:38 +0000",
+        "description": "When I wrote an article a while ago about Janus Electric, an electric truck company in Australia that featured diesel semi electric conversions and battery swap, I put it away in my mind, until I happened upon an interview with Janus CEO Ben Hutt. The interviewer asked how much extra ... [continued]",
+        "title_cn": "电池更换使用的电池比您想象的要少"
+      },
+      {
+        "title": "Trump’s Latest Diesel Fuel “Deal” Already Reeks Of Failure (And Corruption, Of Course)",
+        "link": "https://cleantechnica.com/2026/10/10/trump-deal-russia-diesel-fuel-mid-term-elections/",
+        "pubDate": "Sun, 11 Oct 2026 00:54:33 +0000",
+        "description": "The cost of diesel fuel in the US remains stubbornly high, even as US President Donald Trump experiments with various schemes to push prices down ahead of the mid-term elections. The post Trump&#8217;s Latest Diesel Fuel &#8220;Deal&#8221; Already Reeks Of Failure (And Corruption, Of Course) appeare",
+        "title_cn": "特朗普最新的柴油“交易”已经存在失败的风险（当然还有腐败）"
+      },
+      {
+        "title": "EU Reaches Agreement With China To Reduce The Import Of Plug-In Hybrids By Half",
+        "link": "https://cleantechnica.com/2026/10/10/eu-reaches-agreement-with-china-to-reduce-the-import-of-plug-in-hybrids-by-half/",
+        "pubDate": "Sat, 10 Oct 2026 20:50:36 +0000",
+        "description": "Two years ago, the EU imposed new tariffs on Chinese made electric cars because they were flooding the the new car market in Europe. For some reason, the European Commission decided not to place similar tariffs on plug-in hybrids made in China at the same time. The German auto industry ... [continue",
+        "title_cn": "欧盟与中国达成协议，将插电式混合动力车的进口量减少一半"
+      },
+      {
+        "title": "China & EU Make Deal to Cut Flood of Hybrids into EU",
+        "link": "https://cleantechnica.com/2026/10/10/china-eu-make-deal-to-cut-flood-of-hybrids-into-eu/",
+        "pubDate": "Sat, 10 Oct 2026 18:45:19 +0000",
+        "description": "Over the course of a few years, China became the absolute juggernaut of the world&#8217;s electric vehicle industry. That includes full electrics (BEVs) and plugin hybrids (PHEVs). Regarding the latter, Chinese companies added a lot more battery capacity and range to PHEVs while improving efficiency",
+        "title_cn": "中国和欧盟达成协议，减少混合动力车涌入欧盟"
+      }
+    ],
     "source": "CleanTechnica",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "energy": {
     "items": [
@@ -131,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "energy_cn": {
     "items": [
@@ -185,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "hydrogen": {
     "items": [
@@ -247,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "papers": {
     "items": [
@@ -323,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "policy_nea": {
     "items": [
@@ -377,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -400,10 +457,10 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm4wczBsU1NMSzI1NnFqOS13b0xCZG1WWi01c0diMmZ6R2J1OXJJcTR1aGNoLTlXaVBEVm02WUNmRmhBdnd0N3BETXVoeWUwMmF3THUxNzBYY0ZPR2Y1X1pYUkdmOUliNGxmM0tWbU5xQUhXanBkdl9xTGotcWFUVEVR?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
@@ -424,13 +481,13 @@
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-11 18:33 UTC"
+    "updated": "2026-10-12 00:52 UTC"
   }
 }
