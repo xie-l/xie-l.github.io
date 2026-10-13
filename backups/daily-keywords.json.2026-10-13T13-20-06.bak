@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "keywords": [
+    {
+      "id": 1,
+      "term": "商业模式",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>企业如何创造、传递和获取价值的系统性设计，包括价值主张、客户群体、关键活动、收入来源和成本结构等要素。",
+      "example": "<strong>举例：</strong>氢能公司的商业模式可以是“售设备”（一次性收入，高利润）或“卖氢气”（持续性收入，更依赖规模），两种模式的现金流特征和风险完全不同。"
+    },
+    {
+      "id": 2,
+      "term": "碳捕集利用",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>CCUS（Carbon Capture, Utilization and Storage），捕获工业排放的CO₂并将其储存或转化为有用产品的技术，是碳中和路径的重要补充。",
+      "example": "<strong>举例：</strong>将电厂烟气中的CO₂捕集后注入地下咸水层储存，或转化为甲醇、乙烯等化学品——CCUS可以让化石能源“带着枷锁”继续运行。"
+    },
+    {
+      "id": 3,
+      "term": "电网平衡",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>电力系统在任意时刻保持发电量与用电量实时相等的状态，是电网稳定运行的物理必然要求。",
+      "example": "<strong>举例：</strong>一旦发电超用电，频率升高；反之频率降低。氢储能的价值正在于“谷充峰放”，帮助平衡大规模可再生能源带来的波动。"
+    },
+    {
+      "id": 4,
+      "term": "MECE原则",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>相互独立、完全穷尽（Mutually Exclusive, Collectively Exhaustive），是咨询和分析工作的核心结构化思维工具。",
+      "example": "<strong>举例：</strong>分析氢能成本时，MECE分解：制氢成本＋储氢成本＋运氢成本＋用氢成本，四类不重叠不遗漏。"
+    },
+    {
+      "id": 5,
+      "term": "分布式能源",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>靠近用电端、规模较小的发电和储能系统，包括屋顶光伏、小型风机、燃料电池、家用储能，是集中式大电网的重要补充。",
+      "example": "<strong>举例：</strong>工厂屋顶光伏+小型制氢装置+备用燃料电池，构成完整的离网分布式氢能系统；在电网不可靠的偏远地区，这一方案已具备经济性。"
+    }
+  ]
+}
