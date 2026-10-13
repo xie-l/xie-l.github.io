@@ -1,40 +1,40 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "keywords": [
     {
       "id": 1,
-      "term": "向上管理",
+      "term": "商业模式",
       "category": "管理",
-      "definition": "<strong>含义：</strong>主动了解上级的工作目标和风格，有效沟通并影响决策，让上级更好地理解和支持你的工作。",
-      "example": "<strong>举例：</strong>汇报前梳理“结论先行→数据支撑→下步计划”，比直接描述过程更能赢得领导信任和资源支持。"
+      "definition": "<strong>含义：</strong>企业如何创造、传递和获取价值的系统性设计，包括价值主张、客户群体、关键活动、收入来源和成本结构等要素。",
+      "example": "<strong>举例：</strong>氢能公司的商业模式可以是“售设备”（一次性收入，高利润）或“卖氢气”（持续性收入，更依赖规模），两种模式的现金流特征和风险完全不同。"
     },
     {
       "id": 2,
-      "term": "ESG",
-      "category": "经济",
-      "definition": "<strong>含义：</strong>环境（Environment）、社会（Social）、公司治理（Governance）三维度评估企业可持续发展水平的框架，正成为全球投资者的核心筛选标准。",
-      "example": "<strong>举例：</strong>ESG评分高的企业可以获得养老金、指数基金等长期资本的青睐；国家能源集团提升ESG表现，有利于境外融资降低利率、提升国际品牌形象。"
+      "term": "碳捕集利用",
+      "category": "环境",
+      "definition": "<strong>含义：</strong>CCUS（Carbon Capture, Utilization and Storage），捕获工业排放的CO₂并将其储存或转化为有用产品的技术，是碳中和路径的重要补充。",
+      "example": "<strong>举例：</strong>将电厂烟气中的CO₂捕集后注入地下咸水层储存，或转化为甲醇、乙烯等化学品——CCUS可以让化石能源“带着枷锁”继续运行。"
     },
     {
       "id": 3,
-      "term": "系统思维",
-      "category": "成长",
-      "definition": "<strong>含义：</strong>把事物看作由相互联系、相互影响的要素构成的系统，关注整体、反馈回路和时间延迟，而非孤立线性地分析问题。",
-      "example": "<strong>举例：</strong>头疼只吃止痛药（线性思维）；系统思维则问“是睡眠、饮食、压力的哪个环节出问题导致的整体失衡？”"
+      "term": "电网平衡",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>电力系统在任意时刻保持发电量与用电量实时相等的状态，是电网稳定运行的物理必然要求。",
+      "example": "<strong>举例：</strong>一旦发电超用电，频率升高；反之频率降低。氢储能的价值正在于“谷充峰放”，帮助平衡大规模可再生能源带来的波动。"
     },
     {
       "id": 4,
-      "term": "风险矩阵",
+      "term": "MECE原则",
       "category": "管理",
-      "definition": "<strong>含义：</strong>以发生概率（横轴）和影响程度（纵轴）为维度的二维矩阵，用于识别、评估和优先排序项目或业务风险。",
-      "example": "<strong>举例：</strong>绿氢项目的“核心风险矩阵”：高概率高影响（电力成本波动）→优先应对；低概率高影响（政策急剧逆转）→纳入应急预案；低概率低影响→可接受残余风险。"
+      "definition": "<strong>含义：</strong>相互独立、完全穷尽（Mutually Exclusive, Collectively Exhaustive），是咨询和分析工作的核心结构化思维工具。",
+      "example": "<strong>举例：</strong>分析氢能成本时，MECE分解：制氢成本＋储氢成本＋运氢成本＋用氢成本，四类不重叠不遗漏。"
     },
     {
       "id": 5,
-      "term": "电催化",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>利用电场驱动的化学反应，通过催化剂降低反应活化能，是电解水制氢、CO₂还原等绿色化工的核心技术。",
-      "example": "<strong>举例：</strong>水电解中，阴极催化剂（如Pt）加速析氢反应（HER），阳极催化剂（如IrO₂）加速析氧反应（OER），二者共同决定整体效率。"
+      "term": "分布式能源",
+      "category": "能源",
+      "definition": "<strong>含义：</strong>靠近用电端、规模较小的发电和储能系统，包括屋顶光伏、小型风机、燃料电池、家用储能，是集中式大电网的重要补充。",
+      "example": "<strong>举例：</strong>工厂屋顶光伏+小型制氢装置+备用燃料电池，构成完整的离网分布式氢能系统；在电网不可靠的偏远地区，这一方案已具备经济性。"
     }
   ]
 }
