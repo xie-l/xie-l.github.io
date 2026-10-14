@@ -2,6 +2,20 @@
   "tech": {
     "items": [
       {
+        "title": "China’s AI research is booming. Where is it headed?",
+        "link": "https://www.nature.com/articles/d41586-026-03223-8",
+        "pubDate": "2026-10-14",
+        "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03223-8 Nature speaks to analysts and researchers about what it’s like to work in AI in China.",
+        "title_cn": "中国的人工智能研究正在蓬勃发展。它要去哪里？"
+      },
+      {
+        "title": "China’s extraordinary rise in science and how it will change the world",
+        "link": "https://www.nature.com/articles/d41586-026-03222-9",
+        "pubDate": "2026-10-14",
+        "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03222-9 The nation is on a trajectory to lead the world in science, a development that will reshape technological advancement, innovation and the balance of global power.",
+        "title_cn": "中国科学的惊人崛起及其将如何改变世界"
+      },
+      {
         "title": "Preserve research data for tomorrow’s AI-enabled integrity checks",
         "link": "https://www.nature.com/articles/d41586-026-03244-3",
         "pubDate": "2026-10-13",
@@ -42,91 +56,77 @@
         "pubDate": "2026-10-13",
         "description": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03246-1 When microbes degrade plastic, where does it go?",
         "title_cn": "当微生物降解塑料时，它会去哪里？"
-      },
-      {
-        "title": "A mysterious jelly seems to be left behind by toads",
-        "link": "https://www.nature.com/articles/d41586-026-02974-8",
-        "pubDate": "2026-10-13",
-        "description": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-02974-8 A scientist puzzles over the origins of a curious gelatinous substance, and the complexities of measuring time, in our weekly dip into Nature’s archive.",
-        "title_cn": "一个神秘的果冻似乎被蟾蜍留下了"
-      },
-      {
-        "title": "Why not every global problem can be tackled by an IPCC-like organization",
-        "link": "https://www.nature.com/articles/d41586-026-03234-5",
-        "pubDate": "2026-10-13",
-        "description": "Nature, Published online: 13 October 2026; doi:10.1038/d41586-026-03234-5 Why not every global problem can be tackled by an IPCC-like organization",
-        "title_cn": "为什么不是每一个全球性问题都能由一个类似IPCC的组织来解决"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "energy_intl": {
     "items": [
       {
-        "title": "What Happens to the Fossil Fuel Ecosystem as EVs Take Over the Road Fleet? Case Study: Denmark",
+        "title": "BMW Sales Suffer In 3rd Quarter, With BEVs Only Real Bright Spot",
+        "link": "https://cleantechnica.com/2026/10/13/bmw-sales-suffer-in-3rd-quarter-with-bevs-only-real-bright-spot/",
+        "pubDate": "Wed, 14 Oct 2026 03:57:07 +0000",
+        "description": "Like many legacy automakers, BMW Group is having a down year, including in the third quarter. In fact, despite years of dragging its feet and lobbying against regulations pushing for a faster transition to electric vehicles, full electrics (BEVs) were the only bright spot for the company last quarte",
+        "title_cn": "宝马第三季度销量受损， BEV只有真正的亮点"
+      },
+      {
+        "title": "The New BMW iX4",
+        "link": "https://cleantechnica.com/2026/10/13/the-new-bmw-ix4/",
+        "pubDate": "Wed, 14 Oct 2026 03:56:26 +0000",
+        "description": "Extrovert, unmistakable and fully electric, the new BMW iX4 is the next Neue Klasse model from BMW. Like its Neue Klasse siblings, the new Sports Utility Vehicle in coupé form represents a technological leap forward into a new era. At the same time, the BMW iX4 showcases its own, particularly ... [c",
+        "title_cn": "全新BMW iX4"
+      },
+      {
+        "title": "The New BMW iX3 M60 xDrive",
+        "link": "https://cleantechnica.com/2026/10/13/the-new-bmw-ix3-m60-xdrive/",
+        "pubDate": "Wed, 14 Oct 2026 03:56:03 +0000",
+        "description": "BMW presents the most powerful variant yet of its Neue Klasse Sports Utility Vehicle. The new BMW iX3 M60 xDrive is equipped with an electric motor at each axle, produces maximum output of 450 kW/612 hp1 and accelerates from 0 to 100 km/h (62 mph) in 3.9 seconds1. As well ... [continued] The post Th",
+        "title_cn": "全新BMW iX3 M60 xDrive"
+      },
+      {
+        "title": "BMW Discovers What I’ve Said For 13 Years",
+        "link": "https://cleantechnica.com/2026/10/13/bmw-discovers-what-ive-said-for-13-years/",
+        "pubDate": "Wed, 14 Oct 2026 03:22:27 +0000",
+        "description": "Way back in the day, in another professional life, I was the director of a nonprofit focused on promoting bicycling, mass transit, and sustainable development — but especially bicycling. One thing we highlighted was how little people actually drive on a daily basis. The average American drives 31 to",
+        "title_cn": "宝马发现了我13年来所说的话"
+      },
+      {
+        "title": "Sober Drivers Still Face Nearly 4x Nighttime Risk: Why Road Safety Demands a Safe System Approach",
+        "link": "https://cleantechnica.com/2026/10/13/sober-drivers-still-face-nearly-4x-nighttime-risk-why-road-safety-demands-a-safe-system-approach/",
+        "pubDate": "Wed, 14 Oct 2026 02:10:42 +0000",
+        "description": "Imagine a world where we successfully remove every single drunk driver from the road. Achieving this would be a monumental victory. Alcohol impairment remains a massive, critical crisis on public roads, directly contributing to over 30% of all traffic deaths in the U.S. Eliminating it is a mission w",
+        "title_cn": "清醒的司机仍然面临近4倍的夜间风险：为什么道路安全需要安全的系统方法"
+      },
+      {
+        "title": "EU-UK TCA: Getting Made in Europe Rules Right",
+        "link": "https://cleantechnica.com/2026/10/13/eu-uk-tca-getting-made-in-europe-rules-right/",
+        "pubDate": "Wed, 14 Oct 2026 01:39:22 +0000",
+        "description": "Debunking ACEA’s proposal concerning EU electric vehicle exports to the United Kingdom The EU-UK TCA rules of origin requirements are the most concrete local content rules for batteries we have today. This is a test case for showing Europe can get its ‘Made in EU’ agenda right. The EU-UK Trade ... [",
+        "title_cn": "欧盟-英国TCA ：欧洲制造规则正确"
+      },
+      {
+        "title": "Volt Solar Tile Update",
+        "link": "https://cleantechnica.com/2026/10/13/volt-solar-tile-update/",
+        "pubDate": "Wed, 14 Oct 2026 00:51:40 +0000",
+        "description": "Volt CEO Peter Leeson and I caught up on Teams this afternoon to discuss the progress of the Volt solar tile. You will have read about his revolutionary product on CleanTechnica here and here. When we last spoke, two years ago, Peter was all set to launch his product on ... [continued] The post Volt",
+        "title_cn": "Volt Solar Tile更新"
+      },
+      {
+        "title": "What Happens To The Fossil Fuel Ecosystem As EVs Take Over The Road Fleet? Case Study: Denmark",
         "link": "https://cleantechnica.com/2026/10/13/what-happens-to-the-fossil-fuel-ecosystem-as-evs-take-over-the-road-fleet-case-study-denmark/",
         "pubDate": "Wed, 14 Oct 2026 00:05:55 +0000",
         "description": "There is more to the electric vehicle resolution than endless stats. What about the rest of the ecosystem? This article was inspired by a chat with a correspondent in Denmark. Once a month, Majella and I host a coffee morning for EV drivers, and those who are interested in the ... [continued] The po",
         "title_cn": "随着电动汽车接管公路车队，化石燃料生态系统会发生什么？案例研究：丹麦"
-      },
-      {
-        "title": "The Citroen 2 CV Is Back And Ready For The 21st Century",
-        "link": "https://cleantechnica.com/2026/10/13/the-citroen-2-cv-is-back-and-ready-for-the-21st-century/",
-        "pubDate": "Tue, 13 Oct 2026 22:22:59 +0000",
-        "description": "After World War II, manufacturing on the Continent was severely degraded. Automakers in France, Germany, and Italy began producing cars that were simple and cheap &#8212; cars like the Isetta, Messerschmidt, and Fiat Cinquecento. In 1949, the Citroen 2 CV went on sale, a car that looked like it was ",
-        "title_cn": "雪铁龙2 CV回归，为21世纪做好准备"
-      },
-      {
-        "title": "Europe Should Learn From South Korea’s Hydrogen Station Failure",
-        "link": "https://cleantechnica.com/2026/10/13/europe-hydrogen-highway-afir/",
-        "pubDate": "Tue, 13 Oct 2026 15:58:16 +0000",
-        "description": "Europe is building a hydrogen-refuelling network before there is a large hydrogen-truck market to support it. Under the Alternative Fuels Infrastructure Regulation, hydrogen stations are supposed to be available along major motorway corridors at intervals of no more than 200 kilometres by 2030, with",
-        "title_cn": "欧洲应从韩国氢气站故障中吸取教训"
-      },
-      {
-        "title": "Sales Of Used EVs Surge In US",
-        "link": "https://cleantechnica.com/2026/10/13/sales-of-used-evs-surge-in-us/",
-        "pubDate": "Tue, 13 Oct 2026 13:00:34 +0000",
-        "description": "Let&#8217;s face it. At the beginning of the EV revolution, electric cars were just too damn expensive. A Tesla Model Y cost $66,000 at one point, as the company leveraged strong demand to increase prices. In 2012, the Chevy Volt cost more than $40,000. Even though it was a decent ... [continued] Th",
-        "title_cn": "美国二手电动汽车销量激增"
-      },
-      {
-        "title": "Trump’s Dirty Energy Double Whammy: Pay More for Fuel & Power—and Use More of It",
-        "link": "https://cleantechnica.com/2026/10/12/trumps-dirty-energy-double-whammy-pay-more-for-fuel-power-and-use-more-of-it/",
-        "pubDate": "Tue, 13 Oct 2026 03:27:53 +0000",
-        "description": "How the Trump administration&#8217;s policies are driving up costs at the pump and the plug while deepening dependence on fossil fuels, with a focus on nine states: Colorado, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. While running for president, Donald Trump ",
-        "title_cn": "特朗普的肮脏能源双重打击：为燃料和电力支付更多-并使用更多"
-      },
-      {
-        "title": "Reinforcing the ETS SMAP to Guarantee Long-term Shipping Decarbonisation",
-        "link": "https://cleantechnica.com/2026/10/12/reinforcing-the-ets-smap-to-guarantee-long-term-shipping-decarbonisation/",
-        "pubDate": "Tue, 13 Oct 2026 02:46:39 +0000",
-        "description": "The SMAP mechanism introduced under the ETS represents an opportunity to help the maritime sector to transition towards clean fuels and propulsion technologies, and strengthen Europe’s industrial leadership. With an estimated support of €15 billion between 2028 and 2040, such a mechanism could encou",
-        "title_cn": "加强ETS SMAP以保证长期航运脱碳"
-      },
-      {
-        "title": "To Save Nature, Countries Should Eliminate Subsidies That Harm Forests",
-        "link": "https://cleantechnica.com/2026/10/12/to-save-nature-countries-should-eliminate-subsidies-that-harm-forests/",
-        "pubDate": "Tue, 13 Oct 2026 02:33:30 +0000",
-        "description": "Governments around the world are handing bioenergy and the other industries harming forests tens of billions of euros in subsidies. How much does saving nature cost? One estimate puts it at around $900 billion per year. Yet, instead, many governments spend hundreds of billions every year harming nat",
-        "title_cn": "为了拯救自然，各国应取消有害于森林的补贴"
-      },
-      {
-        "title": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month",
-        "link": "https://cleantechnica.com/2026/10/12/40-of-volkswagen-groups-european-orders-were-100-electrics-last-month/",
-        "pubDate": "Tue, 13 Oct 2026 01:55:58 +0000",
-        "description": "Volkswagen Group gets a lot of stick for not doing a better job of electrifying and leading the EV revolution. However, it&#8217;s doing better than most (or all?) other legacy automakers, especially in its home market of Europe. Of course, Volkswagen has been losing sales in China rapidly. Even aut",
-        "title_cn": "大众汽车集团上个月的欧洲订单中有40 ％是100 ％的电动汽车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "A Warped Born Rule Turns an Observer into a Maxwell's Demon",
-        "link": "https://arxiv.org/abs/2610.13936v1",
-        "pubDate": "2026-10-09T17:57:00Z",
-        "description": "Quantum mechanics seems to be an incredibly delicate theory. Slight alterations to nearly any part of its structure can lead to huge qualitative differences and wildly unphysical predictions. Here, we explore the many-body consequences of replacing the Born rule $p(m)\\propto\\|P_m|ψ\\rangle|^2$ by a w",
-        "title_cn": "扭曲的天生规则将观察者变成麦克斯韦的恶魔"
+        "title": "Simulations of the Evolving Ozone Layer: Implications for the Early Earth, Exoplanets, and the Search For Life",
+        "link": "https://arxiv.org/abs/2610.18864v1",
+        "pubDate": "2026-10-13T17:59:34Z",
+        "description": "Over 4 billion years, Earth's atmosphere has been transformed from a composition devoid of molecular oxygen (O$_2$) to one where O$_2$ is now 21% of our modern atmosphere by volume. With high quantities of O$_2$, an ozone (O$_3$) layer can form and partially shield the surface from biologically harm",
+        "title_cn": "臭氧层演变的模拟：对早期地球、系外行星和生命搜索的影响"
       },
       {
-        "title": "A Riesz-Map Preconditioned Extragradient Method for Price Formation in Mean Field Games",
-        "link": "https://arxiv.org/abs/2610.13934v1",
-        "pubDate": "2026-10-09T17:56:28Z",
-        "description": "We develop and analyze a projected extragradient method, preconditioned by a Riesz map, for a first-order price-formation mean field game in one space dimension. The model couples Hamilton--Jacobi--Bellman and transport equations through a global market-clearing constraint. Finite propagation justif",
-        "title_cn": "平均场博弈中价格形成的Riesz-Map预处理扩展方法"
+        "title": "Hybrid Reasoning Agents",
+        "link": "https://arxiv.org/abs/2610.18861v1",
+        "pubDate": "2026-10-13T17:59:31Z",
+        "description": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning offers an efficient internal medium but lacks native tool access and reasoning transparency. We bridge ",
+        "title_cn": "混合推理代理"
       },
       {
-        "title": "Adiabatic evolution of hadronic neutron stars",
-        "link": "https://arxiv.org/abs/2610.13926v1",
-        "pubDate": "2026-10-09T17:54:56Z",
-        "description": "In this paper we compute several structural properties of static and rotating neutron stars, considering both rigid and differential rotation. To this end, we use a finite-temperature beta-stable equation of state (EOS) extending the zero-temperature hadronic EOS derived by Fortin et al. (2017). We ",
-        "title_cn": "强子中子星的绝热演化"
+        "title": "Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs",
+        "link": "https://arxiv.org/abs/2610.18858v1",
+        "pubDate": "2026-10-13T17:59:24Z",
+        "description": "Multimodal large language models have advanced rapidly, but most remain optimized for single-image inputs. Multi-image reasoning is costly because each image adds many visual tokens, increasing encoding and attention demands. Existing techniques that address the above issue, including visual token p",
+        "title_cn": "可视化按需令牌：多模式LLM中可扩展且高效的多图像推理的可视化预算"
       },
       {
-        "title": "A Comprehensive JWST Slitless Spectroscopic Census of $\\sim$12,000 Emission-Line Galaxies at Redshift $0\\sim9$ in COSMOS",
-        "link": "https://arxiv.org/abs/2610.13920v1",
-        "pubDate": "2026-10-09T17:53:18Z",
-        "description": "Emission-line galaxies provide key diagnostics of star formation, chemical enrichment, and AGN activity across cosmic time. We present a systematic census of emission-line sources using JWST/NIRCam wide-field slitless spectroscopy (WFSS) from the COSMOS-3D program, which covers a large contiguous ar",
-        "title_cn": "全面的JWST无缝光谱普查$\\ sim $ 12,000红移发射线星系$ 0\\ sim9 $ in COSMOS"
+        "title": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+        "link": "https://arxiv.org/abs/2610.18856v1",
+        "pubDate": "2026-10-13T17:59:19Z",
+        "description": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware generative models rely on soft regularization, producing graphs whose PDs may only be",
+        "title_cn": "精确拓扑符合性：生成持久性等效图"
       },
       {
-        "title": "Heterogeneous Demand-Private Coded Caching: Exact Characterization for Two Users and Two Files",
-        "link": "https://arxiv.org/abs/2610.13914v1",
-        "pubDate": "2026-10-09T17:51:28Z",
-        "description": "We consider the demand-private coded caching problem with heterogeneous file sizes and cache capacities, where each user must recover its requested file without learning any information about the demands of the other users. We first extend the virtual-user reduction technique to accommodate heteroge",
-        "title_cn": "异构需求-私有编码缓存：两个用户和两个文件的准确表征"
+        "title": "Interaction Latents as Actions for Contact-Rich Manipulation",
+        "link": "https://arxiv.org/abs/2610.18855v1",
+        "pubDate": "2026-10-13T17:59:16Z",
+        "description": "Contact-rich manipulation requires robots to coordinate not only where to move, but also how contact and force should evolve throughout an interaction. Yet most robot policies represent actions primarily as motion trajectories, using tactile signals as inputs or auxiliary prediction targets without ",
+        "title_cn": "交互潜伏期作为富接触操作的操作"
       },
       {
-        "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-        "link": "https://arxiv.org/abs/2610.13912v1",
-        "pubDate": "2026-10-09T17:50:30Z",
-        "description": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies evolve. We introduce RSI-Anything, a domain-general framework built on JEPA-Anything that uses predict",
-        "title_cn": "RSI-Anything ：使用世界模型解锁递归自我改进"
+        "title": "ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation",
+        "link": "https://arxiv.org/abs/2610.18852v1",
+        "pubDate": "2026-10-13T17:58:44Z",
+        "description": "Expert demonstrations show how to complete contact-rich tasks, but provide limited coverage of how interaction forces respond to different actions. Task-agnostic play provides broader experience of contact dynamics without specifying task goals. To fully leverage these two types of data, we introduc",
+        "title_cn": "ForceWAM ：从富接触操纵的演示和播放数据中解耦未来和响应学习"
       },
       {
-        "title": "Quantum Query Complexity of Maximum Degree and its Generalizations",
-        "link": "https://arxiv.org/abs/2610.13906v1",
-        "pubDate": "2026-10-09T17:47:01Z",
-        "description": "We study the quantum query complexity of several basic graph problems. 1) We prove a tight $Θ(n^{3/2})$ bound for finding a maximum-out-degree vertex in an $n$-vertex tournament, resolving a conjecture of Mande, Paraashar, and Saurabh [FSTTCS'23]. 2) Using the same proof idea, we give a direct proof",
-        "title_cn": "最大程度的量子查询复杂度及其推广"
+        "title": "Contact Trajectory Prompting: In-Context Transfer of Contact-Rich Behaviors from a Single Demonstration",
+        "link": "https://arxiv.org/abs/2610.18848v1",
+        "pubDate": "2026-10-13T17:58:08Z",
+        "description": "In-context robot learning enables robots to acquire new behaviors from demonstrations without test-time parameter updates. However, visual and kinematic specifications alone may not distinguish contact-rich behaviors that share similar motions but require different interaction intensities or pattern",
+        "title_cn": "工单轨迹提示：来自单个演示的富工单行为的上下文转移"
       },
       {
-        "title": "Reflected entropy and islands in JT gravity from partial dimensional reduction",
-        "link": "https://arxiv.org/abs/2610.13900v1",
-        "pubDate": "2026-10-09T17:43:25Z",
-        "description": "We study how mixed-state correlations reorganize across island transitions in Jackiw-Teitelboim gravity coupled to a non-gravitating bath. Using the partial-dimensional-reduction realization of double holography, we compute reflected entropy for adjacent and disjoint radiation regions in the vacuum ",
-        "title_cn": "偏降维在JT重力中的反射熵和岛屿"
+        "title": "Seeing Double: The Theory Defying Twin Flares of TDE 2022dbl",
+        "link": "https://arxiv.org/abs/2610.18840v1",
+        "pubDate": "2026-10-13T17:56:56Z",
+        "description": "Partial tidal disruption events, in which a star survives a close passage by a supermassive black hole and may be disrupted again on a subsequent encounter, provide a unique probe of supermassive black hole properties and accretion physics. We examine TDE 2022dbl, a partial tidal disruption event ca",
+        "title_cn": "《Seeing Double: The Theory Defying Twin Flares of TDE 2022dbl》"
       },
       {
-        "title": "Unifying spherical convolutions through lifting",
-        "link": "https://arxiv.org/abs/2610.13892v1",
-        "pubDate": "2026-10-09T17:39:02Z",
-        "description": "We develop a unified description of convolution on the sphere by lifting to the rotation group. A number of definitions of spherical convolution have been proposed, differing in whether the kernel is axisymmetric or directional, whether the output is on the sphere or the rotation group, whether the ",
-        "title_cn": "通过提升统一球面卷积"
+        "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+        "link": "https://arxiv.org/abs/2610.18838v1",
+        "pubDate": "2026-10-13T17:56:26Z",
+        "description": "A central challenge in scaling flow models is maintaining stability in training and integration. In flow matching, this stability depends critically on how source samples are paired with data. Independent random pairing introduces substantial stochasticity, motivating minibatch optimal transport (OT",
+        "title_cn": "扩展在线优化运输迷你批次以实现流量匹配"
       },
       {
-        "title": "Interacting Stochastic Systems with Agent-Based Sampling and Connection-Based Reinforcement",
-        "link": "https://arxiv.org/abs/2610.13884v1",
-        "pubDate": "2026-10-09T17:29:34Z",
-        "description": "We introduce a general class of interacting reinforced stochastic systems evolving on a network. The dynamics are governed by two distinct interaction structures: a sampling network, which determines how information is acquired, and a reinforcement network, which determines how the sampled informati",
-        "title_cn": "随机系统与基于Agent的采样和基于Connection的强化相互作用"
+        "title": "Peering into the Midplane of the DM Tau Disk using N2H+ and DCO+",
+        "link": "https://arxiv.org/abs/2610.18821v1",
+        "pubDate": "2026-10-13T17:51:30Z",
+        "description": "Planets form in the midplanes of protoplanetary disks, thus investigating the properties of the midplane region can shed light on the physical and chemical processes governing the evolution of planetary systems. In this work, we study the conditions near the midplane of the disk around DM Tau using ",
+        "title_cn": "使用N2H +和DCO +对准DM Tau磁盘的中板"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "policy_nea": {
     "items": [
@@ -397,16 +397,16 @@
         "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
       },
       {
-        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56TmRzZ2R5aTJMUGZlTnFCQjc0emhuSUVpVTJLdEFPVFEtNzBPQ3p3b2FRaGNJc29lZEo2dzZIMEVvSWFoR19DcThYb0VTUVJqZVBQRS13?oc=5",
-        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
-        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56TmRzZ2R5aTJMUGZlTnFCQjc0emhuSUVpVTJLdEFPVFEtNzBPQ3p3b2FRaGNJc29lZEo2dzZIMEVvSWFoR19DcThYb0VTUVJqZVBQRS13?oc=5",
+        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
+        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
@@ -415,16 +415,16 @@
         "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
+        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
       },
       {
         "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -463,31 +463,31 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DRy1KcXA0bHBKa0JLUVBaV296TjJXLU56S21jTnVrOV9sNnJiajZOT3J6WDlfcXFLbFlyemQyODRQY2VvN2F5T0xTWXhxd1R4c2RBeW5JLWg3cUFXbHVSUWJVMnhGU0FwZy1vLXB0T1I4U2xOM1E?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连来了！国家发改委、国家能源局发布重要通知 &nbsp;&nbsp; 新浪财经"
-      },
-      {
         "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
         "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
         "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
       },
       {
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+      },
+      {
         "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
         "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
         "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 - 封面新闻",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nN0MxRFYyNUZITjQzX3VvYndJVEp0Z1pONkwyb01lR1c4TWZmSTZjbXNCRzJKemoycmxKQzVyMVZsanpJQlB2b0R5cmZHOE45ZXJDMVJ3Sl9sZ2FESXNoVUlkWjRsZU5Gdkx5RFcwaHcxQ2tWMHBz?oc=5",
-        "pubDate": "Fri, 26 Dec 2025 08:00:00 GMT",
-        "description": "四川唯一！宜宾临港经济技术开发区东部产业园入选国家级零碳园区 &nbsp;&nbsp; 封面新闻"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-14 00:47 UTC"
+    "updated": "2026-10-14 06:57 UTC"
   }
 }
