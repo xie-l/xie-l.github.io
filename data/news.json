@@ -30,6 +30,13 @@
         "title_cn": "作者修正：高迁移率p型氮化硼晶圆尺度外延生长"
       },
       {
+        "title": "Growing plane and ship traffic degrade the air of western North America",
+        "link": "https://www.nature.com/articles/d41586-026-03239-0",
+        "pubDate": "2026-10-14",
+        "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.",
+        "title_cn": "不断增长的飞机和船舶流量降低了北美西部的空气质量"
+      },
+      {
         "title": "The world is closer to a major conservation target than scientists thought",
         "link": "https://www.nature.com/articles/d41586-026-03307-5",
         "pubDate": "2026-10-14",
@@ -49,25 +56,39 @@
         "pubDate": "2026-10-14",
         "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03081-4 Governments around the world have pledged to conserve 30% of the terrestrial realm by 2030, but official data suggest that the target is barely halfway to being met. A combined global and national-level data set now shows that",
         "title_cn": "铺设土地：陆地保护工作覆盖的区域比想象的更广"
-      },
-      {
-        "title": "Will my lack of country-specific grants limit my chances of employment abroad?",
-        "link": "https://www.nature.com/articles/d41586-026-02442-3",
-        "pubDate": "2026-10-14",
-        "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-02442-3 A researcher in Latin America seeks advice on the best way to present themselves when applying for faculty positions in Europe and North America.",
-        "title_cn": "我缺乏特定国家/地区的补助金会限制我在国外的就业机会吗？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Paris Motor Show Topline: European Automakers Cling To The Past, Chinese Lead To The Future",
+        "link": "https://cleantechnica.com/2026/10/14/paris-motor-show-topline-european-automakers-cling-to-the-past-chinese-lead-to-the-future/",
+        "pubDate": "Wed, 14 Oct 2026 23:49:12 +0000",
+        "description": "Last night, I returned home from Mondial de l&#8217;Auto 2026, otherwise known as the Paris Motor Show. My time there was packed with events and conversations. While at the show, I also attended the Paris Automotive Summit, hearing from multiple industry executives. I will get into more depth on som",
+        "title_cn": "巴黎车展顶线：欧洲汽车制造商紧紧抓住过去，中国引领未来"
+      },
+      {
+        "title": "Misleading Plug-in Hybrid Emissions Figures Risk Cheating Consumers, T&E Warns",
+        "link": "https://cleantechnica.com/2026/10/14/misleading-plug-in-hybrid-emissions-figures-risk-cheating-consumers-te-warns/",
+        "pubDate": "Wed, 14 Oct 2026 23:31:58 +0000",
+        "description": "T&#38;E urges governments to uphold the next correction of the PHEV CO2 accounting rules to drive PHEV improvements and avoid cheating consumers. Powering a PHEV costs drivers up to €680 more a year than carmakers claim. The gap between plug-in hybrids’ official CO₂ figures and their real-world emis",
+        "title_cn": "误导性插电式混合排放数据风险欺骗消费者， T&E警告"
+      },
+      {
+        "title": "Green GSM Taxi Service Now Available in Los Angeles",
+        "link": "https://cleantechnica.com/2026/10/14/green-gsm-taxi-service-now-available-in-los-angeles/",
+        "pubDate": "Wed, 14 Oct 2026 21:49:15 +0000",
+        "description": "PUBLIC transportation company Green SM has entered North America with the official launch of an all-electric taxi service in Los Angeles, California. The move turns the United States into the ninth market for the Vietnamese transport provider. The platform operates entirely on VinFast battery-electr",
+        "title_cn": "绿色GSM出租车服务现已在洛杉矶推出"
+      },
       {
         "title": "Insurance Industry Is Throwing Its Customers Under The Bus",
         "link": "https://cleantechnica.com/2026/10/14/insurance-industry-is-throwing-its-customers-under-the-bus/",
@@ -102,31 +123,10 @@
         "pubDate": "Wed, 14 Oct 2026 14:40:43 +0000",
         "description": "Britain’s bus reforms are usually discussed as a privatization story. Outside London, the 1980s reforms deregulated local bus markets and gave commercial operators far more freedom over routes and timetables. London kept public control of the passenger network while private companies competed to ope",
         "title_cn": "公交电气化将治理转化为基础设施"
-      },
-      {
-        "title": "The People Speak: We Want Energy Storage, Not Data Centers",
-        "link": "https://cleantechnica.com/2026/10/14/energy-storage-sunrun-distributed-us-rooftop-solar/",
-        "pubDate": "Wed, 14 Oct 2026 14:22:09 +0000",
-        "description": "The leading US rooftop solar firm Sunrun has made a sharp pivot into the energy storage field, enabling more households to participate in money-saving virtual power plants whether or not they have rooftop solar panels. The post The People Speak: We Want Energy Storage, Not Data Centers appeared firs",
-        "title_cn": "人们说：我们需要储能，而不是数据中心"
-      },
-      {
-        "title": "BMW Sales Suffer In 3rd Quarter, With BEVs Only Real Bright Spot",
-        "link": "https://cleantechnica.com/2026/10/13/bmw-sales-suffer-in-3rd-quarter-with-bevs-only-real-bright-spot/",
-        "pubDate": "Wed, 14 Oct 2026 03:57:07 +0000",
-        "description": "Like many legacy automakers, BMW Group is having a down year, including in the third quarter. In fact, despite years of dragging its feet and lobbying against regulations pushing for a faster transition to electric vehicles, full electrics (BEVs) were the only bright spot for the company last quarte",
-        "title_cn": "宝马第三季度销量受损， BEV只有真正的亮点"
-      },
-      {
-        "title": "The New BMW iX4",
-        "link": "https://cleantechnica.com/2026/10/13/the-new-bmw-ix4/",
-        "pubDate": "Wed, 14 Oct 2026 03:56:26 +0000",
-        "description": "Extrovert, unmistakable and fully electric, the new BMW iX4 is the next Neue Klasse model from BMW. Like its Neue Klasse siblings, the new Sports Utility Vehicle in coupé form represents a technological leap forward into a new era. At the same time, the BMW iX4 showcases its own, particularly ... [c",
-        "title_cn": "全新BMW iX4"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,16 +199,16 @@
         "description": "政策赋能 氢电协同共筑新型能源体系 &nbsp;&nbsp; 搜狐"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres",
-        "link": "https://fuelcellsworks.com/2026/10/13/clean-technology/ls-materials-wins-51-5m-order-for-ultracapacitors-used-in-hydrogen-fuel-cell-data-centres",
-        "pubDate": "Tue, 13 Oct 2026 16:30:17 GMT",
+        "title": "AEP Advances Innovative Energy Solution for Google with 702MW of Bloom Fuel Cells",
+        "link": "https://fuelcellsworks.com/2026/10/14/clean-energy/aep-advances-innovative-energy-solution-for-google-with-702mw-of-bloom-fuel-cells",
+        "pubDate": "Wed, 14 Oct 2026 15:53:34 GMT",
         "description": "",
-        "title_cn": "LS Materials赢得用于氢燃料电池数据中心的$ 5000万超级电容器订单"
+        "title_cn": "AEP为谷歌推出702MW Bloom燃料电池创新能源解决方案"
       },
       {
-        "title": "Hydrogen Storage: Fraunhofer Turns to Lasers to Make Rock Caverns Leak-Proof",
-        "link": "https://fuelcellsworks.com/2026/10/12/h2/hydrogen-storage-fraunhofer-turns-to-lasers-to-make-rock-caverns-leak-proof",
-        "pubDate": "Tue, 13 Oct 2026 16:27:23 GMT",
+        "title": "World's First Commercial Green Ammonia Ship-to-Ship Bunkering Completed at Zhoushan",
+        "link": "https://fuelcellsworks.com/2026/10/14/clean-technology/world-s-first-commercial-green-ammonia-ship-to-ship-bunkering-completed-at-zhoushan",
+        "pubDate": "Wed, 14 Oct 2026 15:45:08 GMT",
         "description": "",
-        "title_cn": "储氢： Fraunhofer转向激光使岩洞防泄漏"
+        "title_cn": "全球首个商用绿氨船对船加注系统在舟山竣工"
       },
       {
-        "title": "Daejeon Adds 50 More Hydrogen Vehicle Subsidies After 2026 Quota Sells Out Early",
-        "link": "https://fuelcellsworks.com/2026/10/11/fuel-cells/daejeon-adds-50-more-hydrogen-vehicle-subsidies-after-2026-quota-sells-out-early",
-        "pubDate": "Tue, 13 Oct 2026 16:09:43 GMT",
+        "title": "HyLight Raises €13 Million to Scale Hydrogen-Powered Airship Fleet to 15 Units by 2027",
+        "link": "https://fuelcellsworks.com/2026/10/12/clean-energy/hylight-raises-13-million-to-scale-hydrogen-powered-airship-fleet-to-15-units-by-2027",
+        "pubDate": "Wed, 14 Oct 2026 15:33:01 GMT",
         "description": "",
-        "title_cn": "大田在2026年配额提前售罄后增加50项氢能汽车补贴"
+        "title_cn": "HyLight筹集1300万欧元，到2027年将氢动力飞艇船队规模扩大到15艘"
       },
       {
-        "title": "Mott MacDonald Appointed to Support East Coast Hydrogen Network Development",
-        "link": "https://fuelcellsworks.com/2026/10/08/h2/mott-macdonald-appointed-to-support-east-coast-hydrogen-network-development",
-        "pubDate": "Tue, 13 Oct 2026 16:03:11 GMT",
+        "title": "South Korea's Seosan to Raise Hydrogen Refuelling Price by 10.5% From November",
+        "link": "https://fuelcellsworks.com/2026/10/13/h2/south-korea-s-seosan-to-raise-hydrogen-refuelling-price-by-10-5-percent-from-november",
+        "pubDate": "Wed, 14 Oct 2026 15:16:42 GMT",
         "description": "",
-        "title_cn": "Mott MacDonald被任命支持东海岸氢能网络开发"
+        "title_cn": "韩国Seosan将从11月起将氢气加注价格提高10.5 ％"
       },
       {
-        "title": "Magallanes Commission Gives Favourable Ruling on Río Verde Hydrogen Port Concession",
-        "link": "https://fuelcellsworks.com/2026/10/13/h2/magallanes-commission-gives-favourable-ruling-on-rio-verde-hydrogen-port-concession",
-        "pubDate": "Tue, 13 Oct 2026 15:57:01 GMT",
+        "title": "Stargate Hydrogen Launches STARDUST®: Ceramic Electrode Technology That Lowers the Cost of Green Hydrogen Without the Use of Precious Metals",
+        "link": "https://fuelcellsworks.com/2026/10/14/fuel-cells/stargate-hydrogen-launches-stardust-ceramic-electrode-technology-that-lowers-the-cost-of-green-hydrogen-without-the-use-of-precious-metals",
+        "pubDate": "Wed, 14 Oct 2026 15:09:49 GMT",
         "description": "",
-        "title_cn": "Magallanes委员会对Río Verde氢港特许权做出有利裁决"
+        "title_cn": "Stargate Hydrogen推出STARDUST ® ：在不使用贵金属的情况下降低绿色氢成本的陶瓷电极技术"
       },
       {
-        "title": "Hy-Hybrid Energy Wins a Scotland Prestige Award 2026",
-        "link": "https://fuelcellsworks.com/2026/10/12/h2/hy-hybrid-energy-wins-a-scotland-prestige-award-2026",
-        "pubDate": "Tue, 13 Oct 2026 15:52:01 GMT",
+        "title": "South Korea's Ansan Expands Hydrogen Bus Fleet to 64, Targets 300 by 2030",
+        "link": "https://fuelcellsworks.com/2026/10/13/electrolyzer/south-korea-s-ansan-expands-hydrogen-bus-fleet-to-64-targets-300-by-2030",
+        "pubDate": "Wed, 14 Oct 2026 14:55:46 GMT",
         "description": "",
-        "title_cn": "Hy-Hybrid Energy荣获2026年苏格兰声望奖"
+        "title_cn": "韩国Ansan将氢能公交车队扩展到64辆，到2030年实现目标300辆"
       },
       {
-        "title": "Commercial Liquid Hydrogen Infrastructure Advances with New Gas-Handling System",
-        "link": "https://fuelcellsworks.com/2026/10/07/h2/lh-bog-compressor-selected-for-use-at-kawasaki-lh-terminal",
-        "pubDate": "Tue, 13 Oct 2026 15:41:34 GMT",
+        "title": "UK Energy and UK Nuclear Explore Nuclear-Powered Hydrogen and Underground Storage",
+        "link": "https://fuelcellsworks.com/2026/10/14/h2/uk-energy-and-uk-nuclear-explore-nuclear-powered-hydrogen-and-underground-storage",
+        "pubDate": "Wed, 14 Oct 2026 14:49:17 GMT",
         "description": "",
-        "title_cn": "借助新型气体处理系统推进商用液氢基础设施建设"
+        "title_cn": "英国能源和英国核能探索核动力氢和地下储存"
       },
       {
-        "title": "H2Accelerate Calls for Combined European Funding for Hydrogen Trucks and Refuelling Stations",
-        "link": "https://fuelcellsworks.com/2026/10/13/h2/h2accelerate-calls-for-combined-european-funding-for-hydrogen-trucks-and-refuelling-stations",
-        "pubDate": "Tue, 13 Oct 2026 15:36:11 GMT",
+        "title": "DESFA Launches €620,000 Inspection Tender for Greece's 145Km Hydrogen-Ready Patras Pipeline",
+        "link": "https://fuelcellsworks.com/2026/10/14/h2/desfa-launches-620-000-inspection-tender-for-greece-s-145km-hydrogen-ready-patras-pipeline",
+        "pubDate": "Wed, 14 Oct 2026 14:24:28 GMT",
         "description": "",
-        "title_cn": "H2Accelerate呼吁欧洲联合资助氢能卡车和加油站"
+        "title_cn": "DESFA推出€ 620,000希腊145公里氢能帕特雷管道检验招标"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,10 +409,10 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56TmRzZ2R5aTJMUGZlTnFCQjc0emhuSUVpVTJLdEFPVFEtNzBPQ3p3b2FRaGNJc29lZEo2dzZIMEVvSWFoR19DcThYb0VTUVJqZVBQRS13?oc=5",
-        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
-        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-14 18:14 UTC"
+    "updated": "2026-10-15 00:13 UTC"
   }
 }
