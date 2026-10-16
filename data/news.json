@@ -2,11 +2,39 @@
   "tech": {
     "items": [
       {
+        "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+        "link": "https://www.nature.com/articles/d41586-026-03341-3",
+        "pubDate": "2026-10-16",
+        "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03341-3 Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
+        "title_cn": "简报聊天：在紫外线下出现的隐形纹身，然后消失"
+      },
+      {
         "title": "The pianist who never played",
         "link": "https://www.nature.com/articles/d41586-026-03112-0",
         "pubDate": "2026-10-16",
         "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03112-0 A note to self.",
         "title_cn": "从不弹琴的钢琴家"
+      },
+      {
+        "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+        "link": "https://www.nature.com/articles/d41586-026-03308-4",
+        "pubDate": "2026-10-16",
+        "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4 Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+        "title_cn": "IceCube刚刚获得了诺贝尔奖。保护具有相同潜力的天体粒子物理项目"
+      },
+      {
+        "title": "Memory stays strong in old age when this brain enzyme is active",
+        "link": "https://www.nature.com/articles/d41586-026-03303-9",
+        "pubDate": "2026-10-16",
+        "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.",
+        "title_cn": "当这种大脑酶活跃时，记忆力在老年时会保持强劲"
+      },
+      {
+        "title": "Unprecedented atlas explores mitochondria across the tree of life",
+        "link": "https://www.nature.com/articles/d41586-026-03195-9",
+        "pubDate": "2026-10-16",
+        "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03195-9 The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.",
+        "title_cn": "前所未有的图谱探索生命之树的线粒体"
       },
       {
         "title": "PhD students who write dissertation with AI less likely to stay in academia",
@@ -16,58 +44,44 @@
         "title_cn": "用人工智能撰写论文的博士生不太可能留在学术界"
       },
       {
+        "title": "History’s long-secret codes are being cracked by amateurs using AI",
+        "link": "https://www.nature.com/articles/d41586-026-03338-y",
+        "pubDate": "2026-10-16",
+        "description": "Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-y Cryptographers’ inboxes are being flooded with requests to validate cipher solutions.",
+        "title_cn": "历史的长期秘密密码正被业余爱好者使用人工智能破解"
+      },
+      {
         "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
         "link": "https://www.nature.com/articles/d41586-026-03178-w",
         "pubDate": "2026-10-15",
         "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes.",
         "title_cn": "人工智能是否侵蚀了博士生的批判性思维和分析能力？"
-      },
-      {
-        "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
-        "link": "https://www.nature.com/articles/d41586-026-03329-z",
-        "pubDate": "2026-10-15",
-        "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03329-z Governments have voted to abolish the leap second immediately and replace it with a leap hour.",
-        "title_cn": "世界计时员颠覆了他们调整时间的方式，以避免灾难性的“负秒”"
-      },
-      {
-        "title": "Orangutan mothers arrange play dates for their babies",
-        "link": "https://www.nature.com/articles/d41586-026-03238-1",
-        "pubDate": "2026-10-15",
-        "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03238-1 Solitary primates spend energy and time travelling to patches of forest for get-togethers.",
-        "title_cn": "猩猩妈妈为宝宝安排玩耍日期"
-      },
-      {
-        "title": "Daily briefing: Bleached corals revived by healthy neighbour’s touch",
-        "link": "https://www.nature.com/articles/d41586-026-03336-0",
-        "pubDate": "2026-10-15",
-        "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03336-0 Ghostly white corals are fully restored in eight weeks by contact with a healthy counterpart. Plus, arXiv is capping submissions per researcher and four good news stories to brighten your day.",
-        "title_cn": "每日简报：漂白的珊瑚因健康邻居的触摸而复活"
-      },
-      {
-        "title": "Nearly half of reef-building corals face elevated relative risk of extinction",
-        "link": "https://www.nature.com/articles/s41586-026-11263-3",
-        "pubDate": "2026-10-15",
-        "description": "Nature, Published online: 15 October 2026; doi:10.1038/s41586-026-11263-3 Nearly half of reef-building corals face elevated relative risk of extinction",
-        "title_cn": "近一半的造礁珊瑚面临更高的相对灭绝风险"
-      },
-      {
-        "title": "Give me the good news: four science stories to brighten your day",
-        "link": "https://www.nature.com/articles/d41586-026-03152-6",
-        "pubDate": "2026-10-15",
-        "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning.",
-        "title_cn": "给我好消息：四个科学故事来照亮你的一天"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla Roadster Reveal — Madness From The Mind If Musk",
+        "link": "https://cleantechnica.com/2026/10/16/tesla-roadster-reveal-madness-from-the-mind-if-musk/",
+        "pubDate": "Fri, 16 Oct 2026 16:23:24 +0000",
+        "description": "My colleague Tina Casey is doing a story about the new Tesla Roadster, and I hope she will pardon me for this intrusion. What we saw at the reveal was a totally irrelevant mind game cooked up inside the drug addled cranium of Elon Musk. That&#8217;s right, the world&#8217;s richest ... [continued] T",
+        "title_cn": "特斯拉敞篷跑车揭晓—疯狂的头脑，如果马斯克"
+      },
+      {
+        "title": "Europe Needs Electric Freight Corridors, Not Just Electric Ships",
+        "link": "https://cleantechnica.com/2026/10/16/china-electric-shipping-freight-infrastructure/",
+        "pubDate": "Fri, 16 Oct 2026 13:56:21 +0000",
+        "description": "Electric ships attract attention because the vessel is the visible technology. Put a large battery into an inland cargo vessel, replace the diesel propulsion system with electric motors, and the decarbonization story appears straightforward. Inland shipping looks particularly promising because many ",
+        "title_cn": "欧洲需要电动货运走廊，而不仅仅是电动船舶"
+      },
       {
         "title": "Monthly Wind Generation In ISO-NE Is About 68% Higher Than Last Year",
         "link": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
@@ -109,24 +123,10 @@
         "pubDate": "Thu, 15 Oct 2026 17:57:29 +0000",
         "description": "Tesla CEO Elon Musk aims to recover some of his EV magic from the Cybertruck debacle by showcasing the new Tesla Roadster on October 15, a $200,000 reboot of the original 2006 Tesla two-seater that sparked the global EV revolution. The post Ghost Of Thanos Lingers Over Elon Musk&#8217;s Howard Stark",
         "title_cn": "萨诺斯幽灵徘徊在伊隆·马斯克的霍华德·斯塔克时刻（已更新）"
-      },
-      {
-        "title": "China Adjusts VAT Exemption For Exported Vehicles",
-        "link": "https://cleantechnica.com/2026/10/15/china-adjusts-vat-exemption-for-exported-vehicles/",
-        "pubDate": "Thu, 15 Oct 2026 17:32:39 +0000",
-        "description": "People love to complain about how China provides massive state subsidies to its domestic manufacturers, as if the US, the EU, and Japan do not. Whether is it a zillion tax breaks for corporations or forgiveness of local property taxes, the last thing any business in the west wants is ... [continued]",
-        "title_cn": "中国调整出口车辆的增值税免税政策"
-      },
-      {
-        "title": "The RAV-4 Was An EV Experiment That Continues To Be One",
-        "link": "https://cleantechnica.com/2026/10/15/the-rav-4-was-an-ev-experiment-that-continues-to-be-one/",
-        "pubDate": "Thu, 15 Oct 2026 16:14:50 +0000",
-        "description": "WHEN Hiroshi Okuda assumed the presidency of Toyota Motor Corporation in 1995, he fundamentally shifted the automaker&#8217;s global strategy. Recognizing the pressure of California&#8217;s impending zero-emission mandates and the long-term threat of petroleum depletion, Okuda demanded that Toyota a",
-        "title_cn": "RAV-4是一个电动汽车实验，仍然是一个"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "policy_nea": {
     "items": [
@@ -324,12 +324,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
         "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
         "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
-      },
-      {
-        "title": "【政策】布局水上氢能应用，内河新能源船舶行动方案打开氢动力船舶空间 - 新浪网",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05LUNQX2IzVDZpX3M4MjlXalRyMzU4Q2dRU0xrX3FtLU05R1FEU1g3RFB6eHdsdEFCTE9VeFMyQXVXYXpzaUZjRkFTZjhxblBZTDJBRFdwbUZMclFacU5US1MxOGowSHhxVzUwWjZqeEVsUQ?oc=5",
-        "pubDate": "Wed, 14 Oct 2026 08:44:00 GMT",
-        "description": "【政策】布局水上氢能应用，内河新能源船舶行动方案打开氢动力船舶空间 &nbsp;&nbsp; 新浪网"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -350,6 +344,12 @@
         "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 碳索储能网"
       },
       {
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
+      },
+      {
         "title": "《中国氢能发展报告（2026）》发布 - 能源界",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
         "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -363,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -417,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-16 12:01 UTC"
+    "updated": "2026-10-16 17:45 UTC"
   }
 }
