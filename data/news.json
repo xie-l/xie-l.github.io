@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Is AI eroding PhD students’ critical thinking and analysis skills?",
+        "link": "https://www.nature.com/articles/d41586-026-03178-w",
+        "pubDate": "2026-10-15",
+        "description": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03178-w An expert panel debates the impact of artificial intelligence on doctoral programmes.",
+        "title_cn": "人工智能是否侵蚀了博士生的批判性思维和分析能力？"
+      },
+      {
         "title": "World’s timekeepers upend how they adjust time to avoid catastrophic ‘negative second’",
         "link": "https://www.nature.com/articles/d41586-026-03329-z",
         "pubDate": "2026-10-15",
@@ -49,25 +56,25 @@
         "pubDate": "2026-10-14",
         "description": "Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11242-8 Catalytic transfer of carbon atoms enables spirofusion of C–C σ-bonds",
         "title_cn": "碳原子的催化转移使C–C σ键的螺旋融合成为可能"
-      },
-      {
-        "title": "This is why butterflies are so hard to catch",
-        "link": "https://www.nature.com/articles/d41586-026-03301-x",
-        "pubDate": "2026-10-14",
-        "description": "Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03301-x High-speed camera footage reveals the visual tricks butterflies use to evade predators.",
-        "title_cn": "这就是为什么蝴蝶如此难以捕捉"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Ghost Of Thanos Lingers Over Elon Musk’s Howard Stark Moment",
+        "link": "https://cleantechnica.com/2026/10/15/elon-musk-tesla-roadster-unveil-flying-cars-evtol-vtol/",
+        "pubDate": "Thu, 15 Oct 2026 17:57:29 +0000",
+        "description": "Tesla CEO Elon Musk aims to recover some of his EV magic from the Cybertruck debacle by showcasing the new Tesla Roadster on October 15, a $200,000 reboot of the original 2006 Tesla two-seater that sparked the global EV revolution. The post Ghost Of Thanos Lingers Over Elon Musk&#8217;s Howard Stark",
+        "title_cn": "萨诺斯幽灵徘徊在埃隆·马斯克的霍华德·斯塔克时刻"
+      },
       {
         "title": "China Adjusts VAT Exemption For Exported Vehicles",
         "link": "https://cleantechnica.com/2026/10/15/china-adjusts-vat-exemption-for-exported-vehicles/",
@@ -116,17 +123,10 @@
         "pubDate": "Thu, 15 Oct 2026 01:26:02 +0000",
         "description": "Naming the problem: A sociopathic agricultural system There is a great paradox in modern agriculture. The agro-industrial sector is feeding people while harming society and starving the planet. In 1962, one farmer fed 25.8 persons; today, it is 155.[1] But according to the UN, global agrifood system",
         "title_cn": "如果现代农业是一个人，那将是一个反社会者：再生农业可以拯救我们自己吗？"
-      },
-      {
-        "title": "Elon Musk Enterprises Has Almost No Cleantech News These Days",
-        "link": "https://cleantechnica.com/2026/10/14/elon-musk-enterprises-has-almost-no-cleantech-news-these-days/",
-        "pubDate": "Thu, 15 Oct 2026 01:07:36 +0000",
-        "description": "I have countless sources for tracking and following cleantech news. Every day, I go through numerous feeds and websites and news alerts to try to find out what&#8217;s happening and spot the biggest stories to cover. I very seldom see anything notable cleantech-wise from Tesla or other Elon Musk com",
-        "title_cn": "Elon Musk Enterprises如今几乎没有清洁技术新闻"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "AEP Advances Innovative Energy Solution for Google with 702MW of Bloom Fuel Cells",
-        "link": "https://fuelcellsworks.com/2026/10/14/clean-energy/aep-advances-innovative-energy-solution-for-google-with-702mw-of-bloom-fuel-cells",
-        "pubDate": "Wed, 14 Oct 2026 15:53:34 GMT",
+        "title": "Lombardy's First Open-Market Hydrogen Valley Opens on Former Paper Mill Site",
+        "link": "https://fuelcellsworks.com/2026/10/15/electrolyzer/lombardy-s-first-open-market-hydrogen-valley-opens-on-former-paper-mill-site",
+        "pubDate": "Thu, 15 Oct 2026 16:13:26 GMT",
         "description": "",
-        "title_cn": "AEP为谷歌推出702MW Bloom燃料电池创新能源解决方案"
+        "title_cn": "伦巴第第一个开放市场的氢谷在前造纸厂开业"
       },
       {
-        "title": "World's First Commercial Green Ammonia Ship-to-Ship Bunkering Completed at Zhoushan",
-        "link": "https://fuelcellsworks.com/2026/10/14/clean-technology/world-s-first-commercial-green-ammonia-ship-to-ship-bunkering-completed-at-zhoushan",
-        "pubDate": "Wed, 14 Oct 2026 15:45:08 GMT",
+        "title": "First in Japan to Validate a Hydrogen Aircraft Engine Capable of Achieving One of the World's Lowest NOx Emission Levels",
+        "link": "https://fuelcellsworks.com/2026/10/08/h2/first-in-japan-to-validate-a-hydrogen-aircraft-engine-capable-of-achieving-one-of-the-world-s-lowest-nox-emission-levels",
+        "pubDate": "Thu, 15 Oct 2026 15:47:15 GMT",
         "description": "",
-        "title_cn": "全球首个商用绿氨船对船加注系统在舟山竣工"
+        "title_cn": "首次在日本验证能够达到世界最低NOx排放水平之一的氢气飞机发动机"
       },
       {
-        "title": "HyLight Raises €13 Million to Scale Hydrogen-Powered Airship Fleet to 15 Units by 2027",
-        "link": "https://fuelcellsworks.com/2026/10/12/clean-energy/hylight-raises-13-million-to-scale-hydrogen-powered-airship-fleet-to-15-units-by-2027",
-        "pubDate": "Wed, 14 Oct 2026 15:33:01 GMT",
+        "title": "Oracle Asks FERC to Fast-Track Gas Pipeline for New Mexico AI Data Center",
+        "link": "https://fuelcellsworks.com/2026/10/14/clean-energy/oracle-asks-ferc-to-fast-track-gas-pipeline-for-new-mexico-ai-data-center",
+        "pubDate": "Thu, 15 Oct 2026 15:22:20 GMT",
         "description": "",
-        "title_cn": "HyLight筹集1300万欧元，到2027年将氢动力飞艇船队规模扩大到15艘"
+        "title_cn": "甲骨文要求FERC为新墨西哥州人工智能数据中心提供快速天然气管道"
       },
       {
-        "title": "South Korea's Seosan to Raise Hydrogen Refuelling Price by 10.5% From November",
-        "link": "https://fuelcellsworks.com/2026/10/13/h2/south-korea-s-seosan-to-raise-hydrogen-refuelling-price-by-10-5-percent-from-november",
-        "pubDate": "Wed, 14 Oct 2026 15:16:42 GMT",
+        "title": "Aragon Launches Pioneering Industrial Laboratory to Scale Hydrogen Storage Solutions.",
+        "link": "https://fuelcellsworks.com/2026/10/11/h2/aragon-launches-pioneering-industrial-laboratory-to-scale-hydrogen-storage-solutions",
+        "pubDate": "Thu, 15 Oct 2026 14:48:51 GMT",
         "description": "",
-        "title_cn": "韩国Seosan将从11月起将氢气加注价格提高10.5 ％"
+        "title_cn": "阿拉贡推出可扩展储氢解决方案的开创性工业实验室。"
       },
       {
-        "title": "Stargate Hydrogen Launches STARDUST®: Ceramic Electrode Technology That Lowers the Cost of Green Hydrogen Without the Use of Precious Metals",
-        "link": "https://fuelcellsworks.com/2026/10/14/fuel-cells/stargate-hydrogen-launches-stardust-ceramic-electrode-technology-that-lowers-the-cost-of-green-hydrogen-without-the-use-of-precious-metals",
-        "pubDate": "Wed, 14 Oct 2026 15:09:49 GMT",
+        "title": "India’s First Hydrogen Train Saves 3,200 Litres of Diesel in First 1,200Km",
+        "link": "https://fuelcellsworks.com/2026/10/12/fuel-cells/india-s-hydrogen-train-ready-for-2600-passengers",
+        "pubDate": "Thu, 15 Oct 2026 14:38:40 GMT",
         "description": "",
-        "title_cn": "Stargate Hydrogen推出STARDUST ® ：在不使用贵金属的情况下降低绿色氢成本的陶瓷电极技术"
+        "title_cn": "印度首列氢气列车首1200公里节省3200升柴油"
       },
       {
-        "title": "South Korea's Ansan Expands Hydrogen Bus Fleet to 64, Targets 300 by 2030",
-        "link": "https://fuelcellsworks.com/2026/10/13/electrolyzer/south-korea-s-ansan-expands-hydrogen-bus-fleet-to-64-targets-300-by-2030",
-        "pubDate": "Wed, 14 Oct 2026 14:55:46 GMT",
+        "title": "STX Group and TURN2X Bring RFNBO-Compliant E-Methane to Market",
+        "link": "https://fuelcellsworks.com/2026/10/14/h2/stx-group-and-turn2x-bring-rfnbo-compliant-e-methane-to-market",
+        "pubDate": "Thu, 15 Oct 2026 14:15:05 GMT",
         "description": "",
-        "title_cn": "韩国Ansan将氢能公交车队扩展到64辆，到2030年实现目标300辆"
+        "title_cn": "STX集团和TURN2X将符合RFNBO标准的E-甲烷推向市场"
       },
       {
-        "title": "UK Energy and UK Nuclear Explore Nuclear-Powered Hydrogen and Underground Storage",
-        "link": "https://fuelcellsworks.com/2026/10/14/h2/uk-energy-and-uk-nuclear-explore-nuclear-powered-hydrogen-and-underground-storage",
-        "pubDate": "Wed, 14 Oct 2026 14:49:17 GMT",
+        "title": "JERA Invests in Bill Gates-Backed Koloma to Explore Natural Hydrogen as Future Energy Source",
+        "link": "https://fuelcellsworks.com/2026/10/15/green-hydrogen/jera-invests-in-bill-gates-backed-koloma-to-explore-natural-hydrogen-as-future-energy-source",
+        "pubDate": "Thu, 15 Oct 2026 13:42:20 GMT",
         "description": "",
-        "title_cn": "英国能源和英国核能探索核动力氢和地下储存"
+        "title_cn": "JERA投资比尔·盖茨支持的Koloma探索天然氢作为未来能源"
       },
       {
-        "title": "DESFA Launches €620,000 Inspection Tender for Greece's 145Km Hydrogen-Ready Patras Pipeline",
-        "link": "https://fuelcellsworks.com/2026/10/14/h2/desfa-launches-620-000-inspection-tender-for-greece-s-145km-hydrogen-ready-patras-pipeline",
-        "pubDate": "Wed, 14 Oct 2026 14:24:28 GMT",
+        "title": "FAW Jiefang Launches China's First 5,000Km Public Road Test for 49-Tonne Liquid Hydrogen Heavy Truck",
+        "link": "https://fuelcellsworks.com/2026/10/13/fuel-cells/faw-jiefang-launches-china-s-first-5-000km-public-road-test-for-49-tonne-liquid-hydrogen-heavy-truck",
+        "pubDate": "Thu, 15 Oct 2026 13:27:29 GMT",
         "description": "",
-        "title_cn": "DESFA推出€ 620,000希腊145公里氢能帕特雷管道检验招标"
+        "title_cn": "一汽解放推出中国首个5000公里的49吨液氢重卡公路测试"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "policy_nea": {
     "items": [
@@ -415,10 +415,10 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
-        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - 碳索储能网",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yM0dSVVByWjVydHdtVDU0R2tqb1dMOWVYRGVFS1dlS01WTmtuaXE1ZE92Umc5WFlfeFl1YVZRdFUydUh4Z2NOdy1RMXpFTXc3TlhSN3F0NHp0eUN3eDVHMg?oc=5",
+        "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 碳索储能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
@@ -434,15 +434,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -451,10 +451,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -463,31 +463,31 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "title": "重磅！国家级绿电直连政策发布 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
-        "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
+        "title": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ - 雪球",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseGdZcjhBcFk1NENXSFVMWmNWVEJpQ0dBZUpNS1B6QUMxMndReWlkNGUzWlNTeFlrVWNIWmJLNnZYSDU1Y29kbGVWQ0lpb2xo?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "description": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ &nbsp;&nbsp; 雪球"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-15 17:56 UTC"
+    "updated": "2026-10-15 23:59 UTC"
   }
 }
