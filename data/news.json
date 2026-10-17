@@ -59,15 +59,43 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Hello Toronto! Waymo is En Route",
+        "link": "https://cleantechnica.com/2026/10/16/hello-toronto-waymo-is-en-route/",
+        "pubDate": "Sat, 17 Oct 2026 01:43:01 +0000",
+        "description": "Waymo is officially heading to Canada! We’re laying the groundwork for our fully autonomous ride-hailing service in Toronto, investing in local facilities and jobs, with the goal of welcoming our first riders in 2028. In the coming days, you’ll start to see Waymo vehicles on the streets of Toronto a",
+        "title_cn": "您好，多伦多！ Waymo正在途中"
+      },
+      {
+        "title": "U.S. Small-Scale Solar Generation Has Quadrupled in the Last Decade",
+        "link": "https://cleantechnica.com/2026/10/16/u-s-small-scale-solar-generation-has-quadrupled-in-the-last-decade/",
+        "pubDate": "Sat, 17 Oct 2026 01:32:58 +0000",
+        "description": "We estimate that U.S. generation from small-scale or rooftop solar photovoltaic systems (smaller than 1 megawatt of capacity) has increased from 18,812 gigawatthours (GWh) to 92,979 GWh over the last decade. The four states with the highest generation of small-scale solar in the country—California, ",
+        "title_cn": "美国小型太阳能发电量在过去十年中翻了两番"
+      },
+      {
+        "title": "EU Long-Term Budget Crunch: What To Watch For At The EU Leaders’ Summit On 15-16 October",
+        "link": "https://cleantechnica.com/2026/10/16/eu-long-term-budget-crunch-what-to-watch-for-at-the-eu-leaders-summit-on-15-16-october/",
+        "pubDate": "Sat, 17 Oct 2026 01:14:49 +0000",
+        "description": "EU leaders will meet this week for a decisive round of talks on the bloc’s next seven-year budget for 2028–2034. These negotiations will shape the EU’s priorities and investment framework well beyond the next EU elections, so the decisions leaders reach now are especially consequential for Europe’s ",
+        "title_cn": "欧盟长期预算紧缩：在10月15-16日举行的欧盟领导人峰会上需要注意什么"
+      },
+      {
+        "title": "Franco-German Car Deal A ‘Historic Mistake’ That Weakens Climate Ambition And Europe’s Car Industry",
+        "link": "https://cleantechnica.com/2026/10/16/franco-german-car-deal-a-historic-mistake-that-weakens-climate-ambition-and-europes-car-industry/",
+        "pubDate": "Sat, 17 Oct 2026 00:06:06 +0000",
+        "description": "Deal to loosen the EU’s car CO₂ standards and IAA requirements a ‘historic mistake’ that puts Europe’s position in the global EV and battery race in jeopardy. T&#38;E has labelled the French and German government’s agreement to weaken the EU’s car CO₂ standards and IAA requirements as a ‘historic mi",
+        "title_cn": "法德汽车交易是削弱气候野心和欧洲汽车行业的“历史性错误”"
+      },
       {
         "title": "Delaying ETS2 Will Not Protect Households from the Next Energy Crisis",
         "link": "https://cleantechnica.com/2026/10/16/delaying-ets2-will-not-protect-households-from-the-next-energy-crisis/",
@@ -95,38 +123,10 @@
         "pubDate": "Fri, 16 Oct 2026 18:59:53 +0000",
         "description": "There is an old expression that goes like this: &#8220;Everyone complains about the weather, but nobody does anything about it.&#8221; There is a corollary to that adage: &#8220;Everybody knows we have to stop polluting our environment, but nobody wants to be first to do something about it.&#8221; A",
         "title_cn": "法国和德国就新的废气排放规则达成协议，有点……"
-      },
-      {
-        "title": "Tesla Roadster Reveal — Madness From The Mind Of Musk",
-        "link": "https://cleantechnica.com/2026/10/16/tesla-roadster-reveal-madness-from-the-mind-if-musk/",
-        "pubDate": "Fri, 16 Oct 2026 16:23:24 +0000",
-        "description": "My colleague Tina Casey is doing a story about the new Tesla Roadster and flying cars, so I hope she will pardon me for this intrusion. What we saw at the reveal was a totally irrelevant mind game cooked up inside the drug addled cranium of Elon Musk. That&#8217;s right, ... [continued] The post Tes",
-        "title_cn": "特斯拉敞篷跑车揭秘—来自马斯克的疯狂思想"
-      },
-      {
-        "title": "Europe Needs Electric Freight Corridors, Not Just Electric Ships",
-        "link": "https://cleantechnica.com/2026/10/16/china-electric-shipping-freight-infrastructure/",
-        "pubDate": "Fri, 16 Oct 2026 13:56:21 +0000",
-        "description": "Electric ships attract attention because the vessel is the visible technology. Put a large battery into an inland cargo vessel, replace the diesel propulsion system with electric motors, and the decarbonization story appears straightforward. Inland shipping looks particularly promising because many ",
-        "title_cn": "欧洲需要电动货运走廊，而不仅仅是电动船舶"
-      },
-      {
-        "title": "Monthly Wind Generation In ISO-NE Is About 68% Higher Than Last Year",
-        "link": "https://cleantechnica.com/2026/10/15/monthly-wind-generation-in-iso-ne-is-about-68-higher-than-last-year/",
-        "pubDate": "Fri, 16 Oct 2026 03:50:39 +0000",
-        "description": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE): Monthly generation from wind was highest in September of this year at 668.9 gigawatthours (GWh), more than double generation levels from September ",
-        "title_cn": "ISO-NE的每月风力发电量比去年高出约68%"
-      },
-      {
-        "title": "PJM, ERCOT, and SWPP All Set Peak Load Records This Summer",
-        "link": "https://cleantechnica.com/2026/10/15/pjm-ercot-and-swpp-all-set-peak-load-records-this-summer/",
-        "pubDate": "Fri, 16 Oct 2026 03:25:03 +0000",
-        "description": "Three regional transmission organizations (RTOs) set records for peak hourly load this past summer, according to data reported on Form EIA-930 and presented in the Hourly Electric Grid Monitor: PJM peaked at 162.6 gigawatts (GW) on July 2, 2026, 1.3% higher than the pre-2026 peak of 160.6 GW on June",
-        "title_cn": "PJM、ERCOT和SWPP今年夏天都设定了峰值负载记录"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "亮相工博会，重塑能源发布AI算力时代氢能现场供电系统新概念 - 新浪网",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Xd0NHNXdwaHVUSHlaVmxsVjNaVk1jaWdSTnAzUzRvaWJyekIyTWU0S3NXT21zVTBTZHhrMnlRbW5lOGNPdV9QdC15anZPbFl3VGhheWJJQW1mSjA5alNEemFqTVY5Ym5hZzhpU29FRzhVUQ?oc=5",
+        "pubDate": "Fri, 16 Oct 2026 17:04:46 GMT",
+        "description": "亮相工博会，重塑能源发布AI算力时代氢能现场供电系统新概念 &nbsp;&nbsp; 新浪网"
+      },
       {
         "title": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 - 国际太阳能光伏网",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1VFRfdnRGQkVUallIeC1OblQ0S2IwaUdKNmVzQjdXX3hfMVhBY25LdVBPMkN3TzhKcE9QU3dZVUhILV9jNzNvQm1FUTQ0OVg2WDVNaF84SDQzOVRx?oc=5",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "高交会“大能源”巨头云集新型电力、储能、氢能、充电桩与算力共绘产业新图景_行业动态 - 投资界",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10d0xqem9ILWE5YnN6QnNrNkJLMXlhcFYzcWwwckZoOGJibkw0U1VoOFRCcG4xeHJUYWluOXA3djVjX3JyajFsR19yUklkNTNMc0JndzV5UlU?oc=5",
-        "pubDate": "Thu, 17 Sep 2026 07:00:00 GMT",
-        "description": "高交会“大能源”巨头云集新型电力、储能、氢能、充电桩与算力共绘产业新图景_行业动态 &nbsp;&nbsp; 投资界"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "papers": {
     "items": [],
     "source": "arXiv",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "policy_nea": {
     "items": [
@@ -363,15 +363,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -380,10 +380,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -392,10 +392,10 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
       },
       {
         "title": "重磅！国家级绿电直连政策发布 - https://www.gdshe.org/",
@@ -404,19 +404,19 @@
         "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
-        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
-        "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
+        "title": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ - 雪球",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseGdZcjhBcFk1NENXSFVMWmNWVEJpQ0dBZUpNS1B6QUMxMndReWlkNGUzWlNTeFlrVWNIWmJLNnZYSDU1Y29kbGVWQ0lpb2xo?oc=5",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "description": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ &nbsp;&nbsp; 雪球"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-17 00:05 UTC"
+    "updated": "2026-10-17 06:26 UTC"
   }
 }
