@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "ICE Vehicle Sales Crash 49%(!) While EV Share Jumps to 67%(!) — China EV Sales Report for September",
+        "link": "https://cleantechnica.com/2026/10/17/ice-vehicle-sales-crash-49-while-ev-share-jumps-to-67-china-ev-sales-report-for-september/",
+        "pubDate": "Sat, 17 Oct 2026 21:12:08 +0000",
+        "description": "High gas prices and a never-ending wave of new BEVs has allowed September to reach 67% EV market share, a new record! However, while record market share was achieved in the past thanks to strong EV sales, this time, the record achievement is thanks to a significant ICE (internal combustion ... [cont",
+        "title_cn": "ICE车辆销售碰撞49% (!)而电动汽车份额跃升至67% (!) — 9月份中国电动汽车销售报告"
+      },
+      {
+        "title": "China’s EV Transition Is Four Different Transitions",
+        "link": "https://cleantechnica.com/2026/10/17/china-ev-transition-use-cases/",
+        "pubDate": "Sat, 17 Oct 2026 16:53:22 +0000",
+        "description": "China has reached a stage of vehicle electrification that is easy to miss if the only number being watched is national EV market share. New urban buses are now essentially all electric, and in many cities the procurement question is no longer whether to replace a diesel bus with a ... [continued] Th",
+        "title_cn": "中国的电动汽车转型是四种不同的过渡"
+      },
+      {
+        "title": "Shifting Conversations At The Africa E-Mobility Week & Forum Showcase Growth In The African E-Mobility Sector",
+        "link": "https://cleantechnica.com/2026/10/17/shifting-conversations-at-the-africa-e-mobility-week-forum-showcase-growth-in-the-african-e-mobility-sector/",
+        "pubDate": "Sat, 17 Oct 2026 16:50:52 +0000",
+        "description": "The 5th edition of the Africa E-Mobility Week &#38; Forum was held at the end of last month at Nooitgedacht Estate, Stellenbosch, Western Cape, South Africa. It was the first time the event had been held in Southern Africa, with earlier editions having been held in East Africa (in Kenya ... [continu",
+        "title_cn": "在非洲电动汽车周和论坛上不断变化的对话展示了非洲电动汽车行业的增长"
+      },
       {
         "title": "The Cybercab Has Landed In Australia — Transport Unions Gear Up To Fight",
         "link": "https://cleantechnica.com/2026/10/17/the-cybercab-has-landed-in-australia-transport-unions-gear-up-to-fight/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 17 Oct 2026 00:06:06 +0000",
         "description": "Deal to loosen the EU’s car CO₂ standards and IAA requirements a ‘historic mistake’ that puts Europe’s position in the global EV and battery race in jeopardy. T&#38;E has labelled the French and German government’s agreement to weaken the EU’s car CO₂ standards and IAA requirements as a ‘historic mi",
         "title_cn": "法德汽车交易是削弱气候野心和欧洲汽车行业的“历史性错误”"
-      },
-      {
-        "title": "Delaying ETS2 Will Not Protect Households from the Next Energy Crisis",
-        "link": "https://cleantechnica.com/2026/10/16/delaying-ets2-will-not-protect-households-from-the-next-energy-crisis/",
-        "pubDate": "Fri, 16 Oct 2026 23:48:32 +0000",
-        "description": "T&#38;E&#8217;s Kädi Ristkok explains why postponing the ETS2 is a bad idea As EU leaders meet to discuss competitiveness and soaring energy bills, Italy, Poland and Czechia are pushing to postpone Europe’s new carbon market for road transport and heating fuels (ETS2). Their concern about rising cos",
-        "title_cn": "推迟ETS2不会保护家庭免受下一次能源危机的影响"
-      },
-      {
-        "title": "Publishing Your Book Through CleanTechnica Press",
-        "link": "https://cleantechnica.com/2026/10/16/publishing-your-book-through-cleantechnica-press/",
-        "pubDate": "Fri, 16 Oct 2026 23:39:54 +0000",
-        "description": "If you&#8217;re an author and would like to submit your book for potential publication through CleanTechnica Press, we are now soliciting manuscripts for our second book. We will likely choose just one or two books in the next 12 months, and publish and promote it through CleanTechnica. We will have",
-        "title_cn": "通过CleanTechnica Press出版您的书"
-      },
-      {
-        "title": "DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails",
-        "link": "https://cleantechnica.com/2026/10/16/delorean-flying-car-tesla-roadster-evtol-evs-race/",
-        "pubDate": "Fri, 16 Oct 2026 23:02:33 +0000",
-        "description": "The DeLorean Motor Company has hitched the iconic DeLorean name to the new Airspeeder series, a showcase for cutting edge \"flying car\" eVTOL technology. The post DeLorean Takes A Ride On Tesla&#8217;s &#8220;Flying Car&#8221; Coattails appeared first on CleanTechnica .",
-        "title_cn": "DeLorean乘坐特斯拉的“飞行汽车”尾巴"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "energy_cn": {
     "items": [
@@ -223,26 +223,26 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
+      },
+      {
+        "title": "中国首套百千瓦级风光制储氢发电系统交付许继集团 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
+        "pubDate": "Wed, 30 Sep 2026 06:35:00 GMT",
+        "description": "中国首套百千瓦级风光制储氢发电系统交付许继集团 &nbsp;&nbsp; 能源界"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,15 +434,15 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -451,10 +451,10 @@
         "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
@@ -463,31 +463,31 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 - 国际风力发电网",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVl9rb1lUVi13c29abmFCUkVSeGlXdkQyRVdkYjg0V09iT3VGdHhxdzhoTzk5ZEE0cENMR2VLQXRsUXRQSVpsYm9PTEZYcGlxMmJhVmVHY3RMRzg?oc=5",
-        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-        "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "重磅！国家级绿电直连政策发布 - https://www.gdshe.org/",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54QW5pMEFqekZVQ3pLYkVqX0JhaGJuSVYxRWZKMnlvczgtVXVMQV9VaS1BY2NCdlRvNFZmLUpPcDA3bTdPT2sxbzRScE9MRkVrNUE?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "重磅！国家级绿电直连政策发布 &nbsp;&nbsp; https://www.gdshe.org/"
+        "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
+        "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
+        "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "title": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
+        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+        "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ - 雪球",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBseGdZcjhBcFk1NENXSFVMWmNWVEJpQ0dBZUpNS1B6QUMxMndReWlkNGUzWlNTeFlrVWNIWmJLNnZYSDU1Y29kbGVWQ0lpb2xo?oc=5",
-        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
-        "description": "7省8.8GW绿电直连示范项目，中石油、国电投规模最大！ &nbsp;&nbsp; 雪球"
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-17 16:45 UTC"
+    "updated": "2026-10-18 06:51 UTC"
   }
 }
