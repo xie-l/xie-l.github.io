@@ -59,15 +59,29 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "A Data Center Deal Lurks Behind Trump’s Russian Diesel Debacle",
+        "link": "https://cleantechnica.com/2026/10/18/collaboration-russia-us-data-centers-elections-2026/",
+        "pubDate": "Mon, 19 Oct 2026 03:42:48 +0000",
+        "description": "Data centers have emerged as part of Trump's plan for a new era of collaboration between the US and Russia -- wait, what? The post A Data Center Deal Lurks Behind Trump&#8217;s Russian Diesel Debacle appeared first on CleanTechnica .",
+        "title_cn": "特朗普俄罗斯柴油事故背后隐藏的数据中心交易"
+      },
+      {
+        "title": "XPENG G9L Sets Usable Premium SUV Benchmark In Europe",
+        "link": "https://cleantechnica.com/2026/10/18/xpeng-g9l-sets-usable-premium-suv-benchmark-in-europe/",
+        "pubDate": "Mon, 19 Oct 2026 03:12:01 +0000",
+        "description": "I recently attended the launch of the XPENG G9L at the Paris Motor Show. This represents XPENG bringing their latest tech in a flagship-level vehicle to Europe. This is a vehicle built in Europe and adapted to European buyers that raises the bar for what customers can expect in this ... [continued] ",
+        "title_cn": "XPENG G9L在欧洲树立了可用的高端SUV标杆"
+      },
       {
         "title": "Paris Auto Show — European OEMs Strike Back",
         "link": "https://cleantechnica.com/2026/10/18/paris-auto-show-european-oems-strike-back/",
@@ -109,24 +123,10 @@
         "pubDate": "Sat, 17 Oct 2026 21:12:08 +0000",
         "description": "High gas prices and a never-ending wave of new BEVs has allowed September to reach 67% EV market share, a new record! However, while record market share was achieved in the past thanks to strong EV sales, this time, the record achievement is thanks to a significant ICE (internal combustion ... [cont",
         "title_cn": "ICE车辆销售碰撞49% (!)而电动汽车份额跃升至67% (!) — 9月份中国电动汽车销售报告"
-      },
-      {
-        "title": "China’s EV Transition Is Four Different Transitions",
-        "link": "https://cleantechnica.com/2026/10/17/china-ev-transition-use-cases/",
-        "pubDate": "Sat, 17 Oct 2026 16:53:22 +0000",
-        "description": "China has reached a stage of vehicle electrification that is easy to miss if the only number being watched is national EV market share. New urban buses are now essentially all electric, and in many cities the procurement question is no longer whether to replace a diesel bus with a ... [continued] Th",
-        "title_cn": "中国的电动汽车转型是四种不同的过渡"
-      },
-      {
-        "title": "Shifting Conversations At The Africa E-Mobility Week & Forum Showcase Growth In The African E-Mobility Sector",
-        "link": "https://cleantechnica.com/2026/10/17/shifting-conversations-at-the-africa-e-mobility-week-forum-showcase-growth-in-the-african-e-mobility-sector/",
-        "pubDate": "Sat, 17 Oct 2026 16:50:52 +0000",
-        "description": "The 5th edition of the Africa E-Mobility Week &#38; Forum was held at the end of last month at Nooitgedacht Estate, Stellenbosch, Western Cape, South Africa. It was the first time the event had been held in Southern Africa, with earlier editions having been held in East Africa (in Kenya ... [continu",
-        "title_cn": "在非洲电动汽车周和论坛上不断变化的对话展示了非洲电动汽车行业的增长"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "energy_cn": {
     "items": [
@@ -197,12 +197,6 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Xd0NHNXdwaHVUSHlaVmxsVjNaVk1jaWdSTnAzUzRvaWJyekIyTWU0S3NXT21zVTBTZHhrMnlRbW5lOGNPdV9QdC15anZPbFl3VGhheWJJQW1mSjA5alNEemFqTVY5Ym5hZzhpU29FRzhVUQ?oc=5",
         "pubDate": "Fri, 16 Oct 2026 17:04:46 GMT",
         "description": "亮相工博会，重塑能源发布AI算力时代氢能现场供电系统新概念 &nbsp;&nbsp; 新浪网"
-      },
-      {
-        "title": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 - 国际太阳能光伏网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1VFRfdnRGQkVUallIeC1OblQ0S2IwaUdKNmVzQjdXX3hfMVhBY25LdVBPMkN3TzhKcE9QU3dZVUhILV9jNzNvQm1FUTQ0OVg2WDVNaF84SDQzOVRx?oc=5",
-        "pubDate": "Thu, 15 Oct 2026 08:37:30 GMT",
-        "description": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 &nbsp;&nbsp; 国际太阳能光伏网"
       },
       {
         "title": "中国工业新闻网 - 中国工业新闻网",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mdEx4VzhkUHp5blZtYUswUDNXa1pzZzFoMVdMT1hTSDRnamFqakVYTWJ0UzNqQlluRXlPVkxrVEdHT2s1VndxWXg3TkxidEFiNk1YVVlveUhRbU0?oc=5",
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
         "description": "中国首套百千瓦级风光制储氢发电系统交付许继集团 &nbsp;&nbsp; 能源界"
+      },
+      {
+        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
+        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
+        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-        "link": "https://arxiv.org/abs/2610.22362v1",
-        "pubDate": "2026-10-15T17:59:02Z",
-        "description": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in whic",
-        "title_cn": "CoDA ：数据引擎和行动政策的共同演变"
-      },
-      {
-        "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-        "link": "https://arxiv.org/abs/2610.22343v1",
-        "pubDate": "2026-10-15T17:56:18Z",
-        "description": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with camera-induced variation, making the resulting state evolution",
-        "title_cn": "GeoState ：学习三维世界建模的视图-解耦几何状态"
-      },
-      {
-        "title": "Causal Fingerprints Reveal Hidden Mechanisms in Partially-Observed Dynamical Systems",
-        "link": "https://arxiv.org/abs/2610.22286v1",
-        "pubDate": "2026-10-15T17:41:50Z",
-        "description": "In partially-observed dynamical systems, distinct hidden mechanisms can produce similar observable summary statistics while explaining individual events differently. We introduce causal fingerprints: realization-dependent patterns that track how information about a hidden state is revealed through s",
-        "title_cn": "因果指纹揭示了部分观测动态系统中的隐藏机制"
-      },
-      {
-        "title": "X-RIC: An Agentic RAN-Intelligent Controller Benchmark for Enhancing Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2610.22269v1",
-        "pubDate": "2026-10-15T17:34:17Z",
-        "description": "The O-RAN ALLIANCE introduces architectural flexibility through disaggregation and AI-driven control. While the RAN Intelligent Controller (RIC) enables centralized optimization, current AI approaches lack reasoning capabilities and explainability. We propose eXplainable RIC (X-RIC), a novel framewo",
-        "title_cn": "X-RIC ：增强强化学习的代理RAN智能控制器基准"
-      },
-      {
-        "title": "Evolution algebras: a survey of results and a list of open problems",
-        "link": "https://arxiv.org/abs/2610.22248v1",
-        "pubDate": "2026-10-15T17:21:31Z",
-        "description": "Evolution algebras, introduced by J. P. Tian as an algebraic model of non- Mendelian inheritance, are commutative algebras with a basis whose distinct elements multiply to zero. The first part of the paper surveys the theory: low-dimensional classifica- tions, structure theory, nilpotency, automorph",
-        "title_cn": "进化代数：结果调查和未决问题列表"
-      },
-      {
-        "title": "ALMA2040: Submillimeter-wave Limb Sounding of Venus and Mars",
-        "link": "https://arxiv.org/abs/2610.22233v1",
-        "pubDate": "2026-10-15T17:13:49Z",
-        "description": "Venus and Mars are unique laboratories for understanding the evolution and diversity of terrestrial planets. Despite their broadly similar rocky compositions, their atmospheres, climates, and surface environments have evolved into dramatically different states. Understanding the physical and chemica",
-        "title_cn": "ALMA2040 ：金星和火星的亚毫米波肢体探测"
-      },
-      {
-        "title": "Beyond Downstream QA: Rethinking How We Evaluate Agent Memory",
-        "link": "https://arxiv.org/abs/2610.22209v1",
-        "pubDate": "2026-10-15T16:58:12Z",
-        "description": "Agent memory benchmarks evaluate whether an agent's responses reflect correct knowledge, measuring downstream question-answering accuracy as a proxy for memory quality. We show this evaluation paradigm is incomplete: it conflates memory correctness with retrieval and generation quality, producing bo",
-        "title_cn": "超越下游QA ：重新思考我们如何评估客服代表的记忆"
-      },
-      {
-        "title": "Efficient quantum simulation of unitary gates based on atomic ensembles",
-        "link": "https://arxiv.org/abs/2610.22207v1",
-        "pubDate": "2026-10-15T16:55:55Z",
-        "description": "We develop a technique to perform efficient unitary time evolution of a general spin Hamiltonian based on the system with identical qubits, as naturally realized by permutation symmetric atomic ensembles. We employ Cartan decomposition method to the associated Hamiltonian Lie algebra and construct t",
-        "title_cn": "基于原子集成的unitary门的高效量子模拟"
-      },
-      {
-        "title": "Stellar Mass Census of $S^4G$ Local Bars",
-        "link": "https://arxiv.org/abs/2610.22188v1",
-        "pubDate": "2026-10-15T16:42:23Z",
-        "description": "Bars are stellar structures commonly found in disk galaxies and important agents of secular evolution. Quantifying the stellar mass content of bars provides a physically motivated approach to assess how bar growth depends on galaxy mass and internal structure. We perform a GALFITM multi-band mid-inf",
-        "title_cn": "$ S ^ 4G $当地酒吧的恒星大规模普查"
-      },
-      {
-        "title": "Double covers of tori for p=2 and genuine functions",
-        "link": "https://arxiv.org/abs/2610.22171v1",
-        "pubDate": "2026-10-15T16:31:04Z",
-        "description": "In his work on $L$-embeddings and double covers of tori over local fields, Kaletha associates to a maximal torus $S$ in a connected reductive group a canonical double cover $S(F)_{\\pm}$ and introduces a genuine sign function $a_S$ associated to a genuine character of $S(F)_{\\pm}$. We give two constr",
-        "title_cn": "P = 2和正品功能的双层托里盖"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,10 +338,10 @@
         "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - 碳索储能网",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yM0dSVVByWjVydHdtVDU0R2tqb1dMOWVYRGVFS1dlS01WTmtuaXE1ZE92Umc5WFlfeFl1YVZRdFUydUh4Z2NOdy1RMXpFTXc3TlhSN3F0NHp0eUN3eDVHMg?oc=5",
-        "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
-        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 碳索储能网"
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
@@ -421,20 +350,20 @@
         "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "《中国氢能发展报告（2026）》发布 - 能源界",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JZ2RwMGxVaWZJcEVFblhib3VaamdrZzBnQ3ZYRzBOaFV1eS1VcU1lUEJWSDZYTXVYVzdZSE5RYUk1aTBIMlAzaHFKOVhYNzJHdV9MenIzNVhKNjA?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "《中国氢能发展报告（2026）》发布 &nbsp;&nbsp; 能源界"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-18 23:50 UTC"
+    "updated": "2026-10-19 07:10 UTC"
   }
 }
