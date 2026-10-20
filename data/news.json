@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Toxic chemicals in fentanyl revealed by speedy technique",
+        "link": "https://www.nature.com/articles/d41586-026-03317-3",
+        "pubDate": "2026-10-19",
+        "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.",
+        "title_cn": "通过快速技术揭示芬太尼中的有毒化学物质"
+      },
+      {
         "title": "Light and mirrors move large quantum computers closer to reality",
         "link": "https://www.nature.com/articles/d41586-026-03237-2",
         "pubDate": "2026-10-19",
@@ -14,6 +21,13 @@
         "pubDate": "2026-10-19",
         "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.",
         "title_cn": "长读音频：如何在人工智能时代保持智能—批判性思维的科学"
+      },
+      {
+        "title": "US government probe into postdoc visas worries scientists",
+        "link": "https://www.nature.com/articles/d41586-026-03345-z",
+        "pubDate": "2026-10-19",
+        "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03345-z The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international applications could harm science.",
+        "title_cn": "美国政府调查博士后签证令科学家担忧"
       },
       {
         "title": "Microdosing LSD shows some cognitive benefits — but only for women",
@@ -42,32 +56,46 @@
         "pubDate": "2026-10-19",
         "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03315-5 Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going.",
         "title_cn": "“极其顽固” ：美国科学家在资金削减的情况下继续研究"
-      },
-      {
-        "title": "Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last",
-        "link": "https://www.nature.com/articles/d41586-026-03339-x",
-        "pubDate": "2026-10-19",
-        "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03339-x Researchers have found a link between a scientist’s experience and and whether their ideas have a lasting influence.",
-        "title_cn": "经验丰富的研究人员的“颠覆性”低于新手科学家—但他们的想法持续时间"
-      },
-      {
-        "title": "Three reasons why AI is not conscious and perhaps never will be",
-        "link": "https://www.nature.com/articles/d41586-026-03313-7",
-        "pubDate": "2026-10-19",
-        "description": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03313-7 Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.",
-        "title_cn": "人工智能没有意识的三个原因，也许永远不会"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+        "link": "https://cleantechnica.com/2026/10/19/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration-2/",
+        "pubDate": "Mon, 19 Oct 2026 22:56:04 +0000",
+        "description": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid electric vehicles continued to gain market share, reaching 16% of l",
+        "title_cn": "混合动力车销售额上升，而电池电力车销售额在税收抵免到期后仍然较低"
+      },
+      {
+        "title": "Lessons In Chemistry — Microbes, Heavy Metals, And Water",
+        "link": "https://cleantechnica.com/2026/10/19/lessons-in-chemistry-microbes-heavy-metals-and-water/",
+        "pubDate": "Mon, 19 Oct 2026 22:52:01 +0000",
+        "description": "Chemistry is politically agnostic. It can give us wondrous new products, like nylon and Dacron, but it can give us destructive products like napalm and Agent Orange. Here are two stories in the news that came clattering into the teletype machines in the third sub-basement at CleanTechnica world head",
+        "title_cn": "化学课—微生物、重金属和水"
+      },
+      {
+        "title": "Ultium Cells to Bring LMR Prismatic Battery Cell Production to Tennessee for Future GM EVs",
+        "link": "https://cleantechnica.com/2026/10/19/ultium-cells-to-bring-lmr-prismatic-battery-cell-production-to-tennessee-for-future-gm-evs/",
+        "pubDate": "Mon, 19 Oct 2026 22:38:19 +0000",
+        "description": "Spring Hill, Tennessee is blazing a new trail in battery technology, as Ultium Cells LLC — a joint venture between General Motors and LG Energy Solution — just announced plans to produce lithium manganese rich (LMR) prismatic battery cells at its plant just outside Nashville. This is expected to mak",
+        "title_cn": "Ultium Cells将把LMR棱柱形电池生产带到田纳西州，用于未来的通用电动汽车"
+      },
+      {
+        "title": "From Mine to Magnet to Motor: How GM Is Building Critical Supply Chains for the Long Term",
+        "link": "https://cleantechnica.com/2026/10/19/from-mine-to-magnet-to-motor-how-gm-is-building-critical-supply-chains-for-the-long-term/",
+        "pubDate": "Mon, 19 Oct 2026 22:12:06 +0000",
+        "description": "By Shilpan Amin, Global Chief Procurement and Supply Chain Officer, GM Long before electric vehicles became a familiar sight on American roads, General Motors engineers were developing technologies that help make today’s EVs possible. One example sits at the heart of a modern electric motor: the per",
+        "title_cn": "从矿山到磁铁再到电机：通用汽车如何构建长期关键供应链"
+      },
       {
         "title": "Verdox Captured CO₂ From An Aluminum Smelter. Commercial Scale Is A Much Bigger System.",
         "link": "https://cleantechnica.com/2026/10/19/verdox-carbon-capture-aluminum-economics/",
@@ -95,38 +123,10 @@
         "pubDate": "Mon, 19 Oct 2026 03:42:48 +0000",
         "description": "Data centers have emerged as part of Trump's plan for a new era of collaboration between the US and Russia -- wait, what? The post A Data Center Deal Lurks Behind Trump&#8217;s Russian Diesel Debacle appeared first on CleanTechnica .",
         "title_cn": "特朗普俄罗斯柴油事故背后隐藏的数据中心交易"
-      },
-      {
-        "title": "XPENG G9L Sets Usable Premium SUV Benchmark In Europe",
-        "link": "https://cleantechnica.com/2026/10/18/xpeng-g9l-sets-usable-premium-suv-benchmark-in-europe/",
-        "pubDate": "Mon, 19 Oct 2026 03:12:01 +0000",
-        "description": "I recently attended the launch of the XPENG G9L at the Paris Motor Show. This represents XPENG bringing their latest tech in a flagship-level vehicle to Europe. This is a vehicle built in Europe and adapted to European buyers that raises the bar for what customers can expect in this ... [continued] ",
-        "title_cn": "XPENG G9L在欧洲树立了可用的高端SUV标杆"
-      },
-      {
-        "title": "Paris Auto Show — European OEMs Strike Back",
-        "link": "https://cleantechnica.com/2026/10/18/paris-auto-show-european-oems-strike-back/",
-        "pubDate": "Sun, 18 Oct 2026 16:42:27 +0000",
-        "description": "(But will it be enough?) The 2026 Paris Auto Show felt different this year. Despite some notable absences (BMW, MG, most Japanese OEMs…), it was bigger than in past editions. The bright, confident stands of Chinese automakers—from BYD to Geely to XPENG—signal a new era in Europe’s car market, one ..",
-        "title_cn": "巴黎车展—欧洲原始设备制造商反击"
-      },
-      {
-        "title": "Electrification Changes What Energy Security Means",
-        "link": "https://cleantechnica.com/2026/10/18/globalization-electrification-energy-security/",
-        "pubDate": "Sun, 18 Oct 2026 15:59:39 +0000",
-        "description": "For most of the fossil-fuel era, energy security meant securing a continuous flow of things that disappeared when they were used. Oil arrived in tankers, natural gas crossed pipelines or oceans as LNG, and coal moved by rail and ship. Burn the fuel and another shipment had to follow, which ... [cont",
-        "title_cn": "电气化改变了能源安全的含义"
-      },
-      {
-        "title": "Volkswagen Thinks The US Could Be Its Economic Savior. Is It Chasing A Pipe Dream?",
-        "link": "https://cleantechnica.com/2026/10/18/volkswagen-thinks-the-us-could-be-its-economic-savior-is-it-chasing-a-pipe-dream/",
-        "pubDate": "Sun, 18 Oct 2026 14:10:01 +0000",
-        "description": "In January, 1949, two Volkswagen Type 1 Beetles arrived in New York City. Six years later, Volkswagen of America was founded. The original Beetle was cute in an ugly sort of way. It was under-powered and its heater was anemic, but it was cheap and that was enough for many ... [continued] The post Vo",
-        "title_cn": "大众汽车认为美国可能是其经济救星。这是在追逐梦想吗？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "人工智能赋能安全高效氢能系统：机遇与监管挑战 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BZnZmWWRfWmg0RXpVVVN3dVByRU1wRVVUSEN4c2VRVmpsRVRnX3hnSXdua0FFZ050eFJZbnhfTGFJeWp6YTU4b1AtM3BUZ3J1Yk1fdnJROGJ4MWxRcG01azNBWUxXVjhKTzdEcmh3?oc=5",
+        "pubDate": "Tue, 20 Oct 2026 00:01:07 GMT",
+        "description": "人工智能赋能安全高效氢能系统：机遇与监管挑战 &nbsp;&nbsp; 生物通"
+      },
       {
         "title": "亮相工博会，重塑能源发布AI算力时代氢能现场供电系统新概念 - 新浪网",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Xd0NHNXdwaHVUSHlaVmxsVjNaVk1jaWdSTnAzUzRvaWJyekIyTWU0S3NXT21zVTBTZHhrMnlRbW5lOGNPdV9QdC15anZPbFl3VGhheWJJQW1mSjA5alNEemFqTVY5Ym5hZzhpU29FRzhVUQ?oc=5",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "为什么氢能 数据中心正在引起业界的关注 - Spherical Insights",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVJ0RmF0YmtDenJTMElsSU5ETkdvLWE3bVQ1WkJaQW5WdFExQ014TXFtY0tFU1YzQk42SFFnRW5uUDdscU1GUDFiSWpneUJsdmJYMkRWOWV5dXROUkg0MEZrN2RBckNVcHJJaUQ0QmNsWVVMU1NvTlp2RFZoU3owWlMwY0FvVEZEYXFqdEhDeVVEZkRKWTZNQ01CWFczWkkwZWIwaTFOdkFuSUE?oc=5",
-        "pubDate": "Thu, 23 Jul 2026 01:44:27 GMT",
-        "description": "为什么氢能 数据中心正在引起业界的关注 &nbsp;&nbsp; Spherical Insights"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
+        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
+        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
+        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+      },
+      {
         "title": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
         "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
         "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-19 19:34 UTC"
+    "updated": "2026-10-20 00:51 UTC"
   }
 }
