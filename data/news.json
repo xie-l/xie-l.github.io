@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+        "link": "https://www.nature.com/articles/d41586-026-03355-x",
+        "pubDate": "2026-10-21",
+        "description": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach.",
+        "title_cn": "全球温室气体排放放缓，但全球变暖幅度猛增至2°C"
+      },
+      {
         "title": "Is it ‘moon-stroke’, or a chill?",
         "link": "https://www.nature.com/articles/d41586-026-02975-7",
         "pubDate": "2026-10-20",
@@ -49,84 +56,77 @@
         "pubDate": "2026-10-20",
         "description": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1 A higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.",
         "title_cn": "大自然的工作满意度调查凸显了科学地理的变化"
-      },
-      {
-        "title": "Will this sleep-disorder drug be the next big blockbuster?",
-        "link": "https://www.nature.com/articles/d41586-026-03310-w",
-        "pubDate": "2026-10-20",
-        "description": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w Orexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.",
-        "title_cn": "这种睡眠障碍药物会成为下一个重磅炸弹吗？"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "New BYD Seagull Is A Big Deal",
+        "link": "https://cleantechnica.com/2026/10/20/new-byd-seagull-is-a-big-deal/",
+        "pubDate": "Wed, 21 Oct 2026 03:58:20 +0000",
+        "description": "BYD launched the new Seagull in China on Tuesday. BYD’s smallest car is not as small now. The EV adds technology and capability, while retaining much of what made it popular. The value is even stronger now, but the potential impact is bigger than the car itself. Overall, the car ... [continued] The ",
+        "title_cn": "新的比亚迪海鸥是一笔大买卖"
+      },
+      {
+        "title": "Thoughts on Tesla–SpaceX Merger — Readers Chime In",
+        "link": "https://cleantechnica.com/2026/10/20/thoughts-on-tesla-spacex-merger-readers-chime-in/",
+        "pubDate": "Wed, 21 Oct 2026 03:57:06 +0000",
+        "description": "I just wrote yesterday about the growing suspicion that Tesla and SpaceX will merge. Despite reading and writing about this many times, though, it&#8217;s a little hard to believe — in part because it&#8217;s not clear how merging the companies would help anyone. In response to my article, there wer",
+        "title_cn": "关于Tesla-SpaceX合并的想法—读者纷纷加入"
+      },
+      {
+        "title": "The EU Clean Corporate Vehicles Regulation: The Industrial & Economic Benefits of “Made-in-EU” Electric Company Cars",
+        "link": "https://cleantechnica.com/2026/10/20/the-eu-clean-corporate-vehicles-regulation-the-industrial-economic-benefits-of-made-in-eu-electric-company-cars/",
+        "pubDate": "Wed, 21 Oct 2026 03:51:32 +0000",
+        "description": "New independent modelling by Fraunhofer ISI shows that implementation of the Clean Corporate Vehicles Regulation could deliver up to €48bn in value creation and 344,000 jobs by 2030. CCVR and IAA explained The CCVR sets binding minimum targets for zero- and low-emission vehicles (ZLEVs) among large ",
+        "title_cn": "欧盟清洁企业车辆法规： “欧盟制造”电动企业汽车的工业和经济效益"
+      },
+      {
+        "title": "¡Llegamos a Madrid! Waymo is Coming to Spain",
+        "link": "https://cleantechnica.com/2026/10/20/llegamos-a-madrid-waymo-is-coming-to-spain/",
+        "pubDate": "Wed, 21 Oct 2026 03:50:56 +0000",
+        "description": "Today, we are excited to announce that Waymo is laying the groundwork for our fully autonomous ride-hailing service in Spain, beginning with the Region of Madrid. With over 20 million trips completed and hundreds of thousands of commercial rides served each week, we are excited to be a part of ... [",
+        "title_cn": "¡Llegamos a Madrid ！ Waymo即将登陆西班牙"
+      },
+      {
+        "title": "Rapid Transition to Electric Company Cars Could Generate 344,000 EU Jobs by 2030 — Study",
+        "link": "https://cleantechnica.com/2026/10/20/rapid-transition-to-electric-company-cars-could-generate-344000-eu-jobs-by-2030-study/",
+        "pubDate": "Wed, 21 Oct 2026 01:33:49 +0000",
+        "description": "Setting targets on companies to go electric and limiting financial support only for company cars that are electric and Made-in-EU would see economic gains of €20 bn and boost investments by €18 bn EU-wide electrification targets for large fleets, combined with limiting national fiscal benefits only ",
+        "title_cn": "到2030年，向电动公司汽车的快速转型可为欧盟创造344,000个工作岗位—研究"
+      },
+      {
+        "title": "Arctic Infrastructure Was Built on Frozen Ground That’s Starting to Thaw — Drones Can Help Spot the Permafrost Changes Coming",
+        "link": "https://cleantechnica.com/2026/10/20/arctic-infrastructure-was-built-on-frozen-ground-thats-starting-to-thaw-drones-can-help-spot-the-permafrost-changes-coming/",
+        "pubDate": "Wed, 21 Oct 2026 01:21:44 +0000",
+        "description": "From the air, Wainwright, Alaska, looks like a perfectly stable band of homes and roads between the Chukchi Sea and a vast, flat tundra. But just below the surface, the frozen ground that this town was built on contains large bodies of ice. Along the eroding coastal bluffs, that hidden ... [continue",
+        "title_cn": "北极基础设施建在开始融化的冰冻土地上—无人机可以帮助发现即将到来的永久冻土变化"
+      },
+      {
+        "title": "How Recycled Minerals from GM EV Batteries Are Helping Power New Ones",
+        "link": "https://cleantechnica.com/2026/10/20/how-recycled-minerals-from-gm-ev-batteries-are-helping-power-new-ones/",
+        "pubDate": "Wed, 21 Oct 2026 01:02:01 +0000",
+        "description": "By Melissa Flaherty, Director of Sustainable EV Battery Ecosystem, GM When it comes to EV batteries, most of us start with the same questions: How far can I go on a charge? How long will my battery last? Those are fair questions. But here’s something that might surprise you: powering ... [continued]",
+        "title_cn": "来自转基因电动汽车电池的回收矿物质如何帮助为新电池供电"
+      },
       {
         "title": "Cities Across the World Are Sinking Because of Groundwater Depletion. But the Process Can Be Reversed",
         "link": "https://cleantechnica.com/2026/10/20/cities-across-the-world-are-sinking-because-of-groundwater-depletion-but-the-process-can-be-reversed/",
         "pubDate": "Tue, 20 Oct 2026 16:04:06 +0000",
         "description": "Many cities around the world are sinking because too much water is extracted from the groundwater reservoirs beneath them. This sinking makes these coastal cities more exposed to rising seas as the climate warms. But as our new research shows, this process can work in reverse; when groundwater is re",
         "title_cn": "由于地下水枯竭，世界各地的城市都在下沉。但过程可以逆转"
-      },
-      {
-        "title": "The Economics Of Climate Free Riding Have Changed",
-        "link": "https://cleantechnica.com/2026/10/20/climate-free-riding-national-interest/",
-        "pubDate": "Tue, 20 Oct 2026 13:08:43 +0000",
-        "description": "For much of the climate-policy era, national self-interest and climate action could plausibly point in different directions. A country could let others spend more on emissions reductions while continuing to use familiar coal, oil and gas infrastructure at home. When the low-carbon alternatives were ",
-        "title_cn": "气候免费乘车的经济学已经发生了变化"
-      },
-      {
-        "title": "The Treason Party Soldiers On, But At Least The War On EVs Is Fizzling Out",
-        "link": "https://cleantechnica.com/2026/10/20/ev-sales-us-trump-treason-russia-putin-puppet/",
-        "pubDate": "Tue, 20 Oct 2026 11:55:55 +0000",
-        "description": "The US EV start up Slate Auto has opened for business in Chicago, in yet another indication that the war on EVs is fizzling out. The post The Treason Party Soldiers On, But At Least The War On EVs Is Fizzling Out appeared first on CleanTechnica .",
-        "title_cn": "叛国党的士兵，但至少对电动汽车的战争正在消退"
-      },
-      {
-        "title": "Top Investor Predicts SpaceX Will Buy Tesla At $420/Share In Coming Weeks",
-        "link": "https://cleantechnica.com/2026/10/19/top-investor-predicts-spacex-will-buy-tesla-at-420-share-in-coming-weeks/",
-        "pubDate": "Tue, 20 Oct 2026 03:55:51 +0000",
-        "description": "There&#8217;s been a lot of chatter in recent days, weeks, and months about the possibility that SpaceX and Tesla will merge. Elon Musk has been a fan of merging, swallowing, and mushing together his companies. This has happened especially as Musk companies have needed saving. Tesla saved SolarCity,",
-        "title_cn": "顶级投资者预测SpaceX将在未来几周内以420 $/股的价格收购特斯拉"
-      },
-      {
-        "title": "Donald Trump, Aligning with Vladimir Putin Yet Again, Leaves Ukraine — and US Relations with Europe — Under Pressure",
-        "link": "https://cleantechnica.com/2026/10/19/donald-trump-aligning-with-vladimir-putin-yet-again-leaves-ukraine-and-us-relations-with-europe-under-pressure/",
-        "pubDate": "Tue, 20 Oct 2026 03:50:40 +0000",
-        "description": "The deal struck by Donald Trump with his Russian counterpart, Vladimir Putin, on October 9 to allow Russia to sell millions of tonnes of diesel is a major departure from US policy and runs counter to Ukrainian and European interests. It also directly contradicts a law signed by the US ... [continued",
-        "title_cn": "唐纳德·特朗普（ Donald Trump ）再次与弗拉基米尔·普京（ Vladimir Putin ）结盟，使乌克兰—以及美国与欧洲的关系—面临压力"
-      },
-      {
-        "title": "Donald Trump Approval At Record Low — Disastrous Economy & Inflation Might Play A Part",
-        "link": "https://cleantechnica.com/2026/10/19/donald-trump-approval-at-record-low-disastrous-economy-inflation-might-play-a-part/",
-        "pubDate": "Tue, 20 Oct 2026 02:07:27 +0000",
-        "description": "What has Donald Trump done for the country in his second term in office? He has bombed Iran and started another long war in the Middle East, leading to high gas prices and a ton of gas price volatility. He has added a bunch of tariffs to imported goods, which ... [continued] The post Donald Trump Ap",
-        "title_cn": "唐纳德特朗普的批准创历史新低—灾难性的经济和通货膨胀可能发挥作用"
-      },
-      {
-        "title": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
-        "link": "https://cleantechnica.com/2026/10/19/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration-2/",
-        "pubDate": "Mon, 19 Oct 2026 22:56:04 +0000",
-        "description": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid electric vehicles continued to gain market share, reaching 16% of l",
-        "title_cn": "混合动力车销售额上升，而电池电力车销售额在税收抵免到期后仍然较低"
-      },
-      {
-        "title": "Lessons In Chemistry — Microbes, Heavy Metals, And Water",
-        "link": "https://cleantechnica.com/2026/10/19/lessons-in-chemistry-microbes-heavy-metals-and-water/",
-        "pubDate": "Mon, 19 Oct 2026 22:52:01 +0000",
-        "description": "Chemistry is politically agnostic. It can give us wondrous new products, like nylon and Dacron, but it can give us destructive products like napalm and Agent Orange. Here are two stories in the news that came clattering into the teletype machines in the third sub-basement at CleanTechnica world head",
-        "title_cn": "化学课—微生物、重金属和水"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "energy": {
     "items": [
@@ -188,14 +188,14 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "energy_cn": {
     "items": [
       {
         "title": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 - 生物通",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzNDBfTmcxaW9TaF9MR3pHYmkxTHJOajN6LWlBb0djVzdBVHAyYmdMNkR2WGtLSWFoeThoWS01ejdiT1FhbWRGeUtIODJIMUt6MVZ5U1FPYWZzYXhtWWdES3dySVVyR2ltYjMtR2Rn?oc=5",
-        "pubDate": "Wed, 21 Oct 2026 00:04:16 GMT",
+        "pubDate": "Wed, 21 Oct 2026 00:28:01 GMT",
         "description": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 &nbsp;&nbsp; 生物通"
       },
       {
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,21 +304,86 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Weight Placement Is Not Enough: Synchronization in Multi-Node CPU Decoding of Ternary LLMs",
+        "link": "https://arxiv.org/abs/2610.28620v1",
+        "pubDate": "2026-10-20T17:56:35Z",
+        "description": "Ternary LLMs read only a few gigabytes per decoded token, yet on dual-socket servers with four NUMA nodes the fastest ternary runtime we found uses less than half of the memory bandwidth. Placing each weight on the node of the thread that reads it is necessary but not enough: in a decode engine with",
+        "title_cn": "权重放置不够：三元LLM多节点CPU解码中的同步"
+      },
+      {
+        "title": "TraceLite: Efficient Trace Reduction for SWE Agents via Optical Compression and Redundancy Removal",
+        "link": "https://arxiv.org/abs/2610.28612v1",
+        "pubDate": "2026-10-20T17:53:35Z",
+        "description": "Software engineering agents solve repository-level tasks through iterative tool use, but their continuously growing interaction traces incur substantial token consumption and inference overhead. Existing compression approaches often require model training, auxiliary LLM calls, or assumptions about s",
+        "title_cn": "TraceLite ：通过光学压缩和去除冗余来有效减少SWE代理的痕量"
+      },
+      {
+        "title": "Dynamical stability of Magnetic Supramassive Neutron Stars",
+        "link": "https://arxiv.org/abs/2610.28609v1",
+        "pubDate": "2026-10-20T17:50:33Z",
+        "description": "We investigate the dynamical stability of strongly magnetized supramassive neutron stars close to the mass-shedding limit using fully general-relativistic magnetohydrodynamic simulations in three spatial dimensions. Equilibrium configurations are constructed using a microphysical equation of state a",
+        "title_cn": "磁超大质量中子星的动态稳定性"
+      },
+      {
+        "title": "Evolving Agent Interfaces",
+        "link": "https://arxiv.org/abs/2610.28601v1",
+        "pubDate": "2026-10-20T17:47:37Z",
+        "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by",
+        "title_cn": "不断发展的客服代表界面"
+      },
+      {
+        "title": "Entanglement Distribution in Quantum Switch Networks: Memory Limits and Achievability",
+        "link": "https://arxiv.org/abs/2610.28596v1",
+        "pubDate": "2026-10-20T17:46:05Z",
+        "description": "We study the minimum persistent memory required to distribute a graph state through a quantum switch. Specifically, consider a central switch that assists $n$ remote users in distributing a graph state, using independently generated user-switch Bell pairs. Since Bell-pair generation is probabilistic",
+        "title_cn": "量子交换网络中的纠缠分布：内存限制和可实现性"
+      },
+      {
+        "title": "Correcting topographic artifacts in three-dimensional ToF-SIMS: A practical guide from data-only reconstruction to correlative AFM",
+        "link": "https://arxiv.org/abs/2610.28593v1",
+        "pubDate": "2026-10-20T17:43:23Z",
+        "description": "Three-dimensional time-of-flight secondary ion mass spectrometry (3D ToF-SIMS) builds chemical volumes by stacking images acquired between sputter cycles. Standard reconstruction assumes a flat starting surface and a single sputter rate, so samples with topography, or with layers that sputter at dif",
+        "title_cn": "在三维ToF-SIMS中校正地形伪影：从仅数据重建到相关AFM的实用指南"
+      },
+      {
+        "title": "A Comparative Study of LED Lighting Control Strategies for Energy-Efficient Greenhouse Operations",
+        "link": "https://arxiv.org/abs/2610.28570v1",
+        "pubDate": "2026-10-20T17:28:44Z",
+        "description": "Greenhouse supplemental lighting is essential for meeting crop Daily Light Integral (DLI) requirement. However, conventional always-on and rule-based strategies are inherently energy-inefficient since they ignore future sunlight availability. This paper reports the results of deploying various suppl",
+        "title_cn": "节能温室运营LED照明控制策略对比研究"
+      },
+      {
+        "title": "Evolving Semantic Indexes for Generative Retrieval",
+        "link": "https://arxiv.org/abs/2610.28568v1",
+        "pubDate": "2026-10-20T17:27:46Z",
+        "description": "Generative retrieval (GR) casts search and recommendation as autoregressive generation of discrete semantic identifiers (SIDs). SID design largely determines GR quality, but its discrete, interdependent components (SID construction, collision handling, decoding, and training) cannot be optimized end",
+        "title_cn": "用于生成检索的不断演变的语义索引"
+      },
+      {
+        "title": "Asymmetric Bidirectional Predictive Dynamics in Google Search and COVID-19 Time Series: A Multi-Horizon Forecast-Error Analysis",
+        "link": "https://arxiv.org/abs/2610.28563v1",
+        "pubDate": "2026-10-20T17:23:44Z",
+        "description": "Online search activity is widely used as a digital trace of information seeking during epidemics, but its predictive value is often reduced to correlation, a selected lag, or a single forecast-error score. We examine eight pre-specified Google Trends-COVID-19 pairs in both directions using matched L",
+        "title_cn": "Google搜索中的非对称双向预测动态和COVID-19时间序列：多层次预测-错误分析"
+      },
+      {
+        "title": "Towards differential expansion for generic representations",
+        "link": "https://arxiv.org/abs/2610.28531v1",
+        "pubDate": "2026-10-20T17:04:39Z",
+        "description": "We report the first results of phenomenological analysis, based on extended set of explicitly calculated colored HOMFLY-PT polynomials in \\cite{knotebook}. They concern differential expansion (DE), which separates the dependencies on the knot ${\\cal K}$ and the representation $R$. %of colored HOMFLY",
+        "title_cn": "通用表示的微分展开"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
-      },
       {
         "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSy1JQmdSOGo5ekdaSlNyc3g2UjdybE8xMHAxV0ktWV9pRkJBam04aEF3S2FBTk55YkY1ZGtUc0hiN0pzTjczbzlpUE5YdEJuT0xDdQ?oc=5",
@@ -332,10 +397,10 @@
         "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
@@ -356,6 +421,12 @@
         "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 世纪新能源网"
       },
       {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "国家能源局公示12项氢能技术装备！涉及中国石化、国网、大唐、华电、国家能源集团等 - 国际氢能网",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42bnUtN19ad3lWYVR4VGd5alBHaHBpaTRzQ0UzQXBIYjNxRVJyQlQ5THdPSUxuTi1haE1IMUJpdm1YbEFHTFFfYm9LMG1YMTZKcFhBNDFB?oc=5",
         "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
@@ -363,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -417,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-21 00:17 UTC"
+    "updated": "2026-10-21 06:51 UTC"
   }
 }
