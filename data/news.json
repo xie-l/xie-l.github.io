@@ -59,12 +59,12 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "人工智能赋能安全高效氢能系统：机遇与监管挑战 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BZnZmWWRfWmg0RXpVVVN3dVByRU1wRVVUSEN4c2VRVmpsRVRnX3hnSXdua0FFZ050eFJZbnhfTGFJeWp6YTU4b1AtM3BUZ3J1Yk1fdnJROGJ4MWxRcG01azNBWUxXVjhKTzdEcmh3?oc=5",
-        "pubDate": "Tue, 20 Oct 2026 00:01:07 GMT",
-        "description": "人工智能赋能安全高效氢能系统：机遇与监管挑战 &nbsp;&nbsp; 生物通"
+        "title": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzNDBfTmcxaW9TaF9MR3pHYmkxTHJOajN6LWlBb0djVzdBVHAyYmdMNkR2WGtLSWFoeThoWS01ejdiT1FhbWRGeUtIODJIMUt6MVZ5U1FPYWZzYXhtWWdES3dySVVyR2ltYjMtR2Rn?oc=5",
+        "pubDate": "Wed, 21 Oct 2026 00:04:16 GMT",
+        "description": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 &nbsp;&nbsp; 生物通"
       },
       {
         "title": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 - 国际太阳能光伏网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Physical Words: A Vocabulary for Structuring Latent Reasoning in Robot Manipulation",
-        "link": "https://arxiv.org/abs/2610.26854v1",
-        "pubDate": "2026-10-19T17:59:54Z",
-        "description": "Multimodal reasoning provides robotic foundation models with predictive context needed for reliable action generation. However, language-based reasoning captures task semantics but struggles to express fine-grained physical dynamics, while latent reasoning models future state evolution but offers li",
-        "title_cn": "物理词汇：在机器人操纵中构建潜在推理的词汇"
-      },
-      {
-        "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
-        "link": "https://arxiv.org/abs/2610.26850v1",
-        "pubDate": "2026-10-19T17:59:41Z",
-        "description": "Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We introduce GenOlympiad, a benchmark which provides the most challenging text prompts from nine capabilit",
-        "title_cn": "GenOlympiad ：在能力边界对前沿图像模型进行基准测试"
-      },
-      {
-        "title": "MemT-1.0: Towards Memory-Native Evolution",
-        "link": "https://arxiv.org/abs/2610.26825v1",
-        "pubDate": "2026-10-19T17:54:35Z",
-        "description": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new architecture of memory foundation models that internalize memory as part of model computation. Buil",
-        "title_cn": "MemT-1.0 ：迈向内存原生进化"
-      },
-      {
-        "title": "State World Models: Execute the Rules, Generate the Pixels",
-        "link": "https://arxiv.org/abs/2610.26811v1",
-        "pubDate": "2026-10-19T17:50:32Z",
-        "description": "Existing world models can generate action-conditioned video from a single image. Many focus on camera movement, allowing users to explore the generated scene. However, navigation alone does not ensure that an action follows persistent rules when its outcome depends on state that is invisible in the ",
-        "title_cn": "状态世界模型：执行规则，生成像素"
-      },
-      {
-        "title": "Block basis reduction for linear codes in non-Hamming metrics",
-        "link": "https://arxiv.org/abs/2610.26808v1",
-        "pubDate": "2026-10-19T17:49:38Z",
-        "description": "In this paper, we generalize the code basis reduction to non-Hamming metrics. We propose a block basis reduction (BKZ) algorithm for codes that works for all coordinate-additive metrics. Our algorithm is a generalization of the algorithm of Ghentiyala and Stephens-Davidowitz, which in turn is an ada",
-        "title_cn": "非汉明度量中线性码的块基约简"
-      },
-      {
-        "title": "Topological Sheaves of Irreducibility: A Theoretical Framework for Multi-Agent Task Obstructions",
-        "link": "https://arxiv.org/abs/2610.26777v1",
-        "pubDate": "2026-10-19T17:30:40Z",
-        "description": "Multi-agent systems can differ under identical agents and communication budgets when they support different forms of joint interaction. We introduce Topological Sheaves of Irreducibility (TSI), a sheaf-theoretic framework separating task-level compatibility obstructions from system capability. A tas",
-        "title_cn": "拓扑不可约性：多Agent任务障碍的理论框架"
-      },
-      {
-        "title": "Spherically symmetric solutions with dust and radiation sources in Schouten-Codazzi Gravity",
-        "link": "https://arxiv.org/abs/2610.26775v1",
-        "pubDate": "2026-10-19T17:29:54Z",
-        "description": "We examine in this paper exact solutions of Schouten-Codazzi gravity (SCG), a second order metric theory in which a Codazzi tensor is added to the Einstein field equations. We consider two spherically symmetric geometries that describe null radiation and inhomogeneous dust, corresponding to generali",
-        "title_cn": "Schouten-Codazzi Gravity中尘埃和辐射源的球对称解"
-      },
-      {
-        "title": "HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs",
-        "link": "https://arxiv.org/abs/2610.26770v1",
-        "pubDate": "2026-10-19T17:27:38Z",
-        "description": "Harness development plays a crucial role in building capable AI agents. Recent approaches improve harnesses through recursive self-improvement (RSI), but their performance gains often come with higher execution costs. We introduce HarnessPro, a label-free method for evolving harnesses to improve tas",
-        "title_cn": "HarnessPro ：使用Pareto优化进行递归线束自我改进，以实现性能-成本权衡"
-      },
-      {
-        "title": "Exact model reduction by Lie symmetry groups",
-        "link": "https://arxiv.org/abs/2610.26767v1",
-        "pubDate": "2026-10-19T17:25:58Z",
-        "description": "We develop a model-reduction technique based on Lie group theory for general engineering models described by a system of algebraic, ordinary, and/or partial differential equations with an arbitrary number of inputs, outputs, and constant parameters. The proposed method reduces the parameter space of",
-        "title_cn": "Lie对称群的精确模型缩减"
-      },
-      {
-        "title": "An Efficient Open-Source Framework for Thermohygromechanical Phase-Field Simulation of Drying Damage Refractory Castables",
-        "link": "https://arxiv.org/abs/2610.26752v1",
-        "pubDate": "2026-10-19T17:14:44Z",
-        "description": "The water removal from refractory castables is a complex process involving heat and mass transport and thermohygromechanical stresses. In order to reduce the risk of explosive spalling by improving the heat-up curves, numerical models are critical to predict the castable behavior during drying. Howe",
-        "title_cn": "干燥损伤耐火浇注料的热湿机械相场模拟的高效开源框架"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +417,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-20 18:13 UTC"
+    "updated": "2026-10-21 00:17 UTC"
   }
 }
