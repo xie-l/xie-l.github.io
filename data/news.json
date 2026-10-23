@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Elusive snow leopards and evasive particles: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-03395-3",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "难以捉摸的雪豹和回避粒子：书籍简介"
+      },
+      {
+        "title": "Rebody",
+        "link": "https://www.nature.com/articles/d41586-026-03108-w",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w Fighting fit.",
+        "title_cn": "重构"
+      },
+      {
+        "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+        "link": "https://www.nature.com/articles/d41586-026-03417-0",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show a huge benefit in treating treatment-resistant melanoma.",
+        "title_cn": "Moderna mRNA疫苗几乎将皮肤癌复发的风险降低了一半"
+      },
+      {
         "title": "Can a 'lullaby' save coral reefs from extinction?",
         "link": "https://www.nature.com/articles/d41586-026-03414-3",
         "pubDate": "2026-10-22",
@@ -30,41 +51,20 @@
         "title_cn": "数学能否在人工智能中生存下来？菲尔兹奖得主Terence Tao呼吁建立“数学2.0”世界"
       },
       {
-        "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-        "link": "https://www.nature.com/articles/s41586-026-11312-x",
+        "title": "Daily briefing: The tell-tale features of a Denisovan",
+        "link": "https://www.nature.com/articles/d41586-026-03438-9",
         "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-        "title_cn": "具有旋转增强电导的电流驱动分子机器"
-      },
-      {
-        "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
-        "link": "https://www.nature.com/articles/s41586-026-11317-6",
-        "pubDate": "2026-10-21",
-        "description": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6 De novo design of enantioselective artificial metalloenzyme photocatalysts",
-        "title_cn": "对映选择性人工金属酶光催化剂的从头设计"
-      },
-      {
-        "title": "Scientists put a salt marsh in a giant wave-machine: here's what they learned",
-        "link": "https://www.nature.com/articles/d41586-026-03376-6",
-        "pubDate": "2026-10-21",
-        "description": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6 Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
-        "title_cn": "科学家将盐沼放入巨型波浪机中：这是他们学到的东西"
-      },
-      {
-        "title": "Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
-        "link": "https://www.nature.com/articles/s41586-026-11252-6",
-        "pubDate": "2026-10-21",
-        "description": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
-        "title_cn": "作者更正：无催化剂、微滴介导的废塑料转化为二酸"
+        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03438-9 See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.",
+        "title_cn": "每日简报：丹尼索瓦人的特色"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,7 +126,7 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 07:38:44 GMT",
+        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+      },
       {
         "title": "填补行业空白！可再生能源电解水制氢专项国家标准发布 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcFhrcElTZkwxaVVDeEdpWjB5dmZpS1dIbFJuQzJlcndQV0tIYm5UcDN2OGN0WUUzOW8yN09jYkxObVp2RFJIemY5aFFaWW9OVW1mWEx1SkNMRmlLTDhLVDVHRlJmdmpXNVdqQXJR?oc=5",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "policy_nea": {
     "items": [
@@ -409,32 +409,32 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSy1JQmdSOGo5ekdaSlNyc3g2UjdybE8xMHAxV0ktWV9pRkJBam04aEF3S2FBTk55YkY1ZGtUc0hiN0pzTjczbzlpUE5YdEJuT0xDdQ?oc=5",
-        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
-        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
-        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
+        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSy1JQmdSOGo5ekdaSlNyc3g2UjdybE8xMHAxV0ktWV9pRkJBam04aEF3S2FBTk55YkY1ZGtUc0hiN0pzTjczbzlpUE5YdEJuT0xDdQ?oc=5",
+        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
+        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
+        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
+        "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
+      },
+      {
+        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbjc0SVVVTTVPSm5XNDRVZWhTMkFiTXYtMW4yTHUxaVNQZkhwV09QblpUeFRjb1EwMXpXTUZ0SGJCbDJZVDctOXFfU2g1U1luUnc?oc=5",
+        "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 世纪新能源网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
-      },
-      {
         "title": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 - 国际新能源网",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
         "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
         "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
+        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-23 06:48 UTC"
+    "updated": "2026-10-23 12:19 UTC"
   }
 }
