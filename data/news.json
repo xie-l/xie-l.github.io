@@ -2,11 +2,46 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+        "link": "https://www.nature.com/articles/s41586-026-11303-y",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+        "title_cn": "作者更正： DYNLL1与MRE11结合以限制BRCA1缺陷细胞中的DNA末端切除"
+      },
+      {
         "title": "Elusive snow leopards and evasive particles: Books in brief",
         "link": "https://www.nature.com/articles/d41586-026-03395-3",
         "pubDate": "2026-10-23",
         "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
         "title_cn": "难以捉摸的雪豹和回避粒子：书籍简介"
+      },
+      {
+        "title": "Sleep declines in rural communities after electricity arrives",
+        "link": "https://www.nature.com/articles/d41586-026-03318-2",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
+        "title_cn": "电力到达后农村社区的睡眠下降"
+      },
+      {
+        "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+        "link": "https://www.nature.com/articles/d41586-026-03418-z",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
+        "title_cn": "简报聊天：物理学家如何成功捕获电子的反物质当量"
+      },
+      {
+        "title": "First person infected with rare Shamonda virus: what we know",
+        "link": "https://www.nature.com/articles/d41586-026-03416-1",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
+        "title_cn": "第一个感染罕见Shamonda病毒的人：我们所知道的"
+      },
+      {
+        "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+        "link": "https://www.nature.com/articles/d41586-026-03383-7",
+        "pubDate": "2026-10-23",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 Diagnostic start-ups inch towards the goal of Holmes’s failed company, Theranos, to run a multitude of tests on drops of blood.",
+        "title_cn": "伊丽莎白·福尔摩斯（ Elizabeth Holmes ）的电影令人着迷—但她的遗产困扰着科学"
       },
       {
         "title": "Rebody",
@@ -19,55 +54,48 @@
         "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
         "link": "https://www.nature.com/articles/d41586-026-03417-0",
         "pubDate": "2026-10-23",
-        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show a huge benefit in treating treatment-resistant melanoma.",
+        "description": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma.",
         "title_cn": "Moderna mRNA疫苗几乎将皮肤癌复发的风险降低了一半"
-      },
-      {
-        "title": "Can a 'lullaby' save coral reefs from extinction?",
-        "link": "https://www.nature.com/articles/d41586-026-03414-3",
-        "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03414-3 From underwater speakers to growing super-corals, scientists battle to save reefs around the world.",
-        "title_cn": "“摇篮曲”能拯救珊瑚礁免于灭绝吗？"
-      },
-      {
-        "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
-        "link": "https://www.nature.com/articles/d41586-026-03371-x",
-        "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
-        "title_cn": "CRISPR的首创：强大的原始编辑功能可直接改变人体内的DNA"
-      },
-      {
-        "title": "Teen depression and anxiety predicted by childhood brain development",
-        "link": "https://www.nature.com/articles/d41586-026-03357-9",
-        "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
-        "title_cn": "由儿童大脑发育预测的青少年抑郁和焦虑"
-      },
-      {
-        "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
-        "link": "https://www.nature.com/articles/d41586-026-03389-1",
-        "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
-        "title_cn": "数学能否在人工智能中生存下来？菲尔兹奖得主Terence Tao呼吁建立“数学2.0”世界"
-      },
-      {
-        "title": "Daily briefing: The tell-tale features of a Denisovan",
-        "link": "https://www.nature.com/articles/d41586-026-03438-9",
-        "pubDate": "2026-10-22",
-        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03438-9 See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.",
-        "title_cn": "每日简报：丹尼索瓦人的特色"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "If Google Fells 250,000 Trees In Finland, Does It Make A Sound?",
+        "link": "https://cleantechnica.com/2026/10/23/if-google-fells-250000-trees-in-finland-does-it-make-a-sound/",
+        "pubDate": "Fri, 23 Oct 2026 17:50:32 +0000",
+        "description": "What I don&#8217;t know about Finland would fill a small library. As a fan of Formula One, I know that many Finnish surnames have multiple k&#8217;s &#8212; Mika Hakkinen, and Kimi Raikkonen, for example, not to mention World Rally driver Tommi Makkinen. In the world of motorsports, some like to ...",
+        "title_cn": "如果谷歌在芬兰砍伐了25万棵树，它是否会发出声音？"
+      },
+      {
+        "title": "What Can Grid Flexibility Actually Do Here?",
+        "link": "https://cleantechnica.com/2026/10/23/what-can-grid-flexibility-do-here/",
+        "pubDate": "Fri, 23 Oct 2026 17:28:29 +0000",
+        "description": "Grid flexibility is not one resource or one number. A new open TFIE Strategy report maps how batteries, demand, networks, interconnection and other resources change value with location, duration and operating conditions. The post What Can Grid Flexibility Actually Do Here? appeared first on CleanTec",
+        "title_cn": "电网灵活性实际上可以做些什么？"
+      },
+      {
+        "title": "Florida Farmers Are Making The Move To Regenerative Agriculture",
+        "link": "https://cleantechnica.com/2026/10/23/florida-farmers-are-making-the-move-to-regenerative-agriculture/",
+        "pubDate": "Fri, 23 Oct 2026 16:34:42 +0000",
+        "description": "As the supervisor of dune plantings at our coastal Florida community, I was keenly aware of the rare February 2026 freeze. Plants that generally resist drought, wind, and salt were burnt by the 26°F temperatures. Luckily, most of our east coast plants survived and have returned to robust health afte",
+        "title_cn": "佛罗里达州的农民正在转向再生农业"
+      },
+      {
+        "title": "XPENG L03 With VLA 2.0 Smoothly Takes On Paris Roads",
+        "link": "https://cleantechnica.com/2026/10/23/xpeng-l03-with-vla-2-0-smoothly-takes-on-paris-roads/",
+        "pubDate": "Fri, 23 Oct 2026 15:58:41 +0000",
+        "description": "On my recent trip to Paris, I had the opportunity to experience NGP with VLA 2.0 in an XPENG L03. Paris roads and drivers are a bit different than my past experiences. Adapting to the traffic poses a unique challenge. I had previously sampled XPENG’s intelligent driving system in Guangzhou, ... [con",
+        "title_cn": "XPENG L03搭载VLA 2.0在巴黎公路上平稳行驶"
+      },
       {
         "title": "Optivolt Raises $32M to Build the Brain for Solar Panels of the Future",
         "link": "https://cleantechnica.com/2026/10/22/optivolt-raises-32m-to-build-the-brain-for-solar-panels-of-the-future/",
@@ -95,38 +123,10 @@
         "pubDate": "Fri, 23 Oct 2026 03:50:18 +0000",
         "description": "In its seventh year, the annual research collaboration continues to examine the convergence of biodesign and biomimicry, advanced art and design practices, and the future of mobility across the globe In the 2026–27 Regeneration Studio, faculty and students explore the theme of “Motion Rewild” via tw",
         "title_cn": "现代汽车集团和罗德岛设计学院就再生生物设计策略和交通的未来开展合作"
-      },
-      {
-        "title": "ANALYSIS: Solar & Storage Growth Drives Down Summer Wholesale Electricity Prices by 42% in Texas & 51% in California",
-        "link": "https://cleantechnica.com/2026/10/22/analysis-solar-storage-growth-drives-down-summer-wholesale-electricity-prices-by-42-in-texas-51-in-california/",
-        "pubDate": "Fri, 23 Oct 2026 01:00:34 +0000",
-        "description": "New analysis shows how solar and storage are lowering electricity costs in red and blue states as affordability takes center stage heading into the midterm elections. WASHINGTON D.C. — As energy affordability emerges as a defining issue heading into the midterm elections, new analysis from the Solar",
-        "title_cn": "分析：太阳能和储能增长推动德克萨斯州夏季批发电价下跌42% ，加利福尼亚州下跌51%"
-      },
-      {
-        "title": "Sierra Club Applauds Approval for Ameren Missouri’s New Solar & Storage Projects",
-        "link": "https://cleantechnica.com/2026/10/22/sierra-club-applauds-approval-for-ameren-missouris-new-solar-storage-projects/",
-        "pubDate": "Fri, 23 Oct 2026 00:42:35 +0000",
-        "description": "ST. LOUIS, Mo. — Yesterday, the Missouri Public Service Commission (PSC) approved Ameren Missouri’s proposal to build solar and storage projects. The Sierra Club and its members supported the projects at public hearings around the state. Renewable energy remains the cheapest way to generate electric",
-        "title_cn": "Sierra Club赞扬Ameren密苏里州新太阳能和储能项目获得批准"
-      },
-      {
-        "title": "The All New, Never Seen Anything Like It, Fourth Generation EV Platform From GM",
-        "link": "https://cleantechnica.com/2026/10/22/the-all-new-never-seen-anything-like-it-fourth-generation-ev-platform-from-gm/",
-        "pubDate": "Thu, 22 Oct 2026 15:39:31 +0000",
-        "description": "At a splashy GM Forward event in New York City on October 21, General Motors laid out its plans to remain relevant in the auto manufacturing business. (Never mind that the industry enjoys a walled garden status in the US, which has chosen to erect trade barriers that exclude sales ... [continued] Th",
-        "title_cn": "通用汽车推出的全新、前所未有的第四代电动汽车平台"
-      },
-      {
-        "title": "Britain’s Buses Became More “Productive” While Running Less Service",
-        "link": "https://cleantechnica.com/2026/10/22/britain-bus-productivity-network-access/",
-        "pubDate": "Thu, 22 Oct 2026 14:42:13 +0000",
-        "description": "England outside London carried about 1.85 billion local-bus passenger journeys in 2024/25, compared with roughly 1.98 billion before COVID-19. Passenger journeys had recovered to 93.3% of their 2019/20 level, while bus service mileage had recovered to 86.0%. Put those two figures together and passen",
-        "title_cn": "英国公交车在运行较少服务的同时变得更加“富有成效”"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,16 +205,16 @@
         "description": "填补行业空白！可再生能源电解水制氢专项国家标准发布 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "华电科工股份有限公司党委书记、副董事长周云山会见中国能建江苏省电力设计院党委副书记、总经理宋坤林一行 - 国际能源网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzaGRzMHBEZXV0MXBtNXFadUdONktWWXpLVzRwZTZhZUpPYUpuUl9yQ3JMSE16MjBjNGJsUi1yWk0takw2YmFsdWJ0Rkw4d0lrbkJWdmYyd0JMZnpa?oc=5",
-        "pubDate": "Thu, 22 Oct 2026 12:20:52 GMT",
-        "description": "华电科工股份有限公司党委书记、副董事长周云山会见中国能建江苏省电力设计院党委副书记、总经理宋坤林一行 &nbsp;&nbsp; 国际能源网"
-      },
-      {
         "title": "中国工业新闻网 - 中国工业新闻网",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05TWxnaE5KN0Q1cEl1c3IzNzdXb25pb01fbDJrRzNFOUJMYWNjMHVxLS1Td2ZFN2dRZmJqRzBlbVFodGNoS1ZzR0hsQXJWaV9GbVpFdm9YdEg2S00?oc=5",
         "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
         "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
+      },
+      {
+        "title": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 - 国际太阳能光伏网",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1VFRfdnRGQkVUallIeC1OblQ0S2IwaUdKNmVzQjdXX3hfMVhBY25LdVBPMkN3TzhKcE9QU3dZVUhILV9jNzNvQm1FUTQ0OVg2WDVNaF84SDQzOVRx?oc=5",
+        "pubDate": "Thu, 15 Oct 2026 08:37:30 GMT",
+        "description": "深化新能源及氢能储能等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 &nbsp;&nbsp; 国际太阳能光伏网"
       },
       {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,6 +403,12 @@
         "description": "全球氢能产业平稳增长 中国绿氢产能占比过半 &nbsp;&nbsp; 人民日报"
       },
       {
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
         "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
@@ -415,26 +421,20 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "42条！2026年9月氢能政策汇总 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXSy1JQmdSOGo5ekdaSlNyc3g2UjdybE8xMHAxV0ktWV9pRkJBam04aEF3S2FBTk55YkY1ZGtUc0hiN0pzTjczbzlpUE5YdEJuT0xDdQ?oc=5",
-        "pubDate": "Thu, 08 Oct 2026 00:43:55 GMT",
-        "description": "42条！2026年9月氢能政策汇总 &nbsp;&nbsp; 国际氢能网"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "国家能源局：上半年氢能领域投资同比增速超过160% - 中国产业发展促进会氢能分会",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03dW8wTE5RUnhVSDQ2WkkzbzJPY2ZuRjlKREtoX25LM2FqT2FoRDl5TVpPNV9ud0VfM2FlRmZhbkg5NEJCeU9fc1BfR1JmUWtrdzczM3pB?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：上半年氢能领域投资同比增速超过160% &nbsp;&nbsp; 中国产业发展促进会氢能分会"
-      },
-      {
-        "title": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvbjc0SVVVTTVPSm5XNDRVZWhTMkFiTXYtMW4yTHUxaVNQZkhwV09QblpUeFRjb1EwMXpXTUZ0SGJCbDJZVDctOXFfU2g1U1luUnc?oc=5",
-        "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-        "description": "国家能源局：持续推动氢基能源热值核算方法相关标准制定 &nbsp;&nbsp; 世纪新能源网"
+        "title": "氢能正式纳入能源数据一级分类，国家能源局新规发布 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2X1FOTUNIeUROTFVuV3BBcDRfTVpqX083S0hYN3lQWWhnUG5yVjU0dWMzOU50ajh2aHgta3J3LWs5MlloV3hxcUZLVldNb0VOMGc?oc=5",
+        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+        "description": "氢能正式纳入能源数据一级分类，国家能源局新规发布 &nbsp;&nbsp; https://www.gdshe.org/"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -451,22 +451,28 @@
         "description": "风电「周事迹」：四川/山东/江西/辽宁发布竞价政策；国家能源集团4.3GW风电基地获批；明阳GW级绿色智算中心落地韶关；18MW海上风机投运 &nbsp;&nbsp; 国际风力发电网"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
         "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
         "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "绿电直连进入“一对多”共享时代 - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
         "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "一周能源政策回顾（9.12-9.18） - 搜狐",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SYV9hZjkwWVpHZVpHVmJ4RVA1eUczRTJFNWNERE4ycXU1X0Z5M1liMG1aYVpPWkVEbzFlZWlCZ3pqODl0REJmTTJZYVowMTV5Wk85WDBLamhiRUhjMVB4LXp3bHBnOV9WS3hV?oc=5",
+        "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
+        "description": "一周能源政策回顾（9.12-9.18） &nbsp;&nbsp; 搜狐"
       },
       {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
@@ -479,15 +485,9 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JUjV6YXB1THNfbUt3SndmR1pSUjZYRTg4a3Z3al93VlBhTGlwcWJQaUNLMHNhYTl4WDh5Tjd0WDg2b3hJX2lUN0ZxTjZBMTJGVURWUnl5cUl6QVc3ZHRDOG1rXzdMeXQz?oc=5",
         "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
         "description": "内蒙古包头市：到2030年，新能源并网装机达到2400万千瓦 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-23 12:19 UTC"
+    "updated": "2026-10-23 18:02 UTC"
   }
 }
