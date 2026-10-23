@@ -9,6 +9,13 @@
         "title_cn": "“摇篮曲”能拯救珊瑚礁免于灭绝吗？"
       },
       {
+        "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+        "link": "https://www.nature.com/articles/d41586-026-03371-x",
+        "pubDate": "2026-10-22",
+        "description": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
+        "title_cn": "CRISPR的首创：强大的原始编辑功能可直接改变人体内的DNA"
+      },
+      {
         "title": "Teen depression and anxiety predicted by childhood brain development",
         "link": "https://www.nature.com/articles/d41586-026-03357-9",
         "pubDate": "2026-10-22",
@@ -49,22 +56,15 @@
         "pubDate": "2026-10-21",
         "description": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
         "title_cn": "作者更正：无催化剂、微滴介导的废塑料转化为二酸"
-      },
-      {
-        "title": "Surprise! White dwarf stars come in a rainbow of colours",
-        "link": "https://www.nature.com/articles/d41586-026-03319-1",
-        "pubDate": "2026-10-21",
-        "description": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
-        "title_cn": "惊喜！白矮星呈彩虹色"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "energy_intl": {
     "items": [
@@ -126,10 +126,17 @@
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Heatwave-induced capacity bottlenecks in European electricity grids",
+        "link": "https://www.nature.com/articles/s41560-026-02151-1",
+        "pubDate": "2026-10-22",
+        "description": "Nature Energy, Published online: 22 October 2026; doi:10.1038/s41560-026-02151-1 This study models how heatwaves raise demand and reduce generation and transmission capacity across Western European power grids, showing how heatwaves can expose bottlenecks that simplified models may miss and providin",
+        "title_cn": "欧洲电网热浪引起的容量瓶颈"
+      },
       {
         "title": "Directed assembly of cathode interlayers enables efficient binary organic solar cells",
         "link": "https://www.nature.com/articles/s41560-026-02148-w",
@@ -178,17 +185,10 @@
         "pubDate": "2026-09-17",
         "description": "Nature Energy, Published online: 17 September 2026; doi:10.1038/s41560-026-02126-2 EU green hydrogen policies could be more effective if they accounted for spatial spillovers. These spillovers are a primary driver of diffusion, and spatially informed demand-side policies could improve cost-effective",
         "title_cn": "欧洲绿色氢扩散的空间知情需求方政策"
-      },
-      {
-        "title": "Smart energy must address enshittification risks",
-        "link": "https://www.nature.com/articles/s41560-026-02138-y",
-        "pubDate": "2026-09-15",
-        "description": "Nature Energy, Published online: 15 September 2026; doi:10.1038/s41560-026-02138-y Smart energy must address enshittification risks",
-        "title_cn": "智能能源必须解决隐性风险"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "energy_cn": {
     "items": [
@@ -205,16 +205,16 @@
         "description": "华电科工股份有限公司党委书记、副董事长周云山会见中国能建江苏省电力设计院党委副书记、总经理宋坤林一行 &nbsp;&nbsp; 国际能源网"
       },
       {
-        "title": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 - 生物通",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzNDBfTmcxaW9TaF9MR3pHYmkxTHJOajN6LWlBb0djVzdBVHAyYmdMNkR2WGtLSWFoeThoWS01ejdiT1FhbWRGeUtIODJIMUt6MVZ5U1FPYWZzYXhtWWdES3dySVVyR2ltYjMtR2Rn?oc=5",
-        "pubDate": "Wed, 21 Oct 2026 00:28:01 GMT",
-        "description": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 &nbsp;&nbsp; 生物通"
-      },
-      {
         "title": "中国工业新闻网 - 中国工业新闻网",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05TWxnaE5KN0Q1cEl1c3IzNzdXb25pb01fbDJrRzNFOUJMYWNjMHVxLS1Td2ZFN2dRZmJqRzBlbVFodGNoS1ZzR0hsQXJWaV9GbVpFdm9YdEg2S00?oc=5",
         "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
         "description": "中国工业新闻网 &nbsp;&nbsp; 中国工业新闻网"
+      },
+      {
+        "title": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 - 生物通",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzNDBfTmcxaW9TaF9MR3pHYmkxTHJOajN6LWlBb0djVzdBVHAyYmdMNkR2WGtLSWFoeThoWS01ejdiT1FhbWRGeUtIODJIMUt6MVZ5U1FPYWZzYXhtWWdES3dySVVyR2ltYjMtR2Rn?oc=5",
+        "pubDate": "Wed, 21 Oct 2026 00:28:01 GMT",
+        "description": "在电力和氢能转型的背景下，碳强度-成本轨迹及对可持续航空燃料政策的启示 &nbsp;&nbsp; 生物通"
       },
       {
         "title": "曾毓群：储能从新能源配角升级为电力系统新型基础设施 - 碳索氢能网",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-22 18:13 UTC"
+    "updated": "2026-10-23 00:18 UTC"
   }
 }
