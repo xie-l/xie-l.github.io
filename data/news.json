@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored",
+        "link": "https://cleantechnica.com/2026/10/25/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-factory-in-us-rumored/",
+        "pubDate": "Sun, 25 Oct 2026 22:24:58 +0000",
+        "description": "Volkswagen Group is desperate to cut costs. As recently as 2023, the company had an operating profit of €22.6 billion, but by 2025, that number had been slashed to €8.9 billion. 2026 may be half of that. In today&#8217;s market, it has more factory capacity in Germany that it needs, ... [continued] ",
+        "title_cn": "大众汽车与IG Metall的谈判将于11月24日开始，美国奥迪工厂有传言"
+      },
+      {
+        "title": "New Li Auto i6 Goes 811 km (504 Miles)",
+        "link": "https://cleantechnica.com/2026/10/25/new-li-auto-i6-goes-811-km-504-miles/",
+        "pubDate": "Sun, 25 Oct 2026 17:57:54 +0000",
+        "description": "Li Auto&#8217;s new i6 electric vehicle has a very interesting look. It makes me think of something out of some futuristic movie or The Jetsons. It certainly has an MPV (multipurpose vehicle) design that is current in China but not really anywhere else. Anyway, aside from the futuristic, cool stylin",
+        "title_cn": "全新Li Auto i6行驶811公里（ 504英里）"
+      },
+      {
+        "title": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
+        "link": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
+        "pubDate": "Sun, 25 Oct 2026 17:17:07 +0000",
+        "description": "Some DOE programs deserve to end. The problem is a budget request that cuts weak hydrogen bets while stripping support from technologies already delivering electrification. The post Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together appeared first on CleanTechnica .",
+        "title_cn": "特朗普的能源部预算请求削减了弱赌注和有用的能源研究"
+      },
       {
         "title": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
         "link": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 24 Oct 2026 18:23:19 +0000",
         "description": "Volkswagen, like pretty much all foreign brands, has really been struggling in China in recent years. The whole German auto industry is basically in crisis because their cash cow in China has shifted and now prefers buying cool new EVs from Chinese companies. Well, Volkswagen decided to team up with",
         "title_cn": "大众汽车释放邪恶身份证。Unyx 09在中国售价$ 27,000"
-      },
-      {
-        "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
-        "link": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
-        "pubDate": "Sat, 24 Oct 2026 17:13:44 +0000",
-        "description": "The Zayed Sustainability Prize recently made its final cuts to determine the finalists for the 2027 edition. I used to cover the prize very closely and thoroughly, back when it was called the Zayed Future Energy Prize. I think the name was changed in large part because they wanted to ... [continued]",
-        "title_cn": "扎耶德可持续发展奖从10233份参赛作品中挑选入围者"
-      },
-      {
-        "title": "Trump’s War on Iran Has Broken the Oil Market",
-        "link": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
-        "pubDate": "Sat, 24 Oct 2026 14:21:46 +0000",
-        "description": "Almost 8 months into Trump’s war on Iran, we can see more clearly the consequences of this quagmire. Some have been quite unexpected, like the surprising resilience of the oil market, the emergence of multiple failure points outside of Hormuz (including Bab-al Mandeb, the East-West pipeline, and glo",
-        "title_cn": "特朗普对伊朗的战争打破了石油市场"
-      },
-      {
-        "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
-        "link": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
-        "pubDate": "Sat, 24 Oct 2026 03:55:00 +0000",
-        "description": "Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland &#38; SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LOGI) today announced the launch of Chain Reaction, a global supply chain decarbonization program designe",
-        "title_cn": "罗技推出“连锁反应” ，加速实现2030年气候目标的供应链脱碳"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -469,25 +469,25 @@
         "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "一周能源政策回顾（9.12-9.18） - 搜狐",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SYV9hZjkwWVpHZVpHVmJ4RVA1eUczRTJFNWNERE4ycXU1X0Z5M1liMG1aYVpPWkVEbzFlZWlCZ3pqODl0REJmTTJZYVowMTV5Wk85WDBLamhiRUhjMVB4LXp3bHBnOV9WS3hV?oc=5",
-        "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
-        "description": "一周能源政策回顾（9.12-9.18） &nbsp;&nbsp; 搜狐"
-      },
-      {
         "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
         "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
         "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "绿电直连新政：一对多模式全面落地 - 见道网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Q21KQTA3MlMtc2IxN21ieHJ0RmJfTXBma0JsTEM4X1VkcE04OWtmTjlwRGpzblVmek1POWNNWkhRWnRTaWFUVlZXZF92ZWtjbEFEaA?oc=5",
-        "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
-        "description": "绿电直连新政：一对多模式全面落地 &nbsp;&nbsp; 见道网"
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "国家终于启动绿氢氨醇SAF国内市场了 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04ZnFqV2NPd0xMY0EzNWMzN1pxNFBIX0U5WFB2aENmSWx5LVBEeHJRTjRUZjhlaU5vNlpRQnVnZUYzSTNyLS15WEhreHRjZkNiajZLUUhoNA?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "国家终于启动绿氢氨醇SAF国内市场了 &nbsp;&nbsp; 维科号"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-25 17:20 UTC"
+    "updated": "2026-10-25 23:41 UTC"
   }
 }
