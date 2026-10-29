@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "Even stupendous black holes can’t explain dark matter",
+        "link": "https://www.nature.com/articles/d41586-026-03386-4",
+        "pubDate": "2026-10-29",
+        "description": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies.",
+        "title_cn": "即使是巨大的黑洞也无法解释暗物质"
+      },
+      {
         "title": "Switchable Chlorine Atom Transfer Radical Reactions",
         "link": "https://www.nature.com/articles/s41586-026-11348-z",
         "pubDate": "2026-10-28",
@@ -44,30 +51,51 @@
         "title_cn": "在我们出生的时候，大脑会清除数十亿个突变神经元"
       },
       {
-        "title": "Tethered to stone: how rock and water availability shaped early desert occupation",
-        "link": "https://www.nature.com/articles/d41586-026-03263-0",
+        "title": "Daily briefing: The big push to personalize psychiatry",
+        "link": "https://www.nature.com/articles/d41586-026-03531-z",
         "pubDate": "2026-10-28",
-        "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia’s Rub’ al Khali region, water alone does not predict occupation.",
-        "title_cn": "拴在石头上：岩石和水的可用性如何塑造早期的沙漠占领"
-      },
-      {
-        "title": "What students think about my teaching doesn’t matter. Am I wrong?",
-        "link": "https://www.nature.com/articles/d41586-026-02202-3",
-        "pubDate": "2026-10-28",
-        "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-02202-3 A jury weighs in on whether teaching assessments are popularity contests or an important tool.",
-        "title_cn": "学生对我的教学有什么看法并不重要。我错了吗？"
+        "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03531-z A data-driven approach could match treatments to individuals with more precision. Plus, funders in Europe are backing preprint-led publishing and whether professors should care about student evaluations.",
+        "title_cn": "每日简报：大力推动个性化精神病学"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Ireland’s Grid Flexibility Assessment Shows Why Location Matters",
+        "link": "https://cleantechnica.com/2026/10/29/grid-flexibility-location-ireland-naas/",
+        "pubDate": "Thu, 29 Oct 2026 16:59:03 +0000",
+        "description": "Ireland's Naas substation shows why flexible batteries and loads must match the location, timing and operating conditions of grid constraints. The post Ireland&#8217;s Grid Flexibility Assessment Shows Why Location Matters appeared first on CleanTechnica .",
+        "title_cn": "爱尔兰电网灵活性评估显示了位置的重要性"
+      },
+      {
+        "title": "Sure Looks Like Trump Loves EVs After All",
+        "link": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
+        "pubDate": "Thu, 29 Oct 2026 14:25:06 +0000",
+        "description": "Despite Trump's war on EVs, the US Department of Energy has launched the new \"BattMan\" battery innovation accelerator led by experts at the Pacific Northwest National Laboratory. The post Sure Looks Like Trump Loves EVs After All appeared first on CleanTechnica .",
+        "title_cn": "当然，看起来特朗普毕竟喜欢电动汽车"
+      },
+      {
+        "title": "Scaling European Battery Recycling via the Circular Economy Act",
+        "link": "https://cleantechnica.com/2026/10/29/scaling-european-battery-recycling-via-the-circular-economy-act/",
+        "pubDate": "Thu, 29 Oct 2026 14:08:52 +0000",
+        "description": "Ahead of the Circular Economy Act, a joint letter from T&#38;E, Recharge, Clean Tech for Europe and EIES calls for concrete measures to support the effective scaling of Europe’s material recovery and recycling capacity. Recovering materials from end-of-life batteries is a key means to secure much ne",
+        "title_cn": "通过《循环经济法》扩大欧洲电池回收规模"
+      },
+      {
+        "title": "What Europe Can Learn From China If It Wants To Save Its Industry",
+        "link": "https://cleantechnica.com/2026/10/29/what-europe-can-learn-from-china-if-it-wants-to-save-its-industry/",
+        "pubDate": "Thu, 29 Oct 2026 14:04:15 +0000",
+        "description": "Something I learned from my trip to China: you can be fast followers if you&#8217;re willing to learn from the best. Sometimes a bit of distance can improve your perspective. Walking down the silent streets of Beijing I listened to the future of mobility. Statistics can’t convey the silence of ... [",
+        "title_cn": "如果欧洲想挽救其产业，它可以从中国学到什么"
+      },
       {
         "title": "Construction Materials Stand Out At Greenbuild 2026",
         "link": "https://cleantechnica.com/2026/10/28/construction-materials-stand-out-at-greenbuild-2026/",
@@ -95,41 +123,34 @@
         "pubDate": "Thu, 29 Oct 2026 00:37:38 +0000",
         "description": "Today, we’re announcing that Waymo for Business is integrated with Ramp, making it easier for organizations and their employees to manage expenses when using our fully autonomous ride-hailing service. For over a year, Waymo for Business has offered 24/7 reliability and convenience directly to organi",
         "title_cn": ""
-      },
-      {
-        "title": "The Truth About Renewable Electricity: Your Questions, Answered",
-        "link": "https://cleantechnica.com/2026/10/28/the-truth-about-renewable-electricity-your-questions-answered/",
-        "pubDate": "Thu, 29 Oct 2026 00:26:56 +0000",
-        "description": "Reliable, affordable electricity is essential for many of the products and services that underpin the modern economy. But the sources of that electricity—and their respective merits and risks—are increasingly the subject of debate and polarization. A flood of narratives and counternarratives is risi",
-        "title_cn": "关于可再生电力的真相：您的问题，已解答"
-      },
-      {
-        "title": "After Years-Long Community Objection, Dairyland Power Pulls the Plug on NTEC Gas Plant",
-        "link": "https://cleantechnica.com/2026/10/28/after-years-long-community-objection-dairyland-power-pulls-the-plug-on-ntec-gas-plant/",
-        "pubDate": "Thu, 29 Oct 2026 00:25:58 +0000",
-        "description": "SUPERIOR, Wisconsin — Today, Dairyland Power Coop announced the cancellation of plans for NTEC, which was proposed to be built on the shores of Lake Superior, and asked the Wisconsin Public Service Commission (PSC) to withdraw its permits. The Nemadji Trail Energy Center (NTEC), a 625 MW natural gas",
-        "title_cn": "经过多年的社区反对， Dairyland Power拔掉了NTEC天然气厂的插头"
-      },
-      {
-        "title": "Louisiana DEQ Issues Rushed, Controversial Air Permit to Proposed Hyundai Steel Facility",
-        "link": "https://cleantechnica.com/2026/10/28/louisiana-deq-issues-rushed-controversial-air-permit-to-proposed-hyundai-steel-facility/",
-        "pubDate": "Wed, 28 Oct 2026 23:57:53 +0000",
-        "description": "Donaldsonville, Louisiana — Yesterday, the Louisiana Department of Environmental Quality (LDEQ) posted the final, approved air permit for Hyundai’s proposed steel plant. Hyundai promised a state-of-the-art, clean facility, but the proposed plan falls short of those promises and would still bring tho",
-        "title_cn": "路易斯安那州DEQ匆忙向拟议的现代钢铁厂发放有争议的航空许可证"
-      },
-      {
-        "title": "Tesla’s Full Self Driving Has Now Dramatically Reduced the Number of Reasons to Intervene or Complain",
-        "link": "https://cleantechnica.com/2026/10/28/teslas-full-self-driving-has-now-dramatically-reduced-the-number-of-reasons-to-intervene-or-complain/",
-        "pubDate": "Wed, 28 Oct 2026 23:48:19 +0000",
-        "description": "7 years ago, I paid Tesla $6000 for a permanent subscription to “Full Self Driving” for my new Model 3. At the time, FSD would navigate and drive automatically on limited access highways (mostly Interstates), but that was about it. I’m currently driving a 2026 base Model Y with FSD ... [continued] T",
-        "title_cn": "特斯拉全自动驾驶现在大大减少了干预或投诉的理由"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Translating sulfur flow batteries into deployable systems",
+        "link": "https://www.nature.com/articles/s41560-026-02152-0",
+        "pubDate": "2026-10-29",
+        "description": "Nature Energy, Published online: 29 October 2026; doi:10.1038/s41560-026-02152-0 Sulfur-based redox flow batteries promise low-cost, long-duration energy storage using abundant active materials, but commercial success depends on much more than low-cost materials. Yi-Chun Lu and her team explore how ",
+        "title_cn": "将硫流动电池转化为可部署系统"
+      },
+      {
+        "title": "Chemical-linkage-regulated single-phase crystallization and uniform gallium alloying for efficient solution-processed chalcopyrite solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02157-9",
+        "pubDate": "2026-10-29",
+        "description": "Nature Energy, Published online: 29 October 2026; doi:10.1038/s41560-026-02157-9 Controlling phase evolution and composition homogeneity are challenging for chalcopyrites. Ma, Wu, Liu, Yan et al. use acetate anions to build complex networks in precursor solution, achieving single-phase crystallizati",
+        "title_cn": "化学连接调节的单相结晶和均匀的镓合金化，用于高效的溶液处理黄铜矿太阳能电池"
+      },
+      {
+        "title": "Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
+        "link": "https://www.nature.com/articles/s41560-026-02162-y",
+        "pubDate": "2026-10-29",
+        "description": "Nature Energy, Published online: 29 October 2026; doi:10.1038/s41560-026-02162-y Bifacial perovskite/silicon tandem solar cells are promising for high area-normalized power output, but factors governing the photothermal stability of perovskite absorbers remains unclear. Xu et al. identify lattice co",
+        "title_cn": "钙钛矿晶格合规性可实现高效稳定的双面钙钛矿/硅串联光伏"
+      },
       {
         "title": "Structural improvements to address energy poverty had most substantial thermal comfort and health effects",
         "link": "https://www.nature.com/articles/s41560-026-02145-z",
@@ -164,34 +185,19 @@
         "pubDate": "2026-10-05",
         "description": "Nature Energy, Published online: 05 October 2026; doi:10.1038/s41560-026-02147-x Clean energy systems rely on large amounts of minerals. Here the researchers show that meeting EU solar and wind targets will create high demand for copper, zinc, silicon and rare earth elements, especially when offshor",
         "title_cn": "从千兆瓦到欧盟太阳能和风能的关键矿产需求"
-      },
-      {
-        "title": "A Ni(OH) 2 symmetric battery cell for hydroxide exchange membrane-based direct air capture of CO 2",
-        "link": "https://www.nature.com/articles/s41560-026-02129-z",
-        "pubDate": "2026-09-22",
-        "description": "Nature Energy, Published online: 22 September 2026; doi:10.1038/s41560-026-02129-z Electrochemical carbon capture promises low-energy direct air capture (DAC), but demonstrations are often confined to small devices and short lifetimes. Here the authors report a 25-cm2 symmetric nickel hydroxide DAC ",
-        "title_cn": "用于基于氢氧化物交换膜的二氧化碳直接空气捕获的Ni (OH) 2对称电池单元"
-      },
-      {
-        "title": "Rethink data centre planning",
-        "link": "https://www.nature.com/articles/s41560-026-02146-y",
-        "pubDate": "2026-09-21",
-        "description": "Nature Energy, Published online: 21 September 2026; doi:10.1038/s41560-026-02146-y The rapid expansion of data centres is challenging power systems and planning processes to keep pace.",
-        "title_cn": "重新思考数据中心规划"
-      },
-      {
-        "title": "Spatially informed policies can accelerate green hydrogen demand",
-        "link": "https://www.nature.com/articles/s41560-026-02139-x",
-        "pubDate": "2026-09-17",
-        "description": "Nature Energy, Published online: 17 September 2026; doi:10.1038/s41560-026-02139-x Realized green hydrogen demand lags behind policy targets but could be accelerated by accounting for spatial spillovers, which refer to demand-side interdependencies where adoption by one user encourages further adopt",
-        "title_cn": "空间明智的政策可以加速绿色氢需求"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 - 国际风电网",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Ri1DZGtXY3FKQy1pdFpyTmlnMEdBVnFqSnd4YldKVE1OVUthWThkeWx1amlyeDVNRDdlbnFmUk1mSExKOUJlOFAwRDJodzAzRlhyVmdidV9VQQ?oc=5",
+        "pubDate": "Thu, 29 Oct 2026 10:23:34 GMT",
+        "description": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 &nbsp;&nbsp; 国际风电网"
+      },
       {
         "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
@@ -217,12 +223,6 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "深化新能源及氢能储能新等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6YUJxM2VfMDhESjBOYldKQzNHNmRJSTNPNGVMYlREUC12UGREYWIxZjYtQ1pWRTNnMlpGU1plbmp3bDhubk4yQVBhY25nRVpUN3NBVEtzX2xpdkhpSWtMSnRrNWVXdkJf?oc=5",
-        "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-        "description": "深化新能源及氢能储能新等领域合作！倪真与中国石油党组书记、董事长戴厚良会谈 &nbsp;&nbsp; 国际新能源网"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Teresa Ribera Urges EU Countries to Implement Green Hydrogen Mandates as Post-2030 Targets Face Review",
-        "link": "https://fuelcellsworks.com/2026/10/28/h2/teresa-ribera-urges-eu-countries-to-implement-green-hydrogen-mandates-as-post-2030-targets-face-review",
-        "pubDate": "Wed, 28 Oct 2026 17:58:40 GMT",
+        "title": "Total Hydrogen Solutions Selects American Honda Motor Company Inc. For Fuel Cell Hydrogen Generator",
+        "link": "https://fuelcellsworks.com/2026/10/29/news/total-hydrogen-solutions-selects-american-honda-motor-company-inc-for-fuel-cell-hydrogen-generator",
+        "pubDate": "Thu, 29 Oct 2026 16:31:24 GMT",
         "description": "",
-        "title_cn": "特蕾莎·里贝拉（ Teresa Ribera ）敦促欧盟国家实施绿色氢能任务，因为2030年后的目标面临审查"
+        "title_cn": "Total Hydrogen Solutions选择美国本田汽车公司生产燃料电池氢气发生器"
       },
       {
-        "title": "Thyssenkrupp Nucera : Three Things Europe Needs to Turn Hydrogen Ambition Into Industrial Reality",
-        "link": "https://fuelcellsworks.com/2026/10/28/electrolyzer/thyssenkrupp-nucera-three-things-europe-needs-to-turn-hydrogen-ambition-into-industrial-reality",
-        "pubDate": "Wed, 28 Oct 2026 16:30:44 GMT",
+        "title": "Ecosuntek Plans 10MW Green Hydrogen Hub with 100MW Solar and 140MWh Storage in Tuscany",
+        "link": "https://fuelcellsworks.com/2026/10/28/green-hydrogen/ecosuntek-plans-10mw-green-hydrogen-hub-with-100mw-solar-and-140mwh-storage-in-tuscany",
+        "pubDate": "Thu, 29 Oct 2026 15:48:48 GMT",
         "description": "",
-        "title_cn": "蒂森克虏伯Nucera ：欧洲将氢能雄心变成工业现实需要的三件事"
+        "title_cn": "Ecosuntek计划在托斯卡纳建造10MW绿色氢气中心，配备100MW太阳能和140MWh储能"
       },
       {
-        "title": "Spain’s Renewable Hydrogen Pipeline Has 312 Projects Worth Over €25 Billion, But 2030 Forecast Drops to 7 GW",
-        "link": "https://fuelcellsworks.com/2026/10/27/electrolyzer/spain-s-renewable-hydrogen-pipeline-has-312-projects-worth-over-25-billion-but-2030-forecast-drops-to-7-gw",
-        "pubDate": "Wed, 28 Oct 2026 15:59:14 GMT",
+        "title": "Brazil’s Green Hydrogen Pipeline Tops R$115 Billion But Projects Still Waiting on Contracts and Financing",
+        "link": "https://fuelcellsworks.com/2026/10/27/h2/brazil-s-green-hydrogen-pipeline-tops-r-115-billion-but-projects-still-waiting-on-contracts-and-financing",
+        "pubDate": "Thu, 29 Oct 2026 15:38:58 GMT",
         "description": "",
-        "title_cn": "西班牙的可再生氢气管道有312个项目，价值超过250亿欧元，但2030年预测降至7吉瓦"
+        "title_cn": "巴西的绿色氢气管道高达1150亿雷亚尔，但项目仍在等待合同和融资"
       },
       {
-        "title": "ErreDue Wins €500,000 Contract to Supply Two PEM Electrolysers to Jewellery Manufacturer",
-        "link": "https://fuelcellsworks.com/2026/10/28/electrolyzer/erredue-wins-500-000-contract-to-supply-two-pem-electrolysers-to-jewellery-manufacturer",
-        "pubDate": "Wed, 28 Oct 2026 15:46:02 GMT",
+        "title": "Transition Industries Signs Definitive EPC Agreement with Siemens Energy and Techint E&C for Pacifico Mexinol’s 210 MW Electrolyzer Facility",
+        "link": "https://fuelcellsworks.com/2026/10/29/h2/transition-industries-signs-definitive-epc-agreement-with-siemens-energy-and-techint-e-and-c-for-pacifico-mexinol-s-210-mw-electrolyzer-facility",
+        "pubDate": "Thu, 29 Oct 2026 15:30:57 GMT",
         "description": "",
-        "title_cn": "ErreDue赢得€ 500,000的合同，为珠宝制造商提供两台PEM电解器"
+        "title_cn": "Transition Industries与西门子能源和Techint E&C签署Pacifico Mexinol 210兆瓦电解槽设施的最终EPC协议"
       },
       {
-        "title": "Dutch Minister Calls for Wider EU Green Hydrogen Mandates on Industrial Products",
-        "link": "https://fuelcellsworks.com/2026/10/28/h2/dutch-minister-calls-for-wider-eu-green-hydrogen-mandates-on-industrial-products",
-        "pubDate": "Wed, 28 Oct 2026 15:33:47 GMT",
+        "title": "Holborn Secures Hydrogen Connection to HH-WIN for the Production of Low-CO₂ Fuels",
+        "link": "https://fuelcellsworks.com/2026/10/28/h2/holborn-secures-hydrogen-connection-to-hh-win-for-the-production-of-low-co-fuels",
+        "pubDate": "Thu, 29 Oct 2026 15:21:17 GMT",
         "description": "",
-        "title_cn": "荷兰大臣呼吁欧盟对工业产品实施更广泛的绿色氢能法规"
+        "title_cn": "Holborn确保氢气与HH-WIN的连接，用于生产低二氧化碳燃料"
       },
       {
-        "title": "Fincantieri CEO Says Fifth Explora Journeys Ship Will Run on Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/10/26/h2/fincantieri-ceo-says-fifth-explora-journeys-ship-will-run-on-hydrogen",
-        "pubDate": "Wed, 28 Oct 2026 15:15:04 GMT",
+        "title": "Hyundai Motor Group to Unveil First Commercial Hydrogen Fuel Cell System",
+        "link": "https://fuelcellsworks.com/2026/10/28/fuel-cells/hyundai-motor-group-showcases-competitiveness-in-hydrogen-commercial-mobility",
+        "pubDate": "Thu, 29 Oct 2026 15:06:42 GMT",
         "description": "",
-        "title_cn": "Fincantieri首席执行官表示，第五艘Explora船将在氢气上运行"
+        "title_cn": "现代汽车集团将推出首个商用氢燃料电池系统"
       },
       {
-        "title": "Técnicas Reunidas Expands Its Presence in Africa with a Hydrogen Project in Ethiopia",
-        "link": "https://fuelcellsworks.com/2026/10/28/clean-energy/tecnicas-reunidas-expands-its-presence-in-africa-with-a-hydrogen-project-in-ethiopia",
-        "pubDate": "Wed, 28 Oct 2026 15:00:58 GMT",
+        "title": "Port of Amsterdam and Firan Waterstof Build Low-Pressure Hydrogen Network Targeting First Customers by 2030",
+        "link": "https://fuelcellsworks.com/2026/10/28/h2/port-of-amsterdam-and-firan-waterstof-build-low-pressure-hydrogen-network-targeting-first-customers-by-2030",
+        "pubDate": "Thu, 29 Oct 2026 15:04:32 GMT",
         "description": "",
-        "title_cn": "Técnicas Reunidas通过在埃塞俄比亚的氢项目扩大其在非洲的业务"
+        "title_cn": "阿姆斯特丹港和Firan Waterstof建造低压氢能网络，到2030年面向首批客户"
       },
       {
-        "title": "UK Scraps Planned Gas Levy for Hydrogen Subsidies and Shifts Costs to Public Funding",
-        "link": "https://fuelcellsworks.com/2026/10/28/h2/uk-scraps-planned-gas-levy-for-hydrogen-subsidies-and-shifts-costs-to-public-funding",
-        "pubDate": "Wed, 28 Oct 2026 14:47:14 GMT",
+        "title": "Singapore to Start Receiving and Using Green Ammonia, Hydrogen in 2026",
+        "link": "https://fuelcellsworks.com/2026/10/28/green-hydrogen/singapore-to-start-receiving-and-using-green-ammonia-hydrogen-in-2026",
+        "pubDate": "Thu, 29 Oct 2026 14:58:57 GMT",
         "description": "",
-        "title_cn": "英国取消计划的氢气补贴天然气税，并将成本转移到公共资金上"
+        "title_cn": "新加坡将于2026年开始接收和使用绿氨、氢气"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "policy_nea": {
     "items": [
@@ -391,50 +391,50 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
-      },
-      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
-        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "全球氢能产业平稳增长 中国绿氢产能占比过半 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU9QSzBYZ0k4bDlrRWhEb3BxVTRkRWJYZHNsYnR2LXZfWmkzb3Rfci1HTURqOHctelo5d0lENlQ0ZzFuVENoZm5VVkp0Q3YwcVBKRTB6QUR5TWdIRHhiRW9yc1pWOXJ1cEd1RFlIbEswaG9oZGxQTTZEZE44UE4zb0pR?oc=5",
-        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "description": "全球氢能产业平稳增长 中国绿氢产能占比过半 &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
+        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
+        "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
+        "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "国家能源局将启动氢能试点 并给予相应政策支持 - 财新",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZmYyX1VFbWNENzVNOVFSSThsVUYxSzJoVU1JUDFVc0RRY2wyQTR4ZmhKSlFhc2N0TlJLWnhISzhGa2NndjZlanpQTHJWMmpNbDY5X0Y1Yi0xZWR2ODhIWG5sNXk?oc=5",
+        "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT",
+        "description": "国家能源局将启动氢能试点 并给予相应政策支持 &nbsp;&nbsp; 财新"
+      },
+      {
+        "title": "国家发展改革委新闻发布会 介绍氢能产业发展中长期规划（2021—2035年）有关情况 - 中华人民共和国国家发展和改革委员会",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZ09xZlJWdGhMbkZlS0p2Zjh0aURDbV9tMUhWanI1LThNTXV5WW9xSDI3di1Wd2o3cDNsMXRSeUFxV2NVRHZnTUpEN092aTA3RHlibE9SMFVPNFR6RjBmSGlpNjFGQQ?oc=5",
+        "pubDate": "Tue, 22 Mar 2022 07:00:00 GMT",
+        "description": "国家发展改革委新闻发布会 介绍氢能产业发展中长期规划（2021—2035年）有关情况 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -443,6 +443,12 @@
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZVl2TGxsM1NlVmkzUGRhbVkwVTFFSEkwYm1faGJMRkcwMmhMNjQ0ZzdKX21MdTZCNGJnYVFwalFwVWpXUE95azJydGp2S2JhVzh0TXVNOHJzcXptZkJtek1QY2hvNFZy?oc=5",
         "pubDate": "Wed, 28 Oct 2026 08:59:52 GMT",
         "description": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
@@ -457,37 +463,31 @@
         "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 - https://www.gdshe.org/",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xem9QZ0FvT3ZyaHY3WURPQWNaWV9Vd0JONHBNT2t4dVUwNWdaa1R1SjJwSHBkUjVuQ2hkZVJKNFpFNm44blNURURsQ1FsSXNXbVE?oc=5",
-        "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
-        "description": "7月储能政策：储能正式进入“十五五”时间 虚拟电厂与绿电直连成热点 &nbsp;&nbsp; https://www.gdshe.org/"
-      },
-      {
         "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
         "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
         "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "国家终于启动绿氢氨醇SAF国内市场了 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04ZnFqV2NPd0xMY0EzNWMzN1pxNFBIX0U5WFB2aENmSWx5LVBEeHJRTjRUZjhlaU5vNlpRQnVnZUYzSTNyLS15WEhreHRjZkNiajZLUUhoNA?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "国家终于启动绿氢氨醇SAF国内市场了 &nbsp;&nbsp; 维科号"
-      },
-      {
         "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
         "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
         "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+      },
+      {
+        "title": "国家终于启动绿氢氨醇SAF国内市场了 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04ZnFqV2NPd0xMY0EzNWMzN1pxNFBIX0U5WFB2aENmSWx5LVBEeHJRTjRUZjhlaU5vNlpRQnVnZUYzSTNyLS15WEhreHRjZkNiajZLUUhoNA?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "国家终于启动绿氢氨醇SAF国内市场了 &nbsp;&nbsp; 维科号"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-29 07:53 UTC"
+    "updated": "2026-10-29 19:21 UTC"
   }
 }
