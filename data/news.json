@@ -9,6 +9,13 @@
         "title_cn": "即使是巨大的黑洞也无法解释暗物质"
       },
       {
+        "title": "How the US mid-term elections could shake up science",
+        "link": "https://www.nature.com/articles/d41586-026-03479-0",
+        "pubDate": "2026-10-29",
+        "description": "Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration’s controversial grant-review plan and curb some of its funding actions.",
+        "title_cn": "美国中期选举如何撼动科学"
+      },
+      {
         "title": "Switchable Chlorine Atom Transfer Radical Reactions",
         "link": "https://www.nature.com/articles/s41586-026-11348-z",
         "pubDate": "2026-10-28",
@@ -49,25 +56,46 @@
         "pubDate": "2026-10-28",
         "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.",
         "title_cn": "在我们出生的时候，大脑会清除数十亿个突变神经元"
-      },
-      {
-        "title": "Daily briefing: The big push to personalize psychiatry",
-        "link": "https://www.nature.com/articles/d41586-026-03531-z",
-        "pubDate": "2026-10-28",
-        "description": "Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03531-z A data-driven approach could match treatments to individuals with more precision. Plus, funders in Europe are backing preprint-led publishing and whether professors should care about student evaluations.",
-        "title_cn": "每日简报：大力推动个性化精神病学"
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "It’s Not Enough To Electrify More. We Must Electrify Better.",
+        "link": "https://cleantechnica.com/2026/10/29/its-not-enough-to-electrify-more-we-must-electrify-better/",
+        "pubDate": "Fri, 30 Oct 2026 01:03:38 +0000",
+        "description": "EVs and other electric products are emerging not only as a climate strategy but also as a question of affordability, economic competitiveness, public health, consumer experience, energy security, and resilience to volatile fuel markets. At 5 a.m., an electric bus glides out of its depot after chargi",
+        "title_cn": "这还不足以让更多电气化。我们必须更好地电气化。"
+      },
+      {
+        "title": "Volkswagen Q3 Loss Largest Since Dieselgate",
+        "link": "https://cleantechnica.com/2026/10/29/volkswagen-q3-loss-largest-since-dieselgate/",
+        "pubDate": "Thu, 29 Oct 2026 23:44:37 +0000",
+        "description": "The Volkswagen Group on Thursday posted its worst quarterly numbers in more than a decade. According to German news source DW, the company reported an operating loss of €5.86 billion for the period July 1 through September 30, 2027. A massive write down of its stake in Porsche was responsible ... [c",
+        "title_cn": "自Dieselgate以来大众Q3损失最大"
+      },
+      {
+        "title": "Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone",
+        "link": "https://cleantechnica.com/2026/10/29/ford-fathom-bidirectional-ev-charging-utilites/",
+        "pubDate": "Thu, 29 Oct 2026 21:32:02 +0000",
+        "description": "The new Ford Fathom electric pickup truck is still under camouflage, but Ford wants everyone to know about its built-in inverter for bidirectional EV charging. The post Ford Wants Utilities To Help Make Bidirectional EV Charging Cheaper For Everyone appeared first on CleanTechnica .",
+        "title_cn": "福特希望通过公用事业为所有人提供更便宜的双向电动汽车充电服务"
+      },
+      {
+        "title": "XPENG L05 Offers A Bit More",
+        "link": "https://cleantechnica.com/2026/10/29/xpeng-l05-offers-a-bit-more/",
+        "pubDate": "Thu, 29 Oct 2026 19:30:54 +0000",
+        "description": "XPENG recently launched sales of the new L05 in China and began shipments to global markets. Having seen a camouflaged prototype in Munich a few months ago, I had the impression that it was basically a longer L03. Looking at the production model, other than a few added features and ... [continued] T",
+        "title_cn": "XPENG L05提供更多"
+      },
       {
         "title": "Ireland’s Grid Flexibility Assessment Shows Why Location Matters",
         "link": "https://cleantechnica.com/2026/10/29/grid-flexibility-location-ireland-naas/",
@@ -95,38 +123,10 @@
         "pubDate": "Thu, 29 Oct 2026 14:04:15 +0000",
         "description": "Something I learned from my trip to China: you can be fast followers if you&#8217;re willing to learn from the best. Sometimes a bit of distance can improve your perspective. Walking down the silent streets of Beijing I listened to the future of mobility. Statistics can’t convey the silence of ... [",
         "title_cn": "如果欧洲想挽救其产业，它可以从中国学到什么"
-      },
-      {
-        "title": "Construction Materials Stand Out At Greenbuild 2026",
-        "link": "https://cleantechnica.com/2026/10/28/construction-materials-stand-out-at-greenbuild-2026/",
-        "pubDate": "Thu, 29 Oct 2026 01:25:59 +0000",
-        "description": "Last week, I attended Greenbuild International Conference + Expo 2026 in the North Hall of the Javits Center here in NYC. After being overwhelmed by shows like CES and InterSolar Europe, the smaller scale of Greenbuild was a welcome break. At the show, there were a few heat pumps and ... [continued]",
-        "title_cn": "建筑材料在Greenbuild 2026中脱颖而出"
-      },
-      {
-        "title": "Nearly Half of EU Cities Do Not Yet Meet New Clean Air Standards: Report Shows Collaboration Is Key",
-        "link": "https://cleantechnica.com/2026/10/28/nearly-half-of-eu-cities-do-not-yet-meet-new-clean-air-standards-report-shows-collaboration-is-key/",
-        "pubDate": "Thu, 29 Oct 2026 00:46:19 +0000",
-        "description": "BRUSSELS — Almost half of EU cities exceed air pollution limits set by a landmark EU clean air law, according to a new report from ClientEarth and World Resources Institute (WRI). The report raises concerns about the level of preparedness in cities across the bloc and outlines the changes needed ...",
-        "title_cn": "近一半的欧盟城市尚未达到新的清洁空气标准：报告显示合作是关键"
-      },
-      {
-        "title": "Trump Rolling Back Methane Pollution Safeguards",
-        "link": "https://cleantechnica.com/2026/10/28/trump-rolling-back-methane-pollution-safeguards/",
-        "pubDate": "Thu, 29 Oct 2026 00:42:54 +0000",
-        "description": "The Trump administration has already delayed implementation of the critical standards for year+ Washington, DC — Last night during a rally in Texas, Donald Trump announced that the U.S. Environmental Protection Agency would roll back safeguards finalized in 2024 to limit methane pollution from the o",
-        "title_cn": "特朗普减少甲烷污染保障措施"
-      },
-      {
-        "title": "Waymo for Business | Ramp",
-        "link": "https://cleantechnica.com/2026/10/28/waymo-for-business-ramp/",
-        "pubDate": "Thu, 29 Oct 2026 00:37:38 +0000",
-        "description": "Today, we’re announcing that Waymo for Business is integrated with Ramp, making it easier for organizations and their employees to manage expenses when using our fully autonomous ride-hailing service. For over a year, Waymo for Business has offered 24/7 reliability and convenience directly to organi",
-        "title_cn": ""
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "energy_cn": {
     "items": [
@@ -207,7 +207,7 @@
       {
         "title": "填补行业空白！可再生能源电解水制氢专项国家标准发布 - 中国能源新闻网",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcFhrcElTZkwxaVVDeEdpWjB5dmZpS1dIbFJuQzJlcndQV0tIYm5UcDN2OGN0WUUzOW8yN09jYkxObVp2RFJIemY5aFFaWW9OVW1mWEx1SkNMRmlLTDhLVDVHRlJmdmpXNVdqQXJR?oc=5",
-        "pubDate": "Wed, 21 Oct 2026 10:43:22 GMT",
+        "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
         "description": "填补行业空白！可再生能源电解水制氢专项国家标准发布 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
@@ -223,12 +223,6 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
-      },
-      {
         "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
         "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
@@ -239,10 +233,16 @@
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-        "link": "https://arxiv.org/abs/2610.37649v1",
-        "pubDate": "2026-10-27T17:57:00Z",
-        "description": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier objects falling more slowly, and discover the law through experiments without bei",
-        "title_cn": "法学硕士可以通过自由探索发现隐藏的物理定律吗？"
-      },
-      {
-        "title": "Applications of the fixed point theorem for mappings contracting perimeters of triangles: ODEs, PDEs, integer and difference equations",
-        "link": "https://arxiv.org/abs/2610.37644v1",
-        "pubDate": "2026-10-27T17:55:35Z",
-        "description": "Mappings contracting perimeters of triangles are Banach contractions whenever every point of the underlying metric space is an accumulation point. Consequently, applying the perimeter-contraction theorem on a complete metric space without isolated points yields an existence result already covered by",
-        "title_cn": "不动点定理在三角形周长收缩映射中的应用： ODE、PDE、整数和差分方程"
-      },
-      {
-        "title": "Iwahori Whittaker functions for unramified quasi-split groups",
-        "link": "https://arxiv.org/abs/2610.37614v1",
-        "pubDate": "2026-10-27T17:42:07Z",
-        "description": "Let $\\mathbf{G}$ be a connected unramified quasi-split reductive group defined over a nonarchimedean local field $F$. This paper concerns the Iwahori Whittaker functions attached to the unramified principal series of $\\mathbf{G}(F)$. We introduce Demazure-Whittaker operators and show that in the non",
-        "title_cn": "Iwahori Whittaker函数用于未分解的准分裂群"
-      },
-      {
-        "title": "The UKIRT M33 Monitoring Project - VII. A 15-year K-band photometric catalogue of long-period variable stars in the central kiloparsec of M33",
-        "link": "https://arxiv.org/abs/2610.37591v1",
-        "pubDate": "2026-10-27T17:27:53Z",
-        "description": "We present a homogenised K-band photometric catalogue for the central ${\\approx}12$ arcmin$^2$ (${\\approx}0.9$ kpc$^2$) of the Triangulum spiral galaxy M33, combining four independent PSF-based near-infrared datasets obtained with UKIRT between 2003 and 2018. These comprise the 2003-2007 UIST multi-",
-        "title_cn": "UKIRT M33监测项目- VII. M33中心千秒差距的长周期变星15年K波段光度目录"
-      },
-      {
-        "title": "A Systematic Assessment of Artificial Flame Thickening for Thermodiffusively Unstable Lean Hydrogen Flames in Homogeneous Isotropic Turbulence",
-        "link": "https://arxiv.org/abs/2610.37577v1",
-        "pubDate": "2026-10-27T17:20:12Z",
-        "description": "The Artificially Thickened Flame (ATF) approach is widely used to render premixed flames resolvable on coarse computational meshes, but thickening alters their interaction with turbulence. While considerable research has focused on the effects of thickening on turbulence-induced flame wrinkling, its",
-        "title_cn": "均匀各向同性湍流中热扩散不稳定贫氢火焰人工火焰增稠的系统评估"
-      },
-      {
-        "title": "Effects of Dust in Electron-Capture Supernovae: Difficulty in Explaining Intermediate Luminosity Red Transients",
-        "link": "https://arxiv.org/abs/2610.37574v1",
-        "pubDate": "2026-10-27T17:18:50Z",
-        "description": "The progenitors of intermediate-luminosity red transients (ILRTs) spanning the luminosity gap between novae and supernovae are under debate, and electron-capture supernovae (ECSNe) have been proposed as a strong candidate. ECSNe from super asymptotic giant branch (super-AGB) stars have been theoreti",
-        "title_cn": "电子捕获超新星中粉尘的影响：难以解释中等亮度红色瞬变"
-      },
-      {
-        "title": "Pneuma: A Large-Scale Real-World Time Series Benchmark for Commercial Aircraft Predictive Maintenance",
-        "link": "https://arxiv.org/abs/2610.37563v1",
-        "pubDate": "2026-10-27T17:09:19Z",
-        "description": "Predictive maintenance is vital for commercial aviation, yet progress remains hindered by the lack of public, large-scale real-world datasets. As a result, most methods are developed and evaluated on proprietary data, limiting reproducibility. We introduce Pneuma, the first publicly available large-",
-        "title_cn": "Pneuma ：商用飞机预测性维护的大规模实时时间序列基准"
-      },
-      {
-        "title": "GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\\times$ Length Extrapolation in Linear Time",
-        "link": "https://arxiv.org/abs/2610.37524v1",
-        "pubDate": "2026-10-27T16:45:29Z",
-        "description": "Self-attention mechanisms have established the Transformer as the dominant backbone across natural language processing, source code intelligence, and automated theorem proving. However, all-to-all pairwise token comparison enforces a quadratic $\\mathcal{O}(N^2)$ compute and memory barrier alongside ",
-        "title_cn": "GTFormer ：线性时间内8192 $\\ times $长度外推变压器的无语法图网络替代方案"
-      },
-      {
-        "title": "Coordinated and Uncoordinated Channel Tracking for High-Rate IoT in Distributed Massive MIMO With Low-Resolution ADCs",
-        "link": "https://arxiv.org/abs/2610.37508v1",
-        "pubDate": "2026-10-27T16:30:07Z",
-        "description": "This paper investigates dynamic channel tracking for high-rate Internet of things (IoT) in distributed massive multiple-input multiple-output (mMIMO) with low-resolution analog-to-digital converters (ADCs), where pilot and data activities are decoupled, pilots are reused, and mobile channels evolve ",
-        "title_cn": "使用低分辨率ADC在分布式大规模MIMO中实现高速率物联网的协调和非协调信道跟踪"
-      },
-      {
-        "title": "Quasinormal Ringing of a Schwarzschild Black Hole Surrounded by a King Dark Matter Halo: Higher-Order WKB Analysis",
-        "link": "https://arxiv.org/abs/2610.37501v1",
-        "pubDate": "2026-10-27T16:24:47Z",
-        "description": "We study scalar and electromagnetic perturbations of a Schwarzschild black hole (BH) surrounded by a dark matter halo described by the King density profile. The lapse function can be expressed as $1-2[M+M_{\\rm DM}(r)]/r$, where $M_{\\rm DM}(r)$ is the halo mass enclosed within radius $r$; thus, the h",
-        "title_cn": "被King Dark Matter Halo包围的Schwarzschild黑洞的准正态环：高阶WKB分析"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,15 +363,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZVl2TGxsM1NlVmkzUGRhbVkwVTFFSEkwYm1faGJMRkcwMmhMNjQ0ZzdKX21MdTZCNGJnYVFwalFwVWpXUE95azJydGp2S2JhVzh0TXVNOHJzcXptZkJtek1QY2hvNFZy?oc=5",
-        "pubDate": "Wed, 28 Oct 2026 08:59:52 GMT",
-        "description": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 &nbsp;&nbsp; 国际新能源网"
+        "title": "国家发改委、能源局正式批准！南方区域电力市场转正 - 国际风电网",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Odm9ROURLTU1idXZjMnNMaHFDazlZc0JHWHJwRmNpdmd3ZEFBakVjdzY3YkxYUmlzdUVzdGxBLVRGS0NHMEg1c0liN3NCalRKTkoxZFQwWFdKZw?oc=5",
+        "pubDate": "Thu, 29 Oct 2026 14:14:59 GMT",
+        "description": "国家发改委、能源局正式批准！南方区域电力市场转正 &nbsp;&nbsp; 国际风电网"
+      },
+      {
+        "title": "今年家电以旧换新累计超1亿台 - 北京商报",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15RFV6Z19FZDI5RV9OWGpMR0lCeVY5NlFGM0dfX1lQVTVxOG9sTE5XMmk1UEVBQy1PMkk0ckVISkdMaXYwcXQ3RTJRZDIyM2VzZm5BUy1lREdXaWR6eWZz?oc=5",
+        "pubDate": "Mon, 26 Oct 2026 16:11:00 GMT",
+        "description": "今年家电以旧换新累计超1亿台 &nbsp;&nbsp; 北京商报"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -451,43 +386,37 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm4wczBsU1NMSzI1NnFqOS13b0xCZG1WWi01c0diMmZ6R2J1OXJJcTR1aGNoLTlXaVBEVm02WUNmRmhBdnd0N3BETXVoeWUwMmF3THUxNzBYY0ZPR2Y1X1pYUkdmOUliNGxmM0tWbU5xQUhXanBkdl9xTGotcWFUVEVR?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
-        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+        "title": "国家能源局：9月中国绿证价格指数收于190.5点 - 中国碳排放交易网",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpUU1DekltV2pZT3pQTnl0Z2xpVWpjU083bFB6M1VNZk1ROVlfTkdjbkVhMi1QUkRaZ3ItYlBaVU1GaktSVDFWNTNWdnBkdlpsMVE0MWJXWFN1eERhTXdla2pjN3A?oc=5",
+        "pubDate": "Mon, 26 Oct 2026 02:20:00 GMT",
+        "description": "国家能源局：9月中国绿证价格指数收于190.5点 &nbsp;&nbsp; 中国碳排放交易网"
       },
       {
-        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
+        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
       },
       {
-        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+        "title": "光伏产业趋势与铝机遇：绿色能源时代的协同发展【铝产业年会】 - 上海有色金属网",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mWWNHTGMxSllZeDhJRkUtUUNKOVpTbmFwUTRBWlM1eVJPMUh5TVVOQlhVdjhZSjFXOHlfUFZvRWlrYXhSVnJfOUFR?oc=5",
+        "pubDate": "Tue, 27 Oct 2026 08:05:05 GMT",
+        "description": "光伏产业趋势与铝机遇：绿色能源时代的协同发展【铝产业年会】 &nbsp;&nbsp; 上海有色金属网"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
-      },
-      {
-        "title": "国家终于启动绿氢氨醇SAF国内市场了 - 维科号",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04ZnFqV2NPd0xMY0EzNWMzN1pxNFBIX0U5WFB2aENmSWx5LVBEeHJRTjRUZjhlaU5vNlpRQnVnZUYzSTNyLS15WEhreHRjZkNiajZLUUhoNA?oc=5",
-        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-        "description": "国家终于启动绿氢氨醇SAF国内市场了 &nbsp;&nbsp; 维科号"
+        "title": "北京市政府常务会议图解：研究“十五五”时期新型能源体系建设 - 中国碳排放交易网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmMzS181NFBWclV1am1uN3JlSGxwZElyeDktR2NtVS1UbW5fQ3hMclRMNHB1bVJZUk5Qc2RIX0d4TVZ6TlpTbWdwUmc2LXFneW4yRDNwSlFPWWJvSmprTWY0TXpmdDg0?oc=5",
+        "pubDate": "Thu, 29 Oct 2026 13:13:00 GMT",
+        "description": "北京市政府常务会议图解：研究“十五五”时期新型能源体系建设 &nbsp;&nbsp; 中国碳排放交易网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-29 19:21 UTC"
+    "updated": "2026-10-30 01:29 UTC"
   }
 }
