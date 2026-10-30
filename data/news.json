@@ -59,15 +59,43 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Big Oil Cashes in on Trump Campaign Investment, Doubles Earnings Compared to Last Year",
+        "link": "https://cleantechnica.com/2026/10/29/big-oil-cashes-in-on-trump-campaign-investment-doubles-earnings-compared-to-last-year/",
+        "pubDate": "Fri, 30 Oct 2026 03:25:13 +0000",
+        "description": "Washington, DC — Big Oil companies have begun to release their quarterly earnings. Shell reported today that it nearly doubled its earnings from the same quarter last year and that Q3 of 2026 was its highest earning quarter since 2022, following Russia’s invasion of Ukraine. Combined earnings with o",
+        "title_cn": "大型石油公司兑现特朗普竞选投资，收入与去年相比翻了一番"
+      },
+      {
+        "title": "Eugene Becomes 5th Oregon City to Adopt Home Energy Score Requirement",
+        "link": "https://cleantechnica.com/2026/10/29/eugene-becomes-5th-oregon-city-to-adopt-home-energy-score-requirement/",
+        "pubDate": "Fri, 30 Oct 2026 03:22:18 +0000",
+        "description": "Energy Audits Support Emissions Reductions and Energy Efficiency Upgrades Eugene, Oregon — In a 6-1 vote on Wednesday, October 28th, the Eugene City Council adopted the Residential Energy Performance Disclosure Requirement ordinance, a policy commonly referred to as a Home Energy Score requirement. ",
+        "title_cn": "尤金成为俄勒冈州第五个采用家庭能源分数要求的城市"
+      },
+      {
+        "title": "The Zombie Engine: How Brussels Bureaucrats Are Breathing False Life Into Combustion",
+        "link": "https://cleantechnica.com/2026/10/29/the-zombie-engine-how-brussels-bureaucrats-are-breathing-false-life-into-combustion/",
+        "pubDate": "Fri, 30 Oct 2026 01:32:43 +0000",
+        "description": "If you poured rapeseed oil into a combustion engine and declared it a &#8220;zero-emission vehicle,&#8221; you would be laughed at. But in the EU Parliament, this fiction is being drafted into law. If you poured rapeseed oil into a combustion engine, watched toxic exhaust billow from the tailpipe, a",
+        "title_cn": "僵尸引擎：布鲁塞尔官僚如何将虚假生命呼吸到燃烧中"
+      },
+      {
+        "title": "Misconceptions about Mobility Growth",
+        "link": "https://cleantechnica.com/2026/10/29/misconceptions-about-mobility-growth/",
+        "pubDate": "Fri, 30 Oct 2026 01:22:18 +0000",
+        "description": "Higher speed is the main cause of mobility growth. When people go faster, they will travel further. This is the shortest summary of the history of passenger mobility. An illustrative example is the high-speed rail connection between Paris and Lyon. After its opening in 1981, commuters were able to t",
+        "title_cn": "对流动性增长的误解"
+      },
       {
         "title": "It’s Not Enough To Electrify More. We Must Electrify Better.",
         "link": "https://cleantechnica.com/2026/10/29/its-not-enough-to-electrify-more-we-must-electrify-better/",
@@ -95,38 +123,10 @@
         "pubDate": "Thu, 29 Oct 2026 19:30:54 +0000",
         "description": "XPENG recently launched sales of the new L05 in China and began shipments to global markets. Having seen a camouflaged prototype in Munich a few months ago, I had the impression that it was basically a longer L03. Looking at the production model, other than a few added features and ... [continued] T",
         "title_cn": "XPENG L05提供更多"
-      },
-      {
-        "title": "Ireland’s Grid Flexibility Assessment Shows Why Location Matters",
-        "link": "https://cleantechnica.com/2026/10/29/grid-flexibility-location-ireland-naas/",
-        "pubDate": "Thu, 29 Oct 2026 16:59:03 +0000",
-        "description": "Ireland's Naas substation shows why flexible batteries and loads must match the location, timing and operating conditions of grid constraints. The post Ireland&#8217;s Grid Flexibility Assessment Shows Why Location Matters appeared first on CleanTechnica .",
-        "title_cn": "爱尔兰电网灵活性评估显示了位置的重要性"
-      },
-      {
-        "title": "Sure Looks Like Trump Loves EVs After All",
-        "link": "https://cleantechnica.com/2026/10/29/battman-batteries-evs-energy-storage-us-trump/",
-        "pubDate": "Thu, 29 Oct 2026 14:25:06 +0000",
-        "description": "Despite Trump's war on EVs, the US Department of Energy has launched the new \"BattMan\" battery innovation accelerator led by experts at the Pacific Northwest National Laboratory. The post Sure Looks Like Trump Loves EVs After All appeared first on CleanTechnica .",
-        "title_cn": "当然，看起来特朗普毕竟喜欢电动汽车"
-      },
-      {
-        "title": "Scaling European Battery Recycling via the Circular Economy Act",
-        "link": "https://cleantechnica.com/2026/10/29/scaling-european-battery-recycling-via-the-circular-economy-act/",
-        "pubDate": "Thu, 29 Oct 2026 14:08:52 +0000",
-        "description": "Ahead of the Circular Economy Act, a joint letter from T&#38;E, Recharge, Clean Tech for Europe and EIES calls for concrete measures to support the effective scaling of Europe’s material recovery and recycling capacity. Recovering materials from end-of-life batteries is a key means to secure much ne",
-        "title_cn": "通过《循环经济法》扩大欧洲电池回收规模"
-      },
-      {
-        "title": "What Europe Can Learn From China If It Wants To Save Its Industry",
-        "link": "https://cleantechnica.com/2026/10/29/what-europe-can-learn-from-china-if-it-wants-to-save-its-industry/",
-        "pubDate": "Thu, 29 Oct 2026 14:04:15 +0000",
-        "description": "Something I learned from my trip to China: you can be fast followers if you&#8217;re willing to learn from the best. Sometimes a bit of distance can improve your perspective. Walking down the silent streets of Beijing I listened to the future of mobility. Statistics can’t convey the silence of ... [",
-        "title_cn": "如果欧洲想挽救其产业，它可以从中国学到什么"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,15 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 - 国际风电网",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Ri1DZGtXY3FKQy1pdFpyTmlnMEdBVnFqSnd4YldKVE1OVUthWThkeWx1amlyeDVNRDdlbnFmUk1mSExKOUJlOFAwRDJodzAzRlhyVmdidV9VQQ?oc=5",
-        "pubDate": "Thu, 29 Oct 2026 10:23:34 GMT",
-        "description": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 &nbsp;&nbsp; 国际风电网"
+        "title": "能源领域院士推荐（全球名人邀约平台院士推荐） - 中华网",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXX19NQ3p1dU9TV3ozNk1USS1sZWlNZGgwVGhXblVsS1B4UFpKQmN6UmdBVE5Qa2xGWW13ZHBTWXVjTjNuVURqMTB1RlgzZEpLOG53WUR1cUo2UzlXV05HSC1ubGp3VzU1Z3dVeA?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 05:45:26 GMT",
+        "description": "能源领域院士推荐（全球名人邀约平台院士推荐） &nbsp;&nbsp; 中华网"
       },
       {
         "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
@@ -205,10 +205,10 @@
         "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "填补行业空白！可再生能源电解水制氢专项国家标准发布 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcFhrcElTZkwxaVVDeEdpWjB5dmZpS1dIbFJuQzJlcndQV0tIYm5UcDN2OGN0WUUzOW8yN09jYkxObVp2RFJIemY5aFFaWW9OVW1mWEx1SkNMRmlLTDhLVDVHRlJmdmpXNVdqQXJR?oc=5",
-        "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
-        "description": "填补行业空白！可再生能源电解水制氢专项国家标准发布 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 - 国际风电网",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Ri1DZGtXY3FKQy1pdFpyTmlnMEdBVnFqSnd4YldKVE1OVUthWThkeWx1amlyeDVNRDdlbnFmUk1mSExKOUJlOFAwRDJodzAzRlhyVmdidV9VQQ?oc=5",
+        "pubDate": "Thu, 29 Oct 2026 10:23:34 GMT",
+        "description": "中国能建与鉴衡认证在京座谈，共推风电产业“生态出海”与产学研协同 &nbsp;&nbsp; 国际风电网"
       },
       {
         "title": "氢能产业正走向“精选赛道” - 中国石化新闻网",
@@ -235,14 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,12 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "papers": {
-    "items": [],
+    "items": [
+      {
+        "title": "Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits",
+        "link": "https://arxiv.org/abs/2610.40638v1",
+        "pubDate": "2026-10-29T17:58:29Z",
+        "description": "Stochastic resetting drives quantum systems into nonequilibrium stationary states unreachable under uninterrupted unitary evolution, and their entanglement depends on whether the reset history is resolved or averaged over. We study this interplay in the transverse-field Ising chain, deriving closed-",
+        "title_cn": "随机重置稳态的纠缠诊断：超导量子比特的理论与测量"
+      },
+      {
+        "title": "How many mutations does it take to evolve a new function?",
+        "link": "https://arxiv.org/abs/2610.40635v1",
+        "pubDate": "2026-10-29T17:58:14Z",
+        "description": "Biochemical and genetic networks in cells evolve to produce new functions. Evolution is guided by the genotype to phenotype map which describes how mutations at the molecular scale lead to changes in network function at the cellular scale. The number of genotypes is astronomically large which makes ",
+        "title_cn": "进化新功能需要多少突变？"
+      },
+      {
+        "title": "Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold",
+        "link": "https://arxiv.org/abs/2610.40631v1",
+        "pubDate": "2026-10-29T17:57:40Z",
+        "description": "When a static, spherically symmetric configuration is brought close to a marginal-trapping threshold, it develops a long throat. As the nondegenerate minimum of $F=1-2m/r$ approaches zero, $F\\simeqΔ+β(r-R_M)^2$, the proper length across the throat grows as $-\\lnΔ/\\sqrtβ$, even though the local curva",
+        "title_cn": "边缘捕获阈值处对数喉咙的引力波回波和灰体截止"
+      },
+      {
+        "title": "The Conditional CMB Visibility of High-Redshift X-Ray Cavities in Galaxy clusters",
+        "link": "https://arxiv.org/abs/2610.40610v1",
+        "pubDate": "2026-10-29T17:53:12Z",
+        "description": "At high redshift, the cosmic microwave background (CMB) both cools relativistic leptons and provides seed photons for inverse-Compton (IC) X-ray emission. These two effects link the particle content of a bubble directly to the soft X-ray depression used to identify a cavity. We derive a physical cri",
+        "title_cn": "星系团中高红移X射线腔的条件CMB可见性"
+      },
+      {
+        "title": "From Dispersion to Metallicity: Probing the Milky Way Circumgalactic Medium with Fast Radio Bursts",
+        "link": "https://arxiv.org/abs/2610.40609v1",
+        "pubDate": "2026-10-29T17:53:03Z",
+        "description": "Circumgalactic Medium (CGM) plays a critical role in galactic evolution, serving as the primary reservoir for accretion and outflows. In this work, we present a novel statistical analysis to derive CGM metallicity from the dispersion measure (DM) of 25 Fast Radio Burst (FRB) sightlines. By combining",
+        "title_cn": "从色散到金属性：用快速射电暴探测银河系周围的介质"
+      },
+      {
+        "title": "Optimal detuning and gate time for strongly driven single-qubit gates beyond the rotating-wave approximation",
+        "link": "https://arxiv.org/abs/2610.40595v1",
+        "pubDate": "2026-10-29T17:49:56Z",
+        "description": "Single-qubit quantum gates are implemented as the time-controlled unitary evolution of a two-level system under harmonic driving. The rotating-wave approximation (RWA) provides closed-form gate parameters for weak coupling. Larger amplitudes, desirable to speed up the dynamics, make the RWA-designed",
+        "title_cn": "超出旋转波近似的强驱动单量子位栅的最佳失谐和栅极时间"
+      },
+      {
+        "title": "Probing fluctuations in photon emission statistics of spin injected quantum dots with time dependent electronic excitation",
+        "link": "https://arxiv.org/abs/2610.40593v1",
+        "pubDate": "2026-10-29T17:49:21Z",
+        "description": "Electrically spin-injected ensembles of InGaAs/GaAs quantum dots emit circularly polarized single photons, with the emission helicity determined by the spin polarization of the injected electrons. A ferromagnetic CoFeB spin-injection layer with perpendicular magnetic anisotropy, combined with an MgO",
+        "title_cn": "时间依赖电子激发下自旋注入量子点光子发射统计的波动探测"
+      },
+      {
+        "title": "Odd Elasticity in Strain-Gradient Continua: Anisotropy Classification and Non-Hermitian Elastodynamics",
+        "link": "https://arxiv.org/abs/2610.40581v1",
+        "pubDate": "2026-10-29T17:45:38Z",
+        "description": "Odd elasticity extends continuum mechanics to active nonconservative systems containing internal energy sources, such as robotic active metamaterials with nonreciprocal feedback. Modeling these systems as effective continua requires relaxing Maxwell-Betti reciprocity, which results in stiffness tens",
+        "title_cn": "应变梯度连续性中的奇弹性：各向异性分类和非埃尔米特弹性力学"
+      },
+      {
+        "title": "When Imputation Changes the Nearest Neighbor: Exact Certification of Similarity Retrieval for Incomplete Sensor Time Series",
+        "link": "https://arxiv.org/abs/2610.40579v1",
+        "pubDate": "2026-10-29T17:45:34Z",
+        "description": "Sensor time series routinely reach similarity search with missing values, and the retrieved neighbours then depend on how the gaps were filled. We ask which retrieval conclusions hold for every admissible completion of an incomplete query. For a family of window-minimum distances that contains the $",
+        "title_cn": "当推断改变最近邻居时：不完整传感器时间序列的相似性检索的确切证明"
+      },
+      {
+        "title": "On the Quantum Chromatic Gap II",
+        "link": "https://arxiv.org/abs/2610.40571v1",
+        "pubDate": "2026-10-29T17:44:20Z",
+        "description": "We confirm a conjecture of the first author [SODA'26] on a strong form of pseudo-telepathy for Khot's $d$-to-$1$ games: for every $d\\geq 4$, every $ε>0$, and every $k\\in\\mathbb N$, there is a $d$-to-$1$ label-cover game of classical value less than $ε$ that admits a perfect quantum strategy using fi",
+        "title_cn": "论量子色隙II"
+      }
+    ],
     "source": "arXiv",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "policy_nea": {
     "items": [
@@ -320,50 +391,50 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
+        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
+      },
+      {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
         "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
+        "title": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FYjM0WHEtR3Z0bEVZajFlNmRwRzJNeGZRZUJtcWlkR0tMcWZWOEs5OTZoQVBUT3FjYjZubkJrU010UDVPRzN5OEJ4N0hyUzNhMU91XzBB?oc=5",
+        "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+        "description": "国家能源局：公布43项氢能标准项目，涉及中国石油、中国石化、国家管网集团等 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "全球氢能产业平稳增长 中国绿氢产能占比过半 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU9QSzBYZ0k4bDlrRWhEb3BxVTRkRWJYZHNsYnR2LXZfWmkzb3Rfci1HTURqOHctelo5d0lENlQ0ZzFuVENoZm5VVkp0Q3YwcVBKRTB6QUR5TWdIRHhiRW9yc1pWOXJ1cEd1RFlIbEswaG9oZGxQTTZEZE44UE4zb0pR?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "全球氢能产业平稳增长 中国绿氢产能占比过半 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
-        "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
-        "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
-      },
-      {
-        "title": "国家能源局将启动氢能试点 并给予相应政策支持 - 财新",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZmYyX1VFbWNENzVNOVFSSThsVUYxSzJoVU1JUDFVc0RRY2wyQTR4ZmhKSlFhc2N0TlJLWnhISzhGa2NndjZlanpQTHJWMmpNbDY5X0Y1Yi0xZWR2ODhIWG5sNXk?oc=5",
-        "pubDate": "Wed, 11 Jun 2025 07:00:00 GMT",
-        "description": "国家能源局将启动氢能试点 并给予相应政策支持 &nbsp;&nbsp; 财新"
-      },
-      {
-        "title": "国家发展改革委新闻发布会 介绍氢能产业发展中长期规划（2021—2035年）有关情况 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZ09xZlJWdGhMbkZlS0p2Zjh0aURDbV9tMUhWanI1LThNTXV5WW9xSDI3di1Wd2o3cDNsMXRSeUFxV2NVRHZnTUpEN092aTA3RHlibE9SMFVPNFR6RjBmSGlpNjFGQQ?oc=5",
-        "pubDate": "Tue, 22 Mar 2022 07:00:00 GMT",
-        "description": "国家发展改革委新闻发布会 介绍氢能产业发展中长期规划（2021—2035年）有关情况 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -372,6 +443,12 @@
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Odm9ROURLTU1idXZjMnNMaHFDazlZc0JHWHJwRmNpdmd3ZEFBakVjdzY3YkxYUmlzdUVzdGxBLVRGS0NHMEg1c0liN3NCalRKTkoxZFQwWFdKZw?oc=5",
         "pubDate": "Thu, 29 Oct 2026 14:14:59 GMT",
         "description": "国家发改委、能源局正式批准！南方区域电力市场转正 &nbsp;&nbsp; 国际风电网"
+      },
+      {
+        "title": "2026“零碳使命”中国气候行动周在京启幕 - 碳道app",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZUnNBM00zTmh1ckpKa3RfZEVYTWc2RENQYno2RXN1dVVrb0RsSENJNGtjQnJZQ3BUZXVPVzFHenJxRjZmODMtdTVMZG96T0VvM2VNQjMtajlicERGUWc?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 00:10:00 GMT",
+        "description": "2026“零碳使命”中国气候行动周在京启幕 &nbsp;&nbsp; 碳道app"
       },
       {
         "title": "今年家电以旧换新累计超1亿台 - 北京商报",
@@ -398,25 +475,19 @@
         "description": "国家能源局：9月中国绿证价格指数收于190.5点 &nbsp;&nbsp; 中国碳排放交易网"
       },
       {
-        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
-        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
-      },
-      {
         "title": "光伏产业趋势与铝机遇：绿色能源时代的协同发展【铝产业年会】 - 上海有色金属网",
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mWWNHTGMxSllZeDhJRkUtUUNKOVpTbmFwUTRBWlM1eVJPMUh5TVVOQlhVdjhZSjFXOHlfUFZvRWlrYXhSVnJfOUFR?oc=5",
         "pubDate": "Tue, 27 Oct 2026 08:05:05 GMT",
         "description": "光伏产业趋势与铝机遇：绿色能源时代的协同发展【铝产业年会】 &nbsp;&nbsp; 上海有色金属网"
       },
       {
-        "title": "北京市政府常务会议图解：研究“十五五”时期新型能源体系建设 - 中国碳排放交易网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lYmMzS181NFBWclV1am1uN3JlSGxwZElyeDktR2NtVS1UbW5fQ3hMclRMNHB1bVJZUk5Qc2RIX0d4TVZ6TlpTbWdwUmc2LXFneW4yRDNwSlFPWWJvSmprTWY0TXpmdDg0?oc=5",
-        "pubDate": "Thu, 29 Oct 2026 13:13:00 GMT",
-        "description": "北京市政府常务会议图解：研究“十五五”时期新型能源体系建设 &nbsp;&nbsp; 中国碳排放交易网"
+        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-10-30 01:29 UTC"
+    "updated": "2026-10-30 07:56 UTC"
   }
 }
