@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
+        "link": "https://cleantechnica.com/2026/11/01/norway-hydrogen-bulk-carriers-battery-cost-test/",
+        "pubDate": "Sun, 01 Nov 2026 20:52:23 +0000",
+        "description": "Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to 24 marine fuel-cell units with 5.4 MW of combined installed capacity. The first two ships, rated at 4,",
+        "title_cn": "电池在两条建模路线上的成本超过了挪威的氢气散货船"
+      },
       {
         "title": "“Everything Trump Touches Dies” — A Warning For America",
         "link": "https://cleantechnica.com/2026/11/01/everything-trump-touches-dies-a-warning-for-america/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 31 Oct 2026 17:02:50 +0000",
         "description": "Katoen Natie has put two all-electric mobile harbour cranes into service at the Port of Antwerp, with four more joining them across three deep-sea multipurpose terminals. The completed fleet will include four 200-tonne cranes and two 150-tonne machines, with paired lifting capacity reaching 400 tonn",
         "title_cn": "安特卫普的电动起重机可以处理比今天更多的货物"
-      },
-      {
-        "title": "Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap",
-        "link": "https://cleantechnica.com/2026/10/31/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires-expose-the-experience-gap/",
-        "pubDate": "Sat, 31 Oct 2026 12:55:58 +0000",
-        "description": "If you drove through the East Bay area of California on Tuesday night, you probably got caught in a nightmare. A Tesla Semi traveling down Interstate 880 in Hayward caught fire during the evening commute. There was no crash, no multi-vehicle pileup, and no obvious collision. The driver noticed somet",
-        "title_cn": "硅谷能建造一辆安全的8级卡车吗？早期的电动汽车半火灾暴露了体验差距"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "energy_cn": {
     "items": [
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "papers": {
     "items": [
@@ -380,16 +380,10 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "重磅！国家能源局：加快绿色氢氨醇燃料在燃气轮机领域的技术攻关与试点应用 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YVG84TkFUeXFOX0VuTmVVRHZURE5ZMzVtczNiNDN5Tm5iNVpqNEVjX1Z0ZFF1bUp1YkxlMjlkUlFIQTYteDhPRnpGUHoyUHUyc2VHOQ?oc=5",
-        "pubDate": "Fri, 30 Oct 2026 02:49:36 GMT",
-        "description": "重磅！国家能源局：加快绿色氢氨醇燃料在燃气轮机领域的技术攻关与试点应用 &nbsp;&nbsp; 国际氢能网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -397,22 +391,16 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "title": "重磅！国家能源局：加快绿色氢氨醇燃料在燃气轮机领域的技术攻关与试点应用 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YVG84TkFUeXFOX0VuTmVVRHZURE5ZMzVtczNiNDN5Tm5iNVpqNEVjX1Z0ZFF1bUp1YkxlMjlkUlFIQTYteDhPRnpGUHoyUHUyc2VHOQ?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 02:49:36 GMT",
+        "description": "重磅！国家能源局：加快绿色氢氨醇燃料在燃气轮机领域的技术攻关与试点应用 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "国家能源局召开民营企业座谈会 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
-        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
+        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
       },
       {
         "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
@@ -421,23 +409,17 @@
         "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "一图读懂《中国氢能发展报告（2026）》 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xazk2QTRjNnk3ZlZNQmVqTTJBTUNXcDQwczhqYXZVYTltRTE3QTVSc29rU2ZkQmNRaGkxM3ZMT010dHJFbktwY3hlRklodldXVzZVRlJncWFiTU95alVvZEFvZmd3a3Q3NjFERnlKZVlKRGpaLWZ6N3VRdw?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "一图读懂《中国氢能发展报告（2026）》 &nbsp;&nbsp; 国家能源局"
+        "title": "全球氢能产业平稳增长 中国绿氢产能占比过半 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU9QSzBYZ0k4bDlrRWhEb3BxVTRkRWJYZHNsYnR2LXZfWmkzb3Rfci1HTURqOHctelo5d0lENlQ0ZzFuVENoZm5VVkp0Q3YwcVBKRTB6QUR5TWdIRHhiRW9yc1pWOXJ1cEd1RFlIbEswaG9oZGxQTTZEZE44UE4zb0pR?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "全球氢能产业平稳增长 中国绿氢产能占比过半 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TdGhrTHN3a2YxRlRteF9vQmtUQ1V5NjJtX2JRWFBHYVVnRjd5enl2UjdKeVJyUXlwT2ZrSS1kVVJUN3VjWVZmeDVLeW1UT1J0Mi1jVk9lTlc4ZUJ2RkJKSFk4dDdkaU5mQzJJbDBBZGg0VFUyM0lsWW8zZw?oc=5",
-        "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      }
-    ],
-    "source": "国家能源局",
-    "updated": "2026-11-01 18:41 UTC"
-  },
-  "policy_ndrc": {
-    "items": [
+        "title": "国家能源局新闻发布会文字实录 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12VkFSUVBGeW8xOTRmS1JSbkNIWmNZUjgySkgzbnhKaWg0MlBXR1h0Tm96cEtEeGRKWUpFQlA2TFNfSzNldTB2dG1MMTVGZnZhV0hxVjBMd0RkOU9Ra0ZnZmNNTHJKbW9RTk1Lc0dQRXU?oc=5",
+        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 中国能源新闻网"
+      },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
@@ -445,49 +427,67 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+        "title": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBZ1hUaG9YeGlVLVdLRjRmelpMUEd1SUtqZWFUYlI4X1ZlWXJXSzNuaFk5OFREd0V6S3ZVOFhLdENuZ1lrLWk3M3ZST29EZ3R5QVhuc3g4WWZnUzVjRnJEYmFWVHQ0RnhFNjlsTFY3TFlFSE9HZGtudA?oc=5",
+        "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+        "description": "重磅 | 国家能源局发布《中国氢能发展报告（2026）》 &nbsp;&nbsp; 新浪财经"
+      }
+    ],
+    "source": "国家能源局",
+    "updated": "2026-11-02 01:09 UTC"
+  },
+  "policy_ndrc": {
+    "items": [
+      {
+        "title": "近期部分地区售电公司亏损退出市场？国家能源局回应：即将出台一系列政策文件规范电力零售市场 - 每日经济新闻",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44VnROMjVyaDB4ZFZzRzJGWS1vM2ROamZlRUhTZ294WDJMaE9iTE00c2lmWkdJU1dnemxILXZjVWh2WWUwMnltRklPdUpBMWl3cHF4RTY1NUtudXJ2YmdCMUhUYVp2QQ?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 08:57:00 GMT",
+        "description": "近期部分地区售电公司亏损退出市场？国家能源局回应：即将出台一系列政策文件规范电力零售市场 &nbsp;&nbsp; 每日经济新闻"
       },
       {
-        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
-        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+        "title": "国家发改委、国家能源局关于南方区域电力市场转入正式运行的批复函 - https://www.gdshe.org/",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3Z3g1WVh4SnJadHd6LTRhVWpiQ1ZjZG55QUdnTnJpUlZPelBPUUpNZFNpVzYxQ2ZlbHBNQkx4ZFVKZ2psZmJXMEhjZHdUbGh2UXc?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 03:31:31 GMT",
+        "description": "国家发改委、国家能源局关于南方区域电力市场转入正式运行的批复函 &nbsp;&nbsp; https://www.gdshe.org/"
       },
       {
-        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
-        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
-        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+        "title": "全国已批复算力设施绿电直连项目12个 - 碳道app",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLUFpQX2hOMk9qSlcwWEdDRUdEZk5MVjZHajczdEVHV3JUZ2VrbUlkX0tURUZFQ3dzRzI1ZEVrSmlYNm5xMXJKQjZ0azdHdlhOZ2dWcm5XMGZEdnhEcmc?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 10:10:00 GMT",
+        "description": "全国已批复算力设施绿电直连项目12个 &nbsp;&nbsp; 碳道app"
       },
       {
-        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
-        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
-        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "“绿电直连”升级版政策出台 推动绿电就近消纳 - 财新网",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvMlBNM202bzhnVTNOY1dhUHB5NEtVOUtBYmNLT1Q1cWZ5Y3p6MHF1WFRXXzhUQ1drUVlza1ZZRUw4N2c0Mm5JRHktdEVfNWpqYVo1VEpaYWdBUG40?oc=5",
-        "pubDate": "Thu, 21 May 2026 07:00:00 GMT",
-        "description": "“绿电直连”升级版政策出台 推动绿电就近消纳 &nbsp;&nbsp; 财新网"
+        "title": "今年家电以旧换新累计超1亿台 - 北京商报",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15RFV6Z19FZDI5RV9OWGpMR0lCeVY5NlFGM0dfX1lQVTVxOG9sTE5XMmk1UEVBQy1PMkk0ckVISkdMaXYwcXQ3RTJRZDIyM2VzZm5BUy1lREdXaWR6eWZz?oc=5",
+        "pubDate": "Mon, 26 Oct 2026 16:11:00 GMT",
+        "description": "今年家电以旧换新累计超1亿台 &nbsp;&nbsp; 北京商报"
       },
       {
-        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
-        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
-        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
+        "title": "2026“零碳使命”中国气候行动周在京启幕 - 碳道app",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZUnNBM00zTmh1ckpKa3RfZEVYTWc2RENQYno2RXN1dVVrb0RsSENJNGtjQnJZQ3BUZXVPVzFHenJxRjZmODMtdTVMZG96T0VvM2VNQjMtajlicERGUWc?oc=5",
+        "pubDate": "Fri, 30 Oct 2026 00:10:00 GMT",
+        "description": "2026“零碳使命”中国气候行动周在京启幕 &nbsp;&nbsp; 碳道app"
       },
       {
-        "title": "算电双向奔赴！绿色电力逆势活跃 龙头收获五连板 7股业绩有望翻倍增长 - 东方财富",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tSm5GcEtLZFRRbGszM21tXzdTYk53cHRTeWVKa3RGYkxTeExFbHE4T2JweXItak54VjU1d1hjQnlKUW96VEZlTnM4azlUWmFTOE5fMThpcTdUeHY4c3UydG0wcU05dw?oc=5",
-        "pubDate": "Tue, 12 May 2026 07:00:00 GMT",
-        "description": "算电双向奔赴！绿色电力逆势活跃 龙头收获五连板 7股业绩有望翻倍增长 &nbsp;&nbsp; 东方财富"
+        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
+      },
+      {
+        "title": "绿色航运加快发展 - 碳道app",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdno5WnlQQW96RWZxQTVPaFRfYXlLalpYYVZYQWJCWVl0aUZxZVc2WTI2enF2Y1NVZXNqU21qQm4xRlZyTENzaXNKeEZ2WDNtSUh6ak5GQlZmNUVEb2c?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 00:11:00 GMT",
+        "description": "绿色航运加快发展 &nbsp;&nbsp; 碳道app"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-01 18:41 UTC"
+    "updated": "2026-11-02 01:09 UTC"
   }
 }
