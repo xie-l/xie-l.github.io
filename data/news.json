@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "NIO’s October Sales Meh, But 2026 Sales Up 38.5%",
+        "link": "https://cleantechnica.com/2026/11/03/nios-october-sales-meh-but-2026-sales-up-38-5/",
+        "pubDate": "Wed, 04 Nov 2026 03:40:10 +0000",
+        "description": "NIO&#8217;s October sales were nothing like XPENG&#8217;s. Rather than soaring to record heights, they drooped. Rather than surpassing 50,000 sales (something NIO is yet to do and XPENG has done only this once), NIO scored 34,246 vehicle deliveries, the company&#8217;s lowest delivery total since Ap",
+        "title_cn": "蔚来10月份销售额Meh ，但2026年销售额增长38.5%"
+      },
+      {
+        "title": "XPENG Sales Soar!",
+        "link": "https://cleantechnica.com/2026/11/03/xpeng-sales-soar/",
+        "pubDate": "Wed, 04 Nov 2026 02:38:54 +0000",
+        "description": "XPENG had a fantabulous sales month in October. We can give you the numbers, but as you can see well enough in the chart above and below, the company&#8217;s sales soared to a whole new level last month. Reaching 50,237 vehicle deliveries, that meant 22% sales growth month over month ... [continued]",
+        "title_cn": "XPENG销售飙升！"
+      },
+      {
+        "title": "How Does Oahu Get to an Economically Resilient, 100% Clean Energy Future?",
+        "link": "https://cleantechnica.com/2026/11/03/how-does-oahu-get-to-an-economically-resilient-100-clean-energy-future/",
+        "pubDate": "Wed, 04 Nov 2026 01:47:05 +0000",
+        "description": "Oahu is a unique place. It&#8217;s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market. Rapid investment f",
+        "title_cn": "瓦胡岛如何实现经济适应性强、100%清洁能源的未来？"
+      },
       {
         "title": "China Truck Sales Now Majority Electric. What’s Next?",
         "link": "https://cleantechnica.com/2026/11/03/china-truck-sales-now-majority-electric-whats-next/",
@@ -102,31 +123,10 @@
         "pubDate": "Tue, 03 Nov 2026 18:21:18 +0000",
         "description": "California startup Voya Energy announced a $35 million financing round in August 2026 for generators that use prepared scrap aluminum, air and water to produce electricity without combustion. Its immediate opportunity includes replacing diesel backup equipment at data centres, where exhaust, noise a",
         "title_cn": "数据中心铝空气发生器面临金属物流测试"
-      },
-      {
-        "title": "I Checked Out Tesla’s New Model YL, Standard Y, Model 3 In Person — Here’s What Surprised Me",
-        "link": "https://cleantechnica.com/2026/11/03/i-checked-out-teslas-new-model-yl-standard-y-model-3-in-person-heres-what-surprised-me/",
-        "pubDate": "Tue, 03 Nov 2026 15:07:46 +0000",
-        "description": "I finally got to see the new Tesla Model YL, Model Y Standard, and Model 3 Standard in person a few weeks ago and wanted to give my thoughts on the three models. I drove the two Model Ys and just looked at the Model 3 Standard. I was visiting ... [continued] The post I Checked Out Tesla’s New Model ",
-        "title_cn": "我亲自检查了特斯拉的新型号YL ，标准Y ，型号3 —以下是我感到惊讶的地方"
-      },
-      {
-        "title": "Trump Wants More Attention For His New Algae Biofuel Showcase",
-        "link": "https://cleantechnica.com/2026/11/03/reflecting-pool-algae-biofuel-trump-2026-elections-closing-message/",
-        "pubDate": "Tue, 03 Nov 2026 14:06:00 +0000",
-        "description": "The Lincoln Memorial Reflecting Pool has been host to thriving populations of algae ever since its construction in the 1920's, so why not transform it into a showcase for the algae biofuel industry? The post Trump Wants More Attention For His New Algae Biofuel Showcase appeared first on CleanTechnic",
-        "title_cn": "特朗普希望他的新藻类生物燃料展示受到更多关注"
-      },
-      {
-        "title": "$150 Billion More Paid by Americans for Gas This Year Than Last",
-        "link": "https://cleantechnica.com/2026/11/03/150-billion-more-paid-by-americans-for-gas-this-year-than-last/",
-        "pubDate": "Tue, 03 Nov 2026 05:35:38 +0000",
-        "description": "Since the beginning of America’s war against Iran, Americans have paid an additional $150+ billion for gas and diesel than they did last year during the same time period, according to a study from Brown University. Global gas prices have risen because supply has been disrupted (Iran having one of th",
-        "title_cn": "美国人今年支付的天然气费用比去年多出1500亿美元$"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "energy": {
     "items": [
@@ -188,10 +188,16 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QSUpRZnpPcGFTYW1NMDlGVHVGcFMyNU9XZ1QzUW5pM2haT094Ql9oTl9aZ1ZCZ2N6XzJGS0ZDaEc0WEw5QmU2U2E1VmJGTUpoNWhFdA?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 03:22:52 GMT",
+        "description": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 &nbsp;&nbsp; 世纪新能源网"
+      },
       {
         "title": "毕天姝会见法国原子能和替代能源委员会代表团 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IYnN2U3RjYm9pbVVRZkdoS2RNa0dKTHlRVHBDZ0FKNGlwSWZkelJaUGtlQ1h2cDBCYmVKN21rZkFXR2xPYUp0ei1mRW01MlJibGpWLWkxRGlkYkpfZjI1WGRrRGRiODFaV3o5dy16T0VaTjVGUEE?oc=5",
@@ -229,20 +235,14 @@
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
       },
       {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,83 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "papers": {
     "items": [
       {
-        "title": "Episodic Star Formation - II. The Origin of the Fundamental Metallicity Relation",
-        "link": "https://arxiv.org/abs/2611.03645v1",
-        "pubDate": "2026-11-02T18:59:19Z",
-        "description": "The Fundamental Metallicity Relation (FMR) extends the mass-metallicity relation (MZR) by including star formation rate (SFR) as a third parameter. At fixed stellar mass, galaxies with higher SFRs tend to have lower gas-phase metallicities. We investigate the physical origin of the FMR in the contex",
-        "title_cn": "情景星形成- II.基本金属性关系的起源"
+        "title": "GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs",
+        "link": "https://arxiv.org/abs/2611.05359v1",
+        "pubDate": "2026-11-03T18:54:29Z",
+        "description": "This paper presents GSCV++, a lightweight pipeline for 3D {G}aussian {S}platting (GS) sequences {C}ompression with standard {V}ideo codecs. To meet the requirements of low-complexity and hardware compatibility from the industry, GSCV++ jointly improves preprocessing, 3D-to-2D mapping, and practical ",
+        "title_cn": "GSCV + + ：通过标准视频编解码器实现轻量级3D高斯光斑序列压缩"
       },
       {
-        "title": "Mercury (Hg): a relativistic $N$-body simulation for Horndeski gravity",
-        "link": "https://arxiv.org/abs/2611.03637v1",
-        "pubDate": "2026-11-02T18:58:03Z",
-        "description": "We present Mercury, a relativistic $N$-body code for cosmological simulations in the $α$-basis formulation of Horndeski gravity. Mercury extends a particle-mesh scheme by incorporating the dynamics of the additional scalar degree of freedom and the corresponding modified Einstein equations, expresse",
-        "title_cn": "汞（ Hg ） ： Horndeski重力的相对论性$ N $ -体模拟"
+        "title": "Beyond just a torus? Re-contextualising the AGN type paradigm using data-driven host galaxy quenching histories",
+        "link": "https://arxiv.org/abs/2611.05353v1",
+        "pubDate": "2026-11-03T18:52:02Z",
+        "description": "The orientation of a dusty torus within a unified model explains the presence (Type-1) or absence (Type-2) of broad emission lines in Active Galactic Nuclei (AGN) spectra. This orientation-based unified model, however, fails to explain differences in host galaxy properties, such as star formation ra",
+        "title_cn": "除了环面之外？使用数据驱动的主星系淬灭历史对AGN类型范式进行重新情境化"
       },
       {
-        "title": "Mutual information to all orders from modular flow: a replica-free approach",
-        "link": "https://arxiv.org/abs/2611.03630v1",
-        "pubDate": "2026-11-02T18:55:02Z",
-        "description": "We derive an all-orders long-distance expansion of vacuum mutual information between two disjoint balls in generic $d$-dimensional CFTs. The derivation uses a novel radial sewing expansion of the joint vacuum density matrix, together with a modular response formula for relative entropy and the geome",
-        "title_cn": "来自模块化流程的所有订单的相互信息：无副本方法"
+        "title": "Agnostic Learning by Imitating",
+        "link": "https://arxiv.org/abs/2611.05346v1",
+        "pubDate": "2026-11-03T18:45:38Z",
+        "description": "Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive and negative labels as well as the best member of the class, or training a generative model whose outp",
+        "title_cn": "通过模仿进行不可知的学习"
       },
       {
-        "title": "Multi-Trajectory Parallel-in-Iteration Optimization",
-        "link": "https://arxiv.org/abs/2611.03621v1",
-        "pubDate": "2026-11-02T18:51:46Z",
-        "description": "Previously, we developed a ``parallel-in-iteration'' optimization framework that uses multigrid reduction-in-time (MGRIT) to parallelize slowly converging optimization methods, such as gradient descent. Unlike time-dependent evolution problems, optimization requires only a final point with a suffici",
-        "title_cn": "多轨迹并行迭代优化"
+        "title": "Bright Siren Cosmology Beyond Fisher: DALI Forecasts for Third-Generation Gravitational Wave Observatories",
+        "link": "https://arxiv.org/abs/2611.05338v1",
+        "pubDate": "2026-11-03T18:39:14Z",
+        "description": "In this work we assess non-Gaussian extensions of Fisher forecasting based on the Derivative Approximation for Likelihoods (DALI). We simulate ensembles of bright siren catalogs for third-generation observatories, adopting a Cosmic Explorer (CE) and a triangular Einstein Telescope (ET) network, freq",
+        "title_cn": "明亮的警笛宇宙学超越费希尔：第三代引力波观测站的DALI预测"
       },
       {
-        "title": "Inhomogeneous Synthetic Fluxes in Optical Lattices",
-        "link": "https://arxiv.org/abs/2611.03616v1",
-        "pubDate": "2026-11-02T18:50:49Z",
-        "description": "Synthetic gauge fields in optical lattices are usually engineered to realize a uniform magnetic flux. Here, we propose a scheme to generate spatially inhomogeneous fluxes and demonstrate how such fluxes reshape the single-particle spectrum. Within Wannier--Stark-assisted tunneling, onsite modulation",
-        "title_cn": "光学晶格中的非均匀合成通量"
+        "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
+        "link": "https://arxiv.org/abs/2611.05319v1",
+        "pubDate": "2026-11-03T18:24:20Z",
+        "description": "In LLM-based recommendation, memory acts as a user-level agent in a memory-augmented backbone. Yet users and items remain asymmetric: only the user is given a structured profile; it enters a bandwidth-limited reranker prompt; and it is frozen after warmup. We recast LLM-based recommendation as an ag",
+        "title_cn": "HARP ：基于LLM的建议的免费培训双重配置代理沟通"
       },
       {
-        "title": "Cyclicity of Drinfeld modules modulo primes in arithmetic progressions",
-        "link": "https://arxiv.org/abs/2611.03607v1",
-        "pubDate": "2026-11-02T18:45:02Z",
-        "description": "Let $A=\\mathbb{F}_q[T]$ and $K=\\mathbb{F}_q(T)$, and let $φ$ be a Drinfeld $A$-module over $K$ of rank $r\\geq 2$. We study the reduction of $φ$ at primes $\\mathfrak{p} \\in A$ lying in a prescribed arithmetic progression, for which $φ(\\mathbb{F}_{\\mathfrak{p}})$ has at most $r-1$ cyclic components. W",
-        "title_cn": "Drinfeld模模素数在算术级数中的循环性"
+        "title": "MDSKILL: Learning to Internalize Skill Memory through Multi-View Distillation for Efficient Dynamic Agent Self-Evolution",
+        "link": "https://arxiv.org/abs/2611.05313v1",
+        "pubDate": "2026-11-03T18:19:55Z",
+        "description": "Skill memories encode past experiences as textual prompts to improve reinforcement learning (RL) for self-evolving agents. Complementing RL, On-Policy Self-Distillation (OPSD) provides dense, fine-grained supervision to internalize knowledge from skill-guided trajectories and accelerate policy learn",
+        "title_cn": "MDSKILL ：通过多视图蒸馏学习内化技能记忆，实现高效动态代理自我进化"
       },
       {
-        "title": "DynaSolver: A Neural Operator for Autoregressive 4D Flow Prediction with Dynamic Boundaries",
-        "link": "https://arxiv.org/abs/2611.03595v1",
-        "pubDate": "2026-11-02T18:39:26Z",
-        "description": "Neural operators provide efficient surrogates for computational fluid dynamics (CFD), but most are designed for static geometries and are not equipped to model unsteady flows induced by continuously moving boundaries. We study dynamic-boundary 4D CFD prediction for articulated moving geometries and ",
-        "title_cn": "DynaSolver ：具有动态边界的自回归4D流量预测的神经算子"
+        "title": "Roundtrip All-Pairs Shortest Paths in Directed Graphs",
+        "link": "https://arxiv.org/abs/2611.05311v1",
+        "pubDate": "2026-11-03T18:19:31Z",
+        "description": "We study approximation algorithms for All-Pairs Shortest Paths (APSP) in directed graphs under the roundtrip metric. In directed graphs, even finite-factor approximation of ordinary one-way distances must distinguish reachable from unreachable vertex pairs, and therefore computes transitive closure,",
+        "title_cn": "有向图中的往返全对最短路径"
       },
       {
-        "title": "Single-pass stochastic cooling for electron microscopy",
-        "link": "https://arxiv.org/abs/2611.03581v1",
-        "pubDate": "2026-11-02T18:31:55Z",
-        "description": "Scientific applications of free electrons, such as in electron microscopes and particle accelerators, are limited by the brightness of available electron sources. Accelerators can use phase space cooling to surpass these source limitations, whereas electron microscopes can only rely on particle filt",
-        "title_cn": "用于电子显微镜的单程随机冷却"
+        "title": "TFNP in the Random Oracle Model",
+        "link": "https://arxiv.org/abs/2611.05308v1",
+        "pubDate": "2026-11-03T18:17:50Z",
+        "description": "We determine which major $\\TFNP$ classes are hard in the random oracle model (ROM). Prior work establishes average-case hardness of highly structured subclasses of $\\TFNP$ from strong cryptographic assumptions such as LWE and indistinguishability obfuscation. It is not known whether weaker assumptio",
+        "title_cn": "随机Oracle模型中的TFNP"
       },
       {
-        "title": "Nonlinear gauge maps and the structure of Goldstone loops in canonical inflation",
-        "link": "https://arxiv.org/abs/2611.03571v1",
-        "pubDate": "2026-11-02T18:25:56Z",
-        "description": "We clarify the nonlinear relation between the spatially flat scalar and Goldstone descriptions of canonical single-field inflation. An exact clock map shows how potential interactions are reorganized into derivative Goldstone interactions. A change of slicing further connects their dilation symmetry",
-        "title_cn": "非线性规范映射和典型通货膨胀中Goldstone环的结构"
+        "title": "Effect of high odrer dispersion on soliton interaction in coupled Kerr cavities",
+        "link": "https://arxiv.org/abs/2611.05305v1",
+        "pubDate": "2026-11-03T18:16:52Z",
+        "description": "We investigate the interaction of dissipative Kerr solitons in two nearly identical coherently driven, coupled microresonators in the presence of third-order dispersion (TOD). Using an asymptotic reduction of the coupled Lugiato--Lefever equations, we derive effective interaction equations governing",
+        "title_cn": "高Odrer色散对耦合克尔腔孤子相互作用的影响"
       },
       {
-        "title": "Chemical and dynamical evolution of prestellar cores, the dawn of star and planet formation",
-        "link": "https://arxiv.org/abs/2611.03570v1",
-        "pubDate": "2026-11-02T18:24:07Z",
-        "description": "Studying prestellar cores is crucial to understanding the formation of stellar and planetary systems. To date, we lack a comprehensive survey of their density and velocity structure at small scales (100-1000 au), the gas ionisation state, their lifetimes, and how these properties are influenced by t",
-        "title_cn": "恒星前核的化学和动态演化，恒星和行星形成的曙光"
+        "title": "Metamorphic novae. I. Gaia22alz -- Violent relaxation starting from static evolution",
+        "link": "https://arxiv.org/abs/2611.05297v1",
+        "pubDate": "2026-11-03T18:10:19Z",
+        "description": "Gaia22alz (nova Vel 2022) shows characteristic properties in its light curves and spectral evolution similar to slow novae HR Del, V723 Cas, and V5558 Sgr. Their outburst begins in a way of hydrostatic expansion with no mass loss, followed by large amplitude ($ΔV \\sim 2$ mag) multiple peaks around t",
+        "title_cn": "变质新星I. Gaia22alz--从静态进化开始的剧烈松弛"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,27 +434,45 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 - 中国碳排放交易网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYTNoQUVCamZOUUhlUzlmc2REVFNyLUhlbUg1NXRrRnVoUmRZMTJpdGI3dlFEeWFTaU9HMXJ3ZnUxdnJ0SjdsUk42VC1QLUxvaER4dXBLUi1lZjhJX3p3OHprMzZReUk?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 02:57:00 GMT",
-        "description": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 &nbsp;&nbsp; 中国碳排放交易网"
-      },
-      {
-        "title": "上海国际氢能技术大会暨制氢技术与装备展览会_展会/博览会_会议活动 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85dmJyTHB1VzZPelJ4dE5kRXRHNEQtSXdpT1RWRl96Tm5kQzJhb3RJYWxyYWZRdDR2X1laVlAyd01PSnNPRW41TTVEelFCbnFEU09ZTQ?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 06:16:35 GMT",
-        "description": "上海国际氢能技术大会暨制氢技术与装备展览会_展会/博览会_会议活动 &nbsp;&nbsp; 世纪新能源网"
-      },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
         "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
+        "title": "多用户绿电直连新政策来了，不得由电网企业代理购电 - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2Rk8zNWJ2a3FzdTBxbDFBV3BDWk9pd1oxNTY1R01MT3FVMkhKVTVrV2lJNlQ2UE12aDZLTGFsWVRKM1ZTM2NjUFY1TVVnemhZNXVNRVJtVTJLeWdpSFVWRXZ3LWJWVWd3dXItQXNEczhZODNwSHc?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "多用户绿电直连新政策来了，不得由电网企业代理购电 &nbsp;&nbsp; 新浪财经"
+      },
+      {
+        "title": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OdlQ4TjA2WmM3SzFhTEtrbXRLelZocERhTzltaUdWT2NmLWI5bkFwakxqeTY1SENPTHpzMEZTcDkxY05kaWxwdUxpWlkxZFcxX0trXzhqZXFZM0RCcmNuM1hpZ2p3dlpn?oc=5",
+        "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+        "description": "风光装机占比超50%！国家发改委、国家能源局发布《新型能源体系建设“十五五”规划》！ &nbsp;&nbsp; 国际新能源网"
+      },
+      {
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
         "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
@@ -463,31 +481,13 @@
         "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
-      },
-      {
-        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
-        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
-      },
-      {
-        "title": "联合国第十五届能源可持续发展国际论坛西安启幕 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSk5QcjRLN2xVZDlFNGZsT2JlMERKeVlfenNLZllRcHVseXhPYk5pYm1ndXpkeWVnSGl4WWNUZUw2SkhlajJNZU8zb3FrVnpSeVFuZUNWaGEwX0k4NGF1aUNVYS12dDdwdmZVZ25oLXp6dDlqTkJ3OFdNeXhCeXBVWE9ZZUhBWHFi?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:14:39 GMT",
-        "description": "联合国第十五届能源可持续发展国际论坛西安启幕 &nbsp;&nbsp; 搜狐网"
-      },
-      {
-        "title": "绿色航运加快发展 - 碳道app",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdno5WnlQQW96RWZxQTVPaFRfYXlLalpYYVZYQWJCWVl0aUZxZVc2WTI2enF2Y1NVZXNqU21qQm4xRlZyTENzaXNKeEZ2WDNtSUh6ak5GQlZmNUVEb2c?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 00:11:00 GMT",
-        "description": "绿色航运加快发展 &nbsp;&nbsp; 碳道app"
+        "title": "7大院士领衔！中关村绿色产业联盟国家级零碳园区创建专家指导委员会在京成立 - 人民政协网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNFhYWEFKV19WMm5ySWljSmJOY3lGMGtNWFJadGVqbnJZclJjOVhDUVRTemNuZFlEWU9CalY1QzlFRlJ6bjBDTVluemVudmE2M1RRZ3lfLWtuYU55bEFyWThVLWluMV9v?oc=5",
+        "pubDate": "Tue, 03 Feb 2026 08:00:00 GMT",
+        "description": "7大院士领衔！中关村绿色产业联盟国家级零碳园区创建专家指导委员会在京成立 &nbsp;&nbsp; 人民政协网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-04 01:47 UTC"
+    "updated": "2026-11-04 08:23 UTC"
   }
 }
