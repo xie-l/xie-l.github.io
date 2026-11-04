@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "keywords": [
     {
       "id": 1,
-      "term": "电解质工程",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>通过优化电解液组成、pH、添加剂等，改善离子传导、提升催化选择性和稳定性的研究方向。",
-      "example": "<strong>举例：</strong>在碱性电解质中加入适量Li⁺，可改变OER中间态吸附构型，将过电位降低30mV，是近年电解质工程的典型成果。"
+      "term": "贝叶斯优化",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>基于贝叶斯推断的全局优化方法，利用已有实验结果建立替代模型，智能推荐下一个最值得实验的条件，大幅减少实验次数。",
+      "example": "<strong>举例：</strong>传统网格搜索需实验1000次筛选最优催化剂；贝叶斯优化可以在50-100次实验内找到接近最优解——是高通量实验的理想搭档。"
     },
     {
       "id": 2,
-      "term": "大语言模型",
-      "category": "科技",
-      "definition": "<strong>含义：</strong>以Transformer架构为基础、在海量文本上预训练的AI模型，具备理解、生成和推理自然语言的能力，正在重塑科研、写作、编程等知识工作。",
-      "example": "<strong>举例：</strong>GPT-4能够阅读催化领域论文并提取关键数据；Claude能够帮助写作和分析报告——大模型正在成为研究人员的“AI助理”。"
+      "term": "MXene",
+      "category": "材料",
+      "definition": "<strong>含义：</strong>二维过渡金属碳化物/氮化物材料，具有金属导电性和亲水表面，是储能和电催化的新型明星材料。",
+      "example": "<strong>举例：</strong>Ti₃C₂ MXene导电性接近铜，表面官能团丰富，可作为HER催化剂载体或直接参与催化，近三年相关论文数量呈指数增长。"
     },
     {
       "id": 3,
-      "term": "析氢反应",
+      "term": "电子结构调控",
       "category": "化学",
-      "definition": "<strong>含义：</strong>HER（Hydrogen Evolution Reaction），电解水时阴极上水/质子被还原为氢气的半反应，是制氢过程的核心步骤之一。",
-      "example": "<strong>举例：</strong>酸性介质中：2H⁺ + 2e⁻ → H₂；碱性介质中：2H₂O + 2e⁻ → H₂ + 2OH⁻。铂是最优HER催化剂，但价格昂贵，非贵金属替代是研究热点。"
+      "definition": "<strong>含义：</strong>通过掺杂、界面效应、配位环境等手段，定向改变催化剂金属位点的d带位置或费米能级，优化吸附能，提升活性。",
+      "example": "<strong>举例：</strong>在Ni单原子催化剂中引入Fe配位，使Ni的d带中心上移，对*OH的吸附能从过强变为适中，OER过电位从350mV降至240mV。"
     },
     {
       "id": 4,
-      "term": "氢脆",
-      "category": "材料",
-      "definition": "<strong>含义：</strong>高压氢气渗入金属晶格导致材料脆化、裂纹扩展的现象，是高压储氢设备和管道材料选型的关键安全考量。",
-      "example": "<strong>举例：</strong>普通碳钢管道在高压氢气环境中会发生氢脆破裂；需选用特殊合金或复合材料管道，并严格控制氢气纯度和压力变化速率。"
+      "term": "电化学活性面积",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>ECSA（Electrochemically Active Surface Area），通过电化学方法测定的催化剂有效工作表面积，比BET更接近真实催化活性面积。",
+      "example": "<strong>举例：</strong>利用Cu欠电位沉积或Pt吸附脱附峰积分，可准确计算ECSA；ECSA归一化的电流密度称为本征活性，是公平比较催化剂的标准。"
     },
     {
       "id": 5,
-      "term": "成本领先",
-      "category": "管理",
-      "definition": "<strong>含义：</strong>迈克尔·波特三大竞争战略之一，通过规模、工艺或管理优势将成本压至行业最低，以价格优势赢得市场份额。",
-      "example": "<strong>举例：</strong>比亚迪采用成本领先战略，垂直整合自造电池、芯片，将整车成本压至竞争对手难以匹敌的水平；中国光伏组件厂商整体走的也是这条路。"
+      "term": "机器学习势",
+      "category": "统计",
+      "definition": "<strong>含义：</strong>用机器学习方法拟合DFT数据得到的势能函数，可以以接近DFT精度、远低于DFT计算量的代价进行分子动力学模拟。",
+      "example": "<strong>举例：</strong>DeePMD-kit等工具生成的机器学习势，可对含数万原子的催化剂体系做纳秒级MD模拟，是传统DFT的百倍以上的规模。"
     }
   ]
 }
