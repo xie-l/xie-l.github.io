@@ -2,6 +2,27 @@
   "tech": {
     "items": [
       {
+        "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+        "link": "https://www.nature.com/articles/s41586-026-11336-3",
+        "pubDate": "2026-11-05",
+        "description": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11336-3 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+        "title_cn": "在消费者智能手表上机会性地检测高血压的迹象"
+      },
+      {
+        "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+        "link": "https://www.nature.com/articles/s41586-026-11351-4",
+        "pubDate": "2026-11-05",
+        "description": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11351-4 Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+        "title_cn": "氢衍生物在中国实现具有成本效益的碳中和"
+      },
+      {
+        "title": "The hidden cost of flexible work in academia: women do more parenting",
+        "link": "https://www.nature.com/articles/d41586-026-03568-0",
+        "pubDate": "2026-11-05",
+        "description": "Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+        "title_cn": "学术界灵活工作的隐性成本：女性做更多的育儿工作"
+      },
+      {
         "title": "Spider snooze stages",
         "link": "https://www.nature.com/articles/d41586-026-03487-0",
         "pubDate": "2026-11-04",
@@ -35,39 +56,39 @@
         "pubDate": "2026-11-04",
         "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03344-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.",
         "title_cn": "自然指数表指南"
-      },
-      {
-        "title": "Ancient DNA charts spread of Celtic and Germanic languages",
-        "link": "https://www.nature.com/articles/d41586-026-03582-2",
-        "pubDate": "2026-11-04",
-        "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03582-2 Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages — plus, how the brain may regulate emotions differently than we thought.",
-        "title_cn": "凯尔特语和日耳曼语的古代DNA图表传播"
-      },
-      {
-        "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer",
-        "link": "https://www.nature.com/articles/s41586-026-11368-9",
-        "pubDate": "2026-11-04",
-        "description": "Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11368-9 Carbon radical generation by irreversible metal-to-ligand charge transfer",
-        "title_cn": "通过不可逆的金属-配体电荷转移产生碳自由基"
-      },
-      {
-        "title": "Parkinson’s: beyond the brain",
-        "link": "https://www.nature.com/articles/d41586-026-03173-1",
-        "pubDate": "2026-11-04",
-        "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.",
-        "title_cn": "帕金森氏症：超越大脑"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Electric Buses Need a Plan for the Next Operating Contract",
+        "link": "https://cleantechnica.com/2026/11/05/electric-bus-contract-depot-access-second-operator/",
+        "pubDate": "Thu, 05 Nov 2026 15:35:25 +0000",
+        "description": "Greater Manchester is entering a new stage of bus franchising. In September 2026, Go-Ahead announced that Go North West had won two Bee Network operating contracts covering 38 routes and approximately 60 buses, with service beginning in March 2027. Eighteen of those routes will operate from a new de",
+        "title_cn": "电动公交车需要为下一个运营合同制定计划"
+      },
+      {
+        "title": "Because Women: Rethinking What Freedom of Movement Can Feel Like",
+        "link": "https://cleantechnica.com/2026/11/05/because-women-rethinking-what-freedom-of-movement-can-feel-like/",
+        "pubDate": "Thu, 05 Nov 2026 14:44:35 +0000",
+        "description": "Most women know the unspoken checklist before getting into a car. They consider their surroundings, decide whether to chat or pretend to be on a phone call, and send a quick text to a friend with their live location, just in case. Getting from one place to another is rarely ... [continued] The post ",
+        "title_cn": "因为女性：重新思考行动自由的感觉"
+      },
+      {
+        "title": "The US Midterm Election Results Remind Us To Focus On The “Foundation Of Our Democracy”",
+        "link": "https://cleantechnica.com/2026/11/05/the-us-midterm-election-results-remind-us-to-focus-on-the-foundation-of-our-democracy/",
+        "pubDate": "Thu, 05 Nov 2026 12:03:39 +0000",
+        "description": "The country feels different as the US midterm election results come rolling in. When all of the votes are counted, Democrats are set to win the national popular vote in all House races by about 13 percentage points. The voters have spoken in huge numbers: they want leaders who make ... [continued] T",
+        "title_cn": "美国中期选举结果提醒我们关注“我们民主的基础”"
+      },
       {
         "title": "Latin America EV Sales Report: With Over 200,000 Units Sold in Q3, EVs Now Stand at 12% Market Share!",
         "link": "https://cleantechnica.com/2026/11/04/latin-america-ev-sales-report-with-over-200000-units-sold-in-q3-evs-now-stand-at-12-market-share/",
@@ -102,31 +123,10 @@
         "pubDate": "Thu, 05 Nov 2026 04:47:27 +0000",
         "description": "Washington, DC — As Democrats regain control of the US House of Representatives and the US Senate, the Sierra Club today released a new legislative policy blueprint for the incoming Congress that will deliver for the American people by addressing the affordability crisis, holding polluters accountab",
         "title_cn": "塞拉俱乐部发布选举后国会政策蓝图，以降低成本、保护公共土地并让污染者付费"
-      },
-      {
-        "title": "Nabrawind’s Crane-Free Wind Towers Face a Supplier Test",
-        "link": "https://cleantechnica.com/2026/11/04/nabrawind-crane-free-wind-towers-supplier-risk/",
-        "pubDate": "Wed, 04 Nov 2026 21:27:43 +0000",
-        "description": "Spain&#8217;s Nabrawind has developed a way to install exceptionally tall wind turbine towers without bringing an enormous crawler crane to the site. Its Nabralift system uses a tubular upper tower supported by a three-legged steel structure. Hydraulic equipment raises the assembled turbine while mo",
-        "title_cn": "Nabrawind的无起重机风塔面临供应商测试"
-      },
-      {
-        "title": "“War” Secretary Pete Hegseth Endorses 15 Minute City Model",
-        "link": "https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/",
-        "pubDate": "Wed, 04 Nov 2026 17:29:13 +0000",
-        "description": "The 15 Minute City model calls for walkable, bike-able access to basic services and resources, a concept that has been embraced by none other than the US Department of Defense. The post &#8220;War&#8221; Secretary Pete Hegseth Endorses 15 Minute City Model appeared first on CleanTechnica .",
-        "title_cn": "“战争”秘书Pete Hegseth支持15分钟城市模式"
-      },
-      {
-        "title": "Blue Wave Not Climate Related, But Critical To Clean Energy & Electric Vehicles",
-        "link": "https://cleantechnica.com/2026/11/04/blue-wave-not-climate-related-but-critical-to-clean-energy-electric-vehicles/",
-        "pubDate": "Wed, 04 Nov 2026 17:25:57 +0000",
-        "description": "Democrats absolutely crushed Republicans during the US midterm elections. I saw that it was the biggest electoral win since 1974. Texas is blue! Not just one position in Texas either — the governor is now a Democrat, a Democrat was elected to the US Senate, and the whole Texas legislature ... [conti",
-        "title_cn": "蓝波与气候无关，但对清洁能源和电动汽车至关重要"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "energy": {
     "items": [
@@ -188,15 +188,21 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "energy_cn": {
     "items": [
       {
         "title": "含3个氢能试点项目！国家能源局公示“人工智能+”能源试点项目清单 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xYXhCOGUwUUNnd2lCQmdyc0x0WmN1d29lSndOSFZNZ0lURUdIaTB5NTBXd2o0NEJfTXBPbDBGMGRGNGtnNVFrSXpYWnAyRGJrSXV1TnhR?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 04:00:48 GMT",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1RUM2LU1hWWFISmo2TDAyZWhJbWxLY3MtNEx5VXdiTG5mU0MySzdtTUw1NHY4VU1Ta09DWW9JZ2gzd19Kb3dnRDZWeGstaGV5OFllZQ?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 10:05:39 GMT",
         "description": "含3个氢能试点项目！国家能源局公示“人工智能+”能源试点项目清单 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "韩电联手美国电力研究院推进清洁氢能 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHZjNXNNdlFFTFJKSERxeXlNN0NtNzhjSlRzUnRVTWpwTWNGRTY2b2NMWUZUSmFoV2ZHakllRGpsY0VpNVd1ZEMtS0JVcUk5VzhFYUp6V3UzVDk5di1VTm4xdHBKR0hnZGtRMFdkWnFfcWZ0bFoyZXl2YWFYMHN3TXlLVzFJU080?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 13:51:00 GMT",
+        "description": "韩电联手美国电力研究院推进清洁氢能 &nbsp;&nbsp; 搜狐网"
       },
       {
         "title": "上海国际电力展即将举办，新能源、储能或为关键词，这些概念股频获机构调研 - 财联社电报",
@@ -211,22 +217,16 @@
         "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
       },
       {
-        "title": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QSUpRZnpPcGFTYW1NMDlGVHVGcFMyNU9XZ1QzUW5pM2haT094Ql9oTl9aZ1ZCZ2N6XzJGS0ZDaEc0WEw5QmU2U2E1VmJGTUpoNWhFdA?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
-        "description": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
-        "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
-        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
-      },
-      {
         "title": "氢能产业正走向“精选赛道” - 中国石化新闻网",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclFfdWhnN1A4UFZMOHBIM08zTlF4YzJOUFJPbkItWnBVQTg1ektOY19VVlhPY0FDdGM1N0VjY0d2NU1tUFRDTDR2Q29xNk5sOGhFa1lpMGlCaXJjM1VacmVUTEpRclBZcTdjUWlzeDlrMHpOOVhfWnZVVWNUa280bQ?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
+      },
+      {
+        "title": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QSUpRZnpPcGFTYW1NMDlGVHVGcFMyNU9XZ1QzUW5pM2haT094Ql9oTl9aZ1ZCZ2N6XzJGS0ZDaEc0WEw5QmU2U2E1VmJGTUpoNWhFdA?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+        "description": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -242,69 +242,69 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company",
-        "link": "https://fuelcellsworks.com/2026/11/02/h2/man-hydrogen-combustion-truck-enters-service-with-dutch-construction-company",
-        "pubDate": "Wed, 04 Nov 2026 17:28:09 GMT",
+        "title": "Transmashholding Completes First Russian Hydrogen Fuel-Cell Train Ahead of 2027 Sakhalin Trials",
+        "link": "https://fuelcellsworks.com/2026/10/28/electrolyzer/transmashholding-completes-first-russian-hydrogen-fuel-cell-train-ahead-of-2027-sakhalin-trials",
+        "pubDate": "Thu, 05 Nov 2026 17:56:30 GMT",
         "description": "",
-        "title_cn": "MAN氢气燃烧卡车在荷兰建筑公司投入使用"
+        "title_cn": "Transmashholding在2027年萨哈林试验之前完成了俄罗斯首列氢燃料电池列车"
       },
       {
-        "title": "Solid Oxide Fuel-Cell Developer Serenity Power Wins Backing From New C$2m Canadian Climate Fund",
-        "link": "https://fuelcellsworks.com/2026/11/03/electrolyzer/solid-oxide-fuel-cell-developer-serenity-power-wins-backing-from-new-c-2m-canadian-climate-fund",
-        "pubDate": "Wed, 04 Nov 2026 17:11:38 GMT",
+        "title": "Houpu as a China Leading HRS Supplier: Fixed, Mobile and Integrated Hydrogen Refueling Configurations",
+        "link": "https://fuelcellsworks.com/2026/11/03/electrolyzer/houpu-as-a-china-leading-hrs-supplier-fixed-mobile-and-integrated-hydrogen-refueling-configurations",
+        "pubDate": "Thu, 05 Nov 2026 17:31:06 GMT",
         "description": "",
-        "title_cn": "固体氧化物燃料电池开发商Serenity Power赢得加拿大200万加元新气候基金$的支持"
+        "title_cn": "后浦作为中国领先的HRS供应商：固定、移动和集成加氢配置"
       },
       {
-        "title": "Bremerhaven Drops Hydrogen Truck Testing Facilities as Costs Double and Demand Falls",
-        "link": "https://fuelcellsworks.com/2026/11/02/h2/bremerhaven-drops-hydrogen-truck-testing-facilities-as-costs-double-and-demand-falls",
-        "pubDate": "Wed, 04 Nov 2026 17:03:44 GMT",
+        "title": "Japan Tests Building-Scale Green Hydrogen System at Tokyo High-Rise",
+        "link": "https://fuelcellsworks.com/2026/11/05/fuel-cells/japan-tests-building-scale-green-hydrogen-system-at-tokyo-high-rise",
+        "pubDate": "Thu, 05 Nov 2026 17:22:53 GMT",
         "description": "",
-        "title_cn": "随着成本翻倍和需求下降，不来梅港放弃氢能卡车测试设施"
+        "title_cn": "日本在东京高层测试建筑规模的绿色氢系统"
       },
       {
-        "title": "Nippon Steel Produces More Than 1,000 Tonnes of DRI From Low-Grade Ore Using 100% Hydrogen",
-        "link": "https://fuelcellsworks.com/2026/11/04/h2/nippon-steel-produces-more-than-1-000-tonnes-of-dri-from-low-grade-ore-using-100-percent-hydrogen",
-        "pubDate": "Wed, 04 Nov 2026 16:59:01 GMT",
+        "title": "Aramco Backs Finnish Methane-Pyrolysis Start-Up ROTOBOOST to Scale Low-Carbon Hydrogen",
+        "link": "https://fuelcellsworks.com/2026/11/05/h2/aramco-backs-finnish-methane-pyrolysis-start-up-rotoboost-to-scale-low-carbon-hydrogen",
+        "pubDate": "Thu, 05 Nov 2026 17:01:36 GMT",
         "description": "",
-        "title_cn": "Nippon Steel使用100%氢气从低品位矿石中生产超过1,000吨的DRI"
+        "title_cn": "沙特阿美支持芬兰甲烷热解初创公司ROTOBOOST扩展低碳氢能"
       },
       {
-        "title": "‘Investment Decisions Are Not Being Made’: GET H2 Urges Germany to Fix Hydrogen Market Rules",
-        "link": "https://fuelcellsworks.com/2026/11/02/h2/investment-decisions-are-not-being-made-get-h2-urges-germany-to-fix-hydrogen-market-rules",
-        "pubDate": "Wed, 04 Nov 2026 16:49:47 GMT",
+        "title": "Mainz Halts Hydrogen Pipeline After Buyers Fail to Commit, Leaving €7M in State Funding Unused",
+        "link": "https://fuelcellsworks.com/2026/11/02/h2/mainz-halts-hydrogen-pipeline-after-buyers-fail-to-commit-leaving-7m-in-state-funding-unused",
+        "pubDate": "Thu, 05 Nov 2026 16:57:19 GMT",
         "description": "",
-        "title_cn": "“没有做出投资决策” ： GET H2敦促德国修改氢能市场规则"
+        "title_cn": "在买家未能承诺后，美因茨停止氢气管道，留下€ 700万未使用的国家资金"
       },
       {
-        "title": "Prominence Energy Finds Hydrogen in All 28 CSIRO-Tested Rock Samples at South Australia Project",
-        "link": "https://fuelcellsworks.com/2026/11/04/h2/prominence-energy-finds-hydrogen-in-all-28-csiro-tested-rock-samples-at-south-australia-project",
-        "pubDate": "Wed, 04 Nov 2026 16:35:18 GMT",
+        "title": "H2FCP and California Hydrogen Car Owners Association Partner to Strengthen the Hydrogen Driver Experience",
+        "link": "https://fuelcellsworks.com/2026/11/05/fuel-cells/h2fcp-and-california-hydrogen-car-owners-association-partner-to-strengthen-the-hydrogen-driver-experience",
+        "pubDate": "Thu, 05 Nov 2026 16:42:22 GMT",
         "description": "",
-        "title_cn": "Prominence Energy在南澳大利亚项目的所有28个CSIRO测试岩石样品中发现氢气"
+        "title_cn": "H2FCP与加州氢能汽车车主协会携手加强氢能驾驶员体验"
       },
       {
-        "title": "Green Hydrogen Becomes Less Competitive as Weekly Production Costs Rise",
-        "link": "https://fuelcellsworks.com/2026/11/03/green-hydrogen/green-hydrogen-becomes-less-competitive-as-weekly-production-costs-rise",
-        "pubDate": "Wed, 04 Nov 2026 16:21:17 GMT",
+        "title": "Air Products: $3.2Bn Write-Off After Pulling Out of Clean Hydrogen Projects",
+        "link": "https://fuelcellsworks.com/2026/11/05/h2/air-products-3-2bn-write-off-after-pulling-out-of-clean-hydrogen-projects",
+        "pubDate": "Thu, 05 Nov 2026 16:34:04 GMT",
         "description": "",
-        "title_cn": "随着每周生产成本的上升，绿色氢的竞争力降低"
+        "title_cn": "空气产品公司：撤出清洁氢项目后核销$ 32亿"
       },
       {
-        "title": "KHNP and EPRI Join Forces on Clean Hydrogen Research, Demonstration and Commercialisation",
-        "link": "https://fuelcellsworks.com/2026/11/04/h2/khnp-and-epri-join-forces-on-clean-hydrogen-research-demonstration-and-commercialisation",
-        "pubDate": "Wed, 04 Nov 2026 16:11:57 GMT",
+        "title": "Jeonbuk National University Study Reveals Path to Carbon-Negative Hydrogen Production",
+        "link": "https://fuelcellsworks.com/2026/11/05/h2/jeonbuk-national-university-study-reveals-path-to-carbon-negative-hydrogen-production",
+        "pubDate": "Thu, 05 Nov 2026 16:23:44 GMT",
         "description": "",
-        "title_cn": "KHNP和EPRI携手开展清洁氢气研究、示范和商业化"
+        "title_cn": "全北国立大学的研究揭示了碳负氢生产的途径"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "papers": {
     "items": [
@@ -380,15 +380,15 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "policy_nea": {
     "items": [
       {
-        "title": "12项！国家能源局公布氢能领域首台(套)重大技术装备清单 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUlBnV19ySlBKQ3NBQlAzaGVYcTBmREhNbERTQnNvZWR4VUxnZHRWa3hrNERXeFdTUFZkN0poaVNoMDIzY201RkRqZlA4X3UybnR6M3dR?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
-        "description": "12项！国家能源局公布氢能领域首台(套)重大技术装备清单 &nbsp;&nbsp; 国际氢能网"
+        "title": "含3个氢能试点项目！国家能源局公示“人工智能+”能源试点项目清单 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1RUM2LU1hWWFISmo2TDAyZWhJbWxLY3MtNEx5VXdiTG5mU0MySzdtTUw1NHY4VU1Ta09DWW9JZ2gzd19Kb3dnRDZWeGstaGV5OFllZQ?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 10:05:39 GMT",
+        "description": "含3个氢能试点项目！国家能源局公示“人工智能+”能源试点项目清单 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
@@ -409,16 +409,16 @@
         "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
       },
       {
+        "title": "12项！国家能源局公布氢能领域首台(套)重大技术装备清单 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUlBnV19ySlBKQ3NBQlAzaGVYcTBmREhNbERTQnNvZWR4VUxnZHRWa3hrNERXeFdTUFZkN0poaVNoMDIzY201RkRqZlA4X3UybnR6M3dR?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
+        "description": "12项！国家能源局公布氢能领域首台(套)重大技术装备清单 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
-        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
@@ -427,34 +427,34 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
-        "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
-        "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
+        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
+        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "招商银行济南分行：以绿色金融护航山东绿色低碳高质量发展 - 手机新浪网",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzV3LVhGQ28zWjctdnJJNEpCREg4cDBnVTNVclJQY0F1Mm01WjRRTWw4WEwtRUZNa3NySmVZb01KRVdkT0x3dG5iUGtlaVdMYmhRZFpuaUVIWm1HTFhGcTFKZlhETFYxWWpkTWhNcnN1UHIwNUJiRnNsWnpMTnpLQURrQQ?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 02:24:00 GMT",
-        "description": "招商银行济南分行：以绿色金融护航山东绿色低碳高质量发展 &nbsp;&nbsp; 手机新浪网"
-      },
-      {
-        "title": "国家发改委等五部门：推广节能低碳运输工具，合理优化车辆能耗限值要求，大力发展新能源重卡 - 国际充换电网",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FMWQ2RlhqalBkNTNBSzdIVENqSTVLaEVuRGM5U3JyNWg0ZXVCRjNXYkJRQW1IVnk0T1VEQWNTdC1OOFRlUEtTQmVKc2pobHR1ZjFrNTVMZGg?oc=5",
-        "pubDate": "Thu, 05 Nov 2026 03:10:27 GMT",
-        "description": "国家发改委等五部门：推广节能低碳运输工具，合理优化车辆能耗限值要求，大力发展新能源重卡 &nbsp;&nbsp; 国际充换电网"
+        "title": "以协同之力激活绿色动能：共探中非能源合作实践路径 - 新华丝路",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtZGpvVkVLMGlFMXpkLXptUVdLY2lYR3p0elRfVmpIODBRZ2lPelU4TWZRRzhBU044ZDcwOEZKZ1MyLUpHMlFnVTFyalduVGNZalE?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 03:20:14 GMT",
+        "description": "以协同之力激活绿色动能：共探中非能源合作实践路径 &nbsp;&nbsp; 新华丝路"
       },
       {
         "title": "构建绿色能源伙伴关系 第三届中非能源合作项目推介会在岳阳举行 - 湖南红网",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NTG1MN2JleGgwVW51UlgydEs0S3dwTTBhbE12MFRYU1Y5ZVkzVWxHUzhvSzJpUTExbmc4T2pMa1h2NHBNbktlR19nSDRmTDBHVDBPY0ljM1lkbXk1WVQ4aWtXdzdsOGM?oc=5",
         "pubDate": "Wed, 04 Nov 2026 09:25:26 GMT",
         "description": "构建绿色能源伙伴关系 第三届中非能源合作项目推介会在岳阳举行 &nbsp;&nbsp; 湖南红网"
+      },
+      {
+        "title": "国家发改委等五部门：推广节能低碳运输工具，合理优化车辆能耗限值要求，大力发展新能源重卡 - 国际充换电网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FMWQ2RlhqalBkNTNBSzdIVENqSTVLaEVuRGM5U3JyNWg0ZXVCRjNXYkJRQW1IVnk0T1VEQWNTdC1OOFRlUEtTQmVKc2pobHR1ZjFrNTVMZGg?oc=5",
+        "pubDate": "Thu, 05 Nov 2026 03:10:27 GMT",
+        "description": "国家发改委等五部门：推广节能低碳运输工具，合理优化车辆能耗限值要求，大力发展新能源重卡 &nbsp;&nbsp; 国际充换电网"
       },
       {
         "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
@@ -475,19 +475,19 @@
         "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
       },
       {
-        "title": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 - 中国碳排放交易网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYTNoQUVCamZOUUhlUzlmc2REVFNyLUhlbUg1NXRrRnVoUmRZMTJpdGI3dlFEeWFTaU9HMXJ3ZnUxdnJ0SjdsUk42VC1QLUxvaER4dXBLUi1lZjhJX3p3OHprMzZReUk?oc=5",
-        "pubDate": "Mon, 02 Nov 2026 02:57:00 GMT",
-        "description": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 &nbsp;&nbsp; 中国碳排放交易网"
-      },
-      {
         "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
         "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
         "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
+      },
+      {
+        "title": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 - 中国碳排放交易网",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYTNoQUVCamZOUUhlUzlmc2REVFNyLUhlbUg1NXRrRnVoUmRZMTJpdGI3dlFEeWFTaU9HMXJ3ZnUxdnJ0SjdsUk42VC1QLUxvaER4dXBLUi1lZjhJX3p3OHprMzZReUk?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 02:57:00 GMT",
+        "description": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 &nbsp;&nbsp; 中国碳排放交易网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-05 08:51 UTC"
+    "updated": "2026-11-05 20:53 UTC"
   }
 }
