@@ -1,40 +1,40 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "keywords": [
     {
       "id": 1,
-      "term": "贝叶斯优化",
-      "category": "统计",
-      "definition": "<strong>含义：</strong>基于贝叶斯推断的全局优化方法，利用已有实验结果建立替代模型，智能推荐下一个最值得实验的条件，大幅减少实验次数。",
-      "example": "<strong>举例：</strong>传统网格搜索需实验1000次筛选最优催化剂；贝叶斯优化可以在50-100次实验内找到接近最优解——是高通量实验的理想搭档。"
+      "term": "协同效应",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>催化剂中不同组分或活性中心之间相互促进、使整体性能超过各组分之和的现象。",
+      "example": "<strong>举例：</strong>Ni-Mo合金催化剂的HER活性远超纯Ni或纯Mo：Ni提供H₂O分解位，Mo提供H*结合位，两者协同加速反应全程。"
     },
     {
       "id": 2,
-      "term": "MXene",
+      "term": "超导体",
       "category": "材料",
-      "definition": "<strong>含义：</strong>二维过渡金属碳化物/氮化物材料，具有金属导电性和亲水表面，是储能和电催化的新型明星材料。",
-      "example": "<strong>举例：</strong>Ti₃C₂ MXene导电性接近铜，表面官能团丰富，可作为HER催化剂载体或直接参与催化，近三年相关论文数量呈指数增长。"
+      "definition": "<strong>含义：</strong>在特定温度下电阻降为零的材料，可以无损耗输电，在MRI、粒子加速器、磁悬浮等领域有关键应用；室温超导是百年物理学圣杯。",
+      "example": "<strong>举例：</strong>高温超导线圈用于MRI磁场；液氮温区（77K）超导体已商业化；如果实现室温超导，可消除全球约5-10%的输电损耗。"
     },
     {
       "id": 3,
-      "term": "电子结构调控",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>通过掺杂、界面效应、配位环境等手段，定向改变催化剂金属位点的d带位置或费米能级，优化吸附能，提升活性。",
-      "example": "<strong>举例：</strong>在Ni单原子催化剂中引入Fe配位，使Ni的d带中心上移，对*OH的吸附能从过强变为适中，OER过电位从350mV降至240mV。"
+      "term": "矩阵管理",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>员工同时向职能部门和项目负责人双线汇报的组织结构，兼顾专业能力与项目效率，是大型集团常见模式。",
+      "example": "<strong>举例：</strong>国家能源集团的技术人员，既向总部技术部汇报能力发展，又向所在地区项目汇报工作进展，两套体系并行运作。"
     },
     {
       "id": 4,
-      "term": "电化学活性面积",
-      "category": "化学",
-      "definition": "<strong>含义：</strong>ECSA（Electrochemically Active Surface Area），通过电化学方法测定的催化剂有效工作表面积，比BET更接近真实催化活性面积。",
-      "example": "<strong>举例：</strong>利用Cu欠电位沉积或Pt吸附脱附峰积分，可准确计算ECSA；ECSA归一化的电流密度称为本征活性，是公平比较催化剂的标准。"
+      "term": "关键路径",
+      "category": "管理",
+      "definition": "<strong>含义：</strong>项目中工期最长的工序链，决定整个项目的最短完成时间，关键路径上任何延迟都会推迟项目完成，是项目管理重点监控对象。",
+      "example": "<strong>举例：</strong>建设制氢工厂时，设备采购周期往往是关键路径上的限制因素——电解槽交货需要6-8个月，应最先启动采购，而非等设计图纸全部完成才订货。"
     },
     {
       "id": 5,
-      "term": "机器学习势",
-      "category": "统计",
-      "definition": "<strong>含义：</strong>用机器学习方法拟合DFT数据得到的势能函数，可以以接近DFT精度、远低于DFT计算量的代价进行分子动力学模拟。",
-      "example": "<strong>举例：</strong>DeePMD-kit等工具生成的机器学习势，可对含数万原子的催化剂体系做纳秒级MD模拟，是传统DFT的百倍以上的规模。"
+      "term": "法拉第效率",
+      "category": "化学",
+      "definition": "<strong>含义：</strong>实际生成目标产物所消耗的电荷量与输入总电荷量之比，衡量电催化反应的选择性和电能利用效率。",
+      "example": "<strong>举例：</strong>析氢反应法拉第效率接近100%（几乎无副反应）；CO₂电还原成乙烯的法拉第效率提升至70%以上，是近年重要突破。"
     }
   ]
 }
