@@ -23,6 +23,13 @@
         "title_cn": "牙刷在刷毛移动时用电击除细菌"
       },
       {
+        "title": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
+        "link": "https://www.nature.com/articles/d41586-026-03537-7",
+        "pubDate": "2026-11-04",
+        "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03537-7 Astronomers spot an unprecedented double disk of debris around a dead star.",
+        "title_cn": "史无前例的行星残骸为我们太阳系的命运提供了线索"
+      },
+      {
         "title": "A guide to Nature Index tables",
         "link": "https://www.nature.com/articles/d41586-026-03344-0",
         "pubDate": "2026-11-04",
@@ -49,25 +56,25 @@
         "pubDate": "2026-11-04",
         "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.",
         "title_cn": "帕金森氏症：超越大脑"
-      },
-      {
-        "title": "AI agents run this automated biology lab that sequences DNA and more",
-        "link": "https://www.nature.com/articles/d41586-026-03552-8",
-        "pubDate": "2026-11-04",
-        "description": "Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03552-8 Self-driving lab in China requires only a simple prompt to encode messages in DNA and read them out.",
-        "title_cn": "人工智能代理运行这个自动化生物学实验室，对DNA等进行测序"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Nabrawind’s Crane-Free Wind Towers Face a Supplier Test",
+        "link": "https://cleantechnica.com/2026/11/04/nabrawind-crane-free-wind-towers-supplier-risk/",
+        "pubDate": "Wed, 04 Nov 2026 21:27:43 +0000",
+        "description": "Spain&#8217;s Nabrawind has developed a way to install exceptionally tall wind turbine towers without bringing an enormous crawler crane to the site. Its Nabralift system uses a tubular upper tower supported by a three-legged steel structure. Hydraulic equipment raises the assembled turbine while mo",
+        "title_cn": "Nabrawind的无起重机风塔面临供应商测试"
+      },
       {
         "title": "“War” Secretary Pete Hegseth Endorses 15 Minute City Model",
         "link": "https://cleantechnica.com/2026/11/04/15-minute-city-model-us-defense-department-hesgeth/",
@@ -116,17 +123,10 @@
         "pubDate": "Wed, 04 Nov 2026 01:47:05 +0000",
         "description": "Oahu is a unique place. It&#8217;s the home of one of the largest clean tech incubators in the world, Elemental Impact, for a reason. Exorbitantly high electricity rates combined with ample natural resources make it an incredible laboratory to bring clean tech solutions to market. Rapid investment f",
         "title_cn": "瓦胡岛如何实现经济适应性强、100%清洁能源的未来？"
-      },
-      {
-        "title": "China Truck Sales Now Majority Electric. What’s Next?",
-        "link": "https://cleantechnica.com/2026/11/03/china-truck-sales-now-majority-electric-whats-next/",
-        "pubDate": "Wed, 04 Nov 2026 00:38:20 +0000",
-        "description": "EV heavy trucks hit 50.3% market share in China for September, with sales up 34% from a year ago. Long-haul big rig market share hit 64.5%. China is on track to have over 40% EV market share for the entire year, reaching their 2030 goal in a matter of months. ... [continued] The post China Truck Sal",
-        "title_cn": "中国卡车销售现在主要是电动卡车。下一步是什么？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "energy_cn": {
     "items": [
@@ -217,32 +217,32 @@
         "description": "12项氢能装备！能源局第六批首台（套）重大技术装备清单 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
-        "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
-        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
-      },
-      {
         "title": "氢能产业正走向“精选赛道” - 中国石化新闻网",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclFfdWhnN1A4UFZMOHBIM08zTlF4YzJOUFJPbkItWnBVQTg1ektOY19VVlhPY0FDdGM1N0VjY0d2NU1tUFRDTDR2Q29xNk5sOGhFa1lpMGlCaXJjM1VacmVUTEpRclBZcTdjUWlzeDlrMHpOOVhfWnZVVWNUa280bQ?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
       },
       {
-        "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
-        "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
-        "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
+        "title": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 - UN News",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yMnRtMXRKVER3MTFJWFp2SGNfTmlCYWctMDVwelZSNVNsUnV1T2U0dGhtbDRNM1F3MGtjeS14OHlhdFVOSi1Wa2xINWgxendJcEVzOEVLWQ?oc=5",
+        "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
+        "description": "【前方视野】解码绿氢：能源转型的“最后一块拼图” ——专访水电水利规划设计总院副院长张益国 &nbsp;&nbsp; UN News"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
+        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "126000Nm³/h！中能建松原氢能产业园二期项目设计招标！ - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRzdwMV8zQ1NHa1dCMVRhblpyWm4xQU9NcVNNN0F0ZTQxb2piamVoeE9XR0ZGS1NyMEVIMU42NkhxaTZhRkNXbFBtbzJ3Ul9Kd0V6aA?oc=5",
+        "pubDate": "Mon, 02 Nov 2026 08:00:00 GMT",
+        "description": "126000Nm³/h！中能建松原氢能产业园二期项目设计招标！ &nbsp;&nbsp; 世纪新能源网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,16 +403,16 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
-        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
         "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+      },
+      {
+        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
+        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
       },
       {
         "title": "国家能源局召开民营企业座谈会 - 国家能源局",
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,16 +445,10 @@
         "description": "《“绿动渤海”行动方案（2026—2030年）河北篇》 政策解读新闻发布会成功举办 &nbsp;&nbsp; 中国碳排放交易网"
       },
       {
-        "title": "联合国第十五届能源可持续发展国际论坛西安启幕 - 搜狐网",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSk5QcjRLN2xVZDlFNGZsT2JlMERKeVlfenNLZllRcHVseXhPYk5pYm1ndXpkeWVnSGl4WWNUZUw2SkhlajJNZU8zb3FrVnpSeVFuZUNWaGEwX0k4NGF1aUNVYS12dDdwdmZVZ25oLXp6dDlqTkJ3OFdNeXhCeXBVWE9ZZUhBWHFi?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 08:14:39 GMT",
-        "description": "联合国第十五届能源可持续发展国际论坛西安启幕 &nbsp;&nbsp; 搜狐网"
-      },
-      {
-        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
-        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
         "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
@@ -485,9 +479,15 @@
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtdno5WnlQQW96RWZxQTVPaFRfYXlLalpYYVZYQWJCWVl0aUZxZVc2WTI2enF2Y1NVZXNqU21qQm4xRlZyTENzaXNKeEZ2WDNtSUh6ak5GQlZmNUVEb2c?oc=5",
         "pubDate": "Mon, 02 Nov 2026 00:11:00 GMT",
         "description": "绿色航运加快发展 &nbsp;&nbsp; 碳道app"
+      },
+      {
+        "title": "联合国第十五届能源可持续发展国际论坛西安启幕 - 搜狐网",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSk5QcjRLN2xVZDlFNGZsT2JlMERKeVlfenNLZllRcHVseXhPYk5pYm1ndXpkeWVnSGl4WWNUZUw2SkhlajJNZU8zb3FrVnpSeVFuZUNWaGEwX0k4NGF1aUNVYS12dDdwdmZVZ25oLXp6dDlqTkJ3OFdNeXhCeXBVWE9ZZUhBWHFi?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 08:14:39 GMT",
+        "description": "联合国第十五届能源可持续发展国际论坛西安启幕 &nbsp;&nbsp; 搜狐网"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-04 20:37 UTC"
+    "updated": "2026-11-05 01:55 UTC"
   }
 }
