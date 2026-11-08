@@ -59,15 +59,22 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
+        "link": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
+        "pubDate": "Sun, 08 Nov 2026 16:04:03 +0000",
+        "description": "California has been one of hydrogen&#8217;s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation",
+        "title_cn": "即使是加利福尼亚州最大的港口也没有押注氢气用于船舶"
+      },
       {
         "title": "Tesla Hasn’t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
         "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
@@ -116,17 +123,10 @@
         "pubDate": "Sat, 07 Nov 2026 16:52:11 +0000",
         "description": "General Motors seeks to reclaim the title of EV innovator from Tesla, drawing renewed attention to its work on the 1990's-era Impact concept EV and EV1 sedan. The post GM Steps On Tesla&#8217;s EV Toes With EV1 Celebration appeared first on CleanTechnica .",
         "title_cn": "通用汽车通过EV1庆祝活动踩踏特斯拉的电动汽车脚趾"
-      },
-      {
-        "title": "Is Trump About To Reignite His Big EV Push?",
-        "link": "https://cleantechnica.com/2026/11/06/is-trump-about-to-reignite-his-big-ev-push/",
-        "pubDate": "Sat, 07 Nov 2026 04:57:20 +0000",
-        "description": "There are so many ironies with the Trump presidency. I remember writing about many of them in his first term. Now, though, we have some additional ones. For example, despite his apparent hate for clean technologies (wind power, solar power, electric vehicles, energy efficient appliances), Trump has ",
-        "title_cn": "特朗普是否即将重新点燃他的大型电动汽车推动力？"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "energy_cn": {
     "items": [
@@ -197,6 +197,12 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1RUM2LU1hWWFISmo2TDAyZWhJbWxLY3MtNEx5VXdiTG5mU0MySzdtTUw1NHY4VU1Ta09DWW9JZ2gzd19Kb3dnRDZWeGstaGV5OFllZQ?oc=5",
         "pubDate": "Thu, 05 Nov 2026 10:05:39 GMT",
         "description": "含3个氢能试点项目！国家能源局公示“人工智能+”能源试点项目清单 &nbsp;&nbsp; 国际氢能网"
+      },
+      {
+        "title": "学校领导为能源电力类专业本科生讲授专业导论课 - 兰州大学新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03bmpYWFJmaFFhMUNVcUtFdXZvWTBfaWtTdnRrM3RldzJZekdRM2txVlRYUkFaaThmSnZLTm1obVRzOS1OVW52TnRrU0tjMlJWMEtwS2hudUw?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 04:53:34 GMT",
+        "description": "学校领导为能源电力类专业本科生讲授专业导论课 &nbsp;&nbsp; 兰州大学新闻网"
       },
       {
         "title": "国家能源局副局长宋宏坤：氢能将成为新能源增量发展与传统产业转型的重要支撑 - ThePaper.cn",
@@ -233,16 +239,10 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMFlkT2lxclNxZ2N1NXJSUE1NRU9IQUo4VWJ0ZmJNdnVhV1VqZkFsRHljWGt3bHpyNExlZkhxcDVpdFE1Q2tIWE9HcG5jb1dkWTVRTzRn?oc=5",
         "pubDate": "Fri, 06 Nov 2026 01:33:56 GMT",
         "description": "4个！国家能源局公示“人工智能+”氢能试点项目 &nbsp;&nbsp; 国际氢能网"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "policy_nea": {
     "items": [
@@ -427,14 +427,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0ZXBhT2xBQ0xCZ2h1d0NaRzdpWWZGdFJoRXlDNEVlcmx2bHJSWHVkenFFaDJZd1RMazRIRFJxYTFoYmdKdmZxRjlreE95MWk1cURlVldn?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 01:22:37 GMT",
-        "description": "18省市、32条！10月氢能政策：涉及城市群、补贴、氢燃料电池、加氢站等 &nbsp;&nbsp; 国际氢能网"
+        "title": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
+        "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
+        "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-08 08:25 UTC"
+    "updated": "2026-11-08 18:36 UTC"
   }
 }
