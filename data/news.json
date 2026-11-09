@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition — CleanTechnica Tested",
+        "link": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
+        "pubDate": "Sun, 08 Nov 2026 22:37:06 +0000",
+        "description": "Jackery was one of the earliest portable power station producers to bring these beautiful creations into the mainstream. They have a line of portable power stations and proprietary portable, foldable solar panels that continues to make them one of the top go-to options for anyone looking for power o",
+        "title_cn": "Jackery HomePower 2000 Plus v2红十字版— CleanTechnica已测试"
+      },
+      {
+        "title": "Bigger than Godzilla!",
+        "link": "https://cleantechnica.com/2026/11/08/bigger-than-godzilla/",
+        "pubDate": "Sun, 08 Nov 2026 19:29:31 +0000",
+        "description": "Fortescue&#8217;s plans for the Pilbara include wind turbine blades that are bigger than Godzilla. While Fortescue’s boss hobnobs with King Charles III and chats about sustainability, under the Commonwealth Nature Initiative, progress continues towards real zero in the remote Pilbara of Western Aust",
+        "title_cn": "比哥斯拉还大！"
+      },
+      {
+        "title": "Top Selling Electric Vehicles in the World — 32% EV Share in September!",
+        "link": "https://cleantechnica.com/2026/11/08/top-selling-electric-vehicles-in-the-world-32-ev-share-in-september/",
+        "pubDate": "Sun, 08 Nov 2026 18:47:58 +0000",
+        "description": "BEVs Up, PHEVs Down Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 million) set last December. Once again, BEVs (+8% YoY) and PHEVs (-9% YoY) are experiencing opposite d",
+        "title_cn": "全球畅销电动汽车— 9月份电动汽车份额为32% ！"
+      },
       {
         "title": "Even California’s Biggest Ports Aren’t Betting On Hydrogen For Ships",
         "link": "https://cleantechnica.com/2026/11/08/california-biggest-ports-not-betting-hydrogen-ships/",
@@ -102,31 +123,10 @@
         "pubDate": "Sat, 07 Nov 2026 20:42:56 +0000",
         "description": "REDD, the name for our new Tesla Model Y (Standard Range ’26 build, ’27 model), was inspired by the movie of the same name – Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentioned previously, there is nothing wrong with our beloved 2019 Model 3. It is ... [continued] The post",
         "title_cn": "REDD —挑选我们的新特斯拉Y型车"
-      },
-      {
-        "title": "The Velotric GoMad Electric Utility eBike — CleanTechnica Tested",
-        "link": "https://cleantechnica.com/2026/11/07/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/",
-        "pubDate": "Sat, 07 Nov 2026 18:59:48 +0000",
-        "description": "Velotric has emerged as one of the largest ebike brands in the US, offering a wide range of models for buyers to choose from. Having a wide range of models with differing capabilities is increasingly a key factor for buyers when deciding which ebike to buy, as it allows them ... [continued] The post",
-        "title_cn": "Velotric GoMad电动公用事业电动自行车— CleanTechnica已测试"
-      },
-      {
-        "title": "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
-        "link": "https://cleantechnica.com/2026/11/07/esbjerg-seawater-heat-pumps-cold-water-district-heating/",
-        "pubDate": "Sat, 07 Nov 2026 17:21:36 +0000",
-        "description": "Esbjerg, Denmark, is using large electric heat pumps to extract heat from the North Sea and supply its district-heating network. During a two-hour winter test, seawater entered the system at 3.3°C and left at 1.2°C. The two heat pumps consumed 19.9 MW of electricity and supplied 55.2 MW of heat ... ",
-        "title_cn": "丹麦埃斯比约（ Esbjerg ）的冷海水为区域供暖"
-      },
-      {
-        "title": "GM Steps On Tesla’s EV Toes With EV1 Celebration",
-        "link": "https://cleantechnica.com/2026/11/07/cybertruck-tesla-gm-ev1-ev-sales-us-market-electric-pickups/",
-        "pubDate": "Sat, 07 Nov 2026 16:52:11 +0000",
-        "description": "General Motors seeks to reclaim the title of EV innovator from Tesla, drawing renewed attention to its work on the 1990's-era Impact concept EV and EV1 sedan. The post GM Steps On Tesla&#8217;s EV Toes With EV1 Celebration appeared first on CleanTechnica .",
-        "title_cn": "通用汽车通过EV1庆祝活动踩踏特斯拉的电动汽车脚趾"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "energy": {
     "items": [
@@ -188,7 +188,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "energy_cn": {
     "items": [
@@ -235,14 +235,14 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "4个！国家能源局公示“人工智能+”氢能试点项目 - 国际氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhMFlkT2lxclNxZ2N1NXJSUE1NRU9IQUo4VWJ0ZmJNdnVhV1VqZkFsRHljWGt3bHpyNExlZkhxcDVpdFE1Q2tIWE9HcG5jb1dkWTVRTzRn?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 01:33:56 GMT",
-        "description": "4个！国家能源局公示“人工智能+”氢能试点项目 &nbsp;&nbsp; 国际氢能网"
+        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
+        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -488,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-08 18:36 UTC"
+    "updated": "2026-11-09 01:20 UTC"
   }
 }
