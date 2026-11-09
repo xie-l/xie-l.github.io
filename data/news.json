@@ -2,72 +2,100 @@
   "tech": {
     "items": [
       {
-        "title": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
+        "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+        "link": "https://www.nature.com/articles/d41586-026-03588-w",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.",
+        "title_cn": "他在“火星”上度过了一年：美国宇航局科学官员从模拟任务中脱颖而出"
+      },
+      {
+        "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+        "link": "https://www.nature.com/articles/d41586-026-03628-5",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.",
+        "title_cn": "超级厄尔尼诺现象不仅仅是一种气候冲击--它也是一种健康冲击"
+      },
+      {
+        "title": "How to make failure your friend and teacher in science",
+        "link": "https://www.nature.com/articles/d41586-026-03654-3",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03654-3 Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists are no different, argues Ruth Morgan.",
+        "title_cn": "如何让失败成为你的科学朋友和老师"
+      },
+      {
+        "title": "Carlo Rovelli says fundamental physics is overrated",
+        "link": "https://www.nature.com/articles/d41586-026-03626-7",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03626-7 The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever become conscious.",
+        "title_cn": "Carlo Rovelli说基础物理学被高估了"
+      },
+      {
+        "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
         "link": "https://www.nature.com/articles/d41586-026-03631-w",
         "pubDate": "2026-11-09",
         "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03631-w Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits.",
-        "title_cn": "随着地球面临1.5°C气候目标的迫在眉睫的超调， COP31开始启动"
+        "title_cn": "随着地球面临1.5°C气候目标即将超调， COP31启动"
       },
       {
-        "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
-        "link": "https://www.nature.com/articles/d41586-026-03595-x",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03595-x Andrew Robinson reviews five of the best science picks.",
-        "title_cn": "药用植物、蘑菇的经验教训和嗅觉的力量：书籍简介"
+        "title": "Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally",
+        "link": "https://www.nature.com/articles/s41586-026-11375-w",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/s41586-026-11375-w Author Correction: Histone H3 trimethylation at lysine 36 guides m 6 A RNA modification co-transcriptionally",
+        "title_cn": "作者更正：赖氨酸组蛋白H3三甲基化36引导m 6 RNA修饰共转录"
       },
       {
-        "title": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
-        "link": "https://www.nature.com/articles/d41586-026-03630-x",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.",
-        "title_cn": "霍乱细菌的好事：激发稀有特性的胶水"
+        "title": "AI has transformed maths — this is how we got here",
+        "link": "https://www.nature.com/articles/d41586-026-03627-6",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03627-6 The story of how maths came to run the world, and created the artificial-intelligence models that might surpass human mathematicians.",
+        "title_cn": "人工智能改变了数学—这就是我们到达这里的方式"
       },
       {
-        "title": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
-        "link": "https://www.nature.com/articles/d41586-026-03632-9",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.",
-        "title_cn": "简报聊天：认识远离麻烦的蛇"
-      },
-      {
-        "title": "Preprint platform offers to pay researchers to review papers, but questions remain",
-        "link": "https://www.nature.com/articles/d41586-026-03442-z",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.",
-        "title_cn": "预印本平台提供付费给研究人员审查论文，但问题仍然存在"
-      },
-      {
-        "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
-        "link": "https://www.nature.com/articles/s41586-026-11233-9",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
-        "title_cn": "用于持久降脂的ANGPTL3的体内CRISPR碱基编辑"
-      },
-      {
-        "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-        "link": "https://www.nature.com/articles/d41586-026-03587-x",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03587-x A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace’s operations.",
-        "title_cn": "这些人工智能代理为您设计完美的机器人实验室—并为您运行"
-      },
-      {
-        "title": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
-        "link": "https://www.nature.com/articles/d41586-026-03622-x",
-        "pubDate": "2026-11-06",
-        "description": "Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03622-x Artificial intelligence could take the field into new territory, but researchers must create the rules and institutions that keep humans at its centre.",
-        "title_cn": "“数学不仅仅是一个机械过程” --为什么我认为该领域将在OpenAI的颠覆中幸存下来"
+        "title": "How academic freedom is changing around the world — by the numbers",
+        "link": "https://www.nature.com/articles/d41586-026-02998-0",
+        "pubDate": "2026-11-09",
+        "description": "Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02998-0 Nature reports on five countries where academic freedom has either plummeted or soared in recent years.",
+        "title_cn": "世界各地的学术自由如何变化—从数字来看"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "West Yorkshire’s £229 Million Bus Decisions Will Outlast Its Operating Contracts",
+        "link": "https://cleantechnica.com/2026/11/09/west-yorkshire-bus-depots-electric-bus-investment/",
+        "pubDate": "Mon, 09 Nov 2026 17:06:49 +0000",
+        "description": "West Yorkshire is investing heavily in buses and depots as it introduces franchising. The longer-term challenge is whether those assets remain useful when routes, contracts and operators change. The post West Yorkshire&#8217;s £229 Million Bus Decisions Will Outlast Its Operating Contracts appeared ",
+        "title_cn": "西约克郡2.29亿英镑的公交车决定将超过其运营合同"
+      },
+      {
+        "title": "BAAJA Remains Fundamentally Flawed Despite Manager’s Amendment",
+        "link": "https://cleantechnica.com/2026/11/09/baaja-remains-fundamentally-flawed-despite-managers-amendment/",
+        "pubDate": "Mon, 09 Nov 2026 15:10:40 +0000",
+        "description": "Senate Must Allow for an Open Amendment Process Washington, DC — In the continued rush to hold a vote during the lame duck session on the “Bipartisan American Affordability and Jobs Act of 2026”, the senators crafting the bill released a manager’s amendment on Saturday. The Senate has scheduled a ..",
+        "title_cn": "尽管经理的修正案， BAAJA仍然存在根本性的缺陷"
+      },
+      {
+        "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis",
+        "link": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
+        "pubDate": "Mon, 09 Nov 2026 15:03:14 +0000",
+        "description": "Five years on from Glasgow, EVs have proved the single most effective way to curb oil use, says T&#38;E. Battery electric vehicles (BEVs) make up about 4.2% of the global car fleet but account for a quarter of all new cars sold worldwide; BEVs displace 1.2 million barrels of oil ... [continued] The ",
+        "title_cn": "电动汽车在全球的排油量是5年前的5倍—分析"
+      },
+      {
+        "title": "Ford Drops Hint About New Fathom EV Battery Life",
+        "link": "https://cleantechnica.com/2026/11/09/ford-drops-clue-about-ford-fathom-ev-battery/",
+        "pubDate": "Mon, 09 Nov 2026 14:00:07 +0000",
+        "description": "Ford is drawing attention to the long lifespan of the 2021 Mustang Mach-E EV battery, setting high expectations for the forthcoming Fathom electric pickup truck. The post Ford Drops Hint About New Fathom EV Battery Life appeared first on CleanTechnica .",
+        "title_cn": "福特发布关于Fathom电动汽车新电池寿命的提示"
+      },
       {
         "title": "The Jackery HomePower 2000 Plus v2 Red Cross Edition — CleanTechnica Tested",
         "link": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
@@ -95,41 +123,20 @@
         "pubDate": "Sun, 08 Nov 2026 16:04:03 +0000",
         "description": "California has been one of hydrogen&#8217;s most enthusiastic supporters for two decades. The state has subsidized hydrogen vehicles, backed refueling networks, supported fuel-cell buses and trucks, invested in hydrogen production and kept the technology prominent in its zero-emission transportation",
         "title_cn": "即使是加利福尼亚州最大的港口也没有押注氢气用于船舶"
-      },
-      {
-        "title": "Tesla Hasn’t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
-        "link": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
-        "pubDate": "Sun, 08 Nov 2026 04:57:46 +0000",
-        "description": "As has been widely reported, Tesla is about to end Cybertruck production. The Cybertruck has been a shocking failure. I&#8217;m sure there are more detailed analyses out there somewhere, but this short response on X from Ben McCombe that Tina Casey included in her article on the matter sums it ... [",
-        "title_cn": "自JB Straubel辞去首席技术官职务以来，特斯拉尚未成功推出新产品"
-      },
-      {
-        "title": "A New $1.5 Billion Wind Farm Will Play In Peoria",
-        "link": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
-        "pubDate": "Sun, 08 Nov 2026 00:24:20 +0000",
-        "description": "The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy. The post A New $1.5 Billion Wind Farm Will Play In Peoria appeared first on CleanTechnica .",
-        "title_cn": "一个新的$ 15亿风力发电场将在皮奥里亚发挥作用"
-      },
-      {
-        "title": "BMW Pitches Free EV Charging And You Ain’t Seen Nothing Yet",
-        "link": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
-        "pubDate": "Sat, 07 Nov 2026 21:56:33 +0000",
-        "description": "BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates. The post BMW Pitches Free EV Charging And You Ain&#8217;t Seen Nothing Yet appeared first on CleanTechnica .",
-        "title_cn": "宝马推销免费电动汽车充电，您还没有看到任何东西"
-      },
-      {
-        "title": "REDD — Picking Up Our New Tesla Model Y",
-        "link": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/",
-        "pubDate": "Sat, 07 Nov 2026 20:42:56 +0000",
-        "description": "REDD, the name for our new Tesla Model Y (Standard Range ’26 build, ’27 model), was inspired by the movie of the same name – Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentioned previously, there is nothing wrong with our beloved 2019 Model 3. It is ... [continued] The post",
-        "title_cn": "REDD —挑选我们的新特斯拉Y型车"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
+        "link": "https://www.nature.com/articles/s41560-026-02163-x",
+        "pubDate": "2026-11-09",
+        "description": "Nature Energy, Published online: 09 November 2026; doi:10.1038/s41560-026-02163-x As data centres increase pressure on power systems, the costs of accommodating their growth are becoming a concern. Here the researchers show that data centres raise wholesale prices and shift transmission costs onto h",
+        "title_cn": "数据中心通过批发价格上涨和电网成本递减，不对称地加剧了能源负担"
+      },
       {
         "title": "Author Correction: Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
         "link": "https://www.nature.com/articles/s41560-026-02180-w",
@@ -178,17 +185,10 @@
         "pubDate": "2026-10-30",
         "description": "Nature Energy, Published online: 30 October 2026; doi:10.1038/s41560-026-02159-7 Reactive CO2 capture integrates carbon capture and electrochemical conversion in a single process, but poor catalyst durability remains a major challenge. Here the authors show that pH-swing-driven acidification acceler",
         "title_cn": "通过自增强分子催化剂捕获超过1000小时的持久活性二氧化碳"
-      },
-      {
-        "title": "Caloric cooling devices and systems",
-        "link": "https://www.nature.com/articles/s41560-026-02143-1",
-        "pubDate": "2026-10-30",
-        "description": "Nature Energy, Published online: 30 October 2026; doi:10.1038/s41560-026-02143-1 Caloric cooling offers a promising solid-state alternative to conventional refrigeration, but system-level challenges continue to limit practical deployment. This Review evaluates the state of the art, identifies the ke",
-        "title_cn": "热量冷却装置和系统"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,16 +199,10 @@
         "description": "4个！国家能源局公示“人工智能+”氢能试点项目 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "学校领导为能源电力类专业本科生讲授专业导论课 - 兰州大学新闻网",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03bmpYWFJmaFFhMUNVcUtFdXZvWTBfaWtTdnRrM3RldzJZekdRM2txVlRYUkFaaThmSnZLTm1obVRzOS1OVW52TnRrU0tjMlJWMEtwS2hudUw?oc=5",
-        "pubDate": "Tue, 03 Nov 2026 04:53:34 GMT",
-        "description": "学校领导为能源电力类专业本科生讲授专业导论课 &nbsp;&nbsp; 兰州大学新闻网"
-      },
-      {
-        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
-        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+        "title": "74个！现代化用电营商环境“三个一批”建设典型案例清单公布 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vTVFvdEVUc0tZTmw1dHV4c001Z1VnakowT3RVOFQxTlRkeGpFRUVhV2JzNTBvWlVIeXFDWTFVdVh1MWJVSFBfcXl4REo3T3pJeXVlTw?oc=5",
+        "pubDate": "Mon, 09 Nov 2026 06:32:04 GMT",
+        "description": "74个！现代化用电营商环境“三个一批”建设典型案例清单公布 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "国家能源局副局长宋宏坤：氢能将成为新能源增量发展与传统产业转型的重要支撑 - ThePaper.cn",
@@ -217,16 +211,16 @@
         "description": "国家能源局副局长宋宏坤：氢能将成为新能源增量发展与传统产业转型的重要支撑 &nbsp;&nbsp; ThePaper.cn"
       },
       {
+        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
         "title": "氢能产业正走向“精选赛道” - 中国石化新闻网",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclFfdWhnN1A4UFZMOHBIM08zTlF4YzJOUFJPbkItWnBVQTg1ektOY19VVlhPY0FDdGM1N0VjY0d2NU1tUFRDTDR2Q29xNk5sOGhFa1lpMGlCaXJjM1VacmVUTEpRclBZcTdjUWlzeDlrMHpOOVhfWnZVVWNUa280bQ?oc=5",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
-      },
-      {
-        "title": "国家能源局发布AI+氢能“国家队”名单 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92QTZiZ0prc3R3XzIyaS1Hb1QzVXp4QmdzOXFwQkJySXBGMjJINFV2SVBNeXJEUlhPOUVhekVPTHdhUFIyRFNOZWRkN2dFdkxRVzNoZQ?oc=5",
-        "pubDate": "Fri, 06 Nov 2026 06:27:03 GMT",
-        "description": "国家能源局发布AI+氢能“国家队”名单 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -235,76 +229,82 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
+      },
+      {
+        "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
+        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "hydrogen": {
     "items": [
       {
-        "title": "Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture",
-        "link": "https://fuelcellsworks.com/2026/11/05/clean-energy/google-confirms-17-billion-wyoming-data-centre-investment-with-702mw-bloom-fuel-cells-and-carbon-capture",
-        "pubDate": "Fri, 06 Nov 2026 17:30:51 GMT",
+        "title": "Oxygenwerk Friedrichshafen Awards Contracts for 5 MW Hydrogen Plant in the Allgäu",
+        "link": "https://fuelcellsworks.com/2026/11/09/h2/oxygenwerk-friedrichshafen-awards-contracts-for-5-mw-hydrogen-plant-in-the-allgau",
+        "pubDate": "Mon, 09 Nov 2026 17:19:20 GMT",
         "description": "",
-        "title_cn": "谷歌确认向怀俄明州数据中心投资170亿美元$ 702MW Bloom燃料电池和碳捕获"
+        "title_cn": "Oxygenwerk Friedrichshafen授予位于Allgäu的5兆瓦氢气厂合同"
       },
       {
-        "title": "South Korea Opens 39.8MW Fuel-Cell Plant Featuring First Commercial Domestic SOFC",
-        "link": "https://fuelcellsworks.com/2026/11/05/electrolyzer/south-korea-opens-39-8mw-fuel-cell-plant-featuring-first-commercial-domestic-sofc",
-        "pubDate": "Fri, 06 Nov 2026 17:08:48 GMT",
+        "title": "Fuel Cell and Hydrogen News Highlights From China: Nov. 02-06, 2026",
+        "link": "https://fuelcellsworks.com/2026/11/08/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-nov-02-06-2026",
+        "pubDate": "Mon, 09 Nov 2026 17:01:14 GMT",
         "description": "",
-        "title_cn": "韩国开设39.8MW燃料电池厂，配备国内首个商用SOFC"
+        "title_cn": "来自中国的燃料电池和氢气新闻亮点： 2026年11月2日至6日"
       },
       {
-        "title": "German Researchers Run Converted Diesel Engine on Waste-Derived Hydrogen-Rich Gas at Just 40% H₂",
-        "link": "https://fuelcellsworks.com/2026/11/02/h2/german-researchers-run-converted-diesel-engine-on-waste-derived-hydrogen-rich-gas-at-just-40-percent-h",
-        "pubDate": "Fri, 06 Nov 2026 17:04:40 GMT",
+        "title": "Wärtsilä Backs Hydrogen and Ammonia Engine Research at Aalto University With €200,000 Donation",
+        "link": "https://fuelcellsworks.com/2026/11/09/green-investment/wartsila-backs-hydrogen-and-ammonia-engine-research-at-aalto-university-with-200-000-donation",
+        "pubDate": "Mon, 09 Nov 2026 16:51:29 GMT",
         "description": "",
-        "title_cn": "德国研究人员在废弃富氢气体上运行转换柴油发动机，仅需40 ％的H ₂"
+        "title_cn": "瓦锡兰捐赠€ 200,000支持阿尔托大学的氢气和氨气发动机研究"
       },
       {
-        "title": "Algeria’s Sonatrach Teams Up With World Bank on Green Hydrogen and Methane Reduction",
-        "link": "https://fuelcellsworks.com/2026/11/06/h2/algeria-s-sonatrach-teams-up-with-world-bank-on-green-hydrogen-and-methane-reduction",
-        "pubDate": "Fri, 06 Nov 2026 16:23:45 GMT",
+        "title": "German Hydrogen Storage Project Clears Leak Test as EWE Prepares 1,440-Tonne Cavern for 2028",
+        "link": "https://fuelcellsworks.com/2026/11/08/h2/german-hydrogen-storage-project-clears-key-test-as-ewe-prepares-1-440-tonne-cavern-for-2028",
+        "pubDate": "Mon, 09 Nov 2026 16:19:04 GMT",
         "description": "",
-        "title_cn": "阿尔及利亚Sonatrach与世界银行合作减少绿色氢和甲烷"
+        "title_cn": "德国储氢项目通过泄漏测试， EWE为2028年准备了1440吨的洞穴"
       },
       {
-        "title": "Thyssengas Opens Ground in Xanten for Hydrogen Pipeline Inspection Prep",
-        "link": "https://fuelcellsworks.com/2026/11/05/h2/thyssengas-opens-ground-in-xanten-for-hydrogen-pipeline-inspection-prep",
-        "pubDate": "Fri, 06 Nov 2026 16:08:54 GMT",
+        "title": "Researchers, Industry Teaming up to Help Hydrogen Fuel Cells Take Flight",
+        "link": "https://fuelcellsworks.com/2026/11/01/fuel-cells/researchers-industry-teaming-up-to-help-hydrogen-fuel-cells-take-flight",
+        "pubDate": "Mon, 09 Nov 2026 16:05:51 GMT",
         "description": "",
-        "title_cn": "Thyssengas在Xanten开设氢气管道检查准备基地"
+        "title_cn": "研究人员，行业合作，帮助氢燃料电池起飞"
       },
       {
-        "title": "Hydrogen UK Warns of Fresh Uncertainty as Government Expected to Scale Back Strategy and Funding",
-        "link": "https://fuelcellsworks.com/2026/11/06/h2/hydrogen-uk-warns-of-fresh-uncertainty-as-government-expected-toscales-back-strategy-and-funding",
-        "pubDate": "Fri, 06 Nov 2026 16:05:34 GMT",
+        "title": "Upper Austria Reports €600M Hydrogen Project Pipeline as Minister Departs",
+        "link": "https://fuelcellsworks.com/2026/11/09/h2/upper-austria-reports-600m-hydrogen-project-pipeline-as-minister-departs",
+        "pubDate": "Mon, 09 Nov 2026 16:01:28 GMT",
         "description": "",
-        "title_cn": "英国氢能公司警告称，随着政府预计缩减战略和资金，新的不确定性将出现"
+        "title_cn": "随着部长离职，上奥地利州报告了€ 6亿的氢气项目管道"
       },
       {
-        "title": "KAIST Develops Ruthenium Catalyst that Matches Platinum in Hydrogen Production Using One-Quarter as Much Precious Metal",
-        "link": "https://fuelcellsworks.com/2026/10/28/h2/kaist-develops-ruthenium-catalyst-that-matches-platinum-in-hydrogen-production-using-one-quarter-as-much-precious-metal",
-        "pubDate": "Fri, 06 Nov 2026 15:45:51 GMT",
+        "title": "H-Power Narrows Loss as Ammonia-to-Hydrogen Sales and Fuel-Cell Generator Orders Accelerate",
+        "link": "https://fuelcellsworks.com/2026/11/09/clean-energy/h-power-narrows-loss-as-ammonia-to-hydrogen-sales-and-fuel-cell-generator-orders-accelerate",
+        "pubDate": "Mon, 09 Nov 2026 15:41:22 GMT",
         "description": "",
-        "title_cn": "KAIST开发钌催化剂，在氢气生产中使用四分之一的贵金属与铂相匹配"
+        "title_cn": "随着氨制氢销售和燃料电池发电机订单加速， H-Power缩小了损失"
       },
       {
-        "title": "Austria Premiere: Natural Gas Pipeline Converted to 100 Percent Hydrogen for the First Time",
-        "link": "https://fuelcellsworks.com/2026/11/06/h2/austria-premiere-natural-gas-pipeline-converted-to-100-percent-hydrogen-for-the-first-time",
-        "pubDate": "Fri, 06 Nov 2026 15:40:13 GMT",
+        "title": "China Connects First 100.48MW of Solar at Jiangsu Green Hydrogen Demonstration Project",
+        "link": "https://fuelcellsworks.com/2026/11/03/green-hydrogen/china-connects-first-100-48mw-of-solar-at-jiangsu-green-hydrogen-demonstration-project",
+        "pubDate": "Mon, 09 Nov 2026 15:26:33 GMT",
         "description": "",
-        "title_cn": "奥地利首播：天然气管道首次转化为100%氢气"
+        "title_cn": "中国在江苏绿色氢示范项目上首次连接100.48MW太阳能"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "papers": {
     "items": [
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "policy_nea": {
     "items": [
@@ -403,6 +403,12 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
+        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
@@ -415,26 +421,20 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
-        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
+        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
+        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
+        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
       },
       {
-        "title": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 - 碳索氢能网",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FWTQyTzZRUWR0MTNkbVY0LXVVTE11cG94dUxpXzBFdEhNUVF6ajU2aTRGODFaVnpvWmllejJhYlBrdlF5U3Mtb0FnRmFTWWpXQ0F4cG9LX2pQamttN01B?oc=5",
-        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
-        "description": "重点提氢能！国家能源局发布《能源领域节能降碳行动计划（2026—2028年）》 &nbsp;&nbsp; 碳索氢能网"
-      },
-      {
-        "title": "国家能源局2025年二季度新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cWNzdHh2ZWhFRE0xeDBvT2FpZ1FUdmhnZmVIalNyWmY3S05VVUd5emJDaS1PMk9MZGlDLVEzcVNRQkUwNEJkZEJKWDd3UWdqUEtfdVdTR2FuNnFEU3luVDJkTVhVSmlHQTVpb1B2VG1MYVkzOWtmY3hLQQ?oc=5",
+        "title": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85am1idW9tZWZuLXZmX005TXZESy1tQnB3NVNFRU5hYjdiWThHTWxIU25DV1NwZ0ZBckRyWlM2Zy1BRmY1TFppQTNwdW1BS1dQMTh1VEl3MXdRMzI2Wjl6emFoUjFNeC1IWkRlMTBZNE1XZ0M2MHh0Uk1XQmpaeHM?oc=5",
         "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
-        "description": "国家能源局2025年二季度新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "description": "国家能源局：2024全年我国氢能消费生产规模位列世界第一 &nbsp;&nbsp; 新华网"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -475,19 +475,19 @@
         "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
       },
       {
+        "title": "南方财经全媒体集团 - 南方财经",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rZUpzQktoQjA1TXJKVWJReFR1dnlpZjNiS0NnUWpsTWwtUEp2WnBTUHBIcWYtY0tlX3Awb01CZDY2enZaZGpMVUNpbUxaOWE0UmJ5SHBYZFpKYWtITUR3OVpjeWJIUQ?oc=5",
+        "pubDate": "Mon, 09 Nov 2026 13:00:29 GMT",
+        "description": "南方财经全媒体集团 &nbsp;&nbsp; 南方财经"
+      },
+      {
         "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
         "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
         "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
-      },
-      {
-        "title": "算力绿电直连政策密集落地，A股绿电板块迎来长期估值重构窗口 - 文轩新闻",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvS3hpUXFGVlhFczJmZzVYZ3VUdVlvTEc5RU5nVDhzMTJQNXE1SExBd3JTSzZlT3d3bm5uQldpMEd2aE5KeDNidHFLMlhwSmJkMEE?oc=5",
-        "pubDate": "Sat, 07 Nov 2026 10:12:03 GMT",
-        "description": "算力绿电直连政策密集落地，A股绿电板块迎来长期估值重构窗口 &nbsp;&nbsp; 文轩新闻"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-09 08:55 UTC"
+    "updated": "2026-11-09 23:13 UTC"
   }
 }
