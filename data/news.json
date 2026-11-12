@@ -2,18 +2,32 @@
   "tech": {
     "items": [
       {
+        "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+        "link": "https://www.nature.com/articles/s41586-026-11409-3",
+        "pubDate": "2026-11-12",
+        "description": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+        "title_cn": "作者勘误：SLAMF6作为T细胞抗肿瘤免疫的可靶向药物抑制剂"
+      },
+      {
+        "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+        "link": "https://www.nature.com/articles/d41586-026-03573-3",
+        "pubDate": "2026-11-12",
+        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3 Vaccines and monoclonal antibody injections are cutting hospitalizations for the respiratory virus.",
+        "title_cn": "RSV疫苗大幅减少感染：数据显示疫苗在对抗危险病毒方面取得了惊人的成功"
+      },
+      {
         "title": "Rattlesnakes have personalities too — to venomous effect",
         "link": "https://www.nature.com/articles/d41586-026-03536-8",
         "pubDate": "2026-11-11",
         "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
-        "title_cn": "响尾蛇也有个性——毒性十足"
+        "title_cn": "响尾蛇也有个性——具有毒性作用"
       },
       {
         "title": "Iconic first image of black hole holds up to scrutiny",
         "link": "https://www.nature.com/articles/d41586-026-03642-7",
         "pubDate": "2026-11-11",
         "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03642-7 Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape.",
-        "title_cn": "标志性的首张黑洞图像经得起严密检验"
+        "title_cn": "标志性的首张黑洞图像经得起严密审视"
       },
       {
         "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
@@ -34,7 +48,7 @@
         "link": "https://www.nature.com/articles/s41586-026-11391-w",
         "pubDate": "2026-11-11",
         "description": "Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11391-w Efficient catalyst-controlled C–H arylation of arenes",
-        "title_cn": "芳烃的高效催化剂控制C-H芳基化"
+        "title_cn": "芳烃的高效催化剂控制C–H芳基化"
       },
       {
         "title": "A guide to Nature Index tables",
@@ -42,32 +56,60 @@
         "pubDate": "2026-11-11",
         "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03441-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy.",
         "title_cn": "《自然指数》排名表指南"
-      },
-      {
-        "title": "Even giant anteaters in remote Brazil have microplastics in their blood",
-        "link": "https://www.nature.com/articles/d41586-026-03660-5",
-        "pubDate": "2026-11-11",
-        "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives.",
-        "title_cn": "即使是巴西偏远地区的食蚁兽，其血液中也含有微塑料。"
-      },
-      {
-        "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
-        "link": "https://www.nature.com/articles/d41586-026-03637-4",
-        "pubDate": "2026-11-11",
-        "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic.",
-        "title_cn": "微塑料改变了大太平洋垃圾带附近海域的颜色"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "White House Watch: Tracking Attacks on Our Environment & Health",
+        "link": "https://cleantechnica.com/2026/11/12/white-house-watch-tracking-attacks-on-our-environment-health/",
+        "pubDate": "Thu, 12 Nov 2026 07:59:37 +0000",
+        "description": "Since the Trump administration took office in January 2025, it has taken or proposed at least 580 actions that directly threaten the environment, climate, and human health. NRDC is tracking the mounting hazard and harm. As soon as the second Trump administration took office in January 2025, we witne",
+        "title_cn": "白宫观察：追踪对我们环境和健康的侵害"
+      },
+      {
+        "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
+        "link": "https://cleantechnica.com/2026/11/11/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-an-engineering-puzzle/",
+        "pubDate": "Thu, 12 Nov 2026 04:53:39 +0000",
+        "description": "By Atharva Shinde Most Western clean-energy reporting takes a very specific picture of home charging for granted. You pull into a private driveway, plug into an attached garage wall-box, and pull cheap power while you sleep. That reality does not exist for most urban drivers in India. Data from Kaza",
+        "title_cn": "高层建筑的瓶颈：为什么在印度公寓中为电动汽车充电是一个工程难题"
+      },
+      {
+        "title": "To Honor Veterans, How About We Stop The Oil Wars?",
+        "link": "https://cleantechnica.com/2026/11/11/to-honor-veterans-how-about-we-stop-the-oil-wars/",
+        "pubDate": "Thu, 12 Nov 2026 04:50:38 +0000",
+        "description": "Today is Veterans Day in the United States. Naturally, across the country, people have spent at least part of the day thinking about veterans they know as well as veterans they don&#8217;t and thanking them for their service. Whether you agree with the various wars the United States has gotten ... [",
+        "title_cn": "为了向退伍军人致敬，我们何不停止石油战争？"
+      },
+      {
+        "title": "The Trump Administration’s Pro-Cancer Agenda",
+        "link": "https://cleantechnica.com/2026/11/11/the-trump-administrations-pro-cancer-agenda/",
+        "pubDate": "Thu, 12 Nov 2026 04:47:57 +0000",
+        "description": "Under Trump, Americans could face an extraordinary increase in exposure to cancer-causing toxics and radiation. Over the nearly two years of President Donald Trump’s second term, his administration has taken more than 500 actions that harm public health or the environment. When faced with this onsla",
+        "title_cn": "特朗普政府的亲癌症议程"
+      },
+      {
+        "title": "Democrats Are at COP31 to Show That the US Has Not Abandoned the Fight Against Climate Change",
+        "link": "https://cleantechnica.com/2026/11/11/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change/",
+        "pubDate": "Thu, 12 Nov 2026 04:43:47 +0000",
+        "description": "The results of the US midterms on November 3 delivered a resounding victory for the Democrats, and a major loss for US president Donald Trump and the Republican party. Gaining control of the Senate and the House of Representatives has emboldened the Democrats, giving them a renewed sense of politica",
+        "title_cn": "民主党人出席COP31会议，以表明美国并未放弃应对气候变化的斗争"
+      },
+      {
+        "title": "300 Glaciers Have Disappeared from the American West Since the Mid‑20th Century — the Survivors Have a Few Things in Common",
+        "link": "https://cleantechnica.com/2026/11/11/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common/",
+        "pubDate": "Thu, 12 Nov 2026 04:40:18 +0000",
+        "description": "From an airplane, most of the glaciers of the Rocky Mountain West look like small patches of white nestled into rugged landscape where the topography folds. The white is the snow cover, and lower down you can see the gray-blue bare ice. In the middle of the 20th century, over ... [continued] The pos",
+        "title_cn": "自20世纪中叶以来，美国西部已有300座冰川消失——幸存的冰川有一些共同点"
+      },
       {
         "title": "Was Corruption The Biggest Issue In The US Election?",
         "link": "https://cleantechnica.com/2026/11/11/was-corruption-the-biggest-issue-in-the-us-election/",
@@ -80,53 +122,11 @@
         "link": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/",
         "pubDate": "Wed, 11 Nov 2026 18:08:20 +0000",
         "description": "Perovskite is a relatively inexpensive material that has attracted thousands of researchers since 2009, when a team of scientists in Japan first demonstrated its use in solar cells. They achieved a solar energy conversion efficiency of little more than 3%, but since science loves a challenge, that w",
-        "title_cn": "钙钛矿太阳能电池的“巨兽”已在美国“出笼”"
-      },
-      {
-        "title": "Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
-        "link": "https://cleantechnica.com/2026/11/11/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-wheel-the-autonis-design-award-and-is-voted-german-car-of-the-year-2027/",
-        "pubDate": "Wed, 11 Nov 2026 17:40:35 +0000",
-        "description": "Golden Steering Wheel 2026 — ID. Polo wins in the category Best car under 25,000 euros German Car of the Year 2027 — ID. Polo wins overall and is the winner of the ‘Budget car’ category Autonis readers’ poll — with first place in the small car category, the ID. ... [continued] The post Renowned Awar",
-        "title_cn": "新车型斩获知名奖项：ID. Polo 荣膺“金方向盘”奖、Autonis 设计奖，并被评为 2027 年度德国年度车型"
-      },
-      {
-        "title": "The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors.",
-        "link": "https://cleantechnica.com/2026/11/11/dutch-electric-inland-shipping-subsidy-freight-corridors/",
-        "pubDate": "Wed, 11 Nov 2026 15:06:05 +0000",
-        "description": "The Netherlands' new subsidy rewards cleaner vessel propulsion, but its principal cost denominator leaves out shared shore infrastructure that turns vessels into repeatable freight services. The post The Netherlands Has €231 Million for Cleaner Inland Ships. It Still Needs Electric Freight Corridors",
-        "title_cn": "荷兰为更清洁的内陆船舶拨款2.31亿欧元。但仍需要电气化货运走廊。"
-      },
-      {
-        "title": "Science For The People, Right On!",
-        "link": "https://cleantechnica.com/2026/11/11/science-for-the-people-right-on/",
-        "pubDate": "Wed, 11 Nov 2026 13:21:40 +0000",
-        "description": "Today United for the Future launches at COP31 today with a plan to unite 100 million people in peaceful, non-partisan marches in cities worldwide. Their goal is to assemble the largest coordinated climate demonstration in history in order to put climate action back at the top of the political agenda",
-        "title_cn": "科学造福人民，太棒了！"
-      },
-      {
-        "title": "BYD Commercial Vehicle Sales Rise 68% in October!",
-        "link": "https://cleantechnica.com/2026/11/10/byd-commercial-vehicle-sales-rise-68-in-october/",
-        "pubDate": "Wed, 11 Nov 2026 04:53:43 +0000",
-        "description": "Following up our usual monthly report on BYD&#8217;s passenger vehicle sales, let&#8217;s have a look at the companies commercial vehicle sales — all electric, of course. The company&#8217;s bus sales were up 62.1% year over year in October, rising from 367 in October 2025 to 600 in October 2026. Mo",
-        "title_cn": "比亚迪商用车10月销量增长68%！"
-      },
-      {
-        "title": "Tesla Robotaxis Extend into San Antonio",
-        "link": "https://cleantechnica.com/2026/11/10/tesla-robotaxis-extend-into-san-antonio/",
-        "pubDate": "Wed, 11 Nov 2026 04:53:25 +0000",
-        "description": "Tesla&#8217;s nascent robotaxi service has extended into San Antonio, to some extent. &#8220;Tesla launched its robotaxi service Monday in San Antonio,&#8221; Axios reports. &#8220;Robotaxi available in San Antonio starting tomorrow, 5am,&#8221; the Tesla Robotaxi account tweeted on Monday. The Tesl",
-        "title_cn": "特斯拉Robotaxi服务扩展至圣安东尼奥"
-      },
-      {
-        "title": "BYD’s BEV Sales Soar While Its PHEV Sales Slide",
-        "link": "https://cleantechnica.com/2026/11/10/byds-bev-sales-soar-while-its-phev-sales-slide/",
-        "pubDate": "Wed, 11 Nov 2026 04:50:01 +0000",
-        "description": "Looking at changes in BYD&#8217;s passenger vehicle sales overall, the company saw solid growth in October. Sales were up 11.8%, going from 436,856 in October 2025 to 483,125 in October 2026. However, that overall growth hides the fact that the company&#8217;s BEV (full electric vehicle) sales soare",
-        "title_cn": "比亚迪的BEV销量飙升，而PHEV销量下滑"
+        "title_cn": "钙钛矿太阳能电池“巨兽”已在美国“肆虐”"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "energy": {
     "items": [
@@ -149,7 +149,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02181-9",
         "pubDate": "2026-11-10",
         "description": "Nature Energy, Published online: 10 November 2026; doi:10.1038/s41560-026-02181-9 Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
-        "title_cn": "作者勘误：在富氧环境中进行热处理以抑制Cu 2 ZnSnS 4太阳能电池中深能级陷阱，经认证效率为11.51%"
+        "title_cn": "作者勘误：在富氧环境中进行热处理，以抑制Cu 2 ZnSnS 4太阳能电池中深能级陷阱，实现11.51%的认证效率"
       },
       {
         "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
@@ -184,19 +184,19 @@
         "link": "https://www.nature.com/articles/s41560-026-02161-z",
         "pubDate": "2026-11-02",
         "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02161-z Formamidinium–caesium lead triiodide perovskites show promise in terms of stability, yet their solar cell efficiency remains limited. Li et al. use a metallomesogen with mesophase to stabilize perovskite grain boundari",
-        "title_cn": "在甲脒-铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
+        "title_cn": "在甲脒–铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OZVNvX2NYZzFJbElCTnRROHN2eEp3S1htbXZpbXY4d1c0VVdTOWkxcVRKQXJCNll3WHZXT05sY1l2TkZzZXdnTktVX2ItZlczZjJVSA?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 12:28:05 GMT",
-        "description": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 &nbsp;&nbsp; 世纪新能源网"
+        "title": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdVVNcUo4cnRMQ2JSQUZDb1dSR2lGRUtuZ2VnUzlMOUcyQlpScF81WjRJV2VhM3l0X1k4V0tpbmdJUFoySTN3V0tXcTktR0M0UzJIQg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 06:38:34 GMT",
+        "description": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "GE Vernova在氢能燃气轮机技术方面取得新突破-能源电力 - 至顶网",
@@ -229,20 +229,20 @@
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
       },
       {
+        "title": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OZVNvX2NYZzFJbElCTnRROHN2eEp3S1htbXZpbXY4d1c0VVdTOWkxcVRKQXJCNll3WHZXT05sY1l2TkZzZXdnTktVX2ItZlczZjJVSA?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 12:28:05 GMT",
+        "description": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
         "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "hydrogen": {
     "items": [
@@ -258,7 +258,7 @@
         "link": "https://fuelcellsworks.com/2026/11/10/electrolyzer/hydri-inaugurates-its-eleventh-green-hydrogen-filling-station-in-hofors",
         "pubDate": "Wed, 11 Nov 2026 16:08:20 GMT",
         "description": "",
-        "title_cn": "Hydri在霍福什启用第十一个绿色氢能加氢站"
+        "title_cn": "Hydri在霍福什启用第十一个绿色氢气加注站"
       },
       {
         "title": "Smoltek and Hyworx Sign LOI to Validate Low-Iridium Electrodes in PEM Electrolyzer Stacks",
@@ -272,7 +272,7 @@
         "link": "https://fuelcellsworks.com/2026/11/11/h2/german-nuclear-regulator-to-release-study-on-safety-of-hydrogen-production-from-nuclear-power",
         "pubDate": "Wed, 11 Nov 2026 15:52:07 GMT",
         "description": "",
-        "title_cn": "德国核监管机构将发布关于通过核能生产氢气的安全性的研究报告"
+        "title_cn": "德国核监管机构将发布关于利用核能生产氢气的安全性的研究报告"
       },
       {
         "title": "Hyundai Motor Group Unveils ‘Future Hydrogen City’ at 'WHE 2026'",
@@ -286,7 +286,7 @@
         "link": "https://fuelcellsworks.com/2026/11/10/h2/vortex-energy-mobilizes-field-crews-and-commences-ground-gravity-survey-at-robinsons-river-salt-project",
         "pubDate": "Wed, 11 Nov 2026 15:36:26 GMT",
         "description": "",
-        "title_cn": "Vortex Energy 动员现场作业人员，开始在 Robinsons River 盐矿项目开展地面重力测量"
+        "title_cn": "Vortex Energy动员现场工作组，开始在Robinsons River盐矿项目进行地面重力测量"
       },
       {
         "title": "Igneo Buys German Gas and Hydrogen Pipeline Operator Nowega",
@@ -300,11 +300,11 @@
         "link": "https://fuelcellsworks.com/2026/11/11/h2/geokiln-and-oneic-sign-mou-to-evaluate-engineered-hydrogen-development-in-oman",
         "pubDate": "Wed, 11 Nov 2026 15:26:02 GMT",
         "description": "",
-        "title_cn": "GeoKiln与ONEIC签署谅解备忘录，以评估阿曼的工程氢能开发"
+        "title_cn": "GeoKiln与ONEIC签署谅解备忘录，以评估阿曼的工程氢气开发"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "papers": {
     "items": [
@@ -313,7 +313,7 @@
         "link": "https://arxiv.org/abs/2611.14502v1",
         "pubDate": "2026-11-10T18:51:53Z",
         "description": "For every prime $p\\geq5$, the zeros of Katz's $p$-adic Eisenstein series $E_2$ on elliptic curves with good ordinary reduction have exactly $\\lfloor p/12\\rfloor+1$ distinct $j$-invariants. We prove that all these invariants lie in finite unramified extensions of $\\mathbf{Q}_p$. Their reductions are ",
-        "title_cn": "卡茨的p进艾森斯坦级数E2的零点"
+        "title_cn": "Katz的p进艾森斯坦级数E2的零点"
       },
       {
         "title": "Mutual Linearity in Nonlinear Population Dynamics",
@@ -334,7 +334,7 @@
         "link": "https://arxiv.org/abs/2611.14485v1",
         "pubDate": "2026-11-10T18:45:45Z",
         "description": "This paper presents a novel fourth-order, L-stable exponential time differencing (ETD) Runge-Kutta type scheme incorporating a dimensional splitting integrating factor method for the numerical solution of nonlinear reaction-diffusion systems. The method, ETDRK4RDP-IF, is obtained by approximating th",
-        "title_cn": "用于非线性反应-扩散系统的四阶维度分裂指数时间差分格式，具有实数和非重极点有理逼近"
+        "title_cn": "用于非线性反应-扩散系统的四阶维度分割指数时间差分格式，采用实数和互异极点有理逼近"
       },
       {
         "title": "Nonperturbative string dynamics in a (2+1)D lattice gauge theory on a superconducting quantum processor",
@@ -355,7 +355,7 @@
         "link": "https://arxiv.org/abs/2611.14472v1",
         "pubDate": "2026-11-10T18:37:09Z",
         "description": "Several metal-poor Galactic globular clusters exhibit substantial star-to-star $r$-process abundance variations at nearly fixed [Fe/H], with the ensemble suggesting smaller variations toward increasing metallicity. We investigate whether this chemical structure can be inherited from incomplete mixin",
-        "title_cn": "球状星团中r-过程丰度变化作为湍流混合的化石证据"
+        "title_cn": "球状星团中r过程丰度变化作为湍流混合的化石证据"
       },
       {
         "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
@@ -369,18 +369,18 @@
         "link": "https://arxiv.org/abs/2611.14468v1",
         "pubDate": "2026-11-10T18:32:19Z",
         "description": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leading prevalence dynamics depend on the unknown coefficients only through the difference between the tr",
-        "title_cn": "异质SIS反应-扩散模型的贝叶斯反问题和流行病阈值不确定性"
+        "title_cn": "异质SIS反应-扩散模型的贝叶斯反问题和流行阈值不确定性"
       },
       {
         "title": "Dimensional Crossover and Correlated Spin Dynamics in the Chain-Like van der Waals Antiferromagnet AgCrP$_2$S$_6$",
         "link": "https://arxiv.org/abs/2611.14444v1",
         "pubDate": "2026-11-10T18:14:07Z",
         "description": "We report a comprehensive investigation of the magnetic properties and spin dynamics of the chain-like van der Waals antiferromagnet AgCrP$_2$S$_6$ using magnetization, magnetic susceptibility, and $^{31}$P nuclear magnetic resonance (NMR). The magnetic susceptibility exhibits a broad maximum near 2",
-        "title_cn": "链状范德华反铁磁体AgCrP$_2$S$_6$中的维数交叉和相关自旋动力学"
+        "title_cn": "链状范德华反铁磁体AgCrP$_2$S$_6$中的维度交叉和相关自旋动力学"
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,16 +434,10 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   },
   "policy_ndrc": {
     "items": [
-      {
-        "title": "《新能源决策参考》2027征订启动！ - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXU3VG9tTXpYWW80TldnbXRMX3ExRFhHc1BIdW9SWnBZRVVoYTVheF96VHZWOGVuQmFZR3djaWZscHZsYWwtNDZ1emF0NEJUSnRHSGtlazJVZ2JUNmtLRktOdGVrN2NpUTNJRjhoZUFLRTFWMzItczdSQkxicHJnWEdxZXRDMGFLc0Z0dA?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 15:40:12 GMT",
-        "description": "《新能源决策参考》2027征订启动！ &nbsp;&nbsp; Sohu"
-      },
       {
         "title": "库车市：绿电直连 让降本降碳“看得见” - 中新网·新疆",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2NhenVPRFlYRW9oU2hzamc1ZlY0eGRJeFVGUUdsVndENUc4SjFJc2xaSG5xRUt5M3c4cUJjQ2dRNm0yMlM4Y05MTUgxMUV5ajVvZFRWaHlLU0N0emUzQ1l3SG5oZlFqWlhsbEFnTm8zWEtVd2tDTkRKWXgzYVlmeHl1OA?oc=5",
@@ -457,22 +451,34 @@
         "description": "能源等将出台超100项产品碳足迹国家标准｜碳中和周报-证券之星 &nbsp;&nbsp; 证券之星"
       },
       {
+        "title": "《新能源决策参考》2027征订启动！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXU3VG9tTXpYWW80TldnbXRMX3ExRFhHc1BIdW9SWnBZRVVoYTVheF96VHZWOGVuQmFZR3djaWZscHZsYWwtNDZ1emF0NEJUSnRHSGtlazJVZ2JUNmtLRktOdGVrN2NpUTNJRjhoZUFLRTFWMzItczdSQkxicHJnWEdxZXRDMGFLc0Z0dA?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 15:40:12 GMT",
+        "description": "《新能源决策参考》2027征订启动！ &nbsp;&nbsp; Sohu"
+      },
+      {
+        "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
+        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
+      },
+      {
         "title": "国家发展改革委副主任郑备出席国新办吹风会，解读“十五五”规划《纲要（草案）》并答记者问 - 中华人民共和国国家发展和改革委员会",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MOFNmVFQ5eS1QYks2aTdzMnJ6R0JBbDBCaHhaeTRXcEV1WHdQOGwzakUybXQyRVpJYkR3c2hHUmxycHdadXMxeWJ5RmZBYnRhc2syaFFrdXBlS09zWVpHUzhnZkhZYlBXQXU1U0xfRkV1UmhJWUU2VkJiaw?oc=5",
         "pubDate": "Mon, 09 Mar 2026 07:00:00 GMT",
         "description": "国家发展改革委副主任郑备出席国新办吹风会，解读“十五五”规划《纲要（草案）》并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       },
       {
+        "title": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCOTFLYjhnMEpuRDV4c29SazFJY2V0RUQteWdKZU9UWW9VSU4tT1owaVpGN2lSVk0wZmNNZGpGRVpLSXVRUUlwMmRsQ1AtbEZuWFVOSw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 10:45:47 GMT",
+        "description": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
         "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
         "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
         "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
-      },
-      {
-        "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
-        "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
-        "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
       },
       {
         "title": "西安市第二批应用场景机会清单发布 - Sohu",
@@ -482,6 +488,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-12 02:38 UTC"
+    "updated": "2026-11-12 15:42 UTC"
   }
 }
