@@ -2,6 +2,41 @@
   "tech": {
     "items": [
       {
+        "title": "Is the climate totally cooked? What the data say",
+        "link": "https://www.nature.com/articles/d41586-026-03716-6",
+        "pubDate": "2026-11-13",
+        "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.",
+        "title_cn": "气候是否已经彻底失控？数据说明了什么"
+      },
+      {
+        "title": "Chinese graduate students are now choosing to stay closer to home",
+        "link": "https://www.nature.com/articles/d41586-026-03456-7",
+        "pubDate": "2026-11-13",
+        "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03456-7 Malaysia, Hong Kong and Macau are the new hot destinations for students.",
+        "title_cn": "中国研究生现在选择离家更近的地方学习"
+      },
+      {
+        "title": "Accept all changes",
+        "link": "https://www.nature.com/articles/d41586-026-03516-y",
+        "pubDate": "2026-11-13",
+        "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03516-y It’s the end — or is it?",
+        "title_cn": "接受所有更改"
+      },
+      {
+        "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+        "link": "https://www.nature.com/articles/d41586-026-03679-8",
+        "pubDate": "2026-11-13",
+        "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.",
+        "title_cn": "这款人工智能“机械师”能够窥探其他神经网络的黑匣子"
+      },
+      {
+        "title": "Found: a protein that drives ageing without unleashing inflammation",
+        "link": "https://www.nature.com/articles/d41586-026-03638-3",
+        "pubDate": "2026-11-12",
+        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3 Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage.",
+        "title_cn": "发现：一种在不引发炎症的情况下促进衰老的蛋白质"
+      },
+      {
         "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
         "link": "https://www.nature.com/articles/d41586-026-03639-2",
         "pubDate": "2026-11-12",
@@ -13,61 +48,68 @@
         "link": "https://www.nature.com/articles/d41586-026-03665-0",
         "pubDate": "2026-11-12",
         "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0 Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.",
-        "title_cn": "谁需要性？当附近没有配偶时，海带会进行无性繁殖。"
+        "title_cn": "谁需要性交？当附近没有配偶时，海带会进行无性繁殖。"
       },
       {
         "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
         "link": "https://www.nature.com/articles/s41586-026-11409-3",
         "pubDate": "2026-11-12",
         "description": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3 Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
-        "title_cn": "作者勘误：SLAMF6作为T细胞抗癌免疫的可靶向药物抑制剂"
-      },
-      {
-        "title": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
-        "link": "https://www.nature.com/articles/d41586-026-03666-z",
-        "pubDate": "2026-11-12",
-        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03666-z The Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say.",
-        "title_cn": "创纪录的埃博拉疫情：通过手机数据重建疫情最初几周的传播情况"
-      },
-      {
-        "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
-        "link": "https://www.nature.com/articles/d41586-026-03565-3",
-        "pubDate": "2026-11-12",
-        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3 A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction.",
-        "title_cn": "与一系列疾病相关的大脑区域巨型图谱是有史以来最详细的图谱"
-      },
-      {
-        "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
-        "link": "https://www.nature.com/articles/d41586-026-03573-3",
-        "pubDate": "2026-11-12",
-        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3 Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
-        "title_cn": "RSV疫苗大幅减少感染：数据显示疫苗在对抗这种危险病毒方面取得了惊人的成功"
-      },
-      {
-        "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
-        "link": "https://www.nature.com/articles/d41586-026-03705-9",
-        "pubDate": "2026-11-12",
-        "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03705-9 Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach.",
-        "title_cn": "新型CRISPR疗法有望获得FDA首个批准，用于体内基因编辑"
-      },
-      {
-        "title": "Rattlesnakes have personalities too — to venomous effect",
-        "link": "https://www.nature.com/articles/d41586-026-03536-8",
-        "pubDate": "2026-11-11",
-        "description": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
-        "title_cn": "响尾蛇也有个性——具有毒性影响"
+        "title_cn": "作者勘误：SLAMF6作为T细胞抗肿瘤免疫的药物靶向抑制剂"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Is Tesla The Apple Of The EV Industry?",
+        "link": "https://cleantechnica.com/2026/11/13/is-tesla-the-apple-of-the-ev-industry/",
+        "pubDate": "Fri, 13 Nov 2026 14:52:34 +0000",
+        "description": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
+        "title_cn": "特斯拉是电动汽车行业的苹果吗？"
+      },
+      {
+        "title": "Data Centers, AI, & the Growing Demand for Energy: Impacts, Risks, & Solutions",
+        "link": "https://cleantechnica.com/2026/11/12/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solutions/",
+        "pubDate": "Fri, 13 Nov 2026 04:50:28 +0000",
+        "description": "Learn how the rapid growth of data centers is affecting electricity bills, public health, communities, and the environment and what can be done about it. Data centers, the physical infrastructure powering the rapid growth of artificial intelligence and our increasingly digital lives, are expanding a",
+        "title_cn": "数据中心、人工智能和不断增长的能源需求：影响、风险和解决方案"
+      },
+      {
+        "title": "Managing Offshore Wind in the Face of Uncertainty",
+        "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/",
+        "pubDate": "Fri, 13 Nov 2026 04:07:58 +0000",
+        "description": "This report lays out key adaptive management principles and recommendations for regulators. Despite current headwinds from the Trump administration, offshore wind energy is essential for transitioning away from harmful fossil fuels to a clean energy economy. Offshore wind could provide more than thr",
+        "title_cn": "面对不确定性，管理海上风电"
+      },
+      {
+        "title": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
+        "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/",
+        "pubDate": "Fri, 13 Nov 2026 03:30:22 +0000",
+        "description": "Democrats Must Fight to Fix Draft Legislation Washington, DC — Following Monday’s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the “Bipartisan American Affordability and Jobs Act of 2026.” However, on November 11th, Republicans began the",
+        "title_cn": "参议院共和党人开始阻挠BAAJA的进程，而特朗普则威胁要无视该法案"
+      },
+      {
+        "title": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing",
+        "link": "https://cleantechnica.com/2026/11/12/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-hearing/",
+        "pubDate": "Fri, 13 Nov 2026 03:20:50 +0000",
+        "description": "INDIANAPOLIS — Today, Hoosiers turned out to speak against toxic coal ash pollution at the EPA’s public hearing on Indiana’s proposed Coal Ash permitting program, which would allow the state to disregard federal protections for communities in favor of statewide rules that would provide fewer safegua",
+        "title_cn": "印第安纳州居民在公开听证会上呼吁环保署不要放松煤灰监管规定"
+      },
+      {
+        "title": "What Happens in Vegas Should Inform the Rest of the Country",
+        "link": "https://cleantechnica.com/2026/11/12/what-happens-in-vegas-should-inform-the-rest-of-the-country/",
+        "pubDate": "Fri, 13 Nov 2026 02:29:28 +0000",
+        "description": "This research brief highlights lessons from Nevada’s workplace heat standard. Coauthored with Barrak Alahmad and Yazan Alwadi, Harvard T.H. Chan School of Public Health Most U.S. states lack formal workplace standards for dangerous heat. This long-standing gap puts millions of working people at risk",
+        "title_cn": "发生在拉斯维加斯的事情应该让全国人民都知道"
+      },
       {
         "title": "Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming.",
         "link": "https://cleantechnica.com/2026/11/12/dutch-green-hydrogen-subsidies-four-projects-cancelled/",
@@ -81,52 +123,10 @@
         "pubDate": "Thu, 12 Nov 2026 21:38:48 +0000",
         "description": "Family Road Trips Are Fun, but Small Interior Problems Can Get in the Way Planning a family road trip usually starts with excitement. Everyone gets involved in choosing the destination, checking the route, preparing snacks, and packing luggage for the journey. Parents make sure the kids have enterta",
         "title_cn": "OEDRO汽车配件为SUV和皮卡车主解决常见的家庭自驾游车内问题"
-      },
-      {
-        "title": "QuantumScape Has An Osprey Up Its Solid-State EV Battery Sleeve",
-        "link": "https://cleantechnica.com/2026/11/12/quantumscape-solid-state-ev-batteries-new-osprey-platform-sulfide/",
-        "pubDate": "Thu, 12 Nov 2026 20:19:53 +0000",
-        "description": "Federal policy makers orchestrated an EV sales crash in the US last year, only to see electrification stakeholders gradually piece together a comeback focusing on cars that hit the affordability MSRP of $30,000 or less. New, higher-performing solid-state EV batteries are also inching their way into ",
-        "title_cn": "QuantumScape在固态电动汽车电池领域拥有Osprey技术"
-      },
-      {
-        "title": "Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship",
-        "link": "https://cleantechnica.com/2026/11/12/build-clean-accelerating-affordable-energy-while-advancing-community-and-environmental-stewardship/",
-        "pubDate": "Thu, 12 Nov 2026 17:28:11 +0000",
-        "description": "NRDC is pushing to expand clean energy development in ways that strengthen communities, protect nature, and deliver lasting economic benefits. America needs to build clean energy faster—and build it right. Meeting the climate challenge means roughly quadrupling U.S. clean electricity generation and ",
-        "title_cn": "清洁建筑：在推动社区和环境管理的同时，加速提供经济实惠的能源"
-      },
-      {
-        "title": "White House Watch: Tracking Attacks on Our Environment & Health",
-        "link": "https://cleantechnica.com/2026/11/12/white-house-watch-tracking-attacks-on-our-environment-health/",
-        "pubDate": "Thu, 12 Nov 2026 07:59:37 +0000",
-        "description": "Since the Trump administration took office in January 2025, it has taken or proposed at least 580 actions that directly threaten the environment, climate, and human health. NRDC is tracking the mounting hazard and harm. As soon as the second Trump administration took office in January 2025, we witne",
-        "title_cn": "白宫观察：追踪针对我们的环境和健康的攻击"
-      },
-      {
-        "title": "The High-Rise Bottleneck: Why EV Charging in Indian Apartments Is an Engineering Puzzle",
-        "link": "https://cleantechnica.com/2026/11/11/the-high-rise-bottleneck-why-ev-charging-in-indian-apartments-is-an-engineering-puzzle/",
-        "pubDate": "Thu, 12 Nov 2026 04:53:39 +0000",
-        "description": "By Atharva Shinde Most Western clean-energy reporting takes a very specific picture of home charging for granted. You pull into a private driveway, plug into an attached garage wall-box, and pull cheap power while you sleep. That reality does not exist for most urban drivers in India. Data from Kaza",
-        "title_cn": "高层建筑的瓶颈：为什么在印度公寓中为电动汽车充电是一个工程难题"
-      },
-      {
-        "title": "To Honor Veterans, How About We Stop The Oil Wars?",
-        "link": "https://cleantechnica.com/2026/11/11/to-honor-veterans-how-about-we-stop-the-oil-wars/",
-        "pubDate": "Thu, 12 Nov 2026 04:50:38 +0000",
-        "description": "Today is Veterans Day in the United States. Naturally, across the country, people have spent at least part of the day thinking about veterans they know as well as veterans they don&#8217;t and thanking them for their service. Whether you agree with the various wars the United States has gotten ... [",
-        "title_cn": "为了向退伍军人致敬，我们何不停止石油战争？"
-      },
-      {
-        "title": "The Trump Administration’s Pro-Cancer Agenda",
-        "link": "https://cleantechnica.com/2026/11/11/the-trump-administrations-pro-cancer-agenda/",
-        "pubDate": "Thu, 12 Nov 2026 04:47:57 +0000",
-        "description": "Under Trump, Americans could face an extraordinary increase in exposure to cancer-causing toxics and radiation. Over the nearly two years of President Donald Trump’s second term, his administration has taken more than 500 actions that harm public health or the environment. When faced with this onsla",
-        "title_cn": "特朗普政府的亲癌症议程"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "energy": {
     "items": [
@@ -149,28 +149,28 @@
         "link": "https://www.nature.com/articles/s41560-026-02181-9",
         "pubDate": "2026-11-10",
         "description": "Nature Energy, Published online: 10 November 2026; doi:10.1038/s41560-026-02181-9 Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
-        "title_cn": "作者勘误：在富氧环境中进行热处理以抑制Cu 2 ZnSnS 4太阳能电池中深能级陷阱，实现11.51%的认证效率"
+        "title_cn": "作者勘误：在富氧环境中进行热处理以抑制Cu 2 ZnSnS 4太阳能电池中深能级陷阱，经认证效率为11.51%"
       },
       {
         "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
         "link": "https://www.nature.com/articles/s41560-026-02163-x",
         "pubDate": "2026-11-09",
         "description": "Nature Energy, Published online: 09 November 2026; doi:10.1038/s41560-026-02163-x As data centres increase pressure on power systems, the costs of accommodating their growth are becoming a concern. Here the researchers show that data centres raise wholesale prices and shift transmission costs onto h",
-        "title_cn": "数据中心通过批发价格上涨和累退性电网成本转移，不对称地加剧了能源负担"
+        "title_cn": "数据中心通过批发价格上涨和倒退性电网成本转移，不对称地加剧了能源负担"
       },
       {
         "title": "Author Correction: Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
         "link": "https://www.nature.com/articles/s41560-026-02180-w",
         "pubDate": "2026-11-04",
         "description": "Nature Energy, Published online: 04 November 2026; doi:10.1038/s41560-026-02180-w Author Correction: Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
-        "title_cn": "作者勘误：钙钛矿晶格柔顺性实现高效稳定的双面钙钛矿/硅串联光伏器件"
+        "title_cn": "作者勘误：钙钛矿晶格顺应性实现高效稳定的双面钙钛矿/硅串联光伏器件"
       },
       {
         "title": "Directing solvent reactivity",
         "link": "https://www.nature.com/articles/s41560-026-02150-2",
         "pubDate": "2026-11-02",
         "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02150-2 Anode-free sodium batteries eliminate excessive sodium on the anode, maximizing cell-level energy density, but are limited by irreversible sodium loss during electroplating–stripping. Now, a low-strain cyclic solvent f",
-        "title_cn": "引导溶剂反应性"
+        "title_cn": "导向溶剂反应性"
       },
       {
         "title": "Stable anode-free sodium batteries enabled by controlled oligomerization",
@@ -184,25 +184,25 @@
         "link": "https://www.nature.com/articles/s41560-026-02161-z",
         "pubDate": "2026-11-02",
         "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02161-z Formamidinium–caesium lead triiodide perovskites show promise in terms of stability, yet their solar cell efficiency remains limited. Li et al. use a metallomesogen with mesophase to stabilize perovskite grain boundari",
-        "title_cn": "在甲脒-铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
+        "title_cn": "在甲脒–铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "energy_cn": {
     "items": [
       {
-        "title": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQmxCU28tWnB5WGUwV2Rhd3NYbGVHTHBOdjBzTjdJT0t1OFVTaXN3dGh6cDlkNm9xSTQ0TEtFcWRQM05tcWNRSVpWN1F2ZWFkUkE?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 12:28:05 GMT",
-        "description": "发改委发布会释放氢能新信号，氢能与绿色燃料替代路线清晰落地 &nbsp;&nbsp; 世纪新能源网"
+        "title": "梦氢能源风冷氢燃料电池加速微交通、微电力场景渗透 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZeksyeXV0dUNkcjZtQmNYaFlsMUFKR3FucnRaeE8zUEpteUFEUXZ5NnpyYVZFeWNsTWJHQ0FYeEx0bU96aUJEd0RjSF92ZHhKbl91Ug?oc=5",
+        "pubDate": "Fri, 13 Nov 2026 07:01:25 GMT",
+        "description": "梦氢能源风冷氢燃料电池加速微交通、微电力场景渗透 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
-        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+        "title": "【新华网】华北电力大学团委联合国华投资团委打造“党建带团建”特色能源思政课 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZUUNTaFE0YkdNYWJOd2R4bHdTTm43aVZfTjgydlV2ZktaNVdIbnBQMkV2Y2lMMHBBbkdpRTRtUGpqUDBTeXg1TEwxWS1JNEI4U3J5N25RMlhSWGdlcng3MmRyRXJHRzB0TVNWa0xETnFBUGh0YUE?oc=5",
+        "pubDate": "Tue, 10 Nov 2026 03:11:37 GMT",
+        "description": "【新华网】华北电力大学团委联合国华投资团委打造“党建带团建”特色能源思政课 &nbsp;&nbsp; 华北电力大学"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -211,16 +211,16 @@
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
         "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
         "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
         "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
+      },
+      {
+        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
+        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
+        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
         "title": "国家能源局新闻发布会文字实录 - 国家能源局",
@@ -229,20 +229,20 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
+        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
         "title": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdVVNcUo4cnRMQ2JSQUZDb1dSR2lGRUtuZ2VnUzlMOUcyQlpScF81WjRJV2VhM3l0X1k4V0tpbmdJUFoySTN3V0tXcTktR0M0UzJIQg?oc=5",
         "pubDate": "Thu, 12 Nov 2026 06:38:34 GMT",
         "description": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "全球氢能产业迈向规模化应用关键期（国际视点） - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLTdQNmhtdjBOTjJ0dzFFWDVnNDFPVE05Y1QwODNHMVVuQmJPTmw5bnJlYi02TUxTYVpVNEJNdGJnV2Y1eWhwSW1qVElscEZTLTNUQUNaemlfbTMySE0xTVJXRzlra2x0NU00UTJUQy1tNTNhQU9PRkE5QjU4eG8?oc=5",
-        "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "description": "全球氢能产业迈向规模化应用关键期（国际视点） &nbsp;&nbsp; 人民日报"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "hydrogen": {
     "items": [
@@ -304,83 +304,12 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "A unified finite-site framework for scaffold-client biocondensation",
-        "link": "https://arxiv.org/abs/2611.15007v1",
-        "pubDate": "2026-11-11T04:06:41Z",
-        "description": "Client recruitment into biomolecular condensates does not determine how stronger binding changes the bulk free-energy advantage of demixing. Here, we use a unified finite-site thermodynamic framework to examine how scaffold-client interactions affect both the response of a fixed-composition mixture ",
-        "title_cn": "用于支架-受体生物缩合的统一有限位点框架"
-      },
-      {
-        "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
-        "link": "https://arxiv.org/abs/2611.15006v1",
-        "pubDate": "2026-11-11T04:05:54Z",
-        "description": "Large language model (LLM) agents increasingly interact with tools and environments, yet plausible model decisions do not always translate into successful execution due to tool-call mismatches, interrupted workflows, and unsupported completion claims. We present EvoX, a Rust-based, multi-model agent",
-        "title_cn": "EvoX：将代理线束重新定义为运行时策略"
-      },
-      {
-        "title": "Discovery of a likely supermassive neutron star in a remarkably wide binary",
-        "link": "https://arxiv.org/abs/2611.14998v1",
-        "pubDate": "2026-11-11T03:56:13Z",
-        "description": "Supermassive neutron stars ($M \\gtrsim 2\\ M_{\\odot}$) provide stringent constraints on the equation of state of dense matter. We report the discovery of a wide binary system composed of a red giant star and an invisible companion with an orbital period $P\\approx 1218\\pm3$ days and a comparatively lo",
-        "title_cn": "在一颗异常宽阔的双星系统中发现一颗疑似超大质量中子星"
-      },
-      {
-        "title": "Same Task, Different Statement: When and How Reformulation Helps LLM Problem Solving",
-        "link": "https://arxiv.org/abs/2611.14997v1",
-        "pubDate": "2026-11-11T03:55:59Z",
-        "description": "When people face a hard problem, they often restate it in a clearer way before solving it. We study whether the same habit helps large language models by rewriting the statement of a problem. A legal rewrite must keep the meaning, the constraints, and the correct answer unchanged. We test three kind",
-        "title_cn": "相同的任务，不同的表述：改写在何时以及如何帮助大语言模型解决问题"
-      },
-      {
-        "title": "EASTAR: Event-Anchored Semantic and Task-Adaptive Region Representation Learning",
-        "link": "https://arxiv.org/abs/2611.14990v1",
-        "pubDate": "2026-11-11T03:44:05Z",
-        "description": "Urban region representation learning supports a wide range of urban analytics tasks by encoding regional functions and interactions, with human mobility serving as a central signal because it directly captures inter-region interactions. However, most mobility-based methods learn from aggregated orig",
-        "title_cn": "EASTAR：基于事件的语义和任务自适应区域表示学习"
-      },
-      {
-        "title": "From optimization to construction: Expanding quantum measurement designs",
-        "link": "https://arxiv.org/abs/2611.14986v1",
-        "pubDate": "2026-11-11T03:41:37Z",
-        "description": "Estimating molecular energies on quantum computers requires repeated measurements of many Pauli terms, making sampling a major resource cost. Measurement design chooses which compatible terms are measured together and allocates a finite shot budget among bases to minimize the variance of an energy e",
-        "title_cn": "从优化到构建：扩展量子测量设计"
-      },
-      {
-        "title": "ILA: A Transferable Interface-Level Adapter for Compliant Humanoid Motion Tracking",
-        "link": "https://arxiv.org/abs/2611.14985v1",
-        "pubDate": "2026-11-11T03:41:36Z",
-        "description": "Humanoid motion tracking is fundamental to reproducing human motions on humanoid robots and serves as an important tool for teleoperation and motion data collection. However, directly tracking reference motions can be unsafe in constrained environments or during physical human--robot interaction, mo",
-        "title_cn": "ILA：用于顺应性人形机器人运动跟踪的可移植接口级适配器"
-      },
-      {
-        "title": "On the uniform algebras generated by powers of the coordinates and smooth functions on compact subsets of $\\Bbb C^N$",
-        "link": "https://arxiv.org/abs/2611.14973v1",
-        "pubDate": "2026-11-11T03:34:29Z",
-        "description": "Let $K\\subset\\Bbb C^N$ be compact and let $f=(f_1,\\dots,f_N)$ be a smooth map on a neighbourhood of $K$. We give sufficient conditions for the algebra generated by $z_1^{m_1},\\dots,z_N^{m_N}$ and $f_1,\\dots,f_N$ (or by all monomials of degree $n$ and $f_1,\\dots,f_N$) to be dense in $C(K)$. We approp",
-        "title_cn": "关于由$\\Bbb C^N$紧子集上的坐标幂和光滑函数生成的均匀代数"
-      },
-      {
-        "title": "Nitride crystalline barrier epitaxial SIS Josephson junctions by MBE",
-        "link": "https://arxiv.org/abs/2611.14968v1",
-        "pubDate": "2026-11-11T03:28:40Z",
-        "description": "Superconductor-insulator-superconductor Josephson junctions with crystalline tunnel barriers have remained elusive by epitaxial techniques such as MOCVD or MBE that produce the junction materials and devices powering today's electronic and photonic systems like transistors and lasers. Here, we overc",
-        "title_cn": "通过MBE制备的氮化物晶体势垒外延SIS约瑟夫森结"
-      },
-      {
-        "title": "CommJEPA: When Predictive Representation Learning Meets Wireless Intelligence",
-        "link": "https://arxiv.org/abs/2611.14961v1",
-        "pubDate": "2026-11-11T03:13:32Z",
-        "description": "Artificial intelligence (AI) is becoming an integral part of wireless systems, yet much of today's wireless AI remains task-specific and reactive, with models typically trained to map current observations to predefined outputs or reconstruct observed data. While effective for individual tasks, such ",
-        "title_cn": "CommJEPA：当预测性表征学习遇上无线智能"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,10 +363,16 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "把“双碳”算进企业账本！泰安园区实践亮相济南交流会_泰安要闻 - 齐鲁网",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sMEFDT2I3UWllOEZYVXlNQW5DNThlN21WV1c0Yzdjd2hybEFQakVMRlZXMGVLRGp5QVdlMkQwajBvQkdoR3VsbWpNWmk5bk51WjBycUxZZDBfa280cHU4Qi14akEyWHNlODYw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 23:03:11 GMT",
+        "description": "把“双碳”算进企业账本！泰安园区实践亮相济南交流会_泰安要闻 &nbsp;&nbsp; 齐鲁网"
+      },
       {
         "title": "库车市：绿电直连 让降本降碳“看得见” - 中新网·新疆",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2NhenVPRFlYRW9oU2hzamc1ZlY0eGRJeFVGUUdsVndENUc4SjFJc2xaSG5xRUt5M3c4cUJjQ2dRNm0yMlM4Y05MTUgxMUV5ajVvZFRWaHlLU0N0emUzQ1l3SG5oZlFqWlhsbEFnTm8zWEtVd2tDTkRKWXgzYVlmeHl1OA?oc=5",
@@ -445,10 +380,10 @@
         "description": "库车市：绿电直连 让降本降碳“看得见” &nbsp;&nbsp; 中新网·新疆"
       },
       {
-        "title": "能源等将出台超100项产品碳足迹国家标准｜碳中和周报-证券之星 - 证券之星",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zOWlmTGNORHJUUUFpY3NSV3I0U2Q4bnpRWWdTMEFtYTVQQ3JBOWpkZzZDS3F0XzkwQ1hfZ2FxaVJaeU9QX1liVXJOTmpzYlRVQ2JKSFN4NkctdG8xYmc?oc=5",
-        "pubDate": "Mon, 09 Nov 2026 13:09:54 GMT",
-        "description": "能源等将出台超100项产品碳足迹国家标准｜碳中和周报-证券之星 &nbsp;&nbsp; 证券之星"
+        "title": "西安市第二批应用场景机会清单发布 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1odWVfZGVtSlpTVFJ5bllzYXlPQmc1ZWxxcUJuei1vSUFWRFV1RldXaFAwZEt2TGFjdWw4V0R5N3VYRkxhYjhQM1pMX25KYW5WR2JGZURXOWcyc25rUzh3RHIxV2QzcDVIMTVHdjJkbGZtOE1MdkI0NFF5THlZSS0tOHNZU1NzSGpVcg?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 10:01:56 GMT",
+        "description": "西安市第二批应用场景机会清单发布 &nbsp;&nbsp; Sohu"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -463,16 +398,10 @@
         "description": "国家发展改革委副主任郑备出席国新办吹风会，解读“十五五”规划《纲要（草案）》并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       },
       {
-        "title": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCOTFLYjhnMEpuRDV4c29SazFJY2V0RUQteWdKZU9UWW9VSU4tT1owaVpGN2lSVk0wZmNNZGpGRVpLSXVRUUlwMmRsQ1AtbEZuWFVOSw?oc=5",
-        "pubDate": "Thu, 12 Nov 2026 10:45:47 GMT",
-        "description": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "西安市第二批应用场景机会清单发布 - Sohu",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1odWVfZGVtSlpTVFJ5bllzYXlPQmc1ZWxxcUJuei1vSUFWRFV1RldXaFAwZEt2TGFjdWw4V0R5N3VYRkxhYjhQM1pMX25KYW5WR2JGZURXOWcyc25rUzh3RHIxV2QzcDVIMTVHdjJkbGZtOE1MdkI0NFF5THlZSS0tOHNZU1NzSGpVcg?oc=5",
-        "pubDate": "Wed, 11 Nov 2026 10:01:56 GMT",
-        "description": "西安市第二批应用场景机会清单发布 &nbsp;&nbsp; Sohu"
+        "title": "《新能源决策参考》2027征订启动！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXU3VG9tTXpYWW80TldnbXRMX3ExRFhHc1BIdW9SWnBZRVVoYTVheF96VHZWOGVuQmFZR3djaWZscHZsYWwtNDZ1emF0NEJUSnRHSGtlazJVZ2JUNmtLRktOdGVrN2NpUTNJRjhoZUFLRTFWMzItczdSQkxicHJnWEdxZXRDMGFLc0Z0dA?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 15:40:12 GMT",
+        "description": "《新能源决策参考》2027征订启动！ &nbsp;&nbsp; Sohu"
       },
       {
         "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
@@ -482,6 +411,6 @@
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-13 02:18 UTC"
+    "updated": "2026-11-13 15:00 UTC"
   }
 }
