@@ -1,0 +1,29 @@
+{
+  "reading": {
+    "title": "测试书籍",
+    "author": "测试作者",
+    "cover": "https://img3.doubanio.com/fiction/s29725544-0.jpg",
+    "progress": 65,
+    "finished": false,
+    "last_read": "2026-04-08"
+  },
+  "recent": [
+    {
+      "title": "最近读的书1",
+      "author": "作者1",
+      "cover": "",
+      "progress": 100,
+      "finished": true,
+      "last_read": "2026-04-07"
+    },
+    {
+      "title": "最近读的书2",
+      "author": "作者2",
+      "cover": "",
+      "progress": 45,
+      "finished": false,
+      "last_read": "2026-04-06"
+    }
+  ],
+  "updated": "2026-04-08 16:00 UTC"
+}
