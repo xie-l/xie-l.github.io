@@ -6,7 +6,7 @@
         "link": "https://www.nature.com/articles/d41586-026-03668-x",
         "pubDate": "2026-11-13",
         "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.",
-        "title_cn": "赴美留学生人数骤降——令科学家担忧"
+        "title_cn": "抵达美国的国际学生人数骤减——令科学家们担忧"
       },
       {
         "title": "Chinese graduate students are now choosing to stay closer to home",
@@ -27,21 +27,21 @@
         "link": "https://www.nature.com/articles/d41586-026-03679-8",
         "pubDate": "2026-11-13",
         "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03679-8 Being able to target and debug systems could improve artificial-intelligence safety and utility.",
-        "title_cn": "这款人工智能“技师”能够窥探其他神经网络的黑匣子"
+        "title_cn": "这款人工智能“机械师”能够窥探其他神经网络的黑匣子"
       },
       {
         "title": "Is the climate totally cooked? What the data say",
         "link": "https://www.nature.com/articles/d41586-026-03716-6",
         "pubDate": "2026-11-13",
         "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03716-6 In the first of our new podcast series, a Nature reporter looks for reasons for hope in the face of overwhelming climate anxiety.",
-        "title_cn": "气候是否已经彻底失控？数据说明了什么"
+        "title_cn": "气候是否已经彻底失控？数据怎么说"
       },
       {
         "title": "Found: a protein that drives ageing without unleashing inflammation",
         "link": "https://www.nature.com/articles/d41586-026-03638-3",
         "pubDate": "2026-11-12",
         "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3 Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage.",
-        "title_cn": "发现：一种在不引发炎症的情况下促进衰老的蛋白质"
+        "title_cn": "发现：一种推动衰老但不引发炎症的蛋白质"
       },
       {
         "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
@@ -59,15 +59,36 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Tesla Starts Selling Cybercab — $30,000*",
+        "link": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/",
+        "pubDate": "Sat, 14 Nov 2026 04:57:57 +0000",
+        "description": "Well, it&#8217;s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, there is an asterisk here — actually, there are two asterisks here. First of all, only people who have ... ",
+        "title_cn": "特斯拉开始销售Cybercab——30,000美元*"
+      },
+      {
+        "title": "Who Can Weather the Health Storm?",
+        "link": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/",
+        "pubDate": "Sat, 14 Nov 2026 03:44:59 +0000",
+        "description": "States facing the greatest health damage from climate change are the least equipped to protect their residents. Across the United States, climate change is intensifying extreme weather events, resulting in escalating public health harms and severe economic damage. For example, devastating inland flo",
+        "title_cn": "谁能经受住健康风暴的考验？"
+      },
+      {
+        "title": "Comparative Cost Analysis for Residential Curbside Organics Collection Programs",
+        "link": "https://cleantechnica.com/2026/11/13/comparative-cost-analysis-for-residential-curbside-organics-collection-programs/",
+        "pubDate": "Sat, 14 Nov 2026 03:23:44 +0000",
+        "description": "This analysis of eight residential programs shows that, if properly implemented, cities can use a new organics collection program to build a more efficient, resilient, and sustainable solid waste system. Coauthored with Raftelis Residential curbside organics collection is expanding across the United",
+        "title_cn": "住宅区路边有机垃圾收集计划的比较成本分析"
+      },
       {
         "title": "10 Reasons for the Big Blue Wave",
         "link": "https://cleantechnica.com/2026/11/13/10-reasons-for-the-big-blue-wave/",
@@ -94,7 +115,7 @@
         "link": "https://cleantechnica.com/2026/11/13/ask-a-scientist-who-has-a-voice-in-clean-air-protections/",
         "pubDate": "Fri, 13 Nov 2026 22:38:11 +0000",
         "description": "If developers and planners decide to site an industrial chemical plant next door to your home, you’d want the chance to speak up about it. Soliciting input from the communities and individuals affected by pollution is an essential part of how environmental and public health laws are enforced. Under ",
-        "title_cn": "问问科学家：谁有权参与清洁空气保护？"
+        "title_cn": "向科学家提问：谁有权参与清洁空气保护？"
       },
       {
         "title": "Europe’s Hydrogen Strategy Should Begin With the Industrial Customer",
@@ -102,31 +123,10 @@
         "pubDate": "Fri, 13 Nov 2026 15:28:46 +0000",
         "description": "Europe is revising hydrogen policy. Industrial products and paying customers should determine hydrogen demand before new pipelines receive support. The post Europe’s Hydrogen Strategy Should Begin With the Industrial Customer appeared first on CleanTechnica .",
         "title_cn": "欧洲的氢能战略应从工业客户开始"
-      },
-      {
-        "title": "Is Tesla The Apple Of The EV Industry?",
-        "link": "https://cleantechnica.com/2026/11/13/is-tesla-the-apple-of-the-ev-industry/",
-        "pubDate": "Fri, 13 Nov 2026 14:52:34 +0000",
-        "description": "Tesla is an interesting company at an interesting phase of the electric vehicle transition. Well, it has always been an interesting company in this transition. However, lately, as the industry has moved quickly into a new phase, I have been wondering where Tesla will sit amidst it in the coming ... ",
-        "title_cn": "特斯拉是电动汽车行业的苹果吗？"
-      },
-      {
-        "title": "Data Centers, AI, & the Growing Demand for Energy: Impacts, Risks, & Solutions",
-        "link": "https://cleantechnica.com/2026/11/12/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solutions/",
-        "pubDate": "Fri, 13 Nov 2026 04:50:28 +0000",
-        "description": "Learn how the rapid growth of data centers is affecting electricity bills, public health, communities, and the environment and what can be done about it. Data centers, the physical infrastructure powering the rapid growth of artificial intelligence and our increasingly digital lives, are expanding a",
-        "title_cn": "数据中心、人工智能和不断增长的能源需求：影响、风险和解决方案"
-      },
-      {
-        "title": "Managing Offshore Wind in the Face of Uncertainty",
-        "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/",
-        "pubDate": "Fri, 13 Nov 2026 04:07:58 +0000",
-        "description": "This report lays out key adaptive management principles and recommendations for regulators. Despite current headwinds from the Trump administration, offshore wind energy is essential for transitioning away from harmful fossil fuels to a clean energy economy. Offshore wind could provide more than thr",
-        "title_cn": "面对不确定性，管理海上风电"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "energy": {
     "items": [
@@ -163,7 +163,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02180-w",
         "pubDate": "2026-11-04",
         "description": "Nature Energy, Published online: 04 November 2026; doi:10.1038/s41560-026-02180-w Author Correction: Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
-        "title_cn": "作者勘误：钙钛矿晶格柔性使高效稳定的双面钙钛矿/硅串联光伏器件成为可能"
+        "title_cn": "作者勘误：钙钛矿晶格柔顺性实现高效稳定的双面钙钛矿/硅串联光伏器件"
       },
       {
         "title": "Directing solvent reactivity",
@@ -184,11 +184,11 @@
         "link": "https://www.nature.com/articles/s41560-026-02161-z",
         "pubDate": "2026-11-02",
         "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02161-z Formamidinium–caesium lead triiodide perovskites show promise in terms of stability, yet their solar cell efficiency remains limited. Li et al. use a metallomesogen with mesophase to stabilize perovskite grain boundari",
-        "title_cn": "在甲脒–铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
+        "title_cn": "在甲脒-铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "energy_cn": {
     "items": [
@@ -199,10 +199,16 @@
         "description": "梦氢能源风冷氢燃料电池加速微交通、微电力场景渗透 &nbsp;&nbsp; 世纪新能源网"
       },
       {
-        "title": "【新华网】华北电力大学团委联合国华投资团委打造“党建带团建”特色能源思政课 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZUUNTaFE0YkdNYWJOd2R4bHdTTm43aVZfTjgydlV2ZktaNVdIbnBQMkV2Y2lMMHBBbkdpRTRtUGpqUDBTeXg1TEwxWS1JNEI4U3J5N25RMlhSWGdlcng3MmRyRXJHRzB0TVNWa0xETnFBUGh0YUE?oc=5",
-        "pubDate": "Tue, 10 Nov 2026 03:11:37 GMT",
-        "description": "【新华网】华北电力大学团委联合国华投资团委打造“党建带团建”特色能源思政课 &nbsp;&nbsp; 华北电力大学"
+        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
+        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+      },
+      {
+        "title": "氢能产业正走向“精选赛道” - 中国石化新闻网",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclFfdWhnN1A4UFZMOHBIM08zTlF4YzJOUFJPbkItWnBVQTg1ektOY19VVlhPY0FDdGM1N0VjY0d2NU1tUFRDTDR2Q29xNk5sOGhFa1lpMGlCaXJjM1VacmVUTEpRclBZcTdjUWlzeDlrMHpOOVhfWnZVVWNUa280bQ?oc=5",
+        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
+        "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -229,20 +235,14 @@
         "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "华为智能组串式构网储能平台获TÜV南德颁发业界首个L4最高等级构网能力认证！ - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVU16SHVuV1Y0RWt6U0JiUWVpV2FCejd3bHVOWnB6d2d3b082ejVnX2pXbGJtMDZJMldoT0RETExBRzg5MHhrdkhHMFBpTEluNUJSSg?oc=5",
-        "pubDate": "Fri, 13 Nov 2026 14:28:09 GMT",
-        "description": "华为智能组串式构网储能平台获TÜV南德颁发业界首个L4最高等级构网能力认证！ &nbsp;&nbsp; 世纪新能源网"
-      },
-      {
-        "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
-        "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
-        "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
+        "title": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBdVVNcUo4cnRMQ2JSQUZDb1dSR2lGRUtuZ2VnUzlMOUcyQlpScF81WjRJV2VhM3l0X1k4V0tpbmdJUFoySTN3V0tXcTktR0M0UzJIQg?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 06:38:34 GMT",
+        "description": "阳光、三一、青骐骥等16家企业！中能建176套制氢设备集采公示中标候选人 &nbsp;&nbsp; 世纪新能源网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "hydrogen": {
     "items": [
@@ -251,14 +251,14 @@
         "link": "https://fuelcellsworks.com/2026/11/12/fuel-cells/german-beverage-distributor-vo-kamp-tests-hyundai-xcient-hydrogen-truck-alongside-bev-and-combustion-fleet",
         "pubDate": "Fri, 13 Nov 2026 15:54:19 GMT",
         "description": "",
-        "title_cn": "德国饮料经销商Voßkamp将现代XCIENT氢能卡车与BEV和燃油车队一同进行测试"
+        "title_cn": "德国饮料经销商Voßkamp将现代XCIENT氢动力卡车与BEV和燃油车队一同进行测试"
       },
       {
         "title": "Brazil’s Energy Regulator Authorises First Green Hydrogen Project to Access National Grid",
         "link": "https://fuelcellsworks.com/2026/11/13/h2/brazil-s-energy-regulator-authorises-first-green-hydrogen-project-to-access-national-grid",
         "pubDate": "Fri, 13 Nov 2026 15:33:32 GMT",
         "description": "",
-        "title_cn": "巴西能源监管机构批准首个绿氢项目并入国家电网"
+        "title_cn": "巴西能源监管机构批准首个绿氢项目接入国家电网"
       },
       {
         "title": "DHL Becomes First Express Cargo Carrier to Use Sustainable Aviation Fuel (SAF) at Paris Charles De Gaulle Airport",
@@ -304,7 +304,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "papers": {
     "items": [
@@ -313,14 +313,14 @@
         "link": "https://arxiv.org/abs/2611.17337v1",
         "pubDate": "2026-11-12T18:59:56Z",
         "description": "White dwarfs (WDs) provide a fossil record of the Milky Way star formation history (SFH) through the combined effects of stellar evolution and cooling. They have, however, generally been modelled in isolation from the non-degenerate population, so that no single self-consistent set of Galactic assum",
-        "title_cn": "包含白矮星的盖亚全色-星等图揭示了银河系恒星形成历史的衰退"
+        "title_cn": "包含白矮星的完整盖亚颜色-星等图揭示了银河系恒星形成历史的衰退"
       },
       {
         "title": "Ensemble phase transitions in measurement-unitary hybrid quantum circuits",
         "link": "https://arxiv.org/abs/2611.17322v1",
         "pubDate": "2026-11-12T18:59:03Z",
         "description": "The universal properties of state ensembles generated by quantum dynamics provide a refined lens into Hilbert-space ergodicity and deep thermalisation, or lack thereof. We investigate deep-ergodicity breaking transitions of an ancillary qubit entangled with a system undergoing dynamics via hybrid qu",
-        "title_cn": "测量-幺正混合量子电路中的系综相变"
+        "title_cn": "测量-酉混合量子电路中的系综相变"
       },
       {
         "title": "The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity",
@@ -334,7 +334,7 @@
         "link": "https://arxiv.org/abs/2611.17300v1",
         "pubDate": "2026-11-12T18:55:27Z",
         "description": "The JWST Rocky Worlds Director's Discretionary Time (RWDDT) program uses secondary eclipse observations to determine the conditions under which rocky exoplanets around M dwarfs retain their atmospheres. We present RWDDT MIRI/F1500W observations of LTT 1445 A b and c, the transiting rocky siblings in",
-        "title_cn": "JWST岩质行星DDT在次食期间使用MIRI/F1500W对LTT 1445 A b和c的观测"
+        "title_cn": "JWST岩质行星DDT在二次食期间使用MIRI/F1500W对LTT 1445 A b和c的观测"
       },
       {
         "title": "Observation of Genuine Multi-Time Quantum Memory",
@@ -348,7 +348,7 @@
         "link": "https://arxiv.org/abs/2611.17254v1",
         "pubDate": "2026-11-12T18:39:28Z",
         "description": "Demixing through liquid-liquid phase separation is relevant to nanoparticle (NP) aggregation in polymer nanocomposites (PNCs), biomolecular compartmentalization, and liquids embedded in elastic networks. Mixing-demixing phase behavior depends on factors, such as particle size distribution, system di",
-        "title_cn": "纳米颗粒间排斥作用对聚合物纳米复合材料自组织的影响：Langevin动力学模拟研究"
+        "title_cn": "纳米颗粒间排斥作用对聚合物纳米复合材料自组织的影响：朗之万动力学模拟研究"
       },
       {
         "title": "Sowing the Seeds of Intractability: Kalah is PSPACE-complete",
@@ -380,7 +380,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +434,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -443,6 +443,12 @@
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sMEFDT2I3UWllOEZYVXlNQW5DNThlN21WV1c0Yzdjd2hybEFQakVMRlZXMGVLRGp5QVdlMkQwajBvQkdoR3VsbWpNWmk5bk51WjBycUxZZDBfa280cHU4Qi14akEyWHNlODYw?oc=5",
         "pubDate": "Thu, 12 Nov 2026 23:03:11 GMT",
         "description": "把“双碳”算进企业账本！泰安园区实践亮相济南交流会_泰安要闻 &nbsp;&nbsp; 齐鲁网"
+      },
+      {
+        "title": "《新能源决策参考》2027征订启动！ - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXU3VG9tTXpYWW80TldnbXRMX3ExRFhHc1BIdW9SWnBZRVVoYTVheF96VHZWOGVuQmFZR3djaWZscHZsYWwtNDZ1emF0NEJUSnRHSGtlazJVZ2JUNmtLRktOdGVrN2NpUTNJRjhoZUFLRTFWMzItczdSQkxicHJnWEdxZXRDMGFLc0Z0dA?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 15:40:12 GMT",
+        "description": "《新能源决策参考》2027征订启动！ &nbsp;&nbsp; Sohu"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -461,9 +467,27 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
         "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
         "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
+      },
+      {
+        "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
+        "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
+        "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
+      },
+      {
+        "title": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCOTFLYjhnMEpuRDV4c29SazFJY2V0RUQteWdKZU9UWW9VSU4tT1owaVpGN2lSVk0wZmNNZGpGRVpLSXVRUUlwMmRsQ1AtbEZuWFVOSw?oc=5",
+        "pubDate": "Thu, 12 Nov 2026 10:45:47 GMT",
+        "description": "会议通知 | 聚焦\"十五五\"松辽基地，2026东北双碳大会启动报名 &nbsp;&nbsp; 世纪新能源网"
+      },
+      {
+        "title": "西安市第二批应用场景机会清单发布 - Sohu",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1odWVfZGVtSlpTVFJ5bllzYXlPQmc1ZWxxcUJuei1vSUFWRFV1RldXaFAwZEt2TGFjdWw4V0R5N3VYRkxhYjhQM1pMX25KYW5WR2JGZURXOWcyc25rUzh3RHIxV2QzcDVIMTVHdjJkbGZtOE1MdkI0NFF5THlZSS0tOHNZU1NzSGpVcg?oc=5",
+        "pubDate": "Wed, 11 Nov 2026 10:01:56 GMT",
+        "description": "西安市第二批应用场景机会清单发布 &nbsp;&nbsp; Sohu"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-14 01:55 UTC"
+    "updated": "2026-11-14 08:25 UTC"
   }
 }
