@@ -2,11 +2,53 @@
   "tech": {
     "items": [
       {
+        "title": "Conference networking made simple, in three short videos",
+        "link": "https://www.nature.com/articles/d41586-026-03678-9",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03678-9 Working the room is a skill you can practise and prepare for. Here’s how.",
+        "title_cn": "通过三个简短的视频，轻松了解会议社交"
+      },
+      {
+        "title": "How to make AI data centres more sustainable",
+        "link": "https://www.nature.com/articles/d41586-026-03708-6",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03708-6 Tech companies and governments face opposition over data centres’ expansion, in part because of their huge power requirements. They must not be powered with fossil fuels.",
+        "title_cn": "如何使人工智能数据中心更具可持续性"
+      },
+      {
+        "title": "Microbiome home tests are taking off. Can they be trusted?",
+        "link": "https://www.nature.com/articles/d41586-026-03710-y",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03710-y Our reporter mailed off her poo to find out what two companies say about her microbiome. Here’s what she found.",
+        "title_cn": "微生物组居家检测正在兴起。它们可靠吗？"
+      },
+      {
+        "title": "Are you a budding science sleuth? Take our plagiarism quiz to test your skills",
+        "link": "https://www.nature.com/articles/d41586-026-03040-z",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03040-z Sleuths and publishers seize on ‘tortured phrases’ to detect research fraud. Sometimes they can raise a smile.",
+        "title_cn": "您是一位初出茅庐的科学侦探吗？参加我们的剽窃测验，检验您的技能"
+      },
+      {
+        "title": "A grant to hand out more grants — and build a research area",
+        "link": "https://www.nature.com/articles/d41586-026-03689-6",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03689-6 A rapid microgrants scheme called the Field Building Accelerator aims to launch new scientific fields.",
+        "title_cn": "一笔用于发放更多资助金的资助金——并建立一个研究领域"
+      },
+      {
+        "title": "The right to do wrong",
+        "link": "https://www.nature.com/articles/d41586-026-03517-x",
+        "pubDate": "2026-11-18",
+        "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03517-x An equal chance.",
+        "title_cn": "犯错的权利"
+      },
+      {
         "title": "Meet the ‘celestial bodies of fathomless powerful darkness’",
         "link": "https://www.nature.com/articles/d41586-026-03750-4",
         "pubDate": "2026-11-17",
         "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03750-4 Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than one billion years after the Big Bang.",
-        "title_cn": "认识“深不可测、蕴含强大力量的黑暗天体”"
+        "title_cn": "认识“深不可测的黑暗天体”"
       },
       {
         "title": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
@@ -14,60 +56,46 @@
         "pubDate": "2026-11-17",
         "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03744-2 The prospect of a ‘super’ El Niño demands better ocean monitoring",
         "title_cn": "“超级”厄尔尼诺现象的前景要求加强海洋监测"
-      },
-      {
-        "title": "Dinosaur’s rest break leaves a lasting impression",
-        "link": "https://www.nature.com/articles/d41586-026-03749-x",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03749-x A fossilized print records marks left by the feet and bum of a juvenile reptile that measured one metre at the hip.",
-        "title_cn": "恐龙的休息时间令人印象深刻"
-      },
-      {
-        "title": "AI wearables could exploit people’s most vulnerable moments",
-        "link": "https://www.nature.com/articles/d41586-026-03742-4",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03742-4 AI wearables could exploit people’s most vulnerable moments",
-        "title_cn": "人工智能可穿戴设备可能会利用人们最脆弱的时刻"
-      },
-      {
-        "title": "The origins of scrotal asymmetry",
-        "link": "https://www.nature.com/articles/d41586-026-03279-6",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03279-6 Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly ambitious museum, in our weekly dip into Nature’s archive.",
-        "title_cn": "阴囊不对称的成因"
-      },
-      {
-        "title": "Should we move from artificial intelligence to artificial life?",
-        "link": "https://www.nature.com/articles/d41586-026-03743-3",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03743-3 Should we move from artificial intelligence to artificial life?",
-        "title_cn": "我们是否应该从人工智能转向人工生命？"
-      },
-      {
-        "title": "Is academia’s risk-averse culture stifling scientific discovery?",
-        "link": "https://www.nature.com/articles/d41586-026-03772-y",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03772-y Fear of failure can cause researchers to stay within their comfort zone, impacting innovation, argues Nessa Carey.",
-        "title_cn": "学术界厌恶风险的文化是否正在扼杀科学发现？"
-      },
-      {
-        "title": "‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial",
-        "link": "https://www.nature.com/articles/d41586-026-03770-0",
-        "pubDate": "2026-11-17",
-        "description": "Nature, Published online: 17 November 2026; doi:10.1038/d41586-026-03770-0 A closely watched study found no cognitive benefit from a brain-stimulating headset designed to treat Alzheimer’s disease.",
-        "title_cn": "备受期待的阿尔茨海默病“光和声音”疗法试验宣告失败"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "tech_cn": {
     "items": [],
     "source": "36氪",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "CA Governor Talks Climate Action And Punches Nazis On European Tour",
+        "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/",
+        "pubDate": "Wed, 18 Nov 2026 15:33:40 +0000",
+        "description": "The renewable energy transition entwines with the fight against Russian aggression in Europe, where California Governor Gavin Newsom is making a play for attention on the world stage (cropped, courtesy of California Energy Commission). The post CA Governor Talks Climate Action And Punches Nazis On E",
+        "title_cn": "加州州长在欧洲之行中谈论气候行动并抨击纳粹"
+      },
+      {
+        "title": "Solar Insure Launches 20-Year Commercial Battery Warranty, Expanding Protection for Solar & Storage Projects",
+        "link": "https://cleantechnica.com/2026/11/18/solar-insure-launches-20-year-commercial-battery-warranty-expanding-protection-for-solar-storage-projects/",
+        "pubDate": "Wed, 18 Nov 2026 14:32:16 +0000",
+        "description": "Launching at RE+ Las Vegas, November 17–20 &#124; Visit Solar Insure at Booth C4190 Commercial property owners invest in solar and battery storage to manage energy costs and strengthen resilience. One question can shape that investment from the start. Who pays when equipment needs repairs years afte",
+        "title_cn": "Solar Insure推出20年商业电池质保，为太阳能和储能项目提供更全面的保障"
+      },
+      {
+        "title": "From Social Leasing to Social Fleets: A Proposed Law Lends Credibility to the Goal of One Million Affordable Electric Cars",
+        "link": "https://cleantechnica.com/2026/11/18/from-social-leasing-to-social-fleets-a-proposed-law-lends-credibility-to-the-goal-of-one-million-affordable-electric-cars/",
+        "pubDate": "Wed, 18 Nov 2026 14:28:02 +0000",
+        "description": "Social leasing could soon change in scale, name, and business model. The bill introduced by MP Christine Arrighi aims to create a public service offering one million &#8220;low-cost electric vehicles&#8221; (ALM). Scheduled for December 3rd in the National Assembly, its examination is expected to pl",
+        "title_cn": "从社会租赁到社会车队：一项拟议的法律为实现100万辆经济型电动汽车的目标提供了可信度"
+      },
+      {
+        "title": "The Harm From Plastic Is Happening In Plain Sight",
+        "link": "https://cleantechnica.com/2026/11/18/plastics-harm-is-happening-in-plain-sight/",
+        "pubDate": "Wed, 18 Nov 2026 12:52:22 +0000",
+        "description": "It is known. Plastic is a major cause of the climate crisis, yet governments continue to ignore it. The Environmental Justice Foundation (EJF) has issued a new briefing published to coincide with the UN Climate Change Conference, COP31, in Antalya, Türkiye. The briefing, &#8220;Reducing plastic prod",
+        "title_cn": "塑料造成的危害正明目张胆地发生"
+      },
       {
         "title": "Third Pillar Constructing Largest Floating Solar Complex in New York",
         "link": "https://cleantechnica.com/2026/11/17/third-pillar-constructing-largest-floating-solar-complex-in-new-york/",
@@ -94,42 +122,21 @@
         "link": "https://cleantechnica.com/2026/11/17/senate-republicans-seek-to-again-raid-states-coffers-threaten-ev-charging/",
         "pubDate": "Wed, 18 Nov 2026 01:38:03 +0000",
         "description": "FY 2027 Transportation Proposal Puts EV Charging Investments at Risk WASHINGTON, D.C. — On Monday, Senate Republicans released an Appropriations package that proposes to take back nearly $2 billion in federal funding already allocated to states to build out electric vehicle (EV) charging infrastruct",
-        "title_cn": "参议院共和党人再次试图侵吞各州的财政收入，并威胁电动汽车充电设施"
-      },
-      {
-        "title": "BYD E6Y Odyssey",
-        "link": "https://cleantechnica.com/2026/11/17/byd-e6y-odyssey/",
-        "pubDate": "Wed, 18 Nov 2026 00:04:11 +0000",
-        "description": "A couple of friends embark on a road trip to pick their EV purchase, and it turns into an Odyssey. The BYD E6 is a BEV classic. Globe-trotting friends have ridden in them as taxis in Singapore. Majella and I even took one for a test drive (it reminded me ... [continued] The post BYD E6Y Odyssey appe",
-        "title_cn": "比亚迪 E6Y 奥德赛"
-      },
-      {
-        "title": "The Rising Tide Of Distributed Energy Resources",
-        "link": "https://cleantechnica.com/2026/11/17/distributed-energy-resources-solar-storage-batteries-compute/",
-        "pubDate": "Tue, 17 Nov 2026 22:05:42 +0000",
-        "description": "The renewable energy \"prosumer\" envisioned by the US Department of Energy in the early 2000's has become the sophisticated distributed energy resources manager of today. The post The Rising Tide Of Distributed Energy Resources appeared first on CleanTechnica .",
-        "title_cn": "分布式能源的蓬勃发展"
-      },
-      {
-        "title": "China’s Electric Heavy Trucks Are Taking Sales from Diesel and LNG",
-        "link": "https://cleantechnica.com/2026/11/17/china-electric-heavy-trucks-diesel-lng-freight-economics/",
-        "pubDate": "Tue, 17 Nov 2026 17:22:37 +0000",
-        "description": "September battery-electric heavy trucks reached 49.8% of new domestic registrations, while actual freight case studies explain why charging and route design matter. The post China&#8217;s Electric Heavy Trucks Are Taking Sales from Diesel and LNG appeared first on CleanTechnica .",
-        "title_cn": "中国的电动重型卡车正在抢占柴油和LNG卡车的市场份额"
-      },
-      {
-        "title": "When Less Is More: Rewilding as a Strategy for Nature Recovery",
-        "link": "https://cleantechnica.com/2026/11/17/when-less-is-more-rewilding-as-a-strategy-for-nature-recovery/",
-        "pubDate": "Tue, 17 Nov 2026 16:30:52 +0000",
-        "description": "Can we bring nature back from the brink of collapse? That may sound melodramatic, but the evidence is sobering: the Planetary Health Check 2026 shows that we have crossed 7 of the 9 science-based planetary boundaries;[1] the Living Planet Report 2026 finds that wildlife populations have declined 73%",
-        "title_cn": "大道至简：以再野化为自然恢复策略"
+        "title_cn": "参议院共和党人再次试图侵吞各州的财政收入，并威胁电动汽车充电业务"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Targeted technology coadoption for reconciling energy savings and equity gains in the residential energy transition",
+        "link": "https://www.nature.com/articles/s41560-026-02164-w",
+        "pubDate": "2026-11-18",
+        "description": "Nature Energy, Published online: 18 November 2026; doi:10.1038/s41560-026-02164-w Targeting burden reduction realigns technology distribution towards disadvantaged households. The study shows that solar co-adoption for these households can deliver equity gains, highlighting the need for bundled, mul",
+        "title_cn": "针对性技术共同采用，以协调住宅能源转型中的节能与公平收益"
+      },
       {
         "title": "Author Correction: Dynamic cycling enhances battery lifetime",
         "link": "https://www.nature.com/articles/s41560-026-02182-8",
@@ -163,7 +170,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02180-w",
         "pubDate": "2026-11-04",
         "description": "Nature Energy, Published online: 04 November 2026; doi:10.1038/s41560-026-02180-w Author Correction: Perovskite lattice compliance enables efficient and stable bifacial perovskite/silicon tandem photovoltaics",
-        "title_cn": "作者勘误：钙钛矿晶格柔性使高效稳定的双面钙钛矿/硅串联光伏器件成为可能"
+        "title_cn": "作者勘误：钙钛矿晶格柔顺性实现高效稳定的双面钙钛矿/硅串联光伏器件"
       },
       {
         "title": "Directing solvent reactivity",
@@ -178,17 +185,10 @@
         "pubDate": "2026-11-02",
         "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02154-y Anode-free sodium batteries are limited by irreversible sodium loss during cycling. Here the authors introduce a moderate-strain cyclic ether that redirects electrolyte decomposition to form a thin, robust interphase, ",
         "title_cn": "通过受控寡聚化实现的稳定无阳极钠电池"
-      },
-      {
-        "title": "Grain boundary engineering using metallomesogen in formamidinium–caesium lead triiodide for stable perovskite/silicon tandem solar cells",
-        "link": "https://www.nature.com/articles/s41560-026-02161-z",
-        "pubDate": "2026-11-02",
-        "description": "Nature Energy, Published online: 02 November 2026; doi:10.1038/s41560-026-02161-z Formamidinium–caesium lead triiodide perovskites show promise in terms of stability, yet their solar cell efficiency remains limited. Li et al. use a metallomesogen with mesophase to stabilize perovskite grain boundari",
-        "title_cn": "在甲脒-铯铅三碘化物中使用金属液晶进行晶界调控，以制备稳定的钙钛矿/硅串联太阳能电池"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "energy_cn": {
     "items": [
@@ -211,10 +211,10 @@
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
       },
       {
-        "title": "新疆开展2026年10月可再生能源消纳数据收集、统计结果公示 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03cUotMHg2NGZ1Y0FuSFdBbmFBYVA1ZjBfSEVuYmZ1WU5fSWp6UW81c2xSOFlqeW1HZjExODliTVNWb1diMXhPaEI3ZkpqOWxZZFRxZQ?oc=5",
-        "pubDate": "Tue, 17 Nov 2026 09:26:44 GMT",
-        "description": "新疆开展2026年10月可再生能源消纳数据收集、统计结果公示 &nbsp;&nbsp; 世纪新能源网"
+        "title": "重大利好！氢能正式纳入可再生能源法 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sTW9jZExrMWNmUXljS2Vpc2VvQnFteF9OYkNrVHR6NnBxMVNiZFk3LVVraGNKMUNkQjJleWtpT0JJcTVqY2lEaFgtMHhoOXhCelk0Qw?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 08:24:12 GMT",
+        "description": "重大利好！氢能正式纳入可再生能源法 &nbsp;&nbsp; 世纪新能源网"
       },
       {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
@@ -242,7 +242,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "hydrogen": {
     "items": [
@@ -258,7 +258,7 @@
         "link": "https://fuelcellsworks.com/2026/11/17/electrolyzer/sunhydrogen-aims-to-scale-austin-pilot-to-16-panels-after-stable-outdoor-h-tests",
         "pubDate": "Tue, 17 Nov 2026 16:41:44 GMT",
         "description": "",
-        "title_cn": "经过稳定的户外H₂测试后，SunHydrogen计划将奥斯汀试点项目扩展至16块太阳能板"
+        "title_cn": "在稳定的户外H₂测试之后，SunHydrogen的目标是将奥斯汀试点项目扩展到16块太阳能板"
       },
       {
         "title": "Dassault Aviation Drops Hydrogen Research, Bets on SAF for Business Jet Decarbonisation",
@@ -279,14 +279,14 @@
         "link": "https://fuelcellsworks.com/2026/11/17/h2/eu-s-green-methanol-targets-risk-strengthening-chinese-imports-instead-of-european-production-regulator-warns",
         "pubDate": "Tue, 17 Nov 2026 15:58:49 GMT",
         "description": "",
-        "title_cn": "监管机构警告称，欧盟的绿色甲醇目标可能导致中国进口增加，而非提振欧洲生产"
+        "title_cn": "监管机构警告称，欧盟的绿色甲醇目标可能导致中国进口增加，而非欧洲生产增加"
       },
       {
         "title": "Jakson Green Buys Into Green Hydrogen Developer Ocior",
         "link": "https://fuelcellsworks.com/2026/11/17/news/jakson-green-buys-into-green-hydrogen-developer-ocior",
         "pubDate": "Tue, 17 Nov 2026 15:51:44 GMT",
         "description": "",
-        "title_cn": "Jakson Green收购绿色氢能开发商Ocior"
+        "title_cn": "Jakson Green入股绿色氢能开发商Ocior"
       },
       {
         "title": "Toyota Unveils “Linear” Hydrogen Engine Component for GR Corolla Race Car",
@@ -300,87 +300,16 @@
         "link": "https://fuelcellsworks.com/2026/11/12/h2/japanese-delegation-explores-lansdown-and-hydrogen-opportunities-in-townsville",
         "pubDate": "Tue, 17 Nov 2026 15:28:45 GMT",
         "description": "",
-        "title_cn": "日本代表团考察朗斯登和汤斯维尔的氢能机遇"
+        "title_cn": "日本代表团考察朗斯敦和汤斯维尔的氢能发展机遇"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "papers": {
-    "items": [
-      {
-        "title": "Temporal polarization properties of accretion flows into supermassive black holes: INSANE as an alternative",
-        "link": "https://arxiv.org/abs/2611.22707v1",
-        "pubDate": "2026-11-17T12:50:05Z",
-        "description": "Temporal variability and polarization provide unique diagnostics of the magnetic field structure and plasma dynamics in accretion flows around supermassive black holes. We investigate the temporal polarization properties of horizon-scale emission using general relativistic magnetohydrodynamic (GRMHD",
-        "title_cn": "物质向超大质量黑洞吸积流的时间偏振特性：INSANE作为一种替代方案"
-      },
-      {
-        "title": "Route Optimization under Port Congestion and Carbon Reduction: An NSGA-II Approach",
-        "link": "https://arxiv.org/abs/2611.22705v1",
-        "pubDate": "2026-11-17T12:49:40Z",
-        "description": "Maritime shipping simultaneously faces the dual challenges of escalating port congestion and increasingly stringent decarbonization mandates. Large-scale vessel anchorage at hub ports inflates unit transport costs while generating significant additional \\(CO_2\\) emissions from idling auxiliary engin",
-        "title_cn": "港口拥堵和碳减排下的航线优化：NSGA-II方法"
-      },
-      {
-        "title": "Tomographic reconstruction of non-Markovian Gaussian noise in continuous-variable photonic systems",
-        "link": "https://arxiv.org/abs/2611.22693v1",
-        "pubDate": "2026-11-17T12:40:18Z",
-        "description": "Memory effects in continuous-variable (CV) photonic systems can make standard Markovian Gaussian noise models inaccurate, even when the average noise strength is correctly calibrated. We propose a theoretical and simulation-based tomography framework for reconstructing such memory effects directly f",
-        "title_cn": "连续变量光子系统中非马尔可夫高斯噪声的层析成像重建"
-      },
-      {
-        "title": "Magnetic Flux Eruptions in Magnetically Arrested Disks: Magnetic Reconnection and Bubble Expansion",
-        "link": "https://arxiv.org/abs/2611.22689v1",
-        "pubDate": "2026-11-17T12:37:22Z",
-        "description": "Using a high-resolution GRMHD simulation of a magnetically arrested disk, we investigate the physical mechanism driving magnetic-flux eruption. The horizon-threading magnetic flux declines mainly in off-equatorial regions, whereas localized hot spots associated with magnetic reconnection appear near",
-        "title_cn": "磁遏制盘中的磁通量爆发：磁重联和气泡膨胀"
-      },
-      {
-        "title": "Sub-electron noise with a buried-channel DePFET: characterisation of novel DePFET concepts",
-        "link": "https://arxiv.org/abs/2611.22678v1",
-        "pubDate": "2026-11-17T12:30:07Z",
-        "description": "Depleted P-channel Field Effect Transistor (DePFET) pixel sensors combine Fano-limited energy resolution with fast, low-noise readout and are used in instruments ranging from particle tracking to X-ray astronomy. In this work, two novel DePFET technologies that address the two factors of the signal-",
-        "title_cn": "具有埋置沟道的DePFET的亚电子噪声：新型DePFET概念的表征"
-      },
-      {
-        "title": "Prescription for the rotational and orbital evolution of main-sequence binaries undergoing resonance locking",
-        "link": "https://arxiv.org/abs/2611.22660v1",
-        "pubDate": "2026-11-17T12:19:13Z",
-        "description": "In intermediate-mass binary stars, dynamical tides may play an important role in the orbital and rotational evolution of the system. One possible channel for long-term angular-momentum exchange is resonance locking, in which the evolution of the orbital and rotational parameters remains coupled to t",
-        "title_cn": "共振锁定主星序双星的自转和轨道演化规律"
-      },
-      {
-        "title": "Non-Intrusive Rubin Substructuring for Geometrically Nonlinear Structures via Nonlinear Manifolds",
-        "link": "https://arxiv.org/abs/2611.22651v1",
-        "pubDate": "2026-11-17T12:07:28Z",
-        "description": "Component mode synthesis enables modular reduction of large structural models, but its extension to geometrically nonlinear systems remains challenging. This work generalizes the Rubin method by introducing a cubic displacement manifold that statically condenses high-frequency free-interface modes o",
-        "title_cn": "通过非线性流形对几何非线性结构进行非侵入式Rubin子结构分解"
-      },
-      {
-        "title": "Complex quasiprobabilities as measurable temporal interference",
-        "link": "https://arxiv.org/abs/2611.22643v1",
-        "pubDate": "2026-11-17T11:58:18Z",
-        "description": "Quantum dynamics can encode interference information that conventional correlation functions leave unresolved. Here we show that the imaginary component of the extended Kirkwood-Dirac quasiprobability reveals dynamical distinctions absent from out-of-time-order correlators (OTOCs) formed from two re",
-        "title_cn": "复数准概率作为可测量的时域干涉"
-      },
-      {
-        "title": "Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts",
-        "link": "https://arxiv.org/abs/2611.22627v1",
-        "pubDate": "2026-11-17T11:45:26Z",
-        "description": "Joint multi-talker ASR with speaker attribution and timestamps is particularly challenging when the speaker count is unknown and the output must follow a strict structure. We observe that Supervised Fine-Tuning (SFT)-only alignment of SpeechLLMs is brittle under dense overlaps, often leading to burs",
-        "title_cn": "超越模仿：使用GRPO在未知说话人数的情况下，对联合多说话人ASR和说话人分割进行受限探索"
-      },
-      {
-        "title": "Prior-guided adaptive local refinement of foundation interatomic potentials",
-        "link": "https://arxiv.org/abs/2611.22626v1",
-        "pubDate": "2026-11-17T11:44:50Z",
-        "description": "Foundation interatomic potentials enable simulations across diverse materials, but task-specific inaccuracies can require additional first-principles data. Obtaining these data is challenging when the relevant local environments arise in large simulation cells. Here we introduce the Prior-guided Ada",
-        "title_cn": "基于先验指导的基础原子间势能的自适应局部精化"
-      }
-    ],
+    "items": [],
     "source": "arXiv",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "policy_nea": {
     "items": [
@@ -434,7 +363,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -445,10 +374,16 @@
         "description": "江西“十五五”新型能源体系规划：2030年充电设施总量达70万个 &nbsp;&nbsp; 国际充换电网"
       },
       {
-        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
+        "title": "储能迎政策与产业大会双催化 多只绩优股获资金加码(名单) - 东方财富",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZzFCY3hNUVRiLTJMa3NUbGh5blZfMFVJdjEzdXo5dHYtcHZIOFhtTlRqRkl2X3NrTkxhdDdCYkUtQ2kzWW4zbURkemFEZXhVTzJuNXZvUElvOE5qY3VTMzg5Tmw4UQ?oc=5",
+        "pubDate": "Tue, 17 Nov 2026 03:36:28 GMT",
+        "description": "储能迎政策与产业大会双催化 多只绩优股获资金加码(名单) &nbsp;&nbsp; 东方财富"
+      },
+      {
+        "title": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 - 文轩新闻",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WHNiSHVLaElQMkJPUlBfWkdlNnZYR3hBeldwc3lLZGhqZDRpcU9ZSnZhUVFBeUxxQ200MTh2SkxuZ014c2RRMmtVTDZhTjVQYXc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:24:30 GMT",
+        "description": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 &nbsp;&nbsp; 文轩新闻"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -463,13 +398,13 @@
         "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "省发改委：组建7个走访组 深化惠企服务 - 黑龙江省人民政府",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWWl4SUwwQzl1d3UtQkNPaGphV0c0RDgzY3N0a0pQV09aaV9rZHRRYmtXamlwRzc4Tm9rOGJrdC14dTdVZGRDbDJhUEMwUGFleTRpY2tyZUJoM3c2S1loVVdER0hwYVd1MjZUWA?oc=5",
-        "pubDate": "Mon, 10 Feb 2025 08:00:00 GMT",
-        "description": "省发改委：组建7个走访组 深化惠企服务 &nbsp;&nbsp; 黑龙江省人民政府"
+        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-18 03:21 UTC"
+    "updated": "2026-11-18 16:05 UTC"
   }
 }
