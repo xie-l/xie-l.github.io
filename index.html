@@ -322,7 +322,7 @@
                         <h3 class="widget-title">
                             <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气 · 近期预报
                         </h3>
-                        <div class="widget-update-info">每日采集 2 次 · 5 个城市</div>
+                        <div class="widget-update-info">每日采集 2 次 · 6 个城市</div>
                         <div id="wt-tabs" class="wt-tabs"></div>
                         <div id="w-weather">
                             <div class="wt-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
@@ -535,7 +535,7 @@
     setInterval(updateClock, 1000);
 
     // ---------- 天气（读 GitHub Actions 预取的本地 JSON，无 CORS 问题）----------
-    const WEATHER_CITIES = ['Beijing','Shanghai','Nanchang','Xining','Harbin'];
+    const WEATHER_CITIES = ['Beijing','Shanghai','Nanchang','Xining','Harbin','Yinchuan'];
     const WEEK_ZH = ['周日','周一','周二','周三','周四','周五','周六'];
     let _wtData   = {};
     let _wtActive = 'Beijing';
@@ -937,7 +937,7 @@
         };
 
         // ── 今日数感 ──
-        fetch('/data/pool-data.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-data.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 3, utcDay, 0x57A9C31F);
@@ -962,7 +962,7 @@
         });
 
         // ── 每日五词 ──
-        fetch('/data/pool-keywords.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-keywords.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 5, utcDay, 0xABCDEF01);
@@ -989,7 +989,7 @@
         });
 
         // ── 今日三问 ──
-        fetch('/data/pool-questions.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-questions.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 3, utcDay, 0x00000000);
@@ -1039,7 +1039,7 @@
         function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
         // ── 每日跨域类比 ──
-        fetch('/data/pool-analogies.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-analogies.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('analogy-date');
@@ -1062,7 +1062,7 @@
         }).catch(function(){ document.getElementById('analogy-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 信号vs噪声判断 ──
-        fetch('/data/pool-signals.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-signals.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('signal-date');
@@ -1080,7 +1080,7 @@
         }).catch(function(){ document.getElementById('signal-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 认知偏误觉察 ──
-        fetch('/data/pool-biases.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-biases.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('bias-date');
@@ -1098,7 +1098,7 @@
         }).catch(function(){ document.getElementById('bias-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 逆向思维/钢人论证 ──
-        fetch('/data/pool-inversions.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-inversions.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('inversion-date');
@@ -1113,7 +1113,7 @@
         }).catch(function(){ document.getElementById('inversion-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 历史类比/行业映射 ──
-        fetch('/data/pool-historical.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-historical.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('historical-date');
@@ -1137,7 +1137,7 @@
         }).catch(function(){ document.getElementById('historical-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日一人 ──
-        fetch('/data/pool-persons.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-persons.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('person-date');
@@ -1164,7 +1164,7 @@
         }).catch(function(){ document.getElementById('person-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日微写作 ──
-        fetch('/data/pool-writing.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-writing.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('writing-date');
@@ -1178,7 +1178,7 @@
         }).catch(function(){ document.getElementById('writing-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 预测与校准 ──
-        fetch('/data/pool-predictions.json?_v=1', {signal: fetchSignal(8000)})
+        fetch('/data/pool-predictions.json?_v=2', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('prediction-date');
@@ -1274,9 +1274,15 @@
         el.innerHTML = '<div class="news-items">' + html + '</div>';
     }
 
+    const domesticPreview = {"source": "IT之家", "updated": "2026-11-21 15:07 UTC", "items": [{"title": "韩国总统李在明：速度在 AI 竞赛中至关重要", "link": "https://www.ithome.com/1/030/506.htm", "pubDate": "Sat, 21 Nov 2026 14:26:35 GMT"}, {"title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元", "link": "https://www.ithome.com/1/030/505.htm", "pubDate": "Sat, 21 Nov 2026 14:18:45 GMT"}, {"title": "全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶-碳纤维电驱第 10 万套下线", "link": "https://www.ithome.com/1/030/504.htm", "pubDate": "Sat, 21 Nov 2026 13:53:01 GMT"}, {"title": "南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见", "link": "https://www.ithome.com/1/030/479.htm", "pubDate": "Sat, 21 Nov 2026 13:32:51 GMT"}, {"title": "为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”", "link": "https://www.ithome.com/1/030/478.htm", "pubDate": "Sat, 21 Nov 2026 13:16:27 GMT"}, {"title": "中创新航通过大众汽车电池测试中心认证，已具备为奥迪、保时捷、兰博基尼等品牌电池包开展测试的能力", "link": "https://www.ithome.com/1/030/477.htm", "pubDate": "Sat, 21 Nov 2026 13:14:21 GMT"}, {"title": "全国首条超百公里纯氢长输管道在内蒙古启运，核准年输氢量 10 万吨", "link": "https://www.ithome.com/1/030/476.htm", "pubDate": "Sat, 21 Nov 2026 13:03:18 GMT"}, {"title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年", "link": "https://www.ithome.com/1/030/475.htm", "pubDate": "Sat, 21 Nov 2026 12:47:11 GMT"}]};
+
     function _showFeed(feedKey) {
-        if (!_allNewsData) return;
-        const data = _allNewsData[feedKey];
+        let data = _allNewsData && _allNewsData[feedKey];
+        if (feedKey === 'tech_cn' && !data?.items?.length) {
+            _renderNews(domesticPreview.items, feedKey, domesticPreview.source, domesticPreview.updated);
+            document.getElementById('news-update-time').prepend('已保存的报道 · ');
+            return;
+        }
         if (!data) return;
         _renderNews(data.items, feedKey, data.source || _NEWS_SOURCES[feedKey], data.updated);
     }
@@ -1292,7 +1298,7 @@
             _allNewsData = await readSnapshot('news');
             _showFeed(_currentFeed);
         } catch(err) {
-            if (_allNewsData) { _showFeed(_currentFeed); return; }
+            if (_allNewsData || _currentFeed === 'tech_cn') { _showFeed(_currentFeed); return; }
             el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据加载失败，请刷新页面重试</div>';
             if (timeEl) timeEl.textContent = '加载失败';
         }
@@ -1303,7 +1309,7 @@
             document.querySelectorAll('.news-tab').forEach(function(t){ t.classList.remove('active'); });
             this.classList.add('active');
             _currentFeed = this.dataset.feed;
-            if (_allNewsData) { _showFeed(_currentFeed); }
+            if (_allNewsData || _currentFeed === 'tech_cn') { _showFeed(_currentFeed); }
             else { _loadNewsJSON(false); }
         });
     });

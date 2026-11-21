@@ -32,6 +32,7 @@ jobs:
               {'name': '上海',   'q': 'Shanghai', 'lat': 31.2304, 'lon': 121.4737},
               {'name': '南昌',   'q': 'Nanchang', 'lat': 28.6820, 'lon': 115.8579},
               {'name': '西宁',   'q': 'Xining',   'lat': 36.6171, 'lon': 101.7782},
+              {'name': '银川', 'q': 'Yinchuan', 'lat': 38.487, 'lon': 106.231},
               {'name': '哈尔滨', 'q': 'Harbin',   'lat': 45.8038, 'lon': 126.5349},
           ]
 

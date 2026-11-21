@@ -303,5 +303,66 @@
     ],
     "source": "Open-Meteo",
     "updated": "2026-11-21 15:07 UTC"
+  },
+  "Yinchuan": {
+    "current": {
+      "temp": -3,
+      "icon": "☀️",
+      "desc": "晴"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 5,
+        "min": -5
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "🌤️",
+        "desc": "晴间多云",
+        "max": 8,
+        "min": -5
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 5,
+        "min": -4
+      },
+      {
+        "date": "2026-11-24",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 6,
+        "min": -6
+      },
+      {
+        "date": "2026-11-25",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 14,
+        "min": -2
+      },
+      {
+        "date": "2026-11-26",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 9,
+        "min": 1
+      },
+      {
+        "date": "2026-11-27",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 8,
+        "min": -2
+      }
+    ],
+    "source": "Open-Meteo",
+    "name": "银川",
+    "updated": "2026-11-21 15:12 UTC"
   }
 }
