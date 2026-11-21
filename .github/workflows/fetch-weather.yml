@@ -2,8 +2,8 @@ name: Fetch Weather Data
 
 on:
   schedule:
-    - cron: '0 22 * * *'   # 北京时间 06:00（UTC 22:00 前一天）
-    - cron: '0 7  * * *'   # 北京时间 15:00（UTC 07:00）
+    - cron: '27 22 * * *'   # 北京时间 06:00（UTC 22:00 前一天）
+    - cron: '27 7  * * *'   # 北京时间 15:00（UTC 07:00）
   workflow_dispatch:
 
 permissions:
@@ -190,7 +190,8 @@ jobs:
               }
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-          result  = {}
+          with open("data/weather.json", encoding="utf-8") as previous:
+              result = json.load(previous)
 
           for city in CITIES:
               print(f'\n[{city["name"]}] 尝试 Open-Meteo...')
@@ -212,13 +213,7 @@ jobs:
                         f'{len(info["daily"])}天预报 ({info.get("source","")})')
               else:
                   print(f'[ERR] {city["name"]}: 所有数据源均失败')
-                  result[city['q']] = {
-                      'name':    city['name'],
-                      'current': {'temp': '--', 'icon': '🌡️', 'desc': '暂无数据'},
-                      'daily':   [],
-                      'source':  '',
-                      'updated': now_utc,
-                  }
+                  print(f'::warning::{city["name"]} 保留最近一次预报')
 
           os.makedirs('data', exist_ok=True)
           with open('data/weather.json', 'w', encoding='utf-8') as f:

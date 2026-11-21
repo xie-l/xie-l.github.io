@@ -4,14 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>个人主页</title>
-    <meta name="description" content="个人主页 - 研究方向：碳基电催化、电解水制氢、机器学习。">>
+    <meta name="description" content="个人主页 - 研究方向：碳基电催化、电解水制氢、机器学习。">
     <meta name="keywords" content="电催化,氢能,机器学习,碳基催化剂,电解水制氢,DFT">
     <meta name="author" content="匿名">
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://xie-l.github.io/">
     <meta property="og:title" content="个人主页 - 氢能 × 电催化 × 机器学习">
-    <meta property="og:description" content="碳基电催化、电解水制氢、机器学习。">>
+    <meta property="og:description" content="碳基电催化、电解水制氢、机器学习。">
     <meta property="og:image" content="https://xie-l.github.io/img/avatar.jpg">
     <meta property="og:site_name" content="个人主页">
     <meta property="og:locale" content="zh_CN">
@@ -98,7 +98,7 @@
                     <!-- 资讯动态 -->
                     <section id="news-feed" class="section">
                         <div class="section-header">
-                            <h2 class="section-title">资讯动态<span class="update-cycle daily">每日 08:00 更新</span></h2>
+                            <h2 class="section-title">资讯动态<span class="update-cycle daily">每日采集 4 次</span></h2>
                         </div>
                         <div class="section-content">
                             <div class="news-tabs">
@@ -320,9 +320,9 @@
                     <!-- 城市天气 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">
-                            <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气 · 7天预报
+                            <i class="fas fa-cloud-sun" style="color:var(--secondary-color);margin-right:6px"></i>城市天气 · 近期预报
                         </h3>
-                        <div class="widget-update-info">每日 08:00 更新 · 5个城市</div>
+                        <div class="widget-update-info">每日采集 2 次 · 5 个城市</div>
                         <div id="wt-tabs" class="wt-tabs"></div>
                         <div id="w-weather">
                             <div class="wt-loading"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>
@@ -431,7 +431,7 @@
                         </ul>
                     </div>
 
-<script src="js/main.js"></script>
+<script src="js/main.js?v=daily2"></script>
     <style>
         #email-toast {
             position: fixed; bottom: 28px; left: 50%;
@@ -464,6 +464,20 @@
         var ctrl = new AbortController();
         setTimeout(function() { ctrl.abort(); }, ms);
         return ctrl.signal;
+    }
+
+    async function readSnapshot(name) {
+        const urls = [
+            'https://raw.githubusercontent.com/xie-l/xie-l.github.io/main/data/' + name + '.json',
+            '/data/' + name + '.json'
+        ];
+        for (const url of urls) {
+            try {
+                const res = await fetch(url, { cache: 'no-cache', signal: fetchSignal(8000) });
+                if (res.ok) return await res.json();
+            } catch (error) { /* 尝试已发布的同站副本 */ }
+        }
+        throw new Error('暂时无法读取 ' + name);
     }
 
     // ---------- UTC → 北京时间格式化 ----------
@@ -530,6 +544,7 @@
         _wtActive = cityKey;
         const d = _wtData[cityKey];
         const container = document.getElementById('w-weather');
+        document.getElementById("w-weather-time").textContent = d && d.updated ? "更新于 " + fmtBJ(d.updated) + "（北京时间）" : "";
         if (!d) { container.innerHTML = '<div class="wt-loading">暂无数据</div>'; return; }
 
         const cur   = d.current || {};
@@ -550,7 +565,7 @@
             '<div class="wt-forecast">' +
             daily.slice(0, 7).map(function(day, i) {
                 var dt      = new Date(day.date + 'T00:00:00+08:00');
-                var dayName = i === 0 ? '今天' : WEEK_ZH[dt.getDay()];
+                var dayName = day.date.slice(5) + ' ' + WEEK_ZH[new Date(day.date + 'T00:00:00Z').getUTCDay()];
                 return '<div class="wt-day' + (i === 0 ? ' wt-day-today' : '') + '">' +
                     '<div class="wt-day-name">' + dayName         + '</div>' +
                     '<div class="wt-day-icon">' + (day.icon||'🌡️') + '</div>' +
@@ -579,30 +594,20 @@
                 return '<button class="wt-tab' + (q === _wtActive ? ' active' : '') +
                        '" data-city="' + q + '">' + name + '</button>';
             }).join('');
-            tabsEl.addEventListener('click', function(e) {
+            tabsEl.onclick = function(e) {
                 if (e.target.classList.contains('wt-tab')) {
                     renderWeatherCity(e.target.dataset.city);
                 }
-            });
+            };
         }
 
         renderWeatherCity(_wtActive);
 
-        // 显示数据更新时间
-        var timeEl = document.getElementById('w-weather-time');
-        if (timeEl) {
-            var firstUpdated = Object.values(data).map(function(d) { return d && d.updated; }).find(Boolean);
-            timeEl.textContent = firstUpdated ? '更新于 ' + fmtBJ(firstUpdated) + '（北京时间）' : '';
-        }
     }
 
     async function loadWeather() {
         try {
-            const res = await fetch('/data/weather.json?_=' + Date.now(), {
-                signal: fetchSignal(5000)
-            });
-            if (!res.ok) throw new Error('HTTP ' + res.status);
-            const data = await res.json();
+            const data = await readSnapshot('weather');
             renderWeather(data);
         } catch(e) {
             // 降级：直接调用 wttr.in（浏览器端备用）
@@ -618,15 +623,11 @@
     setInterval(loadWeather, 300000);
 
     // ========== 能源市场数据 ==========
-    (async function loadEnergyData() {
+    async function loadEnergyData() {
         const grid = document.getElementById('em-grid');
         if (!grid) return;
         try {
-            const res = await fetch('/data/energy.json?_=' + Date.now(), {
-                signal: fetchSignal(8000)
-            });
-            if (!res.ok) throw new Error('HTTP ' + res.status);
-            const d = await res.json();
+            const d = await readSnapshot('energy');
 
             const trendIcon = t => t === 'up' ? '▲' : t === 'down' ? '▼' : '─';
             const trendCls  = t => t === 'up' ? 'em-trend-up' : t === 'down' ? 'em-trend-down' : 'em-trend-flat';
@@ -712,7 +713,7 @@
                        </div>
                        <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}${cea.amount && cea.amount !== '--' ? ' · 成交额：' + cea.amount : ''}</div>
                        <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ 全国碳排放权交易市场</a></div>`
-                    : `<div class="em-placeholder" style="margin-bottom:4px">${cea.note || '数据获取中'}<br><a href="https://www.cneeex.com/" target="_blank" rel="noopener">→ 全国碳排放权交易市场</a></div>`
+                    : `<div class="em-placeholder" style="margin-bottom:4px">${'暂无有效报价'}<br><a href="https://www.cneeex.com/" target="_blank" rel="noopener">→ 全国碳排放权交易市场</a></div>`
                 }
                 ${eua.price && eua.price !== '--'
                     ? `<hr class="em-divider">
@@ -743,7 +744,7 @@
                        </div>
                        ${coal.note ? `<div class="em-date" style="font-style:italic;font-size:11px">${coal.note}</div>` : ''}
                        <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
-                    : `<div class="em-placeholder" style="margin-bottom:4px">数据获取中<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
+                    : `<div class="em-placeholder" style="margin-bottom:4px">暂无有效报价<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
                 }
                 ${newcastle.price && newcastle.price !== '--'
                     ? `<hr class="em-divider">
@@ -764,7 +765,7 @@
                     <div class="em-card-label">A股 · 中证能源</div>
                     ${sparkline(idx.history, idx.trend)}
                 </div>
-                <div class="em-asset">${idx.name || '中证能源'} <span style="font-size:11px;color:var(--text-light);font-weight:400">${idx.code || '399932'}</span></div>
+                <div class="em-asset">${idx.name || '中证能源'} <span style="font-size:11px;color:var(--text-light);font-weight:400">${idx.code || '399928'}</span></div>
                 ${idx.price && idx.price !== '--'
                     ? `<div class="em-price-row" style="margin-top:8px">
                         <span class="em-price">${idx.price}</span>
@@ -772,8 +773,8 @@
                        </div>
                        ${idx.high && idx.low ? `<div class="em-date">最高 ${idx.high} · 最低 ${idx.low}</div>` : ''}
                        ${idx.amount ? `<div class="em-date">成交额 ${idx.amount} 亿元</div>` : ''}
-                       <div class="em-date">${idx.date ? '数据日期：' + idx.date : ''}</div>`
-                    : '<div class="em-placeholder">数据获取中<br><a href="https://quote.eastmoney.com/sz399932.html" target="_blank" rel="noopener">→ 东方财富·中证能源</a></div>'
+                       <div class="em-date">${/^\d{4}-\d{2}-\d{2}$/.test(idx.date) ? '数据日期：' + idx.date : '来源未提供日期'}</div>`
+                    : '<div class="em-placeholder">暂无有效报价<br><a href="https://quote.eastmoney.com/sz399928.html" target="_blank" rel="noopener">→ 东方财富·中证能源</a></div>'
                 }
             </div>`;
 
@@ -812,41 +813,16 @@
                 if (el) el.textContent = '更新于 ' + fmtBJ(upd) + '（北京时间）';
             }
         } catch (e) {
-            if (grid) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
+            if (grid && !grid.querySelector('.em-card')) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
         }
-    })();
-    
-    // 每5分钟自动刷新能源数据
-    setInterval(() => {
-        const grid = document.getElementById('em-grid');
-        if (grid) {
-            // 显示加载状态
-            grid.innerHTML = '<div class="em-loading">正在刷新能源数据...</div>';
-            // 重新加载数据
-            (async function() {
-                try {
-                    const res = await fetch('/data/energy.json?_=' + Date.now(), {
-                        signal: fetchSignal(8000)
-                    });
-                    if (!res.ok) throw new Error('HTTP ' + res.status);
-                    const d = await res.json();
-                    // 重新渲染逻辑（简化版）
-                    location.reload(); // 简单刷新页面
-                } catch (e) {
-                    if (grid) grid.innerHTML = '<div class="em-loading">刷新失败，请稍后重试</div>';
-                }
-            })();
-        }
-    }, 300000);
+    }
+    loadEnergyData();
+    setInterval(loadEnergyData, 300000);
 
     // ========== 写作统计 ==========
     (async function loadBlogStats() {
         try {
-            const res = await fetch('/data/stats.json?_=' + Date.now(), {
-                signal: fetchSignal(5000)
-            });
-            if (!res.ok) throw new Error('HTTP ' + res.status);
-            const d = await res.json();
+            const d = await readSnapshot('stats');
             if (!d.post_count && !d.total_words) return;  // 空占位文件，不更新
             const fmt = n => n >= 10000 ? (n / 10000).toFixed(1) + '万' : n.toLocaleString();
             const el = id => document.getElementById(id);
@@ -860,11 +836,7 @@
     // ========== 微信读书 ==========
     (async function loadWeRead() {
         try {
-            const res = await fetch('/data/weread.json?_=' + Date.now(), {
-                signal: fetchSignal(5000)
-            });
-            if (!res.ok) throw new Error('HTTP ' + res.status);
-            const d = await res.json();
+            const d = await readSnapshot('weread');
             const widget = document.getElementById('weread-widget');
             if (!widget) return;
             if (!d.reading && (!d.recent || d.recent.length === 0)) return;  // 无数据，不显示
@@ -919,7 +891,7 @@
 
     // ========== 今日数感 / 每日五词 / 今日三问 ==========
     // 从外部 JSON 数据池加载，使用 LCG 穷举循环（全部展示后才重复）
-    (function () {
+    function renderDailyCards() {
         // LCG 确定性洗牌
         function lcgShuffle(items, seed) {
             var arr = items.slice();
@@ -947,7 +919,7 @@
         }
 
         var now = new Date();
-        var utcDay = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+        var utcDay = Math.floor((now.getTime() + 8 * 3600000) / 86400000);
         var bj = new Date(now.getTime() + 8 * 3600 * 1000);
         var bjDateStr = bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 · 每日00:00换新';
 
@@ -984,6 +956,7 @@
             var dsDate = document.getElementById('ds-date');
             if (dsDate) dsDate.textContent = bjDateStr;
         }).catch(function(){
+            document.getElementById('ds-grid').textContent = '内容暂未加载，请稍后重试';
             var dsDate = document.getElementById('ds-date');
             if (dsDate) dsDate.textContent = bjDateStr;
         });
@@ -1010,6 +983,7 @@
             var kwDate = document.getElementById('kw-date');
             if (kwDate) kwDate.textContent = bjDateStr;
         }).catch(function(){
+            document.getElementById('kw-list').textContent = '内容暂未加载，请稍后重试';
             var kwDate = document.getElementById('kw-date');
             if (kwDate) kwDate.textContent = bjDateStr;
         });
@@ -1026,17 +1000,19 @@
             var dqDate = document.getElementById('dq-date');
             if (dqDate) dqDate.textContent = bjDateStr;
         }).catch(function(){
+            document.getElementById('dq-grid').textContent = '内容暂未加载，请稍后重试';
             var dqDate = document.getElementById('dq-date');
             if (dqDate) dqDate.textContent = bjDateStr;
         });
-    })();
+    }
+    renderDailyCards();
 
     // ── 内联数据池已移至 data/pool-*.json（各 75~350+ 条目） ──
     // 渲染代码见上方的 fetch IIFE。
 
 
     // ========== 8大思维成长模块 ==========
-    (function () {
+    function renderDailyThinking() {
         function lcgShuffle(items, seed) {
             var arr = items.slice();
             var s = ((seed ^ 0x1A2B3C4D) >>> 0);
@@ -1056,7 +1032,7 @@
             return shuffled[dayInCycle];
         }
         var now = new Date();
-        var utcDay = Math.floor(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()) / 86400000);
+        var utcDay = Math.floor((now.getTime() + 8 * 3600000) / 86400000);
         var bj = new Date(now.getTime() + 8 * 3600 * 1000);
         var bjStr = bj.getUTCFullYear() + '年' + (bj.getUTCMonth()+1) + '月' + bj.getUTCDate() + '日 · 每日换新';
         function setDate(id) { var el = document.getElementById(id); if (el) el.textContent = bjStr; }
@@ -1083,7 +1059,7 @@
                 '</div>' +
                 '<div class="growth-label">深层联系</div>' +
                 '<div class="analogy-bridge">' + esc(d.bridge) + '</div>';
-        }).catch(function(){ setDate('analogy-date'); });
+        }).catch(function(){ document.getElementById('analogy-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 信号vs噪声判断 ──
         fetch('/data/pool-signals.json?_v=1', {signal: fetchSignal(8000)})
@@ -1101,7 +1077,7 @@
                 '<div class="growth-label">判断理由</div>' +
                 '<div class="signal-reason">' + esc(d.reason) + '</div>' +
                 '<div class="signal-metric"><strong>🎯 关键指标：</strong>' + esc(d.key_metric) + '</div>';
-        }).catch(function(){ setDate('signal-date'); });
+        }).catch(function(){ document.getElementById('signal-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 认知偏误觉察 ──
         fetch('/data/pool-biases.json?_v=1', {signal: fetchSignal(8000)})
@@ -1119,7 +1095,7 @@
                 '</div>' +
                 '<div class="bias-desc">' + esc(d.desc) + '</div>' +
                 '<div class="bias-counter"><strong>💡 破解策略：</strong>' + esc(d.counter) + '</div>';
-        }).catch(function(){ setDate('bias-date'); });
+        }).catch(function(){ document.getElementById('bias-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 逆向思维/钢人论证 ──
         fetch('/data/pool-inversions.json?_v=1', {signal: fetchSignal(8000)})
@@ -1134,7 +1110,7 @@
                 '<div class="growth-label" style="margin-top:14px">最强反驳（钢人论证）</div>' +
                 '<div class="inversion-steel">' + esc(d.steel) + '</div>' +
                 '<div class="inversion-insight"><strong>💡 洞见：</strong>' + esc(d.insight) + '</div>';
-        }).catch(function(){ setDate('inversion-date'); });
+        }).catch(function(){ document.getElementById('inversion-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 历史类比/行业映射 ──
         fetch('/data/pool-historical.json?_v=1', {signal: fetchSignal(8000)})
@@ -1158,7 +1134,7 @@
                 '</div>' +
                 '<div class="growth-label">可迁移的规律</div>' +
                 '<div class="historical-lesson">' + esc(d.lesson) + '</div>';
-        }).catch(function(){ setDate('historical-date'); });
+        }).catch(function(){ document.getElementById('historical-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日一人 ──
         fetch('/data/pool-persons.json?_v=1', {signal: fetchSignal(8000)})
@@ -1185,7 +1161,7 @@
                     '<div class="person-model">' + esc(d.model) + '</div>' +
                 '</div>' +
                 '<div class="person-apply"><strong>💡 对你的启发：</strong>' + esc(d.apply) + '</div>';
-        }).catch(function(){ setDate('person-date'); });
+        }).catch(function(){ document.getElementById('person-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日微写作 ──
         fetch('/data/pool-writing.json?_v=1', {signal: fetchSignal(8000)})
@@ -1199,7 +1175,7 @@
                 '<div class="growth-label">写作角度提示</div>' +
                 '<div class="writing-hint">' + esc(d.hint) + '</div>' +
                 '<div class="writing-goal"><strong>训练目标：</strong>' + esc(d.goal) + '</div>';
-        }).catch(function(){ setDate('writing-date'); });
+        }).catch(function(){ document.getElementById('writing-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 预测与校准 ──
         fetch('/data/pool-predictions.json?_v=1', {signal: fetchSignal(8000)})
@@ -1214,9 +1190,21 @@
                 '<div class="growth-label">当前各方观点</div>' +
                 '<div class="prediction-stance">' + esc(d.stance) + '</div>' +
                 '<div class="prediction-calibrate"><strong>🎯 校准问题：</strong>' + esc(d.calibrate) + '</div>';
-        }).catch(function(){ setDate('prediction-date'); });
+        }).catch(function(){ document.getElementById('prediction-card').textContent = '内容暂未加载，请稍后重试'; });
 
-    })();
+    }
+    renderDailyThinking();
+
+    let renderedDay = Math.floor((Date.now() + 28800000) / 86400000);
+    function refreshDay() {
+        const today = Math.floor((Date.now() + 28800000) / 86400000);
+        if (today === renderedDay) return;
+        renderedDay = today;
+        renderDailyCards();
+        renderDailyThinking();
+    }
+    setInterval(refreshDay, 60000);
+    document.addEventListener('visibilitychange', refreshDay);
 
     // ========== 主页最后更新时间 ==========
     (function () {
@@ -1245,7 +1233,7 @@
     // 同域读取，无 CORS，无第三方依赖，100% 可靠
     const _NEWS_SOURCES = {
         tech:        'Nature',
-        tech_cn:     '36氪',
+        tech_cn:     'IT之家',
         energy_intl: 'CleanTechnica',
         energy:      'Nature Energy',
         energy_cn:   'Google新闻·能源',
@@ -1264,20 +1252,23 @@
             el.innerHTML = '<div class="news-status"><i class="fas fa-info-circle"></i> 暂无数据，GitHub Actions 将定时更新</div>';
             return;
         }
-        const html = items.map(function(item) {
+        const safe = value => String(value || '').replace(/[&<>"']/g, ch => ({
+            '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+        })[ch]);
+        const html = items.filter(item => /^https?:\/\//i.test(item.link)).map(function(item) {
             const d = new Date(item.pubDate);
             const dateStr = isNaN(d.getTime()) ? '' : (d.getMonth()+1) + '月' + d.getDate() + '日';
             let desc = (item.description || '').replace(/<[^>]+>/g,'').trim();
             if (desc.length > 130) desc = desc.slice(0,130) + '…';
             const titleCn = (item.title_cn || '').trim();
             return '<div class="news-item">' +
-                '<div class="news-item-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>' +
-                (titleCn ? '<div class="news-item-title-cn">' + titleCn + '</div>' : '') +
+                '<div class="news-item-title"><a href="' + safe(item.link) + '" target="_blank" rel="noopener">' + safe(item.title) + '</a></div>' +
+                (titleCn ? '<div class="news-item-title-cn">' + safe(titleCn) + '</div>' : '') +
                 '<div class="news-item-meta">' +
                 (dateStr ? '<span><i class="fas fa-calendar-alt" style="margin-right:3px;opacity:.6"></i>' + dateStr + '</span>' : '') +
-                '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + source + '</span>' +
+                '<span><i class="fas fa-external-link-alt" style="margin-right:3px;opacity:.6"></i>' + safe(source) + '</span>' +
                 '</div>' +
-                (desc ? '<div class="news-item-desc">' + desc + '</div>' : '') +
+                (desc ? '<div class="news-item-desc">' + safe(desc) + '</div>' : '') +
                 '</div>';
         }).join('');
         el.innerHTML = '<div class="news-items">' + html + '</div>';
@@ -1298,11 +1289,10 @@
         el.innerHTML = '<div class="news-status"><i class="fas fa-spinner fa-spin"></i> 加载中...</div>';
         if (timeEl) timeEl.textContent = '加载中...';
         try {
-            const res = await fetch('/data/news.json?_=' + Date.now(), { signal: fetchSignal(8000) });
-            if (!res.ok) throw new Error('HTTP ' + res.status);
-            _allNewsData = await res.json();
+            _allNewsData = await readSnapshot('news');
             _showFeed(_currentFeed);
         } catch(err) {
+            if (_allNewsData) { _showFeed(_currentFeed); return; }
             el.innerHTML = '<div class="news-status"><i class="fas fa-exclamation-circle"></i> 数据加载失败，请刷新页面重试</div>';
             if (timeEl) timeEl.textContent = '加载失败';
         }
@@ -1319,9 +1309,10 @@
     });
     (function(){
         const btn = document.getElementById('news-refresh-btn');
-        if (btn) btn.addEventListener('click', function(){ _allNewsData = null; _loadNewsJSON(true); });
+        if (btn) btn.addEventListener('click', function(){ _loadNewsJSON(true); });
     })();
     _loadNewsJSON(false);
+    setInterval(() => _loadNewsJSON(true), 900000);
 
     // ========== 博客编辑器 ==========
     // ✏️ 按钮仅对已登录（有 GitHub Token）的本人显示

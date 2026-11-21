@@ -423,12 +423,12 @@ jobs:
                   'price': '--', 'unit': 'USD/吨', 'history': [], 'updated': now_utc
               })
 
-          # 2c. 中证能源指数（399932）——主力：新浪财经实时行情 API
+          # 2c. 中证能源指数（399928）——主力：新浪财经实时行情 API
           import re as _re
           index_result = {}
           try:
               idx_req = urllib.request.Request(
-                  'https://hq.sinajs.cn/list=sz399932',
+                  'https://hq.sinajs.cn/list=sz399928',
                   headers={
                       'Referer':    'https://finance.sina.com.cn/',
                       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
@@ -448,14 +448,16 @@ jobs:
               high    = float(vals[4])
               low     = float(vals[5])
               amount  = float(vals[9])       # 元
-              date_str = vals[10].strip()    # YYYY-MM-DD
+              date_str = next(v for v in vals if _re.fullmatch(r'\d{4}-\d{2}-\d{2}', v))
+              if vals[0] != '中证能源':
+                  raise ValueError('行情名称与预期不符')
               chg  = current - prev_cl
               pct  = chg / prev_cl * 100
               hist = get_old_history('energy_index')
               hist = append_history(hist, current)
               index_result = {
                   'name':    '中证能源',
-                  'code':    '399932',
+                  'code':    '399928',
                   'price':   f'{current:.2f}',
                   'change':  f'{chg:+.2f}',
                   'pct':     f'{pct:+.2f}%',
@@ -478,8 +480,8 @@ jobs:
                       last30    = (datetime.now() - timedelta(days=30)).strftime('%Y%m%d')
                       df = None
                       for fn, kwargs in [
-                          ('stock_zh_index_daily_em', {'symbol': 'sz399932'}),
-                          ('index_zh_a_hist',         {'symbol': '399932', 'period': 'daily',
+                          ('stock_zh_index_daily_em', {'symbol': 'sz399928'}),
+                          ('index_zh_a_hist',         {'symbol': '399928', 'period': 'daily',
                                                        'start_date': last30, 'end_date': today_str}),
                       ]:
                           try:
@@ -503,7 +505,7 @@ jobs:
                               hist  = get_old_history('energy_index')
                               hist  = append_history(hist, price_val)
                               index_result = {
-                                  'name': '中证能源', 'code': '399932',
+                                  'name': '中证能源', 'code': '399928',
                                   'price': f'{price_val:.2f}', 'change': f'{chg:+.2f}',
                                   'pct': f'{pct_v:+.2f}%', 'trend': 'up' if chg >= 0 else 'down',
                                   'date': str(row1[date_col]).split(' ')[0] if date_col else '--',
@@ -515,7 +517,7 @@ jobs:
                       print(f'[ERR] 中证能源 AKShare: {e2}')
               if not _ak_idx_ok:
                   index_result = {
-                      'name': '中证能源', 'code': '399932',
+                      'name': '中证能源', 'code': '399928',
                       'price': '--', 'pct': '--', 'trend': 'flat', 'date': '',
                       'history': get_old_history('energy_index'), 'updated': now_utc
                   }
@@ -568,6 +570,24 @@ jobs:
               'hydrogen':     hydrogen_result,
               'updated':      now_utc
           }
+          # 保留失败指标的上次报价和交易日期，独立处理纽卡斯尔煤价。
+          for path in [('oil','wti'), ('oil','brent'), ('natgas',), ('usdcny',),
+                       ('coal_qhd',), ('coal_qhd','newcastle'), ('energy_index',),
+                       ('carbon','cea'), ('carbon','eua'), ('hydrogen','us_ppi')]:
+              current_parent, previous_parent = result, old_data
+              for key in path[:-1]:
+                  current_parent = current_parent.setdefault(key, {})
+                  previous_parent = previous_parent.get(key, {})
+              key = path[-1]
+              current = current_parent.get(key, {})
+              previous = previous_parent.get(key, {})
+              field = 'index' if key == 'us_ppi' else 'price'
+              if current.get(field) in (None, '', '--') and previous.get(field) not in (None, '', '--'):
+                  cached = dict(previous)
+                  if key == 'coal_qhd' and 'newcastle' in current:
+                      cached['newcastle'] = current['newcastle']
+                  current_parent[key] = cached
+                  print(f'::warning::保留上次有效报价 {path}')
           os.makedirs('data', exist_ok=True)
           with open('data/energy.json', 'w', encoding='utf-8') as f:
               json.dump(result, f, ensure_ascii=False, indent=2)

@@ -117,9 +117,7 @@ jobs:
                       break
 
           except Exception as e:
-              print(f'[ERR] shelf: {e}')
-              reading = None
-              recent  = []
+              raise RuntimeError('书架请求失败，保留上次数据') from e
 
           result = {
               'reading': reading,

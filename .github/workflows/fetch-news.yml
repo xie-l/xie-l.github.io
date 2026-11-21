@@ -2,7 +2,7 @@ name: Fetch News Feeds
 
 on:
   schedule:
-    - cron: '0 22,2,7,14 * * *'   # 北京时间 6:00 / 10:00 / 15:00 / 22:00
+    - cron: '17 22,2,7,14 * * *'   # 北京时间 6:00 / 10:00 / 15:00 / 22:00
   workflow_dispatch:                # 可在 GitHub Actions 页面手动触发
 
 permissions:
@@ -35,8 +35,8 @@ jobs:
                   'source': 'Nature', 'count': 8
               },
               'tech_cn': {
-                  'url': 'https://36kr.com/feed',
-                  'source': '36氪', 'count': 8
+                  'url': 'https://www.ithome.com/rss/',
+                  'source': 'IT之家', 'count': 8
               },
               'energy_intl': {
                   # CleanTechnica：国际清洁能源&新能源资讯（RSS稳定）
@@ -108,7 +108,8 @@ jobs:
               return ''
 
           # ── 主循环 ────────────────────────────────────────────────────────
-          result = {}
+          with open("data/news.json", encoding="utf-8") as previous:
+              result = json.load(previous)
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
 
           for key, cfg in FEEDS.items():
@@ -133,6 +134,9 @@ jobs:
               except Exception as e:
                   print(f'[ERR] {key}: {e}')
 
+              if not items:
+                  print(f'::warning::{key} 无有效文章，保留最近一次结果')
+                  continue
               result[key] = {
                   'items':   items,
                   'source':  cfg['source'],
