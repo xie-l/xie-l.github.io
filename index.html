@@ -473,8 +473,12 @@
         ];
         for (const url of urls) {
             try {
-                const res = await fetch(url, { cache: 'no-cache', signal: fetchSignal(8000) });
-                if (res.ok) return await res.json();
+                const res = await fetch(url + '?snapshot=6cities', { cache: 'no-cache', signal: fetchSignal(8000) });
+                if (res.ok) {
+                    const value = await res.json();
+                    if (name === 'weather' && !value.Yinchuan && url === urls[0]) continue;
+                    return value;
+                }
             } catch (error) { /* 尝试已发布的同站副本 */ }
         }
         throw new Error('暂时无法读取 ' + name);
@@ -590,7 +594,7 @@
         var tabsEl = document.getElementById('wt-tabs');
         if (tabsEl) {
             tabsEl.innerHTML = WEATHER_CITIES.map(function(q) {
-                var name = (data[q] && data[q].name) ? data[q].name : q;
+                var name = (data[q] && data[q].name) ? data[q].name : (q === "Yinchuan" ? "银川" : q);
                 return '<button class="wt-tab' + (q === _wtActive ? ' active' : '') +
                        '" data-city="' + q + '">' + name + '</button>';
             }).join('');
