@@ -1,0 +1,223 @@
+{
+  "Beijing": {
+    "name": "北京",
+    "current": {
+      "temp": 3,
+      "icon": "☀️",
+      "desc": "晴"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 6,
+        "min": 0
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "🌡️",
+        "desc": "未知",
+        "max": 6,
+        "min": -1
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 7,
+        "min": 0
+      }
+    ],
+    "source": "wttr.in (3天)",
+    "updated": "2026-11-21 02:56 UTC"
+  },
+  "Shanghai": {
+    "name": "上海",
+    "current": {
+      "temp": 11,
+      "icon": "🌡️",
+      "desc": "未知"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 14,
+        "min": 6
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 16,
+        "min": 7
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 16,
+        "min": 12
+      }
+    ],
+    "source": "wttr.in (3天)",
+    "updated": "2026-11-21 02:56 UTC"
+  },
+  "Nanchang": {
+    "name": "南昌",
+    "current": {
+      "temp": 11,
+      "icon": "🌡️",
+      "desc": "未知"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 17,
+        "min": 7
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 18,
+        "min": 8
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 14,
+        "min": 12
+      }
+    ],
+    "source": "wttr.in (3天)",
+    "updated": "2026-11-21 02:56 UTC"
+  },
+  "Xining": {
+    "name": "西宁",
+    "current": {
+      "temp": 2,
+      "icon": "☀️",
+      "desc": "晴"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 8,
+        "min": -5
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 7,
+        "min": -4
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 6,
+        "min": -3
+      },
+      {
+        "date": "2026-11-24",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": 8,
+        "min": -4
+      },
+      {
+        "date": "2026-11-25",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 10,
+        "min": -4
+      },
+      {
+        "date": "2026-11-26",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 7,
+        "min": -3
+      },
+      {
+        "date": "2026-11-27",
+        "icon": "⛅",
+        "desc": "多云",
+        "max": 11,
+        "min": -4
+      }
+    ],
+    "source": "Open-Meteo",
+    "updated": "2026-11-21 02:56 UTC"
+  },
+  "Harbin": {
+    "name": "哈尔滨",
+    "current": {
+      "temp": -11,
+      "icon": "☀️",
+      "desc": "晴"
+    },
+    "daily": [
+      {
+        "date": "2026-11-21",
+        "icon": "☀️",
+        "desc": "晴",
+        "max": -8,
+        "min": -18
+      },
+      {
+        "date": "2026-11-22",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -2,
+        "min": -12
+      },
+      {
+        "date": "2026-11-23",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -2,
+        "min": -10
+      },
+      {
+        "date": "2026-11-24",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -8,
+        "min": -13
+      },
+      {
+        "date": "2026-11-25",
+        "icon": "🌨️",
+        "desc": "小雪",
+        "max": -3,
+        "min": -12
+      },
+      {
+        "date": "2026-11-26",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -3,
+        "min": -13
+      },
+      {
+        "date": "2026-11-27",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 1,
+        "min": -9
+      }
+    ],
+    "source": "Open-Meteo",
+    "updated": "2026-11-21 02:56 UTC"
+  }
+}
