@@ -58,7 +58,7 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-21 15:07 UTC"
+    "updated": "2026-11-21 15:12 UTC"
   },
   "Shanghai": {
     "name": "上海",
@@ -119,7 +119,7 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-21 15:07 UTC"
+    "updated": "2026-11-21 15:12 UTC"
   },
   "Nanchang": {
     "name": "南昌",
@@ -180,7 +180,7 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-21 15:07 UTC"
+    "updated": "2026-11-21 15:12 UTC"
   },
   "Xining": {
     "name": "西宁",
@@ -241,7 +241,7 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-21 15:07 UTC"
+    "updated": "2026-11-21 15:12 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
@@ -302,9 +302,10 @@
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-21 15:07 UTC"
+    "updated": "2026-11-21 15:12 UTC"
   },
   "Yinchuan": {
+    "name": "银川",
     "current": {
       "temp": -3,
       "icon": "☀️",
@@ -362,7 +363,6 @@
       }
     ],
     "source": "Open-Meteo",
-    "name": "银川",
     "updated": "2026-11-21 15:12 UTC"
   }
 }
