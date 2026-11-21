@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: collector-${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   update-daily-data:
     runs-on: ubuntu-latest
@@ -51,8 +55,7 @@ jobs:
           - 更新今日数感
           - 更新天气数据
           - 更新时间戳"
-          git pull --rebase origin main
-          git push
+          bash scripts/push-data-update.sh
 
       - name: 更新成功通知
         if: steps.check_changes.outputs.has_changes == 'true'
