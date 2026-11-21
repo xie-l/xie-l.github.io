@@ -384,6 +384,29 @@ button {
     opacity: 0.95;
 }
 
+.banner.homepage-banner {
+    height: auto;
+    padding-block: clamp(20px, 3vw, 38px);
+}
+
+.homepage-banner .banner-title {
+    font-size: clamp(26px, 3vw, 40px);
+    margin-bottom: 6px;
+}
+
+.homepage-banner .banner-subtitle {
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+.homepage-banner::after {
+    height: 24px;
+}
+
+.homepage-banner + .main-content {
+    padding-top: clamp(16px, 2vw, 28px);
+}
+
 .banner-meta {
     display: flex;
     justify-content: center;

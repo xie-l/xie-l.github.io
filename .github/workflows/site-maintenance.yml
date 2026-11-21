@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: read
-  issues: write
 
 jobs:
   dead-link-check:
@@ -18,19 +17,9 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Check for dead links
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO: ${{ github.repository }}
         run: |
           python3 << 'PYEOF'
-          import urllib.request, urllib.error, re, os, json, glob, time
-          from datetime import datetime, timezone
-
-          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-          today   = datetime.now(timezone.utc).strftime('%Y-%m-%d')
-          repo    = os.environ.get('REPO', '')
-          token   = os.environ.get('GITHUB_TOKEN', '')
-
+          import urllib.request, urllib.error, re, os, glob, time
           # ── 不检查的域名 ──────────────────────────────────────────────────
           # 国内平台：GitHub Actions 从境外访问，常超时或被封锁，不代表链接失效
           # 反爬平台：返回 403 但用户浏览器可正常访问
@@ -114,73 +103,8 @@ jobs:
 
           print(f'Dead links: {len(dead)} / {len(link_map)}')
 
-          # ── 无死链时结束 ──────────────────────────────────────────────────
-          if not dead:
-              print('All links are alive. No issue needed.')
-              exit(0)
-
-          # ── 构建 Issue 内容 ───────────────────────────────────────────────
-          title = f'[死链检测] {today} 发现 {len(dead)} 个失效链接'
-          rows  = '\n'.join(
-              f'| {d["status"]} | `{d["url"]}` | {", ".join(d["pages"])} |'
-              for d in dead
-          )
-          body_lines = [
-              '## 自动死链检测报告',
-              f'**检测时间：** {now_utc}',
-              f'**失效链接数：** {len(dead)} / {len(link_map)}',
-              '',
-              '| 状态码 | 链接 | 出现页面 |',
-              '|--------|------|---------|',
-              rows,
-              '',
-              '---',
-              '*由 GitHub Actions `site-maintenance.yml` 自动生成*'
-          ]
-          body = '\n'.join(body_lines)
-
-          gh_api = f'https://api.github.com/repos/{repo}'
-          auth_headers = {
-              'Authorization': f'Bearer {token}',
-              'Accept':        'application/vnd.github+json',
-              'Content-Type':  'application/json',
-              'User-Agent':    'site-maintenance-bot'
-          }
-
-          def gh_request(method, path, data=None):
-              req = urllib.request.Request(
-                  gh_api + path,
-                  method=method,
-                  headers=auth_headers,
-                  data=json.dumps(data).encode() if data else None
-              )
-              with urllib.request.urlopen(req, timeout=15) as r:
-                  return json.load(r)
-
-          # 查找现有死链 Issue（open 状态），有则关闭
-          try:
-              issues = gh_request('GET', '/issues?state=open&labels=dead-link&per_page=10')
-              for issue in issues:
-                  if '[死链检测]' in issue.get('title', ''):
-                      gh_request('PATCH', f'/issues/{issue["number"]}', {'state': 'closed'})
-                      print(f'Closed old issue #{issue["number"]}')
-          except Exception as e:
-              print(f'[WARN] Could not list/close old issues: {e}')
-
-          # 确保 label 存在
-          try:
-              gh_request('POST', '/labels', {'name': 'dead-link', 'color': 'e11d48', 'description': '死链检测自动标签'})
-          except Exception:
-              pass   # label 已存在时会报 422，忽略
-
-          # 创建新 Issue
-          try:
-              issue = gh_request('POST', '/issues', {
-                  'title':  title,
-                  'body':   body,
-                  'labels': ['dead-link']
-              })
-              print(f'Created issue #{issue["number"]}: {title}')
-          except Exception as e:
-              print(f'[ERR] Could not create issue: {e}')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as report:
+              print(f'检查外部链接 {len(link_map)} 个，需复核 {len(dead)} 个。', file=report)
+              for item in dead:
+                  print(f'- {item["status"]} · {item["url"]}', file=report)
           PYEOF
