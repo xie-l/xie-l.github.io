@@ -895,33 +895,31 @@
 
     // ========== 今日数感 / 每日五词 / 今日三问 ==========
     // 从外部 JSON 数据池加载，使用 LCG 穷举循环（全部展示后才重复）
+    function lcgShuffle(items, seed) {
+        var arr = items.slice();
+        var s = ((seed ^ 0x1A2B3C4D) >>> 0);
+        for (var i = arr.length - 1; i > 0; i--) {
+            s = (Math.imul(1664525, s) + 1013904223) >>> 0;
+            var j = s % (i + 1);
+            var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
+        }
+        return arr;
+    }
+    // 穷举循环抽取：全部展示后才重复
+    function pickExhaustive(pool, count, utcDay, seedOffset) {
+        var n = pool.length;
+        if (!n) return [];
+        var shuffled = lcgShuffle(pool, seedOffset);
+        var start = utcDay * count;
+        var chosen = [];
+        for (var i = 0; i < count; i++) {
+            chosen.push(shuffled[(start + i) % n]);
+        }
+        return chosen;
+    }
+
     function renderDailyCards() {
         // LCG 确定性洗牌
-        function lcgShuffle(items, seed) {
-            var arr = items.slice();
-            var s = ((seed ^ 0x1A2B3C4D) >>> 0);
-            for (var i = arr.length - 1; i > 0; i--) {
-                s = (Math.imul(1664525, s) + 1013904223) >>> 0;
-                var j = s % (i + 1);
-                var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
-            }
-            return arr;
-        }
-        // 穷举循环抽取：全部展示后才重复
-        function pickExhaustive(pool, count, utcDay, seedOffset) {
-            var n = pool.length;
-            if (!n) return [];
-            var daysPerCycle = Math.ceil(n / count);
-            var epoch = Math.floor(utcDay / daysPerCycle);
-            var dayInCycle = utcDay % daysPerCycle;
-            var shuffled = lcgShuffle(pool, ((epoch ^ seedOffset) >>> 0));
-            var chosen = [];
-            for (var i = 0; i < count; i++) {
-                chosen.push(shuffled[(dayInCycle * count + i) % n]);
-            }
-            return chosen;
-        }
-
         var now = new Date();
         var utcDay = Math.floor((now.getTime() + 8 * 3600000) / 86400000);
         var bj = new Date(now.getTime() + 8 * 3600 * 1000);
@@ -941,7 +939,7 @@
         };
 
         // ── 今日数感 ──
-        fetch('/data/pool-data.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-data.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 3, utcDay, 0x57A9C31F);
@@ -966,7 +964,7 @@
         });
 
         // ── 每日五词 ──
-        fetch('/data/pool-keywords.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-keywords.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 5, utcDay, 0xABCDEF01);
@@ -993,7 +991,7 @@
         });
 
         // ── 今日三问 ──
-        fetch('/data/pool-questions.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-questions.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             var chosen = pickExhaustive(pool, 3, utcDay, 0x00000000);
@@ -1017,23 +1015,8 @@
 
     // ========== 8大思维成长模块 ==========
     function renderDailyThinking() {
-        function lcgShuffle(items, seed) {
-            var arr = items.slice();
-            var s = ((seed ^ 0x1A2B3C4D) >>> 0);
-            for (var i = arr.length - 1; i > 0; i--) {
-                s = (Math.imul(1664525, s) + 1013904223) >>> 0;
-                var j = s % (i + 1);
-                var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
-            }
-            return arr;
-        }
-        function pickOne(pool, utcDay, seedOffset) {
-            if (!pool.length) return null;
-            var n = pool.length;
-            var epoch = Math.floor(utcDay / n);
-            var dayInCycle = utcDay % n;
-            var shuffled = lcgShuffle(pool, ((epoch ^ seedOffset) >>> 0));
-            return shuffled[dayInCycle];
+        function pickOne(pool, day, seed) {
+            return pickExhaustive(pool, 1, day, seed)[0];
         }
         var now = new Date();
         var utcDay = Math.floor((now.getTime() + 8 * 3600000) / 86400000);
@@ -1043,7 +1026,7 @@
         function esc(s) { return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 
         // ── 每日跨域类比 ──
-        fetch('/data/pool-analogies.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-analogies.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('analogy-date');
@@ -1066,7 +1049,7 @@
         }).catch(function(){ document.getElementById('analogy-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 信号vs噪声判断 ──
-        fetch('/data/pool-signals.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-signals.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('signal-date');
@@ -1084,7 +1067,7 @@
         }).catch(function(){ document.getElementById('signal-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 认知偏误觉察 ──
-        fetch('/data/pool-biases.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-biases.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('bias-date');
@@ -1102,7 +1085,7 @@
         }).catch(function(){ document.getElementById('bias-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 逆向思维/钢人论证 ──
-        fetch('/data/pool-inversions.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-inversions.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('inversion-date');
@@ -1117,7 +1100,7 @@
         }).catch(function(){ document.getElementById('inversion-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 历史类比/行业映射 ──
-        fetch('/data/pool-historical.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-historical.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('historical-date');
@@ -1141,7 +1124,7 @@
         }).catch(function(){ document.getElementById('historical-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日一人 ──
-        fetch('/data/pool-persons.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-persons.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('person-date');
@@ -1168,7 +1151,7 @@
         }).catch(function(){ document.getElementById('person-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 每日微写作 ──
-        fetch('/data/pool-writing.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-writing.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('writing-date');
@@ -1182,7 +1165,7 @@
         }).catch(function(){ document.getElementById('writing-card').textContent = '内容暂未加载，请稍后重试'; });
 
         // ── 预测与校准 ──
-        fetch('/data/pool-predictions.json?_v=2', {signal: fetchSignal(8000)})
+        fetch('/data/pool-predictions.json?_v=3', {signal: fetchSignal(8000)})
         .then(function(r){ return r.json(); })
         .then(function(pool) {
             setDate('prediction-date');

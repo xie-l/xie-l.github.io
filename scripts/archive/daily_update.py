@@ -37,29 +37,12 @@ def lcg_shuffle(items, seed):
 
 
 def pick_exhaustive(pool, count, day_index, seed_offset=0):
-    """
-    穷举循环抽取：全部展示后才重复。
-
-    算法：
-    - 每 ceil(n/count) 天为一个"周期"（epoch）
-    - 同一 epoch 内用相同种子洗牌，按偏移量切片取 count 个条目
-    - 进入新 epoch 时改变种子重新洗牌
-
-    Parameters:
-        pool        : 数据池列表
-        count       : 每次抽取数量
-        day_index   : UTC 天数（整数，0 = 1970-01-01）
-        seed_offset : 不同模块使用不同偏移，避免选出相同条目
-    """
+    """沿固定洗牌顺序连续读取，跨轮次也保持完整间隔。"""
     n = len(pool)
-    if n == 0:
+    if not n:
         return []
-    days_per_cycle = (n + count - 1) // count   # ceil(n/count)
-    epoch = day_index // days_per_cycle
-    day_in_cycle = day_index % days_per_cycle
-
-    shuffled = lcg_shuffle(pool, (epoch ^ seed_offset) & 0xFFFFFFFF)
-    start = day_in_cycle * count
+    shuffled = lcg_shuffle(pool, seed_offset)
+    start = day_index * count
     chosen = []
     for i in range(count):
         chosen.append(shuffled[(start + i) % n])
