@@ -2,7 +2,7 @@
   "posts": [
     {
       "title": "index-optimized",
-      "date": "2026-11-15",
+      "date": "2026-11-21",
       "category": "thoughts",
       "tags": [],
       "summary": "",
@@ -800,9 +800,9 @@
         "images"
       ],
       "summary": "测试图片路径格式 本文用于测试不同的图片路径格式是否被正确处理。 1. 推荐格式: ./attachments/ 这是推荐的图片路径格式，图片存放在 vault 根目录的 attachments 文件夹中。 2. 兼容格式: ../attachments/ 这种格式也支持，图片同样存放在 vault…",
-      "word_count": 219,
+      "word_count": 232,
       "path": "blog/life/测试图片路径格式（202401）.html"
     }
   ],
-  "updated": "2026-11-15 07:43 UTC"
+  "updated": "2026-11-21 23:13 UTC"
 }
