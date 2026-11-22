@@ -27,14 +27,14 @@
         "link": "https://www.nature.com/articles/d41586-026-03806-5",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
-        "title_cn": "简报聊天：旅行者1号现已距离地球一个“光日”之遥——创下宇宙纪录"
+        "title_cn": "简报聊天：旅行者1号现已距离地球一个“光日”——创下宇宙纪录"
       },
       {
         "title": "Fraud helps little fire ants to survive and conquer",
         "link": "https://www.nature.com/articles/d41586-026-03776-8",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8 Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
-        "title_cn": "欺骗有助于小火蚁生存和征服"
+        "title_cn": "欺骗行为有助于小火蚁生存和征服"
       },
       {
         "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
@@ -48,7 +48,7 @@
         "link": "https://www.nature.com/articles/d41586-026-03805-6",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03805-6 The Humboldt Foundation says that applications for its fellowships have increased markedly in the past two years, but they did not anticipate the influx this month.",
-        "title_cn": "“令人沮丧至极”：知名奖学金申请仅在21小时内截止"
+        "title_cn": "“令人难以置信的沮丧”：知名奖学金申请仅在21小时内截止"
       },
       {
         "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
@@ -59,64 +59,78 @@
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "tech_cn": {
     "items": [
       {
-        "title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
-        "link": "https://www.ithome.com/1/030/677.htm",
-        "pubDate": "Sun, 22 Nov 2026 09:35:58 GMT",
-        "description": "IT之家 11 月 22 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣布，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 据IT之家此前报道，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。 据每日经济新闻报道，2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯 · 梅纳德（James Maynard）接受采访时表示，他认为这项证明是正确的，但强调“理解一个定理为什么成立，远比仅仅证"
+        "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+        "link": "https://www.ithome.com/1/030/717.htm",
+        "pubDate": "Sun, 22 Nov 2026 15:15:55 GMT",
+        "description": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。 在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍 。不过，这些数据来自基于 7 纳米工艺的模拟设计，Frostbite 尚未真正流片，因此还没有实际芯片可以验证。由于法律方面的原因，"
       },
       {
-        "title": "8 年累计飞行约 100 亿公里，BepiColombo 航天器进入水星轨道",
-        "link": "https://www.ithome.com/1/030/676.htm",
-        "pubDate": "Sun, 22 Nov 2026 09:17:29 GMT",
-        "description": "IT之家 11 月 22 日消息，欧洲航天局（ESA）在 X 上宣布，确认 BepiColombo 已成功完成入轨制动，顺利被水星引力捕获。 IT之家注：BepiColombo 由欧洲航天局（ESA）与日本宇宙航空研究开发机构（JAXA）联合执行，于当地时间 2018 年 10 月 19 日搭乘阿丽亚娜 5 号火箭，从法属圭亚那库鲁发射。 据悉，原计划航程约 7 年，但因 2024 年太阳能电推进系统出现推力功率异常，航程顺延约 1 年。 两台探测器分别为日本的水星磁层轨道器“澪”（Mercury Magnetospheric Orbiter，MMO，昵称 Mio）和欧洲的水星行星轨道器（Me"
+        "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
+        "link": "https://www.ithome.com/1/030/716.htm",
+        "pubDate": "Sun, 22 Nov 2026 14:45:34 GMT",
+        "description": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。 该 SBC 板载一颗 \" 8P+4E+4LE \" 的 16 核心 16 线程 CPU ，配备 18MB 的 LLC 缓存，基频 2.0GHz、睿频可达 4.8GHz；搭配最大频率 2.3GHz 的锐炫独显。 IT之家注： \"8P+4E+4LE\" 与此前所有爆料都不符，更可能是 4 个性能核 + 8 个能效核 + 4 个低功耗能效核。 其提供 2 个 C"
       },
       {
-        "title": "Steam 国区 16.8 元起，育碧体育游戏《极限国度》迎 1 折史低",
-        "link": "https://www.ithome.com/1/030/668.htm",
-        "pubDate": "Sun, 22 Nov 2026 09:04:32 GMT",
-        "description": "IT之家 11 月 22 日消息，育碧宣布旗下运动类游戏《极限国度（Riders Republic）》于 Steam 平台开启 1 折史低折扣，本作原价 168 元起，现 1 折后 16.8 元起，优惠将于 12 月 3 日结束，IT之家附 Steam 页面如下（ 点此访问 ）。 《极限国度》让玩家置身于一个巨大的多人游戏世界中，包含各种各样的极限运动，包括自行车比赛、滑板滑雪、滑翔运动等。游戏地图包含美国国家公园、布赖斯峡谷、优胜美地、红杉国家公园、锡安山、峡谷地、猛犸山、大提顿国家公园。 游戏介绍： 一跃进入《极限国度》庞大的多人游乐场吧！通过自行车、单板滑雪、双板滑雪或翼装飞行，在开放世"
+        "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+        "link": "https://www.ithome.com/1/030/715.htm",
+        "pubDate": "Sun, 22 Nov 2026 14:24:17 GMT",
+        "description": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY"
       },
       {
-        "title": "消息称《黑色洛城 2》为 R 星下一款作品：改编自旧金山“黄道十二宫”案件，2030 年发售",
-        "link": "https://www.ithome.com/1/030/664.htm",
-        "pubDate": "Sun, 22 Nov 2026 09:03:12 GMT",
-        "description": "IT之家 11 月 22 日消息，据 Dexerto 报道，随着《GTA6》正式发售，一则发布于 2023 年的 GTA 社区爆料近日重新在 Reddit 平台受到关注。爆料者当时不仅提到了《GTA6》的多项剧情与玩法细节，还声称 R 星正在筹备《黑色洛城 2》，游戏场景设置在旧金山，主要基于现实中“黄道十二宫”杀人事件演绎，预计将于 2030 年发售。 这则爆料之所以再次引发讨论，是因为其中有关《GTA6》的部分内容得到了印证。例如，游戏早期曾考虑采用四名可操作主角，最终才确定为杰森和露西亚，以及两人是情侣关系等信息。至于《黑色洛城 2》，爆料称项目当时仍处于早期开发阶段。需要注意，目前官方"
+        "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
+        "link": "https://www.ithome.com/1/030/714.htm",
+        "pubDate": "Sun, 22 Nov 2026 14:19:27 GMT",
+        "description": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注意到，Rockstar 动画副总裁马克 · 坦南特（Mark Tennant）在接受 GamesRadar 采访时透露，围绕杰森（Jason）和露西亚（Lucia）之间的亲密关系展开设计，团队进行了大量思考和反复调整。 他表示：“我们需要让"
       },
       {
-        "title": "蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超 2000 万",
-        "link": "https://www.ithome.com/1/030/653.htm",
-        "pubDate": "Sun, 22 Nov 2026 08:58:01 GMT",
-        "description": "IT之家 11 月 22 日消息，2026 蚂蚁阿福医疗健康生态大会于 11 月 22 日 - 23 日在广州举行。 据新浪科技报道，蚂蚁健康事业群副总裁杨猛透露：“ 今天我们蚂蚁阿福已经有了 1.5 亿用户，每天线上问诊次数超过 2000 多万次 ，55% 来自于三线及以下城市，有 1/4 是老人，有 16% 的问诊来自于凌晨 0 点到早上 6 点。” 杨猛表示：“医生非常辛苦，时间是非常稀缺的资源。 AI 给我们带来的机会，就是把重复的事务性的工作全部由 AI 来提前做 ，让医生有更多的时间用在判断上、用在患者身上。” 据IT之家此前报道，9 个月前的 2 月 23 日，蚂蚁阿福宣布 蚂蚁"
+        "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+        "link": "https://www.ithome.com/1/030/713.htm",
+        "pubDate": "Sun, 22 Nov 2026 14:00:48 GMT",
+        "description": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。 此类交易通常在交付前很早就已达成协议 。 然而据知情人士透露，数月后，当设备准备交付时， 这些科技公司要求的价格远高于最初商定的金额 。 在人工智能设备供不应求的当下，大型金融服务与交易公司虽然是仅次于大型科技超大规模云服务商的计算设备采购大户，"
       },
       {
-        "title": "V社更新 Steam Machine 预订 / 供货情况，暗示该机未来将涨价",
-        "link": "https://www.ithome.com/1/030/652.htm",
-        "pubDate": "Sun, 22 Nov 2026 08:57:26 GMT",
-        "description": "IT之家 11 月 22 日消息，V社于 11 月 20 日更新了 Steam Machine 的预订 / 供货情况，其中 512GB 版开放购买，2TB 版则因组件供应不足关闭候补名单。 官方在公告中表示：“由于内存和存储成本持续以前所未有的幅度增长，因此我们尚无法得知所能生产的数量及可以提供的售价（尤其是 2TB 版本）。”这意味着，现有库存售罄后，Steam Machine 后续批次的售价可能迎来调整。 公开信息显示，目前 512GB 版 Steam Machine 的价格为 1,049 美元 （IT之家注：现汇率约合 7,021 元人民币） ，搭配 Steam Controller 的"
+        "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+        "link": "https://www.ithome.com/1/030/711.htm",
+        "pubDate": "Sun, 22 Nov 2026 13:23:38 GMT",
+        "description": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢"
       },
       {
-        "title": "肯德基西班牙推出营销活动，玩家带《GTA6》实体包装盒可免费领光盘形状炸鸡",
-        "link": "https://www.ithome.com/1/030/642.htm",
-        "pubDate": "Sun, 22 Nov 2026 08:54:52 GMT",
-        "description": "IT之家 11 月 22 日消息，据外媒 GameSpot 报道，《GTA6》实体版包装盒内不再附赠游戏光盘，引发部分玩家不满。肯德基西班牙近日推出名为“Replace the Disc”（替换光盘）的营销活动，玩家只需带上 GTA 6 实体版包装盒，即可免费领取一块制作成光盘形状的炸鸡，借此调侃游戏实体光盘逐渐消失的现状。 根据肯德基西班牙公布的信息，此次活动将于 12 月 19 日至 20 日举行，每天下午 16:00 至 20:00 开放，参与门店覆盖马德里、巴塞罗那、瓦伦西亚等西班牙城市。玩家只需携带《GTA 6》游戏包装盒前往指定肯德基门店，即可领取这份特别制作的炸鸡。 IT之家注意"
+        "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+        "link": "https://www.ithome.com/1/030/710.htm",
+        "pubDate": "Sun, 22 Nov 2026 13:17:56 GMT",
+        "description": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPhone 18 Pro Max 还要大 5"
       },
       {
-        "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
-        "link": "https://www.ithome.com/1/030/628.htm",
-        "pubDate": "Sun, 22 Nov 2026 08:47:38 GMT",
-        "description": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会"
+        "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
+        "link": "https://www.ithome.com/1/030/708.htm",
+        "pubDate": "Sun, 22 Nov 2026 12:56:39 GMT",
+        "description": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。 Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的"
       }
     ],
     "source": "IT之家",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
+        "link": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
+        "pubDate": "Sun, 22 Nov 2026 17:03:31 +0000",
+        "description": "NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities. For property owners, insurance provides a critical financial safety net that protects homes, businesses, and other assets from unex",
+        "title_cn": "保险可负担性危机：风险、韧性和解决方案"
+      },
+      {
+        "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
+        "link": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
+        "pubDate": "Sun, 22 Nov 2026 15:20:11 +0000",
+        "description": "The incoming US Congress plans to call Elon Musk to account for manipulating SpaceX satellite services in Ukraine, crippling that country's ability to defend itself against Russian attacks. The post Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery appeared first on CleanTechn",
+        "title_cn": "致马斯克的备忘录：否认只是通往康复漫长道路上的第一步"
+      },
       {
         "title": "Ford Begins Producing Its Own LFP Batteries",
         "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
@@ -143,14 +157,14 @@
         "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
         "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
         "description": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
-        "title_cn": "欧洲的氢气价格为5.70欧元/千克，而工业买家能够承受的价格要低得多"
+        "title_cn": "欧洲的氢气价格为5.70欧元/千克，而工业买家能承受的价格要低得多"
       },
       {
         "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
         "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
         "pubDate": "Sat, 21 Nov 2026 14:27:15 +0000",
         "description": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents. I went to the RE+ in Las Vegas to meet with leaders from Jackery",
-        "title_cn": "Jackery与Every Electric通过插电式VPP（虚拟电厂）改变城市储能方式"
+        "title_cn": "Jackery与Every Electric通过插电式VPP（虚拟电厂）革新城市储能"
       },
       {
         "title": "Waymo Pulls Robotaxis from Highways",
@@ -158,24 +172,10 @@
         "pubDate": "Sat, 21 Nov 2026 05:21:09 +0000",
         "description": "Waymo has apparently run into some issues with its robotaxis on highways in California, and it has pulled its robotaxis off of highways across the United States as a result. The main issue is that Waymo robotaxis have entered active construction zones. (Yikes!) Earlier this week, in response to the ",
         "title_cn": "Waymo将自动驾驶出租车撤离高速公路"
-      },
-      {
-        "title": "NIO Launches Special Edition Firefly “Pianke Liujin”",
-        "link": "https://cleantechnica.com/2026/11/20/nio-launches-special-edition-firefly-pianke-liujin/",
-        "pubDate": "Sat, 21 Nov 2026 04:55:58 +0000",
-        "description": "Initially, I was like, &#8220;Wow, I love this car, I have to write about it!&#8221; Then I realized there were only going to be 333 units of the model built, so it really isn&#8217;t going to make a difference to any significant degree at all&#8230;. But I love the car ... [continued] The post NIO ",
-        "title_cn": "蔚来推出萤火虫特别版“翩翩流金”"
-      },
-      {
-        "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
-        "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/",
-        "pubDate": "Sat, 21 Nov 2026 02:34:38 +0000",
-        "description": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company&#8217;s own cloud environment, giving the team direct responsibility for data policies, access permiss",
-        "title_cn": "晶澳储能推出内部电池护照平台，以促进欧盟标准的合规性"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "energy": {
     "items": [
@@ -198,14 +198,14 @@
         "link": "https://www.nature.com/articles/s41560-026-02155-x",
         "pubDate": "2026-11-19",
         "description": "Nature Energy, Published online: 19 November 2026; doi:10.1038/s41560-026-02155-x Using data from 21,609 homes in California, this study finds that electrification economics vary widely, with homes that have air conditioning better positioned to benefit. Targeted incentives and rate reform could sup",
-        "title_cn": "探索加州有针对性的住宅电气化对电力分配的影响"
+        "title_cn": "探索加州有针对性的住宅电气化对能源分配的影响"
       },
       {
         "title": "Targeted technology coadoption for reconciling energy savings and equity gains in the residential energy transition",
         "link": "https://www.nature.com/articles/s41560-026-02164-w",
         "pubDate": "2026-11-18",
         "description": "Nature Energy, Published online: 18 November 2026; doi:10.1038/s41560-026-02164-w Targeting burden reduction realigns technology distribution towards disadvantaged households. The study shows that solar co-adoption for these households can deliver equity gains, highlighting the need for bundled, mul",
-        "title_cn": "针对性技术共同采用，以协调住宅能源转型中的节能与公平收益"
+        "title_cn": "针对性技术共同采用，以兼顾住宅能源转型中的节能与公平收益"
       },
       {
         "title": "Author Correction: Dynamic cycling enhances battery lifetime",
@@ -219,7 +219,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02160-0",
         "pubDate": "2026-11-11",
         "description": "Nature Energy, Published online: 11 November 2026; doi:10.1038/s41560-026-02160-0 Solar water splitting offers a route to renewable hydrogen, but developing photocatalyst sheets from scalable, solution-processable materials remains a challenge. Here the authors use underlayer engineering to build an",
-        "title_cn": "用于太阳能驱动全分解水的有机半导体基光催化剂薄片"
+        "title_cn": "用于全太阳能驱动水分解的有机半导体基光催化剂薄片"
       },
       {
         "title": "Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
@@ -237,7 +237,7 @@
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "energy_cn": {
     "items": [
@@ -291,7 +291,7 @@
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "hydrogen": {
     "items": [
@@ -328,7 +328,7 @@
         "link": "https://fuelcellsworks.com/2026/11/18/fuel-cells/hyundai-hydrogen-mobility-delivers-two-additional-next-generation-xcient-fuel-cell-trucks-to-migros-eastern-switzerland",
         "pubDate": "Fri, 20 Nov 2026 16:32:18 GMT",
         "description": "",
-        "title_cn": "现代氢动力公司向瑞士东部Migros交付两辆额外的下一代XCIENT氢燃料电池卡车"
+        "title_cn": "现代氢动力公司向瑞士东部Migros再交付两辆下一代XCIENT氢燃料电池卡车"
       },
       {
         "title": "Genevos Lands €2.2 Million EU Grant to Build 1 MW Hydrogen Fuel Cell for Large Ships",
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "papers": {
     "items": [
@@ -369,7 +369,7 @@
         "link": "https://arxiv.org/abs/2611.26606v1",
         "pubDate": "2026-11-19T18:55:55Z",
         "description": "We propose a quantum minimum-finding algorithm for objectives accessed via numerical estimators that avoids the logarithmic query overhead of amplifying the confidence of estimates before the search. A coherent estimator that is $\\varepsilon$-accurate with probability at least $2/3$ on each of $N$ l",
-        "title_cn": "基于数值估计器的查询最优量子最小值求解"
+        "title_cn": "基于数值估计器的查询最优量子最小值查找"
       },
       {
         "title": "An Efficient Algorithm for Matroid Cups",
@@ -390,14 +390,14 @@
         "link": "https://arxiv.org/abs/2611.26561v1",
         "pubDate": "2026-11-19T18:27:29Z",
         "description": "Quantitative Susceptibility Mapping (QSM) provides a bulk magnetic susceptibility estimate per voxel, so contributions from paramagnetic and diamagnetic sources within the same voxel partially cancel. Susceptibility source separation methods identify these compartments by fitting a three-pool comple",
-        "title_cn": "通过闭式交替牛顿型优化实现磁化率源分离"
+        "title_cn": "通过闭式交替牛顿型优化进行磁化率源分离"
       },
       {
         "title": "Superluminal propagation in the magnetic NED reconstruction of the extremal Dymnikova black hole",
         "link": "https://arxiv.org/abs/2611.26560v1",
         "pubDate": "2026-11-19T18:27:24Z",
         "description": "We reconstruct the magnetic nonlinear electrodynamics (NED) source of the Dymnikova geometry on the branch \\(\\Iinv>0\\) and analyze its electromagnetic perturbations on the fixed background. The reconstruction does not admit a Maxwell limit. The extraordinary characteristic cone gives a transverse sp",
-        "title_cn": "极值Dymnikova黑洞的非线性电动力学（NED）磁场重建中的超光速传播"
+        "title_cn": "极值Dymnikova黑洞的磁性NED重构中的超光速传播"
       },
       {
         "title": "Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys",
@@ -411,7 +411,7 @@
         "link": "https://arxiv.org/abs/2611.26548v1",
         "pubDate": "2026-11-19T18:20:48Z",
         "description": "Understanding the chemical diversity of exoplanet atmospheres is crucial for linking atmospheric composition to planetary formation history. Atmospheric C/O can provide clues about where and how planets form, particularly through the accretion of gas and solids across disk snowlines. Since planetary",
-        "title_cn": "系外行星化学中的统计推断受反演假设的影响"
+        "title_cn": "系外行星化学中的人口统计推断受反演假设的影响"
       },
       {
         "title": "Nonlinearly Causal General-Relativistic Superfluid Hydrodynamics: Simulating Vortex Dynamics in Neutron-Star Interiors",
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,21 +483,21 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   },
   "policy_ndrc": {
     "items": [
       {
-        "title": "\"算力的尽头是电力\"：政策密集出台后，AI+能源还差储能、数据 - 财联社",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KNDJBLXNadjFEY0syS1YtRDkxMnlZUE9BeFhaeDdjTE9PdEZXeTI3NGdtM3F5UG9KZTJjd2NXOTIxc0xSZW1MRQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 01:00:00 GMT",
-        "description": "\"算力的尽头是电力\"：政策密集出台后，AI+能源还差储能、数据 &nbsp;&nbsp; 财联社"
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
       },
       {
-        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -506,37 +506,37 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm4wczBsU1NMSzI1NnFqOS13b0xCZG1WWi01c0diMmZ6R2J1OXJJcTR1aGNoLTlXaVBEVm02WUNmRmhBdnd0N3BETXVoeWUwMmF3THUxNzBYY0ZPR2Y1X1pYUkdmOUliNGxmM0tWbU5xQUhXanBkdl9xTGotcWFUVEVR?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 - 文轩新闻",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WHNiSHVLaElQMkJPUlBfWkdlNnZYR3hBeldwc3lLZGhqZDRpcU9ZSnZhUVFBeUxxQ200MTh2SkxuZ014c2RRMmtVTDZhTjVQYXc?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:24:30 GMT",
-        "description": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 &nbsp;&nbsp; 文轩新闻"
+        "title": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZVl2TGxsM1NlVmkzUGRhbVkwVTFFSEkwYm1faGJMRkcwMmhMNjQ0ZzdKX21MdTZCNGJnYVFwalFwVWpXUE95azJydGp2S2JhVzh0TXVNOHJzcXptZkJtek1QY2hvNFZy?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+        "description": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "江西“十五五”新型能源体系规划：2030年充电设施总量达70万个 - 国际充换电网",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZU04VVhBeEp4SDFUcGpGc3hQc3dBeW16ZnU2M2pXdUp1YlhEMzRoYkJiQ1poUlZUdVEyY2FDa1czRVVjY3pyYTU5VnJWY3d3dXh1WE5SQQ?oc=5",
-        "pubDate": "Mon, 16 Nov 2026 01:34:29 GMT",
-        "description": "江西“十五五”新型能源体系规划：2030年充电设施总量达70万个 &nbsp;&nbsp; 国际充换电网"
+        "title": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 - 能源界",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoTFVJTnQwa3JyNl85UjBjYWtpYjgybE9ZNjRXOGsyMVlzQ09XV0UwbmQzRWl6V1g4dFlZRnlYbXVtckRIMFdONmVlUVhxVlBNN3V4aFdoU3hOems?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "可再生能源消纳新政出台！跨省绿电直连全部计入受端消纳，8月起施行 &nbsp;&nbsp; 能源界"
       },
       {
-        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
-        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "自然资源部、国家发改委、央行、金融监管总局、证监会，联合发文 - 国际金融报",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5adzgtQWpYNzVwNnVrRFM0UThFSnc4SUc4T1FBY2JqU2ZMS3pfU0ljVGNLR05uMGlmT3VIb2xzS2FoYVRfenhVWHRGTXZWdlU2MnRaQm1tQlBCenBRN1FZ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 04:47:00 GMT",
-        "description": "自然资源部、国家发改委、央行、金融监管总局、证监会，联合发文 &nbsp;&nbsp; 国际金融报"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-22 09:44 UTC"
+    "updated": "2026-11-22 20:43 UTC"
   }
 }
