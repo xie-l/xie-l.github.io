@@ -2,6 +2,13 @@
   "tech": {
     "items": [
       {
+        "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+        "link": "https://www.nature.com/articles/d41586-026-03803-8",
+        "pubDate": "2026-11-21",
+        "description": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+        "title_cn": "经过八年的漫长旅程，贝皮·哥伦布号终于抵达水星"
+      },
+      {
         "title": "How AI is affecting science careers",
         "link": "https://www.nature.com/articles/d41586-026-03680-1",
         "pubDate": "2026-11-20",
@@ -13,21 +20,21 @@
         "link": "https://www.nature.com/articles/d41586-026-03751-3",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.",
-        "title_cn": "举重可减少因服用肥胖药物而导致的肌肉流失"
+        "title_cn": "举重可减少肥胖药物引起的肌肉流失"
       },
       {
         "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
         "link": "https://www.nature.com/articles/d41586-026-03806-5",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03806-5 Nature staff discuss the probe’s epic journey — plus, how vampire bats survive on a blood-only diet.",
-        "title_cn": "简报聊天：旅行者1号现已距离地球一个“光日”——创下宇宙纪录"
+        "title_cn": "简报聊天：旅行者1号现已距离地球一个“光日”之遥——创下宇宙纪录"
       },
       {
         "title": "Fraud helps little fire ants to survive and conquer",
         "link": "https://www.nature.com/articles/d41586-026-03776-8",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03776-8 Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
-        "title_cn": "欺骗行为有助于小火蚁生存和征服"
+        "title_cn": "欺骗有助于小火蚁生存和征服"
       },
       {
         "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
@@ -41,7 +48,7 @@
         "link": "https://www.nature.com/articles/d41586-026-03805-6",
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03805-6 The Humboldt Foundation says that applications for its fellowships have increased markedly in the past two years, but they did not anticipate the influx this month.",
-        "title_cn": "“令人难以置信的沮丧”：知名奖学金申请仅在21小时内截止"
+        "title_cn": "“令人沮丧至极”：知名奖学金申请仅在21小时内截止"
       },
       {
         "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
@@ -49,80 +56,94 @@
         "pubDate": "2026-11-20",
         "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03789-3 Countries are starting to grapple with the reality that bringing temperatures down after they breach the 1.5 ºC target would require removingmassive amounts of carbon dioxide from the air.",
         "title_cn": "净零排放无法扭转气候变化——一些国家正着眼于“净负排放”"
-      },
-      {
-        "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
-        "link": "https://www.nature.com/articles/d41586-026-03812-7",
-        "pubDate": "2026-11-20",
-        "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
-        "title_cn": "一位数学家称，他和人工智能解决了黎曼猜想——该领域最重大的未决难题"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "tech_cn": {
     "items": [
       {
-        "title": "韩国总统李在明：速度在 AI 竞赛中至关重要",
-        "link": "https://www.ithome.com/1/030/506.htm",
-        "pubDate": "Sat, 21 Nov 2026 14:26:35 GMT",
-        "description": "IT之家 11 月 21 日消息，据路透社报道，当地时间 21 日，韩国总统李在明前往韩国东南部城市蔚山，视察当地一座在建数据中心，并敦促韩国加快在全球 AI 竞赛中的步伐。“ 全世界都在竞相角逐，速度至关重要 。” 数据中心是芯片需求的重要来源。李在明希望，SK 建设的蔚山项目能够取得成功，进而吸引全球 AI 企业加大投资。 蔚山数据中心由 SK 集团与亚马逊云科技共同开发。韩国科学技术信息通信部去年公布的估算显示，项目到 2029 年的总投资额预计为 7 万亿韩元 （IT之家注：现汇率约合 351.26 亿元人民币） ，计划于 2027 年下半年投入运营。 SK 集团会长崔泰源 9 月介绍"
+        "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+        "link": "https://www.ithome.com/1/030/540.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:42:10 GMT",
+        "description": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题，未与任何大模型企业合作，亦未开展测评。 声明称，中心从未以任何形式向社会公开、发布或出售中医类别医师资格考试历年试题（含真题、原题）、参考答案及相关考试资料，亦未授权任何单位或个人公开、发布、销售。市场上以“历年真题”“官方真题”“内部题库”“原题还原”等名义提供、销售或 用于训练、测评人工智能大模型的内容 ，均非中心提供。 声明还称， 中心从未与任何人工智能大模型企业、平台或相关机构建立合作关系 ；未授权任何主体使用中心名称、简称、标识、考试数据及考试资"
       },
       {
-        "title": "亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元",
-        "link": "https://www.ithome.com/1/030/505.htm",
-        "pubDate": "Sat, 21 Nov 2026 14:18:45 GMT",
-        "description": "IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制 企业直接雇佣送货人员 ，而不是外包给第三方承包商。 不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将 涨价 5 美元 （IT之家注：现汇率约合 33.5 元人民币） 。 该法案将改变亚马逊配送司机的实际雇主身份。按照目前的配送模式，在身穿亚马逊马甲、驾驶亚马逊货车，甚至受到亚马逊 AI 摄像头的驾驶行为监控的司机背后，实际的雇主往往是 亚马逊旗下配送体系中的小型合作企业 ，或称配送服务合作伙"
+        "title": "2027 款岚图泰山旗舰纯电大六座 SUV 定档 11 月 27 日开启预售",
+        "link": "https://www.ithome.com/1/030/539.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:37:52 GMT",
+        "description": "IT之家 11 月 22 日消息，岚图汽车官方今日宣布，旗下“中式旗舰纯电大六座”SUV —— 2027 款岚图泰山将于 11 月 27 日正式开启预售 。 目前，岚图汽车官方暂未公布 2027 款泰山更多配置信息，IT之家将持续关注，并在第一时间带来最新情报。作为参考，现款岚图泰山已于去年 11 月 18 日上市，共推出四个版本， 售价 37.99 万-50.99 万元 。该车主要配置信息如下： 中国首发三腔空气悬架：110mm 调节行程、100 次 / 秒道路预瞄智能调节阻尼、4 档刚度调节、5 档高度调节 华为乾崑智驾 ADS 4：华为乾崑智驾 ADS 4 四激光方案、分布式 4D 毫米"
       },
       {
-        "title": "全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶-碳纤维电驱第 10 万套下线",
-        "link": "https://www.ithome.com/1/030/504.htm",
-        "pubDate": "Sat, 21 Nov 2026 13:53:01 GMT",
-        "description": "IT之家 11 月 21 日消息，11 月 20 日，广汽夸克电驱非晶-碳纤维电驱第 10 万套正式量产下线。 官方表示，这一里程碑标志着 广汽成为全球唯一实现非晶合金车用电驱规模化量产的企业 。 据介绍，广汽动力总成自主研发团队围绕材料、工艺、结构和控制开展全链路攻关， 首创非晶合金定子量产工艺 ，突破碳纤维高速转子关键技术，让非晶-碳纤维电驱从科研成果转化为可批量交付的车规级产品。 夸克电驱 2.0 非晶-碳纤维电驱的核心突破，始于定子与转子两端： 定子 采用厚度 0.025mm 的非晶合金带材，厚度约为常规超薄硅钢片的五分之一；非晶合金磁导率可达普通硅钢片的 20 至 100 倍，单位铁"
+        "title": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对",
+        "link": "https://www.ithome.com/1/030/538.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:28:10 GMT",
+        "description": "IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦通信委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则， 肆意污蔑、恶意打压中国电信企业在美运营 。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链"
       },
       {
-        "title": "南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见",
-        "link": "https://www.ithome.com/1/030/479.htm",
-        "pubDate": "Sat, 21 Nov 2026 13:32:51 GMT",
-        "description": "IT之家 11 月 21 日消息，从零开发一套操作系统，即使对经验丰富的工程团队而言也是一项艰巨任务，南非开发者兼企业家德里克 · 佩恩却选择独自承担这项工作。 当地时间 20 日，据外媒 TechSpot 报道，佩恩近日公布了面向现代 x86-64 PC 的全新操作系统 ——Impossible OS，其设计借鉴 Windows 11， 完全基于开源代码开发 。 根据项目官方宣言，Impossible OS 的目标是 原生运行基于 Win32 API 开发的软件，同时兼容 Linux 二进制程序 。 佩恩强调，其并非“又一个 Linux 发行版”，而是一套 拥有自身底层架构 的独立操作系统，"
+        "title": "小鹏辟谣：警惕冒用小鹏汽车名义的“召回领赔偿”诈骗",
+        "link": "https://www.ithome.com/1/030/537.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:23:45 GMT",
+        "description": "IT之家 11 月 22 日消息，小鹏集团官方微博 @小鹏辟谣 昨日发文，提醒车主警惕冒用小鹏汽车名义的“召回领赔偿”诈骗。 近日，多家车企的车主收到不法分子冒用车企名义制作、传播的虚假召回通知，声称车主可领取赔偿，引导车主访问附带网站或扫描二维码，联系所谓“在线客服”登记个人及车辆信息。 为防患于未然，保护广大鹏友的合法权益，小鹏汽车在此郑重提示： 一、官方渠道说明与甄别 小鹏汽车不会通过陌生短信、陌生链接、陌生二维码推送以“召回领赔偿”为由的通知 。 任何非小鹏官方渠道发来的陌生网址、二维码，以及所谓“在线客服”，均不属于小鹏汽车官方服务渠道。 小鹏汽车的官方渠道仅为：小鹏汽车 App、小"
       },
       {
-        "title": "为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”",
-        "link": "https://www.ithome.com/1/030/478.htm",
-        "pubDate": "Sat, 21 Nov 2026 13:16:27 GMT",
-        "description": "IT之家 11 月 21 日消息，当地时间 19 日，据 BBC 报道，英国开展了一项保密的网络安全行动，保护各大超市、仓库、餐厅、加油站及体育场馆内 数万台冰箱和冷冻柜 ，防止黑客入侵。 据IT之家了解，欧洲近期接连发生多轮网络攻击，数百家门店的数吨食品因此变质，损失达数百万英镑。 此前，外界认为英国基本避开了此类黑客攻击，原因是英国制冷行业 采用了不同类型的设备 。实际上，英国制冷行业 也存在一个潜在漏洞 ，业界一直在加紧修补。 10 月下旬，安全研究人员发现一处重大漏洞。一旦被黑客发现，这一漏洞可能给英国 造成更加严重的损害 。此后，研究人员、IT 团队和英国国家网络安全中心（NCSC）"
+        "title": "神舟二十四号展开全系统合练，神舟二十五号作为地面应急救援备份",
+        "link": "https://www.ithome.com/1/030/536.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:21:37 GMT",
+        "description": "IT之家 11 月 22 日消息，据中央广播电视总台中国之声报道，神舟二十四号载人飞行任务各系统昨天（21 日）在酒泉卫星发射中心进行发射场区合练。此次合练覆盖 火箭、飞船、发射场、测控通信 等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。 实际上，就在发射场内，不仅有神舟二十四号载人飞船、长征二号 F 遥二十四运载火箭在整个合练过程中表现出色，还有一艘神舟飞船和一枚长二 F 火箭也在紧张待命中。 辽宁省科学技术协会首席科学传播专家解仁江介绍，神舟二十四号执行正常载人飞行任务， 神舟二十五号作为地面应急救援备份 。一旦在轨飞船发生故障，备用飞船就可以启动应急发射，为航天员提供"
       },
       {
-        "title": "中创新航通过大众汽车电池测试中心认证，已具备为奥迪、保时捷、兰博基尼等品牌电池包开展测试的能力",
-        "link": "https://www.ithome.com/1/030/477.htm",
-        "pubDate": "Sat, 21 Nov 2026 13:14:21 GMT",
-        "description": "IT之家 11 月 21 日消息，11 月 19 日，中创新航研究院实验室正式通过大众汽车集团电池测试中心认证，获得大众官方认可证书， 具备为大众集团电芯、电池包产品开展合规检测、验证的专业能力 。 官方表示，该资质落地后， 中创新航可在研究院实验室内部完成大众电芯、电池包相关验证试验 ，减少样品外送和跨机构对接环节，实现测试与研发同步联动，加快电池方案迭代速度，同时保障测试数据可控、可追溯，稳定输出符合大众高标准的动力电池产品。 IT之家从官方新闻稿获悉，中创新航已搭建覆盖电芯、模组、电池包全层级，涵盖环境箱、冲击、挤压、热失控、电性能等项目的测试平台，建立标准化测试流程和数据闭环管理体系。"
+        "title": "告别“全损音质”：微软 Win11 系统将改进蓝牙耳机开麦体验",
+        "link": "https://www.ithome.com/1/030/535.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:14:10 GMT",
+        "description": "IT之家 11 月 22 日消息，据科技媒体 Windows Latest 今天报道，Windows 用户多年来应该都有一个抱怨，就是使用蓝牙耳机开麦时，耳边的声音宛如“全损音质”一般。 例如，当你一边玩游戏或通过 Discord 开麦，然后使用蓝牙耳机听音乐时，耳机播放的声音就会突然变得沉闷、模糊。这个问题从 Windows 7 就开始有，只要麦克风处于工作状态，蓝牙耳机的音质就会变得非常差。 这个问题出现的原因主要还是 Win11 系统。当用户听音乐、看电影且没有使用麦克风时，Windows 会默认使用 A2DP 蓝牙配置文件。 但只要有程序调用麦克风 ， A2DP 就会降级为 HFP（I"
       },
       {
-        "title": "全国首条超百公里纯氢长输管道在内蒙古启运，核准年输氢量 10 万吨",
-        "link": "https://www.ithome.com/1/030/476.htm",
-        "pubDate": "Sat, 21 Nov 2026 13:03:18 GMT",
-        "description": "IT之家 11 月 21 日消息，据新华社报道，11 月 19 日，全国首条超百公里纯氢长输管道 —— 达尔罕茂明安联合旗至包头市区 195 公里氢气长输管道正式启运。 该项目入选国家能源局首批能源领域氢能试点项目， 标志着我国规模化、长距离纯氢管道输送实现关键突破 ，推动绿氢“制 — 储 — 输 — 用”全产业链协同发展。 IT之家获悉，这条管道在内蒙古包头率先启运，得益于当地“制氢端有资源、用氢端有场景、地理空间高度集约”的独特条件。 包头市委副书记、市长孟庆维介绍，包头风光资源富集，新能源装机占比超过火电，依托华电 20 万千瓦风光制氢项目， 绿氢年产能达 7800 吨，生产成本较低 ；"
+        "title": "李小龙预热华为史上最薄智能手表 WATCH Air：对男性穿西装衬衣非常友好",
+        "link": "https://www.ithome.com/1/030/534.htm",
+        "pubDate": "Sun, 22 Nov 2026 01:10:17 GMT",
+        "description": "IT之家 11 月 22 日消息，华为史上最薄智能手表 —— 华为WATCH Air 将于 11 月 24 日 14:30 登场。该产品拥有 6.9 毫米机身，号称“薄，且强”。 11 月 20 日，华为终端 BG CTO 李小龙对这款新品进行了预热。他表示，这款表又轻又薄，佩戴舒适性非常好，尤其对男性穿西装衬衣非常友好， 不会和衬衣袖子干涉 。他还提到：“因为非常轻，运动时佩戴也非常稳定， 心率数据准确性很好 ，是一个全能型选手。” 据此前官方公布信息，新机采用 6.9mm 超薄设计，提供 1.4mm 超窄四等边、蓝宝石玻璃表镜 ，高亮钛合金一体化机身搭配三款机身配色。 IT之家注意到，数码"
       },
       {
-        "title": "曝三星未来三年大部分存储芯片产能已被锁定，有客户希望供货保障至 2031 年",
-        "link": "https://www.ithome.com/1/030/475.htm",
-        "pubDate": "Sat, 21 Nov 2026 12:47:11 GMT",
-        "description": "IT之家 11 月 21 日消息，韩媒 Economy Tribune 今天（21 日）下午爆料称，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同预订 。随着 AI 数据中心投资持续扩大，存储芯片供应短缺长期难以缓解，部分客户开始要求签订长期供货协议（LTA）， 希望将供货保障期限延长至 2031 年 。 供应紧张的局面不仅出现在高带宽内存（HBM）领域，通用 DRAM 和企业级 NAND 闪存同样面临短缺。主要存储芯片制造商的议价能力预计将因此进一步增强。 据知情人士 21 日透露，三星电子 2027 年至 2029 年的大部分存储芯片产能 都已被合同锁定 。 客户不"
+        "title": "搜狐张朝阳回应“被证监会出具警示函”：此张朝阳不是我",
+        "link": "https://www.ithome.com/1/030/533.htm",
+        "pubDate": "Sun, 22 Nov 2026 00:59:23 GMT",
+        "description": "IT之家 11 月 22 日消息，11 月 20 日，北京证监局披露的一则对“张朝阳”出具警示函的信息在网络传播，部分舆论误将其与搜狐创始人、董事局主席兼首席执行官张朝阳关联。 IT之家注意到，张朝阳本人在搜狐视频关注流回应：“此张朝阳不是我”“ 首先我并没有收到警示函，其次我也没有从事证券咨询业啊 ”。同时，他还吐槽：“看来 AI 还是不行，区别不了同名同姓的人。” 公开资料显示， 张朝阳于 1964 年 10 月 31 日出生于陕西西安。1981 年，张朝阳考入清华大学，1986 年毕业后就读于美国麻省理工学院。1996 年，创建了爱特信公司。1998 年 2 月 25 日，爱特信正式推出"
       }
     ],
     "source": "IT之家",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
+        "link": "https://cleantechnica.com/2026/11/21/who-needs-automatic-driving-you-love-to-drive-however-for-many-handicapped-teslas-full-self-driving-is-the-only-option-its-use-it-or-dont-drive/",
+        "pubDate": "Sat, 21 Nov 2026 21:34:39 +0000",
+        "description": "Editor&#8217;s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren&#8217;t capable of driving the trip fully themselves. Fritz makes the argument here that it is easier to supervise FSD and that is why someone with a handicap can use it when ... [continued] Th",
+        "title_cn": "谁需要自动驾驶？您喜欢开车！然而，对于许多残疾人来说，特斯拉的完全自动驾驶是唯一的选择。要么使用它，要么就别开车！"
+      },
+      {
+        "title": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October",
+        "link": "https://cleantechnica.com/2026/11/21/ev-share-jumps-to-68-and-small-bevs-rise-to-power-china-ev-sales-report-for-october/",
+        "pubDate": "Sat, 21 Nov 2026 19:38:50 +0000",
+        "description": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ..",
+        "title_cn": "电动汽车市场份额飙升至 68%（！）且小型纯电动汽车崛起——10 月中国电动汽车销量报告"
+      },
+      {
+        "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
+        "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
+        "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
+        "description": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
+        "title_cn": "欧洲的氢气价格为5.70欧元/公斤，而工业买家能够承受的价格要低得多"
+      },
       {
         "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
         "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
         "pubDate": "Sat, 21 Nov 2026 14:27:15 +0000",
         "description": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents. I went to the RE+ in Las Vegas to meet with leaders from Jackery",
-        "title_cn": "Jackery与Every Electric通过插电式VPP（虚拟电厂）改变城市储能方式"
+        "title_cn": "Jackery与Every Electric通过插电式VPP（虚拟电厂）革新城市储能"
       },
       {
         "title": "Waymo Pulls Robotaxis from Highways",
@@ -136,7 +157,7 @@
         "link": "https://cleantechnica.com/2026/11/20/nio-launches-special-edition-firefly-pianke-liujin/",
         "pubDate": "Sat, 21 Nov 2026 04:55:58 +0000",
         "description": "Initially, I was like, &#8220;Wow, I love this car, I have to write about it!&#8221; Then I realized there were only going to be 333 units of the model built, so it really isn&#8217;t going to make a difference to any significant degree at all&#8230;. But I love the car ... [continued] The post NIO ",
-        "title_cn": "蔚来推出萤火虫特别版“翩翩流金”"
+        "title_cn": "蔚来推出萤火虫“翩跹鎏金”特别版"
       },
       {
         "title": "JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
@@ -150,32 +171,11 @@
         "link": "https://cleantechnica.com/2026/11/20/energyre-agreed-to-sell-100-of-a-portfolio-of-utility-scale-solar-projects-in-south-carolina-to-enel-green-power-north-america-totaling-317-mwdc/",
         "pubDate": "Sat, 21 Nov 2026 02:32:49 +0000",
         "description": "energyRe Will Continue as Construction Manager Through Commercial Operation; Sale Reflects Strength of the Company&#8217;s South Carolina Development Platform; Transaction Expected to Close in First Quarter of 2027 energyRe today announced that it has agreed to sell 100% of a portfolio of utility-sc",
-        "title_cn": "energyRe 同意向 Enel Green Power North America 出售位于南卡罗来纳州的一批公用事业规模太阳能项目组合的 100% 权益，总装机容量为 317 兆瓦直流电"
-      },
-      {
-        "title": "New ID. Polo GTI Clubsport Concept: This Electric GTI Is Ready For The Racetrack",
-        "link": "https://cleantechnica.com/2026/11/20/new-id-polo-gti-clubsport-concept-this-electric-gti-is-ready-for-the-racetrack/",
-        "pubDate": "Sat, 21 Nov 2026 02:20:22 +0000",
-        "description": "100% electric, 100% GTI Clubsport — the new ID. Polo GTI Clubsport Concept transfers the Clubsport concept designed for maximum performance to the world of electric mobility for the first time Clubsport is motorsport — with 270 kW (367 PS), 4.7 seconds for the 0-100 km/h sprint, a top speed ... [con",
-        "title_cn": "全新ID. Polo GTI Clubsport概念车：这款电动GTI已准备好征战赛道"
-      },
-      {
-        "title": "How Can Energy Improve Lives? Why Counting Connections Isn’t Enough",
-        "link": "https://cleantechnica.com/2026/11/20/how-can-energy-improve-lives-why-counting-connections-isnt-enough/",
-        "pubDate": "Sat, 21 Nov 2026 01:47:30 +0000",
-        "description": "Global tracking of energy access should expand beyond connections to include affordability, reliability, adequacy, and development outcomes. Access to energy is a cornerstone of development—it can improve health, education, incomes, and overall quality of life. But access is only the first step. A h",
-        "title_cn": "能源如何改善生活？为什么仅仅统计接电户数还不够"
-      },
-      {
-        "title": "Yozma IN 11 Review — Offroad Dirt Biking with 4800W Peak Power",
-        "link": "https://cleantechnica.com/2026/11/20/yozma-in-11-review-offroad-dirt-biking-with-4800w-peak-power/",
-        "pubDate": "Sat, 21 Nov 2026 01:14:03 +0000",
-        "description": "As a teen, I loved riding — anything, my skateboard, my bike, whatever had wheels and I could get moving on, I was there for it. Then I spent a few years racing mountain bikes in the NORBA circuit when I was in my mid-20&#8217;s. I was never very good ... [continued] The post Yozma IN 11 Review — Of",
-        "title_cn": "Yozma IN 11评测——峰值功率4800W的越野摩托车"
+        "title_cn": "energyRe 同意向 Enel Green Power North America 出售位于南卡罗来纳州的总计 317 兆瓦直流电的公用事业级太阳能项目组合的 100% 权益"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "energy": {
     "items": [
@@ -219,7 +219,7 @@
         "link": "https://www.nature.com/articles/s41560-026-02160-0",
         "pubDate": "2026-11-11",
         "description": "Nature Energy, Published online: 11 November 2026; doi:10.1038/s41560-026-02160-0 Solar water splitting offers a route to renewable hydrogen, but developing photocatalyst sheets from scalable, solution-processable materials remains a challenge. Here the authors use underlayer engineering to build an",
-        "title_cn": "用于全太阳能驱动水分解的有机半导体基光催化剂薄片"
+        "title_cn": "用于太阳能驱动全水分解的有机半导体基光催化剂薄片"
       },
       {
         "title": "Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
@@ -233,14 +233,20 @@
         "link": "https://www.nature.com/articles/s41560-026-02163-x",
         "pubDate": "2026-11-09",
         "description": "Nature Energy, Published online: 09 November 2026; doi:10.1038/s41560-026-02163-x As data centres increase pressure on power systems, the costs of accommodating their growth are becoming a concern. Here the researchers show that data centres raise wholesale prices and shift transmission costs onto h",
-        "title_cn": "数据中心通过批发价格上涨和累退性电网成本转移，不对称地加剧了能源负担"
+        "title_cn": "数据中心通过批发价格上涨和倒退性电网成本转移，不对称地加剧了能源负担"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "energy_cn": {
     "items": [
+      {
+        "title": "推动绿氢与新能源协同发展！江西“十五五”新型能源体系建设规划出炉 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESE44YTZWaGthY2plVUVVeGFwUEllczBnTWFkb2I2Sm5hTXF5VC1qSXdZWEtMNTJWaWF5cTQyemlPNDUxMEdPQTNJbHlpOGdNQlBFQVhB?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 02:21:32 GMT",
+        "description": "推动绿氢与新能源协同发展！江西“十五五”新型能源体系建设规划出炉 &nbsp;&nbsp; 国际氢能网"
+      },
       {
         "title": "“青氢一号”松原项目入选国家能源局“中国实践”典型案例 - 世纪新能源网",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WMEdiam5fVHd4LUlfNW4xWEZaT0V5MlFic1pfRXdqb1hjbS02MmZNOFdXQ0ZWRDRYUzVteFR6cUZYTzhUNVVsb2Z1Z3JsdHAzZWZxMw?oc=5",
@@ -254,44 +260,38 @@
         "description": "氢能产业正走向“精选赛道” &nbsp;&nbsp; 中国石化新闻网"
       },
       {
+        "title": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备 - 21财经",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONTktV0tlR2hxSElmMXUycnA3VW5zRkpyaWlYcWRROGhOTTZqR1dQb3g3MUxTVEF1T1E4ak9pM2dTNmM0LVhadFJ0MXllTEpXd1RZNGVsWjFfMklPaEppTEs4YlhEelhhX1N5R0czUUc1VzNtRzJEaExDeTV5VkdHYmtVcW81TjB0V0dUQTBqYw?oc=5",
+        "pubDate": "Sat, 14 Nov 2026 08:06:46 GMT",
+        "description": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备 &nbsp;&nbsp; 21财经"
+      },
+      {
         "title": "我校举办第二届河北省氢能产业发展研讨会 - 华北电力大学",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOGRDMUVNbDBuQVBZbEF5Zk9BREpSOVM3dFRtcUJWZXFtSXZ0eFV1WmFFNGNoUEpZWENrUnEtQ1hYZ3BkQWFYbmxsQVVFZzlrRFVETGo3WU9GQjhOUm8wbzZyamY4RjRjdkYyZ2kwNzZRWTEtTWc?oc=5",
         "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
         "description": "我校举办第二届河北省氢能产业发展研讨会 &nbsp;&nbsp; 华北电力大学"
       },
       {
+        "title": "上海国际电力展即将举办，新能源、储能或为关键词，这些概念股频获机构调研 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1b2poZ2ZtMndPckRWN25YU0ZZclg5djkwYWlZd0Z2dklZVW9zei1Cb1JydVNiVjhOeDJ4NDhFeGpGaEs1NTE1WA?oc=5",
+        "pubDate": "Wed, 04 Nov 2026 10:23:22 GMT",
+        "description": "上海国际电力展即将举办，新能源、储能或为关键词，这些概念股频获机构调研 &nbsp;&nbsp; 财联社"
+      },
+      {
+        "title": "学校领导为能源电力类专业本科生讲授专业导论课 - 兰州大学新闻网",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03bmpYWFJmaFFhMUNVcUtFdXZvWTBfaWtTdnRrM3RldzJZekdRM2txVlRYUkFaaThmSnZLTm1obVRzOS1OVW52TnRrU0tjMlJWMEtwS2hudUw?oc=5",
+        "pubDate": "Tue, 03 Nov 2026 04:53:34 GMT",
+        "description": "学校领导为能源电力类专业本科生讲授专业导论课 &nbsp;&nbsp; 兰州大学新闻网"
+      },
+      {
         "title": "绿氢：新兴的能源载体（院士讲科普） - 人民日报",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LRTd0X2hKTW1FMTJVNVFnTWZTdVpzSnQxd0FVYl9vaWxsMU1qZmRRUVpWajF6RVVtTzVRQkJkWFU0M2QwaVppcXhGM2xoZzZfSzBmOTNoZGcxZEdNc2pOWnFDLXpHeEpWWWlvc2JVejdLc2JTRnlGYnlPaEpnSXM?oc=5",
         "pubDate": "Sat, 21 Mar 2026 07:00:00 GMT",
         "description": "绿氢：新兴的能源载体（院士讲科普） &nbsp;&nbsp; 人民日报"
-      },
-      {
-        "title": "第十届国际氢能与燃料电池汽车大会举办 - 中国科学技术协会",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZndNTTJ1aWduV2VIQ1E3OVMtbkV3ZWlmUVlRNzl1aTR1M3BFdDg5TzlmUzVpd1hxbmc2VjVrZ3ZHN1B6ZmxvLVRiZnRnMEpqRVNaMHMzRUZKQUw3R2ZRb0VrUThZUjJaYUJNMm8tR090QUloVkhyTDN6Sk1oSHAtWHNrMndaeHlCN2c?oc=5",
-        "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
-        "description": "第十届国际氢能与燃料电池汽车大会举办 &nbsp;&nbsp; 中国科学技术协会"
-      },
-      {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
-      },
-      {
-        "title": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 - 新华网",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlVUZRekRuMlU3Yk1FenhDaDZJRl83SE9sZ3ZHemlHRGxQd25EUWR5WnJQVFhaN1ZkSXRBSl9VdHBteWJ6V3kzcmVLVUowelpEMWlFN0RfVzZ3WjFmcVlneGt4T0xkMUpIVVdRaU51TnljUFo1LVpB?oc=5",
-        "pubDate": "Wed, 11 Mar 2026 07:00:00 GMT",
-        "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
-      },
-      {
-        "title": "全国氢能人才培养研讨会在大兴举办 氢能产教协同发展联合体成立 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ra29CaEhES0E0QnpWR1BERk51MmVQMHVTaExJS0FtZEFvUWtqN2E5TnBPTlZtSVVVYWExQXR5SjlvZ042V0JNRmJSemhyYnQ0OXVGNQ?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 08:40:09 GMT",
-        "description": "全国氢能人才培养研讨会在大兴举办 氢能产教协同发展联合体成立 &nbsp;&nbsp; 世纪新能源网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "hydrogen": {
     "items": [
@@ -300,7 +300,7 @@
         "link": "https://fuelcellsworks.com/2026/11/20/electrolyzer/powercell-receives-sek-440-million-order-for-utility-scale-green-hydrogen-power-generation-installation-in-the-us",
         "pubDate": "Fri, 20 Nov 2026 17:13:54 GMT",
         "description": "",
-        "title_cn": "PowerCell获得美国公用事业规模绿色氢能发电装置4.4亿瑞典克朗订单"
+        "title_cn": "PowerCell获得美国公用事业规模绿色氢能发电装置4.4亿瑞典克朗的订单"
       },
       {
         "title": "Hydrogen Must Be Competitive to Scale, Says Aragon Economy Minister",
@@ -349,11 +349,11 @@
         "link": "https://fuelcellsworks.com/2026/11/17/h2/h2apex-subsidiary-hydroexceed-certification-paves-the-way-into-the-hydrogen-trailer-market",
         "pubDate": "Fri, 20 Nov 2026 16:07:32 GMT",
         "description": "",
-        "title_cn": "H2APEX子公司HydroExceed：认证为进军氢气罐车市场铺平道路"
+        "title_cn": "H2APEX子公司HydroExceed：认证为进军氢气拖车市场铺平道路"
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "papers": {
     "items": [
@@ -369,14 +369,14 @@
         "link": "https://arxiv.org/abs/2611.26606v1",
         "pubDate": "2026-11-19T18:55:55Z",
         "description": "We propose a quantum minimum-finding algorithm for objectives accessed via numerical estimators that avoids the logarithmic query overhead of amplifying the confidence of estimates before the search. A coherent estimator that is $\\varepsilon$-accurate with probability at least $2/3$ on each of $N$ l",
-        "title_cn": "来自数值估计器的查询最优量子最小值查找"
+        "title_cn": "基于数值估计器的查询最优量子最小值求解"
       },
       {
         "title": "An Efficient Algorithm for Matroid Cups",
         "link": "https://arxiv.org/abs/2611.26602v1",
         "pubDate": "2026-11-19T18:54:57Z",
         "description": "We design a polynomial-time algorithm for matroid cups with $O(1)$ discrepancy. Our matroid cups algorithm design consists of a sequence of reductions to simpler instances, culminating in $O(n)$ instances of matroid cups where the matroid has rank 1.",
-        "title_cn": "一种用于拟阵并的有效算法"
+        "title_cn": "一种用于拟阵并集的有效算法"
       },
       {
         "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
@@ -397,28 +397,28 @@
         "link": "https://arxiv.org/abs/2611.26560v1",
         "pubDate": "2026-11-19T18:27:24Z",
         "description": "We reconstruct the magnetic nonlinear electrodynamics (NED) source of the Dymnikova geometry on the branch \\(\\Iinv>0\\) and analyze its electromagnetic perturbations on the fixed background. The reconstruction does not admit a Maxwell limit. The extraordinary characteristic cone gives a transverse sp",
-        "title_cn": "极值Dymnikova黑洞的非线性电动力学（NED）磁场重建中的超光速传播"
+        "title_cn": "极值Dymnikova黑洞的磁性NED重构中的超光速传播"
       },
       {
         "title": "Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys",
         "link": "https://arxiv.org/abs/2611.26550v1",
         "pubDate": "2026-11-19T18:22:30Z",
         "description": "Mapping the distribution of elements in the Milky Way and understanding how that distribution has changed over time can give us insight into the formation and evolution of our Galaxy. Here we use homogeneously estimated atmospheric parameters, elemental abundances, distances, and ages for ~580,000 g",
-        "title_cn": "跨越时间的化学制图：来自五项巡天的580,000颗巨星的同质样本揭示的银河系随年龄变化的化学结构"
+        "title_cn": "跨越时间的化学制图：来自五项巡天的580,000颗同质样本巨星的银河系年龄依赖性化学结构"
       },
       {
         "title": "Demographic inference in exoplanet chemistry is shaped by retrieval assumptions",
         "link": "https://arxiv.org/abs/2611.26548v1",
         "pubDate": "2026-11-19T18:20:48Z",
         "description": "Understanding the chemical diversity of exoplanet atmospheres is crucial for linking atmospheric composition to planetary formation history. Atmospheric C/O can provide clues about where and how planets form, particularly through the accretion of gas and solids across disk snowlines. Since planetary",
-        "title_cn": "系外行星化学中的人口统计推断受反演假设的影响"
+        "title_cn": "系外行星化学中的统计推断受反演假设的影响"
       },
       {
         "title": "Nonlinearly Causal General-Relativistic Superfluid Hydrodynamics: Simulating Vortex Dynamics in Neutron-Star Interiors",
         "link": "https://arxiv.org/abs/2611.26547v1",
         "pubDate": "2026-11-19T18:20:33Z",
         "description": "Neutron stars provide a natural laboratory for superfluid matter under extreme conditions. Its nonlinear dynamics is central to pulsar glitches, their possible links to fast radio bursts, and tidal interactions in inspiralling binaries. We develop a general-relativistic superfluid hydrodynamics fram",
-        "title_cn": "非线性因果广义相对论超流体流体力学：模拟中子星内部的涡旋动力学"
+        "title_cn": "非线性因果广义相对论超流体流体动力学：模拟中子星内部的涡旋动力学"
       },
       {
         "title": "Outflow Properties from a Broad Range of GR$ν$RMHD Stellar-Mass Black Hole Accretion Disks",
@@ -429,7 +429,7 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "policy_nea": {
     "items": [
@@ -483,7 +483,7 @@
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   },
   "policy_ndrc": {
     "items": [
@@ -494,10 +494,10 @@
         "description": "\"算力的尽头是电力\"：政策密集出台后，AI+能源还差储能、数据 &nbsp;&nbsp; 财联社"
       },
       {
-        "title": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 - 文轩新闻",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WHNiSHVLaElQMkJPUlBfWkdlNnZYR3hBeldwc3lLZGhqZDRpcU9ZSnZhUVFBeUxxQ200MTh2SkxuZ014c2RRMmtVTDZhTjVQYXc?oc=5",
-        "pubDate": "Wed, 18 Nov 2026 07:24:30 GMT",
-        "description": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 &nbsp;&nbsp; 文轩新闻"
+        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
+        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
+        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
       },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
@@ -512,10 +512,16 @@
         "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
+        "title": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 - 文轩新闻",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WHNiSHVLaElQMkJPUlBfWkdlNnZYR3hBeldwc3lLZGhqZDRpcU9ZSnZhUVFBeUxxQ200MTh2SkxuZ014c2RRMmtVTDZhTjVQYXc?oc=5",
+        "pubDate": "Wed, 18 Nov 2026 07:24:30 GMT",
+        "description": "算力赛道现新机遇！平治信息成为被市场低估的算力供给实力派 &nbsp;&nbsp; 文轩新闻"
+      },
+      {
+        "title": "江西“十五五”新型能源体系规划：2030年充电设施总量达70万个 - 国际充换电网",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CZU04VVhBeEp4SDFUcGpGc3hQc3dBeW16ZnU2M2pXdUp1YlhEMzRoYkJiQ1poUlZUdVEyY2FDa1czRVVjY3pyYTU5VnJWY3d3dXh1WE5SQQ?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:34:29 GMT",
+        "description": "江西“十五五”新型能源体系规划：2030年充电设施总量达70万个 &nbsp;&nbsp; 国际充换电网"
       },
       {
         "title": "自然资源部、国家发改委、央行、金融监管总局、证监会，联合发文 - 国际金融报",
@@ -524,19 +530,13 @@
         "description": "自然资源部、国家发改委、央行、金融监管总局、证监会，联合发文 &nbsp;&nbsp; 国际金融报"
       },
       {
-        "title": "新能源全面入市后，电力交易进入“算小时”时代 - 21财经",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSkZkUEQ5a3NMbVBTWVJZMEVlQVZQQ0ZjeHBLdExqSlgtUHd4amVGZFVHU1AzMnhrQXdDZUVNeDQ0QmVVVjZsc1JWd0FSNkVKNFN3QWp5b19yN0RFdnRERGdvclk0cG1uU1gwd3pOZWJ3RU5MSllwT3dvTUxmZVpnZno0bE5sVktrNzQ3SGJ0dw?oc=5",
-        "pubDate": "Sat, 21 Nov 2026 11:11:00 GMT",
-        "description": "新能源全面入市后，电力交易进入“算小时”时代 &nbsp;&nbsp; 21财经"
-      },
-      {
-        "title": "浙江规模化推广甲醇电动物流生态 打造全国示范样本和应用高地 - 中华网",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vTzlCUWl3SXl4RG9HMzlwSC14bWU1SGRHZ1YwbFhNbE9uY3RITDQ5RV96NWZEYVdGVHZFbjZyc2hHc196elRRd0F3aWFxVnRMU2hiUmJsUkRORFQwdGc?oc=5",
-        "pubDate": "Fri, 20 Nov 2026 10:20:21 GMT",
-        "description": "浙江规模化推广甲醇电动物流生态 打造全国示范样本和应用高地 &nbsp;&nbsp; 中华网"
+        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
+        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-21 15:12 UTC"
+    "updated": "2026-11-22 02:12 UTC"
   }
 }
