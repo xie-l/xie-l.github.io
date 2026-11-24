@@ -215,6 +215,14 @@ jobs:
               'categories':       cat_counts,
               'updated':          now_utc
           }
+          try:
+              with open('data/stats.json', encoding='utf-8') as f:
+                  old_stats = json.load(f)
+              for key in ('update_count', 'last_update', 'start_date'):
+                  if key in old_stats:
+                      stats[key] = old_stats[key]
+          except (OSError, ValueError):
+              pass
           with open('data/stats.json', 'w', encoding='utf-8') as f:
               json.dump(stats, f, ensure_ascii=False, indent=2)
           print(f'Wrote data/stats.json: {post_count} posts, {total_words} words')
@@ -309,7 +317,6 @@ jobs:
           PYEOF
 
       - name: Build Pagefind search index
-        continue-on-error: true  # SuperGitHub: 非关键步骤，失败时不中断工作流
         run: |
           npx -y pagefind --site . --output-path pagefind --glob "blog/**/*.html"
           echo "Pagefind index built."
