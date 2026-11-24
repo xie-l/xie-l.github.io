@@ -27,6 +27,13 @@ on:
   schedule:
     - cron: '0 3 * * *'
 
+permissions:
+  contents: write
+
+concurrency:
+  group: collector-${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   sync-obsidian:
     runs-on: ubuntu-latest
@@ -51,26 +58,26 @@ jobs:
         run: npm run sync:obsidian:dry-run
       
       - name: Run full sync
-        if: github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule'
+        if: github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule' || github.event_name == 'push'
         run: npm run sync:obsidian
       
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet; then
+          if [ -z "$(git status --porcelain)" ]; then
             echo "changes=false" >> $GITHUB_OUTPUT
           else
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
       
       - name: Commit and push changes
-        if: steps.changes.outputs.changes == 'true' && (github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule')
+        if: steps.changes.outputs.changes == 'true' && (github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule' || github.event_name == 'push')
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
           git commit -m "Auto-sync Obsidian files [$(date +'%Y-%m-%d %H:%M:%S')]"
-          git push
+          bash scripts/push-data-update.sh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
