@@ -71,9 +71,9 @@
       2.61,
       2.6,
       2.89,
-      3.0,
-      3.0,
-      3.0,
+      3,
+      3,
+      3,
       3.26,
       3.2,
       3.1
@@ -130,8 +130,8 @@
       1397,
       1397,
       1397,
-      1392.0,
-      1392.0
+      1392,
+      1392
     ],
     "updated": "2026-11-24 01:43 UTC",
     "newcastle": {
@@ -202,8 +202,22 @@
       ]
     },
     "eua": {
-      "price": "--",
-      "updated": "2026-11-24 01:43 UTC"
+      "price": "83.06",
+      "unit": "€/吨",
+      "pct": "--",
+      "trend": "flat",
+      "date": "2026-11-23",
+      "history": [
+        87.15,
+        81.31,
+        80.6,
+        83.06
+      ],
+      "label": "EUA 一级市场拍卖清算价",
+      "market_type": "eua_primary_auction",
+      "source": "EEX 官方拍卖报告",
+      "source_url": "https://public.eex-group.com/eex/eua-auction-report/index.html",
+      "updated": "2026-11-24 01:44 UTC"
     }
   },
   "hydrogen": {

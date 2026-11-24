@@ -32,7 +32,8 @@ def eua():
     url=base+f'emission-spot-primary-market-auction-report-{year}-data.xlsx'
     workbook=pd.read_excel(io.BytesIO(fetch(url)),sheet_name=None,header=None,engine='openpyxl')
     observations={}
-    for frame in workbook.values():
+    for sheet_name, frame in workbook.items():
+        if sheet_name.strip().upper() != 'EU ETS1': continue
         for i in range(min(25,len(frame))):
             cells=[str(v).lower().strip() for v in frame.iloc[i]]
             def find(predicate):
@@ -45,9 +46,10 @@ def eua():
             if None in (dc,pc,cc): continue
             for _,row in frame.iloc[i+1:].iterrows():
                 contract=str(row.iloc[cc]).upper().strip()
-                if not re.fullmatch(r'(?:EUA|EUAS|EU ALLOWANCES|EUROPEAN UNION ALLOWANCES)(?:\s*\([^)]*\))?',contract): continue
+                if not re.fullmatch(r'(?:T3PA|EUA|EUAS|EU ALLOWANCES|EUROPEAN UNION ALLOWANCES)(?:\s*\([^)]*\))?',contract): continue
                 auction=str(row.iloc[ac]).upper().strip() if ac is not None else ''
                 if any(x in auction for x in ('ETS2','EUAA','AVIATION','UKA')): continue
+                if sc is not None and str(row.iloc[sc]).strip().lower() != 'successful': continue
                 if sc is not None and any(x in str(row.iloc[sc]).lower() for x in ('cancel','fail','unsuccessful')): continue
                 date=pd.to_datetime(row.iloc[dc],errors='coerce',dayfirst=True)
                 try:
@@ -60,8 +62,7 @@ def eua():
     dates=sorted(observations)
     if not dates:
         # Log public workbook layout only, never account data.
-        for name, frame in workbook.items():
-            print('EEX sheet',name,'headers:',[[str(v) for v in frame.iloc[i] if pd.notna(v)] for i in range(min(10,len(frame)))])
+        print('EEX workbook contained sheets:', ', '.join(workbook.keys()))
         raise ValueError('no verified EUA auction observations')
     latest=dates[-1]; price=observations[latest]
     return {'price':f'{price:.2f}','unit':'€/吨','pct':'--','trend':'flat','date':latest,'history':[observations[d] for d in dates[-14:]],'label':'EUA 一级市场拍卖清算价','market_type':'eua_primary_auction','source':'EEX 官方拍卖报告','source_url':base+'index.html'}
