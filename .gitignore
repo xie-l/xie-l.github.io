@@ -25,3 +25,16 @@ Desktop.ini
 
 # Pagefind search index fragments (auto-generated)
 pagefind/fragment/
+
+# Local secrets, private vaults and generated backups must not be committed.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+private/
+obsidian-vault/
+logs/
+backups/
+_site/
+__pycache__/
