@@ -103,15 +103,36 @@ def check_pages():
             report('Pages /'+path, bool(payload), 'public endpoint responded')
         except Exception as exc:
             report('Pages /'+path, False, type(exc).__name__)
+    marker = {}
     try:
         marker = json.loads(get(BASE+'deployment.json'))
-        report('Deployment marker', bool(marker.get('commit')) and fresh(marker.get('built_at'),8), 'recent custom publication')
+        commit = str(marker.get('commit',''))
+        import re
+        if not re.fullmatch(r'[0-9a-f]{40}',commit):
+            raise ValueError('invalid deployment revision')
+        report('Deployment marker', fresh(marker.get('built_at'),8), 'published revision '+commit[:8])
     except Exception as exc:
+        commit = ''
         report('Deployment marker',False,type(exc).__name__)
     for name in ['news','weather','energy','weread','academic','daily-data']:
         try:
             actual=json.loads(get(BASE+'data/'+name+'.json'))
-            report('Pages snapshot '+name, actual==local(name), 'compare deployed JSON with checked-out main')
+            # Validate against the revision actually published, not a newer in-flight main commit.
+            if commit:
+                expected=json.loads(get('https://raw.githubusercontent.com/xie-l/xie-l.github.io/'+commit+'/data/'+name+'.json'))
+                report('Pages integrity '+name, actual==expected, 'compare published JSON with declared deployment revision')
+            else:
+                report('Pages integrity '+name,False,'no verified deployment revision available')
+            if actual!=local(name):
+                # Main may be ahead of Pages until the next scheduled deployment.
+                commits=json.loads(get(API+'commits?sha=main&path=data/'+name+'.json&per_page=1',api=True))
+                changed=commits[0]['commit']['committer']['date'] if commits else ''
+                if fresh(changed,6):
+                    lines.append('- INFO | Pages freshness '+name+': newer repository data awaiting scheduled publication')
+                else:
+                    report('Pages freshness '+name,False,'published data differs from main beyond 6-hour grace period')
+            else:
+                report('Pages freshness '+name,True,'published JSON matches main')
         except Exception as exc:
             report('Pages snapshot '+name,False,type(exc).__name__)
 

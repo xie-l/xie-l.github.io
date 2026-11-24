@@ -76,7 +76,7 @@
     try {
       const latest=await get('https://api.github.com/repos/xie-l/xie-l.github.io/actions/runs?per_page=50');
       const byName=new Map();
-      for(const item of latest.workflow_runs||[])if(item.status==='completed'&&!['cancelled','skipped','neutral','stale'].includes(item.conclusion)&&!byName.has(item.name))byName.set(item.name,item);
+      for(const item of latest.workflow_runs||[])if(item.status==='completed'&&!['cancelled','skipped','neutral','stale'].includes(item.conclusion)&&!byName.has(item.workflow_id||item.path||item.name))byName.set(item.workflow_id||item.path||item.name,item);
       const failed=[...byName.values()].filter(x=>x.status==='completed'&&x.conclusion==='failure').map(x=>x.name);
       add('Actions 最近记录',failed.length?'异常':'正常',failed.length?failed.join('、')+' 失败':'最近 50 次记录中各任务最近有效结果未发现失败；数据仍需单独检查');
     }catch(e){add('Actions 最近记录','需检查','API 暂不可用或限流，请打开运行日志');}

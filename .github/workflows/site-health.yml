@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/site-health.yml'
       - 'scripts/validate-site.py'
+      - 'scripts/check-site-health.py'
       - '.github/workflows/deploy-pages.yml'
   schedule:
     - cron: '51 4 * * *'
