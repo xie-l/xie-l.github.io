@@ -23,6 +23,17 @@ on:
       - 'scripts/build-public-site.sh'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
+  # GITHUB_TOKEN-triggered collector pushes do not start other workflows.
+  # Deploy after each successful data collector instead of relying only on cron.
+  workflow_run:
+    workflows:
+      - Fetch News Feeds
+      - Fetch Weather Data
+      - Fetch Energy Market Data
+      - Fetch Academic Stats
+      - Fetch WeChat Reading Data
+      - 每日数据自动更新
+    types: [completed]
   schedule:
     - cron: '43 */3 * * *'
 permissions:
@@ -35,6 +46,7 @@ concurrency:
   cancel-in-progress: false
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:
