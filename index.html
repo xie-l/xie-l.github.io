@@ -843,7 +843,12 @@
             const d = await readSnapshot('weread');
             const widget = document.getElementById('weread-widget');
             if (!widget) return;
-            if (!d.reading && (!d.recent || d.recent.length === 0)) return;  // 无数据，不显示
+            if (!d.reading && (!d.recent || d.recent.length === 0)) {
+                widget.style.display = '';
+                const status = document.getElementById('wr-updated');
+                if (status) status.textContent = '同步异常或暂无有效阅读数据，请检查授权';
+                return;
+            }
             widget.style.display = '';
             if (d.reading) {
                 const r = d.reading;
@@ -880,17 +885,29 @@
             if (d.recent && d.recent.length > 0) {
                 const listEl = document.getElementById('wr-recent-list');
                 if (listEl) {
-                    listEl.innerHTML = d.recent.slice(0, 4).map(function(b) {
+                    listEl.replaceChildren(...d.recent.slice(0, 4).map(function(b) {
                         const finishMark = b.finished ? '✓' : (b.progress ? b.progress + '%' : '');
-                        return '<div class="wr-recent-item">' +
-                            '<span style="overflow:hidden;white-space:nowrap;text-overflow:ellipsis;max-width:130px">' + (b.title || '') + '</span>' +
-                            '<span class="wr-rt">' + finishMark + '</span></div>';
-                    }).join('');
+                        const row = document.createElement('div');
+                        row.className = 'wr-recent-item';
+                        const title = document.createElement('span');
+                        title.textContent = b.title || '';
+                        title.style.cssText = 'overflow:hidden;white-space:nowrap;text-overflow:ellipsis;max-width:130px';
+                        const mark = document.createElement('span');
+                        mark.className = 'wr-rt';
+                        mark.textContent = finishMark;
+                        row.append(title, mark);
+                        return row;
+                    }));
                 }
             }
             const updEl = document.getElementById('wr-updated');
             if (updEl && d.updated) updEl.textContent = '更新于 ' + fmtBJ(d.updated) + '（北京时间）';
-        } catch(e) { /* 静默失败 */ }
+        } catch(e) {
+            const widget = document.getElementById('weread-widget');
+            const status = document.getElementById('wr-updated');
+            if (widget) widget.style.display = '';
+            if (status) status.textContent = '暂时无法读取微信读书数据';
+        }
     })();
 
     // ========== 今日数感 / 每日五词 / 今日三问 ==========
