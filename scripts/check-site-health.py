@@ -70,8 +70,6 @@ def check_data():
             report(filename + '/' + key, fresh(x.get('updated'), hours) and validator(x), 'snapshot age and validity')
     d = local('weread')
     report('WeRead', bool(d.get('reading') and d.get('recent')) and fresh(d.get('updated'), 48), 'valid reading data within 48 hours')
-    vault = ROOT / 'obsidian-vault'
-    report('Obsidian input', vault.is_dir() and any(vault.rglob('*.md')), 'cloud runner has no local vault; local approved-note publishing remains available')
     d = local('academic')
     report('Academic', bool(d.get('author', {}).get('author_id')) and fresh(d.get('updated'), 240), 'verified author ID required')
     for filename, key in [('daily-data','data_items'),('daily-questions','questions'),('daily-keywords','keywords')]:
@@ -137,7 +135,7 @@ def check_pages():
             report('Pages snapshot '+name,False,type(exc).__name__)
 
 def check_actions():
-    for name in ['fetch-news','fetch-weather','fetch-energy','fetch-academic','fetch-weread','daily-update','sync-obsidian','daily-backup','update-site-index','site-maintenance','deploy-pages']:
+    for name in ['fetch-news','fetch-weather','fetch-energy','fetch-academic','fetch-weread','daily-update','daily-backup','update-site-index','site-maintenance','deploy-pages']:
         try:
             runs=json.loads(get(API+'actions/workflows/'+name+'.yml/runs?branch=main&status=completed&per_page=10',api=True)).get('workflow_runs',[])
             decisive = [r for r in runs if r.get('conclusion') not in ('cancelled','skipped','neutral','stale')]
