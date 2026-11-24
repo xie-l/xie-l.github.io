@@ -104,7 +104,7 @@ jobs:
                       else:
                           raise ValueError(f'insufficient rows={len(rows)}')
                   except Exception as e:
-                      print(f'[ERR] {symbol}: {e}')
+                      print(f'[ERR] {symbol}: {type(e).__name__}')
                       key = symbol.lower()
                       if symbol in ('WTI', 'BRENT'):
                           hist = get_old_history('oil', key)
@@ -146,7 +146,7 @@ jobs:
                   else:
                       raise ValueError('empty time series')
               except Exception as e:
-                  print(f'[ERR] USD/CNY: {e}')
+                  print(f'[ERR] USD/CNY: {type(e).__name__}')
                   av_results['usdcny'] = {
                       'price': '--', 'unit': 'CNY/USD', 'change': '--', 'pct': '--',
                       'trend': 'flat', 'date': '',
@@ -162,6 +162,45 @@ jobs:
                       'price': '--', 'unit': '--', 'pct': '--', 'trend': 'flat',
                       'date': '', 'history': get_old_history(*h_path), 'updated': now_utc
                   }
+
+          # Independent official FRED series; only accept actual observation dates.
+          import math
+          for key, series, unit in [('wti','DCOILWTICO','USD/桶'), ('brent','DCOILBRENTEU','USD/桶'),
+                                    ('natural_gas','DHHNGSP','USD/MMBtu'), ('usdcny','DEXCHUS','CNY/USD')]:
+              try:
+                  recent_start = (datetime.now(timezone.utc)-timedelta(days=120)).date().isoformat()
+                  source_url = 'https://fred.stlouisfed.org/graph/fredgraph.csv?id='+series+'&cosd='+recent_start
+                  csv_rows = csv.reader(io.StringIO(fetch_text(source_url)))
+                  samples = {}
+                  for row in csv_rows:
+                      if len(row) != 2:
+                          continue
+                      try:
+                          dt = datetime.strptime(row[0],'%Y-%m-%d').date()
+                          value = float(row[1])
+                          if dt <= datetime.now(timezone.utc).date() and math.isfinite(value):
+                              samples[dt.isoformat()] = value
+                      except (ValueError, TypeError):
+                          continue
+                  dates = sorted(samples)
+                  if len(dates) < 2:
+                      raise ValueError('insufficient FRED observations')
+                  date = dates[-1]
+                  current = av_results.get(key,{})
+                  # Prefer newer real observations, not newest download timestamp.
+                  if date >= str(current.get('date') or '') or current.get('price') in (None,'','--'):
+                      price, prev = samples[date], samples[dates[-2]]
+                      digits = 4 if key == 'usdcny' else 2
+                      change = price-prev
+                      pct = change/prev*100 if prev else None
+                      av_results[key] = {'price': f'{price:.{digits}f}', 'unit':unit,
+                          'change':f'{change:+.{digits}f}', 'pct':f'{pct:+.2f}%' if pct is not None else '--',
+                          'trend':'up' if change>0 else 'down' if change<0 else 'flat',
+                          'date':date,'history':[samples[d] for d in dates[-14:]],
+                          'source':'FRED','source_url':'https://fred.stlouisfed.org/series/'+series,'updated':now_utc}
+                      print(f'[OK] {key} FRED observation {date}')
+              except Exception as e:
+                  print(f'::warning::{key} FRED unavailable: {type(e).__name__}')
 
           # ── 2. AKShare：CEA + 秦皇岛动力煤 + 中证能源指数 ────────────────
           try:
@@ -183,10 +222,7 @@ jobs:
 
                   df = None
                   # energy_carbon_domestic = 全国碳市场（含各地点），优先尝试
-                  for fn in (['energy_carbon_domestic',
-                               'carbon_emission_trade_zh',
-                               'carbon_trading_emission_trade',
-                               'carbon_trading_neeq_spot'] + avail_carbon):
+                  for fn in ['energy_carbon_domestic']:
                       if fn in ('carbon_trading_neeq',):
                           continue
                       try:
@@ -199,12 +235,11 @@ jobs:
                   if df is not None and len(df) > 0:
                       # energy_carbon_domestic 含多个地点，过滤出全国碳市场数据
                       if '地点' in df.columns:
-                          for loc in ('全国', '上海', 'SHEA'):
-                              sub = df[df['地点'] == loc]
-                              if len(sub) > 0:
-                                  df = sub
-                                  print(f'[OK] Filtered CEA by 地点={loc}, rows={len(df)}')
-                                  break
+                          df = df[df['地点'].astype(str).str.strip().isin(['全国','全国碳市场','全国碳排放权交易市场'])]
+                          if df.empty:
+                              raise ValueError('no verified national CEA observations')
+                      else:
+                          raise ValueError('cannot verify CEA market identity; do not use regional quotes')
 
                       # 取最新一行（按日期排序）
                       if '日期' in df.columns:
@@ -283,12 +318,21 @@ jobs:
           if AK_OK:
               try:
                   df_eu = ak.energy_carbon_eu()
+                  if df_eu is not None and '市场交易指数' in df_eu.columns:
+                      df_eu = df_eu[df_eu['市场交易指数'].astype(str).str.strip().isin(['欧盟EUA','EUA'])]
+                  else:
+                      raise ValueError('cannot verify EUA market identity')
                   if df_eu is not None and len(df_eu) >= 2:
                       cols_eu   = list(df_eu.columns)
                       date_c    = next((c for c in cols_eu if '日期' in str(c) or 'date' in str(c).lower()), None)
                       close_c   = next((c for c in cols_eu if any(k in str(c) for k in ('收盘','close','Close','价格'))), None)
                       pct_c     = next((c for c in cols_eu if '涨跌幅' in str(c)), None)
                       chg_c     = next((c for c in cols_eu if '涨跌额' in str(c)), None)
+                      if not date_c or not close_c:
+                          raise ValueError('EUA data missing date or close')
+                      df_eu = df_eu.dropna(subset=[date_c,close_c]).sort_values(date_c)
+                      if len(df_eu) < 2:
+                          raise ValueError('insufficient valid EUA observations')
                       r1 = df_eu.iloc[-1]; r2 = df_eu.iloc[-2]
                       p_eu = float(r1[close_c]) if close_c else None
                       if p_eu:
@@ -586,7 +630,9 @@ jobs:
               current = current_parent.get(key, {})
               previous = previous_parent.get(key, {})
               field = 'index' if key == 'us_ppi' else 'price'
-              if current.get(field) in (None, '', '--') and previous.get(field) not in (None, '', '--'):
+              current_date = str(current.get('date') or current.get('period') or '')
+              previous_date = str(previous.get('date') or previous.get('period') or '')
+              if previous.get(field) not in (None, '', '--') and (current.get(field) in (None, '', '--') or (previous_date and current_date < previous_date)):
                   cached = dict(previous)
                   if key == 'coal_qhd' and 'newcastle' in current:
                       cached['newcastle'] = current['newcastle']
