@@ -108,7 +108,7 @@
                 <div class="form-group">
                     <label class="form-label" for="token">GitHub Personal Access Token</label>
                     <input type="password" id="token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxx" required>
-                    <small style="color: var(--text-light);">在 GitHub Settings > Developer settings > Personal access tokens 中生成</small>
+                    <small style="color: var(--text-light);">使用仅授权本仓库 Contents 读写的细粒度 Token。关闭标签页后需重新登录；请勿使用全账号 Token。</small>
                 </div>
                 
                 <div class="form-group">
@@ -132,7 +132,8 @@
             e.preventDefault();
             
             const token = document.getElementById('token').value;
-            const repo = document.getElementById('repo').value;
+            const repo = document.getElementById('repo').value.trim();
+            if (repo !== 'xie-l.github.io') { showAlert('仅允许管理本科研主页仓库', 'error'); return; }
             
             // 验证token格式
             if (!token.startsWith('ghp_') && !token.startsWith('github_pat_')) {
@@ -140,12 +141,13 @@
                 return;
             }
             
-            // 保存到localStorage
-            localStorage.setItem('github_token', token);
-            localStorage.setItem('github_repo', repo);
-            localStorage.setItem('github_owner', repo.split('.')[0]);
+            // 本次标签页内临时保存；不保留持久 Token
+            try { ['github_token','github_repo','github_owner'].forEach(k => localStorage.removeItem(k)); } catch (_) {}
+            sessionStorage.setItem('github_token', token);
+            sessionStorage.setItem('github_repo', repo);
+            sessionStorage.setItem('github_owner', repo.split('.')[0]);
             
-            showAlert('登录成功！正在跳转...', 'success');
+            showAlert('临时凭据已保存，进入管理页面（实际权限以 GitHub API 为准）', 'success');
             
             setTimeout(() => {
                 window.location.href = 'dashboard.html';
