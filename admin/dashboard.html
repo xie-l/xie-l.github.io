@@ -660,9 +660,9 @@ document.querySelectorAll('.nav-btn[data-section]').forEach(function(btn) {
 });
 
 function fillSettings() {
-    const t = localStorage.getItem('github_token') || '';
-    const o = localStorage.getItem('github_owner') || '—';
-    const r = localStorage.getItem('github_repo')  || '—';
+    const t = sessionStorage.getItem('github_token') || '';
+    const o = sessionStorage.getItem('github_owner') || '—';
+    const r = sessionStorage.getItem('github_repo')  || '—';
     document.getElementById('settings-token').textContent = t ? t.slice(0,4)+'●●●●'+t.slice(-4) : '未配置';
     document.getElementById('settings-owner').textContent = o;
     document.getElementById('settings-repo').textContent  = r;
