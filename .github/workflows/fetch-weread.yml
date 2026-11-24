@@ -42,12 +42,7 @@ jobs:
           cookie = os.environ.get('WEREAD_COOKIE', '').strip()
 
           if not cookie:
-              print('[WARN] WEREAD_COOKIE not set, writing empty placeholder.')
-              result = {'reading': None, 'recent': [], 'updated': now_utc, 'error': 'WEREAD_COOKIE 未配置'}
-              os.makedirs('data', exist_ok=True)
-              with open('data/weread.json', 'w', encoding='utf-8') as f:
-                  json.dump(result, f, ensure_ascii=False, indent=2)
-              exit(0)
+              raise RuntimeError('WEREAD_COOKIE 未配置；保留最近一次有效数据')
 
           HEADERS = {
               'Cookie':     cookie,
@@ -67,7 +62,11 @@ jobs:
 
           try:
               shelf = api_get('https://weread.qq.com/web/shelf/sync?synckey=0&virtualGroupId=0')
+              if not isinstance(shelf, dict) or shelf.get('errcode') or shelf.get('errorCode') or shelf.get('error'):
+                  raise RuntimeError('书架接口返回错误；请检查授权有效性')
               books = shelf.get('books') or shelf.get('shelf') or shelf.get('bookList') or []
+              if not isinstance(books, list) or not books:
+                  raise RuntimeError('书架为空或响应结构已变化；不覆盖历史有效数据')
               print(f'[OK] shelf: {len(books)} books, bookProgress: {len(shelf.get("bookProgress", []))}')
 
                       # 按最近阅读时间排序（bookProgress 字段记录每本的最后阅读时间）
@@ -123,6 +122,9 @@ jobs:
           except Exception as e:
               raise RuntimeError('书架请求失败，保留上次数据') from e
 
+          if not reading or not recent:
+              raise RuntimeError('没有解析到有效书籍；不覆盖历史有效数据')
+
           result = {
               'reading': reading,
               'recent':  recent[:5],
@@ -134,6 +136,10 @@ jobs:
               json.dump(result, f, ensure_ascii=False, indent=2)
           print(f'Wrote data/weread.json: reading={reading and reading["title"]}, recent={len(recent)}')
           PYEOF
+
+      - name: Report synchronization failure
+        if: failure()
+        run: echo '微信读书同步失败：检查 WEREAD_COOKIE、接口授权或响应格式；历史数据未被覆盖。' >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push
         run: |
