@@ -1,35 +1,224 @@
 {
-  "updated": "2026-11-24",
-  "source": "PubMed / Royal Society of Chemistry",
+  "updated": "2026-11-24 01:39 UTC",
+  "source": "Semantic Scholar",
   "author": {
+    "author_id": "14696333",
     "name": "Liang Xie",
-    "paper_count": null,
-    "citation_count": null,
-    "h_index": null
+    "paper_count": 34,
+    "citation_count": 901,
+    "h_index": 18
   },
-  "verified_publication_count": 3,
   "top_papers": [
     {
-      "title": "Elucidating the impact of oxygen functional groups on the catalytic activity of M-N4-C catalysts for the oxygen reduction reaction: a density functional theory and machine learning approach",
-      "year": 2024,
-      "citations": null,
-      "venue": "Materials Horizons",
-      "doi": "10.1039/d3mh02115g"
+      "title": "Selective H2O2 electrosynthesis by O-doped and transition-metal-O-doped carbon cathodes via O2 electroreduction: A critical review",
+      "year": 2021,
+      "citations": 160,
+      "venue": "",
+      "doi": "10.1016/j.cej.2020.128368"
     },
     {
-      "title": "Edge-doped substituents as an emerging atomic-level strategy for enhancing M-N4-C single-atom catalysts in electrocatalysis of the ORR, OER, and HER",
+      "title": "Pulsed Electrocatalysis Enables the Stabilization and Activation of Carbon-Based Catalysts Towards H2o2 Production",
+      "year": 2022,
+      "citations": 80,
+      "venue": "Social Science Research Network",
+      "doi": "10.2139/ssrn.4067023"
+    },
+    {
+      "title": "Revealing the In Situ Dynamic Regulation of the Interfacial Microenvironment Induced by Pulsed Electrocatalysis in the Oxygen Reduction Reaction",
+      "year": 2023,
+      "citations": 65,
+      "venue": "ACS Energy Letters",
+      "doi": "10.1021/acsenergylett.3c00758"
+    },
+    {
+      "title": "O-doped Graphitic Granular Biochar Enables Pollutants Removal via Simultaneous H2O2 Generation and Activation in Neutral Fe-free Electro-Fenton Process",
+      "year": 2021,
+      "citations": 47,
+      "venue": "Separation and Purification Technology",
+      "doi": "10.1016/J.SEPPUR.2021.118327"
+    },
+    {
+      "title": "Pulsed dynamic electrolysis enhanced PEMWE hydrogen production: Revealing the effects of pulsed electric fields on protons mass transport and hydrogen bubble escape",
+      "year": 2024,
+      "citations": 43,
+      "venue": "Journal of Energy Chemistry",
+      "doi": "10.1016/j.jechem.2024.08.033"
+    },
+    {
+      "title": "Pulsed Electrocatalysis Enables Efficient 2-electron Oxygen Reduction Reaction for H2O2 Production",
+      "year": 2021,
+      "citations": 43,
+      "venue": "",
+      "doi": ""
+    },
+    {
+      "title": "Understanding the activity origin of oxygen-doped carbon materials in catalyzing the two-electron oxygen reduction reaction towards hydrogen peroxide generation.",
+      "year": 2021,
+      "citations": 42,
+      "venue": "Journal of Colloid and Interface Science",
+      "doi": "10.1016/j.jcis.2021.11.144"
+    },
+    {
+      "title": "Lanthanum–Bismuth Mixed Oxide Catalyst with Improved Activity for Carbonyl Sulfide Hydrolysis",
+      "year": 2023,
+      "citations": 36,
+      "venue": "Journal of Environmental Chemical Engineering",
+      "doi": "10.1016/j.jece.2023.109830"
+    },
+    {
+      "title": "Rapid, simple and sustainable preparation of N-rich activated carbons with high performance for gas adsorption, via microwave heating",
+      "year": 2023,
+      "citations": 34,
+      "venue": "Separation and Purification Technology",
+      "doi": "10.1016/j.seppur.2023.125464"
+    },
+    {
+      "title": "Experimental and numerical studies on the heating mechanism of millimeter multi-particle system under microwave irradiation",
+      "year": 2022,
+      "citations": 29,
+      "venue": "Journal of the Energy Institute",
+      "doi": "10.1016/j.joei.2022.03.010"
+    },
+    {
+      "title": "Self-sacrificing and self-supporting biomass carbon anode–assisted water electrolysis for low-cost hydrogen production",
+      "year": 2024,
+      "citations": 27,
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "doi": "10.1073/pnas.2316352121"
+    },
+    {
+      "title": "Efficient production of activated carbon with well-developed pore structure based on fast pyrolysis-physical activation",
+      "year": 2024,
+      "citations": 26,
+      "venue": "Journal of the Energy Institute",
+      "doi": "10.1016/j.joei.2024.101685"
+    },
+    {
+      "title": "Enhanced hydrogen production enabled by pulsed potential coupled sulfite electrooxidation water electrolysis system",
+      "year": 2024,
+      "citations": 26,
+      "venue": "Renewable Energy",
+      "doi": "10.1016/j.renene.2024.120464"
+    },
+    {
+      "title": "Edge and defect sites in porous activated coke enable highly efficient carbon-assisted water electrolysis for energy-saving hydrogen production",
+      "year": 2022,
+      "citations": 26,
+      "venue": "Renewable Energy",
+      "doi": "10.1016/j.renene.2022.06.037"
+    },
+    {
+      "title": "Insight the OER and CER selectivity of single-atom catalysts for seawater splitting: A DFT perspective",
+      "year": 2024,
+      "citations": 24,
+      "venue": "International journal of hydrogen energy",
+      "doi": "10.1016/j.ijhydene.2024.09.457"
+    },
+    {
+      "title": "The enhancement mechanism of the microwave-assisted toluene desorption for activated carbon regeneration based on the constructive interference",
+      "year": 2022,
+      "citations": 23,
+      "venue": "Journal of Cleaner Production",
+      "doi": "10.1016/j.jclepro.2022.134542"
+    },
+    {
+      "title": "Rapid preparation strategy of highly microporous activated carbons for gas adsorption, via tunable-energy-density microwave heating",
+      "year": 2024,
+      "citations": 22,
+      "venue": "Renewable Energy",
+      "doi": "10.1016/j.renene.2024.120260"
+    },
+    {
+      "title": "Oxygen-rich Hierarchical Activated Coke-based Gas Diffusion Electrode Enables Highly Efficient H2O2 Synthesis via O2 Electroreduction",
+      "year": 2022,
+      "citations": 20,
+      "venue": "Separation and Purification Technology",
+      "doi": "10.1016/j.seppur.2022.122740"
+    },
+    {
+      "title": "Scalable confined-space microwave heating strategy enables the rapid preparation of N/O co-doped activated carbons with high gas capture capacity",
+      "year": 2024,
+      "citations": 17,
+      "venue": "Carbon",
+      "doi": "10.1016/j.carbon.2024.119152"
+    },
+    {
+      "title": "Mechanistic insights into the role of alkali metal activation in CO2 adsorption by nitrogen-doped coal-based carbon materials",
       "year": 2025,
-      "citations": null,
+      "citations": 13,
+      "venue": "RSC Advances",
+      "doi": "10.1039/d5ra06428g"
+    },
+    {
+      "title": "Edge-doped substituents as an emerging atomic-level strategy for enhancing M-N4-C single-atom catalysts in electrocatalysis of the ORR, OER, and HER.",
+      "year": 2024,
+      "citations": 13,
       "venue": "Nanoscale Horizons",
       "doi": "10.1039/d4nh00424h"
     },
     {
+      "title": "Enhancing Inter-Particle Microwave Discharge for Efficient Coke-Co2 Gasification Without the Addition of Catalyst",
+      "year": 2023,
+      "citations": 13,
+      "venue": "Social Science Research Network",
+      "doi": "10.2139/ssrn.4401621"
+    },
+    {
+      "title": "Fe(III)-Cycle Enhanced Carbon Oxidation Reaction for Low-Energy Hydrogen Production via Water Electrolysis",
+      "year": 2024,
+      "citations": 12,
+      "venue": "Renewable Energy",
+      "doi": "10.1016/j.renene.2024.121786"
+    },
+    {
+      "title": "Mechanism of hydrogen bubble behavior at different reaction stages of high-current PEMWE during pulsed dynamic electrolysis",
+      "year": 2025,
+      "citations": 9,
+      "venue": "Renewable Energy",
+      "doi": "10.1016/j.renene.2025.124117"
+    },
+    {
+      "title": "Heat and mass transfer simulation of the microwave-assisted toluene desorption for activated carbons regeneration.",
+      "year": 2024,
+      "citations": 9,
+      "venue": "Environmental Research",
+      "doi": "10.1016/j.envres.2024.118671"
+    },
+    {
+      "title": "Preparation of ultramicroporous carbon for gas adsorption through oxygen-rich precursor-enhanced chemical activation.",
+      "year": 2025,
+      "citations": 8,
+      "venue": "Environmental Research",
+      "doi": "10.1016/j.envres.2025.121573"
+    },
+    {
+      "title": "Elucidating the impact of oxygen functional groups on the catalytic activity of M-N4-C catalysts for the oxygen reduction reaction: a density functional theory and machine learning approach.",
+      "year": 2024,
+      "citations": 7,
+      "venue": "Materials Horizons",
+      "doi": "10.1039/d3mh02115g"
+    },
+    {
+      "title": "Probing the Role of Pore Architecture of Carbon Support in the Stability of Iron Phthalocyanine during Oxygen Reduction",
+      "year": 2024,
+      "citations": 7,
+      "venue": "ACS Sustainable Chemistry &amp; Engineering",
+      "doi": "10.1021/acssuschemeng.4c00744"
+    },
+    {
+      "title": "Microwave-assisted synthesis of Mg-gallate for efficient CO2 capture",
+      "year": 2023,
+      "citations": 7,
+      "venue": "Materials Today Sustainability",
+      "doi": "10.1016/j.mtsust.2023.100356"
+    },
+    {
       "title": "Effect of molecular size on the electrocatalytic activity of M-N4-C catalysts for ORR, OER, and HER",
       "year": 2025,
-      "citations": null,
+      "citations": 6,
       "venue": "Journal of Materials Chemistry A",
       "doi": "10.1039/d4ta07699k"
     }
   ],
-  "note": "已通过 DOI 核验三篇主页列出的第一作者论文。此前同名作者统计已移除；完整论文数量、引用和 h-index 待学术数据库作者 ID 交叉确认。"
+  "note": "数据来自 Semantic Scholar，每周自动更新。"
 }
