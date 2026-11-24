@@ -4,9 +4,9 @@ const GITHUB_API_BASE = 'https://api.github.com';
 // 获取存储的凭据
 function getStoredCredentials() {
     return {
-        token: localStorage.getItem('github_token'),
-        repo: localStorage.getItem('github_repo'),
-        owner: localStorage.getItem('github_owner')
+        token: sessionStorage.getItem('github_token'),
+        repo: sessionStorage.getItem('github_repo'),
+        owner: sessionStorage.getItem('github_owner')
     };
 }
 
@@ -22,9 +22,9 @@ function checkAuth() {
 
 // 退出登录
 function logout() {
-    localStorage.removeItem('github_token');
-    localStorage.removeItem('github_repo');
-    localStorage.removeItem('github_owner');
+    sessionStorage.removeItem('github_token');
+    sessionStorage.removeItem('github_repo');
+    sessionStorage.removeItem('github_owner');
     window.location.href = 'login.html';
 }
 
@@ -1151,7 +1151,7 @@ async function runBidirectionalSync(dryRun) {
     }
     
     // 1. Get GitHub token
-    const token = localStorage.getItem('github_token');
+    const token = sessionStorage.getItem('github_token');
     if (!token) {
         resultDiv.style.display = 'block';
         resultDiv.className = 'alert alert-error show';
