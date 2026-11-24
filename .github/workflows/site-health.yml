@@ -1,0 +1,63 @@
+name: Site Health and Alerts
+on:
+  schedule:
+    - cron: '51 1 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: site-health
+  cancel-in-progress: false
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Check source syntax
+        run: |
+          python3 -m py_compile scripts/check-site-health.py scripts/archive/daily_update.py
+          node --check js/site-health.js
+          bash -n scripts/build-public-site.sh scripts/push-data-update.sh
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          import subprocess, tempfile
+          class Scripts(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.active=False
+                  self.buf=[]
+                  self.scripts=[]
+              def handle_starttag(self, tag, attrs):
+                  if tag=='script':
+                      a=dict(attrs)
+                      self.active=not a.get('src') and a.get('type','text/javascript') in ('text/javascript','application/javascript','module')
+                      self.buf=[]
+              def handle_data(self, data):
+                  if self.active: self.buf.append(data)
+              def handle_endtag(self,tag):
+                  if tag=='script' and self.active:
+                      self.scripts.append(''.join(self.buf))
+                      self.active=False
+          p=Scripts()
+          p.feed(Path('index.html').read_text(encoding='utf-8'))
+          for i,s in enumerate(p.scripts):
+              with tempfile.NamedTemporaryFile(suffix='.js',mode='w',encoding='utf-8') as f:
+                  f.write(s)
+                  f.flush()
+                  subprocess.run(['node','--check',f.name],check=True)
+          PY
+      - name: Check actual data, published site and workflows
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ALERT_SMTP_HOST: ${{ secrets.ALERT_SMTP_HOST }}
+          ALERT_SMTP_USER: ${{ secrets.ALERT_SMTP_USER }}
+          ALERT_SMTP_PASSWORD: ${{ secrets.ALERT_SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python3 scripts/check-site-health.py
