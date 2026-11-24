@@ -207,6 +207,71 @@ jobs:
               except Exception as e:
                   print(f'::warning::{key} FRED unavailable: {type(e).__name__}')
 
+          # ── 1b. Yahoo Finance fallback for stale FRED commodity observations ──
+          # These are continuous futures, not spot prices; label the market type explicitly.
+          from zoneinfo import ZoneInfo
+          from urllib.parse import quote
+          for key, ticker, unit, label in [
+              ('wti', 'CL=F', 'USD/桶', 'WTI期货主力连续合约'),
+              ('brent', 'BZ=F', 'USD/桶', 'Brent期货主力连续合约'),
+              ('natural_gas', 'NG=F', 'USD/MMBtu', 'Henry Hub天然气期货主力连续合约')
+          ]:
+              current = av_results.get(key, {})
+              try:
+                  current_date = datetime.strptime(str(current.get('date') or '1900-01-01'), '%Y-%m-%d').date()
+              except ValueError:
+                  current_date = datetime(1900, 1, 1).date()
+              if current_date >= datetime.now(timezone.utc).date() - timedelta(days=3):
+                  print(f'[OK] {key}: existing observation is recent ({current_date})')
+                  continue
+              try:
+                  url = 'https://query1.finance.yahoo.com/v8/finance/chart/' + quote(ticker, safe='') + '?range=1mo&interval=1d'
+                  request = urllib.request.Request(url, headers={
+                      'User-Agent': 'Mozilla/5.0 (compatible; xie-l-energy-dashboard/1.0)',
+                      'Accept': 'application/json'
+                  })
+                  with urllib.request.urlopen(request, timeout=20) as response:
+                      payload = json.load(response)
+                  results = payload.get('chart', {}).get('result') or []
+                  if not results:
+                      raise ValueError('Yahoo chart returned no result')
+                  chart = results[0]
+                  meta = chart.get('meta', {})
+                  zone = ZoneInfo(meta.get('exchangeTimezoneName') or 'America/Chicago')
+                  closes = (chart.get('indicators', {}).get('quote') or [{}])[0].get('close') or []
+                  observations = []
+                  for ts, close in zip(chart.get('timestamp') or [], closes):
+                      if close is None:
+                          continue
+                      observed = datetime.fromtimestamp(int(ts), timezone.utc).astimezone(zone).date()
+                      value = float(close)
+                      if observed <= datetime.now(timezone.utc).date() and math.isfinite(value) and value > 0:
+                          observations.append((observed, value))
+                  observations.sort(key=lambda item: item[0])
+                  if len(observations) < 2:
+                      raise ValueError('Yahoo chart has fewer than two valid daily closes')
+                  observed, price = observations[-1]
+                  previous_date, previous = observations[-2]
+                  if observed <= current_date:
+                      raise ValueError(f'Yahoo observation {observed} is not newer than existing {current_date}')
+                  change = price - previous
+                  pct = change / previous * 100 if previous else None
+                  history = [round(value, 4) for _, value in observations[-14:]]
+                  av_results[key] = {
+                      'price': f'{price:.2f}', 'unit': unit,
+                      'change': f'{change:+.2f}', 'pct': f'{pct:+.2f}%' if pct is not None else '--',
+                      'trend': 'up' if change > 0 else 'down' if change < 0 else 'flat',
+                      'date': observed.isoformat(), 'history': history,
+                      'source': 'Yahoo Finance（连续期货合约）',
+                      'source_url': 'https://finance.yahoo.com/quote/' + ticker + '/',
+                      'label': label, 'market_type': 'continuous_futures',
+                      'note': 'FRED观测超过3天时启用；此值为期货连续合约，不等同于现货价格。',
+                      'updated': now_utc
+                  }
+                  print(f'[OK] {key} Yahoo futures observation {observed}; replaced stale observation {current_date}')
+              except Exception as e:
+                  print(f'::warning::{key} Yahoo fallback unavailable: {type(e).__name__}: {e}')
+
           # ── 2. AKShare：CEA + 秦皇岛动力煤 + 中证能源指数 ────────────────
           try:
               import akshare as ak

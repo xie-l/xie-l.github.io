@@ -77,8 +77,8 @@ def check_data():
         report(filename, d.get('date') in (str(TODAY), str(TODAY-timedelta(days=1))) and bool(d.get(key)), 'daily generated snapshot')
     d = local('energy')
     for name, obj, limit in [
-        ('WTI', d.get('oil',{}).get('wti',{}), 216), ('Brent', d.get('oil',{}).get('brent',{}), 216),
-        ('Natural gas', d.get('natgas',{}),216), ('FX', d.get('usdcny',{}),144),
+        ('WTI', d.get('oil',{}).get('wti',{}), 96), ('Brent', d.get('oil',{}).get('brent',{}), 96),
+        ('Natural gas', d.get('natgas',{}),96), ('FX', d.get('usdcny',{}),144),
         ('Coal', d.get('coal_qhd',{}),144), ('Energy index', d.get('energy_index',{}),144),
         ('CEA',d.get('carbon',{}).get('cea',{}),144), ('EUA',d.get('carbon',{}).get('eua',{}),144),
         ('Newcastle monthly',d.get('coal_qhd',{}).get('newcastle',{}),2160),

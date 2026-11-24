@@ -4,6 +4,7 @@ import os
 import sys
 import urllib.request
 import urllib.error
+import time
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -18,33 +19,44 @@ def defer(reason):
 key=os.environ.get('WEREAD_API_KEY','').strip()
 if not key.startswith('wrk-'):
     defer('需要在 GitHub Actions Secret 设置官方 WEREAD_API_KEY')
-try:
-    body=json.dumps({'api_name':'/shelf/sync','skill_version':'1.0.6'}).encode()
-    request=urllib.request.Request('https://i.weread.qq.com/api/agent/gateway',data=body,
-        headers={'Authorization':'Bearer '+key,'Content-Type':'application/json','Accept':'application/json','User-Agent':'WeRead public shelf dashboard'})
-    with urllib.request.urlopen(request,timeout=25) as response:
-        result=json.load(response)
-except urllib.error.HTTPError as exc:
-    # Classify the server response without printing the response, key or account details.
-    reason = '检查授权、接口参数或服务状态'
+result=None
+for attempt in range(3):
     try:
-        error = json.loads(exc.read(8192))
-        if isinstance(error,dict):
-            code = error.get('errcode')
-            if isinstance(code,int) and not isinstance(code,bool):
-                reason += '；业务错误码 '+str(code)
-            message = ' '.join(str(error.get(k,'')) for k in ('errmsg','message','msg')).lower()
-            if any(x in message for x in ('version','版本','upgrade','升级')):
-                reason += '；服务端提示版本问题'
-            elif any(x in message for x in ('permission','unauthorized','授权','权限','apikey','api key')):
-                reason += '；服务端提示授权问题'
-            elif any(x in message for x in ('parameter','参数')):
-                reason += '；服务端提示参数问题'
-    except (ValueError,OSError):
-        pass
-    defer('官方接口 HTTP '+str(exc.code)+'；'+reason)
-except (OSError,ValueError):
-    defer('官方接口暂不可用或响应格式异常')
+        body=json.dumps({'api_name':'/shelf/sync','skill_version':'1.0.6'}).encode()
+        request=urllib.request.Request('https://i.weread.qq.com/api/agent/gateway',data=body,
+            headers={'Authorization':'Bearer '+key,'Content-Type':'application/json','Accept':'application/json','User-Agent':'WeRead public shelf dashboard'})
+        with urllib.request.urlopen(request,timeout=25) as response:
+            result=json.load(response)
+        break
+    except urllib.error.HTTPError as exc:
+        if exc.code in (408,425,429,499,500,502,503,504) and attempt < 2:
+            print('WeRead transient HTTP '+str(exc.code)+'; retry '+str(attempt+1)+'/2')
+            time.sleep(3*(attempt+1))
+            continue
+        # Classify the server response without printing the response, key or account details.
+        reason = '检查授权、接口参数或服务状态'
+        try:
+            error = json.loads(exc.read(8192))
+            if isinstance(error,dict):
+                code = error.get('errcode')
+                if isinstance(code,int) and not isinstance(code,bool):
+                    reason += '；业务错误码 '+str(code)
+                message = ' '.join(str(error.get(k,'')) for k in ('errmsg','message','msg')).lower()
+                if any(x in message for x in ('version','版本','upgrade','升级')):
+                    reason += '；服务端提示版本问题'
+                elif any(x in message for x in ('permission','unauthorized','授权','权限','apikey','api key')):
+                    reason += '；服务端提示授权问题'
+                elif any(x in message for x in ('parameter','参数')):
+                    reason += '；服务端提示参数问题'
+        except (ValueError,OSError):
+            pass
+        defer('官方接口 HTTP '+str(exc.code)+'；'+reason)
+    except (OSError,ValueError) as exc:
+        if attempt < 2:
+            print('WeRead transient request/response error; retry '+str(attempt+1)+'/2')
+            time.sleep(3*(attempt+1))
+            continue
+        defer('官方接口暂不可用或响应格式异常：'+type(exc).__name__)
 if not isinstance(result,dict) or result.get('errcode',0) not in (0,'0',None):
     defer('官方接口返回异常')
 shelf=result.get('data',result)

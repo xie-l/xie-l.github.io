@@ -61,7 +61,7 @@
       ['微信读书','weread',d=>d.reading&&d.recent?.length&&fresh(d.updated,48)?['正常',d.updated]:['待恢复','无有效阅读数据或同步过期；检查微信读书授权']],
       ['学术统计','academic',d=>d.author?.author_id&&fresh(d.updated,240)?['正常',d.updated]:['需检查','作者身份尚未确认或数据过期']],
       ['每日学习后台','daily-data',d=>d.date===today&&d.data_items?.length?['正常',d.date]:['需检查','后台日期 '+(d.date||'未知')+'；前端轮换独立运行']],
-      ['能源行情','energy',d=>{const list=[['WTI',d.oil?.wti],['Brent',d.oil?.brent],['天然气',d.natgas],['汇率',d.usdcny],['煤炭',d.coal_qhd],['能源指数',d.energy_index],['CEA',d.carbon?.cea],['EUA',d.carbon?.eua]];const bad=list.filter(([n,x])=>!validPrice(x?.price)||!fresh(x?.date,['WTI','Brent','天然气'].includes(n)?216:144)).map(([n])=>n);return bad.length?['需检查',bad.join('、')+' 缺失或滞后']:['正常',d.updated||'有效'];}]
+      ['能源行情','energy',d=>{const list=[['WTI',d.oil?.wti],['Brent',d.oil?.brent],['天然气',d.natgas],['汇率',d.usdcny],['煤炭',d.coal_qhd],['能源指数',d.energy_index],['CEA',d.carbon?.cea],['EUA',d.carbon?.eua]];const bad=list.filter(([n,x])=>!validPrice(x?.price)||!fresh(x?.date,['WTI','Brent','天然气'].includes(n)?96:144)).map(([n])=>n);return bad.length?['需检查',bad.join('、')+' 缺失或滞后']:['正常',d.updated||'有效'];}]
     ];
     const result = await Promise.all(checks.map(async ([name,file,check])=>{
       try {return [name,...check(await get(raw+file+'.json'))];}
