@@ -1,22 +1,8 @@
 name: Deploy Public Pages
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '43 */3 * * *'
-  workflow_run:
-    workflows:
-      - Fetch News Feeds
-      - Fetch Weather Data
-      - Fetch Energy Market Data
-      - Fetch Academic Stats
-      - Fetch WeChat Reading Data
-      - 每日数据自动更新
-      - Sync Obsidian to Blog
-      - Update Site Index
-    types: [completed]
-    branches: [main]
 permissions:
   contents: read
   actions: read
@@ -24,10 +10,9 @@ permissions:
   id-token: write
 concurrency:
   group: custom-public-pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 jobs:
   deploy:
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     environment:
@@ -54,6 +39,6 @@ jobs:
         with:
           path: _site
       - name: Allow artifact metadata to propagate
-        run: sleep 10
+        run: sleep 15
       - uses: actions/deploy-pages@v4
         id: deployment

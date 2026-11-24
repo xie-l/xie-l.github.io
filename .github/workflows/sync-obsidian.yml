@@ -44,31 +44,37 @@ jobs:
         with:
           fetch-depth: 0
       
+      - name: Check approved sync input
+        id: input
+        run: |
+          if test -d obsidian-vault && find obsidian-vault -type f -name '*.md' -print -quit | grep -q .; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Obsidian sync waiting for approved input; no data changed."
+            echo 'Obsidian：缺少已授权公开的同步输入，本次未执行同步。' >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Setup Node.js
+        if: steps.input.outputs.available == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
       
       - name: Install dependencies
+        if: steps.input.outputs.available == 'true'
         run: npm ci
       
       - name: Run dry-run sync
-        if: github.event.inputs.sync_type == 'dry-run' || github.event_name == 'push'
+        if: steps.input.outputs.available == 'true' && (github.event.inputs.sync_type == 'dry-run' || github.event_name == 'push')
         run: npm run sync:obsidian:dry-run
       
-      - name: Require explicitly published vault input
-        if: github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule' || github.event_name == 'push'
-        run: |
-          if ! test -d obsidian-vault || ! find obsidian-vault -type f -name '*.md' -print -quit | grep -q .; then
-            echo "::error::No Obsidian input files available. Use a private vault and publish only approved notes."
-            exit 1
-          fi
       - name: Run full sync
-        if: github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule' || github.event_name == 'push'
+        if: steps.input.outputs.available == 'true' && (github.event.inputs.sync_type == 'full-sync' || github.event_name == 'schedule' || github.event_name == 'push')
         run: npm run sync:obsidian
       
       - name: Check for changes
+        if: steps.input.outputs.available == 'true'
         id: changes
         run: |
           if [ -z "$(git status --porcelain)" ]; then
@@ -90,7 +96,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Upload sync logs
-        if: always()
+        if: always() && steps.input.outputs.available == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: sync-logs-${{ github.run_number }}

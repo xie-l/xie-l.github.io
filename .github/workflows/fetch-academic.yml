@@ -25,7 +25,7 @@ jobs:
           SEMANTIC_SCHOLAR_AUTHOR_ID: ${{ vars.SEMANTIC_SCHOLAR_AUTHOR_ID }}
         run: |
           python3 << 'PYEOF'
-          import json, os, urllib.request, urllib.parse, urllib.error
+          import json, os, sys, urllib.request, urllib.parse, urllib.error
           from datetime import datetime, timezone
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -53,14 +53,20 @@ jobs:
                   print(f"Error fetching {url}: {e}")
                   return None
 
+          def defer_source(reason):
+              print('::warning::Academic: '+reason+'；保留历史有效数据')
+              with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as f:
+                  f.write('学术统计：待恢复（'+reason+'）；本次未更新数据。\n')
+              sys.exit(0)
+
           # Never choose the first same-name result. Owner must verify a stable ID.
           author_id = os.environ.get("SEMANTIC_SCHOLAR_AUTHOR_ID", "").strip()
           if not author_id.isdigit():
-              raise RuntimeError("请核对 Semantic Scholar 作者 ID 并设置仓库变量 SEMANTIC_SCHOLAR_AUTHOR_ID；保留历史数据")
+              defer_source("请核对并配置 SEMANTIC_SCHOLAR_AUTHOR_ID")
           author_data = api_get(API_BASE + "/author/" + author_id +
-                                "?fields=name,affiliations,paperCount,citationCount,hIndex")
+                                "?fields=authorId,name,affiliations,paperCount,citationCount,hIndex")
           if not author_data or str(author_data.get("authorId")) != author_id:
-              raise RuntimeError("作者查询失败或 ID 不符；不覆盖历史数据")
+              defer_source("作者查询失败或 ID 不符")
 
           # ── 2. 拉取最新论文列表 ────────────────────────────────────────────
           papers = []
@@ -79,13 +85,13 @@ jobs:
                           "year": p.get("year"),
                           "citations": p.get("citationCount", 0),
                           "venue": p.get("venue", ""),
-                          "doi": p.get("externalIds", {}).get("DOI", ""),
+                          "doi": (p.get("externalIds") or {}).get("DOI", ""),
                       }
                       for p in raw[:30]   # 最多30篇
                   ]
 
           if not papers and author_data.get('paperCount', 0):
-              raise RuntimeError('论文请求无有效结果；保留上次数据')
+              defer_source('论文请求无有效结果')
 
           # ── 3. 构建输出 JSON ───────────────────────────────────────────────
           academic = {

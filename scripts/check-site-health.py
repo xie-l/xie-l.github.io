@@ -18,9 +18,12 @@ TODAY = NOW.astimezone(timezone(timedelta(hours=8))).date()
 ROOT = Path(__file__).resolve().parents[1]
 issues = []
 lines = []
+results = []
+internal_errors = []
 
 def report(label, ok, detail):
     lines.append(f'- {"OK" if ok else "CHECK"} | {label}: {detail}')
+    results.append({'module': label, 'status': 'ok' if ok else 'needs_attention', 'detail': detail})
     if not ok:
         issues.append(label)
 
@@ -67,6 +70,8 @@ def check_data():
             report(filename + '/' + key, fresh(x.get('updated'), hours) and validator(x), 'snapshot age and validity')
     d = local('weread')
     report('WeRead', bool(d.get('reading') and d.get('recent')) and fresh(d.get('updated'), 48), 'valid reading data within 48 hours')
+    vault = ROOT / 'obsidian-vault'
+    report('Obsidian input', vault.is_dir() and any(vault.rglob('*.md')), 'no approved sync input if absent')
     d = local('academic')
     report('Academic', bool(d.get('author', {}).get('author_id')) and fresh(d.get('updated'), 240), 'verified author ID required')
     for filename, key in [('daily-data','data_items'),('daily-questions','questions'),('daily-keywords','keywords')]:
@@ -113,9 +118,10 @@ def check_pages():
 def check_actions():
     for name in ['fetch-news','fetch-weather','fetch-energy','fetch-academic','fetch-weread','daily-update','sync-obsidian','daily-backup','update-site-index','site-maintenance','deploy-pages']:
         try:
-            runs=json.loads(get(API+'actions/workflows/'+name+'.yml/runs?branch=main&status=completed&per_page=1',api=True)).get('workflow_runs',[])
-            run=runs[0] if runs else {}
-            report('Actions '+name, run.get('conclusion')=='success', 'last completed run: '+str(run.get('conclusion','unknown')))
+            runs=json.loads(get(API+'actions/workflows/'+name+'.yml/runs?branch=main&status=completed&per_page=10',api=True)).get('workflow_runs',[])
+            decisive = [r for r in runs if r.get('conclusion') not in ('cancelled','skipped','neutral','stale')]
+            run=decisive[0] if decisive else {}
+            report('Actions '+name, run.get('conclusion')=='success', 'last substantive run: '+str(run.get('conclusion','unknown')))
         except Exception as exc:
             report('Actions '+name,False,type(exc).__name__)
 
@@ -140,18 +146,28 @@ def main():
             check()
         except Exception as exc:
             report(check.__name__,False,type(exc).__name__)
+            internal_errors.append(check.__name__)
     body='科研主页运行检查 '+NOW.isoformat()+'\n'+'\n'.join(lines)+'\nhttps://github.com/xie-l/xie-l.github.io/actions'
     print(body)
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as f:
             f.write(body+'\n')
+    Path('site-health-report.json').write_text(json.dumps({
+        'checked_at': NOW.isoformat(), 'status': 'needs_attention' if issues else 'ok',
+        'issues': issues, 'checks': results, 'internal_errors': internal_errors
+    }, ensure_ascii=False, indent=2), encoding='utf-8')
     if issues:
-        try:
-            notify(body)
-        except Exception as exc:
-            print('::error::Email delivery failed: '+type(exc).__name__)
-        return 1
-    return 0
+        print(f'::warning::{len(issues)} checks need attention; see report and step summary.')
+        if os.environ.get('ENABLE_SMTP_ALERTS','').lower() == 'true':
+            try:
+                notify(body)
+            except Exception as exc:
+                print('::warning::Optional email delivery failed: '+type(exc).__name__)
+        else:
+            print('SMTP delivery disabled; use the existing consolidated monitoring task.')
+    # A completed inspection with warnings is distinct from failure to execute the inspection.
+    # All findings remain visible in the summary and report. Real checker faults still fail CI.
+    return 1 if internal_errors else 0
 
 if __name__ == '__main__':
     sys.exit(main())

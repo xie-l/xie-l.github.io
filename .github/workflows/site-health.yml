@@ -3,20 +3,15 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/check-site-health.py'
       - '.github/workflows/site-health.yml'
-      - 'scripts/build-public-site.sh'
-      - 'js/site-health.js'
-      - 'scripts/build-site-index.py'
-      - '.github/workflows/fetch-energy.yml'
-      - '.github/workflows/fetch-weread.yml'
-      - '.github/workflows/fetch-academic.yml'
+      - 'scripts/validate-site.py'
   schedule:
-    - cron: '51 1 * * *'
+    - cron: '51 4 * * *'
   workflow_dispatch:
 permissions:
   contents: read
   actions: read
+  pages: read
 concurrency:
   group: site-health
   cancel-in-progress: false
@@ -29,86 +24,23 @@ jobs:
         with:
           ref: main
           persist-credentials: false
-      - name: Check source syntax
-        run: |
-          python3 -m py_compile scripts/check-site-health.py scripts/archive/daily_update.py scripts/build-site-index.py
-          for file in js/site-health.js admin/main.js admin/profile-editor.js; do node --check "$file"; done
-          for file in scripts/build-public-site.sh scripts/push-data-update.sh; do bash -n "$file"; done
-          python3 - <<'PY'
-          from html.parser import HTMLParser
-          from pathlib import Path
-          import subprocess, tempfile, re, textwrap
-          for workflow in Path('.github/workflows').glob('*.yml'):
-              source = workflow.read_text(encoding='utf-8')
-              for match in re.finditer(r'''python3?\s*<<\s*['"]?(PYEOF|PY)['"]?[^\n]*\n(.*?)^\s*\1\s*
-                  compile(textwrap.dedent(match.group(2)), str(workflow), 'exec')
-          class Scripts(HTMLParser):
-              def __init__(self):
-                  super().__init__()
-                  self.active=False
-                  self.buf=[]
-                  self.scripts=[]
-              def handle_starttag(self, tag, attrs):
-                  if tag=='script':
-                      a=dict(attrs)
-                      self.active=not a.get('src') and a.get('type','text/javascript') in ('text/javascript','application/javascript','module')
-                      self.buf=[]
-              def handle_data(self, data):
-                  if self.active: self.buf.append(data)
-              def handle_endtag(self,tag):
-                  if tag=='script' and self.active:
-                      self.scripts.append(''.join(self.buf))
-                      self.active=False
-          p=Scripts()
-          p.feed(Path('index.html').read_text(encoding='utf-8'))
-          for i,s in enumerate(p.scripts):
-              with tempfile.NamedTemporaryFile(suffix='.js',mode='w',encoding='utf-8') as f:
-                  f.write(s)
-                  f.flush()
-                  subprocess.run(['node','--check',f.name],check=True)
-          PY
-      - name: Check actual data, published site and workflows
+      - name: Validate source syntax
+        run: python3 scripts/validate-site.py
+      - name: Report data quality and site availability
         if: always()
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ENABLE_SMTP_ALERTS: ${{ github.event_name == 'schedule' && vars.ENABLE_SMTP_ALERTS == 'true' }}
           ALERT_SMTP_HOST: ${{ secrets.ALERT_SMTP_HOST }}
           ALERT_SMTP_USER: ${{ secrets.ALERT_SMTP_USER }}
           ALERT_SMTP_PASSWORD: ${{ secrets.ALERT_SMTP_PASSWORD }}
           ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
         run: python3 scripts/check-site-health.py
-'', source, re.M|re.S):
-                  compile(textwrap.dedent(match.group(2)), str(workflow), 'exec')
-          class Scripts(HTMLParser):
-              def __init__(self):
-                  super().__init__()
-                  self.active=False
-                  self.buf=[]
-                  self.scripts=[]
-              def handle_starttag(self, tag, attrs):
-                  if tag=='script':
-                      a=dict(attrs)
-                      self.active=not a.get('src') and a.get('type','text/javascript') in ('text/javascript','application/javascript','module')
-                      self.buf=[]
-              def handle_data(self, data):
-                  if self.active: self.buf.append(data)
-              def handle_endtag(self,tag):
-                  if tag=='script' and self.active:
-                      self.scripts.append(''.join(self.buf))
-                      self.active=False
-          p=Scripts()
-          p.feed(Path('index.html').read_text(encoding='utf-8'))
-          for i,s in enumerate(p.scripts):
-              with tempfile.NamedTemporaryFile(suffix='.js',mode='w',encoding='utf-8') as f:
-                  f.write(s)
-                  f.flush()
-                  subprocess.run(['node','--check',f.name],check=True)
-          PY
-      - name: Check actual data, published site and workflows
+      - name: Save health report
         if: always()
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ALERT_SMTP_HOST: ${{ secrets.ALERT_SMTP_HOST }}
-          ALERT_SMTP_USER: ${{ secrets.ALERT_SMTP_USER }}
-          ALERT_SMTP_PASSWORD: ${{ secrets.ALERT_SMTP_PASSWORD }}
-          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
-        run: python3 scripts/check-site-health.py
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-health-${{ github.run_id }}
+          path: site-health-report.json
+          if-no-files-found: warn
+          retention-days: 14

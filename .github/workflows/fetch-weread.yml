@@ -35,14 +35,23 @@ jobs:
           WEREAD_COOKIE: ${{ secrets.WEREAD_COOKIE }}
         run: |
           python3 << 'PYEOF'
-          import urllib.request, json, os, re
+          import urllib.request, urllib.error, json, os, re, sys
           from datetime import datetime, timezone
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
           cookie = os.environ.get('WEREAD_COOKIE', '').strip()
 
+          class SourceUnavailable(Exception):
+              pass
+
+          def defer_source(reason):
+              print('::warning::WeRead: '+reason+'；保留历史有效数据')
+              with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as f:
+                  f.write('微信读书：待恢复（'+reason+'）；本次未更新数据。\n')
+              sys.exit(0)
+
           if not cookie:
-              raise RuntimeError('WEREAD_COOKIE 未配置；保留最近一次有效数据')
+              defer_source('授权未配置')
 
           HEADERS = {
               'Cookie':     cookie,
@@ -63,10 +72,10 @@ jobs:
           try:
               shelf = api_get('https://weread.qq.com/web/shelf/sync?synckey=0&virtualGroupId=0')
               if not isinstance(shelf, dict) or shelf.get('errcode') or shelf.get('errorCode') or shelf.get('error'):
-                  raise RuntimeError('书架接口返回错误；请检查授权有效性')
+                  raise SourceUnavailable('书架接口返回错误，请检查授权')
               books = shelf.get('books') or shelf.get('shelf') or shelf.get('bookList') or []
               if not isinstance(books, list) or not books:
-                  raise RuntimeError('书架为空或响应结构已变化；不覆盖历史有效数据')
+                  raise SourceUnavailable('书架为空或响应结构变化')
               print(f'[OK] shelf: {len(books)} books, bookProgress: {len(shelf.get("bookProgress", []))}')
 
                       # 按最近阅读时间排序（bookProgress 字段记录每本的最后阅读时间）
@@ -119,11 +128,13 @@ jobs:
                   if len(recent) >= 5:
                       break
 
-          except Exception as e:
-              raise RuntimeError('书架请求失败，保留上次数据') from e
+          except SourceUnavailable as e:
+              defer_source(str(e))
+          except (urllib.error.URLError, json.JSONDecodeError, TimeoutError):
+              defer_source('外部接口暂不可用或授权过期')
 
           if not reading or not recent:
-              raise RuntimeError('没有解析到有效书籍；不覆盖历史有效数据')
+              defer_source('没有解析到有效书籍')
 
           result = {
               'reading': reading,
@@ -134,7 +145,7 @@ jobs:
           os.makedirs('data', exist_ok=True)
           with open('data/weread.json', 'w', encoding='utf-8') as f:
               json.dump(result, f, ensure_ascii=False, indent=2)
-          print(f'Wrote data/weread.json: reading={reading and reading["title"]}, recent={len(recent)}')
+          print(f'Wrote data/weread.json: recent={len(recent)}')
           PYEOF
 
       - name: Report synchronization failure

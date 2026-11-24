@@ -58,7 +58,7 @@
     const checks = [
       ['新闻资讯','news',d=>dates(d,['tech','tech_cn','energy_intl','energy','energy_cn','hydrogen','papers','policy_nea','policy_ndrc'],24,x=>Array.isArray(x.items)&&x.items.length>0)],
       ['六城市天气','weather',d=>dates(d,['Beijing','Shanghai','Nanchang','Xining','Yinchuan','Harbin'],36,x=>x.current&&Array.isArray(x.daily)&&x.daily.some(y=>y.date>=today))],
-      ['微信读书','weread',d=>d.reading&&d.recent?.length&&fresh(d.updated,48)?['正常',d.updated]:['异常','无有效阅读数据或同步过期']],
+      ['微信读书','weread',d=>d.reading&&d.recent?.length&&fresh(d.updated,48)?['正常',d.updated]:['待恢复','无有效阅读数据或同步过期；检查微信读书授权']],
       ['学术统计','academic',d=>d.author?.author_id&&fresh(d.updated,240)?['正常',d.updated]:['需检查','作者身份尚未确认或数据过期']],
       ['每日学习后台','daily-data',d=>d.date===today&&d.data_items?.length?['正常',d.date]:['需检查','后台日期 '+(d.date||'未知')+'；前端轮换独立运行']],
       ['能源行情','energy',d=>{const list=[['WTI',d.oil?.wti],['Brent',d.oil?.brent],['天然气',d.natgas],['汇率',d.usdcny],['煤炭',d.coal_qhd],['能源指数',d.energy_index],['CEA',d.carbon?.cea],['EUA',d.carbon?.eua]];const bad=list.filter(([n,x])=>!validPrice(x?.price)||!fresh(x?.date,144)).map(([n])=>n);return bad.length?['需检查',bad.join('、')+' 缺失或滞后']:['正常',d.updated||'有效'];}]
@@ -76,9 +76,9 @@
     try {
       const latest=await get('https://api.github.com/repos/xie-l/xie-l.github.io/actions/runs?per_page=50');
       const byName=new Map();
-      for(const item of latest.workflow_runs||[])if(!byName.has(item.name))byName.set(item.name,item);
+      for(const item of latest.workflow_runs||[])if(item.status==='completed'&&!['cancelled','skipped','neutral','stale'].includes(item.conclusion)&&!byName.has(item.name))byName.set(item.name,item);
       const failed=[...byName.values()].filter(x=>x.status==='completed'&&x.conclusion==='failure').map(x=>x.name);
-      add('Actions 最近记录',failed.length?'异常':'正常',failed.length?failed.join('、')+' 失败':'最近 50 次记录中各任务最新一条未发现失败；不代表全站无异常');
+      add('Actions 最近记录',failed.length?'异常':'正常',failed.length?failed.join('、')+' 失败':'最近 50 次记录中各任务最近有效结果未发现失败；数据仍需单独检查');
     }catch(e){add('Actions 最近记录','需检查','API 暂不可用或限流，请打开运行日志');}
     hint.textContent='本次检测：'+new Date().toLocaleString('zh-CN',{timeZone:'Asia/Shanghai'})+'（北京时间）';
     busy=false;refresh.disabled=false;
