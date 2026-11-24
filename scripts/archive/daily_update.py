@@ -70,7 +70,7 @@ def load_pool(filename):
 def utc_day_index():
     """返回自 1970-01-01 起的 UTC 天数（整数）。"""
     epoch = datetime.date(1970, 1, 1)
-    today = datetime.date.today()
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date()
     return (today - epoch).days
 
 
@@ -84,7 +84,7 @@ def generate_daily_questions():
                 "昨天有哪些收获可以优化到今天？",
                 "今天可能遇到的最大挑战是什么？如何应对？"]
 
-    today = datetime.date.today().isoformat()
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date().isoformat()
     day_idx = utc_day_index()
     questions = pick_exhaustive(pool, 3, day_idx, seed_offset=0x00000000)
 
@@ -115,7 +115,7 @@ def generate_daily_keywords():
                  "definition": "利用可再生能源电解水制取的氢气。",
                  "example": "青海光伏+电解槽制绿氢是典型案例。"}]
 
-    today = datetime.date.today().isoformat()
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date().isoformat()
     day_idx = utc_day_index()
     keywords = pick_exhaustive(pool, 5, day_idx, seed_offset=0xABCDEF01)
 
@@ -153,7 +153,7 @@ def generate_daily_data():
                  "context": "全球最大产氢国，但96%为灰氢。",
                  "insight": "绿氢占比提升是行业核心目标。"}]
 
-    today = datetime.date.today().isoformat()
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date().isoformat()
     day_idx = utc_day_index()
     items = pick_exhaustive(pool, 3, day_idx, seed_offset=0x57A9C31F)
 
@@ -186,7 +186,7 @@ def generate_daily_data():
 
 def update_stats():
     """更新统计信息。"""
-    today = datetime.date.today().isoformat()
+    today = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).date().isoformat()
 
     stats_file = data_dir / 'stats.json'
     if stats_file.exists():
@@ -202,7 +202,7 @@ def update_stats():
         }
 
     stats["update_count"] += 1
-    stats["last_update"] = datetime.datetime.now().isoformat()
+    stats["last_update"] = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).isoformat()
 
     with open(stats_file, 'w', encoding='utf-8') as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
@@ -215,7 +215,7 @@ def main():
     """主函数。"""
     print("=" * 60)
     print("每日数据自动更新脚本（穷举循环模式）")
-    print(f"开始时间: {datetime.datetime.now()}")
+    print(f"开始时间: {datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8)))}")
     print(f"UTC 天数: {utc_day_index()}")
     print("=" * 60)
 
