@@ -1,5 +1,27 @@
 name: Deploy Public Pages
 on:
+  push:
+    branches: [main]
+    paths:
+      - '*.html'
+      - 'css/**'
+      - 'js/**'
+      - 'img/**'
+      - 'images/**'
+      - 'assets/**'
+      - 'fonts/**'
+      - 'blog/**'
+      - 'files/**'
+      - 'admin/**'
+      - 'data/**'
+      - 'pagefind/**'
+      - 'robots.txt'
+      - 'sitemap.xml'
+      - 'feed.xml'
+      - 'CNAME'
+      - '.nojekyll'
+      - 'scripts/build-public-site.sh'
+      - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
   schedule:
     - cron: '43 */3 * * *'
@@ -23,10 +45,27 @@ jobs:
         with:
           ref: main
           persist-credentials: false
+      - name: Confirm single Pages publishing source
+        id: mode
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mode=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.build_type')
+          echo "Pages publishing source: $mode" | tee -a "$GITHUB_STEP_SUMMARY"
+          if [ "$mode" != workflow ]; then
+            echo "::warning::Pages source is not GitHub Actions; skipping custom deployment to prevent competing builds."
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/configure-pages@v5
+        if: steps.mode.outputs.enabled == 'true'
       - name: Prepare public site
+        if: steps.mode.outputs.enabled == 'true'
         run: bash scripts/build-public-site.sh _site
       - name: Validate snapshot JSON
+        if: steps.mode.outputs.enabled == 'true'
         run: |
           python3 - <<'PY'
           import json
@@ -36,9 +75,28 @@ jobs:
                   json.load(f)
           PY
       - uses: actions/upload-pages-artifact@v3
+        if: steps.mode.outputs.enabled == 'true'
         with:
           path: _site
       - name: Allow artifact metadata to propagate
+        if: steps.mode.outputs.enabled == 'true'
         run: sleep 15
       - uses: actions/deploy-pages@v4
+        if: steps.mode.outputs.enabled == 'true'
         id: deployment
+      - name: Verify actual published revision
+        if: steps.mode.outputs.enabled == 'true'
+        run: |
+          set -euo pipefail
+          expected=$(git rev-parse HEAD)
+          for attempt in 1 2 3 4 5 6; do
+            if curl -fsS --max-time 15 -H 'Cache-Control: no-cache' "https://xie-l.github.io/deployment.json?verify=$expected-$attempt" -o /tmp/pages-marker.json &&
+               python3 -c 'import json,sys; actual=json.load(open("/tmp/pages-marker.json")).get("commit"); print("Live revision:",actual); sys.exit(actual!=sys.argv[1])' "$expected" &&
+               curl -fsS --max-time 15 "https://xie-l.github.io/?verify=$expected" -o /tmp/live-index.html; then
+              echo "Verified live revision: $expected" >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "::error::Pages deployment completed but live revision could not be verified."
+          exit 1
