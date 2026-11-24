@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backups/
+Disallow: /obsidian-vault/
+Disallow: /logs/
+Sitemap: https://xie-l.github.io/sitemap.xml
