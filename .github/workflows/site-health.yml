@@ -40,7 +40,43 @@ jobs:
           import subprocess, tempfile, re, textwrap
           for workflow in Path('.github/workflows').glob('*.yml'):
               source = workflow.read_text(encoding='utf-8')
-              for match in re.finditer(r"python3?\\s*<<\\s*['\"]?(PYEOF|PY)['\"]?[^\\n]*\\n(.*?)^\\s*\\1\\s*$", source, re.M|re.S):
+              for match in re.finditer(r'''python3?\s*<<\s*['"]?(PYEOF|PY)['"]?[^\n]*\n(.*?)^\s*\1\s*
+                  compile(textwrap.dedent(match.group(2)), str(workflow), 'exec')
+          class Scripts(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.active=False
+                  self.buf=[]
+                  self.scripts=[]
+              def handle_starttag(self, tag, attrs):
+                  if tag=='script':
+                      a=dict(attrs)
+                      self.active=not a.get('src') and a.get('type','text/javascript') in ('text/javascript','application/javascript','module')
+                      self.buf=[]
+              def handle_data(self, data):
+                  if self.active: self.buf.append(data)
+              def handle_endtag(self,tag):
+                  if tag=='script' and self.active:
+                      self.scripts.append(''.join(self.buf))
+                      self.active=False
+          p=Scripts()
+          p.feed(Path('index.html').read_text(encoding='utf-8'))
+          for i,s in enumerate(p.scripts):
+              with tempfile.NamedTemporaryFile(suffix='.js',mode='w',encoding='utf-8') as f:
+                  f.write(s)
+                  f.flush()
+                  subprocess.run(['node','--check',f.name],check=True)
+          PY
+      - name: Check actual data, published site and workflows
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ALERT_SMTP_HOST: ${{ secrets.ALERT_SMTP_HOST }}
+          ALERT_SMTP_USER: ${{ secrets.ALERT_SMTP_USER }}
+          ALERT_SMTP_PASSWORD: ${{ secrets.ALERT_SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python3 scripts/check-site-health.py
+'', source, re.M|re.S):
                   compile(textwrap.dedent(match.group(2)), str(workflow), 'exec')
           class Scripts(HTMLParser):
               def __init__(self):
