@@ -8,25 +8,24 @@
       "trend": "up",
       "date": "2026-11-17",
       "history": [
+        105.51,
+        107.56,
+        100.06,
         99.64,
-        99.64,
+        91.73,
+        94.05,
+        94.37,
+        90.4,
         89.62,
         89.62,
-        89.62,
-        89.62,
-        89.62,
-        89.62,
-        89.53,
-        89.53,
-        89.53,
-        89.53,
-        89.53,
+        92.3,
+        91.96,
+        89.24,
         89.53
       ],
-      "updated": "2026-11-23 08:45 UTC",
-      "source": "EIA / FRED",
+      "source": "FRED",
       "source_url": "https://fred.stlouisfed.org/series/DCOILWTICO",
-      "frequency": "daily_observation_weekly_release"
+      "updated": "2026-11-24 01:38 UTC"
     },
     "brent": {
       "price": "92.94",
@@ -36,25 +35,24 @@
       "trend": "up",
       "date": "2026-11-17",
       "history": [
+        115.28,
+        120.15,
+        107.39,
         107.03,
-        107.03,
+        91.84,
+        97.96,
+        97.83,
+        91.03,
+        90.16,
         92.14,
-        92.14,
-        92.14,
-        92.14,
-        92.14,
-        92.14,
-        92.94,
-        92.94,
-        92.94,
-        92.94,
-        92.94,
+        95.42,
+        95.17,
+        92.9,
         92.94
       ],
-      "updated": "2026-11-23 08:45 UTC",
-      "source": "EIA / FRED",
+      "source": "FRED",
       "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-      "frequency": "daily_observation_weekly_release"
+      "updated": "2026-11-24 01:38 UTC"
     }
   },
   "natgas": {
@@ -65,35 +63,33 @@
     "trend": "down",
     "date": "2026-11-17",
     "history": [
+      2.68,
+      2.42,
+      2.54,
       2.63,
       2.63,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3,
-      3.1,
-      3.1,
-      3.1,
-      3.1,
-      3.1,
+      2.61,
+      2.6,
+      2.89,
+      3.0,
+      3.0,
+      3.0,
+      3.26,
+      3.2,
       3.1
     ],
-    "updated": "2026-11-23 08:45 UTC",
-    "source": "EIA / FRED",
+    "source": "FRED",
     "source_url": "https://fred.stlouisfed.org/series/DHHNGSP",
-    "frequency": "daily_observation_weekly_release"
+    "updated": "2026-11-24 01:38 UTC"
   },
   "usdcny": {
-    "price": "6.6730",
+    "price": "6.6660",
     "unit": "CNY/USD",
-    "change": "+0.0016",
-    "pct": "+0.02%",
-    "trend": "up",
+    "change": "-0.0054",
+    "pct": "-0.08%",
+    "trend": "down",
     "date": "2026-11-23",
     "history": [
-      6.674,
       6.668,
       6.669,
       6.672,
@@ -106,22 +102,22 @@
       6.671,
       6.671,
       6.671,
-      6.673
+      6.673,
+      6.666
     ],
-    "updated": "2026-11-23 08:45 UTC"
+    "updated": "2026-11-24 01:38 UTC"
   },
   "coal_qhd": {
-    "price": "1397",
+    "price": "1392",
     "unit": "元/吨",
-    "change": "+22",
-    "pct": "+1.56%",
-    "trend": "up",
+    "change": "-5",
+    "pct": "-0.36%",
+    "trend": "down",
     "label": "焦煤期货·DCE主力（JM）",
     "note": "动力煤期货已退市，以焦煤期货为煤市参考",
     "freq": "日度",
-    "date": "2026-11-20",
+    "date": "2026-11-23",
     "history": [
-      1396,
       1410.5,
       1414.5,
       1386,
@@ -134,9 +130,10 @@
       1397,
       1397,
       1397,
-      1397
+      1397,
+      1392.0
     ],
-    "updated": "2026-11-23 08:45 UTC",
+    "updated": "2026-11-24 01:38 UTC",
     "newcastle": {
       "price": "153.84",
       "unit": "USD/吨",
@@ -162,53 +159,50 @@
         153.84,
         153.84
       ],
-      "updated": "2026-11-23 08:45 UTC",
-      "source_url": "https://fred.stlouisfed.org/series/PCOALAUUSDM"
+      "updated": "2026-11-24 01:38 UTC"
     }
   },
   "energy_index": {
     "name": "中证能源",
     "code": "399928",
-    "price": "3289.19",
-    "change": "-59.48",
-    "pct": "-1.78%",
+    "price": "3276.66",
+    "change": "-12.53",
+    "pct": "-0.38%",
     "trend": "down",
-    "high": "3323.49",
-    "low": "3269.13",
-    "amount": "135.19",
-    "date": "2026-11-23",
+    "high": "3276.67",
+    "low": "3248.17",
+    "amount": "24.04",
+    "date": "2026-11-24",
     "history": [
       3348.67,
       3348.67,
       3348.67,
-      3289.194
+      3289.194,
+      3276.662
     ],
-    "updated": "2026-11-23 08:45 UTC"
+    "updated": "2026-11-24 01:38 UTC"
   },
   "carbon": {
     "cea": {
       "price": "90.15",
       "unit": "元/吨",
-      "change": "-0.19",
       "pct": "-0.21%",
       "trend": "down",
       "date": "2026-11-23",
+      "volume": "715,923",
       "label": "全国CEA挂牌协议收盘价",
+      "source": "中晟碳汇（转引上海环境能源交易所）",
+      "source_url": "https://www.zsbu.com/",
       "market_type": "national_cea_close",
-      "source": "新华财经（转引全国碳交易）",
-      "source_url": "https://finance.sina.com.cn/money/bond/2026-11-23/doc-iniztfna2321478.shtml",
+      "updated": "2026-11-24 01:38 UTC",
       "history": [
         90.34,
         90.15
-      ],
-      "updated": "2026-11-24",
-      "note": "公开报道核验补录；非实时报价"
+      ]
     },
     "eua": {
       "price": "--",
-      "unit": "€/吨",
-      "history": [],
-      "updated": "2026-11-23 08:45 UTC"
+      "updated": "2026-11-24 01:38 UTC"
     }
   },
   "hydrogen": {
@@ -221,7 +215,7 @@
       "history": [
         291.34,
         291.34,
-        291.34,
+        294.01,
         294.01,
         294.01,
         294.01,
@@ -234,8 +228,8 @@
         294.01,
         294.01
       ],
-      "updated": "2026-11-23 08:45 UTC"
+      "updated": "2026-11-24 01:38 UTC"
     }
   },
-  "updated": "2026-11-23 08:45 UTC"
+  "updated": "2026-11-24 01:38 UTC"
 }
