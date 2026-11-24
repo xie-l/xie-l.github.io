@@ -21,9 +21,11 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Fetch publication stats from Semantic Scholar
+        env:
+          SEMANTIC_SCHOLAR_AUTHOR_ID: ${{ vars.SEMANTIC_SCHOLAR_AUTHOR_ID }}
         run: |
           python3 << 'PYEOF'
-          import json, urllib.request, urllib.parse, urllib.error
+          import json, os, urllib.request, urllib.parse, urllib.error
           from datetime import datetime, timezone
 
           now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
@@ -51,30 +53,19 @@ jobs:
                   print(f"Error fetching {url}: {e}")
                   return None
 
-          # ── 1. 搜索作者 ────────────────────────────────────────────────────
-          search_url = (API_BASE + "/author/search?query=" +
-                        urllib.parse.quote(AUTHOR_NAME) +
-                        "&fields=name,affiliations,paperCount,citationCount,hIndex")
-          result = api_get(search_url)
-
-          author_data = None
-          if result and result.get("data"):
-              for candidate in result["data"]:
-                  affiliations = candidate.get("affiliations") or []
-                  aff_str = " ".join(affiliations).lower()
-                  if AFFILIATION_KEYWORD.lower() in aff_str:
-                      author_data = candidate
-                      print(f"匹配作者: {candidate['name']} | 机构: {affiliations}")
-                      break
-              if not author_data:
-                  # 退而求其次：取第一个结果
-                  author_data = result["data"][0]
-                  print(f"未精确匹配，使用首个结果: {author_data.get('name')}")
+          # Never choose the first same-name result. Owner must verify a stable ID.
+          author_id = os.environ.get("SEMANTIC_SCHOLAR_AUTHOR_ID", "").strip()
+          if not author_id.isdigit():
+              raise RuntimeError("请核对 Semantic Scholar 作者 ID 并设置仓库变量 SEMANTIC_SCHOLAR_AUTHOR_ID；保留历史数据")
+          author_data = api_get(API_BASE + "/author/" + author_id +
+                                "?fields=name,affiliations,paperCount,citationCount,hIndex")
+          if not author_data or str(author_data.get("authorId")) != author_id:
+              raise RuntimeError("作者查询失败或 ID 不符；不覆盖历史数据")
 
           # ── 2. 拉取最新论文列表 ────────────────────────────────────────────
           papers = []
           if author_data:
-              author_id = author_data.get("authorId")
+              author_id = str(author_data.get("authorId"))
               papers_url = (API_BASE + "/author/" + author_id +
                             "/papers?fields=title,year,citationCount,externalIds,venue&limit=50")
               papers_result = api_get(papers_url)
@@ -93,12 +84,16 @@ jobs:
                       for p in raw[:30]   # 最多30篇
                   ]
 
+          if not papers and author_data.get('paperCount', 0):
+              raise RuntimeError('论文请求无有效结果；保留上次数据')
+
           # ── 3. 构建输出 JSON ───────────────────────────────────────────────
           academic = {
               "updated": now_utc,
               "source": "Semantic Scholar",
               "author": {
-                  "name": author_data.get("name", AUTHOR_NAME) if author_data else AUTHOR_NAME,
+                  "author_id": author_id,
+                  "name": author_data.get("name", AUTHOR_NAME),
                   "paper_count": author_data.get("paperCount", 0) if author_data else 0,
                   "citation_count": author_data.get("citationCount", 0) if author_data else 0,
                   "h_index": author_data.get("hIndex", 0) if author_data else 0,
