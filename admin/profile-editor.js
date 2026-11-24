@@ -286,9 +286,9 @@ class ProfileEditor {
 
     getGitHubCredentials() {
         return {
-            token: localStorage.getItem('github_token'),
-            owner: localStorage.getItem('github_owner'),
-            repo: localStorage.getItem('github_repo')
+            token: sessionStorage.getItem('github_token'),
+            owner: sessionStorage.getItem('github_owner'),
+            repo: sessionStorage.getItem('github_repo')
         };
     }
 }
