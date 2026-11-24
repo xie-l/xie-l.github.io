@@ -7,6 +7,10 @@ on:
       - '.github/workflows/site-health.yml'
       - 'scripts/build-public-site.sh'
       - 'js/site-health.js'
+      - 'scripts/build-site-index.py'
+      - '.github/workflows/fetch-energy.yml'
+      - '.github/workflows/fetch-weread.yml'
+      - '.github/workflows/fetch-academic.yml'
   schedule:
     - cron: '51 1 * * *'
   workflow_dispatch:
@@ -27,13 +31,17 @@ jobs:
           persist-credentials: false
       - name: Check source syntax
         run: |
-          python3 -m py_compile scripts/check-site-health.py scripts/archive/daily_update.py
-          node --check js/site-health.js
-          bash -n scripts/build-public-site.sh scripts/push-data-update.sh
+          python3 -m py_compile scripts/check-site-health.py scripts/archive/daily_update.py scripts/build-site-index.py
+          for file in js/site-health.js admin/main.js admin/profile-editor.js; do node --check "$file"; done
+          for file in scripts/build-public-site.sh scripts/push-data-update.sh; do bash -n "$file"; done
           python3 - <<'PY'
           from html.parser import HTMLParser
           from pathlib import Path
-          import subprocess, tempfile
+          import subprocess, tempfile, re, textwrap
+          for workflow in Path('.github/workflows').glob('*.yml'):
+              source = workflow.read_text(encoding='utf-8')
+              for match in re.finditer(r"python3?\\s*<<\\s*['\"]?(PYEOF|PY)['\"]?[^\\n]*\\n(.*?)^\\s*\\1\\s*$", source, re.M|re.S):
+                  compile(textwrap.dedent(match.group(2)), str(workflow), 'exec')
           class Scripts(HTMLParser):
               def __init__(self):
                   super().__init__()
