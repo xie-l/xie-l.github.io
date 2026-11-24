@@ -86,6 +86,12 @@ def check_data():
         report(name, price_ok(obj.get('price',obj.get('index'))) and fresh(date,limit), 'observation date: ' + (date or 'unknown'))
 
 def check_pages():
+    try:
+        config = json.loads(get(API+'pages', api=True))
+        mode = config.get('build_type','unknown')
+        report('Pages publishing source',mode=='workflow','build_type: '+str(mode))
+    except Exception as exc:
+        report('Pages publishing source',False,type(exc).__name__)
     for path in ['', 'about-new.html', 'blog/', 'files/', 'js/site-health.js']:
         try:
             payload = get(BASE+path)
