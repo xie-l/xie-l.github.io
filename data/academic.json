@@ -1,48 +1,35 @@
 {
-  "updated": "2026-11-23 12:04 UTC",
-  "source": "Semantic Scholar",
+  "updated": "2026-11-24",
+  "source": "PubMed / Royal Society of Chemistry",
   "author": {
-    "name": "Liangliang Xie",
-    "paper_count": 5,
-    "citation_count": 93,
-    "h_index": 4
+    "name": "Liang Xie",
+    "paper_count": null,
+    "citation_count": null,
+    "h_index": null
   },
+  "verified_publication_count": 3,
   "top_papers": [
     {
-      "title": "A rapid rice blast detection and identification method based on crop disease spores' diffraction fingerprint texture.",
-      "year": 2020,
-      "citations": 38,
-      "venue": "The Journal of the Science of Food and Agriculture",
-      "doi": "10.1002/jsfa.10383"
+      "title": "Elucidating the impact of oxygen functional groups on the catalytic activity of M-N4-C catalysts for the oxygen reduction reaction: a density functional theory and machine learning approach",
+      "year": 2024,
+      "citations": null,
+      "venue": "Materials Horizons",
+      "doi": "10.1039/d3mh02115g"
     },
     {
-      "title": "A novel on‐chip solution enabling rapid analysis of melamine and chloramphenicol in milk by smartphones",
-      "year": 2019,
-      "citations": 30,
-      "venue": "Journal of food process engineering",
-      "doi": "10.1111/JFPE.12976"
+      "title": "Edge-doped substituents as an emerging atomic-level strategy for enhancing M-N4-C single-atom catalysts in electrocatalysis of the ORR, OER, and HER",
+      "year": 2025,
+      "citations": null,
+      "venue": "Nanoscale Horizons",
+      "doi": "10.1039/d4nh00424h"
     },
     {
-      "title": "Pesticide Residues Identification by Optical Spectrum in the Time-Sequence of Enzyme Inhibitors Performed on Microfluidic Paper-Based Analytical Devices (µPADs)",
-      "year": 2019,
-      "citations": 17,
-      "venue": "Molecules",
-      "doi": "10.3390/molecules24132428"
-    },
-    {
-      "title": "A New 3D Cultured Liver Chip and Real-Time Monitoring System Based on Microfluidic Technology",
-      "year": 2020,
-      "citations": 6,
-      "venue": "Micromachines",
-      "doi": "10.3390/mi11121118"
-    },
-    {
-      "title": "Compensation method of error caused from maladjustment of optical path based on microfluidic chip",
-      "year": 2018,
-      "citations": 2,
-      "venue": "Modern physics letters B",
-      "doi": "10.1142/S021798491840081X"
+      "title": "Effect of molecular size on the electrocatalytic activity of M-N4-C catalysts for ORR, OER, and HER",
+      "year": 2025,
+      "citations": null,
+      "venue": "Journal of Materials Chemistry A",
+      "doi": "10.1039/d4ta07699k"
     }
   ],
-  "note": "数据来自 Semantic Scholar，每周自动更新。"
+  "note": "已通过 DOI 核验三篇主页列出的第一作者论文。此前同名作者统计已移除；完整论文数量、引用和 h-index 待学术数据库作者 ID 交叉确认。"
 }

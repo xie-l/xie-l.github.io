@@ -1,6 +1,10 @@
 name: Fetch Academic Stats
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-academic.yml'
   schedule:
     - cron: '0 3 * * 1'   # 每周一 03:00 UTC（北京时间 11:00）
   workflow_dispatch:
@@ -61,8 +65,25 @@ jobs:
 
           # Never choose the first same-name result. Owner must verify a stable ID.
           author_id = os.environ.get("SEMANTIC_SCHOLAR_AUTHOR_ID", "").strip()
+          # DOI anchors are exact first-author papers listed on the public research profile.
+          # Both independent first-author IDs must match; a name-only guess is prohibited.
+          anchors = ['10.1039/d3mh02115g','10.1039/d4nh00424h','10.1039/d4ta07699k']
           if not author_id.isdigit():
-              defer_source("请核对并配置 SEMANTIC_SCHOLAR_AUTHOR_ID")
+              import time
+              matched = []
+              for doi in anchors:
+                  paper = api_get(API_BASE + '/paper/DOI:' + doi + '?fields=title,authors,externalIds')
+                  if paper and str((paper.get('externalIds') or {}).get('DOI','')).lower() == doi:
+                      authors = paper.get('authors') or []
+                      if authors and str(authors[0].get('name','')).lower().strip() in ('liang xie','l. xie','l xie'):
+                          candidate = str(authors[0].get('authorId') or '')
+                          if candidate.isdigit():
+                              matched.append(candidate)
+                  time.sleep(2)
+              if len(matched) < 2 or len(set(matched)) != 1:
+                  defer_source('DOI 首作者交叉核验尚未取得一致 ID；保留已核验论文')
+              author_id = matched[0]
+              print('Author ID verified by at least two matching first-author DOI records.')
           author_data = api_get(API_BASE + "/author/" + author_id +
                                 "?fields=authorId,name,affiliations,paperCount,citationCount,hIndex")
           if not author_data or str(author_data.get("authorId")) != author_id:
