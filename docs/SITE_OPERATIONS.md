@@ -18,3 +18,9 @@
 - 微信读书使用腾讯官方 Agent Gateway。需配置 WEREAD_API_KEY Secret（wrk- 开头），只发布明确标记为公开的电子书，不使用旧 Cookie，不输出私密书籍或伪造阅读进度。
 - 全国 CEA 采用真实挂牌协议收盘价，欧盟 EUA 采用 EEX 一级拍卖清算价（不是期货或连续现货价格）。数据源变更时不混用旧序列；外部接口失败时保留同口径上次有效值。
 - FRED/EIA 日度现货观测常按周发布，IMF 澳大利亚煤价为月度，时效判断区分观测日期和公布周期。保留真实日期。
+
+## Obsidian 本地发布（不上传私人原始库）
+- GitHub 托管运行器不能访问个人电脑的 Obsidian Vault。推荐在本地已克隆的科研仓库执行同步，仅使用专门整理好的公开笔记目录；不要指向整个私人库。
+- 安装 Node.js 24，进入本地科研仓库后执行 `npm ci`，然后执行 `OBSIDIAN_VAULT_PATH="/你的公开笔记目录" npm run sync:obsidian`。这一步会生成本地博客文件，不会自动推送。先用 `git status --short` 与 `git diff -- blog/ img/blog/` 审核生成的内容，再由所有者选择需要发布的文件提交。
+- 公开目录应按原有分类结构整理，笔记 frontmatter 必须有 title、date、category、status: published。未标记 published 的草稿不应发布。附件也必须经过公开审核。
+- 仍可由所有者使用独立的私有源仓库构建审批式发布，但不要把整个私有仓库的凭据或原始笔记传入公开 Actions 运行器。

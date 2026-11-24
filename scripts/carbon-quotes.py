@@ -38,21 +38,30 @@ def eua():
             def find(predicate):
                 return next((k for k,v in enumerate(cells) if predicate(v)),None)
             dc=find(lambda v:'auction date' in v or v=='date')
-            pc=find(lambda v:'clearing price' in v)
-            cc=find(lambda v:v=='contract' or v=='product')
+            pc=find(lambda v:'clearing price' in v or 'auction price' in v)
+            cc=find(lambda v:v=='contract' or v=='product' or v.startswith('contract name'))
             sc=find(lambda v:v=='status' or v=='auction status')
+            ac=find(lambda v:v=='auction name' or v=='auction')
             if None in (dc,pc,cc): continue
             for _,row in frame.iloc[i+1:].iterrows():
                 contract=str(row.iloc[cc]).upper().strip()
-                if contract not in ('EUA','EUAS','EU ALLOWANCES','EUROPEAN UNION ALLOWANCES'): continue
+                if not re.fullmatch(r'(?:EUA|EUAS|EU ALLOWANCES|EUROPEAN UNION ALLOWANCES)(?:\s*\([^)]*\))?',contract): continue
+                auction=str(row.iloc[ac]).upper().strip() if ac is not None else ''
+                if any(x in auction for x in ('ETS2','EUAA','AVIATION','UKA')): continue
                 if sc is not None and any(x in str(row.iloc[sc]).lower() for x in ('cancel','fail','unsuccessful')): continue
                 date=pd.to_datetime(row.iloc[dc],errors='coerce',dayfirst=True)
-                try: price=float(str(row.iloc[pc]).replace(',','.'))
+                try:
+                    raw=row.iloc[pc]
+                    price=float(raw) if isinstance(raw,(int,float)) else float(str(raw).replace('€','').strip().replace(',','.'))
                 except (TypeError,ValueError): continue
                 if pd.isna(date) or date.date()>datetime.now(timezone.utc).date() or not math.isfinite(price) or not 0<price<10000: continue
                 observations[date.date().isoformat()]=price
             break
     dates=sorted(observations)
-    if not dates: raise ValueError('no verified EUA auction observations')
+    if not dates:
+        # Log public workbook layout only, never account data.
+        for name, frame in workbook.items():
+            print('EEX sheet',name,'headers:',[[str(v) for v in frame.iloc[i] if pd.notna(v)] for i in range(min(10,len(frame)))])
+        raise ValueError('no verified EUA auction observations')
     latest=dates[-1]; price=observations[latest]
     return {'price':f'{price:.2f}','unit':'€/吨','pct':'--','trend':'flat','date':latest,'history':[observations[d] for d in dates[-14:]],'label':'EUA 一级市场拍卖清算价','market_type':'eua_primary_auction','source':'EEX 官方拍卖报告','source_url':base+'index.html'}

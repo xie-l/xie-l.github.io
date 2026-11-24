@@ -16,6 +16,10 @@ function loadConfig() {
   
   if (!configCache || stats.mtime > configLastModified) {
     configCache = fs.readJsonSync(configPath);
+    if (process.env.OBSIDIAN_VAULT_PATH) {
+      configCache.obsidian.vaultPath = path.resolve(process.env.OBSIDIAN_VAULT_PATH);
+      configCache.obsidian.attachmentsPath = path.join(configCache.obsidian.vaultPath, 'attachments');
+    }
     configLastModified = stats.mtime;
   }
   

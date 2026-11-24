@@ -3,6 +3,7 @@ import json
 import os
 import sys
 import urllib.request
+import urllib.error
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -23,13 +24,16 @@ try:
         headers={'Authorization':'Bearer '+key,'Content-Type':'application/json','User-Agent':'WeRead public shelf dashboard'})
     with urllib.request.urlopen(request,timeout=25) as response:
         result=json.load(response)
+except urllib.error.HTTPError as exc:
+    defer('官方接口 HTTP '+str(exc.code)+'；检查授权或服务状态')
 except (OSError,ValueError):
-    defer('官方接口暂不可用或授权无效')
+    defer('官方接口暂不可用或响应格式异常')
 if not isinstance(result,dict) or result.get('errcode',0) not in (0,'0',None):
     defer('官方接口返回异常')
 shelf=result.get('data',result)
 if not isinstance(shelf,dict) or not isinstance(shelf.get('books'),list):
     defer('书架响应格式无法确认')
+print('Official shelf response validated; checking public-only items.')
 entries=[]
 for book in shelf['books']:
     if not isinstance(book,dict) or book.get('secret') not in (0,'0',False) or not book.get('title'):
@@ -44,7 +48,7 @@ for book in shelf['books']:
     finished=book.get('finishReading') in (1,'1',True)
     entries.append((stamp,{'title':str(book['title']),'author':str(book.get('author') or ''),'cover':str(book.get('cover') or ''),'progress':100 if finished else None,'finished':finished,'last_read':last}))
 if not entries:
-    defer('未找到明确公开的电子书；不会发布私密书籍')
+    defer('授权响应有效，但未找到明确公开的电子书；不会发布私密书籍')
 entries.sort(key=lambda x:x[0],reverse=True)
 recent=[b for _,b in entries[:5]]
 output={'reading':recent[0],'recent':recent,'updated':datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),'source':'微信读书官方 Agent API（仅公开电子书）'}
