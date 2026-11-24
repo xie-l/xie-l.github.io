@@ -278,7 +278,7 @@
                     <section id="energy-market" class="section">
                         <div class="section-header" style="display:flex;justify-content:space-between;align-items:center;">
                             <h2 class="section-title" style="margin:0">⚡ 能源市场数据</h2>
-                            <span class="kw-date-tag" id="em-updated">每日 09:05 自动更新</span>
+                            <span class="kw-date-tag" id="em-updated">等待加载采集时间</span>
                         </div>
                         <div class="em-grid" id="em-grid">
                             <div class="em-loading">⏳ 加载中…</div>
@@ -633,6 +633,18 @@
         try {
             const d = await readSnapshot('energy');
 
+            const safeEnergy = v => String(v == null ? '' : v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+            const freshness = (item, limit = 5, monthly = false) => {
+                const raw = String(monthly ? (item.period || item.date || '') : (item.date || ''));
+                const date = /^\d{4}-\d{2}$/.test(raw) ? raw + '-01' : raw;
+                const price = monthly && item.index !== undefined ? item.index : item.price;
+                if (price == null || price === '' || price === '--' || !Number.isFinite(Number(price))) return '暂无有效报价';
+                if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || !Number.isFinite(Date.parse(date))) return '来源未提供有效日期';
+                const today = Math.floor((Date.now() + 28800000) / 86400000);
+                const age = today - Math.floor(Date.parse(date) / 86400000);
+                const tag = age < 0 ? ' · 日期异常' : age > limit ? ' · ⚠ 数据滞后 ' + age + ' 天' : '';
+                return (monthly ? '数据月份：' : '数据日期：') + safeEnergy(raw) + tag;
+            };
             const trendIcon = t => t === 'up' ? '▲' : t === 'down' ? '▼' : '─';
             const trendCls  = t => t === 'up' ? 'em-trend-up' : t === 'down' ? 'em-trend-down' : 'em-trend-flat';
 
@@ -673,18 +685,19 @@
                 </div>
                 <div class="em-asset">WTI 美国原油</div>
                 <div class="em-price-row">
-                    <span class="em-price">${wti.price || '--'}</span>
-                    <span class="em-unit">${wti.unit || 'USD/桶'}</span>
-                    <span class="em-trend ${trendCls(wti.trend)}">${trendIcon(wti.trend)} ${wti.pct || ''}</span>
+                    <span class="em-price">${safeEnergy(wti.price || '--')}</span>
+                    <span class="em-unit">${safeEnergy(wti.unit || 'USD/桶')}</span>
+                    <span class="em-trend ${trendCls(wti.trend)}">${trendIcon(wti.trend)} ${safeEnergy(wti.pct || '')}</span>
                 </div>
                 <hr class="em-divider">
                 <div class="em-asset">布伦特原油</div>
                 <div class="em-price-row">
-                    <span class="em-price">${brent.price || '--'}</span>
-                    <span class="em-unit">${brent.unit || 'USD/桶'}</span>
-                    <span class="em-trend ${trendCls(brent.trend)}">${trendIcon(brent.trend)} ${brent.pct || ''}</span>
+                    <span class="em-price">${safeEnergy(brent.price || '--')}</span>
+                    <span class="em-unit">${safeEnergy(brent.unit || 'USD/桶')}</span>
+                    <span class="em-trend ${trendCls(brent.trend)}">${trendIcon(brent.trend)} ${safeEnergy(brent.pct || '')}</span>
                 </div>
-                <div class="em-date">${wti.date ? '数据日期：' + wti.date : ''}</div>
+                <div class="em-date">WTI · ${freshness(wti)}</div>
+                <div class="em-date">Brent · ${freshness(brent)}</div>
             </div>`;
 
             // 卡片 2：天然气（Henry Hub）
@@ -695,11 +708,11 @@
                 </div>
                 <div class="em-asset">美国天然气现货价</div>
                 <div class="em-price-row" style="margin-top:10px">
-                    <span class="em-price">${ng.price || '--'}</span>
-                    <span class="em-unit">${ng.unit || 'USD/MMBtu'}</span>
-                    <span class="em-trend ${trendCls(ng.trend)}">${trendIcon(ng.trend)} ${ng.pct || ''}</span>
+                    <span class="em-price">${safeEnergy(ng.price || '--')}</span>
+                    <span class="em-unit">${safeEnergy(ng.unit || 'USD/MMBtu')}</span>
+                    <span class="em-trend ${trendCls(ng.trend)}">${trendIcon(ng.trend)} ${safeEnergy(ng.pct || '')}</span>
                 </div>
-                <div class="em-date">${ng.date ? '数据日期：' + ng.date : ''}</div>
+                <div class="em-date">${freshness(ng)}</div>
             </div>`;
 
             // 卡片 3：碳市场（CEA + EU ETS）
@@ -709,56 +722,56 @@
                     ${sparkline(cea.price ? cea.history : eua.history, cea.price ? cea.trend : eua.trend)}
                 </div>
                 <div class="em-asset">全国碳市场 · CEA</div>
-                ${cea.price
+                ${cea.price && cea.price !== '--'
                     ? `<div class="em-price-row">
-                        <span class="em-price">${cea.price}</span>
-                        <span class="em-unit">${cea.unit || '元/吨'}</span>
-                        <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${cea.pct || ''}</span>
+                        <span class="em-price">${safeEnergy(cea.price)}</span>
+                        <span class="em-unit">${safeEnergy(cea.unit || '元/吨')}</span>
+                        <span class="em-trend ${trendCls(cea.trend)}">${trendIcon(cea.trend)} ${safeEnergy(cea.pct || '')}</span>
                        </div>
-                       <div class="em-date">${cea.date ? '数据日期：' + cea.date : ''}${cea.amount && cea.amount !== '--' ? ' · 成交额：' + cea.amount : ''}</div>
-                       <div class="em-date"><a href="${cea.source_url || 'https://www.cneeex.com/'}" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ 全国碳排放权交易市场</a></div>`
+                       <div class="em-date">${freshness(cea)}${cea.amount && cea.amount !== '--' ? ' · 成交额：' + safeEnergy(cea.amount) : ''}</div>
+                       <div class="em-date"><a href="https://www.cneeex.com/" target="_blank" rel="noopener" style="color:var(--primary-color);text-decoration:none">→ 全国碳排放权交易市场</a></div>`
                     : `<div class="em-placeholder" style="margin-bottom:4px">${'暂无有效报价'}<br><a href="https://www.cneeex.com/" target="_blank" rel="noopener">→ 全国碳排放权交易市场</a></div>`
                 }
                 ${eua.price && eua.price !== '--'
                     ? `<hr class="em-divider">
                        <div class="em-asset">欧盟碳市场 · EUA</div>
                        <div class="em-price-row">
-                           <span class="em-price">${eua.price}</span>
-                           <span class="em-unit">${eua.unit || '€/吨'}</span>
-                           <span class="em-trend ${trendCls(eua.trend)}">${trendIcon(eua.trend)} ${eua.pct || ''}</span>
+                           <span class="em-price">${safeEnergy(eua.price)}</span>
+                           <span class="em-unit">${safeEnergy(eua.unit || '€/吨')}</span>
+                           <span class="em-trend ${trendCls(eua.trend)}">${trendIcon(eua.trend)} ${safeEnergy(eua.pct || '')}</span>
                        </div>
-                       <div class="em-date">${eua.date ? '数据日期：' + eua.date : ''}</div>`
-                    : ''
+                       <div class="em-date">${freshness(eua)}</div>`
+                    : '<div class="em-placeholder">欧盟碳市场 · EUA：暂无有效报价</div>'
                 }
             </div>`;
 
             // 卡片 4：动力煤（焦煤期货 + Newcastle国际基准）
             const coalCard = `<div class="em-card em-card-coal">
                 <div class="em-card-header">
-                    <div class="em-card-label">动力煤</div>
+                    <div class="em-card-label">煤炭市场参考</div>
                     ${sparkline(coal.price && coal.price !== '--' ? coal.history : newcastle.history,
                                 coal.price && coal.price !== '--' ? coal.trend  : newcastle.trend)}
                 </div>
-                <div class="em-asset">${coal.label || '焦煤期货 · DCE'}</div>
+                <div class="em-asset">${safeEnergy(coal.label || '焦煤期货 · DCE')}</div>
                 ${coal.price && coal.price !== '--'
                     ? `<div class="em-price-row">
-                        <span class="em-price">${coal.price}</span>
-                        <span class="em-unit">${coal.unit || '元/吨'}</span>
-                        <span class="em-trend ${trendCls(coal.trend)}">${trendIcon(coal.trend)} ${coal.pct || ''}</span>
+                        <span class="em-price">${safeEnergy(coal.price)}</span>
+                        <span class="em-unit">${safeEnergy(coal.unit || '元/吨')}</span>
+                        <span class="em-trend ${trendCls(coal.trend)}">${trendIcon(coal.trend)} ${safeEnergy(coal.pct || '')}</span>
                        </div>
-                       ${coal.note ? `<div class="em-date" style="font-style:italic;font-size:11px">${coal.note}</div>` : ''}
-                       <div class="em-date">${coal.date ? '数据日期：' + coal.date : ''}</div>`
+                       ${coal.note ? `<div class="em-date" style="font-style:italic;font-size:11px">${safeEnergy(coal.note)}</div>` : ''}
+                       <div class="em-date">${freshness(coal)}</div>`
                     : `<div class="em-placeholder" style="margin-bottom:4px">暂无有效报价<br><a href="https://www.sxcoal.com/" target="_blank" rel="noopener">→ 煤炭资源网</a></div>`
                 }
                 ${newcastle.price && newcastle.price !== '--'
                     ? `<hr class="em-divider">
                        <div class="em-asset">Newcastle动力煤 · 国际基准</div>
                        <div class="em-price-row">
-                           <span class="em-price">${newcastle.price}</span>
-                           <span class="em-unit">${newcastle.unit || 'USD/吨'}</span>
-                           <span class="em-trend ${trendCls(newcastle.trend)}">${trendIcon(newcastle.trend)} ${newcastle.pct || ''}</span>
+                           <span class="em-price">${safeEnergy(newcastle.price)}</span>
+                           <span class="em-unit">${safeEnergy(newcastle.unit || 'USD/吨')}</span>
+                           <span class="em-trend ${trendCls(newcastle.trend)}">${trendIcon(newcastle.trend)} ${safeEnergy(newcastle.pct || '')}</span>
                        </div>
-                       <div class="em-date">${newcastle.date ? '数据日期：' + newcastle.date : ''} · 月度</div>`
+                       <div class="em-date">${freshness(newcastle, 75, true)} · 月度</div>`
                     : ''
                 }
             </div>`;
@@ -769,15 +782,15 @@
                     <div class="em-card-label">A股 · 中证能源</div>
                     ${sparkline(idx.history, idx.trend)}
                 </div>
-                <div class="em-asset">${idx.name || '中证能源'} <span style="font-size:11px;color:var(--text-light);font-weight:400">${idx.code || '399928'}</span></div>
+                <div class="em-asset">${safeEnergy(idx.name || '中证能源')} <span style="font-size:11px;color:var(--text-light);font-weight:400">${safeEnergy(idx.code || '399928')}</span></div>
                 ${idx.price && idx.price !== '--'
                     ? `<div class="em-price-row" style="margin-top:8px">
-                        <span class="em-price">${idx.price}</span>
-                        <span class="em-trend ${trendCls(idx.trend)}">${trendIcon(idx.trend)} ${idx.pct || ''}</span>
+                        <span class="em-price">${safeEnergy(idx.price)}</span>
+                        <span class="em-trend ${trendCls(idx.trend)}">${trendIcon(idx.trend)} ${safeEnergy(idx.pct || '')}</span>
                        </div>
-                       ${idx.high && idx.low ? `<div class="em-date">最高 ${idx.high} · 最低 ${idx.low}</div>` : ''}
-                       ${idx.amount ? `<div class="em-date">成交额 ${idx.amount} 亿元</div>` : ''}
-                       <div class="em-date">${/^\d{4}-\d{2}-\d{2}$/.test(idx.date) ? '数据日期：' + idx.date : '来源未提供日期'}</div>`
+                       ${idx.high && idx.low ? `<div class="em-date">最高 ${safeEnergy(idx.high)} · 最低 ${safeEnergy(idx.low)}</div>` : ''}
+                       ${idx.amount ? `<div class="em-date">成交额 ${safeEnergy(idx.amount)} 亿元</div>` : ''}
+                       <div class="em-date">${freshness(idx)}</div>`
                     : '<div class="em-placeholder">暂无有效报价<br><a href="https://quote.eastmoney.com/sz399928.html" target="_blank" rel="noopener">→ 东方财富·中证能源</a></div>'
                 }
             </div>`;
@@ -790,11 +803,11 @@
                 </div>
                 <div class="em-asset">人民币兑美元</div>
                 <div class="em-price-row" style="margin-top:10px">
-                    <span class="em-price">${fx.price || '--'}</span>
-                    <span class="em-unit">${fx.unit || 'CNY/USD'}</span>
-                    <span class="em-trend ${trendCls(fx.trend)}">${trendIcon(fx.trend)} ${fx.pct || ''}</span>
+                    <span class="em-price">${safeEnergy(fx.price || '--')}</span>
+                    <span class="em-unit">${safeEnergy(fx.unit || 'CNY/USD')}</span>
+                    <span class="em-trend ${trendCls(fx.trend)}">${trendIcon(fx.trend)} ${safeEnergy(fx.pct || '')}</span>
                 </div>
-                <div class="em-date">${fx.date ? '数据日期：' + fx.date : ''}</div>
+                <div class="em-date">${freshness(fx)}</div>
             </div>`;
 
             // 卡片 7：制氢参考（FRED PPI）
@@ -803,10 +816,10 @@
                     <div class="em-card-label">制氢参考 · FRED</div>
                     ${sparkline(ppi.history, 'flat')}
                 </div>
-                <div class="em-asset">${ppi.desc || '美国工业气体 PPI'}</div>
-                <div class="em-ppi-num">${ppi.index || '--'}</div>
-                <div class="em-ppi-base">${ppi.base || '2012=100'} · ${ppi.period || '--'}</div>
-                <div class="em-date" style="margin-top:6px">来源：${ppi.source || 'FRED / 美联储'}</div>
+                <div class="em-asset">${safeEnergy(ppi.desc || '美国工业气体 PPI')}</div>
+                <div class="em-ppi-num">${safeEnergy(ppi.index || '--')}</div>
+                <div class="em-ppi-base">${safeEnergy(ppi.base || '2012=100')} · ${freshness(ppi, 75, true)}</div>
+                <div class="em-date" style="margin-top:6px">来源：${safeEnergy(ppi.source || 'FRED / 美联储')}</div>
             </div>`;
 
             grid.innerHTML = oilCard + ngCard + ceaCard + coalCard + idxCard + fxCard + h2Card;
@@ -814,7 +827,7 @@
             const upd = d.updated || wti.updated || '';
             if (upd) {
                 const el = document.getElementById('em-updated');
-                if (el) el.textContent = '更新于 ' + fmtBJ(upd) + '（北京时间）';
+                if (el) el.textContent = '最近采集：' + fmtBJ(upd) + '（北京时间，非实时报价）';
             }
         } catch (e) {
             if (grid && !grid.querySelector('.em-card')) grid.innerHTML = '<div class="em-loading">能源数据加载失败，请稍后刷新</div>';
@@ -1755,6 +1768,7 @@
         });
     })();
 </script>
+    <script defer src="js/site-health.js?v=1"></script>
     <!-- 移动端优化 -->
     <script src="js/mobile-optimize.js"></script>
 </body>
