@@ -7,7 +7,7 @@ import textwrap
 from html.parser import HTMLParser
 from pathlib import Path
 
-for name in ('scripts/check-site-health.py','scripts/archive/daily_update.py','scripts/build-site-index.py','scripts/validate-site.py'):
+for name in ('scripts/check-site-health.py','scripts/archive/daily_update.py','scripts/build-site-index.py','scripts/validate-site.py','scripts/carbon-quotes.py','scripts/fetch-weread-public.py'):
     ast.parse(Path(name).read_text(encoding='utf-8'), filename=name)
 
 for path in Path('.github/workflows').glob('*.yml'):

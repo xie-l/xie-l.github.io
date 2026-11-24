@@ -330,6 +330,29 @@
                         <div id="w-weather-time" style="font-size:11px;color:var(--text-light);margin-top:6px;opacity:.7;"></div>
                     </div>
 
+                    <!-- 微信读书：仅公开书籍，数据缺失时保留明确提示 -->
+                    <section class="sidebar-widget" id="weread-widget" aria-labelledby="wr-heading">
+                        <h3 class="widget-title" id="wr-heading">微信读书 · 公开阅读</h3>
+                        <div style="display:flex;gap:12px;align-items:flex-start">
+                            <div class="wr-cover-placeholder" aria-hidden="true" style="width:44px;height:64px;display:grid;place-items:center;background:var(--bg-light,#eee);border-radius:5px;flex-shrink:0">📖</div>
+                            <div style="min-width:0;flex:1">
+                                <div id="wr-title" style="font-weight:600;overflow-wrap:anywhere">等待有效书架数据</div>
+                                <div id="wr-author" style="font-size:12px"></div>
+                                <div id="wr-pct" style="font-size:12px;margin-top:4px">进度未提供</div>
+                                <div style="height:4px;background:#8883;border-radius:4px;overflow:hidden"><div id="wr-bar" style="height:4px;width:0;background:var(--secondary-color,#438b85)"></div></div>
+                            </div>
+                        </div>
+                        <div id="wr-recent-list" style="display:grid;gap:6px;margin-top:12px"></div>
+                        <p id="wr-updated" class="widget-update-info" aria-live="polite">正在检测授权与书架数据…</p>
+                        <a href="https://weread.qq.com/" target="_blank" rel="noopener noreferrer">打开微信读书</a>
+                    </section>
+                    <section class="sidebar-widget" aria-labelledby="academic-heading">
+                        <h3 class="widget-title" id="academic-heading">学术统计</h3>
+                        <div id="academic-snapshot" aria-live="polite">正在读取已核验的作者数据…</div>
+                        <p class="widget-update-info" id="academic-snapshot-time"></p>
+                        <a href="https://www.semanticscholar.org/author/14696333" target="_blank" rel="noopener noreferrer">Semantic Scholar 作者档案</a>
+                    </section>
+
                     <!-- 快速链接 -->
                     <div class="sidebar-widget">
                         <h3 class="widget-title">快速链接</h3>
@@ -875,13 +898,13 @@
                 if (barEl)    barEl.style.width    = (pct ?? 0) + '%';
                 if (pctEl)    pctEl.textContent    = pct == null ? '进度未提供' : '已读 ' + pct + '%';
                 // 封面图
-                if (r.cover) {
+                if (r.cover && /^https:\/\//i.test(r.cover)) {
                     const placeholder = widget.querySelector('.wr-cover-placeholder');
                     if (placeholder) {
                         const img = document.createElement('img');
                         img.className = 'wr-cover';
+                        img.style.cssText = 'width:44px;height:64px;object-fit:cover;border-radius:5px;flex-shrink:0';
                         // 使用图片代理绕过豆瓣防盗链
-                        if (!/^https:\/\//i.test(r.cover)) return;
                         img.referrerPolicy = 'no-referrer';
                         img.src = r.cover;
                         img.alt = r.title;
@@ -903,6 +926,7 @@
                         const finishMark = b.finished ? '✓' : (b.progress ? b.progress + '%' : '');
                         const row = document.createElement('div');
                         row.className = 'wr-recent-item';
+                        row.style.cssText = 'display:flex;justify-content:space-between;gap:8px;font-size:12px';
                         const title = document.createElement('span');
                         title.textContent = b.title || '';
                         title.style.cssText = 'overflow:hidden;white-space:nowrap;text-overflow:ellipsis;max-width:130px';
@@ -924,6 +948,26 @@
         }
     })();
 
+    (async function loadVerifiedAcademic() {
+        const host = document.getElementById('academic-snapshot');
+        const time = document.getElementById('academic-snapshot-time');
+        try {
+            const d = await readSnapshot('academic');
+            const a = d.author || {};
+            if (String(a.author_id || '') !== '14696333') throw Error('unverified author');
+            host.replaceChildren();
+            for (const [label, value] of [['论文',a.paper_count],['引用',a.citation_count],['h-index',a.h_index]]) {
+                const row = document.createElement('div');
+                row.style.cssText='display:flex;justify-content:space-between;padding:4px 0';
+                const name=document.createElement('span');name.textContent=label;
+                const number=document.createElement('strong');number.textContent=Number.isFinite(value)?String(value):'未提供';
+                row.append(name,number);host.append(row);
+            }
+            time.textContent='Semantic Scholar · '+fmtBJ(d.updated)+'（北京时间）';
+        } catch (_) {
+            host.textContent='暂无经过核验的作者统计';
+        }
+    })();
     // ========== 今日数感 / 每日五词 / 今日三问 ==========
     // 从外部 JSON 数据池加载，使用 LCG 穷举循环（全部展示后才重复）
     function lcgShuffle(items, seed) {
