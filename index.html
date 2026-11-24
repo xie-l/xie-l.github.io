@@ -96,6 +96,21 @@
                     </section>
 
                     <!-- 资讯动态 -->
+                    <section id="yinxiang-selection" class="section" aria-labelledby="yinxiang-heading">
+                        <h2 id="yinxiang-heading" class="section-title">印象笔记 · 精选知识</h2>
+                        <p class="widget-update-info">仅展示经过审核的公开摘录；完整笔记及附件保存在独立私有仓库。</p>
+                        <div id="yinxiang-daily" aria-live="polite"></div>
+                        <div style="display:flex;flex-wrap:wrap;gap:8px;margin:14px 0">
+                            <input id="yinxiang-search" type="search" placeholder="搜索标题、摘要、标签" aria-label="搜索精选笔记" style="flex:1;min-width:160px;padding:9px;border:1px solid #8886;border-radius:6px;background:transparent;color:inherit">
+                            <select id="yinxiang-category" aria-label="按类别筛选" style="max-width:45%;padding:9px;border:1px solid #8886;border-radius:6px;background:var(--bg-light,#fff);color:inherit"><option value="">全部分类</option></select>
+                            <button id="yinxiang-order" type="button" style="padding:9px;border:1px solid #8886;border-radius:6px;background:transparent;color:inherit">最近更新</button>
+                        </div>
+                        <p id="yinxiang-status" class="widget-update-info" role="status">正在读取公开精选清单…</p>
+                        <div id="yinxiang-list" style="display:grid;gap:10px"></div>
+                        <button id="yinxiang-more" type="button" hidden>加载更多</button>
+                        <p><a href="https://app.yinxiang.com/" target="_blank" rel="noopener noreferrer">打开我的印象笔记</a></p>
+                    </section>
+
                     <section id="news-feed" class="section">
                         <div class="section-header">
                             <h2 class="section-title">资讯动态<span class="update-cycle daily">每日采集 4 次</span></h2>
@@ -459,6 +474,7 @@
                     </div>
 
 <script src="js/main.js?v=daily2"></script>
+<script src="js/yinxiang-selection.js?v=1" defer></script>
     <style>
         #email-toast {
             position: fixed; bottom: 28px; left: 50%;

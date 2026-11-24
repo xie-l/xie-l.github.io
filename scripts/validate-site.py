@@ -7,7 +7,7 @@ import textwrap
 from html.parser import HTMLParser
 from pathlib import Path
 
-for name in ('scripts/check-site-health.py','scripts/archive/daily_update.py','scripts/build-site-index.py','scripts/validate-site.py','scripts/carbon-quotes.py','scripts/fetch-weread-public.py'):
+for name in ('scripts/check-site-health.py','scripts/archive/daily_update.py','scripts/build-site-index.py','scripts/validate-site.py','scripts/carbon-quotes.py','scripts/fetch-weread-public.py','scripts/validate-yinxiang-selection.py'):
     ast.parse(Path(name).read_text(encoding='utf-8'), filename=name)
 
 for path in Path('.github/workflows').glob('*.yml'):
@@ -22,7 +22,7 @@ for path in Path('.github/workflows').glob('*.yml'):
             raise ValueError(f'{path}:{i+1}: missing Python heredoc terminator')
         ast.parse(textwrap.dedent('\n'.join(lines[i+1:end])), filename=f'{path}:{i+1}')
 
-for name in ('js/site-health.js','admin/main.js','admin/profile-editor.js'):
+for name in ('js/site-health.js','js/yinxiang-selection.js','admin/main.js','admin/profile-editor.js'):
     subprocess.run(['node','--check',name],check=True)
 for name in ('scripts/build-public-site.sh','scripts/push-data-update.sh'):
     subprocess.run(['bash','-n',name],check=True)
@@ -52,4 +52,5 @@ for name in ('index.html','admin/login.html','admin/dashboard.html'):
             f.write(s)
             f.flush()
             subprocess.run(['node','--check',f.name],check=True)
+subprocess.run(['python3','scripts/validate-yinxiang-selection.py'],check=True)
 print('Source syntax checks passed.')
