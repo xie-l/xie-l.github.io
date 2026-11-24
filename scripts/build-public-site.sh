@@ -10,7 +10,7 @@ done
 for dir in css js img images assets fonts blog files data pagefind admin; do
   [ -d "$dir" ] || continue
   mkdir -p "$out/$dir"
-  rsync -a --exclude='.*' --exclude='*.bak' --exclude='*.original' --exclude='*.log' --exclude='*.env' --exclude='*~' --exclude='backups/' --exclude='drafts/' --exclude='*.pem' --exclude='*.key' --exclude='node_modules/' "$dir/" "$out/$dir/"
+  rsync -a --exclude='.*' --exclude='*.bak' --exclude='*.backup' --exclude='*.backup.*' --exclude='*-test.json' --exclude='*.tmp' --exclude='*.temp' --exclude='*-optimized.html' --exclude='*.original' --exclude='*.log' --exclude='*.env' --exclude='*~' --exclude='backups/' --exclude='drafts/' --exclude='*.pem' --exclude='*.key' --exclude='node_modules/' "$dir/" "$out/$dir/"
 done
 # Public repository contents remain public even if excluded here.
 test -s "$out/index.html"
