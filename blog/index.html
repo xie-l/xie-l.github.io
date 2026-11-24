@@ -287,7 +287,7 @@
         (function () {
             const fab     = document.getElementById('qrFab');
             // 未登录时隐藏按钮，访客看不到
-            if (!localStorage.getItem('github_token')) {
+            if (!sessionStorage.getItem('github_token')) {
                 fab.style.display = 'none';
                 return; // 直接退出，不绑定任何事件
             }
@@ -531,9 +531,9 @@
                 }
                 if (!raw)   { statusEl.textContent = '请写点内容'; bodyEl.focus(); return; }
 
-                const token = localStorage.getItem('github_token');
-                const owner = localStorage.getItem('github_owner');
-                const repo  = localStorage.getItem('github_repo');
+                const token = sessionStorage.getItem('github_token');
+                const owner = sessionStorage.getItem('github_owner');
+                const repo  = sessionStorage.getItem('github_repo');
                 if (!token || !owner || !repo) {
                     statusEl.textContent = '请先登录管理员面板';
                     setTimeout(function(){ window.open('/admin/login.html','_blank'); }, 800);
