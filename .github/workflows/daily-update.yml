@@ -2,7 +2,7 @@ name: 每日数据自动更新
 
 on:
   schedule:
-    # 每天北京时间 8:00 运行 (UTC 0:00)
+    # 每天北京时间 08:13 运行 (UTC 00:13)
     - cron: '13 0 * * *'
   workflow_dispatch:  # 允许手动触发
 
@@ -53,7 +53,6 @@ jobs:
           - 更新今日三问
           - 更新每日五词
           - 更新今日数感
-          - 更新天气数据
           - 更新时间戳"
           bash scripts/push-data-update.sh
 
