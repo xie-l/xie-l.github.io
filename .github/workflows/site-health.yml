@@ -1,5 +1,12 @@
 name: Site Health and Alerts
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/check-site-health.py'
+      - '.github/workflows/site-health.yml'
+      - 'scripts/build-public-site.sh'
+      - 'js/site-health.js'
   schedule:
     - cron: '51 1 * * *'
   workflow_dispatch:
