@@ -726,21 +726,21 @@
                     <div class="em-card-label">原油行情</div>
                     ${sparkline(wti.history, wti.trend)}
                 </div>
-                <div class="em-asset">WTI 美国原油</div>
+                <div class="em-asset">${safeEnergy(wti.label || 'WTI 美国原油')}</div>
                 <div class="em-price-row">
                     <span class="em-price">${safeEnergy(wti.price || '--')}</span>
                     <span class="em-unit">${safeEnergy(wti.unit || 'USD/桶')}</span>
                     <span class="em-trend ${trendCls(wti.trend)}">${trendIcon(wti.trend)} ${safeEnergy(wti.pct || '')}</span>
                 </div>
                 <hr class="em-divider">
-                <div class="em-asset">布伦特原油</div>
+                <div class="em-asset">${safeEnergy(brent.label || '布伦特原油')}</div>
                 <div class="em-price-row">
                     <span class="em-price">${safeEnergy(brent.price || '--')}</span>
                     <span class="em-unit">${safeEnergy(brent.unit || 'USD/桶')}</span>
                     <span class="em-trend ${trendCls(brent.trend)}">${trendIcon(brent.trend)} ${safeEnergy(brent.pct || '')}</span>
                 </div>
-                <div class="em-date">WTI · ${freshness(wti, 8)}</div>
-                <div class="em-date">Brent · ${freshness(brent, 8)}</div>
+                <div class="em-date">WTI · ${safeEnergy(wti.source || 'FRED')} · ${freshness(wti, 8)}</div>
+                <div class="em-date">Brent · ${safeEnergy(brent.source || 'FRED')} · ${freshness(brent, 8)}</div>
             </div>`;
 
             // 卡片 2：天然气（Henry Hub）
@@ -749,13 +749,14 @@
                     <div class="em-card-label">天然气 · Henry Hub</div>
                     ${sparkline(ng.history, ng.trend)}
                 </div>
-                <div class="em-asset">美国天然气现货价</div>
+                <div class="em-asset">${safeEnergy(ng.label || '美国天然气现货价')}</div>
                 <div class="em-price-row" style="margin-top:10px">
                     <span class="em-price">${safeEnergy(ng.price || '--')}</span>
                     <span class="em-unit">${safeEnergy(ng.unit || 'USD/MMBtu')}</span>
                     <span class="em-trend ${trendCls(ng.trend)}">${trendIcon(ng.trend)} ${safeEnergy(ng.pct || '')}</span>
                 </div>
-                <div class="em-date">${freshness(ng, 8)}</div>
+                <div class="em-date">${safeEnergy(ng.source || 'FRED')} · ${freshness(ng, 8)}</div>
+                ${ng.note ? `<div class="em-date">${safeEnergy(ng.note)}</div>` : ''}
             </div>`;
 
             // 卡片 3：碳市场（CEA + EU ETS）
