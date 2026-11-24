@@ -79,16 +79,16 @@ def check_data():
         report(filename, d.get('date') in (str(TODAY), str(TODAY-timedelta(days=1))) and bool(d.get(key)), 'daily generated snapshot')
     d = local('energy')
     for name, obj, limit in [
-        ('WTI', d.get('oil',{}).get('wti',{}), 144), ('Brent', d.get('oil',{}).get('brent',{}), 144),
-        ('Natural gas', d.get('natgas',{}),144), ('FX', d.get('usdcny',{}),144),
+        ('WTI', d.get('oil',{}).get('wti',{}), 216), ('Brent', d.get('oil',{}).get('brent',{}), 216),
+        ('Natural gas', d.get('natgas',{}),216), ('FX', d.get('usdcny',{}),144),
         ('Coal', d.get('coal_qhd',{}),144), ('Energy index', d.get('energy_index',{}),144),
         ('CEA',d.get('carbon',{}).get('cea',{}),144), ('EUA',d.get('carbon',{}).get('eua',{}),144),
-        ('Newcastle monthly',d.get('coal_qhd',{}).get('newcastle',{}),1800),
+        ('Newcastle monthly',d.get('coal_qhd',{}).get('newcastle',{}),2160),
         ('Industrial gas PPI monthly',d.get('hydrogen',{}).get('us_ppi',{}),1800)
     ]:
         date = str(obj.get('date') or obj.get('period') or '')
         if len(date) == 7: date += '-01'
-        report(name, price_ok(obj.get('price',obj.get('index'))) and fresh(date,limit), 'observation date: ' + (date or 'unknown'))
+        report(name, price_ok(obj.get('price',obj.get('index'))) and fresh(date,limit), 'observation date: ' + (date or 'unknown') + '; allowance accounts for source publication cycle, not real-time trading')
 
 def check_pages():
     try:

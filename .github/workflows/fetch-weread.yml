@@ -1,163 +1,36 @@
 name: Fetch WeChat Reading Data
 
-# ─────────────────────────────────────────────────────────────────────────────
-# 使用前提：
-#   1. 打开 https://weread.qq.com，扫码登录
-#   2. 按 F12 → Application → Cookies → weread.qq.com
-#   3. 在右侧找到 Name=wr_skey 的 Cookie（或复制全部 cookie 字符串）
-#   4. 在 GitHub 仓库 → Settings → Secrets → Actions → New repository secret
-#      Name: WEREAD_COOKIE   Value: <粘贴 cookie 字符串>
-#   5. Cookie 约 7-30 天过期，过期后需要重新获取并更新 Secret
-# ─────────────────────────────────────────────────────────────────────────────
-
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-weread.yml'
+      - 'scripts/fetch-weread-public.py'
   schedule:
-    - cron: '5 2 * * *'   # 每天 02:05 UTC（北京时间 10:05）
+    - cron: '5 2 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 concurrency:
   group: collector-${{ github.workflow }}
   cancel-in-progress: false
-
 jobs:
   fetch-weread:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Fetch WeChat Reading data
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch official public bookshelf
         env:
-          WEREAD_COOKIE: ${{ secrets.WEREAD_COOKIE }}
-        run: |
-          python3 << 'PYEOF'
-          import urllib.request, urllib.error, json, os, re, sys
-          from datetime import datetime, timezone
-
-          now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-          cookie = os.environ.get('WEREAD_COOKIE', '').strip()
-
-          class SourceUnavailable(Exception):
-              pass
-
-          def defer_source(reason):
-              print('::warning::WeRead: '+reason+'；保留历史有效数据')
-              with open(os.environ['GITHUB_STEP_SUMMARY'],'a',encoding='utf-8') as f:
-                  f.write('微信读书：待恢复（'+reason+'）；本次未更新数据。\n')
-              sys.exit(0)
-
-          if not cookie:
-              defer_source('授权未配置')
-
-          HEADERS = {
-              'Cookie':     cookie,
-              'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-              'Referer':    'https://weread.qq.com/',
-              'Accept':     'application/json, text/plain, */*'
-          }
-
-          def api_get(url):
-              req = urllib.request.Request(url, headers=HEADERS)
-              with urllib.request.urlopen(req, timeout=15) as r:
-                  return json.load(r)
-
-          # ── 获取书架 ───────────────────────────────────────────────────────
-          reading = None
-          recent  = []
-
-          try:
-              shelf = api_get('https://weread.qq.com/web/shelf/sync?synckey=0&virtualGroupId=0')
-              if not isinstance(shelf, dict) or shelf.get('errcode') or shelf.get('errorCode') or shelf.get('error'):
-                  raise SourceUnavailable('书架接口返回错误，请检查授权')
-              books = shelf.get('books') or shelf.get('shelf') or shelf.get('bookList') or []
-              if not isinstance(books, list) or not books:
-                  raise SourceUnavailable('书架为空或响应结构变化')
-              print(f'[OK] shelf: {len(books)} books, bookProgress: {len(shelf.get("bookProgress", []))}')
-
-                      # 按最近阅读时间排序（bookProgress 字段记录每本的最后阅读时间）
-              progress_map = {}
-              for p in shelf.get('bookProgress', []):
-                  bid = p.get('bookId', '')
-                  ts  = p.get('readingDate') or p.get('updateTime') or 0
-                  if bid:
-                      progress_map[bid] = ts
-
-              # 把进度时间戳合并到 books，然后排序
-              for b in books:
-                  bid = (b.get('book') or b).get('bookId', '') or b.get('bookId', '')
-                  b['_lastTs'] = progress_map.get(bid, b.get('readingBookDate', 0) or 0)
-              books.sort(key=lambda b: b.get('_lastTs', 0), reverse=True)
-
-              for i, book_obj in enumerate(books[:10]):
-                  # 书的基础信息：优先取嵌套的 book 子对象，否则直接用 book_obj
-                  book   = book_obj.get('book') or book_obj
-                  title  = book.get('title', '')
-                  author = book.get('author', '')
-                  cover  = book.get('cover', '')
-
-                  if not title:
-                      continue   # 跳过没有标题的条目
-
-                  # 进度百分比：readingProgress 可能是 0-100 或 0-10000
-                  prog_raw = book_obj.get('readingProgress', 0) or 0
-                  progress = int(prog_raw / 100) if prog_raw > 100 else int(prog_raw)
-                  finished = bool(book_obj.get('finishReading')) or (progress >= 100)
-
-                  last_ts = book_obj.get('_lastTs', 0) or 0
-                  if last_ts > 1e10:   # 毫秒转秒
-                      last_ts = int(last_ts / 1000)
-                  last_date = datetime.fromtimestamp(last_ts, tz=timezone.utc).strftime('%Y-%m-%d') if last_ts else ''
-
-                  entry = {
-                      'title':     title,
-                      'author':    author,
-                      'cover':     cover,
-                      'progress':  progress,
-                      'finished':  finished,
-                      'last_read': last_date
-                  }
-
-                  # reading = 最近读的一本（不管读没读完）
-                  if reading is None:
-                      reading = entry
-                  recent.append(entry)
-                  if len(recent) >= 5:
-                      break
-
-          except SourceUnavailable as e:
-              defer_source(str(e))
-          except (urllib.error.URLError, json.JSONDecodeError, TimeoutError):
-              defer_source('外部接口暂不可用或授权过期')
-
-          if not reading or not recent:
-              defer_source('没有解析到有效书籍')
-
-          result = {
-              'reading': reading,
-              'recent':  recent[:5],
-              'updated': now_utc
-          }
-
-          os.makedirs('data', exist_ok=True)
-          with open('data/weread.json', 'w', encoding='utf-8') as f:
-              json.dump(result, f, ensure_ascii=False, indent=2)
-          print(f'Wrote data/weread.json: recent={len(recent)}')
-          PYEOF
-
-      - name: Report synchronization failure
-        if: failure()
-        run: echo '微信读书同步失败：检查 WEREAD_COOKIE、接口授权或响应格式；历史数据未被覆盖。' >> "$GITHUB_STEP_SUMMARY"
-
+          WEREAD_API_KEY: ${{ secrets.WEREAD_API_KEY }}
+        run: python3 scripts/fetch-weread-public.py
       - name: Commit and push
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/weread.json
-          git diff --staged --quiet \
-            && echo "No changes to commit." \
-            || (git commit -m "chore: update weread data [skip ci]" \
-                && bash scripts/push-data-update.sh)
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update public WeRead snapshot [skip ci]"
+            bash scripts/push-data-update.sh
+          fi

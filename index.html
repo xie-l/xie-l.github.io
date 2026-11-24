@@ -696,8 +696,8 @@
                     <span class="em-unit">${safeEnergy(brent.unit || 'USD/桶')}</span>
                     <span class="em-trend ${trendCls(brent.trend)}">${trendIcon(brent.trend)} ${safeEnergy(brent.pct || '')}</span>
                 </div>
-                <div class="em-date">WTI · ${freshness(wti)}</div>
-                <div class="em-date">Brent · ${freshness(brent)}</div>
+                <div class="em-date">WTI · ${freshness(wti, 8)}</div>
+                <div class="em-date">Brent · ${freshness(brent, 8)}</div>
             </div>`;
 
             // 卡片 2：天然气（Henry Hub）
@@ -712,7 +712,7 @@
                     <span class="em-unit">${safeEnergy(ng.unit || 'USD/MMBtu')}</span>
                     <span class="em-trend ${trendCls(ng.trend)}">${trendIcon(ng.trend)} ${safeEnergy(ng.pct || '')}</span>
                 </div>
-                <div class="em-date">${freshness(ng)}</div>
+                <div class="em-date">${freshness(ng, 8)}</div>
             </div>`;
 
             // 卡片 3：碳市场（CEA + EU ETS）
@@ -734,14 +734,14 @@
                 }
                 ${eua.price && eua.price !== '--'
                     ? `<hr class="em-divider">
-                       <div class="em-asset">欧盟碳市场 · EUA</div>
+                       <div class="em-asset">欧盟碳市场 · EUA 一级拍卖</div>
                        <div class="em-price-row">
                            <span class="em-price">${safeEnergy(eua.price)}</span>
                            <span class="em-unit">${safeEnergy(eua.unit || '€/吨')}</span>
                            <span class="em-trend ${trendCls(eua.trend)}">${trendIcon(eua.trend)} ${safeEnergy(eua.pct || '')}</span>
                        </div>
                        <div class="em-date">${freshness(eua)}</div>`
-                    : '<div class="em-placeholder">欧盟碳市场 · EUA：暂无有效报价</div>'
+                    : '<div class="em-placeholder">欧盟碳市场 · EUA 一级拍卖：暂无有效报价</div>'
                 }
             </div>`;
 
@@ -765,13 +765,13 @@
                 }
                 ${newcastle.price && newcastle.price !== '--'
                     ? `<hr class="em-divider">
-                       <div class="em-asset">Newcastle动力煤 · 国际基准</div>
+                       <div class="em-asset">澳大利亚煤价 · IMF月度</div>
                        <div class="em-price-row">
                            <span class="em-price">${safeEnergy(newcastle.price)}</span>
                            <span class="em-unit">${safeEnergy(newcastle.unit || 'USD/吨')}</span>
                            <span class="em-trend ${trendCls(newcastle.trend)}">${trendIcon(newcastle.trend)} ${safeEnergy(newcastle.pct || '')}</span>
                        </div>
-                       <div class="em-date">${freshness(newcastle, 75, true)} · 月度</div>`
+                       <div class="em-date">${freshness(newcastle, 90, true)} · 月度</div>`
                     : ''
                 }
             </div>`;
@@ -871,9 +871,9 @@
                 const pctEl    = document.getElementById('wr-pct');
                 if (titleEl)  titleEl.textContent  = r.title  || '--';
                 if (authorEl) authorEl.textContent = r.author || '';
-                const pct = Math.min(100, Math.max(0, r.progress || 0));
-                if (barEl)    barEl.style.width    = pct + '%';
-                if (pctEl)    pctEl.textContent    = '已读 ' + pct + '%';
+                const pct = r.progress == null ? null : Math.min(100, Math.max(0, Number(r.progress)));
+                if (barEl)    barEl.style.width    = (pct ?? 0) + '%';
+                if (pctEl)    pctEl.textContent    = pct == null ? '进度未提供' : '已读 ' + pct + '%';
                 // 封面图
                 if (r.cover) {
                     const placeholder = widget.querySelector('.wr-cover-placeholder');
@@ -881,8 +881,9 @@
                         const img = document.createElement('img');
                         img.className = 'wr-cover';
                         // 使用图片代理绕过豆瓣防盗链
-                        const proxyUrl = 'https://images.weserv.nl/?url=' + encodeURIComponent(r.cover) + '&w=80&h=120&fit=cover';
-                        img.src = proxyUrl;
+                        if (!/^https:\/\//i.test(r.cover)) return;
+                        img.referrerPolicy = 'no-referrer';
+                        img.src = r.cover;
                         img.alt = r.title;
                         img.onerror = () => {
                             // 图片加载失败时，显示回退图标

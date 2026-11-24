@@ -1,6 +1,11 @@
 name: Fetch Energy Market Data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/fetch-energy.yml'
+      - 'scripts/carbon-quotes.py'
   schedule:
     - cron: '5 1 * * *'   # 每天 01:05 UTC（北京时间 09:05）
   workflow_dispatch:
@@ -21,7 +26,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Install dependencies
-        run: pip install akshare -q
+        run: pip install akshare beautifulsoup4 openpyxl -q
 
       - name: Fetch energy market data
         env:
@@ -457,8 +462,8 @@ jobs:
                       'pct':     f'{pct_coal:+.2f}%',
                       'trend':   'up' if chg_coal >= 0 else 'down',
                       'date':    latest_coal[0],
-                      'label':   'Newcastle动力煤（FRED月度）',
-                      'source':  'FRED / World Bank',
+                      'label':   '澳大利亚煤价（IMF/FRED月度）',
+                      'source':  'IMF / FRED',
                       'history': hist_coal,
                       'updated': now_utc
                   }
@@ -604,6 +609,28 @@ jobs:
                   'updated': now_utc
               }
 
+          # Explicitly identified alternative carbon-market observations.
+          import importlib.util
+          spec = importlib.util.spec_from_file_location('carbon_quotes','scripts/carbon-quotes.py')
+          cq = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(cq)
+          for name, getter in [('cea',cq.cea),('eua',cq.eua)]:
+              try:
+                  quote = getter()
+                  quote['updated'] = now_utc
+                  previous = old_data.get('carbon',{}).get(name,{})
+                  if name == 'cea':
+                      # Do not mix legacy local-market history with the national CEA series.
+                      quote['history'] = (list(previous.get('history',[])) if previous.get('market_type') == quote['market_type'] else [])
+                      if previous.get('date') != quote['date'] or not quote['history']:
+                          quote['history'] = append_history(quote['history'],quote['price'])
+                  carbon_result[name] = quote
+                  print(f'[OK] {name} verified observation {quote["date"]}: {quote["price"]}')
+              except Exception as exc:
+                  print(f'::warning::{name} alternate source unavailable: {type(exc).__name__}')
+                  # Only publish explicitly identified comparable series.
+                  if name == 'eua' or not carbon_result.get(name,{}).get('market_type'):
+                      carbon_result[name] = {'price':'--','updated':now_utc}
           # ── 写入 JSON ─────────────────────────────────────────────────────
           result = {
               'oil': {
@@ -632,7 +659,7 @@ jobs:
               field = 'index' if key == 'us_ppi' else 'price'
               current_date = str(current.get('date') or current.get('period') or '')
               previous_date = str(previous.get('date') or previous.get('period') or '')
-              if previous.get(field) not in (None, '', '--') and (current.get(field) in (None, '', '--') or (previous_date and current_date < previous_date)):
+              if (key not in ('cea','eua') or previous.get('market_type') in ('national_cea_close','eua_primary_auction')) and previous.get(field) not in (None, '', '--') and (current.get(field) in (None, '', '--') or (previous_date and current_date < previous_date)):
                   cached = dict(previous)
                   if key == 'coal_qhd' and 'newcastle' in current:
                       cached['newcastle'] = current['newcastle']
