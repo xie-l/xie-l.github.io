@@ -19,11 +19,12 @@ on:
     branches: [main]
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
-  group: github-pages
-  cancel-in-progress: false
+  group: custom-public-pages
+  cancel-in-progress: true
 jobs:
   deploy:
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
@@ -52,5 +53,7 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      - name: Allow artifact metadata to propagate
+        run: sleep 10
       - uses: actions/deploy-pages@v4
         id: deployment
