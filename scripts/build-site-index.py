@@ -1,0 +1,290 @@
+import os, re, json, glob
+from html.parser import HTMLParser
+from datetime import datetime, timezone, date
+
+now_utc = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+today   = date.today().isoformat()
+
+# ── HTML 解析器 ───────────────────────────────────────────────────
+class BlogParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self._in_h1_post   = False
+        self._in_content   = False
+        self._in_tag_span  = False
+        self._depth_content= 0
+        self._depth_span   = 0
+        self._title        = ''
+        self._content_text = ''
+        self._tags         = []
+        self._date_raw     = ''
+        self._next_is_date = False
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        cls = attrs.get('class', '')
+        if tag == 'h1' and 'post-title' in cls:
+            self._in_h1_post = True
+        if tag == 'div' and 'post-content' in cls:
+            self._in_content = True
+            self._depth_content = 0
+        if self._in_content and tag == 'div':
+            self._depth_content += 1
+        if tag == 'span' and 'tag' in cls:
+            self._in_tag_span = True
+            self._depth_span = 0
+        if tag == 'i' and 'fa-calendar' in cls:
+            self._next_is_date = True
+
+    def handle_endtag(self, tag):
+        if tag == 'h1' and self._in_h1_post:
+            self._in_h1_post = False
+        if self._in_content and tag == 'div':
+            if self._depth_content == 0:
+                self._in_content = False
+            else:
+                self._depth_content -= 1
+        if tag == 'span' and self._in_tag_span:
+            self._in_tag_span = False
+
+    def handle_data(self, data):
+        if self._in_h1_post and not self._title:
+            self._title = data.strip()
+        if self._in_content:
+            self._content_text += data
+        if self._in_tag_span:
+            tag = data.strip()
+            if tag:
+                self._tags.append(tag)
+        if self._next_is_date:
+            self._date_raw = data.strip()
+            self._next_is_date = False
+
+def parse_date(raw):
+    """'2026年04月03日' → '2026-04-03'"""
+    m = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', raw)
+    if m:
+        return f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
+    m2 = re.search(r'(\d{4}-\d{2}-\d{2})', raw)
+    return m2.group(1) if m2 else ''
+
+def count_words(text):
+    """中文字符 + 英文单词数"""
+    zh = len(re.findall(r'[\u4e00-\u9fff]', text))
+    en = len(re.findall(r'\b[a-zA-Z]+\b', text))
+    return zh + en
+
+def get_summary(text, maxlen=150):
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:maxlen] + ('…' if len(text) > maxlen else '')
+
+# ── 1. 扫描博客文章 ────────────────────────────────────────────────
+SKIP_NAMES = {'index.html', 'tags.html'}
+posts = []
+cat_counts = {}
+
+for path in sorted(glob.glob('blog/**/*.html', recursive=True)):
+    filename = os.path.basename(path)
+    if filename in SKIP_NAMES or filename.endswith('-optimized.html') or '/drafts/' in path.replace('\\', '/'):
+        continue
+    parts = path.replace('\\', '/').split('/')
+    # blog/{category}/{file}.html  OR  blog/{file}.html
+    if len(parts) >= 3:
+        category = parts[1]  # blog/life/... → life
+    else:
+        category = 'uncategorized'
+
+    try:
+        with open(path, encoding='utf-8') as f:
+            html = f.read()
+        parser = BlogParser()
+        parser.feed(html)
+
+        title   = parser._title or os.path.splitext(filename)[0]
+        raw_date = parser._date_raw
+        dt = parse_date(raw_date)
+        if not dt:
+            # Fallback: try to get mtime
+            mtime = os.path.getmtime(path)
+            dt = datetime.fromtimestamp(mtime, tz=timezone.utc).strftime('%Y-%m-%d')
+
+        content = parser._content_text
+        summary = get_summary(content)
+        wc = count_words(content)
+        tags = list(dict.fromkeys(parser._tags))  # dedup, preserve order
+
+        posts.append({
+            'title':      title,
+            'date':       dt,
+            'category':   category,
+            'tags':       tags,
+            'summary':    summary,
+            'word_count': wc,
+            'path':       path.replace('\\', '/')
+        })
+        cat_counts[category] = cat_counts.get(category, 0) + 1
+        print(f'[blog] {category}/{filename}: {wc} 字, {len(tags)} 标签')
+    except Exception as e:
+        print(f'[ERR blog] {path}: {e}')
+
+# 按日期倒序
+posts.sort(key=lambda p: p['date'], reverse=True)
+
+with open('data/blog-index.json', 'w', encoding='utf-8') as f:
+    json.dump({'posts': posts, 'updated': now_utc}, f, ensure_ascii=False, indent=2)
+print(f'Wrote data/blog-index.json: {len(posts)} posts')
+
+# ── 2. 扫描资源文件 ────────────────────────────────────────────────
+files_list = []
+skip_ext = {'.html', '.htm'}
+
+for root, dirs, filenames in os.walk('files'):
+    # 跳过 .git 等隐藏目录
+    dirs[:] = [d for d in dirs if not d.startswith('.')]
+    for fname in filenames:
+        _, ext = os.path.splitext(fname)
+        if ext.lower() in skip_ext:
+            continue
+        fpath = os.path.join(root, fname).replace('\\', '/')
+        stat = os.stat(fpath)
+        size = stat.st_size
+        # 人类可读大小
+        if size < 1024:
+            size_hr = f'{size} B'
+        elif size < 1024 * 1024:
+            size_hr = f'{size/1024:.1f} KB'
+        else:
+            size_hr = f'{size/1024/1024:.1f} MB'
+        mtime = datetime.fromtimestamp(stat.st_mtime, tz=timezone.utc).strftime('%Y-%m-%d')
+        parts = fpath.split('/')
+        category = parts[1] if len(parts) >= 3 else 'misc'
+        files_list.append({
+            'name':     fname,
+            'path':     fpath,
+            'size':     size,
+            'size_hr':  size_hr,
+            'mtime':    mtime,
+            'category': category,
+            'ext':      ext.lower()
+        })
+        print(f'[file] {fpath}: {size_hr}')
+
+files_list.sort(key=lambda x: x['mtime'], reverse=True)
+with open('data/files-index.json', 'w', encoding='utf-8') as f:
+    json.dump({'files': files_list, 'updated': now_utc}, f, ensure_ascii=False, indent=2)
+print(f'Wrote data/files-index.json: {len(files_list)} files')
+
+# ── 3. 站点统计 ────────────────────────────────────────────────────
+total_words = sum(p['word_count'] for p in posts)
+post_count  = len(posts)
+avg_words   = total_words // post_count if post_count else 0
+latest_date = posts[0]['date'] if posts else ''
+
+stats = {
+    'post_count':       post_count,
+    'total_words':      total_words,
+    'avg_words_per_post': avg_words,
+    'file_count':       len(files_list),
+    'latest_post_date': latest_date,
+    'categories':       cat_counts,
+    'updated':          now_utc
+}
+try:
+    with open('data/stats.json', encoding='utf-8') as f:
+        old_stats = json.load(f)
+    for key in ('update_count', 'last_update', 'start_date'):
+        if key in old_stats:
+            stats[key] = old_stats[key]
+except (OSError, ValueError):
+    pass
+with open('data/stats.json', 'w', encoding='utf-8') as f:
+    json.dump(stats, f, ensure_ascii=False, indent=2)
+print(f'Wrote data/stats.json: {post_count} posts, {total_words} words')
+
+# ── 4. Sitemap ────────────────────────────────────────────────────
+BASE = 'https://xie-l.github.io'
+EXCLUDE_DIRS = {'admin', 'node_modules', 'backups', 'obsidian-vault', 'logs', 'docs', 'scripts', 'tests', 'config', 'drafts'}
+
+def html_priority(path):
+    if path == 'index.html': return '1.0'
+    if path.startswith('blog/'): return '0.8'
+    if path.startswith('files/'): return '0.6'
+    return '0.5'
+
+urls = []
+for path in sorted(glob.glob('**/*.html', recursive=True)):
+    parts = path.replace('\\', '/').split('/')
+    if parts[0] in EXCLUDE_DIRS:
+        continue
+    loc = BASE + '/' + path.replace('\\', '/').lstrip('/')
+    mtime = datetime.fromtimestamp(os.path.getmtime(path), tz=timezone.utc).strftime('%Y-%m-%d')
+    urls.append((loc, mtime, html_priority(path.replace('\\', '/'))))
+
+sitemap_lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+for loc, lastmod, priority in urls:
+    sitemap_lines += [
+        '  <url>',
+        f'    <loc>{loc.replace(chr(38), chr(38)+"amp;").replace(chr(60), chr(38)+"lt;").replace(chr(62), chr(38)+"gt;")}</loc>',
+        f'    <lastmod>{lastmod}</lastmod>',
+        f'    <priority>{priority}</priority>',
+        '  </url>'
+    ]
+sitemap_lines.append('</urlset>')
+
+with open('sitemap.xml', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(sitemap_lines) + '\n')
+print(f'Wrote sitemap.xml: {len(urls)} URLs')
+
+# ── 5. RSS Feed ───────────────────────────────────────────────────
+import email.utils, time
+
+def rss_date(date_str):
+    try:
+        t = time.strptime(date_str, '%Y-%m-%d')
+        return email.utils.formatdate(time.mktime(t))
+    except Exception:
+        return email.utils.formatdate()
+
+def xml_esc(s):
+    return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+rss_items = []
+for p in posts[:20]:
+    url = BASE + '/' + p['path']
+    item_lines = [
+        '    <item>',
+        '      <title>' + xml_esc(p['title']) + '</title>',
+        '      <link>' + url + '</link>',
+        '      <guid isPermaLink="true">' + url + '</guid>',
+        '      <pubDate>' + rss_date(p['date']) + '</pubDate>',
+        '      <category>' + xml_esc(p['category']) + '</category>',
+        '      <description><![CDATA[' + p['summary'] + ']]></description>',
+        '    </item>',
+    ]
+    rss_items.append('\n'.join(item_lines))
+
+build_date = email.utils.formatdate()
+rss_lines = [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+    '  <channel>',
+    '    <title>谢亮的博客</title>',
+    '    <link>' + BASE + '/</link>',
+    '    <description>氢能 × 电催化 × 机器学习 — 谢亮的个人日记与思考</description>',
+    '    <language>zh-CN</language>',
+    '    <lastBuildDate>' + build_date + '</lastBuildDate>',
+    '    <atom:link href="' + BASE + '/feed.xml" rel="self" type="application/rss+xml"/>',
+    '    <image>',
+    '      <url>' + BASE + '/img/avatar.jpg</url>',
+    '      <title>谢亮的博客</title>',
+    '      <link>' + BASE + '/</link>',
+    '    </image>',
+] + rss_items + [
+    '  </channel>',
+    '</rss>',
+]
+
+with open('feed.xml', 'w', encoding='utf-8') as f:
+    f.write('\n'.join(rss_lines) + '\n')
+print('Wrote feed.xml: ' + str(len(rss_items)) + ' items')
