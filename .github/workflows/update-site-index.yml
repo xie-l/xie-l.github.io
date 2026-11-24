@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: collector-${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   update-index:
     runs-on: ubuntu-latest
@@ -344,15 +348,8 @@ jobs:
           git commit -m "chore: update site index, sitemap, RSS feed, and search index [skip ci]"
           
           # 尝试推送，如果失败则拉取远程更改并合并
-          if ! git push origin main; then
-            echo "Remote has updates, pulling and merging..."
-            git pull origin main --no-edit --strategy=recursive --strategy-option=theirs || {
-              echo "Error: Failed to pull and merge changes. Please check for conflicts manually."
-              exit 1
-            }
-            git push origin main
-          fi
-          
+          bash scripts/push-data-update.sh
+
           echo "Successfully updated site index!"
 
       - name: SuperGitHub Status Summary
