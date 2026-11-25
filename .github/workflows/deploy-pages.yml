@@ -10,6 +10,7 @@ on:
       - 'images/**'
       - 'assets/**'
       - 'fonts/**'
+      - 'growth/**'
       - 'blog/**'
       - 'files/**'
       - 'admin/**'
@@ -105,7 +106,9 @@ jobs:
           for attempt in 1 2 3 4 5 6; do
             if curl -fsS --max-time 15 -H 'Cache-Control: no-cache' "https://xie-l.github.io/deployment.json?verify=$expected-$attempt" -o /tmp/pages-marker.json &&
                python3 -c 'import json,sys; actual=json.load(open("/tmp/pages-marker.json")).get("commit"); print("Live revision:",actual); sys.exit(actual!=sys.argv[1])' "$expected" &&
-               curl -fsS --max-time 15 "https://xie-l.github.io/?verify=$expected" -o /tmp/live-index.html; then
+               curl -fsS --max-time 15 "https://xie-l.github.io/?verify=$expected" -o /tmp/live-index.html &&
+               curl -fsS --max-time 15 "https://xie-l.github.io/growth/?verify=$expected" -o /tmp/live-growth.html &&
+               grep -q "专业能力与科研创新工作台" /tmp/live-growth.html; then
               echo "Verified live revision: $expected" >> "$GITHUB_STEP_SUMMARY"
               exit 0
             fi
