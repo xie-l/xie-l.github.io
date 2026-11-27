@@ -2,11 +2,46 @@
   "tech": {
     "items": [
       {
+        "title": "The haunting loveliness of boglands: Books in brief",
+        "link": "https://www.nature.com/articles/d41586-026-03885-4",
+        "pubDate": "2026-11-27",
+        "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson reviews five of the best science picks.",
+        "title_cn": "沼泽地的迷人魅力：书摘"
+      },
+      {
+        "title": "Brain area’s mysterious role in speech decoded at last",
+        "link": "https://www.nature.com/articles/d41586-026-03800-x",
+        "pubDate": "2026-11-27",
+        "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03800-x Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also makes a crucial contribution to a related cognitive task.",
+        "title_cn": "大脑区域在言语中的神秘作用终于被揭示"
+      },
+      {
+        "title": "Life-saving cancer drug pumped out by a plant",
+        "link": "https://www.nature.com/articles/d41586-026-03801-w",
+        "pubDate": "2026-11-27",
+        "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+        "title_cn": "一种植物可分泌出救命的抗癌药物"
+      },
+      {
+        "title": "Postcards from your graves",
+        "link": "https://www.nature.com/articles/d41586-026-03523-z",
+        "pubDate": "2026-11-27",
+        "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03523-z A disastrous outcome.",
+        "title_cn": "来自你们坟墓的明信片"
+      },
+      {
+        "title": "Why the incoming US Congress should ban the development of self-improving AI",
+        "link": "https://www.nature.com/articles/d41586-026-03849-8",
+        "pubDate": "2026-11-27",
+        "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03849-8 Voters are demanding greater control over this new technology. Political leaders must respond by keeping humans in charge of AI development.",
+        "title_cn": "为何即将上任的美国国会应禁止开发自我改进型人工智能"
+      },
+      {
         "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
         "link": "https://www.nature.com/articles/s41586-026-11475-7",
         "pubDate": "2026-11-26",
         "description": "Nature, Published online: 26 November 2026; doi:10.1038/s41586-026-11475-7 Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C 2 H 4 signalling",
-        "title_cn": "编辑关切声明：C 2 H 4信号传导中分叉MAPK级联对核EIN3的双重调控"
+        "title_cn": "编辑关注意见：C 2 H 4信号传导中分叉MAPK级联对核EIN3的双重调控"
       },
       {
         "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
@@ -21,102 +56,102 @@
         "pubDate": "2026-11-26",
         "description": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh found it hard to manage grief and the demands of her work. Here are some steps that helped her to ease the burden.",
         "title_cn": "在学术界应对悲伤：找到平衡的方法"
-      },
-      {
-        "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
-        "link": "https://www.nature.com/articles/d41586-026-03875-6",
-        "pubDate": "2026-11-26",
-        "description": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.",
-        "title_cn": "人工智能是否刚刚破解了互联网加密？传闻中的“重磅炸弹”令科学家们大为震惊"
-      },
-      {
-        "title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
-        "link": "https://www.nature.com/articles/d41586-026-03828-z",
-        "pubDate": "2026-11-26",
-        "description": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.",
-        "title_cn": "印度尼西亚毁灭性野火过后，猩猩面临严峻的未来"
-      },
-      {
-        "title": "The leading cities in the world for high-quality research in 2025",
-        "link": "https://www.nature.com/articles/d41586-026-03468-3",
-        "pubDate": "2026-11-25",
-        "description": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03468-3 A decade of data on the top-performing science cities in the Nature Index.",
-        "title_cn": "2025年全球高质量研究领先城市"
-      },
-      {
-        "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
-        "link": "https://www.nature.com/articles/d41586-026-03853-y",
-        "pubDate": "2026-11-25",
-        "description": "Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03853-y Experts say the AI and human-written proofs will need careful checking — plus, the fallout from the COP31 climate conference.",
-        "title_cn": "传奇的黎曼猜想的双重证明令数学家们大为震惊"
-      },
-      {
-        "title": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
-        "link": "https://www.nature.com/articles/s41586-026-11465-9",
-        "pubDate": "2026-11-25",
-        "description": "Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11465-9 An in situ redox-converted molecule for all-perovskite tandem solar cells",
-        "title_cn": "用于全钙钛矿串联太阳能电池的原位氧化还原转化分子"
       }
     ],
     "source": "Nature",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "tech_cn": {
     "items": [
       {
-        "title": "腾讯混元发布 3D 生成大模型 Hy3D 3.6：面向专业 3D 创作",
-        "link": "https://www.ithome.com/1/033/282.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:44:56 GMT",
-        "description": "IT之家 11 月 27 日消息，腾讯混元今天（27 日）正式发布最新一代 3D 大模型 Hy3D 3.6。新版本面向专业 3D 创作，重点优化了高模和 PBR 材质贴图的生成能力。 腾讯混元表示，通过该模型生成的 几何表面整洁、结构清晰、高模刻画细腻，贴图质量也更高 ，可以为艺术家、建模师、技术美术和 3D 内容创作者提供高质量的 3D 资产。 Hy3D 3.6 作为原生 3D 生成模型，在训练阶段 直接“学习” 3D 资产中几何、纹理与材质的分布 ，让模型生成可以进入专业生产工作流的原生资产。 语言模型适合生成具有规则硬表面的 3D 资产、参数化零件和场景布局，尺寸可以精确修改，Hy3D "
+        "title": "魏牌高山右舵版车型在香港市场上市，今年第四季度还将登陆澳洲",
+        "link": "https://www.ithome.com/1/033/771.htm",
+        "pubDate": "Fri, 27 Nov 2026 15:04:07 GMT",
+        "description": "IT之家 11 月 27 日消息，在今天进行的 2026 广州车展中，魏牌宣布旗下魏牌高山右舵版（WEY G9）今日于香港市场正式上市。 据介绍，魏牌高山车型依托原生平台实现左舵与右舵版本同步开发，并根据不同地区的通行法规与用车习惯进行属地化适配。 此外魏牌还预热该车将于今年四季度登陆澳洲市场 。 规格方面，IT之家获悉该车尺寸为 5050mmx1985mmx1900mm，轴距 3085mm。车辆采用 1.5T 发动机 + 前后双电机插电混动，系统综合最大功率 442 马力、峰值扭矩 642 牛 · 米，匹配 44.28kWh 电池，NEDC 纯电续航 170km。"
       },
       {
-        "title": "微软承认 Win11 原生应用开发存在不足，WinUI 手写组件迟到约 4 年",
-        "link": "https://www.ithome.com/1/033/281.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:39:34 GMT",
-        "description": "IT之家 11 月 27 日消息，科技媒体 Windows Latest 今天（11 月 27 日）发布博文，报道称本月召开的 Ignite 2026 活动中， 微软承认 Windows 11 原生界面开发框架 WinUI 仍存在不少问题，且软件开发推进缓慢，某项缺失功能甚至花了 4 年时间才实现。 IT之家此前报道， 微软工程师 Beth Pan 承认 WinUI 开发体验糟糕 ，他表示团队已收到开发者反馈，WinUI 平台“存在很多小问题”，并且“有大量漏洞”。 该媒体在新博文中分享了最新案例，指出支持手写输入的 InkCanvas 画布， 从开发者首次提出需求到以实验版本形式提供，前后耗"
+        "title": "我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施",
+        "link": "https://www.ithome.com/1/033/770.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:58:15 GMT",
+        "description": "IT之家 11 月 27 日消息，据央视财经报道，11 月 27 日，中国工程院彭先觉院士团队在成都介绍 我国原创“Z 箍缩聚变裂变混合堆”供热示范堆工程初步规划 。 据介绍，Z 箍缩聚变裂变混合堆是我国科学家自主提出的一种将核聚变与核裂变相结合的技术方案。 根据规划， 工程拟分两个阶段实施 ，先开展聚变点火和核心工艺验证，再建设面向城市供热、工农业用热等需求的示范堆。 IT之家获悉，按照初步规划， 2026 年至 2030 年为核心技术攻关验证阶段 ，相关验证工作将依托由中国工程物理研究院流体物理所承建的“50MA 电磁驱动聚变大科学装置”开展。该装置已获国家发展改革委批复，计划于 2030"
       },
       {
-        "title": "深蓝汽车：2027 年华为引望星驰辅助驾驶开通订阅时，所有已售“AI 激光版”车辆免费 OTA 升级",
-        "link": "https://www.ithome.com/1/033/280.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:39:17 GMT",
-        "description": "IT之家 11 月 27 日现场消息，在 11 月 26 日晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统 。 深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版是行业首批搭载华为星驰驾驶辅助解决方案的车型。 在今日的 2026 广州车展上，邓承浩宣布，2027 年华为引望星驰辅助驾驶正式开通订阅时， 所有已售“AI 激光版”车辆均将免费 OTA 升级为星驰辅助驾驶解决方案 。“早买早享受，早买才免费。” 据介绍，这两台车是当前市面上唯一能体验星驰魅力的车型， 当前已经硬件预埋 "
+        "title": "华擎推出旗舰一体式液冷 Taichi AQUA 360 LCD：引入分体式设计",
+        "link": "https://www.ithome.com/1/033/769.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:48:46 GMT",
+        "description": "IT之家 11 月 27 日消息，华擎 (ASRock) 今日宣布推出旗舰级处理器液冷散热器 Taichi AQUA 360 LCD。该型号总体上来看属于一体式 (AIO) 类型，但又具备一些分体式的特质。 Taichi AQUA 360 LCD 采用双水泵结构 ，提供双倍流量和备份冗余；拥有 CIIR + EPDM 多层水冷管； 搭配 38mm 加厚高密度冷排 ；预装的吹排风扇采用 LCP 商业、双滚珠轴承。 其冷头既可 展现 ARGB 灯光映照下的透明水道 ，也可磁吸固定 3.4\" LCD 屏幕； 冷排预留标准 G1/4\" 进出水口 ，兼容分体液冷生态；设有水泵故障蜂鸣报警器；享受 6 年"
       },
       {
-        "title": "全球首款增程汉兰达来了：广汽丰田汉兰达 9X 官宣，携手华为、宁德时代打造",
-        "link": "https://www.ithome.com/1/033/279.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:35:51 GMT",
-        "description": "IT之家 11 月 27 日消息，在今天开幕的 2026 广州车展上，广汽丰田宣布，第五代丰田汉兰达将命名为汉兰达 9X，明年一季度全球首发。新车是丰田的首款增程车型及 全球首款增程汉兰达 ，并有华为乾崑智驾和鸿蒙座舱、与宁德时代联合定制电池方案的加持。 根据介绍，2027 年将是广汽丰田的产品大年，带来 2 款全新增程、2 款纯电改款、1 款混动换代 车型。不过截至IT之家发稿，新车外观暂未公布。 2025 年 6 月，广汽丰田宣布， 全新一代汉兰达、赛那将采用增程动力 ，并由中国工程师主导研发。广汽丰田还将把开发决策权移交给中方，彻底推行中国首席工程师制度，面向中国市场的车型由中国工程师主"
+        "title": "广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市",
+        "link": "https://www.ithome.com/1/033/768.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:40:45 GMT",
+        "description": "IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展。 广汽能源表示，截至 2026 年 11 月， 在补能网络建设上，广汽自营充电网络已覆盖 31 个省级行政区、240 个城市，自营充电站达 2563 座、自营充电桩突破 3.3 万根 。 广汽能源同时透露，公司目标到 2027 年底补能网络覆盖 300 个城市、2030 年构建十万充电终端的生态网。加速在县域、高速沿线及北方高寒地区布局，并推进兆瓦级 10C 超充桩升级。"
       },
       {
-        "title": "比亚迪仰望鼎曜•山河鼎韵限量版携手 U9 Xtreme 亮相 2026 广州车展",
-        "link": "https://www.ithome.com/1/033/275.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:34:08 GMT",
-        "description": "IT之家 11 月 27 日消息，在今日开幕的 2026 广州车展上，仰望鼎曜•山河鼎韵限量版、仰望 U9 Xtreme 两款超豪华车型正式亮相。 在展台上，仰望汽车回顾了此前仰望 U9X“地表最快量产车”在阿布扎比公共道路极速挑战上以 503.17km/h 的成绩再创全球极速新纪录，成为人类首款极速突破 500km/h 的量产车。 仰望汽车感谢阿布扎比官方的支持，为了这次测试，连夜调整出 10 公里路段，移除超过 3000 个反光标识、整平路面，才有了这条优质测试道，助力仰望 U9X 跑出 503km/h 极速纪录。 相关阅读： 《 比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 "
+        "title": "恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌",
+        "link": "https://www.ithome.com/1/033/767.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:38:10 GMT",
+        "description": "IT之家 11 月 27 日消息，恒大汽车今日在港交所发布公告称，公司于 2026 年 11 月 27 日接获联交所函件，联交所上市委员会已决定根据上市规则第 6.01A (1) 条取消公司上市地位， 原因是公司未能于 2026 年 9 月 30 日的复牌截止时间达成所有复牌指引。 根据上市规则第 2B 章，恒大汽车有权在除牌决定发出日期起计七个营业日内，将决定提交上市复核委员会复核。若公司决定不申请复核，股份的最后上市日期为 2026 年 12 月 11 日， 上市地位将自 2026 年 12 月 14 日上午 9 时起取消。 公告称，董事会正征询顾问意见，并考虑是否提出请求，将除牌决定提交"
       },
       {
-        "title": "京瓷将在 5 个财年内向半导体组件领域投资 8100 亿日元",
-        "link": "https://www.ithome.com/1/033/271.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:32:43 GMT",
-        "description": "IT之家 11 月 27 日消息，京瓷 (Kyocera) 当地时间昨日宣布了从现在到 2031 财年的中期经营战略，计划在这 5 个财年内向半导体组件领域投资 8,100 亿日元 （IT之家注：现汇率约合 339.33 亿元人民币） 。 京瓷预计，AI 光模块、AI 服务器 MLCC、半导体制造设备 3 个市场的规模将分别实现 19.1%、38.5%、14.7%。该企业将发挥自身在各类陶瓷技术（如陶瓷封装、MLCC 电容器）上的积累， 瞄准小尺寸高容量 MLCC、陶瓷基板等关键领域扩大营收规模 。 而在企业整体角度，京瓷目标到 2031 财年实现 2.6 万亿日元的年度营收，较 2026 财"
+        "title": "Origin Code 预告 Vortex Evo DDR5 内存模组，EXPO ULL 认证",
+        "link": "https://www.ithome.com/1/033/766.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:37:41 GMT",
+        "description": "IT之家 11 月 27 日消息，PC 内存模组品牌 Origin Code 今日宣布， 其第二代 Vortex DDR5 产品 Vortex Evo 即将开售 。 此次的首发配置为星陨黑配色的 24GB×2 套条，基于“特挑”SK 海力士 M-Die 和新款定制 PCB，选用支持大电流的 PMIC 芯片；此外其马甲采用无背胶结构，拥有金属激光雕刻风格外观，支持 RGB 折射灯效， 搭配卡扣式快转的金属扇框风扇 。 该 Vortex Evo 套条 通过 AMD EXPO ULL 认证 ，提供 6000MT/s CL26-35-35-66 1.45V 和 8000MT/s CL34-47-47-"
       },
       {
-        "title": "领克 900L 预售：定位 900V 旗舰大七座 SUV，30.98 万-36.98 万元",
-        "link": "https://www.ithome.com/1/033/264.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:26:49 GMT",
-        "description": "IT之家 11 月 27 日消息，在今天上午开幕的 2026 广州车展期间，领克 900L 正式开启预售。新车定位 900V 超级电混旗舰大七座 SUV，提供 320km（Halo、Ultra）和 430km（Ultra、Ultra+）两种续航共 4 种配置，价格区间为 32.98 万-38.98 万元， 先享提车价 30.98 万-36.98 万元 。 据IT之家了解，新车长宽高分别为 5280/1999/1810mm， 轴距 3170mm 。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。 其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，"
+        "title": "蔚来李斌：吉利汽车已经在规划和开发相关换电车型",
+        "link": "https://www.ithome.com/1/033/765.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:32:54 GMT",
+        "description": "IT之家 11 月 27 日消息，蔚来创始人、董事长、CEO 李斌在 2026 广州车展上接受每日经济新闻采访时透露， 吉利汽车已经在规划和开发相关换电车型 。 今年是我们运营换电站的第 8 年，基本做好了对外开放的准备。 面对换电业务开放合作话题，李斌直言，蔚来现在的换电业务是有限“开放”。“对蔚来来说， 建设换电网络并不是加入的企业越多越好 ，因为我们还是要为用户提供相比其他换电网络更好的体验。”李斌解释称。 吉利控股集团董事长李书福曾表示， 吉利完全认同换电模式 ，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新"
       },
       {
-        "title": "微软 Office 平替：Collabora Online 发现内存瘦身秘诀，内存占用最高直降 55%",
-        "link": "https://www.ithome.com/1/033/236.htm",
-        "pubDate": "Fri, 27 Nov 2026 03:15:17 GMT",
-        "description": "IT之家 11 月 27 日消息，科技媒体 NeoWin 昨日（11 月 26 日）发布博文，报道称伴随着 AI 的深度运用，开源社区涌现了大量微软 Office 平替项目，除了 WordCraft、GridCraft 和 DeckCraft，以及 Starling Office 之外， 最新 Collabora Online 项目宣布在内存占用方面取得巨大突破。 Collabora Online 是一款基于云端的在线办公套件，基于 LibreOffice 技术构建，作为 Microsoft 365 的可自托管替代方案，可以让用户在浏览器中创建、查看和多人实时编辑文字、表格、演示文稿及矢量绘图"
+        "title": "美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性",
+        "link": "https://www.ithome.com/1/033/764.htm",
+        "pubDate": "Fri, 27 Nov 2026 14:24:51 GMT",
+        "description": "IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号： 客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显 。这些变化都有利于真正具备经营实力的平台。 王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一步增强，背后是营销效率与运营效率的双重提升。 IT之家注意到，美团今日发布 2026 年第三季度业绩报告。三季度，美团实"
       }
     ],
     "source": "IT之家",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "energy_intl": {
     "items": [
+      {
+        "title": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better",
+        "link": "https://cleantechnica.com/2026/11/27/perovskite-solar-quantum-dots-lettuce-water-conservation-ubiqd/",
+        "pubDate": "Fri, 27 Nov 2026 15:17:54 +0000",
+        "description": "Greenhouse lettuce thrives under natural sunlight filtered through specialized glass from the perovskite solar startup UbiQD, while conserving water resources, too. The post The Proof Is In The Lettuce: Perovskite Makes Things Grow Better appeared first on CleanTechnica .",
+        "title_cn": "生菜就是明证：钙钛矿让植物长得更好"
+      },
+      {
+        "title": "Graph of the Day: The World Now Makes 7 Solar Panels for Every TV",
+        "link": "https://cleantechnica.com/2026/11/27/graph-of-the-day-the-world-now-makes-7-solar-panels-for-every-tv/",
+        "pubDate": "Fri, 27 Nov 2026 15:06:22 +0000",
+        "description": "In 2015, the world made six solar panels a second. In 2026, it’s on track to make ten times as many. At an Australian clean-energy conference in 2015 hosted by Renew Economy Disruption and the Energy Industry conference, I posed a simple test for the solar boom. If the world ... [continued] The post",
+        "title_cn": "每日图表：如今全球每生产7块太阳能电池板就生产1台电视机"
+      },
+      {
+        "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+        "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+        "pubDate": "Fri, 27 Nov 2026 04:57:21 +0000",
+        "description": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives. This could soon change thanks to the forthcoming European Competitiveness ",
+        "title_cn": "欧洲议会使欧盟在制定健全的投资政策方面又迈进了一步"
+      },
+      {
+        "title": "High-Flying Influencers",
+        "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
+        "pubDate": "Fri, 27 Nov 2026 04:53:00 +0000",
+        "description": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&#38;E. This study examines the environmental footprint of travel influencers, and the role they and soci",
+        "title_cn": "人气爆棚的网红"
+      },
+      {
+        "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
+        "link": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
+        "pubDate": "Fri, 27 Nov 2026 04:50:29 +0000",
+        "description": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers. Travel influencers have a disproportionate ",
+        "title_cn": "每年乘飞机超过7万公里：旅游网红正在透支他们的碳预算，并鼓励欧洲人也这样做"
+      },
       {
         "title": "Celebrating Cultures And Equity On Thanksgiving Day",
         "link": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
@@ -137,48 +172,27 @@
         "pubDate": "Thu, 26 Nov 2026 16:55:51 +0000",
         "description": "The Metals Company wants to recover polymetallic nodules from the seabed and sell the nickel, copper, cobalt and manganese they contain. That business needs an industrial processing system before its revenue projections become sales. TMC&#8217;s November 2026 update exposed the timing problem. Its p",
         "title_cn": "海底采矿存在价值数十亿美元的冶炼问题"
-      },
-      {
-        "title": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
-        "link": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
-        "pubDate": "Thu, 26 Nov 2026 14:49:46 +0000",
-        "description": "Millions of renters, apartment residents, and condo owners can’t put solar on a roof they don’t control. Plug-in solar, also called balcony solar or plug-in PV, offers a workaround: one or more panels connected through a microinverter to an ordinary wall outlet, with no roof work and, in a growing .",
-        "title_cn": "美国安全法规的插电式太阳能 UL 认证 — UL 3700 的规定和未规定内容"
-      },
-      {
-        "title": "Hybrids Are a Waypoint, Not the Destination",
-        "link": "https://cleantechnica.com/2026/11/25/hybrids-are-a-waypoint-not-the-destination/",
-        "pubDate": "Thu, 26 Nov 2026 00:41:15 +0000",
-        "description": "An earlier version of this article appeared in The Driven on 15 October 2026. This version has been revised and updated with the most recent registration data. By Ray Wills, Raphael Wellmann, and Peter Newman In January 2024, Toyota chairman Akio Toyoda said battery EVs would reach at most 30% ... [",
-        "title_cn": "混合动力汽车只是一个中转站，而不是终点"
-      },
-      {
-        "title": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs",
-        "link": "https://cleantechnica.com/2026/11/25/dte-energy-advances-new-michigan-solar-projects-to-create-jobs-save-customers-money-on-fuel-costs/",
-        "pubDate": "Thu, 26 Nov 2026 00:03:28 +0000",
-        "description": "The company launches a competitive bidding process for up to 150 megawatts of new Michigan solar energy. DTE Energy has announced plans to add up to 150 megawatts of new solar energy in Michigan, creating construction jobs, supporting local communities, and saving customers money on fuel costs. Beca",
-        "title_cn": "DTE Energy推进密歇根州新太阳能项目，以创造就业机会并为客户节省燃料成本"
-      },
-      {
-        "title": "Europe’s Solar Problem Is No Longer Solar",
-        "link": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
-        "pubDate": "Wed, 25 Nov 2026 23:51:55 +0000",
-        "description": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up. By Prof Ray Wills SolarPower Europe’s September mid-year assessment describes a familiar contradiction: solar is contributing more to energy security and affordability, yet weakening p",
-        "title_cn": "欧洲的太阳能问题不再是太阳能问题"
-      },
-      {
-        "title": "SC Solar Showcases at RE+ 2026 Garner Global Attention",
-        "link": "https://cleantechnica.com/2026/11/25/sc-solar-showcases-at-re-2026-garner-global-attention/",
-        "pubDate": "Wed, 25 Nov 2026 23:20:05 +0000",
-        "description": "Covering TOPCon, XBC, HJT, and Perovskite-Silicon Tandem Technologies; Over 1,000 Automated Module Lines Delivered Globally, More Than 40 in North America RE+ 2026 was held at the Las Vegas Convention Center from November 17 to 19. Driven by the U.S. IRA policy that fuels domestic PV capacity expans",
-        "title_cn": "SC Solar 在 RE+ 2026 上的展示吸引了全球关注"
       }
     ],
     "source": "CleanTechnica",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "energy": {
     "items": [
+      {
+        "title": "Molecular locking of lithium ions for improved efficiency and stability of perovskite solar cells",
+        "link": "https://www.nature.com/articles/s41560-026-02173-9",
+        "pubDate": "2026-11-27",
+        "description": "Nature Energy, Published online: 27 November 2026; doi:10.1038/s41560-026-02173-9 Spiro-OMeTAD is a common hole-transporting material in n–i–p perovskite solar cells but suffers from instabilities caused by mobile lithium dopant ions. Pan et al. incorporate a molecular locking additive in Spiro-OMeT",
+        "title_cn": "锂离子的分子锁定可提高钙钛矿太阳能电池的效率和稳定性"
+      },
+      {
+        "title": "Regulation of proton transference for stable and efficient reactive capture of CO 2 from air",
+        "link": "https://www.nature.com/articles/s41560-026-02158-8",
+        "pubDate": "2026-11-27",
+        "description": "Nature Energy, Published online: 27 November 2026; doi:10.1038/s41560-026-02158-8 Direct air capture integrated with electrosynthesis to produce fuels and chemicals is hindered by high energy consumption and limited operational lifetimes. Here the authors identify proton management as crucial for st",
+        "title_cn": "调控质子转移以实现从空气中稳定、高效地捕获反应性CO 2"
+      },
       {
         "title": "Contouring mitigates voiding at the lithium/ceramic electrolyte interface on discharging solid-state batteries",
         "link": "https://www.nature.com/articles/s41560-026-02172-w",
@@ -220,24 +234,10 @@
         "pubDate": "2026-11-11",
         "description": "Nature Energy, Published online: 11 November 2026; doi:10.1038/s41560-026-02182-8 Author Correction: Dynamic cycling enhances battery lifetime",
         "title_cn": "作者勘误：动态循环延长电池寿命"
-      },
-      {
-        "title": "An organic semiconductor-based photocatalyst sheet for overall solar-driven water splitting",
-        "link": "https://www.nature.com/articles/s41560-026-02160-0",
-        "pubDate": "2026-11-11",
-        "description": "Nature Energy, Published online: 11 November 2026; doi:10.1038/s41560-026-02160-0 Solar water splitting offers a route to renewable hydrogen, but developing photocatalyst sheets from scalable, solution-processable materials remains a challenge. Here the authors use underlayer engineering to build an",
-        "title_cn": "用于整体太阳能驱动水分解的有机半导体基光催化剂薄片"
-      },
-      {
-        "title": "Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
-        "link": "https://www.nature.com/articles/s41560-026-02181-9",
-        "pubDate": "2026-11-10",
-        "description": "Nature Energy, Published online: 10 November 2026; doi:10.1038/s41560-026-02181-9 Author Correction: Heat treatment in an oxygen-rich environment to suppress deep-level traps in Cu 2 ZnSnS 4 solar cell with 11.51% certified efficiency",
-        "title_cn": "作者勘误：在富氧环境中进行热处理以抑制Cu 2 ZnSnS 4太阳能电池中深能级陷阱，经认证效率为11.51%"
       }
     ],
     "source": "Nature Energy",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "energy_cn": {
     "items": [
@@ -284,14 +284,14 @@
         "description": "共探未来引擎丨未来能源：推进能源体系“质”的跃升 &nbsp;&nbsp; 新华网"
       },
       {
-        "title": "加强新能源领域合作！李屹立与中国能建天津电建党委书记、董事长许栋会谈 - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkeG4zcHd4cmFRSjM3ME85cmpqWVlrdEVyem51WTQ2WkdjY204TzdxSWE0ZE9jc0diSXl2VXA3YzhNQW5QNE9Md1ZRT1QyT2YxNmxycA?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 05:56:15 GMT",
-        "description": "加强新能源领域合作！李屹立与中国能建天津电建党委书记、董事长许栋会谈 &nbsp;&nbsp; 世纪新能源网"
+        "title": "重磅！中国华电集团领导层调整 - 世纪新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51YlV1VVNRQVpRMUpCUFBOc3h3Z2ZqUVAtYm5rM1dCSC1IRmw1YkZoMW0ySlJxSG1kcXRRR3RRdkpKUGpSank2R2xuOHpyanp3bVlJeg?oc=5",
+        "pubDate": "Wed, 25 Nov 2026 02:02:38 GMT",
+        "description": "重磅！中国华电集团领导层调整 &nbsp;&nbsp; 世纪新能源网"
       }
     ],
     "source": "Google新闻·能源",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "hydrogen": {
     "items": [
@@ -321,7 +321,7 @@
         "link": "https://fuelcellsworks.com/2026/11/26/h2/danish-hydrogen-companies-slam-government-s-2030-fuel-quota-as-too-weak-to-support-green-hydrogen-industry",
         "pubDate": "Thu, 26 Nov 2026 15:46:27 GMT",
         "description": "",
-        "title_cn": "丹麦氢能公司抨击政府的2030年燃料配额力度不足，无法为绿色氢能产业提供支持"
+        "title_cn": "丹麦氢能公司抨击政府的2030年燃料配额力度太小，不足以支持绿色氢能产业"
       },
       {
         "title": "Fraunhofer Develops Lightweight Hybrid Bipolar Plates for Fuel Cells",
@@ -353,7 +353,7 @@
       }
     ],
     "source": "Fuel Cells Works",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "papers": {
     "items": [
@@ -383,7 +383,7 @@
         "link": "https://arxiv.org/abs/2611.34869v1",
         "pubDate": "2026-11-25T18:34:18Z",
         "description": "Pinwheel Scheduling is a classical periodic scheduling problem, receiving as input the deadlines $d_i$ of $n$ tasks and asking for an infinite schedule with one task per time unit, such that every task $i$ is scheduled at least once in every $d_i$ time units. Holte, Mok, Rosier, Tulchinsky, and Varv",
-        "title_cn": "风车调度是 PSPACE-完全问题"
+        "title_cn": "风车调度是 PSPACE 完全问题"
       },
       {
         "title": "The oxygen cold trap in protoplanetary discs",
@@ -429,16 +429,10 @@
       }
     ],
     "source": "arXiv",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "policy_nea": {
     "items": [
-      {
-        "title": "国家能源局赴山东调研氢能企业 - 国际新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHUWxlcjFLSW5XekVTVmRNY3ZVYnNIeW9venZTTkwzN3dhdm1PQzRVNGZ0bWMwQ1pYeWpDN0l3Z2lrRk0xTlhiTS1RNjVuc2tqaHVVUlhwM0NheGNmclhSRE51SXVMWW8?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 02:03:53 GMT",
-        "description": "国家能源局赴山东调研氢能企业 &nbsp;&nbsp; 国际新能源网"
-      },
       {
         "title": "国家能源局召开能源领域氢能区域试点工作推进会 - 国家能源局",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81dzBrY2Ixb1JQTVh2VGFTb2NlVEVYYVZZR1R4dGIxenRiV0dqXzNROURDQ1hpSzl1cEZsSW40RjRmZjdCMzdFQzN2SDAxX1daWkZhY29oT25jbGltaFhVd29GRjFpektRQWhjc0xRN0FGUy1SSU5vbGxIZw?oc=5",
@@ -446,47 +440,65 @@
         "description": "国家能源局召开能源领域氢能区域试点工作推进会 &nbsp;&nbsp; 国家能源局"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRR2J2T2ljR19GSFVOUnQ4dlJmeTA1d19PY0JSbElvSlJrYmU3Q3g1RnVqbWphODVTaEtaYnNWWVZOb2ZDRlc3RmItZlRZX05adEFaWTQ5RmkxUU5Fb0NkZ3ZMLVNIYkhUWjVjNEhLZ05iVFNOZ0FERzd2dw?oc=5",
-        "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "title": "国家发改委国家能源局：积极探索氢储能等新能源非电消纳利用-氢能政策 - 国际氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CVkVWTUpmRVVlMGc4R0pkdEhERHI3MHFIOUV1aXh5ZEtMUm5kSklndjJRbXlaQlp0aXBaU3pNTG9NblNXcWgza1dETTlZV0RHbkVEVA?oc=5",
+        "pubDate": "Mon, 16 Nov 2026 01:57:00 GMT",
+        "description": "国家发改委国家能源局：积极探索氢储能等新能源非电消纳利用-氢能政策 &nbsp;&nbsp; 国际氢能网"
       },
       {
-        "title": "国家能源局新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BR0k1eXlBcWtoRmNkX0RCM01XQldKMUsxdGI1ZVNTREVMbDJZNHJjTS1oV1l5Ujl5MHZETHNlNjVzRXR3YWp2MHNaYVBReFR6SWtiaXR6R0VMWUVfRml1dTJCTzNkOE52MHRKMl9CY29VeENuaW9kbzRMRQ?oc=5",
-        "pubDate": "Fri, 30 Jan 2026 08:00:00 GMT",
-        "description": "国家能源局新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "title": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 - 国家能源集团",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGMxVDNycGZaMEJvMTBYSnNMdWN2OXVnek5hREp6dTFxOTloNGdXRG1vejJfQzVsUG1iMWdwcXJILXJUeUcwOGNqdG5lZXdkTmZFTUVBLUs1TmpjaVdPaVZNcE4tMERORE50T29yYWZ4dkNXRVJROVJWUWg0bGVjbVphQ1JWWEVldkQtY1pn?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "氢能公司参编的《中国氢能发展报告（2026）》正式发布 &nbsp;&nbsp; 国家能源集团"
       },
       {
-        "title": "国家能源局召开民营企业座谈会 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xQWl6Nm9HeW1RaXg5cTNoQWl3eTlYU3pGQXR3TzBHeEwtS3pNOXBIajZzdDd0b0lnN0ZKVi1zd0U0RUpVMlYwTnVyOFBTbjhpOWI2Sjc2RWRVMG41NTRLR2dZN2F2enlocFNELW5aSzg3N1BLRXhKT0FDZw?oc=5",
-        "pubDate": "Wed, 27 May 2026 07:00:00 GMT",
-        "description": "国家能源局召开民营企业座谈会 &nbsp;&nbsp; 国家能源局"
+        "title": "国家能源局：将重点抓好氢能产业七方面工作- 资讯 - 新能源网 - 弗戈工业在线",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VSk9paHJFVWh0N0QxTUJ1ZktCdFg3STB1akI4VWRxLTdlenhLUURPRThxZ0c0aGI2YTFMUGxnZElJRkJZd0NkMlpfdGMzUQ?oc=5",
+        "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+        "description": "国家能源局：将重点抓好氢能产业七方面工作- 资讯 - 新能源网 &nbsp;&nbsp; 弗戈工业在线"
       },
       {
-        "title": "一图读懂《中国氢能发展报告（2026）》 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xazk2QTRjNnk3ZlZNQmVqTTJBTUNXcDQwczhqYXZVYTltRTE3QTVSc29rU2ZkQmNRaGkxM3ZMT010dHJFbktwY3hlRklodldXVzZVRlJncWFiTU95alVvZEFvZmd3a3Q3NjFERnlKZVlKRGpaLWZ6N3VRdw?oc=5",
-        "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
-        "description": "一图读懂《中国氢能发展报告（2026）》 &nbsp;&nbsp; 国家能源局"
+        "title": "国家能源局副局长发文：2030 年可再生能源制氢规模目标达 200 万吨！ - 碳索氢能网",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GQ2NJVkgwYlJKeFVobmlvUG5XbFdDNlpoOC1lUHc2VVpZT0pmb3RXaUwzSFk3RGE5Y2RuNHUyOGs1LU84aG1qb1lUZGM0bDB4Q1pCMUZfUHNneHEyaUpV?oc=5",
+        "pubDate": "Tue, 10 Nov 2026 00:58:02 GMT",
+        "description": "国家能源局副局长发文：2030 年可再生能源制氢规模目标达 200 万吨！ &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "国家能源局2025年二季度新闻发布会文字实录 - 国家能源局",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82cWNzdHh2ZWhFRE0xeDBvT2FpZ1FUdmhnZmVIalNyWmY3S05VVUd5emJDaS1PMk9MZGlDLVEzcVNRQkUwNEJkZEJKWDd3UWdqUEtfdVdTR2FuNnFEU3luVDJkTVhVSmlHQTVpb1B2VG1MYVkzOWtmY3hLQQ?oc=5",
-        "pubDate": "Mon, 28 Apr 2025 07:00:00 GMT",
-        "description": "国家能源局2025年二季度新闻发布会文字实录 &nbsp;&nbsp; 国家能源局"
+        "title": "国家能源局副局长宋宏坤：氢能将成为新能源增量发展与传统产业转型的重要支撑 - ThePaper.cn",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PNFF4RGtJMU5aaXZfZ281Wlo3a0ZTVnY2b18teU1VUkJUY01QbC04UmU2WDVJMzVCYzFXX0xXN2J2WmJyYjhvWVp1bHVENVBZWUlJZ0s0UHkwUFdpVEVPYw?oc=5",
+        "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+        "description": "国家能源局副局长宋宏坤：氢能将成为新能源增量发展与传统产业转型的重要支撑 &nbsp;&nbsp; ThePaper.cn"
       },
       {
-        "title": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 - 中国能源新闻网",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYzI3NjZubWxQQWlzLWRPeGxLLXlmLWxGY0pXQ2J5dUlIZHluZW93RHR1dDZRM1lGVFdlZEliT2dTVTBKaTNtWW1sN1dhMWU5RFNNREk4Ym50Y05GWlh1Z0NvNVZHUnlUeVE0OGYtRDI?oc=5",
-        "pubDate": "Mon, 27 Oct 2025 07:00:00 GMT",
-        "description": "国家能源局：坚持在新型能源体系下谋划推动氢能发展 &nbsp;&nbsp; 中国能源新闻网"
+        "title": "全球氢能产业平稳增长 中国绿氢产能占比过半 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU9QSzBYZ0k4bDlrRWhEb3BxVTRkRWJYZHNsYnR2LXZfWmkzb3Rfci1HTURqOHctelo5d0lENlQ0ZzFuVENoZm5VVkp0Q3YwcVBKRTB6QUR5TWdIRHhiRW9yc1pWOXJ1cEd1RFlIbEswaG9oZGxQTTZEZE44UE4zb0pR?oc=5",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "description": "全球氢能产业平稳增长 中国绿氢产能占比过半 &nbsp;&nbsp; 人民日报"
+      },
+      {
+        "title": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 - 财联社",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAySWZBcE1vQW5XcjdtaWk0VjRoUzJQNm5XRDI4bEZoYzdFYVVKcmhVLXJBUmNNSFJfelVrV280T2ljLXJvdHhrMg?oc=5",
+        "pubDate": "Fri, 30 Jan 2026 07:04:07 GMT",
+        "description": "国家能源局开年首个发布会！氢能成“十五五”主攻方向 2025年产能已翻番 &nbsp;&nbsp; 财联社"
       }
     ],
     "source": "国家能源局",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   },
   "policy_ndrc": {
     "items": [
+      {
+        "title": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 - 安全内参",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBNlRYUU1POGlUTGJqamNqUV9vcmw3NUt2ZEhIUzJ4QzZRVnNOWnU0Q2dja3VnUGpWajJoWGhHNDNITFh0VHR2RDlZazI3QQ?oc=5",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "description": "国家发改委、国家能源局印发《新型电力系统建设“十五五”规划》 &nbsp;&nbsp; 安全内参"
+      },
+      {
+        "title": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TbXBCNUxHbHlNTmxXR2UwRFBPZ0FpMzFGYmYyb0JJYk1pSnlKbDNCam5UOV9OYXllTGRzdXdGem1rWFJ3SmZIekh6ZmZzUUtKX2x4Zy05ZHdPYTBjSXc?oc=5",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "description": "绿电一步直达工厂车间零碳园区、算力设施用电将更便宜- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+      },
       {
         "title": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 - 碳索氢能网",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EUGR3cEs0b1pkMV84cWJNUXYzRU5LVEtFd3J0RVFBRjJzTnNLOEVXUVZldHhqcGppQ2Y5TUlhbDZwWFB3aW9OWFhuenNCZ0M5Vmg2VDV3S01zaWJid2RN?oc=5",
@@ -494,37 +506,37 @@
         "description": "重磅！发改委、能源局：2030年绿氢规模达到200万吨 &nbsp;&nbsp; 碳索氢能网"
       },
       {
-        "title": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 - 中华人民共和国国家发展和改革委员会",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zeEJNZm1XOFNjRDhDRjZJTktIZUpleTFDQ19wc1ZfRFNLdjdSY0F0eTVqX1I1U0toc3pOVFpPNUJQVzRscjZPODhySm8zOGMtakpKS0xiWURqS0RiQXVOd3hGcWFtek1QZ3F5TnBJWW80VFd2MjBCRjY4Slo?oc=5",
-        "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT",
-        "description": "王昌林副主任出席国新办介绍“十五五”时期推动经济社会高质量发展有关情况新闻发布会并答记者问 &nbsp;&nbsp; 中华人民共和国国家发展和改革委员会"
+        "title": "绿电直连进入“一对多”共享时代 - 人民日报",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaEUzMWJvSmpCM1ppQ0gzRWRkbU12cDRoQVpqZU5KalFla1FDV0Y1U2d0LUI3ekdCRHozQWZEbEdTU2VMY3pBcTVoWmVpdmNiZVZzYi1oNFNwVS1sZW9xVXJkcnFaZVZ4ektyYWJwa2dGM2t3MXFaZ2RyakRwbmJ4WV93?oc=5",
+        "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
+        "description": "绿电直连进入“一对多”共享时代 &nbsp;&nbsp; 人民日报"
       },
       {
-        "title": "可再生能源“消费+消纳”责任顶层制度出台 - 人民日报",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNm4wczBsU1NMSzI1NnFqOS13b0xCZG1WWi01c0diMmZ6R2J1OXJJcTR1aGNoLTlXaVBEVm02WUNmRmhBdnd0N3BETXVoeWUwMmF3THUxNzBYY0ZPR2Y1X1pYUkdmOUliNGxmM0tWbU5xQUhXanBkdl9xTGotcWFUVEVR?oc=5",
-        "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "description": "可再生能源“消费+消纳”责任顶层制度出台 &nbsp;&nbsp; 人民日报"
+        "title": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 - 国际新能源网",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PZVl2TGxsM1NlVmkzUGRhbVkwVTFFSEkwYm1faGJMRkcwMmhMNjQ0ZzdKX21MdTZCNGJnYVFwalFwVWpXUE95azJydGp2S2JhVzh0TXVNOHJzcXptZkJtek1QY2hvNFZy?oc=5",
+        "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+        "description": "国家发改委、能源局正式批准！强调充分挖掘新能源消纳空间 &nbsp;&nbsp; 国际新能源网"
       },
       {
-        "title": "浙江首批零碳园区建设加快推进——绿电跑进来 工厂焕新颜 - 地方频道",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONFdaYVpMRWZBOXByVUlOVUNYN21qQ0dPQ2FHb3luNjhGSlc4VjlvMFZEa0N5VWg4U0tIdWFkaFRvRXczb1FDSC1HZXBFZHpQY0NhLUItRXl4MVQ2Y3dvQjJka1NyTmxHSFE?oc=5",
-        "pubDate": "Tue, 24 Nov 2026 08:14:05 GMT",
-        "description": "浙江首批零碳园区建设加快推进——绿电跑进来 工厂焕新颜 &nbsp;&nbsp; 地方频道"
+        "title": "发改委688号文！有序推动多用户绿电直连发展！ - 新浪财经",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Q1pxVjctTFAzRkNPdzJkSGZnc3ZuX2k5bGFLN1NXM3ZxbkFnaDFUdXQ2RHQtMGk0dnh4ZmtFM21oWUx2amZlckhxT0pUT250Qmt1WG9FRXEwVWhHOTBtSkN5TnI1UGI5ZS1Ccnk4VGRKUER0Ykd2MA?oc=5",
+        "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+        "description": "发改委688号文！有序推动多用户绿电直连发展！ &nbsp;&nbsp; 新浪财经"
       },
       {
-        "title": "汉伏能源携手以色列Sadot Energy，加速布局中东分布式光伏市场_世纪新能源网-光伏储能风电氢能电力行业门户Century New Energy Network https://www.ne - 世纪新能源网",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1neEtmdlM3MTBYQk1sQzNIbm1CazcybVM0Nm40ZnYxMzN5WUEzNlZaZTVpajFtNU1nVXExanpRRXN3ZzAtazM0N21ReFBoZERrcmRxUg?oc=5",
-        "pubDate": "Thu, 26 Nov 2026 15:42:37 GMT",
-        "description": "汉伏能源携手以色列Sadot Energy，加速布局中东分布式光伏市场_世纪新能源网-光伏储能风电氢能电力行业门户Century New Energy Network https://www.ne &nbsp;&nbsp; 世纪新能源网"
+        "title": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” - 新京报",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pc25KeDlSQXNkNUJDZDdvNkhwOTF3MjJsWXNDX0YxZi0wYUQxS2oxMjV1U3VaNWtwcHVqNnYzc0N5c0tIWGtnajlPRVBqWUV4eEhLTE91ZXRFbUM3ZzNZY3FB?oc=5",
+        "pubDate": "Tue, 10 Feb 2026 08:00:00 GMT",
+        "description": "全国超50项目获批，绿电直连正从“能源供给”走向“产业磁石” &nbsp;&nbsp; 新京报"
       },
       {
-        "title": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 - 国家数据局",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOEZLYkttRFpLR2hXYWZvcTVCdWJES2RBZ2xZWUNtNmN2bWRfZU9KczE0TkxFSHNBQWk4Qm9vUXBSS29YQkcyNkIwMG5tdjUzRklmRWNzLWt4ZXZBRGNVM2tNa1ZiR21Xa0xZTlE3YU5hck92UmVVczNnWTRNZw?oc=5",
-        "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
-        "description": "国家发展改革委 国家能源局关于推进“人工智能+”能源高质量发展的实施意见 &nbsp;&nbsp; 国家数据局"
+        "title": "国家终于启动绿氢氨醇SAF国内市场了 - 维科号",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04ZnFqV2NPd0xMY0EzNWMzN1pxNFBIX0U5WFB2aENmSWx5LVBEeHJRTjRUZjhlaU5vNlpRQnVnZUYzSTNyLS15WEhreHRjZkNiajZLUUhoNA?oc=5",
+        "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+        "description": "国家终于启动绿氢氨醇SAF国内市场了 &nbsp;&nbsp; 维科号"
       }
     ],
     "source": "发改委政策",
-    "updated": "2026-11-27 04:14 UTC"
+    "updated": "2026-11-27 17:26 UTC"
   }
 }
