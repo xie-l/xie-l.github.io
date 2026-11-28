@@ -2,50 +2,43 @@
   "Beijing": {
     "name": "北京",
     "current": {
-      "temp": 7,
-      "icon": "☀️",
-      "desc": "晴"
+      "temp": 2,
+      "icon": "🌤️",
+      "desc": "晴间多云"
     },
     "daily": [
-      {
-        "date": "2026-11-28",
-        "icon": "🌤️",
-        "desc": "晴间多云",
-        "max": 9,
-        "min": 1
-      },
       {
         "date": "2026-11-29",
         "icon": "☁️",
         "desc": "阴",
-        "max": 6,
-        "min": -1
+        "max": 7,
+        "min": 0
       },
       {
         "date": "2026-11-30",
         "icon": "🌤️",
         "desc": "晴间多云",
-        "max": 15,
+        "max": 16,
         "min": -2
       },
       {
         "date": "2026-12-01",
         "icon": "☁️",
         "desc": "阴",
-        "max": 9,
+        "max": 8,
         "min": 2
       },
       {
         "date": "2026-12-02",
-        "icon": "🌦️",
-        "desc": "小雨",
-        "max": 7,
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 8,
         "min": 0
       },
       {
         "date": "2026-12-03",
-        "icon": "🌦️",
-        "desc": "小雨",
+        "icon": "☁️",
+        "desc": "阴",
         "max": 9,
         "min": 2
       },
@@ -54,45 +47,45 @@
         "icon": "☁️",
         "desc": "阴",
         "max": 9,
+        "min": 1
+      },
+      {
+        "date": "2026-12-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 6,
         "min": 4
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   },
   "Shanghai": {
     "name": "上海",
     "current": {
-      "temp": 13,
-      "icon": "☁️",
-      "desc": "阴"
+      "temp": 6,
+      "icon": "☀️",
+      "desc": "晴"
     },
     "daily": [
-      {
-        "date": "2026-11-28",
-        "icon": "☁️",
-        "desc": "阴",
-        "max": 14,
-        "min": 6
-      },
       {
         "date": "2026-11-29",
         "icon": "☀️",
         "desc": "晴",
-        "max": 14,
+        "max": 15,
         "min": 3
       },
       {
         "date": "2026-11-30",
         "icon": "☀️",
         "desc": "晴",
-        "max": 20,
-        "min": 9
+        "max": 21,
+        "min": 8
       },
       {
         "date": "2026-12-01",
-        "icon": "🌤️",
-        "desc": "晴间多云",
+        "icon": "⛅",
+        "desc": "多云",
         "max": 23,
         "min": 10
       },
@@ -100,53 +93,53 @@
         "date": "2026-12-02",
         "icon": "☁️",
         "desc": "阴",
-        "max": 22,
-        "min": 15
+        "max": 23,
+        "min": 16
       },
       {
         "date": "2026-12-03",
-        "icon": "🌦️",
-        "desc": "小雨",
-        "max": 23,
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 24,
         "min": 14
       },
       {
         "date": "2026-12-04",
         "icon": "🌦️",
         "desc": "小雨",
-        "max": 23,
+        "max": 22,
         "min": 14
+      },
+      {
+        "date": "2026-12-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 29,
+        "min": 17
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   },
   "Nanchang": {
     "name": "南昌",
     "current": {
-      "temp": 18,
+      "temp": 12,
       "icon": "☀️",
       "desc": "晴"
     },
     "daily": [
       {
-        "date": "2026-11-28",
-        "icon": "☀️",
-        "desc": "晴",
-        "max": 21,
-        "min": 10
-      },
-      {
         "date": "2026-11-29",
         "icon": "☀️",
         "desc": "晴",
-        "max": 18,
+        "max": 19,
         "min": 10
       },
       {
         "date": "2026-11-30",
-        "icon": "🌫️",
-        "desc": "雾",
+        "icon": "☀️",
+        "desc": "晴",
         "max": 22,
         "min": 9
       },
@@ -161,62 +154,62 @@
         "date": "2026-12-02",
         "icon": "🌧️",
         "desc": "中雨",
-        "max": 18,
-        "min": 13
+        "max": 19,
+        "min": 12
       },
       {
         "date": "2026-12-03",
-        "icon": "🌫️",
-        "desc": "雾",
-        "max": 21,
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 23,
         "min": 14
       },
       {
         "date": "2026-12-04",
+        "icon": "🌦️",
+        "desc": "小雨",
+        "max": 26,
+        "min": 15
+      },
+      {
+        "date": "2026-12-05",
         "icon": "☁️",
         "desc": "阴",
-        "max": 26,
-        "min": 14
+        "max": 28,
+        "min": 21
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   },
   "Xining": {
     "name": "西宁",
     "current": {
-      "temp": 6,
+      "temp": -1,
       "icon": "☀️",
       "desc": "晴"
     },
     "daily": [
       {
-        "date": "2026-11-28",
-        "icon": "🌤️",
-        "desc": "晴间多云",
-        "max": 11,
-        "min": -3
-      },
-      {
         "date": "2026-11-29",
         "icon": "🌤️",
         "desc": "晴间多云",
-        "max": 12,
+        "max": 11,
         "min": -4
       },
       {
         "date": "2026-11-30",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 8,
-        "min": -3
+        "icon": "🌤️",
+        "desc": "晴间多云",
+        "max": 7,
+        "min": -2
       },
       {
         "date": "2026-12-01",
         "icon": "☁️",
         "desc": "阴",
-        "max": 10,
-        "min": -3
+        "max": 11,
+        "min": -2
       },
       {
         "date": "2026-12-02",
@@ -227,98 +220,98 @@
       },
       {
         "date": "2026-12-03",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 11,
-        "min": -3
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 9,
+        "min": -5
       },
       {
         "date": "2026-12-04",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 10,
-        "min": -3
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 11,
+        "min": -2
+      },
+      {
+        "date": "2026-12-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 12,
+        "min": -2
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   },
   "Harbin": {
     "name": "哈尔滨",
     "current": {
-      "temp": -7,
+      "temp": -11,
       "icon": "☀️",
       "desc": "晴"
     },
     "daily": [
       {
-        "date": "2026-11-28",
-        "icon": "☁️",
-        "desc": "阴",
-        "max": -6,
-        "min": -13
-      },
-      {
         "date": "2026-11-29",
-        "icon": "☁️",
-        "desc": "阴",
+        "icon": "🌨️",
+        "desc": "小雪",
         "max": 1,
-        "min": -13
+        "min": -11
       },
       {
         "date": "2026-11-30",
         "icon": "☁️",
         "desc": "阴",
         "max": 3,
-        "min": -8
+        "min": -7
       },
       {
         "date": "2026-12-01",
-        "icon": "🌤️",
-        "desc": "晴间多云",
+        "icon": "⛅",
+        "desc": "多云",
         "max": -2,
-        "min": -10
+        "min": -8
       },
       {
         "date": "2026-12-02",
         "icon": "☁️",
         "desc": "阴",
-        "max": -2,
-        "min": -11
+        "max": -1,
+        "min": -9
       },
       {
         "date": "2026-12-03",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": -2,
-        "min": -12
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -4,
+        "min": -11
       },
       {
         "date": "2026-12-04",
         "icon": "🌨️",
-        "desc": "小雪",
-        "max": -6,
-        "min": -16
+        "desc": "阵雪",
+        "max": -2,
+        "min": -14
+      },
+      {
+        "date": "2026-12-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": -8,
+        "min": -17
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   },
   "Yinchuan": {
     "name": "银川",
     "current": {
-      "temp": 3,
+      "temp": -3,
       "icon": "☀️",
       "desc": "晴"
     },
     "daily": [
-      {
-        "date": "2026-11-28",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 6,
-        "min": -5
-      },
       {
         "date": "2026-11-29",
         "icon": "🌤️",
@@ -331,38 +324,45 @@
         "icon": "⛅",
         "desc": "多云",
         "max": 10,
-        "min": -2
+        "min": -1
       },
       {
         "date": "2026-12-01",
         "icon": "☁️",
         "desc": "阴",
         "max": 10,
-        "min": -3
+        "min": -2
       },
       {
         "date": "2026-12-02",
         "icon": "☁️",
         "desc": "阴",
         "max": 11,
-        "min": -2
+        "min": -1
       },
       {
         "date": "2026-12-03",
-        "icon": "⛅",
-        "desc": "多云",
-        "max": 12,
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 10,
         "min": -3
       },
       {
         "date": "2026-12-04",
         "icon": "☁️",
         "desc": "阴",
-        "max": 9,
-        "min": -1
+        "max": 12,
+        "min": 0
+      },
+      {
+        "date": "2026-12-05",
+        "icon": "☁️",
+        "desc": "阴",
+        "max": 10,
+        "min": -2
       }
     ],
     "source": "Open-Meteo",
-    "updated": "2026-11-28 03:59 UTC"
+    "updated": "2026-11-28 16:18 UTC"
   }
 }
